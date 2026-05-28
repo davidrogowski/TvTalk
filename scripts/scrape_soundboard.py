@@ -194,11 +194,20 @@ def _to_sentence_case(text: str) -> str:
     return re.sub(r"\bi\b", "I", result)
 
 
+_NWORD_RE = re.compile(r"\bnigg[a-z]*\b", re.IGNORECASE)
+
+
+def _censor_nword(text: str) -> str:
+    """Blur the n-word (and its variants/plurals): keep the first letter, star the rest."""
+    return _NWORD_RE.sub(lambda m: m.group(0)[0] + "*" * (len(m.group(0)) - 1), text)
+
+
 def fetch_sounds(
     board_url: str,
     *,
     exclude_prefix: str = "",
     case_style: str = "preserve",
+    censor_nword: bool = False,
 ) -> list[tuple[str, str]]:
     """Fetch a board's sounds via the JSON API. Returns [(mp3_url, transcript), ...]."""
     m = _BOARD_ID_RE.search(board_url)
@@ -229,6 +238,8 @@ def fetch_sounds(
             continue
         if case_style == "fix_all_caps":
             transcript = _to_sentence_case(transcript)
+        if censor_nword:
+            transcript = _censor_nword(transcript)
         clips.append((url, transcript))
     return clips
 
@@ -345,18 +356,23 @@ def write_quotes_js(quotes_path: Path, entries: list[dict], show_id: str) -> Non
 # ---------- Scrape orchestration ----------
 
 def scrape_board(
-    board_urls: list[str],
+    board_specs: list[tuple[str, int, int]],
     out_dir: Path,
     show_id: str,
-    min_words: int,
-    max_words: int,
     *,
     exclude_prefix: str = "",
     case_style: str = "preserve",
     dedup_transcripts: bool = False,
     preserve_transcripts: bool = False,
+    censor_nword: bool = False,
 ) -> dict:
-    """Scrape one or more boards into out_dir. Returns a stats dict."""
+    """
+    Scrape one or more boards into out_dir. Returns a stats dict.
+
+    `board_specs` is a list of (url, min_words, max_words) — each board carries
+    its own length filter, so a merge can keep all of one board while trimming
+    short clips from another.
+    """
     out_dir.mkdir(parents=True, exist_ok=True)
     transcripts_path = out_dir / "transcripts.txt"
     quotes_path = out_dir / "quotes.js"
@@ -366,12 +382,14 @@ def scrape_board(
 
     seen: set[str] = set()
     seen_transcripts: set[str] = set()
-    clips: list[tuple[str, str, bool]] = []
+    clips: list[tuple[str, str, bool, int, int]] = []
     dropped_dupes = 0
-    for url in board_urls:
+    for url, bmin, bmax in board_specs:
         print(f"Fetching {url}")
         url_is_legacy = is_legacy_board(url)
-        for mp3_url, transcript in fetch_sounds(url, exclude_prefix=exclude_prefix, case_style=case_style):
+        for mp3_url, transcript in fetch_sounds(
+            url, exclude_prefix=exclude_prefix, case_style=case_style, censor_nword=censor_nword
+        ):
             key = mp3_url.split("?")[0]
             if key in seen:
                 continue
@@ -384,8 +402,8 @@ def scrape_board(
                     continue
                 seen_transcripts.add(tkey)
             seen.add(key)
-            clips.append((mp3_url, transcript, url_is_legacy))
-    summary = f"Found {len(clips)} unique clips across {len(board_urls)} board(s)."
+            clips.append((mp3_url, transcript, url_is_legacy, bmin, bmax))
+    summary = f"Found {len(clips)} unique clips across {len(board_specs)} board(s)."
     if dropped_dupes:
         summary += f" (deduped {dropped_dupes} repeat transcript(s))"
     print(summary + "\n")
@@ -394,13 +412,13 @@ def scrape_board(
     newly_downloaded: list[tuple[Path, bool]] = []
     downloaded = skipped_existing = skipped_length = 0
 
-    for i, (mp3_url, transcript, from_legacy) in enumerate(clips, 1):
+    for i, (mp3_url, transcript, from_legacy, cmin, cmax) in enumerate(clips, 1):
         # Filename is derived from the original API transcript so it stays stable
         # across re-runs even when preserve_transcripts swaps in hand-edited text.
         filename = safe_filename(transcript, mp3_url, i)
         display_transcript = existing_transcripts.get(filename, transcript)
 
-        if not passes_length(display_transcript, min_words, max_words):
+        if not passes_length(display_transcript, cmin, cmax):
             skipped_length += 1
             continue
 
@@ -492,7 +510,7 @@ def main() -> None:
         board_url = args.positional[0]
         out_dir = Path(args.positional[1]) if len(args.positional) > 1 else REPO_ROOT / "soundboard_output"
         show_id = out_dir.name
-        scrape_board([board_url], out_dir, show_id, args.min_length, args.max_length)
+        scrape_board([(board_url, args.min_length, args.max_length)], out_dir, show_id)
         return
 
     # Config-driven mode
@@ -525,19 +543,31 @@ def main() -> None:
         if not url:
             print(f"skip {sid}: no board_url", file=sys.stderr)
             continue
-        urls = [url]
-        if s.get("board_url_2"):
-            urls.append(s["board_url_2"])
+
         def _flag(key: str) -> bool:
             raw = s.get(key, False)
             return raw is True or str(raw).strip().lower() in ("true", "yes", "1")
 
+        def _int(key: str, default: int) -> int:
+            try:
+                return int(s.get(key))
+            except (TypeError, ValueError):
+                return default
+
+        # Per-board length filters. Board 1 falls back to the CLI args; board 2
+        # falls back to board 1's values, so a merge can filter each board differently.
+        b1_min, b1_max = _int("min_length", args.min_length), _int("max_length", args.max_length)
+        specs = [(url, b1_min, b1_max)]
+        if s.get("board_url_2"):
+            specs.append((s["board_url_2"], _int("min_length_2", b1_min), _int("max_length_2", b1_max)))
+
         scrape_board(
-            urls, AUDIO_ROOT / sid, sid, args.min_length, args.max_length,
+            specs, AUDIO_ROOT / sid, sid,
             exclude_prefix=s.get("exclude_prefix", ""),
             case_style=s.get("case_style", "preserve"),
             dedup_transcripts=_flag("dedup"),
             preserve_transcripts=_flag("preserve_transcripts"),
+            censor_nword=_flag("censor_nword"),
         )
 
 

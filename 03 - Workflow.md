@@ -81,7 +81,14 @@ Optional per-show fields (add any that apply):
     exclude_prefix: "CAPTIONING MADE"    # drop clips whose transcripts start with this prefix (case-insensitive)
     dedup: true                          # drop clips whose transcript repeats one already kept (same line, different audio file)
     preserve_transcripts: true           # keep hand-edited transcript text in transcripts.txt across re-scrapes (for boards with bad/smushed captions)
+    censor_nword: true                   # blur the n-word in captions: keep first letter, star the rest (e.g. n*****)
+    min_length: 6                        # per-show word-count floor (overrides the --min-length default of 1)
+    max_length: 9999                     # per-show word-count ceiling (overrides the --max-length default of 25; use a big number to keep everything)
+    min_length_2: 6                      # board_url_2 only: its own floor (falls back to min_length)
+    max_length_2: 9999                   # board_url_2 only: its own ceiling (falls back to max_length)
 ```
+
+**Per-board length filters (`min_length`/`max_length` + `_2`):** length limits can live in `shows.yaml` so they survive re-scrapes (no need to remember a CLI flag). `min_length`/`max_length` apply to `board_url`; `min_length_2`/`max_length_2` apply to `board_url_2` and fall back to the board-1 values. This lets a merge keep *all* of one board while trimming short clips from another (e.g. Django: board 1 keeps everything, board 2 omits captions of ≤5 words). CLI `--min-length`/`--max-length` still set the default when the yaml fields are absent.
 
 **Fixing bad captions (`preserve_transcripts`):** the scraper normally re-fetches every transcript from the API on each run, so hand-edits to `transcripts.txt` get overwritten. If a board's captions are garbage (e.g. words run together with no spaces — `"Canisayfirst"`), set `preserve_transcripts: true`, then: scrape once (downloads audio + writes the bad transcripts), hand-fix the quoted transcript lines in `audio/<id>/transcripts.txt` (leave the `.mp3` filename lines untouched — filenames stay keyed to the original API text), then re-run the scraper to regenerate `quotes.js` from your corrected text. Your edits now survive future re-scrapes.
 

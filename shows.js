@@ -21814,15 +21814,15 @@ const shows = [
       "accent": "#c2a05a",
       "bg": "#06090a"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
-        "text": "Bears have been known to attack man. although the fact is that fewer people have been killed by bears than in all of World War I and World War II combined Brown bears loves fishing. Brown Brown bears bloves. God why am I having so much trouble saying brown. Maybe it's the two B's in brown bears Try something different. I got it I'm ready Okay. Red bears love fish. Pete you're late for your meeting with Lawson down at K PIP. Deb we're in the middle of a recording session. so every fucking...",
+        "text": "Bears vs both World Wars",
         "character": "",
         "audioUrl": "audio/strange-wilderness/001_bears_have_been_known_to_attack_man_although_the_fact_is_tha.mp3"
       },
       {
-        "text": "Bill I need you to take an inventory of everything that's left okay Go now. Okay We got one sleeping bag. so I think we're pretty much fucked",
+        "text": "One sleeping bag",
         "character": "",
         "audioUrl": "audio/strange-wilderness/002_bill_i_need_you_to_take_an_inventory_of_everything_that_s_le.mp3"
       },
@@ -21837,102 +21837,102 @@ const shows = [
         "audioUrl": "audio/strange-wilderness/004_does_your_name_ever_get_hard_in_the_morning.mp3"
       },
       {
-        "text": "Does your name ever shrink if you go in cold water.",
+        "text": "Shrinks in cold water",
         "character": "",
         "audioUrl": "audio/strange-wilderness/005_does_your_name_ever_shrink_if_you_go_in_cold_water.mp3"
       },
       {
-        "text": "Gaulke how many times have we told you. you can't shoot without a permit You've got a 500 fine coming. Now pack up your stuff and leave the forest. By the way this is fire season. Smokey the Bear says Put out the bong.",
+        "text": "Put out the bong",
         "character": "",
         "audioUrl": "audio/strange-wilderness/006_gaulke_how_many_times_have_we_told_you_you_can_t_shoot_witho.mp3"
       },
       {
-        "text": "Hang on people I am picking up an underwater bubbling sound. I'm not sure what it is but I mean it is bubbling furiously. Junior knock it off.",
+        "text": "Underwater bubbling sound",
         "character": "",
         "audioUrl": "audio/strange-wilderness/007_hang_on_people_i_am_picking_up_an_underwater_bubbling_sound.mp3"
       },
       {
-        "text": "Have you guys ever tried to poop and brush your teeth at the same time. It's fucking hard Nice.",
+        "text": "Poop and brush teeth",
         "character": "",
         "audioUrl": "audio/strange-wilderness/008_have_you_guys_ever_tried_to_poop_and_brush_your_teeth_at_the.mp3"
       },
       {
-        "text": "Hey fellas I was bombed last night at P J Maloney's. By the way did you guys notice any sediment in that tequila. 'Cause some kind of pebble or rock or something clogged up my penis hole and my johnson swelled up like a fucking water balloon hooked up to a tea kettle",
+        "text": "Tequila wrecked my johnson",
         "character": "",
         "audioUrl": "audio/strange-wilderness/009_hey_fellas_i_was_bombed_last_night_at_p_j_maloney_s_by_the_w.mp3"
       },
       {
-        "text": "Hey wait a minute. These are the fish that ate Dick right. Yeah. All right just go with me here. If Dick is in the fishes and we're eating the fishes. doesn't that mean we're eating Dick What the fuck.",
+        "text": "Are we eating Dick?",
         "character": "",
         "audioUrl": "audio/strange-wilderness/010_hey_wait_a_minute_these_are_the_fish_that_ate_dick_right_yea.mp3"
       },
       {
-        "text": "Hey why you all up in my waist man You feeling froggy huh. Why don't you take a leap I can't That's fucked up.",
+        "text": "You feeling froggy?",
         "character": "",
         "audioUrl": "audio/strange-wilderness/011_hey_why_you_all_up_in_my_waist_man_you_feeling_froggy_huh_wh.mp3"
       },
       {
-        "text": "I don't wanna die. For the first time in 11 years I'm seeing the world through sober eyes. and it's exhilarating See I have so much to live for right now. I want to find a nice girl and settle down and have kids. and dance with them in the moonlight and everything I want to do it all you know. Fucking beautiful Take a bow man.",
+        "text": "Sober for the first time",
         "character": "",
         "audioUrl": "audio/strange-wilderness/012_i_don_t_wanna_die_for_the_first_time_in_11_years_i_m_seeing.mp3"
       },
       {
-        "text": "I hear that weird bubbling sound again. It's not bubbling. Junior I said knock it off.",
+        "text": "Junior, knock it off",
         "character": "",
         "audioUrl": "audio/strange-wilderness/013_i_hear_that_weird_bubbling_sound_again_it_s_not_bubbling_jun.mp3"
       },
       {
-        "text": "I mean no matter what happened I mean he was as cool as a cucumber. He never forgot a line And he never let anything ruffle him. My dad was the king. No doubt And his TV show ruled the ratings. What was that. Excuse me. It was a wildlife show called Strange Wilderness. Yeah you remember that Do you remember my dad. Oh cool.",
+        "text": "My dad, the king",
         "character": "",
         "audioUrl": "audio/strange-wilderness/014_i_mean_no_matter_what_happened_i_mean_he_was_as_cool_as_a_cu.mp3"
       },
       {
-        "text": "I smoked some weed the other night and I think the shit was laced. because I went out right away and got these tattoos on my eyelids to make it look like when I was sleeping that people would think that I was awake",
+        "text": "Eyelid tattoos to look awake",
         "character": "",
         "audioUrl": "audio/strange-wilderness/015_i_smoked_some_weed_the_other_night_and_i_think_the_shit_was.mp3"
       },
       {
-        "text": "I was trying to help you feel better. Then you hit me in the head Now there's a bump on my head. It looks like a dinosaur egg. If that dinosaur hatches. people are gonna think I'm some sort of prehistoric gentleman bird",
+        "text": "Prehistoric gentleman bird",
         "character": "",
         "audioUrl": "audio/strange-wilderness/016_i_was_trying_to_help_you_feel_better_then_you_hit_me_in_the.mp3"
       },
       {
-        "text": "Is that a thong you're wearing. What the fuck did you say. Do you have a thong on. Yeah I'm wearing a thong.",
+        "text": "Is that a thong?",
         "character": "",
         "audioUrl": "audio/strange-wilderness/017_is_that_a_thong_you_re_wearing_what_the_fuck_did_you_say_do.mp3"
       },
       {
-        "text": "Luckily we caught it on tape so that man will be honored. You wanted to honor the man. by showing him being killed by an alligator on your wildlife show",
+        "text": "Killed by an alligator",
         "character": "",
         "audioUrl": "audio/strange-wilderness/018_luckily_we_caught_it_on_tape_so_that_man_will_be_honored_you.mp3"
       },
       {
-        "text": "Monkeys make up over 80 of the world's monkey population.",
+        "text": "Monkeys make up over 80% of the world's monkey population.",
         "character": "",
         "audioUrl": "audio/strange-wilderness/019_monkeys_make_up_over_80_of_the_world_s_monkey_population.mp3"
       },
       {
-        "text": "No matter how many sea lions are eaten each year by sharks. it never seems like enough",
+        "text": "Never seems like enough",
         "character": "",
         "audioUrl": "audio/strange-wilderness/020_no_matter_how_many_sea_lions_are_eaten_each_year_by_sharks_i.mp3"
       },
       {
-        "text": "Now what the hell is that. It's the African wilderness It's natives doing a war dance. That's not Africa. Right well not totally. See a lot of the women of the bush. they're not really that good looking So we got these girls instead They're from Long Beach.",
+        "text": "Natives from Long Beach",
         "character": "",
         "audioUrl": "audio/strange-wilderness/021_now_what_the_hell_is_that_it_s_the_african_wilderness_it_s_n.mp3"
       },
       {
-        "text": "Okay That jungle is thick. I don't think anybody's ever even been in there. You know you should quit now while you're alive. Nope Not on my watch.",
+        "text": "Not on my watch",
         "character": "",
         "audioUrl": "audio/strange-wilderness/022_okay_that_jungle_is_thick_i_don_t_think_anybody_s_ever_even.mp3"
       },
       {
-        "text": "Pierson may have the map and a three days' head start. but that won't be enough Thanks. Because now you have the map and I'm gonna give you a little something extra. His name is Gus Hayden. You are shitting me You know Bigfoot's name.",
+        "text": "Bigfoot's name is Gus Hayden",
         "character": "",
         "audioUrl": "audio/strange-wilderness/023_pierson_may_have_the_map_and_a_three_days_head_start_but_tha.mp3"
       },
       {
-        "text": "Sharks can only be found in two places on earth. the Northern and Southern Hemispheres",
+        "text": "Sharks live in two places",
         "character": "",
         "audioUrl": "audio/strange-wilderness/024_sharks_can_only_be_found_in_two_places_on_earth_the_northern.mp3"
       },
@@ -21942,37 +21942,37 @@ const shows = [
         "audioUrl": "audio/strange-wilderness/025_shit_a_porcupine.mp3"
       },
       {
-        "text": "That was a great Vietnam story. But I think You wanna let go of Fred there. I think you're close to killing him.",
+        "text": "Let go of Fred",
         "character": "",
         "audioUrl": "audio/strange-wilderness/026_that_was_a_great_vietnam_story_but_i_think_you_wanna_let_go.mp3"
       },
       {
-        "text": "That's the most un American thing I've ever heard in my life.",
+        "text": "Most un-American thing",
         "character": "",
         "audioUrl": "audio/strange-wilderness/027_that_s_the_most_un_american_thing_i_ve_ever_heard_in_my_life.mp3"
       },
       {
-        "text": "These birds are saying howdy to the zebra. Actually they're not saying howdy they're eating the shit out of him.",
+        "text": "Birds eating the zebra",
         "character": "",
         "audioUrl": "audio/strange-wilderness/028_these_birds_are_saying_howdy_to_the_zebra_actually_they_re_n.mp3"
       },
       {
-        "text": "They tied me to a post and did to me what they do to all white men. They cut my scrotum with a sharp stick Then they ran away. My testicles unraveled down to the ground. I scooped up my testicles from out of the dirt rolled them up. shoved them back into my sac and then sewed it shut myself",
+        "text": "Sewed my scrotum shut",
         "character": "",
         "audioUrl": "audio/strange-wilderness/029_they_tied_me_to_a_post_and_did_to_me_what_they_do_to_all_whi.mp3"
       },
       {
-        "text": "This one's for you Danny How old are those. Three weeks old. For you Danny. Oh my God it's gonna come up. Give me that shit. All right let's do this Fred lower the steak. All right come on Let's do this. That's him That's that same fucker. There's a fin I see a fin. I see it too Hey shark. We got something for you you fucking asshole. Oh my God he's. That was awesome.",
+        "text": "This one's for you, Danny",
         "character": "",
         "audioUrl": "audio/strange-wilderness/030_this_one_s_for_you_danny_how_old_are_those_three_weeks_old_f.mp3"
       },
       {
-        "text": "We got fog rolling in man. In a year. It's not fog. Milas can you help me out here. For God's sake Junior just set the bong down.",
+        "text": "Junior, set the bong down",
         "character": "",
         "audioUrl": "audio/strange-wilderness/031_we_got_fog_rolling_in_man_in_a_year_it_s_not_fog_milas_can_y.mp3"
       },
       {
-        "text": "Well if you want we could hire you fire you. push you into a mud puddle and then you can keep this whole sad sack train chugging along",
+        "text": "Sad sack train",
         "character": "",
         "audioUrl": "audio/strange-wilderness/032_well_if_you_want_we_could_hire_you_fire_you_push_you_into_a.mp3"
       },
@@ -21982,22 +21982,22 @@ const shows = [
         "audioUrl": "audio/strange-wilderness/033_wow_i_m_just_blown_away_by_how_violent_that_was.mp3"
       },
       {
-        "text": "Wow look at that Those balls are sensational. To a lion these balls are called a sack lunch.",
+        "text": "Balls are a sack lunch",
         "character": "",
         "audioUrl": "audio/strange-wilderness/034_wow_look_at_that_those_balls_are_sensational_to_a_lion_these.mp3"
       },
       {
-        "text": "Yeah why don't you go make a blues album. Yeah you could call it I'm a Poor Little Sad Sack.",
+        "text": "Poor Little Sad Sack",
         "character": "",
         "audioUrl": "audio/strange-wilderness/035_yeah_why_don_t_you_go_make_a_blues_album_yeah_you_could_call.mp3"
       },
       {
-        "text": "You guys Oh shit. I have been tracking you for hours Why did you leave me back there. Well we thought you ran off with Gus Hayden. You really think I'd do that. Yeah. Gross. I'd wanna fuck even you guys before I'd wanna fuck him.",
+        "text": "Tracking you for hours",
         "character": "",
         "audioUrl": "audio/strange-wilderness/036_you_guys_oh_shit_i_have_been_tracking_you_for_hours_why_did.mp3"
       },
       {
-        "text": "You like your name You like Dick.",
+        "text": "You like your name, you like Dick.",
         "character": "",
         "audioUrl": "audio/strange-wilderness/037_you_like_your_name_you_like_dick.mp3"
       },
@@ -23362,6 +23362,1510 @@ const shows = [
         "text": "52,000",
         "character": "",
         "audioUrl": "audio/borat/062_52000.mp3"
+      }
+    ]
+  },
+  {
+    "id": "django-unchained",
+    "name": "Django Unchained",
+    "type": "movie",
+    "theme": {
+      "primary": "#9e1b1b",
+      "accent": "#cf9b34",
+      "bg": "#0b0605"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Bad News",
+        "character": "",
+        "audioUrl": "audio/django-unchained/001_bad_news.mp3"
+      },
+      {
+        "text": "Curiosity and Attention",
+        "character": "",
+        "audioUrl": "audio/django-unchained/002_curiosity_and_attention.mp3"
+      },
+      {
+        "text": "Fuck all y'all! I'm goin home!",
+        "character": "",
+        "audioUrl": "audio/django-unchained/003_fuck_all_y_all_i_m_goin_home.mp3"
+      },
+      {
+        "text": "I'm riding blind",
+        "character": "",
+        "audioUrl": "audio/django-unchained/004_i_m_riding_blind.mp3"
+      },
+      {
+        "text": "It's like a reward",
+        "character": "",
+        "audioUrl": "audio/django-unchained/005_it_s_like_a_reward.mp3"
+      },
+      {
+        "text": "My property",
+        "character": "",
+        "audioUrl": "audio/django-unchained/006_my_property.mp3"
+      },
+      {
+        "text": "Nod",
+        "character": "",
+        "audioUrl": "audio/django-unchained/007_nod.mp3"
+      },
+      {
+        "text": "Noooo!",
+        "character": "",
+        "audioUrl": "audio/django-unchained/008_noooo.mp3"
+      },
+      {
+        "text": "Not pointing any finngers",
+        "character": "",
+        "audioUrl": "audio/django-unchained/009_not_pointing_any_finngers.mp3"
+      },
+      {
+        "text": "Now we must act as our own bartender",
+        "character": "",
+        "audioUrl": "audio/django-unchained/010_now_we_must_act_as_our_own_bartender.mp3"
+      },
+      {
+        "text": "Say goodnight to them nuts",
+        "character": "",
+        "audioUrl": "audio/django-unchained/011_say_goodnight_to_them_nuts.mp3"
+      },
+      {
+        "text": "The D is Silent",
+        "character": "",
+        "audioUrl": "audio/django-unchained/012_the_d_is_silent.mp3"
+      },
+      {
+        "text": "To you sir I say... Goodbye",
+        "character": "",
+        "audioUrl": "audio/django-unchained/013_to_you_sir_i_say_goodbye.mp3"
+      },
+      {
+        "text": "Well come on inside and get yourself something cool to drink",
+        "character": "",
+        "audioUrl": "audio/django-unchained/014_well_come_on_inside_and_get_yourself_something_cool_to_drink.mp3"
+      },
+      {
+        "text": "Who dis n**** on dat nag?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/015_who_dis_n_on_dat_nag.mp3"
+      },
+      {
+        "text": "With My Hands Raised Above My Head",
+        "character": "",
+        "audioUrl": "audio/django-unchained/016_with_my_hands_raised_above_my_head.mp3"
+      },
+      {
+        "text": "You will?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/017_you_will.mp3"
+      },
+      {
+        "text": "Ah, yes. Yes, we were, doctor.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/018_ah_yes_yes_we_were_doctor.mp3"
+      },
+      {
+        "text": "Alexandre Dumas. He wrote The Three Musketeers",
+        "character": "",
+        "audioUrl": "audio/django-unchained/020_alexandre_dumas_he_wrote_the_three_musketeers.mp3"
+      },
+      {
+        "text": "And all I can hear is criticize, criticize, criticize!",
+        "character": "",
+        "audioUrl": "audio/django-unchained/021_and_all_i_can_hear_is_criticize_criticize_criticize.mp3"
+      },
+      {
+        "text": "And all y'all know I ain't supposed to be on this trip",
+        "character": "",
+        "audioUrl": "audio/django-unchained/022_and_all_y_all_know_i_ain_t_supposed_to_be_on_this_trip.mp3"
+      },
+      {
+        "text": "And do you know what the farmer says?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/023_and_do_you_know_what_the_farmer_says.mp3"
+      },
+      {
+        "text": "And he didn't mind killing people to do it",
+        "character": "",
+        "audioUrl": "audio/django-unchained/024_and_he_didn_t_mind_killing_people_to_do_it.mp3"
+      },
+      {
+        "text": "And I do believe I have... one, two, three, four...",
+        "character": "",
+        "audioUrl": "audio/django-unchained/025_and_i_do_believe_i_have_one_two_three_four.mp3"
+      },
+      {
+        "text": "And I take it you prefer the take it or leave it style of negotiation?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/026_and_i_take_it_you_prefer_the_take_it_or_leave_it_style_of_ne.mp3"
+      },
+      {
+        "text": "And I was wondering what Dumas would make of all this",
+        "character": "",
+        "audioUrl": "audio/django-unchained/027_and_i_was_wondering_what_dumas_would_make_of_all_this.mp3"
+      },
+      {
+        "text": "And it is for these attributes we've ridden from Texas to Tennessee",
+        "character": "",
+        "audioUrl": "audio/django-unchained/028_and_it_is_for_these_attributes_we_ve_ridden_from_texas_to_te.mp3"
+      },
+      {
+        "text": "And she ain't gonna be worth... she ain't gonna be worth a damn thing",
+        "character": "",
+        "audioUrl": "audio/django-unchained/029_and_she_ain_t_gonna_be_worth_she_ain_t_gonna_be_worth_a_damn.mp3"
+      },
+      {
+        "text": "And the way you have your Mr. Moguy, I have a lawyer",
+        "character": "",
+        "audioUrl": "audio/django-unchained/030_and_the_way_you_have_your_mr_moguy_i_have_a_lawyer.mp3"
+      },
+      {
+        "text": "And these are our horses, Tony and Fritz.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/031_and_these_are_our_horses_tony_and_fritz.mp3"
+      },
+      {
+        "text": "And we will again. In a moment",
+        "character": "",
+        "audioUrl": "audio/django-unchained/033_and_we_will_again_in_a_moment.mp3"
+      },
+      {
+        "text": "And what's the golden rule, Frankie, eh?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/034_and_what_s_the_golden_rule_frankie_eh.mp3"
+      },
+      {
+        "text": "And, of course, her freedom papers, doctor.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/035_and_of_course_her_freedom_papers_doctor.mp3"
+      },
+      {
+        "text": "Billy Crash here got his pistol upside her head",
+        "character": "",
+        "audioUrl": "audio/django-unchained/038_billy_crash_here_got_his_pistol_upside_her_head.mp3"
+      },
+      {
+        "text": "But I didn't want you to do anything rash",
+        "character": "",
+        "audioUrl": "audio/django-unchained/040_but_i_didn_t_want_you_to_do_anything_rash.mp3"
+      },
+      {
+        "text": "But I'm willing to wager this man was elected sheriff",
+        "character": "",
+        "audioUrl": "audio/django-unchained/041_but_i_m_willing_to_wager_this_man_was_elected_sheriff.mp3"
+      },
+      {
+        "text": "But now you have my attention.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/042_but_now_you_have_my_attention.mp3"
+      },
+      {
+        "text": "But she's a young lady, whip marks on her back and speaks German.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/043_but_she_s_a_young_lady_whip_marks_on_her_back_and_speaks_ger.mp3"
+      },
+      {
+        "text": "But, like you said in Greenville, doctor... I don't want to sell him",
+        "character": "",
+        "audioUrl": "audio/django-unchained/044_but_like_you_said_in_greenville_doctor_i_don_t_want_to_sell.mp3"
+      },
+      {
+        "text": "Come on now, boy... get on out that tree",
+        "character": "",
+        "audioUrl": "audio/django-unchained/047_come_on_now_boy_get_on_out_that_tree.mp3"
+      },
+      {
+        "text": "Despite that cart, I haven't practiced dentistry in five years.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/050_despite_that_cart_i_haven_t_practiced_dentistry_in_five_year.mp3"
+      },
+      {
+        "text": "Django, this is Mr. Candie's lawyer, Leonide Moguy.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/051_django_this_is_mr_candie_s_lawyer_leonide_moguy.mp3"
+      },
+      {
+        "text": "Do what I told you, boy!",
+        "character": "",
+        "audioUrl": "audio/django-unchained/053_do_what_i_told_you_boy.mp3"
+      },
+      {
+        "text": "Do you know who the Brittle Brothers are?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/054_do_you_know_who_the_brittle_brothers_are.mp3"
+      },
+      {
+        "text": "Doesn't mean that other bunch of malarkey is.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/055_doesn_t_mean_that_other_bunch_of_malarkey_is.mp3"
+      },
+      {
+        "text": "Don't let that mud slow you down. Keep going.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/056_don_t_let_that_mud_slow_you_down_keep_going.mp3"
+      },
+      {
+        "text": "Dr. Schultz. May I introduce to you Broomhilda?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/057_dr_schultz_may_i_introduce_to_you_broomhilda.mp3"
+      },
+      {
+        "text": "Frankie, why don't you take them sticks off that horse",
+        "character": "",
+        "audioUrl": "audio/django-unchained/059_frankie_why_don_t_you_take_them_sticks_off_that_horse.mp3"
+      },
+      {
+        "text": "Get her cleaned up and smellin' real nice,",
+        "character": "",
+        "audioUrl": "audio/django-unchained/061_get_her_cleaned_up_and_smellin_real_nice.mp3"
+      },
+      {
+        "text": "Get out there and see what's wrong with them goddamn dogs!",
+        "character": "",
+        "audioUrl": "audio/django-unchained/062_get_out_there_and_see_what_s_wrong_with_them_goddamn_dogs.mp3"
+      },
+      {
+        "text": "He gonna stay in The Big House?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/071_he_gonna_stay_in_the_big_house.mp3"
+      },
+      {
+        "text": "He is a rambunctious sort, ain't he?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/072_he_is_a_rambunctious_sort_ain_t_he.mp3"
+      },
+      {
+        "text": "He scales the mountain, because he's not afraid of it.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/073_he_scales_the_mountain_because_he_s_not_afraid_of_it.mp3"
+      },
+      {
+        "text": "He's a free man. He can ride what he pleases.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/074_he_s_a_free_man_he_can_ride_what_he_pleases.mp3"
+      },
+      {
+        "text": "How far he get off the property?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/084_how_far_he_get_off_the_property.mp3"
+      },
+      {
+        "text": "How many n****** you think you see come and go, huh?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/086_how_many_n_you_think_you_see_come_and_go_huh.mp3"
+      },
+      {
+        "text": "Huh. Well, just leave 'em out here, they ain't going nowhere",
+        "character": "",
+        "audioUrl": "audio/django-unchained/087_huh_well_just_leave_em_out_here_they_ain_t_going_nowhere.mp3"
+      },
+      {
+        "text": "I am Dr. King Schultz, a legal representative",
+        "character": "",
+        "audioUrl": "audio/django-unchained/089_i_am_dr_king_schultz_a_legal_representative.mp3"
+      },
+      {
+        "text": "I am that one n***** in 10,000.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/090_i_am_that_one_n_in_10_000.mp3"
+      },
+      {
+        "text": "I can't fight no more, Monsieur Candie.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/091_i_can_t_fight_no_more_monsieur_candie.mp3"
+      },
+      {
+        "text": "I do believe you were just getting ready to make me",
+        "character": "",
+        "audioUrl": "audio/django-unchained/092_i_do_believe_you_were_just_getting_ready_to_make_me.mp3"
+      },
+      {
+        "text": "I got no use for a n***** with sand.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/094_i_got_no_use_for_a_n_with_sand.mp3"
+      },
+      {
+        "text": "I track that man, I find that man, I kill that man.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/097_i_track_that_man_i_find_that_man_i_kill_that_man.mp3"
+      },
+      {
+        "text": "I'd take that winter coat the dear departed Speck left behind.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/098_i_d_take_that_winter_coat_the_dear_departed_speck_left_behin.mp3"
+      },
+      {
+        "text": "I'm doing business with both y'all.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/102_i_m_doing_business_with_both_y_all.mp3"
+      },
+      {
+        "text": "I'm keeping it funny for you. Now, John, please.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/103_i_m_keeping_it_funny_for_you_now_john_please.mp3"
+      },
+      {
+        "text": "I've been led to believe that you are a gentleman and a businessman.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/105_i_ve_been_led_to_believe_that_you_are_a_gentleman_and_a_busi.mp3"
+      },
+      {
+        "text": "Is that who you was lookin' for?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/106_is_that_who_you_was_lookin_for.mp3"
+      },
+      {
+        "text": "Is you comin' with me or is you gonna sleep in that little box over yonder?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/107_is_you_comin_with_me_or_is_you_gonna_sleep_in_that_little_bo.mp3"
+      },
+      {
+        "text": "It is the soaring eagle that attracts her attention,",
+        "character": "",
+        "audioUrl": "audio/django-unchained/108_it_is_the_soaring_eagle_that_attracts_her_attention.mp3"
+      },
+      {
+        "text": "It's against the law for n****** to ride horses in this territory.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/109_it_s_against_the_law_for_n_to_ride_horses_in_this_territory.mp3"
+      },
+      {
+        "text": "Lara Lee! Will you and Cora be responsible",
+        "character": "",
+        "audioUrl": "audio/django-unchained/114_lara_lee_will_you_and_cora_be_responsible.mp3"
+      },
+      {
+        "text": "Last time I seen you, you had your hands on my...",
+        "character": "",
+        "audioUrl": "audio/django-unchained/115_last_time_i_seen_you_you_had_your_hands_on_my.mp3"
+      },
+      {
+        "text": "Lay your hand flat on that tabletop",
+        "character": "",
+        "audioUrl": "audio/django-unchained/116_lay_your_hand_flat_on_that_tabletop.mp3"
+      },
+      {
+        "text": "Let's keep it funny. Django here's a free man.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/118_let_s_keep_it_funny_django_here_s_a_free_man.mp3"
+      },
+      {
+        "text": "Line 'em up to the left here now, boy.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/119_line_em_up_to_the_left_here_now_boy.mp3"
+      },
+      {
+        "text": "Look, Monsieur Candie, they were all fine specimens, no doubt about it.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/120_look_monsieur_candie_they_were_all_fine_specimens_no_doubt_a.mp3"
+      },
+      {
+        "text": "Lots of gals where you're from named Broomhilda?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/121_lots_of_gals_where_you_re_from_named_broomhilda.mp3"
+      },
+      {
+        "text": "May I present to you Lara Lee Candie Fitzwilly.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/122_may_i_present_to_you_lara_lee_candie_fitzwilly.mp3"
+      },
+      {
+        "text": "Move that buckboard a long ways across the street from the saloon.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/126_move_that_buckboard_a_long_ways_across_the_street_from_the_s.mp3"
+      },
+      {
+        "text": "Mr. Stonesipher, would you please shut these goddamn dogs up?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/128_mr_stonesipher_would_you_please_shut_these_goddamn_dogs_up.mp3"
+      },
+      {
+        "text": "My partner got killed, Calvin Candie got shot,",
+        "character": "",
+        "audioUrl": "audio/django-unchained/129_my_partner_got_killed_calvin_candie_got_shot.mp3"
+      },
+      {
+        "text": "N***** and the German was actin' like they were slavers but they wasn't",
+        "character": "",
+        "audioUrl": "audio/django-unchained/130_n_and_the_german_was_actin_like_they_were_slavers_but_they_w.mp3"
+      },
+      {
+        "text": "Now why would a slave have a Wanted Dead or Alive handbill in his pocket?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/135_now_why_would_a_slave_have_a_wanted_dead_or_alive_handbill_i.mp3"
+      },
+      {
+        "text": "Now, boy, why do a fool thing like run off?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/136_now_boy_why_do_a_fool_thing_like_run_off.mp3"
+      },
+      {
+        "text": "Now, gentlemen, I do apologize, but I am weary from our travels beyond words.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/138_now_gentlemen_i_do_apologize_but_i_am_weary_from_our_travels.mp3"
+      },
+      {
+        "text": "Now, may I please remove the warrant from my pocket so you may examine it?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/139_now_may_i_please_remove_the_warrant_from_my_pocket_so_you_ma.mp3"
+      },
+      {
+        "text": "Now, why that German gives a fuck who that uppity son of a bitch",
+        "character": "",
+        "audioUrl": "audio/django-unchained/141_now_why_that_german_gives_a_fuck_who_that_uppity_son_of_a_bi.mp3"
+      },
+      {
+        "text": "Oh, Monsieur Candie, you can't imagine what it's like",
+        "character": "",
+        "audioUrl": "audio/django-unchained/144_oh_monsieur_candie_you_can_t_imagine_what_it_s_like.mp3"
+      },
+      {
+        "text": "Oh, Mr. Bennett, I must remind you, Django is a free man.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/145_oh_mr_bennett_i_must_remind_you_django_is_a_free_man.mp3"
+      },
+      {
+        "text": "Oh, no. I ain't got no problem with it,",
+        "character": "",
+        "audioUrl": "audio/django-unchained/147_oh_no_i_ain_t_got_no_problem_with_it.mp3"
+      },
+      {
+        "text": "Old Man Carrucan ain't gonna appreciate this, now.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/151_old_man_carrucan_ain_t_gonna_appreciate_this_now.mp3"
+      },
+      {
+        "text": "Old Man Carrucan didn't. That's why we, uh... we run off.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/152_old_man_carrucan_didn_t_that_s_why_we_uh_we_run_off.mp3"
+      },
+      {
+        "text": "Once it catches your ass, you're caught.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/153_once_it_catches_your_ass_you_re_caught.mp3"
+      },
+      {
+        "text": "One could almost say youse a n*****.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/155_one_could_almost_say_youse_a_n.mp3"
+      },
+      {
+        "text": "Please, won't you take a ride with us here in the Victoria.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/156_please_won_t_you_take_a_ride_with_us_here_in_the_victoria.mp3"
+      },
+      {
+        "text": "See, I told you to put some more power in there.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/159_see_i_told_you_to_put_some_more_power_in_there.mp3"
+      },
+      {
+        "text": "Seein' as how they don't have many n****** where he come from",
+        "character": "",
+        "audioUrl": "audio/django-unchained/160_seein_as_how_they_don_t_have_many_n_where_he_come_from.mp3"
+      },
+      {
+        "text": "Shut up, black. You ain't got nothing to say I want to hear",
+        "character": "",
+        "audioUrl": "audio/django-unchained/163_shut_up_black_you_ain_t_got_nothing_to_say_i_want_to_hear.mp3"
+      },
+      {
+        "text": "Smitty Bacall and the Smitty Bacall",
+        "character": "",
+        "audioUrl": "audio/django-unchained/164_smitty_bacall_and_the_smitty_bacall.mp3"
+      },
+      {
+        "text": "So before that moment, it would be good if I could have",
+        "character": "",
+        "audioUrl": "audio/django-unchained/165_so_before_that_moment_it_would_be_good_if_i_could_have.mp3"
+      },
+      {
+        "text": "So he puts her on top of the mountain.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/166_so_he_puts_her_on_top_of_the_mountain.mp3"
+      },
+      {
+        "text": "So that's what I'm doing. I'm gettin' dirty.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/167_so_that_s_what_i_m_doing_i_m_gettin_dirty.mp3"
+      },
+      {
+        "text": "Stephen, what the hell are you talking about? Hm?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/169_stephen_what_the_hell_are_you_talking_about_hm.mp3"
+      },
+      {
+        "text": "Thank you for your assistance in creating the opportunity",
+        "character": "",
+        "audioUrl": "audio/django-unchained/170_thank_you_for_your_assistance_in_creating_the_opportunity.mp3"
+      },
+      {
+        "text": "The Black Hercules, isn't that clever?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/172_the_black_hercules_isn_t_that_clever.mp3"
+      },
+      {
+        "text": "The farmer is forced to say yes.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/173_the_farmer_is_forced_to_say_yes.mp3"
+      },
+      {
+        "text": "The man lying dead in the dirt, who the good people of Daughtrey",
+        "character": "",
+        "audioUrl": "audio/django-unchained/175_the_man_lying_dead_in_the_dirt_who_the_good_people_of_daught.mp3"
+      },
+      {
+        "text": "The man to my left is Django Freeman. He's my deputy.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/176_the_man_to_my_left_is_django_freeman_he_s_my_deputy.mp3"
+      },
+      {
+        "text": "Their name is Brittle. You know 'em?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/177_their_name_is_brittle_you_know_em.mp3"
+      },
+      {
+        "text": "These three dimples exist in the area of the skull most associated with...",
+        "character": "",
+        "audioUrl": "audio/django-unchained/179_these_three_dimples_exist_in_the_area_of_the_skull_most_asso.mp3"
+      },
+      {
+        "text": "These three dimples would be found in the area of the skull",
+        "character": "",
+        "audioUrl": "audio/django-unchained/180_these_three_dimples_would_be_found_in_the_area_of_the_skull.mp3"
+      },
+      {
+        "text": "They ain't gonna just kill you, n*****!",
+        "character": "",
+        "audioUrl": "audio/django-unchained/181_they_ain_t_gonna_just_kill_you_n.mp3"
+      },
+      {
+        "text": "They gonna find your black ass!",
+        "character": "",
+        "audioUrl": "audio/django-unchained/182_they_gonna_find_your_black_ass.mp3"
+      },
+      {
+        "text": "To the man with the exceptional beard",
+        "character": "",
+        "audioUrl": "audio/django-unchained/185_to_the_man_with_the_exceptional_beard.mp3"
+      },
+      {
+        "text": "We rode five hours so you could show off your stock.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/188_we_rode_five_hours_so_you_could_show_off_your_stock.mp3"
+      },
+      {
+        "text": "We were discussing the possibility of my purchasing Broomhilda",
+        "character": "",
+        "audioUrl": "audio/django-unchained/189_we_were_discussing_the_possibility_of_my_purchasing_broomhil.mp3"
+      },
+      {
+        "text": "Well, it's not every n***** speaks German, don't ya know.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/190_well_it_s_not_every_n_speaks_german_don_t_ya_know.mp3"
+      },
+      {
+        "text": "Well, let me get this straight.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/191_well_let_me_get_this_straight.mp3"
+      },
+      {
+        "text": "Well, way he looks now, a blind Indian wouldn't bet a bead on him.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/192_well_way_he_looks_now_a_blind_indian_wouldn_t_bet_a_bead_on.mp3"
+      },
+      {
+        "text": "Well, we weren't talkin' business yet.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/193_well_we_weren_t_talkin_business_yet.mp3"
+      },
+      {
+        "text": "Well, what if I was to say I don't like you?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/194_well_what_if_i_was_to_say_i_don_t_like_you.mp3"
+      },
+      {
+        "text": "What is the point of havin' a n***** that speaks German",
+        "character": "",
+        "audioUrl": "audio/django-unchained/198_what_is_the_point_of_havin_a_n_that_speaks_german.mp3"
+      },
+      {
+        "text": "What the fuck is going on?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/200_what_the_fuck_is_going_on.mp3"
+      },
+      {
+        "text": "When we went to boarding school together.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/204_when_we_went_to_boarding_school_together.mp3"
+      },
+      {
+        "text": "Who the hell a you got there?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/205_who_the_hell_a_you_got_there.mp3"
+      },
+      {
+        "text": "Why do you want to get in the Mandingo business?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/208_why_do_you_want_to_get_in_the_mandingo_business.mp3"
+      },
+      {
+        "text": "Why not? Monsieur Candie, you have a deal",
+        "character": "",
+        "audioUrl": "audio/django-unchained/209_why_not_monsieur_candie_you_have_a_deal.mp3"
+      },
+      {
+        "text": "Why would they go through all that trouble for a n*****",
+        "character": "",
+        "audioUrl": "audio/django-unchained/210_why_would_they_go_through_all_that_trouble_for_a_n.mp3"
+      },
+      {
+        "text": "Will you make these gentlemen a receipt for $12,000, please?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/212_will_you_make_these_gentlemen_a_receipt_for_12_000_please.mp3"
+      },
+      {
+        "text": "Would you be a dear, go out there and give them gals an eyeball? Hm?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/213_would_you_be_a_dear_go_out_there_and_give_them_gals_an_eyeba.mp3"
+      },
+      {
+        "text": "You could mess her skin up, and you gonna mess her up",
+        "character": "",
+        "audioUrl": "audio/django-unchained/219_you_could_mess_her_skin_up_and_you_gonna_mess_her_up.mp3"
+      },
+      {
+        "text": "You could unshackle yourselves, take that rifle,",
+        "character": "",
+        "audioUrl": "audio/django-unchained/220_you_could_unshackle_yourselves_take_that_rifle.mp3"
+      },
+      {
+        "text": "You don't have to know why. Do you understand?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/221_you_don_t_have_to_know_why_do_you_understand.mp3"
+      },
+      {
+        "text": "You either hit him or are you ain't?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/222_you_either_hit_him_or_are_you_ain_t.mp3"
+      },
+      {
+        "text": "You give up, ain't no harm gonna come to her",
+        "character": "",
+        "audioUrl": "audio/django-unchained/224_you_give_up_ain_t_no_harm_gonna_come_to_her.mp3"
+      },
+      {
+        "text": "You know Jerry, don't you, sugar?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/226_you_know_jerry_don_t_you_sugar.mp3"
+      },
+      {
+        "text": "You see, under the laws of Chickasaw County,",
+        "character": "",
+        "audioUrl": "audio/django-unchained/228_you_see_under_the_laws_of_chickasaw_county.mp3"
+      },
+      {
+        "text": "You see, you wanna buy a beat ass n***** from me,",
+        "character": "",
+        "audioUrl": "audio/django-unchained/229_you_see_you_wanna_buy_a_beat_ass_n_from_me.mp3"
+      },
+      {
+        "text": "You work with me through the winter till the snow melts...",
+        "character": "",
+        "audioUrl": "audio/django-unchained/231_you_work_with_me_through_the_winter_till_the_snow_melts.mp3"
+      },
+      {
+        "text": "You wouldn't lie to me, now, would you?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/232_you_wouldn_t_lie_to_me_now_would_you.mp3"
+      },
+      {
+        "text": "You're yelling abuse at these poor slaves.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/234_you_re_yelling_abuse_at_these_poor_slaves.mp3"
+      },
+      {
+        "text": "Your slave wife speaks German and her name is Broomhilda Von Shaft?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/235_your_slave_wife_speaks_german_and_her_name_is_broomhilda_von.mp3"
+      },
+      {
+        "text": "Youse gonna let me pick out my own clothes?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/236_youse_gonna_let_me_pick_out_my_own_clothes.mp3"
+      },
+      {
+        "text": "Are these Broomhilda's papers? Yes, they are",
+        "character": "",
+        "audioUrl": "audio/django-unchained/238_are_these_broomhilda_s_papers_yes_they_are.mp3"
+      },
+      {
+        "text": "Do what now? I said, Tell Miss Lara goodbye.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/240_do_what_now_i_said_tell_miss_lara_goodbye.mp3"
+      },
+      {
+        "text": "Hm! It's like a pool of black tar",
+        "character": "",
+        "audioUrl": "audio/django-unchained/242_hm_it_s_like_a_pool_of_black_tar.mp3"
+      },
+      {
+        "text": "Hurry up, girl. These ready, Miss Cora.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/243_hurry_up_girl_these_ready_miss_cora.mp3"
+      },
+      {
+        "text": "I think you are a bad loser. And I think you're an abysmal winner",
+        "character": "",
+        "audioUrl": "audio/django-unchained/245_i_think_you_are_a_bad_loser_and_i_think_you_re_an_abysmal_wi.mp3"
+      },
+      {
+        "text": "I'm not from the South. But you are...",
+        "character": "",
+        "audioUrl": "audio/django-unchained/246_i_m_not_from_the_south_but_you_are.mp3"
+      },
+      {
+        "text": "Need to have what? What? Panache. Uh..",
+        "character": "",
+        "audioUrl": "audio/django-unchained/248_need_to_have_what_what_panache_uh.mp3"
+      },
+      {
+        "text": "No! Do what I told ya!",
+        "character": "",
+        "audioUrl": "audio/django-unchained/249_no_do_what_i_told_ya.mp3"
+      },
+      {
+        "text": "Right in front of both y'all! Easy, big fella",
+        "character": "",
+        "audioUrl": "audio/django-unchained/251_right_in_front_of_both_y_all_easy_big_fella.mp3"
+      },
+      {
+        "text": "Right over there on that little table. Thank you.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/252_right_over_there_on_that_little_table_thank_you.mp3"
+      },
+      {
+        "text": "Seven zero zero zero.. Seven thousand.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/253_seven_zero_zero_zero_seven_thousand.mp3"
+      },
+      {
+        "text": "Should we wait inside? Can we just leave?",
+        "character": "",
+        "audioUrl": "audio/django-unchained/255_should_we_wait_inside_can_we_just_leave.mp3"
+      },
+      {
+        "text": "Thank you ever so much. Doctor",
+        "character": "",
+        "audioUrl": "audio/django-unchained/257_thank_you_ever_so_much_doctor.mp3"
+      },
+      {
+        "text": "We gonna offer to buy Candyland? No, it's far too big.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/258_we_gonna_offer_to_buy_candyland_no_it_s_far_too_big.mp3"
+      },
+      {
+        "text": "Yeah. Business never sleeps. Hm mm",
+        "character": "",
+        "audioUrl": "audio/django-unchained/261_yeah_business_never_sleeps_hm_mm.mp3"
+      },
+      {
+        "text": "Yessir, boss. Oh, now you are one lucky n*****.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/262_yessir_boss_oh_now_you_are_one_lucky_n.mp3"
+      },
+      {
+        "text": "You miss me, huh? Oh, yessir.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/264_you_miss_me_huh_oh_yessir.mp3"
+      },
+      {
+        "text": "You stupid son of a bitch! Sorry, Jessie!",
+        "character": "",
+        "audioUrl": "audio/django-unchained/265_you_stupid_son_of_a_bitch_sorry_jessie.mp3"
+      },
+      {
+        "text": "...and in my world you gotta get dirty.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/267_and_in_my_world_you_gotta_get_dirty.mp3"
+      },
+      {
+        "text": "...but I can't let you go to Greenville in a good conscience",
+        "character": "",
+        "audioUrl": "audio/django-unchained/269_but_i_can_t_let_you_go_to_greenville_in_a_good_conscience.mp3"
+      },
+      {
+        "text": "...I will admit you are pretty clever",
+        "character": "",
+        "audioUrl": "audio/django-unchained/271_i_will_admit_you_are_pretty_clever.mp3"
+      },
+      {
+        "text": "...normally, I would say auf Wiedersehen.",
+        "character": "",
+        "audioUrl": "audio/django-unchained/274_normally_i_would_say_auf_wiedersehen.mp3"
+      }
+    ]
+  },
+  {
+    "id": "dodgeball",
+    "name": "Dodgeball",
+    "type": "movie",
+    "theme": {
+      "primary": "#6d3f9c",
+      "accent": "#e8c33a",
+      "bg": "#0a0610"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Any other questions?",
+        "character": "",
+        "audioUrl": "audio/dodgeball/001_any_other_questions.mp3"
+      },
+      {
+        "text": "Are you ready for the hurricane?",
+        "character": "",
+        "audioUrl": "audio/dodgeball/002_are_you_ready_for_the_hurricane.mp3"
+      },
+      {
+        "text": "Bold Strategy",
+        "character": "",
+        "audioUrl": "audio/dodgeball/003_bold_strategy.mp3"
+      },
+      {
+        "text": "Bonding",
+        "character": "",
+        "audioUrl": "audio/dodgeball/004_bonding.mp3"
+      },
+      {
+        "text": "Boy, would I",
+        "character": "",
+        "audioUrl": "audio/dodgeball/005_boy_would_i.mp3"
+      },
+      {
+        "text": "Effin' A, Cotton, Effin' A!",
+        "character": "",
+        "audioUrl": "audio/dodgeball/006_effin_a_cotton_effin_a.mp3"
+      },
+      {
+        "text": "F*ckin Chuck Norris",
+        "character": "",
+        "audioUrl": "audio/dodgeball/007_f_ckin_chuck_norris.mp3"
+      },
+      {
+        "text": "Fast Pitch Dodgeball",
+        "character": "",
+        "audioUrl": "audio/dodgeball/008_fast_pitch_dodgeball.mp3"
+      },
+      {
+        "text": "Game face!",
+        "character": "",
+        "audioUrl": "audio/dodgeball/009_game_face.mp3"
+      },
+      {
+        "text": "Haha",
+        "character": "",
+        "audioUrl": "audio/dodgeball/010_haha.mp3"
+      },
+      {
+        "text": "Hasselhoff Yelling",
+        "character": "",
+        "audioUrl": "audio/dodgeball/011_hasselhoff_yelling.mp3"
+      },
+      {
+        "text": "Headshot",
+        "character": "",
+        "audioUrl": "audio/dodgeball/012_headshot.mp3"
+      },
+      {
+        "text": "Hit Montage",
+        "character": "",
+        "audioUrl": "audio/dodgeball/013_hit_montage.mp3"
+      },
+      {
+        "text": "I feel shocked",
+        "character": "",
+        "audioUrl": "audio/dodgeball/014_i_feel_shocked.mp3"
+      },
+      {
+        "text": "I sure do like pumpkins, Cotton",
+        "character": "",
+        "audioUrl": "audio/dodgeball/015_i_sure_do_like_pumpkins_cotton.mp3"
+      },
+      {
+        "text": "I'm not dumb",
+        "character": "",
+        "audioUrl": "audio/dodgeball/016_i_m_not_dumb.mp3"
+      },
+      {
+        "text": "If you can dodge a wrench you can dodge a ball",
+        "character": "",
+        "audioUrl": "audio/dodgeball/017_if_you_can_dodge_a_wrench_you_can_dodge_a_ball.mp3"
+      },
+      {
+        "text": "Just kidding ... but seriously",
+        "character": "",
+        "audioUrl": "audio/dodgeball/018_just_kidding_but_seriously.mp3"
+      },
+      {
+        "text": "Let me hit with you some knowledge",
+        "character": "",
+        "audioUrl": "audio/dodgeball/019_let_me_hit_with_you_some_knowledge.mp3"
+      },
+      {
+        "text": "Look at the show",
+        "character": "",
+        "audioUrl": "audio/dodgeball/020_look_at_the_show.mp3"
+      },
+      {
+        "text": "Meet Fran Stalinovskovichdavidovitchsky",
+        "character": "",
+        "audioUrl": "audio/dodgeball/021_meet_fran_stalinovskovichdavidovitchsky.mp3"
+      },
+      {
+        "text": "Milkshake Dance",
+        "character": "",
+        "audioUrl": "audio/dodgeball/022_milkshake_dance.mp3"
+      },
+      {
+        "text": "Mr jokey joke maker",
+        "character": "",
+        "audioUrl": "audio/dodgeball/023_mr_jokey_joke_maker.mp3"
+      },
+      {
+        "text": "Necessary?",
+        "character": "",
+        "audioUrl": "audio/dodgeball/024_necessary.mp3"
+      },
+      {
+        "text": "Nice and Deep Like",
+        "character": "",
+        "audioUrl": "audio/dodgeball/025_nice_and_deep_like.mp3"
+      },
+      {
+        "text": "No goals",
+        "character": "",
+        "audioUrl": "audio/dodgeball/026_no_goals.mp3"
+      },
+      {
+        "text": "Nobody makes me bleed my own blood",
+        "character": "",
+        "audioUrl": "audio/dodgeball/027_nobody_makes_me_bleed_my_own_blood.mp3"
+      },
+      {
+        "text": "Now you're all in big trouble",
+        "character": "",
+        "audioUrl": "audio/dodgeball/028_now_you_re_all_in_big_trouble.mp3"
+      },
+      {
+        "text": "O'Doyle Rules!",
+        "character": "",
+        "audioUrl": "audio/dodgeball/029_o_doyle_rules.mp3"
+      },
+      {
+        "text": "Oh my sweet Jesus",
+        "character": "",
+        "audioUrl": "audio/dodgeball/030_oh_my_sweet_jesus.mp3"
+      },
+      {
+        "text": "Ouch Town",
+        "character": "",
+        "audioUrl": "audio/dodgeball/031_ouch_town.mp3"
+      },
+      {
+        "text": "Patches O'Houlihan!",
+        "character": "",
+        "audioUrl": "audio/dodgeball/032_patches_o_houlihan.mp3"
+      },
+      {
+        "text": "Ready and super psyched!",
+        "character": "",
+        "audioUrl": "audio/dodgeball/033_ready_and_super_psyched.mp3"
+      },
+      {
+        "text": "Real freaky naughty",
+        "character": "",
+        "audioUrl": "audio/dodgeball/034_real_freaky_naughty.mp3"
+      },
+      {
+        "text": "Smelling pizza",
+        "character": "",
+        "audioUrl": "audio/dodgeball/035_smelling_pizza.mp3"
+      },
+      {
+        "text": "Thank you, Chuck Norris",
+        "character": "",
+        "audioUrl": "audio/dodgeball/036_thank_you_chuck_norris.mp3"
+      },
+      {
+        "text": "That's me taking the bull by the horns",
+        "character": "",
+        "audioUrl": "audio/dodgeball/037_that_s_me_taking_the_bull_by_the_horns.mp3"
+      },
+      {
+        "text": "That's rad",
+        "character": "",
+        "audioUrl": "audio/dodgeball/038_that_s_rad.mp3"
+      },
+      {
+        "text": "The 5 D's of dodge ball",
+        "character": "",
+        "audioUrl": "audio/dodgeball/039_the_5_d_s_of_dodge_ball.mp3"
+      },
+      {
+        "text": "The deadliest woman on Earth",
+        "character": "",
+        "audioUrl": "audio/dodgeball/040_the_deadliest_woman_on_earth.mp3"
+      },
+      {
+        "text": "The Ocho",
+        "character": "",
+        "audioUrl": "audio/dodgeball/041_the_ocho.mp3"
+      },
+      {
+        "text": "Threw up in mouth",
+        "character": "",
+        "audioUrl": "audio/dodgeball/042_threw_up_in_mouth.mp3"
+      },
+      {
+        "text": "Thumbs up Chuck",
+        "character": "",
+        "audioUrl": "audio/dodgeball/043_thumbs_up_chuck.mp3"
+      },
+      {
+        "text": "Timeout!",
+        "character": "",
+        "audioUrl": "audio/dodgeball/044_timeout.mp3"
+      },
+      {
+        "text": "Touche",
+        "character": "",
+        "audioUrl": "audio/dodgeball/045_touche.mp3"
+      },
+      {
+        "text": "We are the Purple Cobras",
+        "character": "",
+        "audioUrl": "audio/dodgeball/046_we_are_the_purple_cobras.mp3"
+      },
+      {
+        "text": "We Should Mate",
+        "character": "",
+        "audioUrl": "audio/dodgeball/047_we_should_mate.mp3"
+      },
+      {
+        "text": "We will rock you",
+        "character": "",
+        "audioUrl": "audio/dodgeball/048_we_will_rock_you.mp3"
+      },
+      {
+        "text": "We're Better Than You, And We Know It",
+        "character": "",
+        "audioUrl": "audio/dodgeball/049_we_re_better_than_you_and_we_know_it.mp3"
+      },
+      {
+        "text": "Wrong",
+        "character": "",
+        "audioUrl": "audio/dodgeball/050_wrong.mp3"
+      },
+      {
+        "text": "You gotta get angry! You gotta get mean!",
+        "character": "",
+        "audioUrl": "audio/dodgeball/051_you_gotta_get_angry_you_gotta_get_mean.mp3"
+      },
+      {
+        "text": "You happy? Fatty make a funny?",
+        "character": "",
+        "audioUrl": "audio/dodgeball/052_you_happy_fatty_make_a_funny.mp3"
+      },
+      {
+        "text": "You scared the jeepers out of me",
+        "character": "",
+        "audioUrl": "audio/dodgeball/053_you_scared_the_jeepers_out_of_me.mp3"
+      },
+      {
+        "text": "You're about as useful as a cock flavored lollipop",
+        "character": "",
+        "audioUrl": "audio/dodgeball/054_you_re_about_as_useful_as_a_cock_flavored_lollipop.mp3"
+      }
+    ]
+  },
+  {
+    "id": "entourage",
+    "name": "Entourage",
+    "type": "show",
+    "theme": {
+      "primary": "#c8a24a",
+      "accent": "#3a7d9c",
+      "bg": "#0a0906"
+    },
+    "text_style": "caption",
+    "quotes": [
+      {
+        "text": "Are we ever gonna get to use the bed? Come on, honey. There's nothing wrong with the hammock. (MOANING)",
+        "character": "",
+        "audioUrl": "audio/entourage/001_are_we_ever_gonna_get_to_use_the_bed_come_on_honey_there_s_n.mp3"
+      },
+      {
+        "text": "Are you hiding something from me Ari. Only my cock and my asshole Lloyd.",
+        "character": "",
+        "audioUrl": "audio/entourage/002_are_you_hiding_something_from_me_ari_only_my_cock_and_my_ass.mp3"
+      },
+      {
+        "text": "Ari Gold: Let's hug it out, bitch.",
+        "character": "",
+        "audioUrl": "audio/entourage/003_ari_gold_let_s_hug_it_out_bitch.mp3"
+      },
+      {
+        "text": "Craftsman's are very hot right now, Vince. I just sold one to that actor from Smallville. Where's Smallville?",
+        "character": "",
+        "audioUrl": "audio/entourage/004_craftsman_s_are_very_hot_right_now_vince_i_just_sold_one_to.mp3"
+      },
+      {
+        "text": "Dana I have never cheated on my wife. not since she became my wife but if you want to jerk me in the car right now I'm game",
+        "character": "",
+        "audioUrl": "audio/entourage/006_dana_i_have_never_cheated_on_my_wife_not_since_she_became_my.mp3"
+      },
+      {
+        "text": "Dinner was great Tell Drama he's on my to do list. right after inserting needles in my cock",
+        "character": "",
+        "audioUrl": "audio/entourage/007_dinner_was_great_tell_drama_he_s_on_my_to_do_list_right_afte.mp3"
+      },
+      {
+        "text": "Do you have Vince No I have Drama. and he says that he's been authorized to tell you that Vince will not speak to you until he Drama has a job Really Really. RINGING CONTINUES. Question Uh no lox at staff meetings now Ari. Cost cutting until we get into the new offices. There will be lox in the new year trust me. Until then enjoy the gourmet chicken salad. Anyway people. staff meeting has been canceled You all have one goal today. To get Vincent Chase's brother. Johnny Chase a job Any job....",
+        "character": "",
+        "audioUrl": "audio/entourage/008_do_you_have_vince_no_i_have_drama_and_he_says_that_he_s_been.mp3"
+      },
+      {
+        "text": "Don't talk to us like we're adopted bro.",
+        "character": "",
+        "audioUrl": "audio/entourage/009_don_t_talk_to_us_like_we_re_adopted_bro.mp3"
+      },
+      {
+        "text": "DRAMA: Back off a little. You're too close. TURTLE: I'm two cars back. What do you want? Always keep two fifths of a block between you and your subject. Oh, what, have you done this before, Drama? Too many times, Turtle. Too many times. I'm thinking about taking a trip to Paris. - Yeah? - Yeah. I've got a week before shooting starts. It's six months of hell after that. - Yeah. - I could use a trip. I'll tell the boys. No, not with the boys. With Mandy.",
+        "character": "",
+        "audioUrl": "audio/entourage/010_drama_back_off_a_little_you_re_too_close_turtle_i_m_two_cars.mp3"
+      },
+      {
+        "text": "Easy, Ari. What do you say we race for pink slips? I was thinking about getting that car for my daughter for her Sweet 16. Your daughter's almost 16, huh, Ari? Two more years and she's legal. - Watch it, Davies. - Or what? You couldn't catch me if you wanted to. 100 bucks says I pass Bijan before you. Bijan? You really are a bitch. But you're on!",
+        "character": "",
+        "audioUrl": "audio/entourage/011_easy_ari_what_do_you_say_we_race_for_pink_slips_i_was_thinki.mp3"
+      },
+      {
+        "text": "Eric Murphy's office. Uh, just a second.",
+        "character": "",
+        "audioUrl": "audio/entourage/012_eric_murphy_s_office_uh_just_a_second.mp3"
+      },
+      {
+        "text": "Get a picture of me and my brother. - You used to be on that show, right? - I've been on a bunch of shows. - Vince's brother, what's your name? - Johnny Chase, he steals the film. One more, guys. (PHOTOGRAPHERS CLAMORING INDISTINCTLY)",
+        "character": "",
+        "audioUrl": "audio/entourage/013_get_a_picture_of_me_and_my_brother_you_used_to_be_on_that_sh.mp3"
+      },
+      {
+        "text": "Give me a call when you guys want me to pick you up. What was that number again? Don't worry, I already got it. Come on!",
+        "character": "",
+        "audioUrl": "audio/entourage/014_give_me_a_call_when_you_guys_want_me_to_pick_you_up_what_was.mp3"
+      },
+      {
+        "text": "Goal! (GUNSHOT) Papi, Papi! Papi, Papi. (SOBBING) Papi. (ENGINE REVS)",
+        "character": "",
+        "audioUrl": "audio/entourage/015_goal_gunshot_papi_papi_papi_papi_sobbing_papi_engine_revs.mp3"
+      },
+      {
+        "text": "He did but he didn't go because he thought. he might run into Vince again Ridiculous Is it ridiculous What are you two a fucking tag team. I don't think that Vincent Chase should determine. where you go and don't go in this town He doesn't determine. He's been in a funk since he got fired. And then of course there was the birthday party incident. Everybody stop. I didn't go to the Lakers game 'cause they were playing the fucking Bobcats. And I came here today because I thought this was a...",
+        "character": "",
+        "audioUrl": "audio/entourage/016_he_did_but_he_didn_t_go_because_he_thought_he_might_run_into.mp3"
+      },
+      {
+        "text": "He's fucking a guy You're getting asked out like a little bitch. I'd say it's a very big deal.",
+        "character": "",
+        "audioUrl": "audio/entourage/017_he_s_fucking_a_guy_you_re_getting_asked_out_like_a_little_bi.mp3"
+      },
+      {
+        "text": "Hello, ladies... Johnny Chase, official cast member, \"Rush Hour 3.\" Nice. (LAUGHS). (GRUNTS SOFTLY)",
+        "character": "",
+        "audioUrl": "audio/entourage/018_hello_ladies_johnny_chase_official_cast_member_rush_hour_3_n.mp3"
+      },
+      {
+        "text": "Hey don't kid yourself E North of Ventura Boulevard. is Hell's waiting room Be prepared",
+        "character": "",
+        "audioUrl": "audio/entourage/019_hey_don_t_kid_yourself_e_north_of_ventura_boulevard_is_hell.mp3"
+      },
+      {
+        "text": "Hey Is it me. or is her voice getting worse Ari Doesn't mean that I don't love her but she's just awful baby.",
+        "character": "",
+        "audioUrl": "audio/entourage/020_hey_is_it_me_or_is_her_voice_getting_worse_ari_doesn_t_mean.mp3"
+      },
+      {
+        "text": "Hey. 10! (ALL LAUGH) - Last ticket. - Our work here is done. Excuse me!",
+        "character": "",
+        "audioUrl": "audio/entourage/021_hey_10_all_laugh_last_ticket_our_work_here_is_done_excuse_me.mp3"
+      },
+      {
+        "text": "Hi Mr Gold I'm Jake Steinberg. H R Sent me up to replace your last assistant. I don't care Get me Eddie Kapowski on the phone. Any relation to Kelly Kapowski You know Saved by the Bell. You're finished Go. You're fucking fired.",
+        "character": "",
+        "audioUrl": "audio/entourage/022_hi_mr_gold_i_m_jake_steinberg_h_r_sent_me_up_to_replace_your.mp3"
+      },
+      {
+        "text": "Holy shit. Are we gonna go cash this? - Not now. We're on our way to Malibu. - Malibu? I booked a massage. So cancel it. I'll have Turtle give you a rubdown. What the hell's in Malibu? Marcel, cancel my 11:00 deep tissue, please. Thank you. Fuckin' Malibu. (LIKE DAT PLAYING)",
+        "character": "",
+        "audioUrl": "audio/entourage/024_holy_shit_are_we_gonna_go_cash_this_not_now_we_re_on_our_way.mp3"
+      },
+      {
+        "text": "I dropped my monkey! MOTHER: No, come back!",
+        "character": "",
+        "audioUrl": "audio/entourage/025_i_dropped_my_monkey_mother_no_come_back.mp3"
+      },
+      {
+        "text": "I was gonna put that scene back in anyway. Now play your funky music, white boy. (HIP HOP MUSIC PLAYING)",
+        "character": "",
+        "audioUrl": "audio/entourage/026_i_was_gonna_put_that_scene_back_in_anyway_now_play_your_funk.mp3"
+      },
+      {
+        "text": "I'm afraid of him I'll beat that old fuck and throw him in the pool. Only Daddy speaks that way.",
+        "character": "",
+        "audioUrl": "audio/entourage/027_i_m_afraid_of_him_i_ll_beat_that_old_fuck_and_throw_him_in_t.mp3"
+      },
+      {
+        "text": "I've been working steady for the last twelve years minus the last three.",
+        "character": "",
+        "audioUrl": "audio/entourage/028_i_ve_been_working_steady_for_the_last_twelve_years_minus_the.mp3"
+      },
+      {
+        "text": "It's not about an Oscar or the neighborhood. If it's good I'll do it.",
+        "character": "",
+        "audioUrl": "audio/entourage/029_it_s_not_about_an_oscar_or_the_neighborhood_if_it_s_good_i_l.mp3"
+      },
+      {
+        "text": "Jesus Christ Ari Gold. You just got demoted to silver.",
+        "character": "",
+        "audioUrl": "audio/entourage/030_jesus_christ_ari_gold_you_just_got_demoted_to_silver.mp3"
+      },
+      {
+        "text": "Look at this. (SCOFFS) What a dump. You could use the exercise anyway, fat boy. Yeah, why don't you race me up, you 50 year old cocksucker?",
+        "character": "",
+        "audioUrl": "audio/entourage/037_look_at_this_scoffs_what_a_dump_you_could_use_the_exercise_a.mp3"
+      },
+      {
+        "text": "No e mails, no faxes, no phone calls, no nothing. - Simply silence, Lloyd. - (WHISPERS) Ari. Silence, Lloyd. It's golden.",
+        "character": "",
+        "audioUrl": "audio/entourage/038_no_e_mails_no_faxes_no_phone_calls_no_nothing_simply_silence.mp3"
+      },
+      {
+        "text": "Pavarottis are out tonight, huh, E? Check out the tits on the girl from Extra. Go find out where Ali's sitting. Make sure she's not within 10 rows. - And don't mug for the cameras, either. - Come on.",
+        "character": "",
+        "audioUrl": "audio/entourage/039_pavarottis_are_out_tonight_huh_e_check_out_the_tits_on_the_g.mp3"
+      },
+      {
+        "text": "Scotch. - How about we make it a double? - (LAUGHS) - Thanks so much. - You're welcome. (BABY CRYING) Yo, love that you're sitting coach. Very cool. Thanks, kid. How you doing, Drama? Not good. But I took two Vics, so I will be. (CRYING)",
+        "character": "",
+        "audioUrl": "audio/entourage/040_scotch_how_about_we_make_it_a_double_laughs_thanks_so_much_y.mp3"
+      },
+      {
+        "text": "Script Shut the fuck up Lloyd",
+        "character": "",
+        "audioUrl": "audio/entourage/041_script_shut_the_fuck_up_lloyd.mp3"
+      },
+      {
+        "text": "Shh. Give me a call. (GRUNTING) (CHUCKLING)",
+        "character": "",
+        "audioUrl": "audio/entourage/042_shh_give_me_a_call_grunting_chuckling.mp3"
+      },
+      {
+        "text": "Shut the fuck up Lloyd phone ringing.",
+        "character": "",
+        "audioUrl": "audio/entourage/043_shut_the_fuck_up_lloyd_phone_ringing.mp3"
+      },
+      {
+        "text": "So what's in the gym bag Uh it's a kilo of blow. What's with all the fucking questions He's showing off for you.",
+        "character": "",
+        "audioUrl": "audio/entourage/045_so_what_s_in_the_gym_bag_uh_it_s_a_kilo_of_blow_what_s_with.mp3"
+      },
+      {
+        "text": "So, you all live here together? - I live in the guest house. - I'm a guest. Show me.",
+        "character": "",
+        "audioUrl": "audio/entourage/046_so_you_all_live_here_together_i_live_in_the_guest_house_i_m.mp3"
+      },
+      {
+        "text": "Sorry about this. I'm just a bit distracted. I know, you taking over an hour. Is there anything else I can do? No, it's okay, just keep doing what you're doing.",
+        "character": "",
+        "audioUrl": "audio/entourage/047_sorry_about_this_i_m_just_a_bit_distracted_i_know_you_taking.mp3"
+      },
+      {
+        "text": "This fucking art man Fuck art.",
+        "character": "",
+        "audioUrl": "audio/entourage/048_this_fucking_art_man_fuck_art.mp3"
+      },
+      {
+        "text": "Too many times Turtle. Too many times.",
+        "character": "",
+        "audioUrl": "audio/entourage/049_too_many_times_turtle_too_many_times.mp3"
+      },
+      {
+        "text": "Well it doesn't exactly scream I'm Vincent Chase's manager. No It screams I'm Johnny Chase's.",
+        "character": "",
+        "audioUrl": "audio/entourage/051_well_it_doesn_t_exactly_scream_i_m_vincent_chase_s_manager_n.mp3"
+      },
+      {
+        "text": "Were you going to say goodbye? Yeah, I was going to call you tonight. I swear. Should I come visit you in New York? Can you? That'd be great. - Really? - Yeah, really.",
+        "character": "",
+        "audioUrl": "audio/entourage/052_were_you_going_to_say_goodbye_yeah_i_was_going_to_call_you_t.mp3"
+      },
+      {
+        "text": "What do you think? Oh, they're loving it. Wait till they get a load of the end of this scene. TURTLE: Jesus Christ, where's this jerkoff going? Hey, pal... you wanna sit down? You're about to miss. the best part of the whole movie. I have to use the bathroom. Sit down.",
+        "character": "",
+        "audioUrl": "audio/entourage/053_what_do_you_think_oh_they_re_loving_it_wait_till_they_get_a.mp3"
+      },
+      {
+        "text": "What is it distracting you? That. I didn't know you had a subscription. Ah, customer must have left it. You can read if you think it will help. No no. It won't help.",
+        "character": "",
+        "audioUrl": "audio/entourage/054_what_is_it_distracting_you_that_i_didn_t_know_you_had_a_subs.mp3"
+      },
+      {
+        "text": "What the fuck are you wearing. I'm trying out new looks. This one's my Andre 3000 You like. No I don't You look like Michelle Kwan in drag. Do a triple fucking axel over to the phone and try Cameron again.",
+        "character": "",
+        "audioUrl": "audio/entourage/055_what_the_fuck_are_you_wearing_i_m_trying_out_new_looks_this.mp3"
+      },
+      {
+        "text": "Where am I going Ivy you're 20 minutes late. Ari I need to talk to you about something Walk with me. Vince and the guys will be partying at Josh Weinstein's. Who's Josh Weinstein He's your old assistant. I have many old assistants. Two before me after Jackie before Jared. My J phase I think I fired him for stealing pens. Why do I care about Josh Now he's an agent at Triad. Uh huh. And he's the one who gave the boys Queens Boulevard. That's why no more guys You fire a guy and you create a...",
+        "character": "",
+        "audioUrl": "audio/entourage/056_where_am_i_going_ivy_you_re_20_minutes_late_ari_i_need_to_ta.mp3"
+      },
+      {
+        "text": "Why aren't you eating? They got downgraded to a \"B.\". If these warm plates aren't heated up to the right temperature... they become hotbeds of bacteria. Hey. Isn't that that girl from Cheetahs in Vegas? Yeah, the one you cock blocked me for. Please, she was so into me. Hey! Hey!",
+        "character": "",
+        "audioUrl": "audio/entourage/057_why_aren_t_you_eating_they_got_downgraded_to_a_b_if_these_wa.mp3"
+      },
+      {
+        "text": "Why don't you let us show you what we're talking about? Sure. Dana, let's bring in the suit. (CLEARS THROAT) Bring in the suit.",
+        "character": "",
+        "audioUrl": "audio/entourage/058_why_don_t_you_let_us_show_you_what_we_re_talking_about_sure.mp3"
+      },
+      {
+        "text": "Wow, nice car, Ari. Anniversary gift from the wife. Thanks, Davies. Oh, that's right, I forgot, you married into money. Good for you, Ari. Good for you. We only use her money for the small stuff. Someday when you're done sucking on Terrance's tit, you might want to get yourself into a man's car like this. (SNIFFS) Breathe deep, Ari, here comes the dust. - Fuck it. - (TIRES SQUEAL)",
+        "character": "",
+        "audioUrl": "audio/entourage/059_wow_nice_car_ari_anniversary_gift_from_the_wife_thanks_davie.mp3"
+      },
+      {
+        "text": "Yeah, Wilson, it's McCabe. I'm code three. Winds took me about 100 yards from the drop point. (CLEARS THROAT) (SIGHS)",
+        "character": "",
+        "audioUrl": "audio/entourage/060_yeah_wilson_it_s_mccabe_i_m_code_three_winds_took_me_about_1.mp3"
+      },
+      {
+        "text": "Yeah. Isn't that something? Isn't that something? No way I'm gonna be up on a 70 foot screen looking like an underwater Elton John. Vinnie, the suit will not look like that on film. Tom Cruise is, like, 5'4\", on screen he looks like Yao Ming. - It's just a prototype, Vince. - Yeah! Ari, it's over. Do not mention this movie to me again. All right, now find me something else I can do. I'll deal with this.",
+        "character": "",
+        "audioUrl": "audio/entourage/061_yeah_isn_t_that_something_isn_t_that_something_no_way_i_m_go.mp3"
+      },
+      {
+        "text": "You are so gonna bang this girl. VINCE: She can be real trouble for me, I'm telling you. If you and Drama both have girlfriends, I'm gonna shoot myself. I hope I have a girlfriend after tonight. I'm gonna go call her. (JUSTINE SINGING)",
+        "character": "",
+        "audioUrl": "audio/entourage/062_you_are_so_gonna_bang_this_girl_vince_she_can_be_real_troubl.mp3"
+      },
+      {
+        "text": "You guys hang here. We'll be back in a little while. Don't talk to us like we're adopted, bro.",
+        "character": "",
+        "audioUrl": "audio/entourage/063_you_guys_hang_here_we_ll_be_back_in_a_little_while_don_t_tal.mp3"
+      },
+      {
+        "text": "You know what E's right. We should just focus on Queens Boulevard. You know what they feed people on an indie set Vinny. Nothing No trailer They tell you to go sit on an apple box. You ever try to bang an extra on an apple box. If anybody could do it Vince could I do have great balance.",
+        "character": "",
+        "audioUrl": "audio/entourage/064_you_know_what_e_s_right_we_should_just_focus_on_queens_boule.mp3"
+      },
+      {
+        "text": "You know, sitting here in this expensive suit, flying in this expensive helicopter, going to an expensive guy's house, I finally feel like I made something in my life. Thanks, Vince. I'd feel the same fucking way if I was wearing that shirt.",
+        "character": "",
+        "audioUrl": "audio/entourage/065_you_know_sitting_here_in_this_expensive_suit_flying_in_this.mp3"
+      },
+      {
+        "text": "23 minutes to the Valley. I'm like Chuck Yeager. Uh huh, he's waiting. - Do you need a drink? - I'm all good.",
+        "character": "",
+        "audioUrl": "audio/entourage/066_23_minutes_to_the_valley_i_m_like_chuck_yeager_uh_huh_he_s_w.mp3"
+      },
+      {
+        "text": "- (CAR HORN HONKS) - (SIGHS) Fucking Malibu!",
+        "character": "",
+        "audioUrl": "audio/entourage/067_car_horn_honks_sighs_fucking_malibu.mp3"
+      },
+      {
+        "text": "- (DOG WHINING) - Do you smell something? Is that sausage? No, that's gourmet kielbasa. It's been aging for three days. I was going to surprise you guys. I'll kill that son of a bitch!",
+        "character": "",
+        "audioUrl": "audio/entourage/068_dog_whining_do_you_smell_something_is_that_sausage_no_that.mp3"
+      },
+      {
+        "text": "- Going down? - It looks like we all are. Look, I'm sorry about that pizza remark. Sorry I came back at you so hard. You were just doing what you were supposed to do. - Protecting your client, right? - That's right. So who else do you represent, Eric? Oh, right. Just Vince. You want to start in again, Barbara? My point is I have 100 clients. So if I'm this worried about one of 100, how worried should you be about one of one? That's some apology, Barbara.",
+        "character": "",
+        "audioUrl": "audio/entourage/069_going_down_it_looks_like_we_all_are_look_i_m_sorry_about_th.mp3"
+      },
+      {
+        "text": "- Here. - I like it. - (LAUGHS) - Here we go. All right, come on. Let's eat. Here we go. What, peer pressure? Fine.",
+        "character": "",
+        "audioUrl": "audio/entourage/070_here_i_like_it_laughs_here_we_go_all_right_come_on_let_s_ea.mp3"
+      },
+      {
+        "text": "- MAN: Yes? - How are you doing? I have Vincent Chase for the Sweet 16 meet. Come through. And please take your shoes off at the front door.",
+        "character": "",
+        "audioUrl": "audio/entourage/071_man_yes_how_are_you_doing_i_have_vincent_chase_for_the_swee.mp3"
+      },
+      {
+        "text": "- Mind if we join you? - WOMAN: Sure. - I'll take some chips, please. - All of it? - Well, 10 is yours, do what you want. - Really? Yeah, man. Commission. You earned it. (LAUGHS) Thank you, Vince! (RAP MUSIC PLAYING)",
+        "character": "",
+        "audioUrl": "audio/entourage/072_mind_if_we_join_you_woman_sure_i_ll_take_some_chips_please.mp3"
+      },
+      {
+        "text": "- Wake up. - I'm up. - You're like kissing a corpse. - I'm sorry. You're not attracted to me? Are you kidding? You're smoking. - Yeah? - Yeah. Maybe you just need to loosen up a little. Relax.",
+        "character": "",
+        "audioUrl": "audio/entourage/073_wake_up_i_m_up_you_re_like_kissing_a_corpse_i_m_sorry_you_r.mp3"
+      },
+      {
+        "text": "- Yeah? - You up? Yeah, of course. You know you've got that meeting in 45 minutes. - Yeah, I know. - You want me to go with you? No, E, relax. I'm all good. - All right, good. I'll talk to you later. - Bye. You have to go? Yeah, I've got to go win over my director. You have a couple minutes. I'm exhausted. I'm not sure we'd accomplish much in a couple minutes. You relax, I'll accomplish.",
+        "character": "",
+        "audioUrl": "audio/entourage/074_yeah_you_up_yeah_of_course_you_know_you_ve_got_that_meeting.mp3"
+      },
+      {
+        "text": "-You okay? -Not really. You need to get some sleep. l actually need to talk to you. -Okay. -Just give me a second. l'm trying to figure out how we're gonna have a conversation without getting into a fight. Ha, what conversation? Why would we have a fight? Because you like to tell me what l've done wrong. -You don't like to fix things. -Really? You know what? Pull over here.",
+        "character": "",
+        "audioUrl": "audio/entourage/075_you_okay_not_really_you_need_to_get_some_sleep_l_actually_n.mp3"
+      },
+      {
+        "text": "(ALARM BLARING) (HIP HOP MUSIC PLAYING)",
+        "character": "",
+        "audioUrl": "audio/entourage/076_alarm_blaring_hip_hop_music_playing.mp3"
+      },
+      {
+        "text": "(BELL RINGING) (PEOPLE CHEERING) (MAN WHISTLING) (SHOUTING)",
+        "character": "",
+        "audioUrl": "audio/entourage/077_bell_ringing_people_cheering_man_whistling_shouting.mp3"
+      },
+      {
+        "text": "(CAR APPROACHES) Salgan! - Salg... - (CHILDREN SPEAKING SPANISH) Hola, hermano. (SPEAKING SPANISH)",
+        "character": "",
+        "audioUrl": "audio/entourage/078_car_approaches_salgan_salg_children_speaking_spanish_hola_h.mp3"
+      },
+      {
+        "text": "(CHATTERING, LAUGHING) - E: Uh oh. - You... you booked him into this? - Turtle did. - Nice job managing. This should be great for his image. E: What are you doing? I'm on vay cay. Getting a cocktail. - (CAMERAS CLICKING) - All right. What are we drinking?",
+        "character": "",
+        "audioUrl": "audio/entourage/080_chattering_laughing_e_uh_oh_you_you_booked_him_into_this_tu.mp3"
+      },
+      {
+        "text": "(HIP HOP MUSIC PLAYING) (ENGINE REWING)",
+        "character": "",
+        "audioUrl": "audio/entourage/081_hip_hop_music_playing_engine_rewing.mp3"
+      },
+      {
+        "text": "(PEOPLE CHEERING) Whoa! (PEOPLE WHISTLING) Lights Out, it's Johnny Drama! What's up, man? You see that? He recognized me. (RAP MUSIC PLAYING) (MAN WHOOPING)",
+        "character": "",
+        "audioUrl": "audio/entourage/084_people_cheering_whoa_people_whistling_lights_out_it_s_johnn.mp3"
+      },
+      {
+        "text": "♪ I wanna be your superhero ♪",
+        "character": "",
+        "audioUrl": "audio/entourage/089_i_wanna_be_your_superhero.mp3"
+      },
+      {
+        "text": "♪ Yeah, oh yeah ♪ ♪ Oh yeah. ♪",
+        "character": "",
+        "audioUrl": "audio/entourage/090_yeah_oh_yeah_oh_yeah.mp3"
       }
     ]
   }

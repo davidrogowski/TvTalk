@@ -377,6 +377,8 @@ shows:
     board_url: "https://www.101soundboards.com/boards/1395087-strange-wilderness-2008"
     status: pending
     type: movie
+    text_style: "title"
+    preserve_transcripts: true
     dedup: true
     theme:
       primary: "#2f7d5a"
@@ -426,3 +428,42 @@ shows:
       primary: "#3a9bd4"
       accent:  "#ecc21e"
       bg:      "#06090d"
+
+  - id: django-unchained
+    name: "Django Unchained"
+    board_url: "https://www.101soundboards.com/boards/88141-django-unchained-soundboard"
+    board_url_2: "https://www.101soundboards.com/boards/99916-django-unchained-2012-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    censor_nword: true
+    max_length: 9999          # board 1: keep all
+    min_length_2: 6           # board 2: omit captions of 5 words or fewer
+    max_length_2: 9999
+    theme:
+      primary: "#9e1b1b"
+      accent:  "#cf9b34"
+      bg:      "#0b0605"
+
+  - id: dodgeball
+    name: "Dodgeball"
+    board_url: "https://www.101soundboards.com/boards/32091-dodgeball-a-true-underdog-story-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    dedup: true
+    theme:
+      primary: "#6d3f9c"
+      accent:  "#e8c33a"
+      bg:      "#0a0610"
+
+  - id: entourage
+    name: "Entourage"
+    board_url: "https://www.101soundboards.com/boards/1388507-entourage-2004"
+    status: pending
+    min_length: 6             # omit captions of 5 words or fewer
+    max_length: 9999          # keep the long ones
+    theme:
+      primary: "#c8a24a"
+      accent:  "#3a7d9c"
+      bg:      "#0a0906"

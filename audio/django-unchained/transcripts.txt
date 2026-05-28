@@ -1,0 +1,663 @@
+001_bad_news.mp3
+  "Bad News"
+  CHARACTER: 
+
+002_curiosity_and_attention.mp3
+  "Curiosity and Attention"
+  CHARACTER: 
+
+003_fuck_all_y_all_i_m_goin_home.mp3
+  "Fuck all y'all! I'm goin home!"
+  CHARACTER: 
+
+004_i_m_riding_blind.mp3
+  "I'm riding blind"
+  CHARACTER: 
+
+005_it_s_like_a_reward.mp3
+  "It's like a reward"
+  CHARACTER: 
+
+006_my_property.mp3
+  "My property"
+  CHARACTER: 
+
+007_nod.mp3
+  "Nod"
+  CHARACTER: 
+
+008_noooo.mp3
+  "Noooo!"
+  CHARACTER: 
+
+009_not_pointing_any_finngers.mp3
+  "Not pointing any finngers"
+  CHARACTER: 
+
+010_now_we_must_act_as_our_own_bartender.mp3
+  "Now we must act as our own bartender"
+  CHARACTER: 
+
+011_say_goodnight_to_them_nuts.mp3
+  "Say goodnight to them nuts"
+  CHARACTER: 
+
+012_the_d_is_silent.mp3
+  "The D is Silent"
+  CHARACTER: 
+
+013_to_you_sir_i_say_goodbye.mp3
+  "To you sir I say... Goodbye"
+  CHARACTER: 
+
+014_well_come_on_inside_and_get_yourself_something_cool_to_drink.mp3
+  "Well come on inside and get yourself something cool to drink"
+  CHARACTER: 
+
+015_who_dis_n_on_dat_nag.mp3
+  "Who dis n**** on dat nag?"
+  CHARACTER: 
+
+016_with_my_hands_raised_above_my_head.mp3
+  "With My Hands Raised Above My Head"
+  CHARACTER: 
+
+017_you_will.mp3
+  "You will?"
+  CHARACTER: 
+
+018_ah_yes_yes_we_were_doctor.mp3
+  "Ah, yes. Yes, we were, doctor."
+  CHARACTER: 
+
+020_alexandre_dumas_he_wrote_the_three_musketeers.mp3
+  "Alexandre Dumas. He wrote The Three Musketeers"
+  CHARACTER: 
+
+021_and_all_i_can_hear_is_criticize_criticize_criticize.mp3
+  "And all I can hear is criticize, criticize, criticize!"
+  CHARACTER: 
+
+022_and_all_y_all_know_i_ain_t_supposed_to_be_on_this_trip.mp3
+  "And all y'all know I ain't supposed to be on this trip"
+  CHARACTER: 
+
+023_and_do_you_know_what_the_farmer_says.mp3
+  "And do you know what the farmer says?"
+  CHARACTER: 
+
+024_and_he_didn_t_mind_killing_people_to_do_it.mp3
+  "And he didn't mind killing people to do it"
+  CHARACTER: 
+
+025_and_i_do_believe_i_have_one_two_three_four.mp3
+  "And I do believe I have... one, two, three, four..."
+  CHARACTER: 
+
+026_and_i_take_it_you_prefer_the_take_it_or_leave_it_style_of_ne.mp3
+  "And I take it you prefer the take it or leave it style of negotiation?"
+  CHARACTER: 
+
+027_and_i_was_wondering_what_dumas_would_make_of_all_this.mp3
+  "And I was wondering what Dumas would make of all this"
+  CHARACTER: 
+
+028_and_it_is_for_these_attributes_we_ve_ridden_from_texas_to_te.mp3
+  "And it is for these attributes we've ridden from Texas to Tennessee"
+  CHARACTER: 
+
+029_and_she_ain_t_gonna_be_worth_she_ain_t_gonna_be_worth_a_damn.mp3
+  "And she ain't gonna be worth... she ain't gonna be worth a damn thing"
+  CHARACTER: 
+
+030_and_the_way_you_have_your_mr_moguy_i_have_a_lawyer.mp3
+  "And the way you have your Mr. Moguy, I have a lawyer"
+  CHARACTER: 
+
+031_and_these_are_our_horses_tony_and_fritz.mp3
+  "And these are our horses, Tony and Fritz."
+  CHARACTER: 
+
+033_and_we_will_again_in_a_moment.mp3
+  "And we will again. In a moment"
+  CHARACTER: 
+
+034_and_what_s_the_golden_rule_frankie_eh.mp3
+  "And what's the golden rule, Frankie, eh?"
+  CHARACTER: 
+
+035_and_of_course_her_freedom_papers_doctor.mp3
+  "And, of course, her freedom papers, doctor."
+  CHARACTER: 
+
+038_billy_crash_here_got_his_pistol_upside_her_head.mp3
+  "Billy Crash here got his pistol upside her head"
+  CHARACTER: 
+
+040_but_i_didn_t_want_you_to_do_anything_rash.mp3
+  "But I didn't want you to do anything rash"
+  CHARACTER: 
+
+041_but_i_m_willing_to_wager_this_man_was_elected_sheriff.mp3
+  "But I'm willing to wager this man was elected sheriff"
+  CHARACTER: 
+
+042_but_now_you_have_my_attention.mp3
+  "But now you have my attention."
+  CHARACTER: 
+
+043_but_she_s_a_young_lady_whip_marks_on_her_back_and_speaks_ger.mp3
+  "But she's a young lady, whip marks on her back and speaks German."
+  CHARACTER: 
+
+044_but_like_you_said_in_greenville_doctor_i_don_t_want_to_sell.mp3
+  "But, like you said in Greenville, doctor... I don't want to sell him"
+  CHARACTER: 
+
+047_come_on_now_boy_get_on_out_that_tree.mp3
+  "Come on now, boy... get on out that tree"
+  CHARACTER: 
+
+050_despite_that_cart_i_haven_t_practiced_dentistry_in_five_year.mp3
+  "Despite that cart, I haven't practiced dentistry in five years."
+  CHARACTER: 
+
+051_django_this_is_mr_candie_s_lawyer_leonide_moguy.mp3
+  "Django, this is Mr. Candie's lawyer, Leonide Moguy."
+  CHARACTER: 
+
+053_do_what_i_told_you_boy.mp3
+  "Do what I told you, boy!"
+  CHARACTER: 
+
+054_do_you_know_who_the_brittle_brothers_are.mp3
+  "Do you know who the Brittle Brothers are?"
+  CHARACTER: 
+
+055_doesn_t_mean_that_other_bunch_of_malarkey_is.mp3
+  "Doesn't mean that other bunch of malarkey is."
+  CHARACTER: 
+
+056_don_t_let_that_mud_slow_you_down_keep_going.mp3
+  "Don't let that mud slow you down. Keep going."
+  CHARACTER: 
+
+057_dr_schultz_may_i_introduce_to_you_broomhilda.mp3
+  "Dr. Schultz. May I introduce to you Broomhilda?"
+  CHARACTER: 
+
+059_frankie_why_don_t_you_take_them_sticks_off_that_horse.mp3
+  "Frankie, why don't you take them sticks off that horse"
+  CHARACTER: 
+
+061_get_her_cleaned_up_and_smellin_real_nice.mp3
+  "Get her cleaned up and smellin' real nice,"
+  CHARACTER: 
+
+062_get_out_there_and_see_what_s_wrong_with_them_goddamn_dogs.mp3
+  "Get out there and see what's wrong with them goddamn dogs!"
+  CHARACTER: 
+
+071_he_gonna_stay_in_the_big_house.mp3
+  "He gonna stay in The Big House?"
+  CHARACTER: 
+
+072_he_is_a_rambunctious_sort_ain_t_he.mp3
+  "He is a rambunctious sort, ain't he?"
+  CHARACTER: 
+
+073_he_scales_the_mountain_because_he_s_not_afraid_of_it.mp3
+  "He scales the mountain, because he's not afraid of it."
+  CHARACTER: 
+
+074_he_s_a_free_man_he_can_ride_what_he_pleases.mp3
+  "He's a free man. He can ride what he pleases."
+  CHARACTER: 
+
+084_how_far_he_get_off_the_property.mp3
+  "How far he get off the property?"
+  CHARACTER: 
+
+086_how_many_n_you_think_you_see_come_and_go_huh.mp3
+  "How many n****** you think you see come and go, huh?"
+  CHARACTER: 
+
+087_huh_well_just_leave_em_out_here_they_ain_t_going_nowhere.mp3
+  "Huh. Well, just leave 'em out here, they ain't going nowhere"
+  CHARACTER: 
+
+089_i_am_dr_king_schultz_a_legal_representative.mp3
+  "I am Dr. King Schultz, a legal representative"
+  CHARACTER: 
+
+090_i_am_that_one_n_in_10_000.mp3
+  "I am that one n***** in 10,000."
+  CHARACTER: 
+
+091_i_can_t_fight_no_more_monsieur_candie.mp3
+  "I can't fight no more, Monsieur Candie."
+  CHARACTER: 
+
+092_i_do_believe_you_were_just_getting_ready_to_make_me.mp3
+  "I do believe you were just getting ready to make me"
+  CHARACTER: 
+
+094_i_got_no_use_for_a_n_with_sand.mp3
+  "I got no use for a n***** with sand."
+  CHARACTER: 
+
+097_i_track_that_man_i_find_that_man_i_kill_that_man.mp3
+  "I track that man, I find that man, I kill that man."
+  CHARACTER: 
+
+098_i_d_take_that_winter_coat_the_dear_departed_speck_left_behin.mp3
+  "I'd take that winter coat the dear departed Speck left behind."
+  CHARACTER: 
+
+102_i_m_doing_business_with_both_y_all.mp3
+  "I'm doing business with both y'all."
+  CHARACTER: 
+
+103_i_m_keeping_it_funny_for_you_now_john_please.mp3
+  "I'm keeping it funny for you. Now, John, please."
+  CHARACTER: 
+
+105_i_ve_been_led_to_believe_that_you_are_a_gentleman_and_a_busi.mp3
+  "I've been led to believe that you are a gentleman and a businessman."
+  CHARACTER: 
+
+106_is_that_who_you_was_lookin_for.mp3
+  "Is that who you was lookin' for?"
+  CHARACTER: 
+
+107_is_you_comin_with_me_or_is_you_gonna_sleep_in_that_little_bo.mp3
+  "Is you comin' with me or is you gonna sleep in that little box over yonder?"
+  CHARACTER: 
+
+108_it_is_the_soaring_eagle_that_attracts_her_attention.mp3
+  "It is the soaring eagle that attracts her attention,"
+  CHARACTER: 
+
+109_it_s_against_the_law_for_n_to_ride_horses_in_this_territory.mp3
+  "It's against the law for n****** to ride horses in this territory."
+  CHARACTER: 
+
+114_lara_lee_will_you_and_cora_be_responsible.mp3
+  "Lara Lee! Will you and Cora be responsible"
+  CHARACTER: 
+
+115_last_time_i_seen_you_you_had_your_hands_on_my.mp3
+  "Last time I seen you, you had your hands on my..."
+  CHARACTER: 
+
+116_lay_your_hand_flat_on_that_tabletop.mp3
+  "Lay your hand flat on that tabletop"
+  CHARACTER: 
+
+118_let_s_keep_it_funny_django_here_s_a_free_man.mp3
+  "Let's keep it funny. Django here's a free man."
+  CHARACTER: 
+
+119_line_em_up_to_the_left_here_now_boy.mp3
+  "Line 'em up to the left here now, boy."
+  CHARACTER: 
+
+120_look_monsieur_candie_they_were_all_fine_specimens_no_doubt_a.mp3
+  "Look, Monsieur Candie, they were all fine specimens, no doubt about it."
+  CHARACTER: 
+
+121_lots_of_gals_where_you_re_from_named_broomhilda.mp3
+  "Lots of gals where you're from named Broomhilda?"
+  CHARACTER: 
+
+122_may_i_present_to_you_lara_lee_candie_fitzwilly.mp3
+  "May I present to you Lara Lee Candie Fitzwilly."
+  CHARACTER: 
+
+126_move_that_buckboard_a_long_ways_across_the_street_from_the_s.mp3
+  "Move that buckboard a long ways across the street from the saloon."
+  CHARACTER: 
+
+128_mr_stonesipher_would_you_please_shut_these_goddamn_dogs_up.mp3
+  "Mr. Stonesipher, would you please shut these goddamn dogs up?"
+  CHARACTER: 
+
+129_my_partner_got_killed_calvin_candie_got_shot.mp3
+  "My partner got killed, Calvin Candie got shot,"
+  CHARACTER: 
+
+130_n_and_the_german_was_actin_like_they_were_slavers_but_they_w.mp3
+  "N***** and the German was actin' like they were slavers but they wasn't"
+  CHARACTER: 
+
+135_now_why_would_a_slave_have_a_wanted_dead_or_alive_handbill_i.mp3
+  "Now why would a slave have a Wanted Dead or Alive handbill in his pocket?"
+  CHARACTER: 
+
+136_now_boy_why_do_a_fool_thing_like_run_off.mp3
+  "Now, boy, why do a fool thing like run off?"
+  CHARACTER: 
+
+138_now_gentlemen_i_do_apologize_but_i_am_weary_from_our_travels.mp3
+  "Now, gentlemen, I do apologize, but I am weary from our travels beyond words."
+  CHARACTER: 
+
+139_now_may_i_please_remove_the_warrant_from_my_pocket_so_you_ma.mp3
+  "Now, may I please remove the warrant from my pocket so you may examine it?"
+  CHARACTER: 
+
+141_now_why_that_german_gives_a_fuck_who_that_uppity_son_of_a_bi.mp3
+  "Now, why that German gives a fuck who that uppity son of a bitch"
+  CHARACTER: 
+
+144_oh_monsieur_candie_you_can_t_imagine_what_it_s_like.mp3
+  "Oh, Monsieur Candie, you can't imagine what it's like"
+  CHARACTER: 
+
+145_oh_mr_bennett_i_must_remind_you_django_is_a_free_man.mp3
+  "Oh, Mr. Bennett, I must remind you, Django is a free man."
+  CHARACTER: 
+
+147_oh_no_i_ain_t_got_no_problem_with_it.mp3
+  "Oh, no. I ain't got no problem with it,"
+  CHARACTER: 
+
+151_old_man_carrucan_ain_t_gonna_appreciate_this_now.mp3
+  "Old Man Carrucan ain't gonna appreciate this, now."
+  CHARACTER: 
+
+152_old_man_carrucan_didn_t_that_s_why_we_uh_we_run_off.mp3
+  "Old Man Carrucan didn't. That's why we, uh... we run off."
+  CHARACTER: 
+
+153_once_it_catches_your_ass_you_re_caught.mp3
+  "Once it catches your ass, you're caught."
+  CHARACTER: 
+
+155_one_could_almost_say_youse_a_n.mp3
+  "One could almost say youse a n*****."
+  CHARACTER: 
+
+156_please_won_t_you_take_a_ride_with_us_here_in_the_victoria.mp3
+  "Please, won't you take a ride with us here in the Victoria."
+  CHARACTER: 
+
+159_see_i_told_you_to_put_some_more_power_in_there.mp3
+  "See, I told you to put some more power in there."
+  CHARACTER: 
+
+160_seein_as_how_they_don_t_have_many_n_where_he_come_from.mp3
+  "Seein' as how they don't have many n****** where he come from"
+  CHARACTER: 
+
+163_shut_up_black_you_ain_t_got_nothing_to_say_i_want_to_hear.mp3
+  "Shut up, black. You ain't got nothing to say I want to hear"
+  CHARACTER: 
+
+164_smitty_bacall_and_the_smitty_bacall.mp3
+  "Smitty Bacall and the Smitty Bacall"
+  CHARACTER: 
+
+165_so_before_that_moment_it_would_be_good_if_i_could_have.mp3
+  "So before that moment, it would be good if I could have"
+  CHARACTER: 
+
+166_so_he_puts_her_on_top_of_the_mountain.mp3
+  "So he puts her on top of the mountain."
+  CHARACTER: 
+
+167_so_that_s_what_i_m_doing_i_m_gettin_dirty.mp3
+  "So that's what I'm doing. I'm gettin' dirty."
+  CHARACTER: 
+
+169_stephen_what_the_hell_are_you_talking_about_hm.mp3
+  "Stephen, what the hell are you talking about? Hm?"
+  CHARACTER: 
+
+170_thank_you_for_your_assistance_in_creating_the_opportunity.mp3
+  "Thank you for your assistance in creating the opportunity"
+  CHARACTER: 
+
+172_the_black_hercules_isn_t_that_clever.mp3
+  "The Black Hercules, isn't that clever?"
+  CHARACTER: 
+
+173_the_farmer_is_forced_to_say_yes.mp3
+  "The farmer is forced to say yes."
+  CHARACTER: 
+
+175_the_man_lying_dead_in_the_dirt_who_the_good_people_of_daught.mp3
+  "The man lying dead in the dirt, who the good people of Daughtrey"
+  CHARACTER: 
+
+176_the_man_to_my_left_is_django_freeman_he_s_my_deputy.mp3
+  "The man to my left is Django Freeman. He's my deputy."
+  CHARACTER: 
+
+177_their_name_is_brittle_you_know_em.mp3
+  "Their name is Brittle. You know 'em?"
+  CHARACTER: 
+
+179_these_three_dimples_exist_in_the_area_of_the_skull_most_asso.mp3
+  "These three dimples exist in the area of the skull most associated with..."
+  CHARACTER: 
+
+180_these_three_dimples_would_be_found_in_the_area_of_the_skull.mp3
+  "These three dimples would be found in the area of the skull"
+  CHARACTER: 
+
+181_they_ain_t_gonna_just_kill_you_n.mp3
+  "They ain't gonna just kill you, n*****!"
+  CHARACTER: 
+
+182_they_gonna_find_your_black_ass.mp3
+  "They gonna find your black ass!"
+  CHARACTER: 
+
+185_to_the_man_with_the_exceptional_beard.mp3
+  "To the man with the exceptional beard"
+  CHARACTER: 
+
+188_we_rode_five_hours_so_you_could_show_off_your_stock.mp3
+  "We rode five hours so you could show off your stock."
+  CHARACTER: 
+
+189_we_were_discussing_the_possibility_of_my_purchasing_broomhil.mp3
+  "We were discussing the possibility of my purchasing Broomhilda"
+  CHARACTER: 
+
+190_well_it_s_not_every_n_speaks_german_don_t_ya_know.mp3
+  "Well, it's not every n***** speaks German, don't ya know."
+  CHARACTER: 
+
+191_well_let_me_get_this_straight.mp3
+  "Well, let me get this straight."
+  CHARACTER: 
+
+192_well_way_he_looks_now_a_blind_indian_wouldn_t_bet_a_bead_on.mp3
+  "Well, way he looks now, a blind Indian wouldn't bet a bead on him."
+  CHARACTER: 
+
+193_well_we_weren_t_talkin_business_yet.mp3
+  "Well, we weren't talkin' business yet."
+  CHARACTER: 
+
+194_well_what_if_i_was_to_say_i_don_t_like_you.mp3
+  "Well, what if I was to say I don't like you?"
+  CHARACTER: 
+
+198_what_is_the_point_of_havin_a_n_that_speaks_german.mp3
+  "What is the point of havin' a n***** that speaks German"
+  CHARACTER: 
+
+200_what_the_fuck_is_going_on.mp3
+  "What the fuck is going on?"
+  CHARACTER: 
+
+204_when_we_went_to_boarding_school_together.mp3
+  "When we went to boarding school together."
+  CHARACTER: 
+
+205_who_the_hell_a_you_got_there.mp3
+  "Who the hell a you got there?"
+  CHARACTER: 
+
+208_why_do_you_want_to_get_in_the_mandingo_business.mp3
+  "Why do you want to get in the Mandingo business?"
+  CHARACTER: 
+
+209_why_not_monsieur_candie_you_have_a_deal.mp3
+  "Why not? Monsieur Candie, you have a deal"
+  CHARACTER: 
+
+210_why_would_they_go_through_all_that_trouble_for_a_n.mp3
+  "Why would they go through all that trouble for a n*****"
+  CHARACTER: 
+
+212_will_you_make_these_gentlemen_a_receipt_for_12_000_please.mp3
+  "Will you make these gentlemen a receipt for $12,000, please?"
+  CHARACTER: 
+
+213_would_you_be_a_dear_go_out_there_and_give_them_gals_an_eyeba.mp3
+  "Would you be a dear, go out there and give them gals an eyeball? Hm?"
+  CHARACTER: 
+
+219_you_could_mess_her_skin_up_and_you_gonna_mess_her_up.mp3
+  "You could mess her skin up, and you gonna mess her up"
+  CHARACTER: 
+
+220_you_could_unshackle_yourselves_take_that_rifle.mp3
+  "You could unshackle yourselves, take that rifle,"
+  CHARACTER: 
+
+221_you_don_t_have_to_know_why_do_you_understand.mp3
+  "You don't have to know why. Do you understand?"
+  CHARACTER: 
+
+222_you_either_hit_him_or_are_you_ain_t.mp3
+  "You either hit him or are you ain't?"
+  CHARACTER: 
+
+224_you_give_up_ain_t_no_harm_gonna_come_to_her.mp3
+  "You give up, ain't no harm gonna come to her"
+  CHARACTER: 
+
+226_you_know_jerry_don_t_you_sugar.mp3
+  "You know Jerry, don't you, sugar?"
+  CHARACTER: 
+
+228_you_see_under_the_laws_of_chickasaw_county.mp3
+  "You see, under the laws of Chickasaw County,"
+  CHARACTER: 
+
+229_you_see_you_wanna_buy_a_beat_ass_n_from_me.mp3
+  "You see, you wanna buy a beat ass n***** from me,"
+  CHARACTER: 
+
+231_you_work_with_me_through_the_winter_till_the_snow_melts.mp3
+  "You work with me through the winter till the snow melts..."
+  CHARACTER: 
+
+232_you_wouldn_t_lie_to_me_now_would_you.mp3
+  "You wouldn't lie to me, now, would you?"
+  CHARACTER: 
+
+234_you_re_yelling_abuse_at_these_poor_slaves.mp3
+  "You're yelling abuse at these poor slaves."
+  CHARACTER: 
+
+235_your_slave_wife_speaks_german_and_her_name_is_broomhilda_von.mp3
+  "Your slave wife speaks German and her name is Broomhilda Von Shaft?"
+  CHARACTER: 
+
+236_youse_gonna_let_me_pick_out_my_own_clothes.mp3
+  "Youse gonna let me pick out my own clothes?"
+  CHARACTER: 
+
+238_are_these_broomhilda_s_papers_yes_they_are.mp3
+  "Are these Broomhilda's papers? Yes, they are"
+  CHARACTER: 
+
+240_do_what_now_i_said_tell_miss_lara_goodbye.mp3
+  "Do what now? I said, Tell Miss Lara goodbye."
+  CHARACTER: 
+
+242_hm_it_s_like_a_pool_of_black_tar.mp3
+  "Hm! It's like a pool of black tar"
+  CHARACTER: 
+
+243_hurry_up_girl_these_ready_miss_cora.mp3
+  "Hurry up, girl. These ready, Miss Cora."
+  CHARACTER: 
+
+245_i_think_you_are_a_bad_loser_and_i_think_you_re_an_abysmal_wi.mp3
+  "I think you are a bad loser. And I think you're an abysmal winner"
+  CHARACTER: 
+
+246_i_m_not_from_the_south_but_you_are.mp3
+  "I'm not from the South. But you are..."
+  CHARACTER: 
+
+248_need_to_have_what_what_panache_uh.mp3
+  "Need to have what? What? Panache. Uh.."
+  CHARACTER: 
+
+249_no_do_what_i_told_ya.mp3
+  "No! Do what I told ya!"
+  CHARACTER: 
+
+251_right_in_front_of_both_y_all_easy_big_fella.mp3
+  "Right in front of both y'all! Easy, big fella"
+  CHARACTER: 
+
+252_right_over_there_on_that_little_table_thank_you.mp3
+  "Right over there on that little table. Thank you."
+  CHARACTER: 
+
+253_seven_zero_zero_zero_seven_thousand.mp3
+  "Seven zero zero zero.. Seven thousand."
+  CHARACTER: 
+
+255_should_we_wait_inside_can_we_just_leave.mp3
+  "Should we wait inside? Can we just leave?"
+  CHARACTER: 
+
+257_thank_you_ever_so_much_doctor.mp3
+  "Thank you ever so much. Doctor"
+  CHARACTER: 
+
+258_we_gonna_offer_to_buy_candyland_no_it_s_far_too_big.mp3
+  "We gonna offer to buy Candyland? No, it's far too big."
+  CHARACTER: 
+
+261_yeah_business_never_sleeps_hm_mm.mp3
+  "Yeah. Business never sleeps. Hm mm"
+  CHARACTER: 
+
+262_yessir_boss_oh_now_you_are_one_lucky_n.mp3
+  "Yessir, boss. Oh, now you are one lucky n*****."
+  CHARACTER: 
+
+264_you_miss_me_huh_oh_yessir.mp3
+  "You miss me, huh? Oh, yessir."
+  CHARACTER: 
+
+265_you_stupid_son_of_a_bitch_sorry_jessie.mp3
+  "You stupid son of a bitch! Sorry, Jessie!"
+  CHARACTER: 
+
+267_and_in_my_world_you_gotta_get_dirty.mp3
+  "...and in my world you gotta get dirty."
+  CHARACTER: 
+
+269_but_i_can_t_let_you_go_to_greenville_in_a_good_conscience.mp3
+  "...but I can't let you go to Greenville in a good conscience"
+  CHARACTER: 
+
+271_i_will_admit_you_are_pretty_clever.mp3
+  "...I will admit you are pretty clever"
+  CHARACTER: 
+
+274_normally_i_would_say_auf_wiedersehen.mp3
+  "...normally, I would say auf Wiedersehen."
+  CHARACTER: 

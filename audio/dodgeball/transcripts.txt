@@ -1,0 +1,215 @@
+001_any_other_questions.mp3
+  "Any other questions?"
+  CHARACTER: 
+
+002_are_you_ready_for_the_hurricane.mp3
+  "Are you ready for the hurricane?"
+  CHARACTER: 
+
+003_bold_strategy.mp3
+  "Bold Strategy"
+  CHARACTER: 
+
+004_bonding.mp3
+  "Bonding"
+  CHARACTER: 
+
+005_boy_would_i.mp3
+  "Boy, would I"
+  CHARACTER: 
+
+006_effin_a_cotton_effin_a.mp3
+  "Effin' A, Cotton, Effin' A!"
+  CHARACTER: 
+
+007_f_ckin_chuck_norris.mp3
+  "F*ckin Chuck Norris"
+  CHARACTER: 
+
+008_fast_pitch_dodgeball.mp3
+  "Fast Pitch Dodgeball"
+  CHARACTER: 
+
+009_game_face.mp3
+  "Game face!"
+  CHARACTER: 
+
+010_haha.mp3
+  "Haha"
+  CHARACTER: 
+
+011_hasselhoff_yelling.mp3
+  "Hasselhoff Yelling"
+  CHARACTER: 
+
+012_headshot.mp3
+  "Headshot"
+  CHARACTER: 
+
+013_hit_montage.mp3
+  "Hit Montage"
+  CHARACTER: 
+
+014_i_feel_shocked.mp3
+  "I feel shocked"
+  CHARACTER: 
+
+015_i_sure_do_like_pumpkins_cotton.mp3
+  "I sure do like pumpkins, Cotton"
+  CHARACTER: 
+
+016_i_m_not_dumb.mp3
+  "I'm not dumb"
+  CHARACTER: 
+
+017_if_you_can_dodge_a_wrench_you_can_dodge_a_ball.mp3
+  "If you can dodge a wrench you can dodge a ball"
+  CHARACTER: 
+
+018_just_kidding_but_seriously.mp3
+  "Just kidding ... but seriously"
+  CHARACTER: 
+
+019_let_me_hit_with_you_some_knowledge.mp3
+  "Let me hit with you some knowledge"
+  CHARACTER: 
+
+020_look_at_the_show.mp3
+  "Look at the show"
+  CHARACTER: 
+
+021_meet_fran_stalinovskovichdavidovitchsky.mp3
+  "Meet Fran Stalinovskovichdavidovitchsky"
+  CHARACTER: 
+
+022_milkshake_dance.mp3
+  "Milkshake Dance"
+  CHARACTER: 
+
+023_mr_jokey_joke_maker.mp3
+  "Mr jokey joke maker"
+  CHARACTER: 
+
+024_necessary.mp3
+  "Necessary?"
+  CHARACTER: 
+
+025_nice_and_deep_like.mp3
+  "Nice and Deep Like"
+  CHARACTER: 
+
+026_no_goals.mp3
+  "No goals"
+  CHARACTER: 
+
+027_nobody_makes_me_bleed_my_own_blood.mp3
+  "Nobody makes me bleed my own blood"
+  CHARACTER: 
+
+028_now_you_re_all_in_big_trouble.mp3
+  "Now you're all in big trouble"
+  CHARACTER: 
+
+029_o_doyle_rules.mp3
+  "O'Doyle Rules!"
+  CHARACTER: 
+
+030_oh_my_sweet_jesus.mp3
+  "Oh my sweet Jesus"
+  CHARACTER: 
+
+031_ouch_town.mp3
+  "Ouch Town"
+  CHARACTER: 
+
+032_patches_o_houlihan.mp3
+  "Patches O'Houlihan!"
+  CHARACTER: 
+
+033_ready_and_super_psyched.mp3
+  "Ready and super psyched!"
+  CHARACTER: 
+
+034_real_freaky_naughty.mp3
+  "Real freaky naughty"
+  CHARACTER: 
+
+035_smelling_pizza.mp3
+  "Smelling pizza"
+  CHARACTER: 
+
+036_thank_you_chuck_norris.mp3
+  "Thank you, Chuck Norris"
+  CHARACTER: 
+
+037_that_s_me_taking_the_bull_by_the_horns.mp3
+  "That's me taking the bull by the horns"
+  CHARACTER: 
+
+038_that_s_rad.mp3
+  "That's rad"
+  CHARACTER: 
+
+039_the_5_d_s_of_dodge_ball.mp3
+  "The 5 D's of dodge ball"
+  CHARACTER: 
+
+040_the_deadliest_woman_on_earth.mp3
+  "The deadliest woman on Earth"
+  CHARACTER: 
+
+041_the_ocho.mp3
+  "The Ocho"
+  CHARACTER: 
+
+042_threw_up_in_mouth.mp3
+  "Threw up in mouth"
+  CHARACTER: 
+
+043_thumbs_up_chuck.mp3
+  "Thumbs up Chuck"
+  CHARACTER: 
+
+044_timeout.mp3
+  "Timeout!"
+  CHARACTER: 
+
+045_touche.mp3
+  "Touche"
+  CHARACTER: 
+
+046_we_are_the_purple_cobras.mp3
+  "We are the Purple Cobras"
+  CHARACTER: 
+
+047_we_should_mate.mp3
+  "We Should Mate"
+  CHARACTER: 
+
+048_we_will_rock_you.mp3
+  "We will rock you"
+  CHARACTER: 
+
+049_we_re_better_than_you_and_we_know_it.mp3
+  "We're Better Than You, And We Know It"
+  CHARACTER: 
+
+050_wrong.mp3
+  "Wrong"
+  CHARACTER: 
+
+051_you_gotta_get_angry_you_gotta_get_mean.mp3
+  "You gotta get angry! You gotta get mean!"
+  CHARACTER: 
+
+052_you_happy_fatty_make_a_funny.mp3
+  "You happy? Fatty make a funny?"
+  CHARACTER: 
+
+053_you_scared_the_jeepers_out_of_me.mp3
+  "You scared the jeepers out of me"
+  CHARACTER: 
+
+054_you_re_about_as_useful_as_a_cock_flavored_lollipop.mp3
+  "You're about as useful as a cock flavored lollipop"
+  CHARACTER: 
