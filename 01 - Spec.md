@@ -138,13 +138,16 @@ const shows = [
 Extends the existing single-show HTML. Changes:
 
 - Loads `shows.js` via `<script src="shows.js"></script>`. README documents `python3 -m http.server` as a fallback when Chrome blocks the local script.
-- **Show picker** in the header: `<select>` populated from `shows`. First option is `🎲 Random (all shows)` (default, value `__random__`). Each other option is a show.
+- **Show picker** in the header: `<select>` populated from `shows`, sorted alphabetically by name. First option is `🎲 Random (all shows)` (default, value `__random__`, pinned to top regardless of sort).
 - **Theme swapping** via CSS variables. The page sets `--primary`, `--accent`, `--bg` on `:root`; every colored element (button, h1 text-shadow, accents, body gradient) references these. On show-change, JS updates the variables to the selected show's theme. The default `__random__` selection uses the dark/gritty Boys-style theme defined in CSS as fallback values.
 - **Random behavior:**
   - `__random__`: flatten `shows[*].quotes` into one pool; pick uniformly; never repeat the immediately previous quote (track `lastKey = ${showId}::${index}`). With current 19 shows / 2,756 quotes, the pool is dominated by larger boards (Family Guy alone is 558).
   - specific show: pick from `shows[i].quotes`; never repeat immediately previous quote within that show.
 - **Text rendering:** `showQuote()` looks up the source show by `item.showId`. If the show's `text_style` is `"title"`, the transcript is rendered as-is (no surrounding quote marks); for `"caption"` (default), it's rendered wrapped in `"..."`. This distinction matters because some community boards use clip *titles* like `"A leap of faith"` instead of actual subtitled dialogue.
 - **Title** changes to the show name (or `"TV TALK"` for Random).
+- **Button styling** has evolved from the original spec into a "Staples Easy Button" look: large round dome (240px, 200px on mobile) with a bright top highlight, dark bottom, and a "base stub" drop-shadow so it reads as a physical button. Clicking depresses it (`translateY`). While audio plays, a subtle theme-colored glow ring pulses *behind* the button (`.button::after`) rather than the whole button pulsing.
+- **Per-show themes** are matched to each show's cover-art hue (e.g. Breaking Bad = hazmat yellow + chemical green). The subtitle and footer text from the original design were removed.
+- **Mobile:** a `<meta name="viewport">` tag plus a `max-width: 600px` media query shrink the button, picker, and quote fonts for phones.
 
 ### Obsidian docs
 
