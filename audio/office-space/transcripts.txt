@@ -54,16 +54,8 @@
   "Didn't you get that memo?"
   CHARACTER: 
 
-019_do_i_think.mp3
-  "Do I think"
-  CHARACTER: 
-
 021_excuse_me_lights_out.mp3
   "Excuse Me (Lights Out)"
-  CHARACTER: 
-
-024_fax_machine_battle.mp3
-  "Fax Machine Battle"
   CHARACTER: 
 
 025_for_the_one_i_already_told_you_if_i_deal_with_the_god_damn_c.mp3
@@ -76,10 +68,6 @@
 
 029_good_luck_with_your_layoffs_alright_i_hope_your_firings_go_r.mp3
   "Good luck with your layoffs alright I hope your firings go really well"
-  CHARACTER: 
-
-030_hate_my_job.mp3
-  "Hate my job"
   CHARACTER: 
 
 031_he_represents_all_that_is_solace_and_wrong.mp3
@@ -206,10 +194,6 @@
   "It's not that i'm lazy it's that I just don't care"
   CHARACTER: 
 
-066_jump_to_conclusions.mp3
-  "Jump to Conclusions"
-  CHARACTER: 
-
 067_looks_like_you_ve_been_missing_a_lot_of_work_lately.mp3
   "Looks like you've been missing a lot of work lately"
   CHARACTER: 
@@ -228,10 +212,6 @@
 
 073_no_way_what_should_i_change_the_one_who_suck.mp3
   "No way what should I change the one who suck"
-  CHARACTER: 
-
-074_no_no_man.mp3
-  "No. No Man"
   CHARACTER: 
 
 075_now_it_s_just_a_coincidence.mp3
@@ -256,10 +236,6 @@
 
 084_peter_gibbons_yes_i_have_the_memo.mp3
   "Peter gibbons yes I have the memo"
-  CHARACTER: 
-
-085_piece_of_shit.mp3
-  "Piece of shit"
   CHARACTER: 
 
 086_pretty_hospitable_needed_speaking_moment.mp3
@@ -292,10 +268,6 @@
 
 093_shit_i_m_a_free_man_i_haven_t_had_a_conjugal_visit_in_six_mo.mp3
   "Shit i'm a free man I haven't had a conjugal visit in six months"
-  CHARACTER: 
-
-094_sitting_in_traffic.mp3
-  "Sitting in traffic"
   CHARACTER: 
 
 096_so_i_guess_we_should_probably_go_ahead_and_have_a_little_tal.mp3
@@ -374,14 +346,6 @@
   "Two chicks at the same time"
   CHARACTER: 
 
-120_unenthusiastic_happy_birthday.mp3
-  "Unenthusiastic Happy Birthday"
-  CHARACTER: 
-
-121_use_your_mind.mp3
-  "Use Your Mind"
-  CHARACTER: 
-
 123_watch_out_for_your_cornhole_bud.mp3
   "Watch out for your cornhole bud"
   CHARACTER: 
@@ -400,10 +364,6 @@
 
 127_we_lossed_some_people_this_week_and.mp3
   "We lossed some people this week and"
-  CHARACTER: 
-
-128_weekend_drinking_meme.mp3
-  "Weekend Drinking Meme"
   CHARACTER: 
 
 130_well_i_generally_come_in_at_least_fifteen_minutes_late.mp3
@@ -448,10 +408,6 @@
 
 140_what_you_sent_me_but_what_if_you_were_offered_some_kind_of_s.mp3
   "What you sent me but what if you were offered some kind of stock option equity sharing program but that do anything for you I don't know I guess"
-  CHARACTER: 
-
-142_what_s_up_j.mp3
-  "What's up J"
   CHARACTER: 
 
 143_where_does_it_say_paper_jam_indices_no_paper_jam_i_swear_to.mp3
@@ -508,4 +464,96 @@
 
 158_you_re_intruding_my_office_space.mp3
   "You're intruding my office space"
+  CHARACTER: 
+
+159_a_bigger_man_together_analyze_the_bread_stamps.mp3
+  "A bigger man together analyze the bread stamps"
+  CHARACTER: 
+
+160_baby_your_man_check_out_channel_nine_togethers_jet.mp3
+  "Baby your man check out channel nine togethers jet"
+  CHARACTER: 
+
+162_but_do_you_would_i_do_man_two_chicks_at_the_same_time_now.mp3
+  "But do you would I do man two chicks at the same time now"
+  CHARACTER: 
+
+163_but_that_takes_a_double_up_on_a_dude_like_me_do.mp3
+  "But that takes a double up on a dude like me do"
+  CHARACTER: 
+
+164_but_you_don_t_want_that_peter_man_s_toasted_maine.mp3
+  "But you don't want that peter man 's toasted maine"
+  CHARACTER: 
+
+165_check_this_out_dude.mp3
+  "Check this out dude"
+  CHARACTER: 
+
+167_damn_straight_always_wanted_to_do_that_then_i_think_of_our_m.mp3
+  "Damn straight always wanted to do that then I think of our millionaire I could hook that up too 'cause chicks dig dudes with money"
+  CHARACTER: 
+
+168_duck_out_early_turn_off_your_answering_machine_you_should_be.mp3
+  "Duck out early turn off your answering machine you should be home pretty bang"
+  CHARACTER: 
+
+169_hey_peter_yeah_watch_out_for_a_cornhole_bud.mp3
+  "Hey peter yeah watch out for a cornhole bud"
+  CHARACTER: 
+
+170_hey_she_had_been_over_here_in_a_while_you_two_still_going_up.mp3
+  "Hey she had been over here in a while you two still going up"
+  CHARACTER: 
+
+171_i_don_t_know_man_i_just_get_that_feeling_looking_at_her_like.mp3
+  "I don't know man I just get that feeling looking at her like she's the tablet richter just who"
+  CHARACTER: 
+
+172_i_m_sorry_man_i_thought_you_want_to_see_this.mp3
+  "I'm sorry man I thought you want to see this"
+  CHARACTER: 
+
+173_it_s_a_bummer_dude_could_have_seen.mp3
+  "It's a bummer dude could have seen"
+  CHARACTER: 
+
+176_no_thanks_man_i_don_t_want_you_fucking_up_my_life_do.mp3
+  "No thanks man I don't want you fucking up my life do"
+  CHARACTER: 
+
+177_oh_i_gotta_wake_my_ass_up_at_six_am_everyday_this_week.mp3
+  "Oh I gotta wake my ass up at six AM everyday this week"
+  CHARACTER: 
+
+178_oh_sorry_man_an_over_there_some.mp3
+  "Oh sorry man an over there some"
+  CHARACTER: 
+
+179_shit_no_man_i_believe_you_get_your_ass_kicked_saying_so_much.mp3
+  "Shit no man I believe you get your ass kicked saying so much batman"
+  CHARACTER: 
+
+180_tell_me_about_it_man.mp3
+  "Tell me about it man"
+  CHARACTER: 
+
+181_that_s_alright_i_got_it.mp3
+  "That's alright I got it"
+  CHARACTER: 
+
+182_then_i_check_look_like_a_yeah.mp3
+  "Then I check look like a yeah"
+  CHARACTER: 
+
+183_we_still_going_fishing_this_weekend.mp3
+  "We still going fishing this weekend"
+  CHARACTER: 
+
+184_yeah_i_get_that_feeling_too_man.mp3
+  "Yeah I get that feeling too man"
+  CHARACTER: 
+
+185_yeah_i_m_doing_the_drywall_up_there_at_the_new_mcdonald_s.mp3
+  "Yeah i'm doing the drywall up there at the new mcdonald's"
   CHARACTER: 

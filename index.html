@@ -36,7 +36,10 @@
   .picker-row {
     position: fixed; top: 1.25rem; right: 1.25rem; z-index: 3;
   }
-  .picker-row select {
+  .combo { position: relative; }
+  .combo-trigger {
+    display: flex; align-items: center; gap: 0.5rem;
+    max-width: 240px;
     background: rgba(0,0,0,0.6);
     color: var(--text);
     border: 1px solid var(--accent);
@@ -46,7 +49,74 @@
     letter-spacing: 0.05em;
     cursor: pointer;
   }
-  .picker-row select:focus { outline: 2px solid var(--primary); }
+  .combo-trigger:focus-visible { outline: 2px solid var(--primary); }
+  .combo-label { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .combo-caret {
+    margin-left: auto; font-size: 0.7rem; opacity: 0.8;
+    transition: transform 0.18s ease;
+  }
+  .combo-trigger[aria-expanded="true"] .combo-caret { transform: rotate(180deg); }
+
+  .combo-panel {
+    position: absolute; top: calc(100% + 0.4rem); right: 0;
+    width: min(280px, 86vw);
+    display: flex; flex-direction: column;
+    background: rgba(8,8,8,0.97);
+    border: 1px solid var(--accent);
+    box-shadow: 0 14px 38px rgba(0,0,0,0.6);
+    z-index: 20;
+    animation: comboIn 0.16s ease;
+  }
+  .combo-panel[hidden] { display: none; }
+  @keyframes comboIn {
+    from { opacity: 0; transform: translateY(-6px); }
+    to   { opacity: 1; transform: none; }
+  }
+
+  .combo-search {
+    flex: none;
+    background: rgba(255,255,255,0.05);
+    color: var(--text);
+    border: none;
+    border-bottom: 1px solid color-mix(in srgb, var(--accent) 45%, transparent);
+    font-family: 'Special Elite', monospace;
+    font-size: 0.85rem;
+    padding: 0.55rem 0.7rem;
+    letter-spacing: 0.04em;
+  }
+  .combo-search::placeholder { color: var(--text); opacity: 0.4; }
+  .combo-search:focus { outline: none; border-bottom-color: var(--primary); }
+
+  .combo-list {
+    list-style: none; margin: 0; padding: 0.25rem 0;
+    overflow-y: auto; max-height: min(56vh, 380px);
+  }
+  .combo-list::-webkit-scrollbar { width: 8px; }
+  .combo-list::-webkit-scrollbar-thumb {
+    background: color-mix(in srgb, var(--accent) 50%, transparent); border-radius: 4px;
+  }
+  .combo-group {
+    padding: 0.5rem 0.7rem 0.2rem;
+    font-family: 'Special Elite', monospace;
+    font-size: 0.62rem; letter-spacing: 0.18em; text-transform: uppercase;
+    color: var(--accent); opacity: 0.6;
+  }
+  .combo-option {
+    padding: 0.4rem 0.7rem 0.4rem 1.1rem;
+    font-family: 'Special Elite', monospace;
+    font-size: 0.85rem; color: var(--text);
+    cursor: pointer; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+  .combo-option.is-random { padding-left: 0.7rem; }
+  .combo-option:hover,
+  .combo-option.active { background: color-mix(in srgb, var(--primary) 32%, transparent); }
+  .combo-option[aria-selected="true"] {
+    color: var(--accent); box-shadow: inset 3px 0 0 var(--accent);
+  }
+  .combo-empty {
+    padding: 0.6rem 0.7rem; font-family: 'Special Elite', monospace;
+    font-size: 0.8rem; color: var(--text); opacity: 0.5;
+  }
 
   h1 {
     font-family: 'Bebas Neue', sans-serif;
@@ -147,7 +217,7 @@
   @media (max-width: 600px) {
     body { padding: 1rem 0.75rem; }
     .picker-row { top: 0.75rem; right: 0.75rem; }
-    .picker-row select {
+    .combo-trigger {
       font-size: 0.75rem;
       padding: 0.3rem 0.5rem;
       max-width: 55vw;
@@ -167,7 +237,18 @@
 </head>
 <body>
   <div class="picker-row">
-    <select id="showPicker" aria-label="Select a show"></select>
+    <div class="combo" id="combo">
+      <button type="button" id="comboTrigger" class="combo-trigger"
+              aria-haspopup="listbox" aria-expanded="false" aria-controls="comboPanel">
+        <span id="comboLabel" class="combo-label">Random (all shows + movies)</span>
+        <span class="combo-caret" aria-hidden="true">&#9662;</span>
+      </button>
+      <div id="comboPanel" class="combo-panel" role="dialog" aria-label="Choose a show or movie" hidden>
+        <input type="text" id="comboSearch" class="combo-search" placeholder="Search&hellip;"
+               autocomplete="off" spellcheck="false" aria-label="Search shows and movies">
+        <ul id="comboList" class="combo-list" role="listbox" aria-label="Shows and movies"></ul>
+      </div>
+    </div>
   </div>
 
   <h1 id="title">TV TALK</h1>
@@ -186,7 +267,12 @@
   const SHOWS = (typeof shows !== 'undefined' && Array.isArray(shows)) ? shows : [];
 
   const els = {
-    picker:  document.getElementById('showPicker'),
+    combo:   document.getElementById('combo'),
+    trigger: document.getElementById('comboTrigger'),
+    label:   document.getElementById('comboLabel'),
+    panel:   document.getElementById('comboPanel'),
+    search:  document.getElementById('comboSearch'),
+    list:    document.getElementById('comboList'),
     title:   document.getElementById('title'),
     btn:     document.getElementById('quoteBtn'),
     text:    document.getElementById('quoteText'),
@@ -202,41 +288,96 @@
   let currentSelection = RANDOM_ALL;
   let lastKey = null;
   let currentAudio = null;
+  let comboVisible = [];   // flat list of rendered <li> options, for keyboard nav
+  let activeIndex = 0;
 
-  function buildPicker() {
-    els.picker.innerHTML = '';
-    const RAND_OPTS = [
-      [RANDOM_ALL,    '🎲 Random (all shows + movies)'],
-      [RANDOM_SHOWS,  '🎲 Random (all shows)'],
-      [RANDOM_MOVIES, '🎲 Random (all movies)'],
-    ];
-    for (const [val, label] of RAND_OPTS) {
-      const o = document.createElement('option');
-      o.value = val;
-      o.textContent = label;
-      els.picker.appendChild(o);
-    }
+  const RANDOM_OPTS = [
+    { value: RANDOM_ALL,    label: 'Random (all shows + movies)' },
+    { value: RANDOM_SHOWS,  label: 'Random (all shows)' },
+    { value: RANDOM_MOVIES, label: 'Random (all movies)' },
+  ];
+  const GROUPS_DATA = [
+    { label: 'TV Shows', type: 'show' },
+    { label: 'Movies',   type: 'movie' },
+  ].map(g => ({
+    label: g.label,
+    items: SHOWS.filter(s => (s.type || 'show') === g.type)
+                .sort((a, b) => a.name.localeCompare(b.name))
+                .map(s => ({ value: s.id, label: s.name })),
+  })).filter(g => g.items.length);
 
-    const GROUPS = [
-      { label: 'TV Shows', type: 'show' },
-      { label: 'Movies',   type: 'movie' },
-    ];
-    for (const g of GROUPS) {
-      const inGroup = SHOWS
-        .filter(s => (s.type || 'show') === g.type)
-        .sort((a, b) => a.name.localeCompare(b.name));
-      if (inGroup.length === 0) continue;
-      const og = document.createElement('optgroup');
-      og.label = g.label;
-      for (const s of inGroup) {
-        const opt = document.createElement('option');
-        opt.value = s.id;
-        opt.textContent = s.name;
-        og.appendChild(opt);
-      }
-      els.picker.appendChild(og);
+  function labelFor(value) {
+    const r = RANDOM_OPTS.find(o => o.value === value);
+    if (r) return r.label;
+    const s = SHOWS.find(x => x.id === value);
+    return s ? s.name : RANDOM_OPTS[0].label;
+  }
+
+  function setActive(i) {
+    if (!comboVisible.length) return;
+    activeIndex = (i + comboVisible.length) % comboVisible.length;
+    comboVisible.forEach((li, k) => li.classList.toggle('active', k === activeIndex));
+    comboVisible[activeIndex].scrollIntoView({ block: 'nearest' });
+  }
+
+  function renderList(query) {
+    const q = (query || '').trim().toLowerCase();
+    els.list.innerHTML = '';
+    comboVisible = [];
+
+    const addOption = (value, label, isRandom) => {
+      const li = document.createElement('li');
+      li.className = 'combo-option' + (isRandom ? ' is-random' : '');
+      li.setAttribute('role', 'option');
+      li.dataset.value = value;
+      li.textContent = label;
+      if (value === currentSelection) li.setAttribute('aria-selected', 'true');
+      const idx = comboVisible.length;
+      li.addEventListener('click', () => { applySelection(value); closeCombo(); });
+      li.addEventListener('mousemove', () => setActive(idx));
+      els.list.appendChild(li);
+      comboVisible.push(li);
+    };
+    const addHeader = (text) => {
+      const li = document.createElement('li');
+      li.className = 'combo-group';
+      li.setAttribute('aria-hidden', 'true');
+      li.textContent = text;
+      els.list.appendChild(li);
+    };
+
+    if (!q) RANDOM_OPTS.forEach(o => addOption(o.value, o.label, true));
+    for (const g of GROUPS_DATA) {
+      const items = g.items.filter(it => !q || it.label.toLowerCase().includes(q));
+      if (!items.length) continue;
+      addHeader(g.label);
+      items.forEach(it => addOption(it.value, it.label, false));
     }
-    els.picker.value = RANDOM_ALL;
+    if (!comboVisible.length) {
+      const li = document.createElement('li');
+      li.className = 'combo-empty';
+      li.textContent = 'No matches';
+      els.list.appendChild(li);
+    }
+    const sel = comboVisible.findIndex(li => li.dataset.value === currentSelection);
+    setActive(sel >= 0 ? sel : 0);
+  }
+
+  function openCombo() {
+    els.panel.hidden = false;
+    els.trigger.setAttribute('aria-expanded', 'true');
+    els.search.value = '';
+    renderList('');
+    els.search.focus();
+    document.addEventListener('click', onDocClick, true);
+  }
+  function closeCombo() {
+    els.panel.hidden = true;
+    els.trigger.setAttribute('aria-expanded', 'false');
+    document.removeEventListener('click', onDocClick, true);
+  }
+  function onDocClick(e) {
+    if (!els.combo.contains(e.target)) closeCombo();
   }
 
   const DEFAULT_THEME = { primary: '#c41e3a', accent: '#d4af37', bg: '#0a0000' };
@@ -278,14 +419,15 @@
     history.replaceState(null, '', url);
   }
 
-  function onSelectionChange() {
-    currentSelection = els.picker.value;
+  function applySelection(value) {
+    currentSelection = value;
     lastKey = null;
-    if (currentSelection in RANDOM_MODES) {
+    els.label.textContent = labelFor(value);
+    if (value in RANDOM_MODES) {
       applyTheme(DEFAULT_THEME);
       els.title.textContent = 'TV TALK';
     } else {
-      const show = SHOWS.find(s => s.id === currentSelection);
+      const show = SHOWS.find(s => s.id === value);
       if (show) {
         applyTheme(show.theme);
         els.title.textContent = show.name.toUpperCase();
@@ -366,13 +508,25 @@
     document.querySelector('.quote-display').appendChild(hint);
   }
 
-  buildPicker();
   if (SHOWS.length === 0) {
     showEmptyState();
   } else {
-    els.picker.value = selectionFromUrl();   // pre-select from a shared link
-    onSelectionChange();
-    els.picker.addEventListener('change', onSelectionChange);
+    els.trigger.addEventListener('click', () => {
+      if (els.panel.hidden) openCombo(); else closeCombo();
+    });
+    els.search.addEventListener('input', () => renderList(els.search.value));
+    els.search.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowDown')     { e.preventDefault(); setActive(activeIndex + 1); }
+      else if (e.key === 'ArrowUp')  { e.preventDefault(); setActive(activeIndex - 1); }
+      else if (e.key === 'Enter')    {
+        e.preventDefault();
+        const li = comboVisible[activeIndex];
+        if (li) { applySelection(li.dataset.value); closeCombo(); els.trigger.focus(); }
+      } else if (e.key === 'Escape') { e.preventDefault(); closeCombo(); els.trigger.focus(); }
+    });
+
+    applySelection(selectionFromUrl());   // pre-select from a shared link
+
     els.btn.addEventListener('click', () => {
       const pool = buildPool();
       const item = pick(pool);

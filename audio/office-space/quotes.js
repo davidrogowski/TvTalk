@@ -71,19 +71,9 @@ const quotes = [
     "audioUrl": "audio/office-space/017_didn_t_you_get_that_memo.mp3"
   },
   {
-    "text": "Do I think",
-    "character": "",
-    "audioUrl": "audio/office-space/019_do_i_think.mp3"
-  },
-  {
     "text": "Excuse Me (Lights Out)",
     "character": "",
     "audioUrl": "audio/office-space/021_excuse_me_lights_out.mp3"
-  },
-  {
-    "text": "Fax Machine Battle",
-    "character": "",
-    "audioUrl": "audio/office-space/024_fax_machine_battle.mp3"
   },
   {
     "text": "For the one I already told you if I deal with the god damn customers so the engineers don't have to I have people skills I am good at dealing with people can't you understand that what the hell is ...",
@@ -99,11 +89,6 @@ const quotes = [
     "text": "Good luck with your layoffs alright I hope your firings go really well",
     "character": "",
     "audioUrl": "audio/office-space/029_good_luck_with_your_layoffs_alright_i_hope_your_firings_go_r.mp3"
-  },
-  {
-    "text": "Hate my job",
-    "character": "",
-    "audioUrl": "audio/office-space/030_hate_my_job.mp3"
   },
   {
     "text": "He represents all that is solace and wrong",
@@ -261,11 +246,6 @@ const quotes = [
     "audioUrl": "audio/office-space/065_it_s_not_that_i_m_lazy_it_s_that_i_just_don_t_care.mp3"
   },
   {
-    "text": "Jump to Conclusions",
-    "character": "",
-    "audioUrl": "audio/office-space/066_jump_to_conclusions.mp3"
-  },
-  {
     "text": "Looks like you've been missing a lot of work lately",
     "character": "",
     "audioUrl": "audio/office-space/067_looks_like_you_ve_been_missing_a_lot_of_work_lately.mp3"
@@ -289,11 +269,6 @@ const quotes = [
     "text": "No way what should I change the one who suck",
     "character": "",
     "audioUrl": "audio/office-space/073_no_way_what_should_i_change_the_one_who_suck.mp3"
-  },
-  {
-    "text": "No. No Man",
-    "character": "",
-    "audioUrl": "audio/office-space/074_no_no_man.mp3"
   },
   {
     "text": "Now it's just a coincidence",
@@ -324,11 +299,6 @@ const quotes = [
     "text": "Peter gibbons yes I have the memo",
     "character": "",
     "audioUrl": "audio/office-space/084_peter_gibbons_yes_i_have_the_memo.mp3"
-  },
-  {
-    "text": "Piece of shit",
-    "character": "",
-    "audioUrl": "audio/office-space/085_piece_of_shit.mp3"
   },
   {
     "text": "Pretty hospitable needed speaking moment",
@@ -369,11 +339,6 @@ const quotes = [
     "text": "Shit i'm a free man I haven't had a conjugal visit in six months",
     "character": "",
     "audioUrl": "audio/office-space/093_shit_i_m_a_free_man_i_haven_t_had_a_conjugal_visit_in_six_mo.mp3"
-  },
-  {
-    "text": "Sitting in traffic",
-    "character": "",
-    "audioUrl": "audio/office-space/094_sitting_in_traffic.mp3"
   },
   {
     "text": "So I guess we should probably go ahead and have a little talk",
@@ -471,16 +436,6 @@ const quotes = [
     "audioUrl": "audio/office-space/118_two_chicks_at_the_same_time.mp3"
   },
   {
-    "text": "Unenthusiastic Happy Birthday",
-    "character": "",
-    "audioUrl": "audio/office-space/120_unenthusiastic_happy_birthday.mp3"
-  },
-  {
-    "text": "Use Your Mind",
-    "character": "",
-    "audioUrl": "audio/office-space/121_use_your_mind.mp3"
-  },
-  {
     "text": "Watch out for your cornhole bud",
     "character": "",
     "audioUrl": "audio/office-space/123_watch_out_for_your_cornhole_bud.mp3"
@@ -504,11 +459,6 @@ const quotes = [
     "text": "We lossed some people this week and",
     "character": "",
     "audioUrl": "audio/office-space/127_we_lossed_some_people_this_week_and.mp3"
-  },
-  {
-    "text": "Weekend Drinking Meme",
-    "character": "",
-    "audioUrl": "audio/office-space/128_weekend_drinking_meme.mp3"
   },
   {
     "text": "Well I generally come in at least fifteen minutes late",
@@ -564,11 +514,6 @@ const quotes = [
     "text": "What you sent me but what if you were offered some kind of stock option equity sharing program but that do anything for you I don't know I guess",
     "character": "",
     "audioUrl": "audio/office-space/140_what_you_sent_me_but_what_if_you_were_offered_some_kind_of_s.mp3"
-  },
-  {
-    "text": "What's up J",
-    "character": "",
-    "audioUrl": "audio/office-space/142_what_s_up_j.mp3"
   },
   {
     "text": "Where does it say paper jam indices no paper jam I swear to god at one of these days I i just kick you piece of shit out with windows you made both men things lucky i'm not armed",
@@ -639,5 +584,120 @@ const quotes = [
     "text": "You're intruding my office space",
     "character": "",
     "audioUrl": "audio/office-space/158_you_re_intruding_my_office_space.mp3"
+  },
+  {
+    "text": "A bigger man together analyze the bread stamps",
+    "character": "",
+    "audioUrl": "audio/office-space/159_a_bigger_man_together_analyze_the_bread_stamps.mp3"
+  },
+  {
+    "text": "Baby your man check out channel nine togethers jet",
+    "character": "",
+    "audioUrl": "audio/office-space/160_baby_your_man_check_out_channel_nine_togethers_jet.mp3"
+  },
+  {
+    "text": "But do you would I do man two chicks at the same time now",
+    "character": "",
+    "audioUrl": "audio/office-space/162_but_do_you_would_i_do_man_two_chicks_at_the_same_time_now.mp3"
+  },
+  {
+    "text": "But that takes a double up on a dude like me do",
+    "character": "",
+    "audioUrl": "audio/office-space/163_but_that_takes_a_double_up_on_a_dude_like_me_do.mp3"
+  },
+  {
+    "text": "But you don't want that peter man 's toasted maine",
+    "character": "",
+    "audioUrl": "audio/office-space/164_but_you_don_t_want_that_peter_man_s_toasted_maine.mp3"
+  },
+  {
+    "text": "Check this out dude",
+    "character": "",
+    "audioUrl": "audio/office-space/165_check_this_out_dude.mp3"
+  },
+  {
+    "text": "Damn straight always wanted to do that then I think of our millionaire I could hook that up too 'cause chicks dig dudes with money",
+    "character": "",
+    "audioUrl": "audio/office-space/167_damn_straight_always_wanted_to_do_that_then_i_think_of_our_m.mp3"
+  },
+  {
+    "text": "Duck out early turn off your answering machine you should be home pretty bang",
+    "character": "",
+    "audioUrl": "audio/office-space/168_duck_out_early_turn_off_your_answering_machine_you_should_be.mp3"
+  },
+  {
+    "text": "Hey peter yeah watch out for a cornhole bud",
+    "character": "",
+    "audioUrl": "audio/office-space/169_hey_peter_yeah_watch_out_for_a_cornhole_bud.mp3"
+  },
+  {
+    "text": "Hey she had been over here in a while you two still going up",
+    "character": "",
+    "audioUrl": "audio/office-space/170_hey_she_had_been_over_here_in_a_while_you_two_still_going_up.mp3"
+  },
+  {
+    "text": "I don't know man I just get that feeling looking at her like she's the tablet richter just who",
+    "character": "",
+    "audioUrl": "audio/office-space/171_i_don_t_know_man_i_just_get_that_feeling_looking_at_her_like.mp3"
+  },
+  {
+    "text": "I'm sorry man I thought you want to see this",
+    "character": "",
+    "audioUrl": "audio/office-space/172_i_m_sorry_man_i_thought_you_want_to_see_this.mp3"
+  },
+  {
+    "text": "It's a bummer dude could have seen",
+    "character": "",
+    "audioUrl": "audio/office-space/173_it_s_a_bummer_dude_could_have_seen.mp3"
+  },
+  {
+    "text": "No thanks man I don't want you fucking up my life do",
+    "character": "",
+    "audioUrl": "audio/office-space/176_no_thanks_man_i_don_t_want_you_fucking_up_my_life_do.mp3"
+  },
+  {
+    "text": "Oh I gotta wake my ass up at six AM everyday this week",
+    "character": "",
+    "audioUrl": "audio/office-space/177_oh_i_gotta_wake_my_ass_up_at_six_am_everyday_this_week.mp3"
+  },
+  {
+    "text": "Oh sorry man an over there some",
+    "character": "",
+    "audioUrl": "audio/office-space/178_oh_sorry_man_an_over_there_some.mp3"
+  },
+  {
+    "text": "Shit no man I believe you get your ass kicked saying so much batman",
+    "character": "",
+    "audioUrl": "audio/office-space/179_shit_no_man_i_believe_you_get_your_ass_kicked_saying_so_much.mp3"
+  },
+  {
+    "text": "Tell me about it man",
+    "character": "",
+    "audioUrl": "audio/office-space/180_tell_me_about_it_man.mp3"
+  },
+  {
+    "text": "That's alright I got it",
+    "character": "",
+    "audioUrl": "audio/office-space/181_that_s_alright_i_got_it.mp3"
+  },
+  {
+    "text": "Then I check look like a yeah",
+    "character": "",
+    "audioUrl": "audio/office-space/182_then_i_check_look_like_a_yeah.mp3"
+  },
+  {
+    "text": "We still going fishing this weekend",
+    "character": "",
+    "audioUrl": "audio/office-space/183_we_still_going_fishing_this_weekend.mp3"
+  },
+  {
+    "text": "Yeah I get that feeling too man",
+    "character": "",
+    "audioUrl": "audio/office-space/184_yeah_i_get_that_feeling_too_man.mp3"
+  },
+  {
+    "text": "Yeah i'm doing the drywall up there at the new mcdonald's",
+    "character": "",
+    "audioUrl": "audio/office-space/185_yeah_i_m_doing_the_drywall_up_there_at_the_new_mcdonald_s.mp3"
   }
 ];
