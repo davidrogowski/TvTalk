@@ -1,0 +1,259 @@
+001_a_friend_in_need_is_a_pest.mp3
+  "A friend in need is a pest"
+  CHARACTER: 
+
+002_a_sailor.mp3
+  "A sailor"
+  CHARACTER: 
+
+003_big_dyke.mp3
+  "Big Dyke"
+  CHARACTER: 
+
+004_boo_yah_that_s_what_we_call_a_sack_lunch.mp3
+  "Boo yah! That’s what we call a sack lunch!"
+  CHARACTER: 
+
+005_call_me_kitty_cat.mp3
+  "Call me Kitty Cat"
+  CHARACTER: 
+
+006_catch_that_beautiful_butterfly_pal.mp3
+  "Catch That Beautiful Butterfly Pal"
+  CHARACTER: 
+
+007_cause_i_d_find_you.mp3
+  "Cause I'd Find You"
+  CHARACTER: 
+
+008_congress_shortsided.mp3
+  "Congress Shortsided"
+  CHARACTER: 
+
+009_crab_cakes.mp3
+  "Crab cakes"
+  CHARACTER: 
+
+010_damn_sluts.mp3
+  "Damn, Sluts"
+  CHARACTER: 
+
+011_erroneous.mp3
+  "Erroneous!!"
+  CHARACTER: 
+
+012_fried.mp3
+  "Fried"
+  CHARACTER: 
+
+013_happy_birthday.mp3
+  "Happy Birthday"
+  CHARACTER: 
+
+014_he_s_joking_around.mp3
+  "He's joking around"
+  CHARACTER: 
+
+015_her_name_is_chastity_she_is_whitetrash.mp3
+  "Her name is chastity, she is whitetrash"
+  CHARACTER: 
+
+016_hey_ma_can_we_get_some_meatloaf.mp3
+  "Hey ma!? Can we get some meatloaf?"
+  CHARACTER: 
+
+017_i_almost_nunchucked_you.mp3
+  "I almost nunchucked you"
+  CHARACTER: 
+
+018_i_can_do_it_myself.mp3
+  "I can do it myself"
+  CHARACTER: 
+
+019_i_can_do_it_myself_asshole.mp3
+  "I can do it myself asshole"
+  CHARACTER: 
+
+020_i_don_t_even_know_what_the_fuck_a_quail_is.mp3
+  "I don’t even know what the fuck a quail is?"
+  CHARACTER: 
+
+021_i_find_you.mp3
+  "I find you"
+  CHARACTER: 
+
+022_i_ll_be_in_my_room_painting.mp3
+  "I'll be in my room painting"
+  CHARACTER: 
+
+023_i_m_diggin_talking_with_ya.mp3
+  "I'm diggin talking with ya"
+  CHARACTER: 
+
+024_i_m_psyched.mp3
+  "I'm Psyched"
+  CHARACTER: 
+
+025_i_m_sorry_not_sorry.mp3
+  "I'm sorry not sorry"
+  CHARACTER: 
+
+026_i_ve_got_a_stage_5_clinger.mp3
+  "I've got a stage 5 clinger"
+  CHARACTER: 
+
+027_i_m_great_i_m_going.mp3
+  "I’m great I’m Going"
+  CHARACTER: 
+
+028_interested.mp3
+  "Interested"
+  CHARACTER: 
+
+029_it_s_gonna_be_so_much_fun.mp3
+  "It's gonna be so much fun!"
+  CHARACTER: 
+
+030_jesus.mp3
+  "Jesus"
+  CHARACTER: 
+
+031_just_a_couple_kids_who_like_to_fuck_trying_to_make_it_honest.mp3
+  "Just a couple kids who like to fuck trying to make it honest"
+  CHARACTER: 
+
+032_kiss_my_left_nut.mp3
+  "Kiss my left nut"
+  CHARACTER: 
+
+033_let_s_play_tummy_sticks.mp3
+  "Let's play tummy sticks"
+  CHARACTER: 
+
+034_light_up_cigars.mp3
+  "Light up cigars"
+  CHARACTER: 
+
+035_ma_the_meatloaf_fuck.mp3
+  "MA, THE MEATLOAF! FUCK!"
+  CHARACTER: 
+
+036_maple.mp3
+  "Maple"
+  CHARACTER: 
+
+037_meatloaf.mp3
+  "Meatloaf"
+  CHARACTER: 
+
+038_motor_boat.mp3
+  "Motor Boat"
+  CHARACTER: 
+
+039_my_first_asian.mp3
+  "My first asian"
+  CHARACTER: 
+
+040_on_my_way.mp3
+  "On my way"
+  CHARACTER: 
+
+041_pervert.mp3
+  "Pervert!"
+  CHARACTER: 
+
+042_rule.mp3
+  "Rule"
+  CHARACTER: 
+
+043_she_s_not_just_another_notch_in_your_belt.mp3
+  "She's not just another notch in your belt"
+  CHARACTER: 
+
+044_shut_your_mouth.mp3
+  "Shut your mouth"
+  CHARACTER: 
+
+045_shut_your_mouth_funny_guy.mp3
+  "Shut your mouth funny guy"
+  CHARACTER: 
+
+046_shut_your_mouth_when_you_re_talking_to_me.mp3
+  "Shut your mouth when you're talking to me"
+  CHARACTER: 
+
+047_sock_gag.mp3
+  "Sock gag"
+  CHARACTER: 
+
+048_stop_crying_like_a_little_girl.mp3
+  "Stop Crying Like a Little Girl"
+  CHARACTER: 
+
+049_taking_grenades.mp3
+  "Taking grenades"
+  CHARACTER: 
+
+050_tattoo_on_the_lower_back.mp3
+  "Tattoo on the lower back"
+  CHARACTER: 
+
+051_this_feels_borderline_inappropriate.mp3
+  "This feels borderline inappropriate"
+  CHARACTER: 
+
+052_this_is_getting_confusing.mp3
+  "This is getting confusing"
+  CHARACTER: 
+
+053_we_only_use_10_percent_of_our_hearts.mp3
+  "We Only Use 10 Percent of our Hearts"
+  CHARACTER: 
+
+054_we_ve_rocked_them_all.mp3
+  "We've rocked them all"
+  CHARACTER: 
+
+055_we_re_making_progress.mp3
+  "We’re making progress"
+  CHARACTER: 
+
+056_what_an_idiot.mp3
+  "What an idiot"
+  CHARACTER: 
+
+057_what_an_idiot.mp3
+  "WHAT AN IDIOT"
+  CHARACTER: 
+
+058_what_an_idiot.mp3
+  "What an idiot"
+  CHARACTER: 
+
+059_what_is_she_doing.mp3
+  "What Is She Doing"
+  CHARACTER: 
+
+060_what_is_she_doing.mp3
+  "What is she doing?"
+  CHARACTER: 
+
+061_what_the_fuck_do_you_want.mp3
+  "What the fuck do you want?"
+  CHARACTER: 
+
+062_whatever_clown.mp3
+  "Whatever clown"
+  CHARACTER: 
+
+063_why_are_you_yelling.mp3
+  "Why are you yelling?"
+  CHARACTER: 
+
+064_you_re_a_homo.mp3
+  "You're a homo"
+  CHARACTER: 
+
+065_cause_i_d_find_you.mp3
+  "'Cause I'd Find You"
+  CHARACTER: 

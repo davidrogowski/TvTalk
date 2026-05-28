@@ -57,6 +57,7 @@ def main() -> None:
         out_shows.append({
             "id": sid,
             "name": s.get("name", sid),
+            "type": s.get("type", "show"),
             "theme": s.get("theme", {}),
             "text_style": s.get("text_style", "caption"),
             "quotes": quotes,

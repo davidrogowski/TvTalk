@@ -240,3 +240,176 @@ shows:
       primary: "#2f6fb0"
       accent:  "#e0b13a"
       bg:      "#06090d"
+
+  - id: nathan-for-you
+    name: "Nathan For You"
+    board_url: "https://www.101soundboards.com/boards/84649-nathan-for-you-soundboard"
+    status: pending
+    theme:
+      primary: "#c2a35a"
+      accent:  "#5f7e8f"
+      bg:      "#0b0a07"
+
+  - id: tropic-thunder
+    name: "Tropic Thunder"
+    board_url: "https://www.101soundboards.com/boards/85853-tropic-thunder-soundboard"
+    status: pending
+    type: movie
+    theme:
+      primary: "#6e7a32"
+      accent:  "#e2701c"
+      bg:      "#090a05"
+
+  - id: step-brothers
+    name: "Step Brothers"
+    board_url: "https://www.101soundboards.com/boards/24957-step-brothers-movie-soundboard"
+    status: pending
+    type: movie
+    theme:
+      primary: "#2b5288"
+      accent:  "#d9b04a"
+      bg:      "#070912"
+
+  - id: talladega-nights
+    name: "Talladega Nights"
+    board_url: "https://www.101soundboards.com/boards/83872-talladega-nights-soundboard"
+    status: pending
+    type: movie
+    theme:
+      primary: "#cf2f2f"
+      accent:  "#e0c558"
+      bg:      "#0c0706"
+
+  - id: wedding-crashers
+    name: "Wedding Crashers"
+    board_url: "https://www.101soundboards.com/boards/84106-wedding-crashers-soundboard"
+    status: pending
+    type: movie
+    theme:
+      primary: "#c0436a"
+      accent:  "#e8c98a"
+      bg:      "#0d0709"
+
+  - id: superbad
+    name: "Superbad"
+    board_url: "https://www.101soundboards.com/boards/83982-superbad-soundboard"
+    status: pending
+    type: movie
+    theme:
+      primary: "#d9a02a"
+      accent:  "#c43a2a"
+      bg:      "#0c0905"
+
+  - id: this-is-the-end
+    name: "This Is The End"
+    board_url: "https://www.101soundboards.com/boards/75906-this-is-the-end-soundboard"
+    status: pending
+    type: movie
+    theme:
+      primary: "#c13525"
+      accent:  "#3f8fc2"
+      bg:      "#0c0503"
+
+  - id: 40-year-old-virgin
+    name: "The 40 Year Old Virgin"
+    board_url: "https://www.101soundboards.com/boards/85574-40-year-old-virgin-soundboard"
+    status: pending
+    type: movie
+    theme:
+      primary: "#2f8f8a"
+      accent:  "#e0a070"
+      bg:      "#060a0a"
+
+  - id: anchorman
+    name: "Anchorman"
+    board_url: "https://www.101soundboards.com/boards/40777-anchorman-soundboard"
+    status: pending
+    type: movie
+    theme:
+      primary: "#8a2b3a"
+      accent:  "#d9a83a"
+      bg:      "#0c0606"
+
+  - id: office-space
+    name: "Office Space"
+    board_url: "https://www.101soundboards.com/boards/11360-office-space-1999-soundboard"
+    status: pending
+    type: movie
+    dedup: true
+    theme:
+      primary: "#6e7480"
+      accent:  "#c8352b"
+      bg:      "#0a0a0b"
+
+  - id: pineapple-express
+    name: "Pineapple Express"
+    board_url: "https://www.101soundboards.com/boards/35385-pineapple-express-soundboard"
+    status: pending
+    type: movie
+    dedup: true
+    theme:
+      primary: "#4a8a2a"
+      accent:  "#e0b020"
+      bg:      "#0a0d06"
+
+  - id: austin-powers-goldmember
+    name: "Austin Powers: Goldmember"
+    board_url: "https://www.101soundboards.com/boards/24798-austin-powers-in-goldmember-soundboard"
+    status: pending
+    type: movie
+    theme:
+      primary: "#a83d9c"
+      accent:  "#e6c23a"
+      bg:      "#0c0610"
+
+  - id: strange-wilderness
+    name: "Strange Wilderness"
+    board_url: "https://www.101soundboards.com/boards/1395087-strange-wilderness-2008"
+    status: pending
+    type: movie
+    dedup: true
+    theme:
+      primary: "#2f7d5a"
+      accent:  "#c2a05a"
+      bg:      "#06090a"
+
+  - id: the-hangover
+    name: "The Hangover"
+    board_url: "https://www.101soundboards.com/boards/84963-the-hangover-soundboard"
+    status: pending
+    type: movie
+    theme:
+      primary: "#3f3a82"
+      accent:  "#e0478c"
+      bg:      "#07060e"
+
+  - id: the-other-guys
+    name: "The Other Guys"
+    board_url: "https://www.101soundboards.com/boards/84995-the-other-guys-soundboard"
+    status: pending
+    type: movie
+    theme:
+      primary: "#3d6098"
+      accent:  "#d99a30"
+      bg:      "#07090e"
+
+  - id: zoolander
+    name: "Zoolander"
+    board_url: "https://www.101soundboards.com/boards/1374577-zoolander-2001"
+    status: pending
+    type: movie
+    theme:
+      primary: "#2f8fd0"
+      accent:  "#d0d0d8"
+      bg:      "#06080d"
+
+  - id: borat
+    name: "Borat"
+    board_url: "https://www.101soundboards.com/boards/24815-borat-movie-soundboard"
+    status: pending
+    type: movie
+    preserve_transcripts: true
+    theme:
+      primary: "#3a9bd4"
+      accent:  "#ecc21e"
+      bg:      "#06090d"

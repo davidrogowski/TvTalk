@@ -278,6 +278,36 @@ def read_existing_characters(transcripts_path: Path) -> dict[str, str]:
     return result
 
 
+def read_existing_transcripts(transcripts_path: Path) -> dict[str, str]:
+    """
+    Parse an existing transcripts.txt and return {filename: transcript text}.
+
+    Used with the per-show `preserve_transcripts` flag: when a board's
+    auto-generated captions are bad (e.g. words run together with no spaces),
+    you hand-fix the quoted transcript lines in transcripts.txt and re-run; this
+    reads those edits back so they survive even though the API still serves the
+    original text. Keyed by filename, which stays stable (it is derived from the
+    original API transcript, not the edited one).
+    """
+    if not transcripts_path.exists():
+        return {}
+
+    result: dict[str, str] = {}
+    current_file: str | None = None
+    for raw in transcripts_path.read_text(encoding="utf-8").splitlines():
+        line = raw.rstrip()
+        if not line.strip():
+            current_file = None
+            continue
+        stripped = line.lstrip()
+        if line == stripped and stripped.lower().endswith(".mp3"):
+            current_file = stripped
+            continue
+        if current_file and len(stripped) >= 2 and stripped[0] == '"' and stripped[-1] == '"':
+            result[current_file] = stripped[1:-1]
+    return result
+
+
 def write_transcripts(transcripts_path: Path, entries: list[dict]) -> None:
     """
     Write transcripts.txt in the curation-friendly format. `entries` is a list of
@@ -324,6 +354,7 @@ def scrape_board(
     exclude_prefix: str = "",
     case_style: str = "preserve",
     dedup_transcripts: bool = False,
+    preserve_transcripts: bool = False,
 ) -> dict:
     """Scrape one or more boards into out_dir. Returns a stats dict."""
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -331,6 +362,7 @@ def scrape_board(
     quotes_path = out_dir / "quotes.js"
 
     existing_chars = read_existing_characters(transcripts_path)
+    existing_transcripts = read_existing_transcripts(transcripts_path) if preserve_transcripts else {}
 
     seen: set[str] = set()
     seen_transcripts: set[str] = set()
@@ -363,11 +395,15 @@ def scrape_board(
     downloaded = skipped_existing = skipped_length = 0
 
     for i, (mp3_url, transcript, from_legacy) in enumerate(clips, 1):
-        if not passes_length(transcript, min_words, max_words):
+        # Filename is derived from the original API transcript so it stays stable
+        # across re-runs even when preserve_transcripts swaps in hand-edited text.
+        filename = safe_filename(transcript, mp3_url, i)
+        display_transcript = existing_transcripts.get(filename, transcript)
+
+        if not passes_length(display_transcript, min_words, max_words):
             skipped_length += 1
             continue
 
-        filename = safe_filename(transcript, mp3_url, i)
         dest = out_dir / filename
 
         if dest.exists() and dest.stat().st_size > 0:
@@ -386,7 +422,7 @@ def scrape_board(
 
         entries.append({
             "filename": filename,
-            "transcript": transcript,
+            "transcript": display_transcript,
             "character": existing_chars.get(filename, ""),
         })
 
@@ -492,13 +528,16 @@ def main() -> None:
         urls = [url]
         if s.get("board_url_2"):
             urls.append(s["board_url_2"])
-        dedup_raw = s.get("dedup", False)
-        dedup = dedup_raw is True or str(dedup_raw).strip().lower() in ("true", "yes", "1")
+        def _flag(key: str) -> bool:
+            raw = s.get(key, False)
+            return raw is True or str(raw).strip().lower() in ("true", "yes", "1")
+
         scrape_board(
             urls, AUDIO_ROOT / sid, sid, args.min_length, args.max_length,
             exclude_prefix=s.get("exclude_prefix", ""),
             case_style=s.get("case_style", "preserve"),
-            dedup_transcripts=dedup,
+            dedup_transcripts=_flag("dedup"),
+            preserve_transcripts=_flag("preserve_transcripts"),
         )
 
 

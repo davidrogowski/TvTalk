@@ -80,7 +80,10 @@ Optional per-show fields (add any that apply):
     case_style: "fix_all_caps"           # if board has ALL-CAPS legacy captioning, normalize to sentence case
     exclude_prefix: "CAPTIONING MADE"    # drop clips whose transcripts start with this prefix (case-insensitive)
     dedup: true                          # drop clips whose transcript repeats one already kept (same line, different audio file)
+    preserve_transcripts: true           # keep hand-edited transcript text in transcripts.txt across re-scrapes (for boards with bad/smushed captions)
 ```
+
+**Fixing bad captions (`preserve_transcripts`):** the scraper normally re-fetches every transcript from the API on each run, so hand-edits to `transcripts.txt` get overwritten. If a board's captions are garbage (e.g. words run together with no spaces — `"Canisayfirst"`), set `preserve_transcripts: true`, then: scrape once (downloads audio + writes the bad transcripts), hand-fix the quoted transcript lines in `audio/<id>/transcripts.txt` (leave the `.mp3` filename lines untouched — filenames stay keyed to the original API text), then re-run the scraper to regenerate `quotes.js` from your corrected text. Your edits now survive future re-scrapes.
 
 **Merging a legacy + modern board:** the 1s ding-trim is applied **per board** — only clips that came from a legacy board (ID < 1M) are trimmed. Clips from a modern board in the same merge are left intact, so you can safely merge e.g. a legacy `-soundboard` with a clean `-YYYY` board without chopping real audio off the modern clips.
 

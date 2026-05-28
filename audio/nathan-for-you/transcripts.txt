@@ -1,0 +1,179 @@
+001_ah_that_hurt.mp3
+  "Ah! That hurt!"
+  CHARACTER: 
+
+002_are_you_hungry.mp3
+  "Are you hungry?"
+  CHARACTER: 
+
+003_are_you_serious.mp3
+  "Are you serious?"
+  CHARACTER: 
+
+004_but_maybe_though_right.mp3
+  "But, maybe though, right?"
+  CHARACTER: 
+
+005_cursed_with_too_much_love.mp3
+  "Cursed with too much love"
+  CHARACTER: 
+
+006_daddy_s_no_longer_around.mp3
+  "Daddy's no longer around"
+  CHARACTER: 
+
+007_delete_the_video.mp3
+  "Delete the video!"
+  CHARACTER: 
+
+008_do_not_answer_to_nobody.mp3
+  "Do not answer to nobody"
+  CHARACTER: 
+
+009_fire_danger.mp3
+  "Fire danger"
+  CHARACTER: 
+
+010_gotta_pull_out.mp3
+  "Gotta pull out"
+  CHARACTER: 
+
+011_i_am_so_sad.mp3
+  "I am so sad"
+  CHARACTER: 
+
+012_i_feel_like_a_beer.mp3
+  "I Feel Like a Beer"
+  CHARACTER: 
+
+013_i_have_a_doctor_s_appointment.mp3
+  "I have a doctor's appointment"
+  CHARACTER: 
+
+014_i_hope_you_re_hungry.mp3
+  "I hope you're hungry"
+  CHARACTER: 
+
+015_i_love_you.mp3
+  "I love you"
+  CHARACTER: 
+
+016_i_love_you.mp3
+  "I Love You.."
+  CHARACTER: 
+
+017_i_should_ve_married_her.mp3
+  "I Should've Married Her"
+  CHARACTER: 
+
+018_i_suppose_so.mp3
+  "I suppose so!"
+  CHARACTER: 
+
+019_i_d_love_to_be_in_your_will.mp3
+  "I'd love to be in your will"
+  CHARACTER: 
+
+020_i_m_truly_sorry.mp3
+  "I'm truly sorry"
+  CHARACTER: 
+
+021_in_between_relationships.mp3
+  "In between relationships"
+  CHARACTER: 
+
+022_knowledge_to_help_businesses.mp3
+  "Knowledge to help businesses"
+  CHARACTER: 
+
+023_liar_and_cool_guy.mp3
+  "Liar and cool guy"
+  CHARACTER: 
+
+024_nathan_fielder_asian_accent.mp3
+  "Nathan Fielder Asian Accent"
+  CHARACTER: 
+
+025_nathan_likes_sex.mp3
+  "Nathan Likes Sex"
+  CHARACTER: 
+
+026_nobody_listens_when_you_speak.mp3
+  "Nobody Listens When You Speak"
+  CHARACTER: 
+
+027_not_a_negotiation.mp3
+  "Not a negotiation"
+  CHARACTER: 
+
+028_oh_my_god_are_you_serious.mp3
+  "Oh my god, are you serious?"
+  CHARACTER: 
+
+029_oh_my_lord_okay.mp3
+  "Oh my lord, okay"
+  CHARACTER: 
+
+030_oh_crap.mp3
+  "Oh, crap"
+  CHARACTER: 
+
+031_ordinary_pack_of_gum.mp3
+  "Ordinary pack of gum"
+  CHARACTER: 
+
+032_strange_giggle.mp3
+  "Strange giggle"
+  CHARACTER: 
+
+033_teach_him_a_lesson.mp3
+  "Teach him a lesson"
+  CHARACTER: 
+
+034_thinking_about_superheroes.mp3
+  "Thinking about superheroes"
+  CHARACTER: 
+
+035_this_is_so_sad_song.mp3
+  "This Is So Sad song"
+  CHARACTER: 
+
+036_today_is_very_good.mp3
+  "Today is very good"
+  CHARACTER: 
+
+037_tuck_you_in_bed.mp3
+  "Tuck you in bed"
+  CHARACTER: 
+
+038_turn_off_the_music.mp3
+  "TURN OFF THE MUSIC"
+  CHARACTER: 
+
+039_weak_handshake.mp3
+  "Weak handshake"
+  CHARACTER: 
+
+040_yes.mp3
+  "Yes"
+  CHARACTER: 
+
+041_you_are_a_little_shit.mp3
+  "You are a little shit!"
+  CHARACTER: 
+
+042_you_have_to_go.mp3
+  "You Have To Go"
+  CHARACTER: 
+
+043_you_seem_unsure.mp3
+  "You seem unsure"
+  CHARACTER: 
+
+044_you_re_so_weird.mp3
+  "You're so weird"
+  CHARACTER: 
+
+045_you_re_very_manipulative.mp3
+  "You're very manipulative"
+  CHARACTER: 

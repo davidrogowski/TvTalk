@@ -1,0 +1,203 @@
+001_a_retard.mp3
+  "A retard"
+  CHARACTER: 
+
+002_ahhh_fuck_you.mp3
+  "Ahhh, fuck you"
+  CHARACTER: 
+
+003_blacked_out.mp3
+  "Blacked out"
+  CHARACTER: 
+
+004_blackjack_math.mp3
+  "Blackjack math"
+  CHARACTER: 
+
+005_blood_brothers.mp3
+  "Blood brothers"
+  CHARACTER: 
+
+006_boom.mp3
+  "BOOM"
+  CHARACTER: 
+
+007_boring_take_nap.mp3
+  "Boring. Take nap"
+  CHARACTER: 
+
+008_but_did_you_die.mp3
+  "But did you die?"
+  CHARACTER: 
+
+009_don_t_touch_it.mp3
+  "Don’t touch it"
+  CHARACTER: 
+
+010_escalator_down_to_casino.mp3
+  "Escalator down to casino"
+  CHARACTER: 
+
+011_fake_laugh.mp3
+  "Fake Laugh"
+  CHARACTER: 
+
+012_ha_classic.mp3
+  "Ha, classic!"
+  CHARACTER: 
+
+013_how_dare_you.mp3
+  "How dare you"
+  CHARACTER: 
+
+014_i_can_feel_it_coming_in_the_air_tonight.mp3
+  "I can feel it coming in the air tonight"
+  CHARACTER: 
+
+015_i_found_a_baby_before.mp3
+  "I found a baby before"
+  CHARACTER: 
+
+016_i_m_a_steel_trap.mp3
+  "I’m a steel trap"
+  CHARACTER: 
+
+017_in_the_face.mp3
+  "In The Face"
+  CHARACTER: 
+
+018_it_s_funny_because_he_s_fat.mp3
+  "It's funny because he's fat"
+  CHARACTER: 
+
+019_man_purse.mp3
+  "Man Purse"
+  CHARACTER: 
+
+020_math.mp3
+  "Math"
+  CHARACTER: 
+
+021_mothafuckaaaaa.mp3
+  "Mothafuckaaaaa"
+  CHARACTER: 
+
+022_my_life_is_great.mp3
+  "My life is great!"
+  CHARACTER: 
+
+023_nice.mp3
+  "Nice"
+  CHARACTER: 
+
+024_no_thank_you.mp3
+  "No thank you"
+  CHARACTER: 
+
+025_not_you_fat_jesus.mp3
+  "Not you fat jesus"
+  CHARACTER: 
+
+026_oh_my_god.mp3
+  "Oh my god!"
+  CHARACTER: 
+
+027_ok_byeeee.mp3
+  "Ok byeeee"
+  CHARACTER: 
+
+028_one_man_wolf_pack.mp3
+  "One Man Wolf Pack"
+  CHARACTER: 
+
+029_paging_the_doctor.mp3
+  "Paging the Doctor"
+  CHARACTER: 
+
+030_road_trip.mp3
+  "Road Trip!"
+  CHARACTER: 
+
+031_so_long_gay_boys.mp3
+  "So long, gay boys"
+  CHARACTER: 
+
+032_suck_my_dick.mp3
+  "Suck my dick"
+  CHARACTER: 
+
+033_thanks_a_lot_bin_laden.mp3
+  "Thanks a Lot Bin Laden"
+  CHARACTER: 
+
+034_that_s_a_fake_laugh.mp3
+  "That's a fake laugh"
+  CHARACTER: 
+
+035_that_s_a_fake_laugh_by_the_way.mp3
+  "That's a fake laugh, by the way"
+  CHARACTER: 
+
+036_the_doug_song.mp3
+  "The Doug Song"
+  CHARACTER: 
+
+037_this_isn_t_the_real_caesar_s_palace_is_it.mp3
+  "This isn't the real Caesar’s Palace, is it?"
+  CHARACTER: 
+
+038_three_best_friends_that_anyone_could_have.mp3
+  "Three Best Friends That Anyone Could Have"
+  CHARACTER: 
+
+039_thumbs_up.mp3
+  "Thumbs Up"
+  CHARACTER: 
+
+040_toodaloo_mother_f_cker.mp3
+  "Toodaloo, Mother F**cker"
+  CHARACTER: 
+
+041_vegas.mp3
+  "Vegas!"
+  CHARACTER: 
+
+042_we_fucked_up.mp3
+  "We fucked up"
+  CHARACTER: 
+
+043_what_you_talking_about.mp3
+  "What you talking about"
+  CHARACTER: 
+
+044_what_s_his_name.mp3
+  "What's his name?"
+  CHARACTER: 
+
+045_where_is_doug.mp3
+  "Where is Doug"
+  CHARACTER: 
+
+046_woo_road_trip.mp3
+  "Woo! Road trip!"
+  CHARACTER: 
+
+047_yeah_that_s_not_gonna_happen.mp3
+  "Yeah, that's not gonna happen"
+  CHARACTER: 
+
+048_you_are_too_stupid_to_insult.mp3
+  "You are Too Stupid to Insult"
+  CHARACTER: 
+
+049_you_gonna_fuck_on_me.mp3
+  "You gonna fuck on me?"
+  CHARACTER: 
+
+050_your_choice_bitches.mp3
+  "Your choice, bitches"
+  CHARACTER: 
+
+051_your_language_is_offensive.mp3
+  "Your Language is offensive"
+  CHARACTER: 

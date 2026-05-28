@@ -205,12 +205,25 @@
     randOpt.value = RANDOM;
     randOpt.textContent = '🎲 Random (all shows)';
     els.picker.appendChild(randOpt);
-    const sorted = [...SHOWS].sort((a, b) => a.name.localeCompare(b.name));
-    for (const s of sorted) {
-      const opt = document.createElement('option');
-      opt.value = s.id;
-      opt.textContent = s.name;
-      els.picker.appendChild(opt);
+
+    const GROUPS = [
+      { label: 'TV Shows', type: 'show' },
+      { label: 'Movies',   type: 'movie' },
+    ];
+    for (const g of GROUPS) {
+      const inGroup = SHOWS
+        .filter(s => (s.type || 'show') === g.type)
+        .sort((a, b) => a.name.localeCompare(b.name));
+      if (inGroup.length === 0) continue;
+      const og = document.createElement('optgroup');
+      og.label = g.label;
+      for (const s of inGroup) {
+        const opt = document.createElement('option');
+        opt.value = s.id;
+        opt.textContent = s.name;
+        og.appendChild(opt);
+      }
+      els.picker.appendChild(og);
     }
     els.picker.value = RANDOM;
   }

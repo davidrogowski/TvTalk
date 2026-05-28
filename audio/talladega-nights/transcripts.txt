@@ -1,0 +1,191 @@
+001_are_we_about_to_get_it_on.mp3
+  "Are we about to get it on?"
+  CHARACTER: 
+
+002_because_i_like_to_party.mp3
+  "Because I like to party"
+  CHARACTER: 
+
+003_bob_dawson_s_diet_pork_rinds.mp3
+  "Bob Dawson's Diet Pork Rinds"
+  CHARACTER: 
+
+004_can_t_understand_a_word_you_just_said.mp3
+  "Can't understand a word you just said"
+  CHARACTER: 
+
+005_cause_i_like_to_party.mp3
+  "Cause I like to party"
+  CHARACTER: 
+
+006_help_me_jesus.mp3
+  "Help Me, Jesus!"
+  CHARACTER: 
+
+007_help_me_oprah_winfrey.mp3
+  "Help Me, Oprah Winfrey"
+  CHARACTER: 
+
+008_here_s_something_to_pick_your_spirits_up_middle_finger.mp3
+  "Here's something to pick your spirits up (middle finger)"
+  CHARACTER: 
+
+009_i_feel_like_i_m_in_highlander.mp3
+  "I feel like I'm in Highlander"
+  CHARACTER: 
+
+010_i_like_to_picture_jesus_as.mp3
+  "I Like to Picture Jesus As.."
+  CHARACTER: 
+
+011_i_love_really_thin_pancakes.mp3
+  "I love really thin pancakes"
+  CHARACTER: 
+
+012_i_play_for_keeps.mp3
+  "I Play For Keeps"
+  CHARACTER: 
+
+013_i_really_regret_opening_my_mouth_and_talking_to_you.mp3
+  "I really regret opening my mouth and talking to you"
+  CHARACTER: 
+
+014_i_wake_up_in_the_morning_and_piss_excellence.mp3
+  "I wake up in the morning and piss excellence"
+  CHARACTER: 
+
+015_i_was_high_when_i_said_that.mp3
+  "I was high when I said that"
+  CHARACTER: 
+
+016_i_m_as_hard_as_a_diamond_in_an_ice_storm_right_now.mp3
+  "I'm as hard as a diamond in an ice storm right now"
+  CHARACTER: 
+
+017_i_m_on_fire.mp3
+  "I'm on fire"
+  CHARACTER: 
+
+018_i_m_on_fire.mp3
+  "I'm on fire"
+  CHARACTER: 
+
+019_i_m_too_drunk_to_taste_this_chicken.mp3
+  "I'm too drunk to taste this chicken"
+  CHARACTER: 
+
+020_i_m_here_to_party.mp3
+  "I’m here to party"
+  CHARACTER: 
+
+021_if_you_ain_t_first_you_re_last.mp3
+  "If You Ain't First, You're Last"
+  CHARACTER: 
+
+022_if_you_don_t_chew_big_red_then_f_you.mp3
+  "If you don't chew Big Red then F you"
+  CHARACTER: 
+
+023_it_s_the_fastest_who_gets_laid.mp3
+  "It's the fastest who gets laid"
+  CHARACTER: 
+
+024_jacked_up_on_mountain_dew.mp3
+  "Jacked Up on Mountain Dew"
+  CHARACTER: 
+
+025_mike_honcho.mp3
+  "Mike Honcho"
+  CHARACTER: 
+
+026_no.mp3
+  "No!"
+  CHARACTER: 
+
+027_no.mp3
+  "No!"
+  CHARACTER: 
+
+028_oh_no_no_no_no_no_oh.mp3
+  "Oh No No No No No Oh"
+  CHARACTER: 
+
+029_pet_shop_boys_and_seal.mp3
+  "Pet Shop Boys and Seal"
+  CHARACTER: 
+
+030_please_be_18.mp3
+  "Please Be 18"
+  CHARACTER: 
+
+031_ricky_bobby_knife.mp3
+  "Ricky Bobby Knife"
+  CHARACTER: 
+
+032_ricky_bobby_loves_big_red.mp3
+  "Ricky Bobby loves Big Red"
+  CHARACTER: 
+
+033_room_s_starting_to_spin_real_fast.mp3
+  "Room's starting to spin real fast"
+  CHARACTER: 
+
+034_shake_and_bake.mp3
+  "Shake and Bake"
+  CHARACTER: 
+
+035_stop_drop_and_roll.mp3
+  "Stop drop and roll"
+  CHARACTER: 
+
+036_talladegagrace8lb6oz.mp3
+  "Talladegagrace8lb6oz"
+  CHARACTER: 
+
+037_thank_you_sweet_baby_jesus.mp3
+  "Thank you sweet baby Jesus"
+  CHARACTER: 
+
+038_that_idea_ain_t_worth_a_velvet_painting_of_a_whale_and_a_dol.mp3
+  "That idea ain't worth a velvet painting of a whale and a dolphin getting it on"
+  CHARACTER: 
+
+039_that_just_happened.mp3
+  "That Just Happened"
+  CHARACTER: 
+
+040_that_s_dumb.mp3
+  "That's Dumb"
+  CHARACTER: 
+
+041_the_answer_is_never.mp3
+  "The answer is NEVER"
+  CHARACTER: 
+
+042_the_best_there_is.mp3
+  "The best there is"
+  CHARACTER: 
+
+043_there_s_nothing_sexual_about_it.mp3
+  "There's nothing sexual about it"
+  CHARACTER: 
+
+044_time_to_be_a_man.mp3
+  "Time to be a man"
+  CHARACTER: 
+
+045_we_all_tried_hard.mp3
+  "We All Tried Hard"
+  CHARACTER: 
+
+046_who_wants_to_go_fast.mp3
+  "Who wants to go fast?"
+  CHARACTER: 
+
+047_will_you_be_my_katie_couric.mp3
+  "Will you be my Katie Couric?"
+  CHARACTER: 
+
+048_ya_two_christmases.mp3
+  "Ya! Two Christmases!"
+  CHARACTER: 

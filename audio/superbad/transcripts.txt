@@ -1,0 +1,199 @@
+001_almost_gave_me_a_heart_attack.mp3
+  "Almost gave me a heart attack"
+  CHARACTER: 
+
+002_alone_like_steven_glansberg.mp3
+  "Alone like Steven Glansberg"
+  CHARACTER: 
+
+003_byeee.mp3
+  "Byeee"
+  CHARACTER: 
+
+004_chill_zone_where_we_chillax.mp3
+  "Chill zone, where we chillax"
+  CHARACTER: 
+
+005_cool_story_bro.mp3
+  "Cool Story Bro"
+  CHARACTER: 
+
+006_cool_story_mclovin.mp3
+  "Cool story McLovin'"
+  CHARACTER: 
+
+007_cry.mp3
+  "Cry"
+  CHARACTER: 
+
+008_dick_montage.mp3
+  "Dick montage"
+  CHARACTER: 
+
+009_division_sign.mp3
+  "Division Sign"
+  CHARACTER: 
+
+010_don_t_worry_about_it_i_m_not_worried_at_all.mp3
+  "Don't Worry about It, I'm Not Worried At All"
+  CHARACTER: 
+
+011_down_to_fuck.mp3
+  "Down to fuck"
+  CHARACTER: 
+
+012_draw_pictures_of_dicks.mp3
+  "Draw Pictures of Dicks"
+  CHARACTER: 
+
+013_fake_id.mp3
+  "Fake ID"
+  CHARACTER: 
+
+014_fake_id_fake_id.mp3
+  "Fake ID Fake ID"
+  CHARACTER: 
+
+015_fuck_me_right.mp3
+  "Fuck me, right?"
+  CHARACTER: 
+
+016_fuck_my_life.mp3
+  "Fuck my life"
+  CHARACTER: 
+
+017_ha.mp3
+  "Ha"
+  CHARACTER: 
+
+018_hi.mp3
+  "Hi"
+  CHARACTER: 
+
+019_how_tall.mp3
+  "How tall?"
+  CHARACTER: 
+
+020_i_am_mclovin.mp3
+  "I am McLovin"
+  CHARACTER: 
+
+021_i_don_t_remember_much.mp3
+  "I don't remember much"
+  CHARACTER: 
+
+022_i_got_a_boner.mp3
+  "I got a boner"
+  CHARACTER: 
+
+023_i_have_to_eat_alone.mp3
+  "I have to eat alone?"
+  CHARACTER: 
+
+024_i_m_gettin_that_fa_sho.mp3
+  "I'm Gettin' That Fa Sho"
+  CHARACTER: 
+
+025_it_s_blood_dude.mp3
+  "It's blood dude"
+  CHARACTER: 
+
+026_it_s_not_too_bad.mp3
+  "It's not too bad"
+  CHARACTER: 
+
+027_it_s_the_cumming.mp3
+  "It's the Cumming"
+  CHARACTER: 
+
+028_it_s_10_33.mp3
+  "It’s 10:33"
+  CHARACTER: 
+
+029_lube.mp3
+  "Lube"
+  CHARACTER: 
+
+030_mclovin.mp3
+  "McLovin"
+  CHARACTER: 
+
+031_mclovin.mp3
+  "McLovin!"
+  CHARACTER: 
+
+032_oh_shit.mp3
+  "Oh shit"
+  CHARACTER: 
+
+033_people_don_t_forget.mp3
+  "People don't forget"
+  CHARACTER: 
+
+034_read_a_book_for_once.mp3
+  "Read a book for once"
+  CHARACTER: 
+
+035_sing_and_sing_good.mp3
+  "Sing, and sing good"
+  CHARACTER: 
+
+036_someone_has_an_exam.mp3
+  "Someone has an exam"
+  CHARACTER: 
+
+037_staring_at_boobs_in_class.mp3
+  "Staring at boobs in class"
+  CHARACTER: 
+
+038_superbad_piss_pants_again.mp3
+  "Superbad: Piss pants again"
+  CHARACTER: 
+
+039_thank_you_for_being_a_nice_guy_about_it_all.mp3
+  "Thank you for being a nice guy about it all"
+  CHARACTER: 
+
+040_that_was_like_8_years_ago_asshole.mp3
+  "That was like 8 years ago, asshole"
+  CHARACTER: 
+
+041_the_funny_thing_about_my_back_is_that_it_s_located_on_my_coc.mp3
+  "The funny thing about my back is that it's located on my cock"
+  CHARACTER: 
+
+043_throwing_up.mp3
+  "Throwing Up"
+  CHARACTER: 
+
+044_tight.mp3
+  "Tight"
+  CHARACTER: 
+
+045_tonight_fucking_is_an_actual_possibility.mp3
+  "Tonight fucking is an actual possibility"
+  CHARACTER: 
+
+046_we_re_so_going_to_get_fucked_up.mp3
+  "We're so going to get fucked up!"
+  CHARACTER: 
+
+047_what.mp3
+  "What.."
+  CHARACTER: 
+
+048_whats_up.mp3
+  "Whats up"
+  CHARACTER: 
+
+049_you_guys_on_myspace.mp3
+  "You Guys On Myspace"
+  CHARACTER: 
+
+050_you_really_bitched_out.mp3
+  "You really bitched out"
+  CHARACTER: 
+
+051_you_want_a_line_of_cocaine.mp3
+  "You want a line of cocaine?"
+  CHARACTER: 

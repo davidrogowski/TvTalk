@@ -1,0 +1,331 @@
+001_aim_for_the_bushes.mp3
+  "Aim for the bushes"
+  CHARACTER: 
+
+002_aim_for_the_bushes.mp3
+  "Aim for the Bushes"
+  CHARACTER: 
+
+003_ain_t_too_proud_to_beg.mp3
+  "Ain't too proud to beg"
+  CHARACTER: 
+
+004_angry.mp3
+  "Angry"
+  CHARACTER: 
+
+005_are_you_a_big_man.mp3
+  "Are you a big man?!"
+  CHARACTER: 
+
+006_at_age_11_i_went_to_school.mp3
+  "At age 11 I went to school"
+  CHARACTER: 
+
+007_balls_to_do_it.mp3
+  "Balls to Do It"
+  CHARACTER: 
+
+008_bar_mitvahs.mp3
+  "Bar Mitvahs"
+  CHARACTER: 
+
+009_barge_in.mp3
+  "Barge in"
+  CHARACTER: 
+
+010_bullshit_on_that.mp3
+  "Bullshit on That"
+  CHARACTER: 
+
+011_can_t_have_a_conscience_in_the_pimp_game.mp3
+  "Can't have a conscience in the pimp game"
+  CHARACTER: 
+
+012_celebrate.mp3
+  "Celebrate"
+  CHARACTER: 
+
+013_creep_creep.mp3
+  "Creep creep"
+  CHARACTER: 
+
+014_desk_pop.mp3
+  "Desk Pop"
+  CHARACTER: 
+
+015_did_that_go_the_way_you_thought_it_was_going_to_go.mp3
+  "Did That Go The Way You Thought It Was Going To Go?"
+  CHARACTER: 
+
+016_does_not_approve.mp3
+  "Does not approve"
+  CHARACTER: 
+
+017_don_t_flatter_yourself.mp3
+  "Don't flatter yourself"
+  CHARACTER: 
+
+018_don_t_go_chasing_waterfalls.mp3
+  "Don't go chasing waterfalls"
+  CHARACTER: 
+
+019_excited_for_bath_mats.mp3
+  "Excited for Bath Mats"
+  CHARACTER: 
+
+020_game_over_bitches.mp3
+  "Game over, bitches"
+  CHARACTER: 
+
+021_gator.mp3
+  "Gator"
+  CHARACTER: 
+
+022_gator_don_t_play.mp3
+  "Gator Don't Play"
+  CHARACTER: 
+
+023_gators_bitches_better_be_using_jimmies.mp3
+  "Gators Bitches Better Be Using Jimmies"
+  CHARACTER: 
+
+024_gentlemen_you_have_a_choice.mp3
+  "Gentlemen you have a choice"
+  CHARACTER: 
+
+025_go_get_em.mp3
+  "Go get em"
+  CHARACTER: 
+
+026_god_no.mp3
+  "God no!"
+  CHARACTER: 
+
+027_he_s_not_going_to_do_that_that_s_a_hyperbole.mp3
+  "He's not going to do that, that's a hyperbole"
+  CHARACTER: 
+
+028_hey_you_monkeys_stop.mp3
+  "Hey you monkeys stop!"
+  CHARACTER: 
+
+029_i_am_a_peacock.mp3
+  "I am a peacock!"
+  CHARACTER: 
+
+030_i_could_ve_handled_that_myself.mp3
+  "I could've handled that myself"
+  CHARACTER: 
+
+031_i_don_t_like_what_i_see.mp3
+  "I don't like what I see"
+  CHARACTER: 
+
+032_i_don_t_want_no_scrubs.mp3
+  "I don't want no scrubs"
+  CHARACTER: 
+
+033_i_got_to_go.mp3
+  "I got to go"
+  CHARACTER: 
+
+034_i_just_don_t_want_to_feel_like_that_out_of_control_ever_agai.mp3
+  "I just don't want to feel like that out of control ever again"
+  CHARACTER: 
+
+035_i_made_a_promise_to_her_i_would_never_get_out_of_control_aga.mp3
+  "I made a promise to her I would never get out of control again"
+  CHARACTER: 
+
+036_i_wanna_go.mp3
+  "I wanna go!"
+  CHARACTER: 
+
+037_i_was_grounded.mp3
+  "I was grounded"
+  CHARACTER: 
+
+038_i_was_very_much_looking_forward_to_having_a_water.mp3
+  "I was very much looking forward to having a water"
+  CHARACTER: 
+
+039_i_m_gonna_beat_the_shit_outta_you.mp3
+  "I'm gonna beat the shit outta you!"
+  CHARACTER: 
+
+040_i_m_telling_you_you_were_a_pimp.mp3
+  "I'm telling you, you were a pimp"
+  CHARACTER: 
+
+041_i_m_your_partner_you_can_tell_me.mp3
+  "I'm your partner you can tell me"
+  CHARACTER: 
+
+042_i_m_talking_about_doing_some_serious_drinking.mp3
+  "I’m talking about doing some serious drinking!"
+  CHARACTER: 
+
+043_is_it.mp3
+  "Is it?"
+  CHARACTER: 
+
+044_is_that_what_s_happening_huh.mp3
+  "Is that what's happening huh?!"
+  CHARACTER: 
+
+045_it_s_a_partners_code_i_had_no_choice.mp3
+  "It's a partners code I had no choice"
+  CHARACTER: 
+
+046_it_s_a_rape_whistle.mp3
+  "It's a Rape Whistle"
+  CHARACTER: 
+
+047_it_s_fine_it_s_fine.mp3
+  "It's fine it's fine"
+  CHARACTER: 
+
+048_it_s_9_15.mp3
+  "It’s 9:15"
+  CHARACTER: 
+
+049_jeez_i_m_sorry.mp3
+  "Jeez I'm sorry"
+  CHARACTER: 
+
+050_lol.mp3
+  "LOL"
+  CHARACTER: 
+
+051_look_at_these_two_jamokes.mp3
+  "Look at these two jamokes"
+  CHARACTER: 
+
+052_no_i_was_just_trying_to_help_a_friend.mp3
+  "No I was just trying to help a friend"
+  CHARACTER: 
+
+053_no_are_you_evening_listening_to_the_story.mp3
+  "No, are you evening listening to the story?"
+  CHARACTER: 
+
+054_nobody_cares_about_you.mp3
+  "Nobody Cares About You"
+  CHARACTER: 
+
+055_oh_man.mp3
+  "Oh man"
+  CHARACTER: 
+
+056_omg_you_were_a_pimp.mp3
+  "OMG you were a pimp"
+  CHARACTER: 
+
+057_pimps_don_t_cry.mp3
+  "Pimps don't cry"
+  CHARACTER: 
+
+058_put_on_big_boy_pants.mp3
+  "Put on big boy pants"
+  CHARACTER: 
+
+059_shh_shh.mp3
+  "Shh Shh"
+  CHARACTER: 
+
+060_shot_arod.mp3
+  "Shot AROD"
+  CHARACTER: 
+
+061_shut_your_face.mp3
+  "Shut your face"
+  CHARACTER: 
+
+062_terry_insults_allen.mp3
+  "Terry insults Allen"
+  CHARACTER: 
+
+063_that_s_a_weird_example.mp3
+  "That's a weird example"
+  CHARACTER: 
+
+064_that_s_horrible.mp3
+  "That's horrible"
+  CHARACTER: 
+
+065_the_city_is_dying_for_a_hero.mp3
+  "The city is dying for a hero"
+  CHARACTER: 
+
+066_the_most_stable_job_i_could_think_of.mp3
+  "The most stable job I could think of"
+  CHARACTER: 
+
+067_these_guys_are_pros.mp3
+  "These guys are pros"
+  CHARACTER: 
+
+068_they_were_so_convincing.mp3
+  "They were so convincing"
+  CHARACTER: 
+
+069_we_got_a_big_day_today.mp3
+  "We got a big day today"
+  CHARACTER: 
+
+070_we_started_making_a_lot_of_money.mp3
+  "We started making a lot of money"
+  CHARACTER: 
+
+071_wednesday_night_is_taco_night.mp3
+  "Wednesday night is taco night"
+  CHARACTER: 
+
+072_well_well_well.mp3
+  "Well Well Well"
+  CHARACTER: 
+
+073_what_the_hell_are_you.mp3
+  "What the hell are you?"
+  CHARACTER: 
+
+074_what_the_hell_is_going_on_here.mp3
+  "What the hell is going on here?!"
+  CHARACTER: 
+
+075_what_re_you_afraid_of_man.mp3
+  "What're you afraid of man?"
+  CHARACTER: 
+
+076_what_re_you_doing.mp3
+  "What're you doing?!"
+  CHARACTER: 
+
+077_why_don_t_you_step_back_man.mp3
+  "Why don't you step back man"
+  CHARACTER: 
+
+078_yes_that_s_exactly_what_s_happening.mp3
+  "Yes that's exactly what's happening"
+  CHARACTER: 
+
+079_you_guys_are_fighting_over_who_s_going_to_be_the_next_hotsho.mp3
+  "You guys are fighting over who's going to be the next hotshot"
+  CHARACTER: 
+
+080_you_thinking_what_i_m_thinking_partner.mp3
+  "You thinking what I'm thinking partner?"
+  CHARACTER: 
+
+081_you_wanna_dance_brolio.mp3
+  "You wanna dance brolio?!"
+  CHARACTER: 
+
+082_you_ve_got_to_be_shitting_me.mp3
+  "You've got to be shitting me"
+  CHARACTER: 
+
+083_your_farts_aren_t_manly.mp3
+  "Your farts aren't manly"
+  CHARACTER: 

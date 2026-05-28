@@ -1,0 +1,83 @@
+001_are_you_fucking_retarded.mp3
+  "Are you fucking retarded?"
+  CHARACTER: 
+
+002_both_of_yall.mp3
+  "Both of yall"
+  CHARACTER: 
+
+003_covered_in_vomit.mp3
+  "Covered in vomit"
+  CHARACTER: 
+
+004_do_you_like_to_do_it_yourself.mp3
+  "Do you like to do it yourself?"
+  CHARACTER: 
+
+005_don_t_ignore_me.mp3
+  "Don't ignore me"
+  CHARACTER: 
+
+006_get_down_with_sex_all_the_time.mp3
+  "Get down with sex all the time"
+  CHARACTER: 
+
+007_hoe_for_show.mp3
+  "Hoe for show"
+  CHARACTER: 
+
+008_how_i_know_you_re_gay.mp3
+  "How I know you're gay"
+  CHARACTER: 
+
+009_know_how_i_know.mp3
+  "Know How I Know?"
+  CHARACTER: 
+
+010_know_what_i_sayin.mp3
+  "Know what I sayin?"
+  CHARACTER: 
+
+011_oh_yeah_right.mp3
+  "Oh, yeah, right"
+  CHARACTER: 
+
+012_on_the_house.mp3
+  "On The House"
+  CHARACTER: 
+
+013_please_don_t_do_this.mp3
+  "Please Don't Do This"
+  CHARACTER: 
+
+014_price_negotiation.mp3
+  "Price negotiation"
+  CHARACTER: 
+
+015_psycho_talk.mp3
+  "Psycho Talk"
+  CHARACTER: 
+
+016_so_shit_man_fuck_it.mp3
+  "So shit man, fuck it"
+  CHARACTER: 
+
+017_telling_me_to_fuck_a_goat.mp3
+  "Telling me to fuck a goat"
+  CHARACTER: 
+
+018_we_gonna_need_more_wax.mp3
+  "We gonna need more wax"
+  CHARACTER: 
+
+019_we_ve_given_you_all_the_advice_we_have_to_give.mp3
+  "We've given you all the advice we have to give"
+  CHARACTER: 
+
+020_who_the_fuck_are_you.mp3
+  "Who the fuck are you?"
+  CHARACTER: 
+
+021_yeah_everyone_rides_a_bike.mp3
+  "Yeah, everyone rides a bike.."
+  CHARACTER: 

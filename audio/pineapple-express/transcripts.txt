@@ -1,0 +1,167 @@
+005_both_of_my_best_friends.mp3
+  "Both of my best friends"
+  CHARACTER: 
+
+009_everyone_should_smoke_it.mp3
+  "Everyone Should Smoke It"
+  CHARACTER: 
+
+014_heard_that_wish_i_didn_t.mp3
+  "Heard that, wish I didn't"
+  CHARACTER: 
+
+017_high_as_a_fucking_kite.mp3
+  "High as a fucking kite"
+  CHARACTER: 
+
+018_i_don_t_trust_him.mp3
+  "I Don't Trust Him"
+  CHARACTER: 
+
+019_i_don_t_wanna_do_this.mp3
+  "I Don't Wanna Do This"
+  CHARACTER: 
+
+020_i_feel_like_a_slice_of_butter.mp3
+  "I feel like a slice of butter"
+  CHARACTER: 
+
+021_i_made_a_mistake.mp3
+  "I made a mistake"
+  CHARACTER: 
+
+023_i_still_don_t_understand.mp3
+  "I Still Don't Understand"
+  CHARACTER: 
+
+024_i_wanna_be_inside_you_homes.mp3
+  "I wanna be inside you homes"
+  CHARACTER: 
+
+025_i_m_taking_these_with_me.mp3
+  "I'm Taking These With Me"
+  CHARACTER: 
+
+027_it_s_a_cold_sore.mp3
+  "It's a cold sore"
+  CHARACTER: 
+
+028_it_s_like_god_s.mp3
+  "It's Like God's ******"
+  CHARACTER: 
+
+029_it_s_my_cat_s_birthday_today.mp3
+  "It's my cat's birthday today"
+  CHARACTER: 
+
+030_it_s_my_cats_birthday_today.mp3
+  "It's my cats birthday today"
+  CHARACTER: 
+
+031_kill_you_and_some.mp3
+  "Kill You And Some"
+  CHARACTER: 
+
+034_mature_for_her_age.mp3
+  "Mature for her age"
+  CHARACTER: 
+
+035_monkey_s_out_of_the_bottle.mp3
+  "Monkey's out of the bottle"
+  CHARACTER: 
+
+036_not_ready_for_marriage.mp3
+  "Not Ready For Marriage"
+  CHARACTER: 
+
+037_oh_i_made_a_mistake.mp3
+  "Oh I Made A Mistake"
+  CHARACTER: 
+
+040_pineapple_express_come_on_down.mp3
+  "Pineapple express come on down"
+  CHARACTER: 
+
+041_pineapple_express_prostitute_gun.mp3
+  "Pineapple Express prostitute gun"
+  CHARACTER: 
+
+042_safety_first_then_teamwork.mp3
+  "Safety First, then Teamwork"
+  CHARACTER: 
+
+049_special_time_with_me.mp3
+  "Special Time With Me"
+  CHARACTER: 
+
+050_stuff_your_sorries_in_a_sack_bro.mp3
+  "Stuff your sorries in a sack bro"
+  CHARACTER: 
+
+052_that_is_good_weed.mp3
+  "That is good weed!"
+  CHARACTER: 
+
+054_the_answer_i_m_looking_for.mp3
+  "The answer I'm looking for"
+  CHARACTER: 
+
+056_threw_up_on_my_printer.mp3
+  "Threw Up On My Printer"
+  CHARACTER: 
+
+058_thumb_is_my.mp3
+  "Thumb is My ****"
+  CHARACTER: 
+
+059_time_to_suck_today_s_dick.mp3
+  "Time to suck today's dick"
+  CHARACTER: 
+
+060_tryna_get_a_motherfuckin_scholarship.mp3
+  "Tryna get a motherfuckin scholarship"
+  CHARACTER: 
+
+063_what_the_fuck_man.mp3
+  "What the fuck man?!"
+  CHARACTER: 
+
+064_ya_ll_wanna_buy_some_drugs.mp3
+  "Ya'll wanna buy some drugs?"
+  CHARACTER: 
+
+065_you_ain_t_got_no_style_motherfucker.mp3
+  "You ain't got no style, motherfucker"
+  CHARACTER: 
+
+066_you_ate_a_box_of_nerds_out_of_her_butthole.mp3
+  "You ate a box of nerds out of her butthole"
+  CHARACTER: 
+
+067_you_didn_t_even_have_herpes.mp3
+  "You didn't even have herpes"
+  CHARACTER: 
+
+068_you_killed_him_man.mp3
+  "You Killed Him Man"
+  CHARACTER: 
+
+069_you_know_what_today_is.mp3
+  "You know what today is?"
+  CHARACTER: 
+
+070_you_torch_me_please.mp3
+  "You Torch Me Please"
+  CHARACTER: 
+
+073_your_cats_going_to_heaven.mp3
+  "Your Cats Going To Heaven"
+  CHARACTER: 
+
+074_your_dick_my_mouth.mp3
+  "Your dick, my mouth"
+  CHARACTER: 
+
+075_2_and_a_half_girls.mp3
+  "2 And A Half Girls"
+  CHARACTER: 
