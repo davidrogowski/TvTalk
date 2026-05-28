@@ -151,6 +151,11 @@ const quotes = [
     "audioUrl": "audio/breaking-bad/030_i_warned_you_for_a_solid_year_you_cross_me_there_will_be_con.mp3"
   },
   {
+    "text": "I was told that the man I would be meeting with his very careful cautious man. I believe we're alike in that way. If you are who I think you are, you should give me another chance.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/031_i_was_told_that_the_man_i_would_be_meeting_with_his_very_car.mp3"
+  },
+  {
     "text": "I would like to know why you wouldn't meet with me yesterday.",
     "character": "",
     "audioUrl": "audio/breaking-bad/032_i_would_like_to_know_why_you_wouldn_t_meet_with_me_yesterday.mp3"
@@ -189,6 +194,11 @@ const quotes = [
     "text": "Keep your damn mouth shut.",
     "character": "",
     "audioUrl": "audio/breaking-bad/039_keep_your_damn_mouth_shut.mp3"
+  },
+  {
+    "text": "Left hand and your right hand are mirror images of one another, right? Identical and yet opposite. Well, so two organic compounds can exist as mere image forms of one another, all the way down at t...",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/040_left_hand_and_your_right_hand_are_mirror_images_of_one_anoth.mp3"
   },
   {
     "text": "Let me know when you're ready and I'll I'll give you a holler.",
@@ -239,5 +249,690 @@ const quotes = [
     "text": "Not a conversation. I'm even remotely ready to have.",
     "character": "",
     "audioUrl": "audio/breaking-bad/050_not_a_conversation_i_m_even_remotely_ready_to_have.mp3"
+  },
+  {
+    "text": "Not anymore.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/051_not_anymore.mp3"
+  },
+  {
+    "text": "Now, even the small busted girls have cleavage.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/052_now_even_the_small_busted_girls_have_cleavage.mp3"
+  },
+  {
+    "text": "Of course I am.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/053_of_course_i_am.mp3"
+  },
+  {
+    "text": "Oh no. Well what you have to stop you have to stop this, it's immoral. It's illegal. Someone might get hurt. You're always whining and complaining about how I make my money just dragging me down wh...",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/054_oh_no_well_what_you_have_to_stop_you_have_to_stop_this_it_s.mp3"
+  },
+  {
+    "text": "OK, can you at least tell me why?",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/055_ok_can_you_at_least_tell_me_why.mp3"
+  },
+  {
+    "text": "Please just work with me here and I promise I will explain everything later.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/056_please_just_work_with_me_here_and_i_promise_i_will_explain_e.mp3"
+  },
+  {
+    "text": "Please.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/057_please.mp3"
+  },
+  {
+    "text": "Put the knife down, please.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/058_put_the_knife_down_please.mp3"
+  },
+  {
+    "text": "Put your arms around me, Jenna stand up. We're going to look at it, yeah, OK? We're going to take you someplace nice and safe that's it, that's it let's go come on, here we go.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/059_put_your_arms_around_me_jenna_stand_up_we_re_going_to_look_a.mp3"
+  },
+  {
+    "text": "Say my name.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/060_say_my_name.mp3"
+  },
+  {
+    "text": "Shut up.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/061_shut_up.mp3"
+  },
+  {
+    "text": "So I suggest let you go, then just unlock you and audios.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/062_so_i_suggest_let_you_go_then_just_unlock_you_and_audios.mp3"
+  },
+  {
+    "text": "Sorry, I'll do it tomorrow, I promise.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/063_sorry_i_ll_do_it_tomorrow_i_promise.mp3"
+  },
+  {
+    "text": "Sorry.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/064_sorry.mp3"
+  },
+  {
+    "text": "Sure.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/065_sure.mp3"
+  },
+  {
+    "text": "That's me.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/066_that_s_me.mp3"
+  },
+  {
+    "text": "Then why are you here?",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/067_then_why_are_you_here.mp3"
+  },
+  {
+    "text": "There's no net.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/068_there_s_no_net.mp3"
+  },
+  {
+    "text": "This is between him and me.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/069_this_is_between_him_and_me.mp3"
+  },
+  {
+    "text": "This is Walter White breaking.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/070_this_is_walter_white_breaking.mp3"
+  },
+  {
+    "text": "Volume metric flask is for general mixing and titration. You wouldn't apply heat through volume metric flask. That's what a boiling flask is for. Did you learn nothing from my chemistry class?",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/071_volume_metric_flask_is_for_general_mixing_and_titration_you.mp3"
+  },
+  {
+    "text": "What about the side effects?",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/072_what_about_the_side_effects.mp3"
+  },
+  {
+    "text": "What did you just say?",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/073_what_did_you_just_say.mp3"
+  },
+  {
+    "text": "What does your dad do?",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/074_what_does_your_dad_do.mp3"
+  },
+  {
+    "text": "What I need is for you to climb down out of my ass.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/075_what_i_need_is_for_you_to_climb_down_out_of_my_ass.mp3"
+  },
+  {
+    "text": "What is his reputation for violence?",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/076_what_is_his_reputation_for_violence.mp3"
+  },
+  {
+    "text": "What the hell are you doing here?",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/077_what_the_hell_are_you_doing_here.mp3"
+  },
+  {
+    "text": "What the hell is wrong with you?",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/078_what_the_hell_is_wrong_with_you.mp3"
+  },
+  {
+    "text": "What the hell is wrong with you? I'm I'm really asking.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/079_what_the_hell_is_wrong_with_you_i_m_i_m_really_asking.mp3"
+  },
+  {
+    "text": "Who are you talking to right now? Do you know how much I make a year? I mean, even if I told you you wouldn't believe it, do you know what would happen if I suddenly decided to stop going into work...",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/080_who_are_you_talking_to_right_now_do_you_know_how_much_i_make.mp3"
+  },
+  {
+    "text": "Will you do that for me, honey, will you please just once get off my ass?",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/081_will_you_do_that_for_me_honey_will_you_please_just_once_get.mp3"
+  },
+  {
+    "text": "Wish wait a minute, listen to me I'll teach you my recipe but he said you want to cook like me.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/082_wish_wait_a_minute_listen_to_me_i_ll_teach_you_my_recipe_but.mp3"
+  },
+  {
+    "text": "Wow, I don't know what this stuff is, but it's pretty great.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/083_wow_i_don_t_know_what_this_stuff_is_but_it_s_pretty_great.mp3"
+  },
+  {
+    "text": "Yeah no, I remember that.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/084_yeah_no_i_remember_that.mp3"
+  },
+  {
+    "text": "Yeah, you got it.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/085_yeah_you_got_it.mp3"
+  },
+  {
+    "text": "Yes, absolutely.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/086_yes_absolutely.mp3"
+  },
+  {
+    "text": "Yes, I would of course I would.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/087_yes_i_would_of_course_i_would.mp3"
+  },
+  {
+    "text": "Yes, yes indeed.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/088_yes_yes_indeed.mp3"
+  },
+  {
+    "text": "Yes.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/089_yes.mp3"
+  },
+  {
+    "text": "Yes.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/090_yes.mp3"
+  },
+  {
+    "text": "Yes.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/091_yes.mp3"
+  },
+  {
+    "text": "You all know exactly who I am.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/092_you_all_know_exactly_who_i_am.mp3"
+  },
+  {
+    "text": "You and I could partner up.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/093_you_and_i_could_partner_up.mp3"
+  },
+  {
+    "text": "You are a pathetic junkie. Too stupid to understand and follow simple rudimentary instructions.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/094_you_are_a_pathetic_junkie_too_stupid_to_understand_and_follo.mp3"
+  },
+  {
+    "text": "You are not good at all.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/095_you_are_not_good_at_all.mp3"
+  },
+  {
+    "text": "You better not be saying what I think you're saying.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/096_you_better_not_be_saying_what_i_think_you_re_saying.mp3"
+  },
+  {
+    "text": "You can have any future that you want.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/097_you_can_have_any_future_that_you_want.mp3"
+  },
+  {
+    "text": "You could charge twice the current rate for what I provide an your customers would pay it.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/098_you_could_charge_twice_the_current_rate_for_what_i_provide_a.mp3"
+  },
+  {
+    "text": "You got nothing.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/099_you_got_nothing.mp3"
+  },
+  {
+    "text": "You lost your partner today.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/100_you_lost_your_partner_today.mp3"
+  },
+  {
+    "text": "You stupid bitch.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/101_you_stupid_bitch.mp3"
+  },
+  {
+    "text": "You wouldn't cook in one of these.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/102_you_wouldn_t_cook_in_one_of_these.mp3"
+  },
+  {
+    "text": "You're God damn right.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/103_you_re_god_damn_right.mp3"
+  },
+  {
+    "text": "$80 million.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/104_80_million.mp3"
+  },
+  {
+    "text": "$90,000.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/105_90_000.mp3"
+  },
+  {
+    "text": "Aah. God. Jesus. God. Shut up. Oh, wow.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/106_aah_god_jesus_god_shut_up_oh_wow.mp3"
+  },
+  {
+    "text": "Among the gangsters The gringos' fame is inflated. 'Cause of the new drug they created",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/107_among_the_gangsters_the_gringos_fame_is_inflated_cause_of_th.mp3"
+  },
+  {
+    "text": "Are they back yet? Have you heard from anyone? lf Pinkman is gone... ...l'm done. Do you understand? l quit.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/108_are_they_back_yet_have_you_heard_from_anyone_lf_pinkman_is_g.mp3"
+  },
+  {
+    "text": "But-- But-- What are you doing, buddy? Leaving. You gotta go inside, order something like last time. Avoid suspicion. Besides, I want a vanilla shake. We'll use the drive through.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/110_but_but_what_are_you_doing_buddy_leaving_you_gotta_go_inside.mp3"
+  },
+  {
+    "text": "Can I get you anything else? Nope. Thanks, darling. I'm ready for the check.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/111_can_i_get_you_anything_else_nope_thanks_darling_i_m_ready_fo.mp3"
+  },
+  {
+    "text": "Can't we just dump them here? What, and somebody finds them? Then what? People have seen us.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/112_can_t_we_just_dump_them_here_what_and_somebody_finds_them_th.mp3"
+  },
+  {
+    "text": "Christ. Longest week ever. Ha ha. Here's just hoping we get something good. Keep your fingers crossed. Relax, buddy, this ain't no spy movie. It's more like Rocky, you know?",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/113_christ_longest_week_ever_ha_ha_here_s_just_hoping_we_get_som.mp3"
+  },
+  {
+    "text": "Come on. Come... Come on. Come on, baby. Please, please. Come on, come on. Come on!",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/114_come_on_come_come_on_come_on_baby_please_please_come_on_come.mp3"
+  },
+  {
+    "text": "Damn, man! Look at that! Look! Yeah, that's messed up. Okay, Heisenberg. Next week.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/115_damn_man_look_at_that_look_yeah_that_s_messed_up_okay_heisen.mp3"
+  },
+  {
+    "text": "Dude, this isn't even 7 grand. My guy wants 85. This is all the money I have in the world. You are a drug dealer. Negotiate. Buy the RV. We start tomorrow.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/116_dude_this_isn_t_even_7_grand_my_guy_wants_85_this_is_all_the.mp3"
+  },
+  {
+    "text": "Ever try it? I smoke pot a lot sometimes. I party. But... But that stuff's really addictive, right? Not really. It's just a media thing. You know? What's it like?",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/117_ever_try_it_i_smoke_pot_a_lot_sometimes_i_party_but_but_that.mp3"
+  },
+  {
+    "text": "Excuse me. Skyler White? - 307. - Thank you.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/118_excuse_me_skyler_white_307_thank_you.mp3"
+  },
+  {
+    "text": "Fine. Walt.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/119_fine_walt.mp3"
+  },
+  {
+    "text": "Get that. Hey.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/120_get_that_hey.mp3"
+  },
+  {
+    "text": "Get the bad guy. Yeah! ♪ 'Cause it's the eye of the tiger It's the thrill of the fight ♪ ♪ Rising up ♪♪",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/121_get_the_bad_guy_yeah_cause_it_s_the_eye_of_the_tiger_it_s_th.mp3"
+  },
+  {
+    "text": "He a no show? Why didn't you c--? You and him-- you took it right out of my pocket. The ricin cigarette! And all for Mr. White!? He poisoned Brock and you helped him!",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/122_he_a_no_show_why_didn_t_you_c_you_and_him_you_took_it_right.mp3"
+  },
+  {
+    "text": "Heisenberg says relax. I'm relaxed. I'm relaxed. I'm rela...",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/123_heisenberg_says_relax_i_m_relaxed_i_m_relaxed_i_m_rela.mp3"
+  },
+  {
+    "text": "Heisenberg's fame has got Down to Michoacan. From way far away They want to taste that meth. That blue stuff has crossed the border.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/124_heisenberg_s_fame_has_got_down_to_michoacan_from_way_far_awa.mp3"
+  },
+  {
+    "text": "Here you go, Ms. Quayle. Lydia. Thank you.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/125_here_you_go_ms_quayle_lydia_thank_you.mp3"
+  },
+  {
+    "text": "Hey, Captain America. - What's up, brother? - Hey, bro.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/126_hey_captain_america_what_s_up_brother_hey_bro.mp3"
+  },
+  {
+    "text": "Hey, Dennis. Have a seat.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/127_hey_dennis_have_a_seat.mp3"
+  },
+  {
+    "text": "Hey! Hey! Hey! What about him? What about him?",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/128_hey_hey_hey_what_about_him_what_about_him.mp3"
+  },
+  {
+    "text": "Hey. Someone. Help. Assistance. This man needs help. This man pays my salary.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/129_hey_someone_help_assistance_this_man_needs_help_this_man_pay.mp3"
+  },
+  {
+    "text": "Hi. You've reached the White family. Please leave a message. Hey. lt's me. l.... l just wanted to say that l was thinking about you and the kids, and.... l love you.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/130_hi_you_ve_reached_the_white_family_please_leave_a_message_he.mp3"
+  },
+  {
+    "text": "How big's the batch? Should be about 50 pounds, give or take. Uncle Jack, that mask, I think you should... Mr. White said the fumes aren't good to breathe. Let me worry about what I breathe, kid. Just hurry this up so I can grab a smoke. Ahem.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/131_how_big_s_the_batch_should_be_about_50_pounds_give_or_take_u.mp3"
+  },
+  {
+    "text": "I am awake. You are not how I remember you from class. Like, not at all.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/132_i_am_awake_you_are_not_how_i_remember_you_from_class_like_no.mp3"
+  },
+  {
+    "text": "I got your word this won't wind up crossing the border? It's never leaving town. Is there a manual? Instruction manual? I pulled something off the Internet. It's in there. Well... ...good luck, I guess.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/133_i_got_your_word_this_won_t_wind_up_crossing_the_border_it_s.mp3"
+  },
+  {
+    "text": "It's a bold plan, Mr. White. You sure this is the way to go? Yeah.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/135_it_s_a_bold_plan_mr_white_you_sure_this_is_the_way_to_go_yea.mp3"
+  },
+  {
+    "text": "It's an actual store. Mm hm. I guess I figured \"vacuum cleaner repair\" was a term of art. If you would step right here on this blue spot. Leave your luggage where it is for the moment.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/136_it_s_an_actual_store_mm_hm_i_guess_i_figured_vacuum_cleaner.mp3"
+  },
+  {
+    "text": "It's awesome. Everything's. maximum interesting. You get these. really cold and sharp like action dagger feelings. It's awesome. Come on. What do you say?",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/137_it_s_awesome_everything_s_maximum_interesting_you_get_these.mp3"
+  },
+  {
+    "text": "It's pretty cool the way they do that. They just turn a car into a cube.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/138_it_s_pretty_cool_the_way_they_do_that_they_just_turn_a_car_i.mp3"
+  },
+  {
+    "text": "Jesse!? Jesse! You show yourself right now!",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/139_jesse_jesse_you_show_yourself_right_now.mp3"
+  },
+  {
+    "text": "Just get me home. Just get me home. I'll do the rest.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/140_just_get_me_home_just_get_me_home_i_ll_do_the_rest.mp3"
+  },
+  {
+    "text": "KDK 12 here. Janet, Jesus, we got a homicide. - Come again? - Miss Peyketewa, she's dead. - I need some backup out here. - On their way.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/141_kdk_12_here_janet_jesus_we_got_a_homicide_come_again_miss_pe.mp3"
+  },
+  {
+    "text": "KDK 12, come in. KDK 12. KDK 12. Need you to look in on Mrs. Peyketewa. She all right? Her daughter called from California, she hasn't heard from her in a while, kind of worried. Will do.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/142_kdk_12_come_in_kdk_12_kdk_12_need_you_to_look_in_on_mrs_peyk.mp3"
+  },
+  {
+    "text": "L can hear your cell phone ringing. This is ridiculous. l can't....",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/143_l_can_hear_your_cell_phone_ringing_this_is_ridiculous_l_can.mp3"
+  },
+  {
+    "text": "L just told you, 40.23 pounds. Forty point two one.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/144_l_just_told_you_40_23_pounds_forty_point_two_one.mp3"
+  },
+  {
+    "text": "L'm not leaving. Walt, l'm not leaving. Oh, my God.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/145_l_m_not_leaving_walt_l_m_not_leaving_oh_my_god.mp3"
+  },
+  {
+    "text": "Like I said, we couldn't be more grateful.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/146_like_i_said_we_couldn_t_be_more_grateful.mp3"
+  },
+  {
+    "text": "Look, I can't leave my house... ...for more than 20 minutes without my wife worrying. I need time to mend fences. Okay, so while you're fixing fences, what about me, huh? Your A hole brother in law took all my money.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/147_look_i_can_t_leave_my_house_for_more_than_20_minutes_without.mp3"
+  },
+  {
+    "text": "Lt came out of nowhere. You gotta help us. -Look at all this damn water. -Don't drink that. Ain't no telling if it's gonna be poison.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/148_lt_came_out_of_nowhere_you_gotta_help_us_look_at_all_this_da.mp3"
+  },
+  {
+    "text": "Mr. White, the car's been dealt with, sir. No one tailed you? No, I stayed off the main streets and kept checking, so... Joe ask any questions? I told him RV job, just like you said, and he totally knew.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/149_mr_white_the_car_s_been_dealt_with_sir_no_one_tailed_you_no.mp3"
+  },
+  {
+    "text": "Mr. White? Hello?",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/150_mr_white_hello.mp3"
+  },
+  {
+    "text": "New Hampshire. You're a long way from home. How long a drive is that? About 30 hours, if all you stop for is gas. You headed to California? No. Here. Okay. So, what's here?",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/151_new_hampshire_you_re_a_long_way_from_home_how_long_a_drive_i.mp3"
+  },
+  {
+    "text": "No matter what happens, no more bloodshed. No violence.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/152_no_matter_what_happens_no_more_bloodshed_no_violence.mp3"
+  },
+  {
+    "text": "No, no, no. Not in here. Duh. Like I'm an idiot. Yeah. Like you're an idiot. Dick.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/153_no_no_no_not_in_here_duh_like_i_m_an_idiot_yeah_like_you_re.mp3"
+  },
+  {
+    "text": "Oh, God. Oh, my God. Oh, my God. Oh, my God. Think, think, think. Oh, my gosh.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/154_oh_god_oh_my_god_oh_my_god_oh_my_god_think_think_think_oh_my.mp3"
+  },
+  {
+    "text": "Oh, my God. Christ! Shit.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/155_oh_my_god_christ_shit.mp3"
+  },
+  {
+    "text": "Oh, thank you. Now... ...what are you supposed to do today? - Nothing. - Excellent. Brownie points for taking a nap.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/156_oh_thank_you_now_what_are_you_supposed_to_do_today_nothing_e.mp3"
+  },
+  {
+    "text": "Okay. Come on, come on, come on. Come on. My name is Walter Hartwell White. I live at 308 Negra Arroyo Lane, Albuquerque, New Mexico, 87104. To all law enforcement entities, this is not an admission of guilt. I am speaking to my family now.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/157_okay_come_on_come_on_come_on_come_on_my_name_is_walter_hartw.mp3"
+  },
+  {
+    "text": "Ooh. Ow. Okay. Okay. Okay. Oh, wow. Where did that come from? And why was it so damn good? Because it was illegal.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/158_ooh_ow_okay_okay_okay_oh_wow_where_did_that_come_from_and_wh.mp3"
+  },
+  {
+    "text": "Previously on AMC's Breaking Bad... You need me gone, 'cause your brother in law is never gonna let up. Excuse me...",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/160_previously_on_amc_s_breaking_bad_you_need_me_gone_cause_your.mp3"
+  },
+  {
+    "text": "Saul Goodman: Better call Saul!",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/161_saul_goodman_better_call_saul.mp3"
+  },
+  {
+    "text": "Sir, you can go back to your changing room and get dressed. - So how'd we do? - You did fine. - See anything? - I'm just a technician, Mr. White. Dr. Delcavoli will go over the results with you next week. Sorry.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/163_sir_you_can_go_back_to_your_changing_room_and_get_dressed_so.mp3"
+  },
+  {
+    "text": "Skyler, I'm so sorry. I'm just... Are you okay? Meet your daughter.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/164_skyler_i_m_so_sorry_i_m_just_are_you_okay_meet_your_daughter.mp3"
+  },
+  {
+    "text": "So should we deal with this other thing now?",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/165_so_should_we_deal_with_this_other_thing_now.mp3"
+  },
+  {
+    "text": "Sorry I'm late, man. Damn, brother, look at you. That's messed up. How are you feeling? You okay? Actually... I'm great. Subtitles: Breys, Michvanilly.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/166_sorry_i_m_late_man_damn_brother_look_at_you_that_s_messed_up.mp3"
+  },
+  {
+    "text": "That good? Sure. What about this? I'll Photoshop that out.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/167_that_good_sure_what_about_this_i_ll_photoshop_that_out.mp3"
+  },
+  {
+    "text": "The city's called Duke The state's called New Mexico.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/169_the_city_s_called_duke_the_state_s_called_new_mexico.mp3"
+  },
+  {
+    "text": "There. That's them.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/170_there_that_s_them.mp3"
+  },
+  {
+    "text": "They say the color is blue And the quality pure.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/171_they_say_the_color_is_blue_and_the_quality_pure.mp3"
+  },
+  {
+    "text": "This man pays my salary.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/173_this_man_pays_my_salary.mp3"
+  },
+  {
+    "text": "Tight, tight, tight. Yeah. Blue, yellow, pink, whatever, man, just keep bringing me that.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/174_tight_tight_tight_yeah_blue_yellow_pink_whatever_man_just_ke.mp3"
+  },
+  {
+    "text": "We will find Hank. Steve too. They're out there, and we're gonna find them. You have my word. Sir.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/175_we_will_find_hank_steve_too_they_re_out_there_and_we_re_gonn.mp3"
+  },
+  {
+    "text": "What happened there? - It's my birthday. - Yeah? Well, happy birthday. Birthday meals are free at Denny's. All you gotta show is a valid ID. I'm good. Thanks. Really? Free meal. Free is good. Even if I was, like, rich, free is always good. Thank you. Okay.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/176_what_happened_there_it_s_my_birthday_yeah_well_happy_birthda.mp3"
+  },
+  {
+    "text": "What is this? It's blue. We used a different chemical process, but it is every bit as pure. It may be blue, but it's the bomb.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/178_what_is_this_it_s_blue_we_used_a_different_chemical_process.mp3"
+  },
+  {
+    "text": "What you need? You buying or you just stopping to envy? Yeah. Punk bitches.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/179_what_you_need_you_buying_or_you_just_stopping_to_envy_yeah_p.mp3"
+  },
+  {
+    "text": "Whoever's in there, show yourself right now.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/180_whoever_s_in_there_show_yourself_right_now.mp3"
+  },
+  {
+    "text": "Yeah. Sure.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/181_yeah_sure.mp3"
+  },
+  {
+    "text": "Yo, this way to savings. Save your dollar bills, y'all.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/182_yo_this_way_to_savings_save_your_dollar_bills_y_all.mp3"
+  },
+  {
+    "text": "You all right in there? Yeah. Hey, you okay? Yes. I'm fine, thank you.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/183_you_all_right_in_there_yeah_hey_you_okay_yes_i_m_fine_thank.mp3"
+  },
+  {
+    "text": "You feeling good about cooking? Yeah. You'll be able to run your own lab? Do it up right? Yeah. For sure. I got this. All right. Let's make some money, then. I gotta hit the head.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/184_you_feeling_good_about_cooking_yeah_you_ll_be_able_to_run_yo.mp3"
+  },
+  {
+    "text": "You guys didn't tell me this stuff smells like cat piss.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/185_you_guys_didn_t_tell_me_this_stuff_smells_like_cat_piss.mp3"
+  },
+  {
+    "text": "You want me to open the doors? Here. The keys. Take them. Why you talking? No! No, no, no--.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/186_you_want_me_to_open_the_doors_here_the_keys_take_them_why_yo.mp3"
+  },
+  {
+    "text": "You'll be okay waiting here by yourself? Whatever. Sir, if you'd like to smoke, you need to be another 20 feet from the door. So roll me further, bitch.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/187_you_ll_be_okay_waiting_here_by_yourself_whatever_sir_if_you.mp3"
+  },
+  {
+    "text": "Your play, Walter. You're on your own.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/188_your_play_walter_you_re_on_your_own.mp3"
+  },
+  {
+    "text": "- Hey, Darla. How you doing today? - Hey, Dan. - I'm looking for something in a Markowski. - That'd be Dennis Markowski? That's the one. Oh, and I've got my paralegal with me today. Paralegal? Coming up in the world. You know it.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/189_hey_darla_how_you_doing_today_hey_dan_i_m_looking_for_somet.mp3"
+  },
+  {
+    "text": "- I don't want to talk about this. - Okay. It had to be done. Okay. All right.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/190_i_don_t_want_to_talk_about_this_okay_it_had_to_be_done_okay.mp3"
+  },
+  {
+    "text": "- Oh, God. Please. - Oh, jeez. Please.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/191_oh_god_please_oh_jeez_please.mp3"
+  },
+  {
+    "text": "{\\pos(192,225)}So if it's okay, I was thinking {\\pos(192,225)}about using this one for the test. {\\pos(192,225)}Mom's brakes are very sticky... {\\pos(192,225)}and you barely press down on them, {\\pos(192,225)}and it's like a screech. {\\pos(192,225)}Sure. {\\pos(192,225)}But I'm good? {\\pos(192,225)}Yeah, you're great. {\\pos(192,225)}Why? {\\pos(192,225)}Are my feet okay?",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/193_pos_192_225_so_if_it_s_okay_i_was_thinking_pos_192_225_abou.mp3"
+  },
+  {
+    "text": "♪ I saddled up and away I did go ♪ ♪ riding alone in the dark ♪ ♪ maybe tomorrow a bullet may find me ♪ ♪ tonight nothing's worse than this pain in my heart ♪ ♪ and at last here I am on the hill overlooking ♪",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/194_i_saddled_up_and_away_i_did_go_riding_alone_in_the_dark_may.mp3"
+  },
+  {
+    "text": "♪ This way to savings This way to savings ♪ Come on! Save some money.",
+    "character": "",
+    "audioUrl": "audio/breaking-bad/195_this_way_to_savings_this_way_to_savings_come_on_save_some_m.mp3"
   }
 ];

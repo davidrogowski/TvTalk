@@ -1,0 +1,1131 @@
+001_a_girl_has_no_name.mp3
+  "A girl has no name"
+  CHARACTER: 
+
+002_a_girl_is_arya_stark_of_winterfell.mp3
+  "A girl is Arya Stark of Winterfell"
+  CHARACTER: 
+
+003_a_good_act_does_not_wash_out_a_bad_act.mp3
+  "A good act does not wash out a bad act"
+  CHARACTER: 
+
+004_a_lannister_always_pays_his_debts.mp3
+  "A Lannister always pays his debts"
+  CHARACTER: 
+
+005_a_lion_doesn_t_concern_himself_with_the_opinions_of_a_sheep.mp3
+  "A lion doesn't concern himself with the opinions of a sheep"
+  CHARACTER: 
+
+006_a_toast_to_the_lannister_children.mp3
+  "A toast to the Lannister children"
+  CHARACTER: 
+
+007_abertura_game_of_thrones.mp3
+  "Abertura Game of Thrones"
+  CHARACTER: 
+
+008_ah_dick.mp3
+  "Ah... Dick.."
+  CHARACTER: 
+
+009_all_dwarves_are_bastards.mp3
+  "All dwarves are bastards"
+  CHARACTER: 
+
+010_all_men_must_hype.mp3
+  "All Men Must Hype"
+  CHARACTER: 
+
+011_almost_feels_as_if_you_are_about_to_arrive_at_the_point.mp3
+  "Almost feels as if you are about to arrive at the point"
+  CHARACTER: 
+
+012_and_now_it_begins.mp3
+  "And now it begins"
+  CHARACTER: 
+
+013_angry.mp3
+  "Angry"
+  CHARACTER: 
+
+014_arya_gets_to_keep_needle.mp3
+  "Arya gets to keep Needle"
+  CHARACTER: 
+
+015_arya_sailing_away.mp3
+  "Arya sailing away"
+  CHARACTER: 
+
+016_arya_vs.mp3
+  "Arya vs"
+  CHARACTER: 
+
+017_battle_of_the_bastards.mp3
+  "Battle of the Bastards"
+  CHARACTER: 
+
+018_better_to_be_a_coward_for_a_minute_than_dead_for_a_life.mp3
+  "Better to be a coward for a minute than dead for a life"
+  CHARACTER: 
+
+019_blackfish_likes_wet_shits_more_than_waldur_frey.mp3
+  "Blackfish likes wet shits more than Waldur Frey"
+  CHARACTER: 
+
+020_bow_before_ye_king_bow_ye_shits.mp3
+  "Bow Before Ye King, Bow ye Shits"
+  CHARACTER: 
+
+021_bran_stark_stare.mp3
+  "Bran Stark Stare"
+  CHARACTER: 
+
+022_bring_me_his_head.mp3
+  "Bring me his head"
+  CHARACTER: 
+
+023_burn_them_all.mp3
+  "Burn Them All"
+  CHARACTER: 
+
+024_burn_them_all.mp3
+  "Burn them all!"
+  CHARACTER: 
+
+025_cersei_slapped.mp3
+  "Cersei Slapped"
+  CHARACTER: 
+
+026_chaos_is_a_ladder.mp3
+  "Chaos is a ladder"
+  CHARACTER: 
+
+027_clever_but_not_half_as_you_think_you_are.mp3
+  "Clever, but not half as you think you are."
+  CHARACTER: 
+
+028_crown_for_a_king.mp3
+  "Crown for a King"
+  CHARACTER: 
+
+029_crypts_of_winterfell_teaser.mp3
+  "Crypts of Winterfell Teaser"
+  CHARACTER: 
+
+030_daenerys_eating_horse_heart.mp3
+  "Daenerys eating horse heart"
+  CHARACTER: 
+
+031_daenerys_riding_drogon.mp3
+  "Daenerys Riding Drogon"
+  CHARACTER: 
+
+032_daenerys_targaryen_destroys_kings_landing.mp3
+  "Daenerys Targaryen destroys Kings landing"
+  CHARACTER: 
+
+033_daenerys_with_the_dragon_wings.mp3
+  "Daenerys with the Dragon Wings"
+  CHARACTER: 
+
+034_daenerys_an_oath_is_an_oath.mp3
+  "Daenerys: An oath is an oath"
+  CHARACTER: 
+
+035_daenerys_faith.mp3
+  "Daenerys: Faith"
+  CHARACTER: 
+
+036_daenerys_i_have_been_sold.mp3
+  "Daenerys: i have been sold"
+  CHARACTER: 
+
+037_daenerys_the_wheel.mp3
+  "Daenerys: The Wheel"
+  CHARACTER: 
+
+038_dance_blooper.mp3
+  "Dance Blooper"
+  CHARACTER: 
+
+039_dany_and_drogo_sex.mp3
+  "Dany and Drogo sex"
+  CHARACTER: 
+
+040_dany_and_drogo_sex_scene.mp3
+  "Dany and Drogo sex scene"
+  CHARACTER: 
+
+041_do_i_have_my_facts_wrong.mp3
+  "Do I have my facts wrong?"
+  CHARACTER: 
+
+042_do_you_really_think_a_crown_gives_you_power.mp3
+  "Do you really think a crown gives you power?"
+  CHARACTER: 
+
+043_do_you_understand.mp3
+  "Do you understand?"
+  CHARACTER: 
+
+044_do_your_duty.mp3
+  "Do your duty"
+  CHARACTER: 
+
+045_don_t_fucking_say_it.mp3
+  "Don't fucking say it"
+  CHARACTER: 
+
+046_dracarys.mp3
+  "Dracarys"
+  CHARACTER: 
+
+047_dracarys.mp3
+  "Dracarys"
+  CHARACTER: 
+
+048_dracarys.mp3
+  "Dracarys!"
+  CHARACTER: 
+
+049_drogon_destroys_the_iron_throne.mp3
+  "Drogon destroys The Iron Throne"
+  CHARACTER: 
+
+050_ending_credit_music_choir.mp3
+  "Ending Credit music choir"
+  CHARACTER: 
+
+051_episode_4_preview.mp3
+  "Episode 4 Preview"
+  CHARACTER: 
+
+052_episode_5_preview.mp3
+  "Episode 5 Preview"
+  CHARACTER: 
+
+053_even_game_of_thrones_has_an_end.mp3
+  "Even Game of Thrones has an end"
+  CHARACTER: 
+
+054_every_breath_you_draw_annoys_me.mp3
+  "Every Breath You Draw Annoys Me"
+  CHARACTER: 
+
+055_everyone_is_mine_to_torment.mp3
+  "Everyone is mine to torment"
+  CHARACTER: 
+
+056_f_ck_tradition.mp3
+  "F*ck Tradition"
+  CHARACTER: 
+
+057_figs_help_move_the_bowels.mp3
+  "Figs help move the bowels"
+  CHARACTER: 
+
+058_fire_and_blood.mp3
+  "Fire and blood"
+  CHARACTER: 
+
+059_for_the_night_is_dark_and_full_of_terrors.mp3
+  "For the night is dark and full of terrors"
+  CHARACTER: 
+
+060_fuck_em_then.mp3
+  "Fuck 'em then"
+  CHARACTER: 
+
+061_game_of_thrones.mp3
+  "Game of Thrones"
+  CHARACTER: 
+
+062_game_of_thrones_music.mp3
+  "Game of Thrones music"
+  CHARACTER: 
+
+063_game_of_thrones_shade.mp3
+  "Game of Thrones Shade"
+  CHARACTER: 
+
+064_game_of_thrones_theme.mp3
+  "Game Of Thrones Theme"
+  CHARACTER: 
+
+065_game_over.mp3
+  "Game Over"
+  CHARACTER: 
+
+066_gather_the_elders_and_let_s_talk.mp3
+  "Gather the elders and let's talk"
+  CHARACTER: 
+
+067_get_him_out_of_my_sight.mp3
+  "Get him out of my sight"
+  CHARACTER: 
+
+068_go.mp3
+  "Go"
+  CHARACTER: 
+
+069_go_drink_until_it_feels_you_did_the_right_thing.mp3
+  "Go drink until it feels you did the right thing"
+  CHARACTER: 
+
+070_go_find_the_breastplate_stretcher.mp3
+  "Go find the breastplate stretcher!"
+  CHARACTER: 
+
+071_got_cast_applouse.mp3
+  "GoT cast applouse"
+  CHARACTER: 
+
+072_happy_ending.mp3
+  "Happy Ending?"
+  CHARACTER: 
+
+073_happy_tormund.mp3
+  "Happy Tormund"
+  CHARACTER: 
+
+074_hard_truths_cut_both_ways.mp3
+  "Hard truths cut both ways"
+  CHARACTER: 
+
+075_have_you_ever_considered_learning_how_to_lie_every_now_and_t.mp3
+  "Have you ever considered learning how to lie every now and then"
+  CHARACTER: 
+
+076_he_sounds_like_quite_a_man.mp3
+  "He sounds like quite a man"
+  CHARACTER: 
+
+077_he_s_a_monster.mp3
+  "He's a monster"
+  CHARACTER: 
+
+078_hodor.mp3
+  "Hodor"
+  CHARACTER: 
+
+079_hodor.mp3
+  "Hodor"
+  CHARACTER: 
+
+080_hodor_simple.mp3
+  "Hodor Simple"
+  CHARACTER: 
+
+081_hold_the_door.mp3
+  "Hold the door!"
+  CHARACTER: 
+
+082_how_long_do_we_have.mp3
+  "How long do we have?"
+  CHARACTER: 
+
+083_i_am_a_godly_man.mp3
+  "I am a Godly man!"
+  CHARACTER: 
+
+084_i_am_about_to_step_into_a_room_with_a_most_murderous_woman_i.mp3
+  "I am about to step into a room with a most murderous woman in the world"
+  CHARACTER: 
+
+085_i_am_an_excellent_judge_of_character.mp3
+  "I am an excellent judge of character"
+  CHARACTER: 
+
+086_i_am_going_to_break_the_wheel.mp3
+  "I am going to break the wheel"
+  CHARACTER: 
+
+087_i_am_not_afraid.mp3
+  "I am not afraid"
+  CHARACTER: 
+
+088_i_am_not_gonna_swear_an_oath_i_can_t_uphold.mp3
+  "I am not gonna swear an oath I can't uphold"
+  CHARACTER: 
+
+089_i_am_the_gift.mp3
+  "I am the gift"
+  CHARACTER: 
+
+090_i_am_the_god_of_tits_and_wine.mp3
+  "I am the god of tits and wine"
+  CHARACTER: 
+
+091_i_am_the_king.mp3
+  "I am the king"
+  CHARACTER: 
+
+092_i_beat_you_because_i_m_better_than_you.mp3
+  "I beat you because I'm better than you"
+  CHARACTER: 
+
+093_i_brought_you_a_gift.mp3
+  "I brought you a gift"
+  CHARACTER: 
+
+094_i_choose_violence.mp3
+  "I Choose Violence"
+  CHARACTER: 
+
+095_i_choose_you.mp3
+  "I choose you"
+  CHARACTER: 
+
+096_i_demand_a_trial_by_combat.mp3
+  "I demand a trial by combat"
+  CHARACTER: 
+
+097_i_did_not_do_it.mp3
+  "I did not do it"
+  CHARACTER: 
+
+098_i_didn_t_come_here_to_argue_grammar.mp3
+  "I didn't come here to argue grammar"
+  CHARACTER: 
+
+099_i_don_t_care_about_making_the_world_a_better_place.mp3
+  "I don't care about making the world a better place"
+  CHARACTER: 
+
+100_i_don_t_want_it_i_never_have.mp3
+  "I don't want it, I never have"
+  CHARACTER: 
+
+101_i_drink_and_i_know_things.mp3
+  "I Drink and I Know Things"
+  CHARACTER: 
+
+102_i_just_want_you_all_to_myself.mp3
+  "I just want you all to myself"
+  CHARACTER: 
+
+103_i_look_forward_to_seeing_this_one.mp3
+  "I look forward to seeing this one"
+  CHARACTER: 
+
+104_i_miss_him.mp3
+  "I miss him"
+  CHARACTER: 
+
+105_i_need_to_tell_you_something.mp3
+  "I need to tell you something"
+  CHARACTER: 
+
+106_i_promise_to_fight_for_the_living.mp3
+  "I promise to fight for the living"
+  CHARACTER: 
+
+107_i_respect_your_wishes.mp3
+  "I respect your wishes"
+  CHARACTER: 
+
+108_i_swear_it_my_queen.mp3
+  "I swear it my queen"
+  CHARACTER: 
+
+109_i_want_peace_and_quiet.mp3
+  "I want peace and quiet"
+  CHARACTER: 
+
+110_i_want_you_to_tell_me_the_truth.mp3
+  "I want you to tell me the truth"
+  CHARACTER: 
+
+111_i_was_born_to_rule_the_seven_kingdoms_and_i_will.mp3
+  "I was born to rule the seven kingdoms and i will"
+  CHARACTER: 
+
+112_i_will_be_your_champion.mp3
+  "I Will Be Your Champion"
+  CHARACTER: 
+
+113_i_will_burn_you_alive.mp3
+  "I will burn you alive"
+  CHARACTER: 
+
+114_i_will_not_hear_it.mp3
+  "I will not hear it"
+  CHARACTER: 
+
+115_i_will_take_what_is_mine.mp3
+  "I will take what is mine!"
+  CHARACTER: 
+
+116_i_wish_i_was_the_monster_you_think_i_am.mp3
+  "I wish i was the monster you think I am"
+  CHARACTER: 
+
+117_i_wish_you_good_fortune_in_the_wars_to_come.mp3
+  "I Wish You Good Fortune in the Wars to Come"
+  CHARACTER: 
+
+118_i_would_do_anything_for_you.mp3
+  "I would do anything for you"
+  CHARACTER: 
+
+119_i_m_going_to_kill_that.mp3
+  "I'm going to kill that"
+  CHARACTER: 
+
+120_i_m_no_king_but_if_i_were_i_d_knight_you_10x_over.mp3
+  "I'm no king, but if I were, I'd knight you 10x over"
+  CHARACTER: 
+
+121_i_m_not_tired.mp3
+  "I'm not tired"
+  CHARACTER: 
+
+122_i_m_sure_your_men_will_line_up_behind_you.mp3
+  "I'm sure your men will line up behind you"
+  CHARACTER: 
+
+123_i_m_going_to_light_the_biggest_fire_the_north_has_ever_seen.mp3
+  "I’m Going to Light the Biggest Fire the North Has Ever Seen"
+  CHARACTER: 
+
+124_i_ve_been_sitting_here_for_days.mp3
+  "I’ve been sitting here for days!"
+  CHARACTER: 
+
+125_ice_dragon_attacks_the_wall.mp3
+  "Ice Dragon attacks the Wall"
+  CHARACTER: 
+
+126_ice_dragon_viserion.mp3
+  "Ice Dragon Viserion"
+  CHARACTER: 
+
+127_if_i_want_jokes_i_will_get_myself_a_proper_fool.mp3
+  "If I want jokes I will get myself a proper fool"
+  CHARACTER: 
+
+128_if_you_think_this_has_a_happy_ending.mp3
+  "If you think this has a happy ending.."
+  CHARACTER: 
+
+129_if_you_think_this_has_a_happy_ending.mp3
+  "If you think this has a happy ending.."
+  CHARACTER: 
+
+130_it_is_known.mp3
+  "It is known"
+  CHARACTER: 
+
+131_it_is_known.mp3
+  "It is known"
+  CHARACTER: 
+
+132_it_is_time_i_ate_some_of_this_food_i_paid_for.mp3
+  "It is time I ate some of this food I paid for"
+  CHARACTER: 
+
+133_it_was_so_beautiful_and_you_were_so_beautiful.mp3
+  "It was so beautiful, and you were so beautiful"
+  CHARACTER: 
+
+134_it_would_be_my_honor.mp3
+  "It would be my honor"
+  CHARACTER: 
+
+135_its_better_to_be_cruel_than_weak.mp3
+  "Its better to be cruel than weak"
+  CHARACTER: 
+
+136_jon_snow_prepares_for_battle.mp3
+  "Jon Snow prepares for battle"
+  CHARACTER: 
+
+137_jon_the_king_of_the_free_folk.mp3
+  "Jon the king of the Free Folk"
+  CHARACTER: 
+
+138_kill_me.mp3
+  "Kill me!"
+  CHARACTER: 
+
+139_king_of_the_ashes.mp3
+  "King of the ashes"
+  CHARACTER: 
+
+140_king_s_landing.mp3
+  "King's Landing"
+  CHARACTER: 
+
+141_lannisters_pay_their_debts.mp3
+  "Lannisters pay their debts"
+  CHARACTER: 
+
+142_lyanna_mormont_he_is_my_king.mp3
+  "Lyanna Mormont: He is my king"
+  CHARACTER: 
+
+143_make_peace_to_save_your_people.mp3
+  "Make peace to save your people"
+  CHARACTER: 
+
+144_man_who_fights_for_gold_can_t_afford_to_lose_to_a_girl.mp3
+  "Man who fights for gold can't afford to lose to a girl"
+  CHARACTER: 
+
+145_margaery_tyrell_women_like_different_men.mp3
+  "Margaery Tyrell: Women like different men"
+  CHARACTER: 
+
+146_maybe_you_re_just_a_coward.mp3
+  "Maybe you're just a coward"
+  CHARACTER: 
+
+147_money_enhances_friendship.mp3
+  "Money enhances friendship"
+  CHARACTER: 
+
+148_monsters_are_dangerous.mp3
+  "Monsters are dangerous"
+  CHARACTER: 
+
+149_most_girls_are_idiots.mp3
+  "Most girls are idiots"
+  CHARACTER: 
+
+150_mother_of_dragons_is_sorry.mp3
+  "Mother of Dragons is sorry"
+  CHARACTER: 
+
+151_my_tiny_cock_and_i_have_a_job_to_do.mp3
+  "My tiny cock and I have a job to do"
+  CHARACTER: 
+
+152_my_watch_has_ended.mp3
+  "My watch has ended"
+  CHARACTER: 
+
+153_never_forget_what_you_are.mp3
+  "Never forget what you are"
+  CHARACTER: 
+
+154_night_king.mp3
+  "Night King"
+  CHARACTER: 
+
+155_no_cure_for_being_a_cunt.mp3
+  "No cure for being a cunt"
+  CHARACTER: 
+
+156_no_need_to_seize_the_last_word_i_ll_assume_it_was_something.mp3
+  "No need to seize the last word, I'll assume it was something clever"
+  CHARACTER: 
+
+157_no_one_here_by_that_name.mp3
+  "No one here by that name"
+  CHARACTER: 
+
+158_noone_here_by_that_name.mp3
+  "Noone here by that name"
+  CHARACTER: 
+
+159_now_it_ends.mp3
+  "Now it ends"
+  CHARACTER: 
+
+160_oathkeeper.mp3
+  "Oathkeeper"
+  CHARACTER: 
+
+161_oberyn_martell_has_an_ear_for_accents.mp3
+  "Oberyn Martell has an ear for accents"
+  CHARACTER: 
+
+162_oh_fuck_loyalty.mp3
+  "Oh fuck loyalty"
+  CHARACTER: 
+
+163_oh_fuck_loyalty.mp3
+  "Oh fuck loyalty!"
+  CHARACTER: 
+
+164_oh.mp3
+  "Oh! .."
+  CHARACTER: 
+
+165_old_old.mp3
+  "Old. Old"
+  CHARACTER: 
+
+166_only_one_war_that_matters.mp3
+  "Only One War That Matters"
+  CHARACTER: 
+
+167_opening.mp3
+  "Opening"
+  CHARACTER: 
+
+168_our_little_secret.mp3
+  "Our little secret"
+  CHARACTER: 
+
+169_perhaps_you_should_try_wanting_something_else.mp3
+  "Perhaps you should try wanting something else"
+  CHARACTER: 
+
+170_pig_shit.mp3
+  "Pig shit"
+  CHARACTER: 
+
+171_prophesies_are_dangerous_things.mp3
+  "Prophesies are dangerous things"
+  CHARACTER: 
+
+172_reek_my_name_is_reek.mp3
+  "Reek. My name is Reek"
+  CHARACTER: 
+
+173_rhaegal_is_killed_by_euron.mp3
+  "Rhaegal is killed by Euron"
+  CHARACTER: 
+
+174_rich_man_s_disease.mp3
+  "Rich man's disease"
+  CHARACTER: 
+
+175_run_run.mp3
+  "Run! Run!"
+  CHARACTER: 
+
+176_samwell_tarly_huh.mp3
+  "Samwell Tarly: huh?"
+  CHARACTER: 
+
+177_sandor_clegane_is_eating_every_chicken_in_this_room.mp3
+  "Sandor Clegane is eating every chicken in this room"
+  CHARACTER: 
+
+178_sandor_clegane_is_going_to_eat_your_chickens_long.mp3
+  "Sandor Clegane is going to eat your chickens (long)"
+  CHARACTER: 
+
+179_seduce_away.mp3
+  "Seduce away"
+  CHARACTER: 
+
+180_send_their_regards.mp3
+  "Send their regards"
+  CHARACTER: 
+
+181_shall_we_begin.mp3
+  "Shall we begin"
+  CHARACTER: 
+
+182_shall_we_begin.mp3
+  "Shall we begin"
+  CHARACTER: 
+
+183_shame_shame_shame_tilintilin.mp3
+  "SHAME SHAME SHAME *TilinTilin*"
+  CHARACTER: 
+
+184_shame.mp3
+  "Shame!"
+  CHARACTER: 
+
+185_she_s_an_interesting_girl.mp3
+  "She's an interesting girl"
+  CHARACTER: 
+
+186_sirio_forel_more_respect.mp3
+  "Sirio Forel More Respect"
+  CHARACTER: 
+
+187_sirio_forel_more_respect_short.mp3
+  "Sirio Forel,More Respect,Short"
+  CHARACTER: 
+
+188_slap.mp3
+  "Slap"
+  CHARACTER: 
+
+189_smugglers_tricks.mp3
+  "Smugglers tricks"
+  CHARACTER: 
+
+190_stand_the_ground.mp3
+  "Stand the ground!"
+  CHARACTER: 
+
+191_staredown.mp3
+  "Staredown"
+  CHARACTER: 
+
+192_stealing_away_a_lovely_bride.mp3
+  "Stealing away a lovely bride"
+  CHARACTER: 
+
+193_still_makes_me_more_clever_than_you.mp3
+  "Still makes me more clever than you"
+  CHARACTER: 
+
+194_talkers_make_me_thirsty.mp3
+  "Talkers make me thirsty"
+  CHARACTER: 
+
+195_thank_the_gods_for_bessie_and_her_tits.mp3
+  "Thank the gods for Bessie, and her tits"
+  CHARACTER: 
+
+196_thank_you.mp3
+  "Thank You"
+  CHARACTER: 
+
+197_that_s_how_i_got_so_strong.mp3
+  "That's how I got so strong .."
+  CHARACTER: 
+
+198_that_s_what_i_do_i_drink_and_i_know_things.mp3
+  "That's what I do. I drink, and I know things"
+  CHARACTER: 
+
+199_the_battle_is_over_we_have_won.mp3
+  "The battle is over. We have won"
+  CHARACTER: 
+
+200_the_big_woman_still_here.mp3
+  "The Big Woman Still Here?"
+  CHARACTER: 
+
+201_the_cheese_will_be_served_when_i_want_it_served.mp3
+  "The cheese will be served when I want it served"
+  CHARACTER: 
+
+202_the_dead_are_already_here.mp3
+  "The dead are already here"
+  CHARACTER: 
+
+203_the_dead_are_coming.mp3
+  "The dead are coming"
+  CHARACTER: 
+
+204_the_king_in_the_north.mp3
+  "The King in the North"
+  CHARACTER: 
+
+205_the_king_shits_and_the_hand_wipes.mp3
+  "The king shits, and the hand wipes"
+  CHARACTER: 
+
+206_the_lone_wolf_dies_but_the_pack_survives.mp3
+  "The lone wolf dies, but the pack survives"
+  CHARACTER: 
+
+207_the_more_immediate_problem_is_that_we_are_fucked.mp3
+  "The more immediate problem is that we are fucked"
+  CHARACTER: 
+
+208_the_night_king.mp3
+  "The Night King"
+  CHARACTER: 
+
+209_the_night_king_is_coming.mp3
+  "The night king is coming"
+  CHARACTER: 
+
+210_the_night_king_looking_at_sam.mp3
+  "The Night King looking at Sam"
+  CHARACTER: 
+
+211_the_north_remembers.mp3
+  "The North Remembers"
+  CHARACTER: 
+
+212_the_north_remembers.mp3
+  "The North Remembers!"
+  CHARACTER: 
+
+213_the_northerners_will_never_forget.mp3
+  "The northerners will never forget"
+  CHARACTER: 
+
+214_the_queen_in_the_north.mp3
+  "The Queen in the North!"
+  CHARACTER: 
+
+215_the_seed_is_strong.mp3
+  "The Seed is Strong"
+  CHARACTER: 
+
+216_the_truth_and_the_faith.mp3
+  "The truth and the faith"
+  CHARACTER: 
+
+217_then_we_re_fucked_best_hurry.mp3
+  "Then we're fucked, best hurry"
+  CHARACTER: 
+
+218_there_is_only_one_thing_we_say_to_death.mp3
+  "There is only one thing we say to death .."
+  CHARACTER: 
+
+219_there_is_only_one_war_that_matters.mp3
+  "There is only one war that matters"
+  CHARACTER: 
+
+220_there_s_no_cure_for_being_a_cunt.mp3
+  "There's no cure for being a cunt"
+  CHARACTER: 
+
+221_they_ll_bend_the_knee_or_i_ll_destroy_them.mp3
+  "They'll bend the knee or I'll destroy them"
+  CHARACTER: 
+
+222_this_is_the_only_thing_i_have_ever_seen_that_terrifies_me.mp3
+  "This is the only thing i have ever seen that terrifies me"
+  CHARACTER: 
+
+223_this_is_what_i_want_to_do_for_the_rest_of_my_life.mp3
+  "This is what I want to do for the rest of my life"
+  CHARACTER: 
+
+224_titles_titles.mp3
+  "Titles, titles"
+  CHARACTER: 
+
+225_tommen_baratheon_s_death.mp3
+  "Tommen Baratheon's Death"
+  CHARACTER: 
+
+226_tommen_reacts.mp3
+  "Tommen Reacts"
+  CHARACTER: 
+
+227_tormund_giantsbane_whoopin_the_lord_of_bones.mp3
+  "Tormund Giantsbane whoopin the Lord of Bones"
+  CHARACTER: 
+
+228_tormund_loves_brienne.mp3
+  "Tormund loves Brienne"
+  CHARACTER: 
+
+229_tougher_girls_than_you_have_tried_to_kill_me.mp3
+  "Tougher girls than you have tried to kill me"
+  CHARACTER: 
+
+230_two_terrible_children_of_two_terrible_fathers.mp3
+  "Two terrible children of two terrible fathers"
+  CHARACTER: 
+
+231_tyrion_resigns_as_hand_of_the_queen.mp3
+  "Tyrion resigns as Hand of the Queen"
+  CHARACTER: 
+
+232_tyrion_s_axe.mp3
+  "Tyrion's axe"
+  CHARACTER: 
+
+233_use_small_words.mp3
+  "Use small words"
+  CHARACTER: 
+
+234_valar_morghulis.mp3
+  "Valar Morghulis"
+  CHARACTER: 
+
+235_valar_morghulis_valar_dohaeris.mp3
+  "Valar Morghulis, Valar Dohaeris"
+  CHARACTER: 
+
+236_varys_gets_toasted.mp3
+  "Varys gets toasted"
+  CHARACTER: 
+
+237_vicious_idiot_king.mp3
+  "Vicious, idiot king"
+  CHARACTER: 
+
+238_vomiting_is_not_celebrating.mp3
+  "Vomiting is not celebrating"
+  CHARACTER: 
+
+239_we_all_bloody_die.mp3
+  "We all bloody die"
+  CHARACTER: 
+
+240_we_are_a_group_of_people_who_do_not_like_one_another.mp3
+  "We are a group of people who do not like one another"
+  CHARACTER: 
+
+241_we_are_entirely_capable_of_waging_war_against_each_other.mp3
+  "We are entirely capable of waging war against each other"
+  CHARACTER: 
+
+242_we_are_fucked.mp3
+  "We are fucked"
+  CHARACTER: 
+
+243_we_gasp.mp3
+  "We gasp"
+  CHARACTER: 
+
+244_we_re_fucked.mp3
+  "We're fucked"
+  CHARACTER: 
+
+245_what_are_you_talking_about.mp3
+  "What are you talking about?"
+  CHARACTER: 
+
+246_what_is_our_plan_pig_shit.mp3
+  "What is our plan? Pig shit"
+  CHARACTER: 
+
+247_what_would_you_have_me_do.mp3
+  "What would you have me do?"
+  CHARACTER: 
+
+248_what_s_our_plan.mp3
+  "What's our plan?"
+  CHARACTER: 
+
+249_what_s_your_excuse.mp3
+  "What's your excuse"
+  CHARACTER: 
+
+250_when_enough_people_make_false_promises_words_stop_meaning_an.mp3
+  "When enough people make false promises, words stop meaning anything"
+  CHARACTER: 
+
+251_when_you_play_the_game_of_thrones.mp3
+  "When you play the game of thrones"
+  CHARACTER: 
+
+252_where_are_my_dragons.mp3
+  "Where are my dragons?"
+  CHARACTER: 
+
+253_white_walker.mp3
+  "White walker"
+  CHARACTER: 
+
+254_white_walkers.mp3
+  "White Walkers"
+  CHARACTER: 
+
+255_why_are_you_always_in_such_a_foul_mood.mp3
+  "Why are you always in such a foul mood?"
+  CHARACTER: 
+
+256_will_you_break_the_wheel_with_me.mp3
+  "Will you break the wheel with me?"
+  CHARACTER: 
+
+257_winter_is_coming.mp3
+  "Winter is coming"
+  CHARACTER: 
+
+258_winter_is_coming.mp3
+  "Winter is coming"
+  CHARACTER: 
+
+259_winter_is_coming.mp3
+  "Winter is coming"
+  CHARACTER: 
+
+260_winter_is_coming.mp3
+  "Winter is Coming"
+  CHARACTER: 
+
+261_winter_is_coming.mp3
+  "Winter is coming"
+  CHARACTER: 
+
+262_winter_is_coming.mp3
+  "Winter is coming"
+  CHARACTER: 
+
+263_winter_is_here.mp3
+  "Winter is here"
+  CHARACTER: 
+
+264_winterfell_is_yours_your_grace.mp3
+  "Winterfell is yours, Your grace"
+  CHARACTER: 
+
+265_wish_you_good_fortune_in_the_wars_to_come.mp3
+  "Wish You Good Fortune In The Wars to Come"
+  CHARACTER: 
+
+266_you_are_an_awful_traveling_companion.mp3
+  "You are an awful traveling companion"
+  CHARACTER: 
+
+267_you_are_my_lady.mp3
+  "You are my lady"
+  CHARACTER: 
+
+268_you_are_my_lady_now.mp3
+  "You are my lady now"
+  CHARACTER: 
+
+269_you_are_my_queen.mp3
+  "You are my queen"
+  CHARACTER: 
+
+270_you_can_t_insult_me.mp3
+  "You can't insult me"
+  CHARACTER: 
+
+271_you_don_t_fight_with_honor.mp3
+  "You don't fight with honor"
+  CHARACTER: 
+
+272_you_had_a_good_sized_cock.mp3
+  "You had a good sized cock"
+  CHARACTER: 
+
+273_you_haven_t_been_paying_attention.mp3
+  "You haven't been paying attention"
+  CHARACTER: 
+
+274_you_haven_t_been_paying_attention.mp3
+  "You Haven't Been Paying Attention"
+  CHARACTER: 
+
+275_you_idiot_you_fucking_idiot.mp3
+  "You idiot. You fucking idiot"
+  CHARACTER: 
+
+276_you_know_nothing_jon_snow.mp3
+  "You know nothing Jon Snow"
+  CHARACTER: 
+
+277_you_know_nothing_jon_snow.mp3
+  "You know nothing, Jon Snow"
+  CHARACTER: 
+
+278_you_must_have_hoped_for_something.mp3
+  "You must have hoped for something"
+  CHARACTER: 
+
+279_you_pay_me_to_kill_people_who_bother_you.mp3
+  "You pay me to kill people who bother you"
+  CHARACTER: 
+
+280_you_win_or_you_die.mp3
+  "You win, or you die"
+  CHARACTER: 
+
+281_you_re_a_clever_man.mp3
+  "You're a clever man"
+  CHARACTER: 
+
+282_you_re_a_lucky_man.mp3
+  "You're a lucky man"
+  CHARACTER: 
+
+283_your_surrender_not_mine.mp3
+  "Your surrender, not mine"
+  CHARACTER: 

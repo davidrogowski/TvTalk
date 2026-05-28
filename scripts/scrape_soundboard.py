@@ -323,6 +323,7 @@ def scrape_board(
     *,
     exclude_prefix: str = "",
     case_style: str = "preserve",
+    dedup_transcripts: bool = False,
 ) -> dict:
     """Scrape one or more boards into out_dir. Returns a stats dict."""
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -332,22 +333,36 @@ def scrape_board(
     existing_chars = read_existing_characters(transcripts_path)
 
     seen: set[str] = set()
-    clips: list[tuple[str, str]] = []
+    seen_transcripts: set[str] = set()
+    clips: list[tuple[str, str, bool]] = []
+    dropped_dupes = 0
     for url in board_urls:
         print(f"Fetching {url}")
+        url_is_legacy = is_legacy_board(url)
         for mp3_url, transcript in fetch_sounds(url, exclude_prefix=exclude_prefix, case_style=case_style):
             key = mp3_url.split("?")[0]
             if key in seen:
                 continue
+            # Some boards list the same line twice under different mp3 URLs; when
+            # dedup_transcripts is on, keep only the first occurrence of each transcript.
+            if dedup_transcripts:
+                tkey = transcript.strip().lower()
+                if tkey and tkey in seen_transcripts:
+                    dropped_dupes += 1
+                    continue
+                seen_transcripts.add(tkey)
             seen.add(key)
-            clips.append((mp3_url, transcript))
-    print(f"Found {len(clips)} unique clips across {len(board_urls)} board(s).\n")
+            clips.append((mp3_url, transcript, url_is_legacy))
+    summary = f"Found {len(clips)} unique clips across {len(board_urls)} board(s)."
+    if dropped_dupes:
+        summary += f" (deduped {dropped_dupes} repeat transcript(s))"
+    print(summary + "\n")
 
     entries: list[dict] = []
-    newly_downloaded: list[Path] = []
+    newly_downloaded: list[tuple[Path, bool]] = []
     downloaded = skipped_existing = skipped_length = 0
 
-    for i, (mp3_url, transcript) in enumerate(clips, 1):
+    for i, (mp3_url, transcript, from_legacy) in enumerate(clips, 1):
         if not passes_length(transcript, min_words, max_words):
             skipped_length += 1
             continue
@@ -363,7 +378,7 @@ def scrape_board(
             try:
                 download(mp3_url, dest)
                 downloaded += 1
-                newly_downloaded.append(dest)
+                newly_downloaded.append((dest, from_legacy))
                 time.sleep(SLEEP_BETWEEN)
             except Exception as e:
                 print(f"   failed: {e}")
@@ -379,14 +394,17 @@ def scrape_board(
     write_quotes_js(quotes_path, entries, show_id)
 
     # Auto-trim notification-ding from legacy/poisoned boards. Only newly-downloaded
-    # files are trimmed; already-existing files were trimmed on a previous run.
+    # clips that came from a legacy board are trimmed; modern-board clips are already
+    # clean (trimming them would chop real audio), and already-existing files were
+    # trimmed on a previous run.
     trimmed = 0
-    if newly_downloaded and any(is_legacy_board(u) for u in board_urls):
-        print(f"\nLegacy board detected — trimming {TRIM_SECONDS}s off front of {len(newly_downloaded)} new MP3s...")
-        for p in newly_downloaded:
+    legacy_new = [p for p, from_legacy in newly_downloaded if from_legacy]
+    if legacy_new:
+        print(f"\nLegacy board detected — trimming {TRIM_SECONDS}s off front of {len(legacy_new)} new MP3s...")
+        for p in legacy_new:
             if trim_mp3_inplace(p, TRIM_SECONDS):
                 trimmed += 1
-        print(f"Trim complete: {trimmed}/{len(newly_downloaded)} files.")
+        print(f"Trim complete: {trimmed}/{len(legacy_new)} files.")
 
     stats = {
         "downloaded": downloaded,
@@ -474,10 +492,13 @@ def main() -> None:
         urls = [url]
         if s.get("board_url_2"):
             urls.append(s["board_url_2"])
+        dedup_raw = s.get("dedup", False)
+        dedup = dedup_raw is True or str(dedup_raw).strip().lower() in ("true", "yes", "1")
         scrape_board(
             urls, AUDIO_ROOT / sid, sid, args.min_length, args.max_length,
             exclude_prefix=s.get("exclude_prefix", ""),
             case_style=s.get("case_style", "preserve"),
+            dedup_transcripts=dedup,
         )
 
 

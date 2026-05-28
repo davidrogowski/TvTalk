@@ -32,6 +32,7 @@ shows:
   - id: breaking-bad
     name: "Breaking Bad"
     board_url: "https://www.101soundboards.com/boards/24176-walter-white-soundboard-breaking-bad"
+    board_url_2: "https://www.101soundboards.com/boards/1393567-breaking-bad-2008"
     status: pending
     theme:
       primary: "#f5c721"
@@ -198,3 +199,44 @@ shows:
       primary: "#3d4a6e"
       accent:  "#d4c89a"
       bg:      "#08090c"
+
+  - id: game-of-thrones
+    name: "Game of Thrones"
+    board_url: "https://www.101soundboards.com/boards/21718-game-of-thrones-soundboard"
+    status: pending
+    text_style: "title"
+    theme:
+      primary: "#5e7d99"
+      accent:  "#c9a24a"
+      bg:      "#080a0e"
+
+  - id: friends
+    name: "Friends"
+    board_url: "https://www.101soundboards.com/boards/24992-friends-tv-show-soundboard"
+    status: pending
+    theme:
+      primary: "#d14b4b"
+      accent:  "#3f8ecc"
+      bg:      "#0a0708"
+
+  - id: american-dad
+    name: "American Dad!"
+    board_url: "https://www.101soundboards.com/boards/10002-american-dad-sounds"
+    board_url_2: "https://www.101soundboards.com/boards/84698-american-dad-soundboard"
+    status: pending
+    text_style: "title"
+    theme:
+      primary: "#3a5fa8"
+      accent:  "#c0392b"
+      bg:      "#080a10"
+
+  - id: blue-mountain-state
+    name: "Blue Mountain State"
+    board_url: "https://www.101soundboards.com/boards/40660-blue-mountain-state-soundboard"
+    board_url_2: "https://www.101soundboards.com/boards/1394590-blue-mountain-state-2010"
+    status: pending
+    dedup: true
+    theme:
+      primary: "#2f6fb0"
+      accent:  "#e0b13a"
+      bg:      "#06090d"

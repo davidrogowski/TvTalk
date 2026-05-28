@@ -10,7 +10,7 @@ When Dave says **"run the playbook"** for a show (usually with a 101soundboards 
    - **Paren stage-directions / disclaimers?** → `exclude_prefix: "("` or `exclude_prefix: "CAPTIONING MADE POSSIBLE BY"` etc.
    - **Long monologues?** → scrape with `--max-length 50`.
    - (Optionally pull one clip to a temp file so Dave can confirm the ding, but auto-trim handles it regardless.)
-2. **Add to `scripts/shows.yaml`**: `id`, `name`, `board_url`, a `theme` matched to the show's cover-art hue, plus any flags the board needs — `text_style: "title"` (no quote marks for title-style boards), `case_style: "fix_all_caps"`, `exclude_prefix: "..."`, `board_url_2` (merge a second board).
+2. **Add to `scripts/shows.yaml`**: `id`, `name`, `board_url`, a `theme` matched to the show's cover-art hue, plus any flags the board needs — `text_style: "title"` (no quote marks for title-style boards), `case_style: "fix_all_caps"`, `exclude_prefix: "..."`, `board_url_2` (merge a second board), `dedup: true` (drop repeated transcripts, e.g. when a board lists the same line twice under different audio files).
 3. **Scrape**: `python3 scripts/scrape_soundboard.py --show <id>` (auto-strips hashtags; auto-trims the 1s ding if board ID < 1M). Add `--max-length 50` for long-dialogue prestige dramas.
 4. **Rebuild**: `python3 scripts/build_shows.py`.
 5. **Deploy**: `npm_config_cache=/tmp/npm-cache npx wrangler deploy` (see [[05 - Deployment]]).
@@ -79,7 +79,10 @@ Optional per-show fields (add any that apply):
     text_style: "title"                  # if transcripts are user-titles, not real captions — no quote marks in UI
     case_style: "fix_all_caps"           # if board has ALL-CAPS legacy captioning, normalize to sentence case
     exclude_prefix: "CAPTIONING MADE"    # drop clips whose transcripts start with this prefix (case-insensitive)
+    dedup: true                          # drop clips whose transcript repeats one already kept (same line, different audio file)
 ```
+
+**Merging a legacy + modern board:** the 1s ding-trim is applied **per board** — only clips that came from a legacy board (ID < 1M) are trimmed. Clips from a modern board in the same merge are left intact, so you can safely merge e.g. a legacy `-soundboard` with a clean `-YYYY` board without chopping real audio off the modern clips.
 
 Theme colors: pick anything that fits the show's vibe. The page interpolates a glow color from `primary` + `bg`, so you don't need to set that separately.
 
@@ -94,7 +97,7 @@ What this does, in order:
 1. Calls 101soundboards' JSON API at `/api/v1/boards/{board_id}` (the API returns all clips regardless of pagination).
 2. For each clip: strips hashtags off the transcript, applies `case_style`/`exclude_prefix` if configured, drops clips outside the length filter.
 3. Downloads each MP3 with a 1.5s polite delay between requests.
-4. **If the board is legacy (auto-detected)**: trims 1.0s off the front of every newly-downloaded MP3 with ffmpeg (`-c copy`, no re-encode). Already-on-disk files are skipped.
+4. **For each legacy board (auto-detected)**: trims 1.0s off the front of newly-downloaded MP3s from that board with ffmpeg (`-c copy`, no re-encode). In a legacy + modern merge, only the legacy board's clips are trimmed; modern-board clips are left intact. Already-on-disk files are skipped.
 5. Writes `audio/<id>/transcripts.txt` and `audio/<id>/quotes.js`.
 
 Flags:
