@@ -140,6 +140,25 @@ python3 scripts/scrape_soundboard.py --show <id>
 
 Reads your edited `transcripts.txt`, preserves the `CHARACTER:` values, regenerates `quotes.js` with character names baked in. Already-downloaded MP3s are not re-downloaded; already-trimmed files are not re-trimmed.
 
+## Captions are short labels, not full quotes (the labeling pass)
+
+Every clip's on-screen text is a **short 1-5 word label**, not the full transcript — the *audio* is the payload, the button is just a scannable handle (think Borat: "Great success", "My name-a Borat"). All shows use `text_style: "title"` (no quote marks). This was a deliberate cleanup pass over the whole catalog.
+
+**The rule for writing a label:**
+- Lines **≤10 words** that are already clean → **keep verbatim** (preserves iconic phrasing like "Say my name", "You're God damn right", "I am the one who knocks").
+- Lines **>10 words** → **summarize to ~1-5 words** capturing the gist or the punchline.
+- **Messy/garbled** auto-captions → rewrite into a clean short label (this doubles as the fix for bad captions).
+- **SFX-only / music / network-promo** clips → label by what's happening (e.g. "Door opens", "Mariachi music", "FX promo: Legion"), or flag for dropping.
+
+**How the labels persist (`preserve_transcripts` + the "curate" rule):** the scraper normally re-fetches transcripts from the API every run, which would wipe hand-written labels. So labeled shows set `preserve_transcripts: true`. Once a curated `transcripts.txt` exists, it becomes the **authoritative clip set**: on re-run the scraper includes **exactly** the clips listed there (by filename, with your label text) and **skips the length filter entirely** — so short labels are never dropped, and clips you removed from the file stay gone. (On the very first scrape, before the file exists, it behaves normally: download all, apply the length filter, write the raw transcripts for you to edit.)
+
+**To (re)label a show:**
+1. `text_style: "title"` + `preserve_transcripts: true` in its `shows.yaml` entry.
+2. Edit the quoted text lines in `audio/<id>/transcripts.txt` — labels only; **leave the `.mp3` filename lines untouched** (filenames stay keyed to the original API text so they keep matching the audio).
+3. `python3 scripts/scrape_soundboard.py --show <id>` to regenerate `quotes.js` from your labels (no re-download).
+
+**Gotcha — board drift:** re-running fetches the live board to map filenames. If a board has changed since the audio was downloaded (mostly an issue for **modern `-YYYY` boards**, which get updated), the recomputed filenames won't match your `transcripts.txt` and clips silently drop. Legacy `-soundboard` boards are archival and stable. If a re-run's "Total kept" is suddenly low, regenerate `quotes.js` directly from `transcripts.txt` instead of via the scraper.
+
 ## 7. Rebuild the aggregated data
 
 ```sh
