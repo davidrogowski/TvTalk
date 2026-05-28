@@ -20550,7 +20550,7 @@ const shows = [
       "accent": "#c8352b",
       "bg": "#0a0a0b"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
         "text": "Ah we have sort of a problem here yeah",

@@ -251,6 +251,33 @@
     );
   }
 
+  // ----- shareable links: ?show=<id|random-shows|random-movies> -----
+  const RANDOM_SLUGS = { [RANDOM_SHOWS]: 'random-shows', [RANDOM_MOVIES]: 'random-movies' };
+  const SLUG_TO_RANDOM = {
+    'random': RANDOM_ALL, 'random-all': RANDOM_ALL,
+    'random-shows': RANDOM_SHOWS, 'random-movies': RANDOM_MOVIES,
+  };
+
+  function selectionFromUrl() {
+    const param = new URLSearchParams(location.search).get('show');
+    if (!param) return RANDOM_ALL;
+    if (param in SLUG_TO_RANDOM) return SLUG_TO_RANDOM[param];
+    if (SHOWS.some(s => s.id === param)) return param;
+    return RANDOM_ALL; // unknown / stale id -> default
+  }
+
+  function syncUrl() {
+    const url = new URL(location.href);
+    if (currentSelection === RANDOM_ALL) {
+      url.searchParams.delete('show');           // default view -> clean URL
+    } else if (currentSelection in RANDOM_MODES) {
+      url.searchParams.set('show', RANDOM_SLUGS[currentSelection]);
+    } else {
+      url.searchParams.set('show', currentSelection);
+    }
+    history.replaceState(null, '', url);
+  }
+
   function onSelectionChange() {
     currentSelection = els.picker.value;
     lastKey = null;
@@ -264,6 +291,7 @@
         els.title.textContent = show.name.toUpperCase();
       }
     }
+    syncUrl();
     clearQuote();
   }
 
@@ -342,6 +370,7 @@
   if (SHOWS.length === 0) {
     showEmptyState();
   } else {
+    els.picker.value = selectionFromUrl();   // pre-select from a shared link
     onSelectionChange();
     els.picker.addEventListener('change', onSelectionChange);
     els.btn.addEventListener('click', () => {

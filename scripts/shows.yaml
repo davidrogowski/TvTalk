@@ -342,6 +342,7 @@ shows:
     board_url: "https://www.101soundboards.com/boards/11360-office-space-1999-soundboard"
     status: pending
     type: movie
+    text_style: "title"
     dedup: true
     theme:
       primary: "#6e7480"
