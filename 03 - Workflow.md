@@ -4,7 +4,12 @@
 
 When Dave says **"run the playbook"** for a show (usually with a 101soundboards link, sometimes two), it means: do this end-to-end, reporting concisely, without stopping for confirmation between steps.
 
-1. **Inspect the board** via the JSON API (`/api/v1/boards/{id}?limit=2000`) to decide config: are transcripts hashtag-tagged? ALL-CAPS? paren stage-directions? user *titles* vs real *captions*? long monologues (length)? (Optionally pull one clip to a temp file so Dave can confirm the ding, but auto-trim handles it regardless.)
+1. **Inspect the board** via the JSON API (`/api/v1/boards/{id}?limit=2000`) to decide config. Two of the three "usual" behaviors are automatic and need no decision: **hashtag removal** (always) and the **1s ding-trim** (auto, when board ID < 1M). The judgment calls are:
+   - **Quotes or not?** Read the transcripts. If they're user-supplied *titles/labels* (`"April Ludgate Wine Tasting"`, `"Pickle Rick"`, `"AHHHH!"`) → set `text_style: "title"` (no quote marks). If they're real *spoken dialogue* (`"A strong force of attraction"`) → leave default (quotes). NOTE: this is about content, not board age — Breaking Bad and Peaky Blinders are legacy boards but real captions, so they kept quotes. Most community `-soundboard` boards are title-style; most modern `-YYYY` boards are captions.
+   - **ALL-CAPS?** → `case_style: "fix_all_caps"`.
+   - **Paren stage-directions / disclaimers?** → `exclude_prefix: "("` or `exclude_prefix: "CAPTIONING MADE POSSIBLE BY"` etc.
+   - **Long monologues?** → scrape with `--max-length 50`.
+   - (Optionally pull one clip to a temp file so Dave can confirm the ding, but auto-trim handles it regardless.)
 2. **Add to `scripts/shows.yaml`**: `id`, `name`, `board_url`, a `theme` matched to the show's cover-art hue, plus any flags the board needs — `text_style: "title"` (no quote marks for title-style boards), `case_style: "fix_all_caps"`, `exclude_prefix: "..."`, `board_url_2` (merge a second board).
 3. **Scrape**: `python3 scripts/scrape_soundboard.py --show <id>` (auto-strips hashtags; auto-trims the 1s ding if board ID < 1M). Add `--max-length 50` for long-dialogue prestige dramas.
 4. **Rebuild**: `python3 scripts/build_shows.py`.
