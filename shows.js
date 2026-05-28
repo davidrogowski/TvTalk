@@ -18121,7 +18121,7 @@ const shows = [
       "accent": "#e2701c",
       "bg": "#090a05"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
         "text": "Big ass titties",
@@ -18567,7 +18567,7 @@ const shows = [
       "accent": "#e0c558",
       "bg": "#0c0706"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
         "text": "Are we about to get it on?",
@@ -18820,7 +18820,7 @@ const shows = [
       "accent": "#e8c98a",
       "bg": "#0d0709"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
         "text": "A friend in need is a pest",
@@ -19158,7 +19158,7 @@ const shows = [
       "accent": "#c43a2a",
       "bg": "#0c0905"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
         "text": "Almost gave me a heart attack",
@@ -19421,7 +19421,7 @@ const shows = [
       "accent": "#3f8fc2",
       "bg": "#0c0503"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
         "text": "Anywhere I want",
@@ -19634,7 +19634,7 @@ const shows = [
       "accent": "#e0a070",
       "bg": "#060a0a"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
         "text": "Are you fucking retarded?",
@@ -19752,7 +19752,7 @@ const shows = [
       "accent": "#d9a83a",
       "bg": "#0c0606"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
         "text": "Afternoon Delight",
@@ -21203,7 +21203,7 @@ const shows = [
       "accent": "#e0b020",
       "bg": "#0a0d06"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
         "text": "Both of my best friends",
@@ -21957,7 +21957,7 @@ const shows = [
       "accent": "#e0478c",
       "bg": "#07060e"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
         "text": "A retard",
@@ -22225,7 +22225,7 @@ const shows = [
       "accent": "#d99a30",
       "bg": "#07090e"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
         "text": "Aim for the bushes",
@@ -22991,7 +22991,7 @@ const shows = [
       "accent": "#ecc21e",
       "bg": "#06090d"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
         "text": "Anus broken",

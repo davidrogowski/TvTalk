@@ -194,17 +194,28 @@
     source:  document.getElementById('quoteSource'),
   };
 
-  const RANDOM = '__random__';
-  let currentSelection = RANDOM;
+  const RANDOM_ALL = '__random_all__';
+  const RANDOM_SHOWS = '__random_shows__';
+  const RANDOM_MOVIES = '__random_movies__';
+  // mode value -> type filter for the pool (null = everything)
+  const RANDOM_MODES = { [RANDOM_ALL]: null, [RANDOM_SHOWS]: 'show', [RANDOM_MOVIES]: 'movie' };
+  let currentSelection = RANDOM_ALL;
   let lastKey = null;
   let currentAudio = null;
 
   function buildPicker() {
     els.picker.innerHTML = '';
-    const randOpt = document.createElement('option');
-    randOpt.value = RANDOM;
-    randOpt.textContent = '🎲 Random (all shows)';
-    els.picker.appendChild(randOpt);
+    const RAND_OPTS = [
+      [RANDOM_ALL,    '🎲 Random (all shows + movies)'],
+      [RANDOM_SHOWS,  '🎲 Random (all shows)'],
+      [RANDOM_MOVIES, '🎲 Random (all movies)'],
+    ];
+    for (const [val, label] of RAND_OPTS) {
+      const o = document.createElement('option');
+      o.value = val;
+      o.textContent = label;
+      els.picker.appendChild(o);
+    }
 
     const GROUPS = [
       { label: 'TV Shows', type: 'show' },
@@ -225,7 +236,7 @@
       }
       els.picker.appendChild(og);
     }
-    els.picker.value = RANDOM;
+    els.picker.value = RANDOM_ALL;
   }
 
   const DEFAULT_THEME = { primary: '#c41e3a', accent: '#d4af37', bg: '#0a0000' };
@@ -243,7 +254,7 @@
   function onSelectionChange() {
     currentSelection = els.picker.value;
     lastKey = null;
-    if (currentSelection === RANDOM) {
+    if (currentSelection in RANDOM_MODES) {
       applyTheme(DEFAULT_THEME);
       els.title.textContent = 'TV TALK';
     } else {
@@ -263,9 +274,11 @@
   }
 
   function buildPool() {
-    if (currentSelection === RANDOM) {
+    if (currentSelection in RANDOM_MODES) {
+      const typeFilter = RANDOM_MODES[currentSelection]; // null | 'show' | 'movie'
       const pool = [];
       for (const s of SHOWS) {
+        if (typeFilter && (s.type || 'show') !== typeFilter) continue;
         for (let i = 0; i < s.quotes.length; i++) {
           pool.push({ showId: s.id, showName: s.name, index: i, quote: s.quotes[i] });
         }
@@ -296,10 +309,10 @@
     setTimeout(() => {
       els.text.textContent   = textStyle === 'title' ? q.text : `"${q.text}"`;
       els.char.textContent   = q.character ? `— ${q.character}` : '';
-      els.source.textContent = (currentSelection === RANDOM) ? item.showName : '';
+      els.source.textContent = (currentSelection in RANDOM_MODES) ? item.showName : '';
       els.text.classList.add('visible');
-      if (q.character)                 els.char.classList.add('visible');
-      if (currentSelection === RANDOM) els.source.classList.add('visible');
+      if (q.character)                       els.char.classList.add('visible');
+      if (currentSelection in RANDOM_MODES)  els.source.classList.add('visible');
     }, 80);
   }
 

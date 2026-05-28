@@ -255,6 +255,7 @@ shows:
     board_url: "https://www.101soundboards.com/boards/85853-tropic-thunder-soundboard"
     status: pending
     type: movie
+    text_style: "title"
     theme:
       primary: "#6e7a32"
       accent:  "#e2701c"
@@ -275,6 +276,7 @@ shows:
     board_url: "https://www.101soundboards.com/boards/83872-talladega-nights-soundboard"
     status: pending
     type: movie
+    text_style: "title"
     theme:
       primary: "#cf2f2f"
       accent:  "#e0c558"
@@ -285,6 +287,7 @@ shows:
     board_url: "https://www.101soundboards.com/boards/84106-wedding-crashers-soundboard"
     status: pending
     type: movie
+    text_style: "title"
     theme:
       primary: "#c0436a"
       accent:  "#e8c98a"
@@ -295,6 +298,7 @@ shows:
     board_url: "https://www.101soundboards.com/boards/83982-superbad-soundboard"
     status: pending
     type: movie
+    text_style: "title"
     theme:
       primary: "#d9a02a"
       accent:  "#c43a2a"
@@ -305,6 +309,7 @@ shows:
     board_url: "https://www.101soundboards.com/boards/75906-this-is-the-end-soundboard"
     status: pending
     type: movie
+    text_style: "title"
     theme:
       primary: "#c13525"
       accent:  "#3f8fc2"
@@ -315,6 +320,7 @@ shows:
     board_url: "https://www.101soundboards.com/boards/85574-40-year-old-virgin-soundboard"
     status: pending
     type: movie
+    text_style: "title"
     theme:
       primary: "#2f8f8a"
       accent:  "#e0a070"
@@ -325,6 +331,7 @@ shows:
     board_url: "https://www.101soundboards.com/boards/40777-anchorman-soundboard"
     status: pending
     type: movie
+    text_style: "title"
     theme:
       primary: "#8a2b3a"
       accent:  "#d9a83a"
@@ -346,6 +353,7 @@ shows:
     board_url: "https://www.101soundboards.com/boards/35385-pineapple-express-soundboard"
     status: pending
     type: movie
+    text_style: "title"
     dedup: true
     theme:
       primary: "#4a8a2a"
@@ -378,6 +386,7 @@ shows:
     board_url: "https://www.101soundboards.com/boards/84963-the-hangover-soundboard"
     status: pending
     type: movie
+    text_style: "title"
     theme:
       primary: "#3f3a82"
       accent:  "#e0478c"
@@ -388,6 +397,7 @@ shows:
     board_url: "https://www.101soundboards.com/boards/84995-the-other-guys-soundboard"
     status: pending
     type: movie
+    text_style: "title"
     theme:
       primary: "#3d6098"
       accent:  "#d99a30"
@@ -408,6 +418,7 @@ shows:
     board_url: "https://www.101soundboards.com/boards/24815-borat-movie-soundboard"
     status: pending
     type: movie
+    text_style: "title"
     preserve_transcripts: true
     theme:
       primary: "#3a9bd4"
