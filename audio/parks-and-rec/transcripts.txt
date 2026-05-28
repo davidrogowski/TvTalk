@@ -75,7 +75,7 @@
   CHARACTER: 
 
 020_i_wanted_to_make_fun_of_stupid_people_while_i_got_drunk.mp3
-  "I Wanted to Make Fun of Stupid People While I Got Drunk"
+  "Make fun of stupid people"
   CHARACTER: 
 
 021_i_m_open_minded_as_hell.mp3
@@ -171,7 +171,7 @@
   CHARACTER: 
 
 044_uh_huh_dancing.mp3
-  "Uh huh! (Dancing)"
+  "Uh huh!"
   CHARACTER: 
 
 045_what.mp3
@@ -211,11 +211,11 @@
   CHARACTER: 
 
 054_as_long_as_i_don_t_move_my_head_or_torso_i_m_good.mp3
-  "As Long As I Don't Move My Head Or Torso, I'm Good"
+  "Don't move my head or torso"
   CHARACTER: 
 
 055_capitalism_god_s_way_of_determining_who_is_smart_and_who_is.mp3
-  "Capitalism: God's Way of Determining Who is Smart, and Who is Poor"
+  "Capitalism: God's way"
   CHARACTER: 
 
 056_don_t_sass_me_burkas.mp3
@@ -227,7 +227,7 @@
   CHARACTER: 
 
 058_enjoy_the_fact_your_royal_overlords_are_a_frail_old_woman_an.mp3
-  "Enjoy the Fact Your Royal Overlords are a Frail Old Woman and a Tiny Baby"
+  "Your royal overlords"
   CHARACTER: 
 
 059_fbi.mp3
@@ -271,7 +271,7 @@
   CHARACTER: 
 
 069_i_once_worked_with_a_guy_for_three_years_and_never_learned_h.mp3
-  "I Once Worked with A Guy For Three Years and Never Learned His Name"
+  "Never learned his name"
   CHARACTER: 
 
 070_i_regret_nothing.mp3
@@ -287,7 +287,7 @@
   CHARACTER: 
 
 073_i_m_going_to_tell_you_everything_you_need_to_know_about_loca.mp3
-  "I'm Going to Tell You Everything You Need to Know About Local Government"
+  "Everything about local government"
   CHARACTER: 
 
 074_i_m_ron_swanson.mp3
@@ -327,7 +327,7 @@
   CHARACTER: 
 
 083_on_principle_i_never_say_anything_that_another_person_is_obv.mp3
-  "On Principle, I Never Say Anything That Another Person is Obviously Trying Get Me To Say"
+  "On principle, I never say"
   CHARACTER: 
 
 084_one_shelf_of_alcohol.mp3
@@ -463,7 +463,7 @@
   CHARACTER: 
 
 117_there_s_only_one_thing_i_hate_more_than_lying_skim_milk.mp3
-  "There's Only One Thing I Hate More than Lying: Skim Milk"
+  "I hate skim milk"
   CHARACTER: 
 
 118_tom_haverford_in_court.mp3
@@ -475,11 +475,11 @@
   CHARACTER: 
 
 120_when_i_look_at_my_palm_i_see_a_lady_s_mouth_french_kissing_a.mp3
-  "When I Look At My Palm, I See a Lady's Mouth French Kissing a Dog"
+  "A lady's mouth kissing a dog"
   CHARACTER: 
 
 121_when_it_comes_to_government_hearings_the_only_type_of_witnes.mp3
-  "When It Comes to Government Hearings, the Only Type of Witness I enjoy Being is a Hostile One"
+  "A hostile witness"
   CHARACTER: 
 
 122_why_government_matters.mp3

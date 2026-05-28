@@ -11,7 +11,7 @@
   CHARACTER: 
 
 004_ah_so_you_come_crawling_back_you_cheap_sack_of_shit.mp3
-  "Ah, so you come crawling back, you cheap sack of shit!"
+  "You cheap sack of shit"
   CHARACTER: 
 
 005_ahhhh.mp3
@@ -119,7 +119,7 @@
   CHARACTER: 
 
 031_did_you_bang_my_wife_did_you_bang_my_poor_wife_does_anybody.mp3
-  "Did you bang my wife, did you bang my poor wife? Does anybody here have any illegitimate children with my poor wife?"
+  "Did you bang my wife?"
   CHARACTER: 
 
 032_do_you_guys_like_cheese.mp3
@@ -131,7 +131,7 @@
   CHARACTER: 
 
 034_don_t_be_ridiculous_you_haven_t_thought_of_the_smell_you_bit.mp3
-  "Don't be ridiculous, you haven't thought of the smell, you bitch!"
+  "You haven't thought of the smell"
   CHARACTER: 
 
 035_don_t_tread_on_me.mp3
@@ -215,7 +215,7 @@
   CHARACTER: 
 
 055_he_was_wrong_making_everyone_on_earth_look_like_a_bitch_agai.mp3
-  "He was wrong, making everyone on Earth look like a bitch again"
+  "Everyone looks like a bitch"
   CHARACTER: 
 
 056_here_let_me_try.mp3
@@ -295,15 +295,15 @@
   CHARACTER: 
 
 075_i_don_t_know_how_to_express_myself_unless_its_though_anger.mp3
-  "I don't know how to express myself unless its though anger"
+  "Express myself through anger"
   CHARACTER: 
 
 076_i_don_t_think_there_s_anything_in_the_laws_of_nature_that_wo.mp3
-  "I don't think there's anything in the laws of nature that would support that"
+  "The laws of nature"
   CHARACTER: 
 
 077_i_feel_like_you_re_saying_you_get_it_but_you_don_t_get_it.mp3
-  "I feel like you're saying you get it, but you don't get it"
+  "You don't get it"
   CHARACTER: 
 
 078_i_gave_him_an_occular_pat_down.mp3
@@ -327,7 +327,7 @@
   CHARACTER: 
 
 083_i_won_t_change_my_mind_cause_i_don_t_have_to_design_an_ameri.mp3
-  "I won't change my mind 'cause I don't have to design an american"
+  "I won't change my mind"
   CHARACTER: 
 
 084_i_won_t_change_my_mind.mp3
@@ -335,7 +335,7 @@
   CHARACTER: 
 
 085_i_won_t_change_my_mind_on_anything_regardless_of_the_facts_t.mp3
-  "I won't change my mind on anything regardless of the facts that are set out before me"
+  "Regardless of the facts"
   CHARACTER: 
 
 086_i_d_like_some_welfare_please.mp3
@@ -347,7 +347,7 @@
   CHARACTER: 
 
 088_i_m_a_swedish_plumber_i_m_here_to_fix_your_pipes_that_s_good.mp3
-  "I'm a swedish plumber i'm here to fix your pipes that's good that's a good accent"
+  "Swedish plumber, fix your pipes"
   CHARACTER: 
 
 089_i_m_eating_because_i_m_very_uncomfortable.mp3
@@ -367,7 +367,7 @@
   CHARACTER: 
 
 093_i_m_just_the_best_god_damn_bird_lawyer_in_the_world.mp3
-  "I'm just the best god damn bird lawyer in the world"
+  "Best bird lawyer in the world"
   CHARACTER: 
 
 094_i_m_sorry_i_m_just_playing.mp3
@@ -379,7 +379,7 @@
   CHARACTER: 
 
 096_i_m_the_trash_man_i_come_out_i_throw_trash_all_over_the_all.mp3
-  "I'm the trash man I come out I throw trash all over the all over the ring and then I start eating garbage"
+  "I'm the trash man"
   CHARACTER: 
 
 097_i_m_very_aroused.mp3
@@ -391,7 +391,7 @@
   CHARACTER: 
 
 099_i_ve_contained_my_rage_for_as_long_as_possible_but_i_shall_u.mp3
-  "I've contained my rage for as long as possible but I shall unleash my fury upon you like the crossing of the thousand waves"
+  "Unleash my fury"
   CHARACTER: 
 
 100_i_ve_grown_quite_weary.mp3
@@ -399,7 +399,7 @@
   CHARACTER: 
 
 101_if_you_say_another_word_i_will_dice_you_into_a_million_piece.mp3
-  "If you say another word I will dice you into a million pieces"
+  "Dice you into a million pieces"
   CHARACTER: 
 
 102_intervention.mp3
@@ -411,11 +411,11 @@
   CHARACTER: 
 
 104_jesus_jesus_frank_jesus_frank_jesus_jesus_jesus_like_my_life.mp3
-  "Jesus jesus frank jesus frank jesus jesus jesus like my life is a lie my life is a life"
+  "My life is a lie"
   CHARACTER: 
 
 105_later_dudes_ass_you_in_your_age_don_t_wear_see_in_jail_over.mp3
-  "Later dudes ass you in your age don't wear see in jail over your bees"
+  "Later dudes"
   CHARACTER: 
 
 106_look_at_me_when_you_re_talking_to_me.mp3
@@ -459,7 +459,7 @@
   CHARACTER: 
 
 116_my_roommate_was_a_frog_kid_you_ever_seen_a_frog_kid.mp3
-  "My roommate was a frog kid. You ever seen a frog kid?"
+  "Ever seen a frog kid?"
   CHARACTER: 
 
 117_na.mp3
@@ -623,7 +623,7 @@
   CHARACTER: 
 
 157_so_much_more_romantic_in_the_middle_of_nowhere_we_can_be_com.mp3
-  "So much more romantic in the middle of nowhere we can be completely alone and you can make rash decisions based on fear"
+  "Romantic in the middle of nowhere"
   CHARACTER: 
 
 158_spit_spit.mp3
@@ -639,7 +639,7 @@
   CHARACTER: 
 
 161_tell_me_it_was_good_tell_me_i_m_good_tell_me_i_m_good_tell_m.mp3
-  "Tell me it was good tell me i'm good tell me i'm good tell me that was good tell me i'm good"
+  "Tell me I'm good"
   CHARACTER: 
 
 162_that_bitch_is_dead.mp3
@@ -719,7 +719,7 @@
   CHARACTER: 
 
 181_tools_tools_zip_ties_clubs_i_have_to_have_my_tools.mp3
-  "Tools. Tools, zip ties, clubs, I have to have my tools"
+  "I have to have my tools"
   CHARACTER: 
 
 182_toxic_waste_bunch_of_liberal_bullshit.mp3
@@ -731,7 +731,7 @@
   CHARACTER: 
 
 184_troll_toll_chorus.mp3
-  "Troll Toll (chorus)"
+  "Troll Toll"
   CHARACTER: 
 
 185_try_and_move_me.mp3
@@ -759,7 +759,7 @@
   CHARACTER: 
 
 191_well_first_of_all_through_god_all_things_are_possible_so_jot.mp3
-  "Well first of all through god all things are possible so jot that down"
+  "Jot that down"
   CHARACTER: 
 
 192_well_that_s_good_call_me_that_from_now_on_mantis.mp3
@@ -767,7 +767,7 @@
   CHARACTER: 
 
 193_well_what_show_i_dropped_my_monster_condom_that_i_use_for_my.mp3
-  "Well what show I dropped my monster condom that I use for my magnum dong"
+  "My monster condom"
   CHARACTER: 
 
 194_what_is_your_spaghetti_policy_here.mp3
@@ -787,7 +787,7 @@
   CHARACTER: 
 
 198_whoops_i_dropped_my_monster_condom_that_i_use_for_my_magnum.mp3
-  "Whoops, I dropped my monster condom that I use for my magnum dong"
+  "Dropped my monster condom"
   CHARACTER: 
 
 199_why_i_oughta.mp3
@@ -839,7 +839,7 @@
   CHARACTER: 
 
 211_you_have_to_be_a_real_piece_of_shit_to_get_involved_in_polit.mp3
-  "You have to be a real piece of shit to get involved in politics"
+  "A piece of shit in politics"
   CHARACTER: 
 
 212_you_know_for_the_sherlock_holmes_look.mp3

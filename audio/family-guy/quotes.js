@@ -806,7 +806,7 @@ const quotes = [
     "audioUrl": "audio/family-guy/161_greased_up_deaf_guy.mp3"
   },
   {
-    "text": "Grimace (McDonalds)",
+    "text": "Grimace",
     "character": "",
     "audioUrl": "audio/family-guy/162_grimace_mcdonalds.mp3"
   },
@@ -1061,7 +1061,7 @@ const quotes = [
     "audioUrl": "audio/family-guy/212_hollywood_fart.mp3"
   },
   {
-    "text": "Holy crap here comes Jesus, and he doesn't look too happy",
+    "text": "Here comes Jesus",
     "character": "",
     "audioUrl": "audio/family-guy/213_holy_crap_here_comes_jesus_and_he_doesn_t_look_too_happy.mp3"
   },
@@ -1231,7 +1231,7 @@ const quotes = [
     "audioUrl": "audio/family-guy/246_i_love_women.mp3"
   },
   {
-    "text": "I love you (Flowers)",
+    "text": "I love you",
     "character": "",
     "audioUrl": "audio/family-guy/247_i_love_you_flowers.mp3"
   },
@@ -1356,7 +1356,7 @@ const quotes = [
     "audioUrl": "audio/family-guy/271_if_it_s_good_for_me_i_don_t_want_it.mp3"
   },
   {
-    "text": "If you're gonna hit the king, you better kill the king",
+    "text": "Kill the king",
     "character": "",
     "audioUrl": "audio/family-guy/272_if_you_re_gonna_hit_the_king_you_better_kill_the_king.mp3"
   },
@@ -2201,7 +2201,7 @@ const quotes = [
     "audioUrl": "audio/family-guy/440_smashes_desk.mp3"
   },
   {
-    "text": "So busy I don't have time to organize my own life",
+    "text": "No time for my own life",
     "character": "",
     "audioUrl": "audio/family-guy/441_so_busy_i_don_t_have_time_to_organize_my_own_life.mp3"
   },
@@ -2416,7 +2416,7 @@ const quotes = [
     "audioUrl": "audio/family-guy/483_this_is_the_guy_whose_wife_i_am_banging.mp3"
   },
   {
-    "text": "This is the second vacation that I have watched every Jurassic Park",
+    "text": "Watched every Jurassic Park",
     "character": "",
     "audioUrl": "audio/family-guy/484_this_is_the_second_vacation_that_i_have_watched_every_jurass.mp3"
   },
@@ -2446,7 +2446,7 @@ const quotes = [
     "audioUrl": "audio/family-guy/489_trololo_man.mp3"
   },
   {
-    "text": "Uh yeah, what do you think I keep in this backpack",
+    "text": "What's in this backpack?",
     "character": "",
     "audioUrl": "audio/family-guy/490_uh_yeah_what_do_you_think_i_keep_in_this_backpack.mp3"
   },
@@ -2706,7 +2706,7 @@ const quotes = [
     "audioUrl": "audio/family-guy/541_you_can_t_cook.mp3"
   },
   {
-    "text": "You could freeze some of your sperm at a sperm bank",
+    "text": "Freeze your sperm",
     "character": "",
     "audioUrl": "audio/family-guy/542_you_could_freeze_some_of_your_sperm_at_a_sperm_bank.mp3"
   },

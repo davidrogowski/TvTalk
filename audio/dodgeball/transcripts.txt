@@ -63,7 +63,7 @@
   CHARACTER: 
 
 017_if_you_can_dodge_a_wrench_you_can_dodge_a_ball.mp3
-  "If you can dodge a wrench you can dodge a ball"
+  "Dodge a wrench, dodge a ball"
   CHARACTER: 
 
 018_just_kidding_but_seriously.mp3

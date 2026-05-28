@@ -181,7 +181,7 @@ const quotes = [
     "audioUrl": "audio/arrested-development/036_i_will_not_stand_for_this.mp3"
   },
   {
-    "text": "I wine em and dine em, but I don't let em tell me what to do",
+    "text": "I wine em and dine em",
     "character": "",
     "audioUrl": "audio/arrested-development/037_i_wine_em_and_dine_em_but_i_don_t_let_em_tell_me_what_to_do.mp3"
   },
@@ -236,7 +236,7 @@ const quotes = [
     "audioUrl": "audio/arrested-development/047_i_m_having_the_time_of_my_life.mp3"
   },
   {
-    "text": "If I could stick my nose in here for one second",
+    "text": "Stick my nose in here",
     "character": "",
     "audioUrl": "audio/arrested-development/048_if_i_could_stick_my_nose_in_here_for_one_second.mp3"
   },
@@ -356,7 +356,7 @@ const quotes = [
     "audioUrl": "audio/arrested-development/071_that_s_another_fault_of_her_s.mp3"
   },
   {
-    "text": "The heart of an angel and the hide of an elephant",
+    "text": "Heart of an angel",
     "character": "",
     "audioUrl": "audio/arrested-development/072_the_heart_of_an_angel_and_the_hide_of_an_elephant.mp3"
   },

@@ -3,7 +3,7 @@
   CHARACTER: 
 
 002_al_now_brown_cow_how_now_brown_cow_al_now_brown_cow.mp3
-  "Al now brown cow how now brown cow al now brown cow"
+  "How now brown cow"
   CHARACTER: 
 
 003_anchorman.mp3
@@ -67,7 +67,7 @@
   CHARACTER: 
 
 018_but_a_home_i_mean_where_in_all_of_god_s_green_goodness.mp3
-  "But a home i mean where in all of god 's green goodness"
+  "God's green goodness"
   CHARACTER: 
 
 019_cannonball.mp3
@@ -183,7 +183,7 @@
   CHARACTER: 
 
 047_i_friggin_love_you_full.mp3
-  "I friggin love you (full)"
+  "I friggin' love you (full)"
   CHARACTER: 
 
 048_i_have_many_leather_bound_books.mp3
@@ -207,7 +207,7 @@
   CHARACTER: 
 
 053_i_look_good_i_mean_really_good_everyone_coming_feel_goo.mp3
-  "I look good i mean really good everyone coming feel goo"
+  "I look really good"
   CHARACTER: 
 
 054_i_look_like_hell.mp3
@@ -243,7 +243,7 @@
   CHARACTER: 
 
 062_i_pure_straight_hate_you_but_god_damnit_do_i_respect_you.mp3
-  "I pure straight hate you. But God damnit do I respect you"
+  "I hate you but respect you"
   CHARACTER: 
 
 063_i_thought_you_were_kidding.mp3
@@ -303,7 +303,7 @@
   CHARACTER: 
 
 077_if_i_were_to_give_you_some_money_out_of_my_wallet_would_that.mp3
-  "If I were to give you some money out of my wallet, would that ease the pain?"
+  "Money to ease the pain?"
   CHARACTER: 
 
 078_if_you_were_a_man_i_d_punch_you.mp3
@@ -463,7 +463,7 @@
   CHARACTER: 
 
 117_son_of_a_bee_sting_she_s_turning_the_entire_office_agai.mp3
-  "Son of a bee sting she's turning the entire office agai"
+  "Son of a bee sting"
   CHARACTER: 
 
 118_stay_classy_san_diego.mp3
@@ -567,7 +567,7 @@
   CHARACTER: 
 
 143_you_are_not_a_man_you_are_a_big_fat_joke.mp3
-  "You are not a man, you are a big fat joke"
+  "A big fat joke"
   CHARACTER: 
 
 144_you_ate_the_whole_wheel_of_cheese.mp3

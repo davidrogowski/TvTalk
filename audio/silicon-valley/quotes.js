@@ -76,7 +76,7 @@ const quotes = [
     "audioUrl": "audio/silicon-valley/015_awkward_greetings.mp3"
   },
   {
-    "text": "Bachman vs Jing Yang (Silicon Valley Compilation)",
+    "text": "Bachman vs Jian Yang",
     "character": "",
     "audioUrl": "audio/silicon-valley/016_bachman_vs_jing_yang_silicon_valley_compilation.mp3"
   },
@@ -196,7 +196,7 @@ const quotes = [
     "audioUrl": "audio/silicon-valley/039_erlich_bachman_this_is_you_as_an_old_man.mp3"
   },
   {
-    "text": "Erlich Bachman, this is your mom, you are not my baby",
+    "text": "You are not my baby",
     "character": "",
     "audioUrl": "audio/silicon-valley/040_erlich_bachman_this_is_your_mom_you_are_not_my_baby.mp3"
   },
@@ -341,12 +341,12 @@ const quotes = [
     "audioUrl": "audio/silicon-valley/068_i_don_t_know_how_to_respond.mp3"
   },
   {
-    "text": "I don't want to count our chickens before they hatch but",
+    "text": "Don't count our chickens",
     "character": "",
     "audioUrl": "audio/silicon-valley/069_i_don_t_want_to_count_our_chickens_before_they_hatch_but.mp3"
   },
   {
-    "text": "I eat the fish (Jian Yang)",
+    "text": "I eat the fish",
     "character": "",
     "audioUrl": "audio/silicon-valley/070_i_eat_the_fish_jian_yang.mp3"
   },
@@ -396,7 +396,7 @@ const quotes = [
     "audioUrl": "audio/silicon-valley/079_i_wanna_talk_business.mp3"
   },
   {
-    "text": "I want to know what kind of childhood this guy had",
+    "text": "What kind of childhood",
     "character": "",
     "audioUrl": "audio/silicon-valley/080_i_want_to_know_what_kind_of_childhood_this_guy_had.mp3"
   },
@@ -511,7 +511,7 @@ const quotes = [
     "audioUrl": "audio/silicon-valley/102_intro.mp3"
   },
   {
-    "text": "Is this a good thing or a bad thing? Someone tell me how to feel",
+    "text": "Tell me how to feel",
     "character": "",
     "audioUrl": "audio/silicon-valley/103_is_this_a_good_thing_or_a_bad_thing_someone_tell_me_how_to_f.mp3"
   },
@@ -611,7 +611,7 @@ const quotes = [
     "audioUrl": "audio/silicon-valley/122_maybe_start_after_lunch.mp3"
   },
   {
-    "text": "Maybe we can take a day and soak it in hawk urine",
+    "text": "Soak it in hawk urine",
     "character": "",
     "audioUrl": "audio/silicon-valley/123_maybe_we_can_take_a_day_and_soak_it_in_hawk_urine.mp3"
   },
@@ -621,7 +621,7 @@ const quotes = [
     "audioUrl": "audio/silicon-valley/124_mf.mp3"
   },
   {
-    "text": "Monahan: Swallow your pride, or you will be eating something worse than shit",
+    "text": "Swallow your pride",
     "character": "",
     "audioUrl": "audio/silicon-valley/125_monahan_swallow_your_pride_or_you_will_be_eating_something_w.mp3"
   },
@@ -856,7 +856,7 @@ const quotes = [
     "audioUrl": "audio/silicon-valley/172_that_was_amazing.mp3"
   },
   {
-    "text": "That's a kind invitation but I have too much to do",
+    "text": "Too much to do",
     "character": "",
     "audioUrl": "audio/silicon-valley/173_that_s_a_kind_invitation_but_i_have_too_much_to_do.mp3"
   },
@@ -881,7 +881,7 @@ const quotes = [
     "audioUrl": "audio/silicon-valley/177_the_money_is_gone.mp3"
   },
   {
-    "text": "There are very few things I will defend with true passion",
+    "text": "I defend with true passion",
     "character": "",
     "audioUrl": "audio/silicon-valley/178_there_are_very_few_things_i_will_defend_with_true_passion.mp3"
   },

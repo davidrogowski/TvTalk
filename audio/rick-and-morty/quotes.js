@@ -391,12 +391,12 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/078_i_don_t_feel_safe.mp3"
   },
   {
-    "text": "I don't give a fuck just shake that ass and see what you got",
+    "text": "Shake that ass",
     "character": "",
     "audioUrl": "audio/rick-and-morty/079_i_don_t_give_a_fuck_just_shake_that_ass_and_see_what_you_got.mp3"
   },
   {
-    "text": "I dunno why I said that, but I stand by it",
+    "text": "I stand by it",
     "character": "",
     "audioUrl": "audio/rick-and-morty/080_i_dunno_why_i_said_that_but_i_stand_by_it.mp3"
   },
@@ -446,7 +446,7 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/089_i_ll_talk_to_you_after_lunch.mp3"
   },
   {
-    "text": "I'm Cool Rick (You're Outnumbered)",
+    "text": "I'm Cool Rick",
     "character": "",
     "audioUrl": "audio/rick-and-morty/090_i_m_cool_rick_you_re_outnumbered.mp3"
   },
@@ -901,7 +901,7 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/180_rick_and_morty_aids.mp3"
   },
   {
-    "text": "Rick and Morty Intro (Ear Rape)",
+    "text": "Intro (loud)",
     "character": "",
     "audioUrl": "audio/rick-and-morty/181_rick_and_morty_intro_ear_rape.mp3"
   },
@@ -936,12 +936,12 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/187_rick_and_morty_song.mp3"
   },
   {
-    "text": "Rick and Morty Soundtrack - Evil Morty's Theme (Qua..",
+    "text": "Evil Morty's Theme",
     "character": "",
     "audioUrl": "audio/rick-and-morty/188_rick_and_morty_soundtrack_evil_morty_s_theme_qua.mp3"
   },
   {
-    "text": "Rick and Morty Yes (better)",
+    "text": "Yes",
     "character": "",
     "audioUrl": "audio/rick-and-morty/189_rick_and_morty_yes_better.mp3"
   },

@@ -11,7 +11,7 @@
   CHARACTER: 
 
 004_basically_the_whole_country_is_gonna_look_like_your_first_ap.mp3
-  "Basically, the whole country is gonna look like your first apartment."
+  "Like your first apartment"
   CHARACTER: 
 
 005_big_girl_big_girl.mp3
@@ -31,19 +31,19 @@
   CHARACTER: 
 
 009_don_t_play_coy_you_cardigan_jezebel_i_have_photographic_evid.mp3
-  "Don't play coy you cardigan Jezebel. I have photographic evidence of you having sexual relations with a jack-in-the-box man."
+  "You cardigan Jezebel"
   CHARACTER: 
 
 010_francine_you_ll_be_very_careful_out_there_today_where_a_terr.mp3
-  "Francine, you'll be very careful out there today. Where a terror alert orange."
+  "Terror alert orange"
   CHARACTER: 
 
 011_god_damn_it_he_s_gonna_pee_no_no_no_nope_just_asked.mp3
-  "God damn it, he's gonna pee. No, no, no, Nope. Just asked."
+  "He's gonna pee"
   CHARACTER: 
 
 012_haley_haley_wake_up_i_fell_asleep_i_had_a_sugar_crash_and_i.mp3
-  "Haley, Haley, wake up. I fell asleep. I had a sugar crash and I fell asleep and I didn't do the paper."
+  "I didn't do the paper"
   CHARACTER: 
 
 013_happy_hour.mp3
@@ -63,7 +63,7 @@
   CHARACTER: 
 
 017_hey_you_think_that_diploma_will_help_you_land_a_better_secti.mp3
-  "Hey, you think that diploma will help you land a better section when you're waitressing at the Olive Garden?"
+  "Waitressing at the Olive Garden"
   CHARACTER: 
 
 018_i_forgot.mp3
@@ -75,11 +75,11 @@
   CHARACTER: 
 
 020_i_want_to_come_back_to_my_apartment_and_pet_my_schnauzer_ok.mp3
-  "I want to come back to my apartment and pet my schnauzer, OK? And then we can play with this dog."
+  "Pet my schnauzer"
   CHARACTER: 
 
 021_i_m_thinking_of_cutting_third_steve_you_in_yeah_as_long_as_i.mp3
-  "I'm thinking of cutting third Steve, you in. Yeah, as long as I'm back by 4th, Steve."
+  "Cutting third Steve"
   CHARACTER: 
 
 022_it_s_not_as_good_the_second_time.mp3
@@ -95,7 +95,7 @@
   CHARACTER: 
 
 025_oh_my_god_my_mom_always_caught_me_throwing_up_last_night_and.mp3
-  "Oh my God, my mom always caught me throwing up last night and she's like, hey, my purse."
+  "Hey, my purse"
   CHARACTER: 
 
 026_oh_my_god_score_score_score_score.mp3
@@ -111,11 +111,11 @@
   CHARACTER: 
 
 029_oh_we_just_signed_a_contract_with_ikea_to_furnish_a_rack.mp3
-  "Oh, we just signed a contract with IKEA to furnish a rack."
+  "A contract with IKEA"
   CHARACTER: 
 
 030_oh_you_know_i_was_gonna_do_it_yesterday_but_i_got_distracted.mp3
-  "Oh, you know, I was gonna do it yesterday, but I got distracted."
+  "I got distracted"
   CHARACTER: 
 
 031_oh_my_god_how_good_are_these.mp3
@@ -135,15 +135,15 @@
   CHARACTER: 
 
 035_so_if_it_s_a_statement_it_should_always_be_followed_by_a_ste.mp3
-  "So if it's a statement, it should always be followed by a Steve."
+  "Followed by a Steve"
   CHARACTER: 
 
 036_steve_s_big_boy_hair_isn_t_going_to_come_in_any_faster_with.mp3
-  "Steve's big boy hair isn't going to come in any faster with you taunting him."
+  "Steve's big boy hair"
   CHARACTER: 
 
 037_sure_you_can_vote_for_shelley_maxwell_if_you_don_t_mind_voti.mp3
-  "Sure, you can vote for Shelley Maxwell if you don't mind voting for a prostitute."
+  "Voting for a prostitute"
   CHARACTER: 
 
 038_that_s_my_boy.mp3
@@ -151,11 +151,11 @@
   CHARACTER: 
 
 039_which_means_something_might_go_down_somewhere_in_some_way_at.mp3
-  "Which means something might go down somewhere in some way at some point in time, so look sharp."
+  "Look sharp"
   CHARACTER: 
 
 040_whoa_you_hear_that_hillary_looks_like_you_re_a_winner_with_s.mp3
-  "Whoa, you hear that, Hillary? Looks like you're a winner with Steve."
+  "A winner with Steve"
   CHARACTER: 
 
 041_yeah_baby.mp3
@@ -191,7 +191,7 @@
   CHARACTER: 
 
 049_can_t_believe_i_am_going_to_a_dance_with_a_nerd.mp3
-  "Can't believe I am going to a dance with a nerd"
+  "A dance with a nerd"
   CHARACTER: 
 
 050_christmas_isn_t_something_we_skip.mp3
@@ -271,7 +271,7 @@
   CHARACTER: 
 
 069_i_am_sure_he_is_just_waiting_for_the_perfect_time.mp3
-  "I am sure he is just waiting for the perfect time"
+  "Waiting for the perfect time"
   CHARACTER: 
 
 070_i_did_a_great_job.mp3
@@ -291,7 +291,7 @@
   CHARACTER: 
 
 074_i_wanted_to_talk_to_you_about_what_you_just_saw.mp3
-  "I wanted to talk to you about what you just saw"
+  "About what you just saw"
   CHARACTER: 
 
 075_i_m_done.mp3
@@ -451,7 +451,7 @@
   CHARACTER: 
 
 114_the_only_girl_in_the_office_who_looks_good_in_the_business_s.mp3
-  "The only girl in the office who looks good in the business suit"
+  "Good in the business suit"
   CHARACTER: 
 
 115_things_are_always_what_they_appear.mp3

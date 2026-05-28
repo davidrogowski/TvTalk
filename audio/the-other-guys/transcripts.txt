@@ -55,7 +55,7 @@
   CHARACTER: 
 
 015_did_that_go_the_way_you_thought_it_was_going_to_go.mp3
-  "Did That Go The Way You Thought It Was Going To Go?"
+  "Did that go the way you thought?"
   CHARACTER: 
 
 016_does_not_approve.mp3
@@ -131,11 +131,11 @@
   CHARACTER: 
 
 034_i_just_don_t_want_to_feel_like_that_out_of_control_ever_agai.mp3
-  "I just don't want to feel like that out of control ever again"
+  "Out of control again"
   CHARACTER: 
 
 035_i_made_a_promise_to_her_i_would_never_get_out_of_control_aga.mp3
-  "I made a promise to her I would never get out of control again"
+  "I made a promise"
   CHARACTER: 
 
 036_i_wanna_go.mp3
@@ -311,7 +311,7 @@
   CHARACTER: 
 
 079_you_guys_are_fighting_over_who_s_going_to_be_the_next_hotsho.mp3
-  "You guys are fighting over who's going to be the next hotshot"
+  "The next hotshot"
   CHARACTER: 
 
 080_you_thinking_what_i_m_thinking_partner.mp3

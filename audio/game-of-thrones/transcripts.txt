@@ -15,7 +15,7 @@
   CHARACTER: 
 
 005_a_lion_doesn_t_concern_himself_with_the_opinions_of_a_sheep.mp3
-  "A lion doesn't concern himself with the opinions of a sheep"
+  "Opinions of a sheep"
   CHARACTER: 
 
 006_a_toast_to_the_lannister_children.mp3
@@ -39,7 +39,7 @@
   CHARACTER: 
 
 011_almost_feels_as_if_you_are_about_to_arrive_at_the_point.mp3
-  "Almost feels as if you are about to arrive at the point"
+  "Arrive at the point"
   CHARACTER: 
 
 012_and_now_it_begins.mp3
@@ -67,7 +67,7 @@
   CHARACTER: 
 
 018_better_to_be_a_coward_for_a_minute_than_dead_for_a_life.mp3
-  "Better to be a coward for a minute than dead for a life"
+  "Coward for a minute"
   CHARACTER: 
 
 019_blackfish_likes_wet_shits_more_than_waldur_frey.mp3
@@ -295,7 +295,7 @@
   CHARACTER: 
 
 075_have_you_ever_considered_learning_how_to_lie_every_now_and_t.mp3
-  "Have you ever considered learning how to lie every now and then"
+  "Learn how to lie"
   CHARACTER: 
 
 076_he_sounds_like_quite_a_man.mp3
@@ -331,7 +331,7 @@
   CHARACTER: 
 
 084_i_am_about_to_step_into_a_room_with_a_most_murderous_woman_i.mp3
-  "I am about to step into a room with a most murderous woman in the world"
+  "Most murderous woman"
   CHARACTER: 
 
 085_i_am_an_excellent_judge_of_character.mp3
@@ -439,7 +439,7 @@
   CHARACTER: 
 
 111_i_was_born_to_rule_the_seven_kingdoms_and_i_will.mp3
-  "I was born to rule the seven kingdoms and i will"
+  "Born to rule the seven kingdoms"
   CHARACTER: 
 
 112_i_will_be_your_champion.mp3
@@ -475,7 +475,7 @@
   CHARACTER: 
 
 120_i_m_no_king_but_if_i_were_i_d_knight_you_10x_over.mp3
-  "I'm no king, but if I were, I'd knight you 10x over"
+  "I'd knight you ten times over"
   CHARACTER: 
 
 121_i_m_not_tired.mp3
@@ -487,7 +487,7 @@
   CHARACTER: 
 
 123_i_m_going_to_light_the_biggest_fire_the_north_has_ever_seen.mp3
-  "I’m Going to Light the Biggest Fire the North Has Ever Seen"
+  "The biggest fire the North has seen"
   CHARACTER: 
 
 124_i_ve_been_sitting_here_for_days.mp3
@@ -503,7 +503,7 @@
   CHARACTER: 
 
 127_if_i_want_jokes_i_will_get_myself_a_proper_fool.mp3
-  "If I want jokes I will get myself a proper fool"
+  "I will get a proper fool"
   CHARACTER: 
 
 128_if_you_think_this_has_a_happy_ending.mp3
@@ -523,7 +523,7 @@
   CHARACTER: 
 
 132_it_is_time_i_ate_some_of_this_food_i_paid_for.mp3
-  "It is time I ate some of this food I paid for"
+  "The food I paid for"
   CHARACTER: 
 
 133_it_was_so_beautiful_and_you_were_so_beautiful.mp3
@@ -571,7 +571,7 @@
   CHARACTER: 
 
 144_man_who_fights_for_gold_can_t_afford_to_lose_to_a_girl.mp3
-  "Man who fights for gold can't afford to lose to a girl"
+  "Can't afford to lose to a girl"
   CHARACTER: 
 
 145_margaery_tyrell_women_like_different_men.mp3
@@ -619,7 +619,7 @@
   CHARACTER: 
 
 156_no_need_to_seize_the_last_word_i_ll_assume_it_was_something.mp3
-  "No need to seize the last word, I'll assume it was something clever"
+  "Assume it was clever"
   CHARACTER: 
 
 157_no_one_here_by_that_name.mp3
@@ -707,7 +707,7 @@
   CHARACTER: 
 
 178_sandor_clegane_is_going_to_eat_your_chickens_long.mp3
-  "Sandor Clegane is going to eat your chickens (long)"
+  "Eat your chickens (long)"
   CHARACTER: 
 
 179_seduce_away.mp3
@@ -883,11 +883,11 @@
   CHARACTER: 
 
 222_this_is_the_only_thing_i_have_ever_seen_that_terrifies_me.mp3
-  "This is the only thing i have ever seen that terrifies me"
+  "The only thing that terrifies me"
   CHARACTER: 
 
 223_this_is_what_i_want_to_do_for_the_rest_of_my_life.mp3
-  "This is what I want to do for the rest of my life"
+  "For the rest of my life"
   CHARACTER: 
 
 224_titles_titles.mp3
@@ -955,7 +955,7 @@
   CHARACTER: 
 
 240_we_are_a_group_of_people_who_do_not_like_one_another.mp3
-  "We are a group of people who do not like one another"
+  "We do not like one another"
   CHARACTER: 
 
 241_we_are_entirely_capable_of_waging_war_against_each_other.mp3

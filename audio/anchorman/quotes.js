@@ -6,7 +6,7 @@ const quotes = [
     "audioUrl": "audio/anchorman/001_afternoon_delight.mp3"
   },
   {
-    "text": "Al now brown cow how now brown cow al now brown cow",
+    "text": "How now brown cow",
     "character": "",
     "audioUrl": "audio/anchorman/002_al_now_brown_cow_how_now_brown_cow_al_now_brown_cow.mp3"
   },
@@ -86,7 +86,7 @@ const quotes = [
     "audioUrl": "audio/anchorman/017_brick_yells.mp3"
   },
   {
-    "text": "But a home i mean where in all of god 's green goodness",
+    "text": "God's green goodness",
     "character": "",
     "audioUrl": "audio/anchorman/018_but_a_home_i_mean_where_in_all_of_god_s_green_goodness.mp3"
   },
@@ -231,7 +231,7 @@ const quotes = [
     "audioUrl": "audio/anchorman/046_i_friggin_love_you.mp3"
   },
   {
-    "text": "I friggin love you (full)",
+    "text": "I friggin' love you (full)",
     "character": "",
     "audioUrl": "audio/anchorman/047_i_friggin_love_you_full.mp3"
   },
@@ -261,7 +261,7 @@ const quotes = [
     "audioUrl": "audio/anchorman/052_i_like_the_way_your_put_together.mp3"
   },
   {
-    "text": "I look good i mean really good everyone coming feel goo",
+    "text": "I look really good",
     "character": "",
     "audioUrl": "audio/anchorman/053_i_look_good_i_mean_really_good_everyone_coming_feel_goo.mp3"
   },
@@ -306,7 +306,7 @@ const quotes = [
     "audioUrl": "audio/anchorman/061_i_nailed_it.mp3"
   },
   {
-    "text": "I pure straight hate you. But God damnit do I respect you",
+    "text": "I hate you but respect you",
     "character": "",
     "audioUrl": "audio/anchorman/062_i_pure_straight_hate_you_but_god_damnit_do_i_respect_you.mp3"
   },
@@ -381,7 +381,7 @@ const quotes = [
     "audioUrl": "audio/anchorman/076_i_m_ron_burgundy.mp3"
   },
   {
-    "text": "If I were to give you some money out of my wallet, would that ease the pain?",
+    "text": "Money to ease the pain?",
     "character": "",
     "audioUrl": "audio/anchorman/077_if_i_were_to_give_you_some_money_out_of_my_wallet_would_that.mp3"
   },
@@ -581,7 +581,7 @@ const quotes = [
     "audioUrl": "audio/anchorman/116_smells_like_bigfoot_s_dick.mp3"
   },
   {
-    "text": "Son of a bee sting she's turning the entire office agai",
+    "text": "Son of a bee sting",
     "character": "",
     "audioUrl": "audio/anchorman/117_son_of_a_bee_sting_she_s_turning_the_entire_office_agai.mp3"
   },
@@ -711,7 +711,7 @@ const quotes = [
     "audioUrl": "audio/anchorman/142_you_are_acting_like_a_baby.mp3"
   },
   {
-    "text": "You are not a man, you are a big fat joke",
+    "text": "A big fat joke",
     "character": "",
     "audioUrl": "audio/anchorman/143_you_are_not_a_man_you_are_a_big_fat_joke.mp3"
   },

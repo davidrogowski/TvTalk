@@ -16,7 +16,7 @@ const quotes = [
     "audioUrl": "audio/american-dad/003_at_gazuntech.mp3"
   },
   {
-    "text": "Basically, the whole country is gonna look like your first apartment.",
+    "text": "Like your first apartment",
     "character": "",
     "audioUrl": "audio/american-dad/004_basically_the_whole_country_is_gonna_look_like_your_first_ap.mp3"
   },
@@ -41,22 +41,22 @@ const quotes = [
     "audioUrl": "audio/american-dad/008_did_you_see_memento.mp3"
   },
   {
-    "text": "Don't play coy you cardigan Jezebel. I have photographic evidence of you having sexual relations with a jack-in-the-box man.",
+    "text": "You cardigan Jezebel",
     "character": "",
     "audioUrl": "audio/american-dad/009_don_t_play_coy_you_cardigan_jezebel_i_have_photographic_evid.mp3"
   },
   {
-    "text": "Francine, you'll be very careful out there today. Where a terror alert orange.",
+    "text": "Terror alert orange",
     "character": "",
     "audioUrl": "audio/american-dad/010_francine_you_ll_be_very_careful_out_there_today_where_a_terr.mp3"
   },
   {
-    "text": "God damn it, he's gonna pee. No, no, no, Nope. Just asked.",
+    "text": "He's gonna pee",
     "character": "",
     "audioUrl": "audio/american-dad/011_god_damn_it_he_s_gonna_pee_no_no_no_nope_just_asked.mp3"
   },
   {
-    "text": "Haley, Haley, wake up. I fell asleep. I had a sugar crash and I fell asleep and I didn't do the paper.",
+    "text": "I didn't do the paper",
     "character": "",
     "audioUrl": "audio/american-dad/012_haley_haley_wake_up_i_fell_asleep_i_had_a_sugar_crash_and_i.mp3"
   },
@@ -81,7 +81,7 @@ const quotes = [
     "audioUrl": "audio/american-dad/016_hey_listen_mom_dad_can_i_have_a_dog.mp3"
   },
   {
-    "text": "Hey, you think that diploma will help you land a better section when you're waitressing at the Olive Garden?",
+    "text": "Waitressing at the Olive Garden",
     "character": "",
     "audioUrl": "audio/american-dad/017_hey_you_think_that_diploma_will_help_you_land_a_better_secti.mp3"
   },
@@ -96,12 +96,12 @@ const quotes = [
     "audioUrl": "audio/american-dad/019_i_have_to_study_for_my_term_paper.mp3"
   },
   {
-    "text": "I want to come back to my apartment and pet my schnauzer, OK? And then we can play with this dog.",
+    "text": "Pet my schnauzer",
     "character": "",
     "audioUrl": "audio/american-dad/020_i_want_to_come_back_to_my_apartment_and_pet_my_schnauzer_ok.mp3"
   },
   {
-    "text": "I'm thinking of cutting third Steve, you in. Yeah, as long as I'm back by 4th, Steve.",
+    "text": "Cutting third Steve",
     "character": "",
     "audioUrl": "audio/american-dad/021_i_m_thinking_of_cutting_third_steve_you_in_yeah_as_long_as_i.mp3"
   },
@@ -121,7 +121,7 @@ const quotes = [
     "audioUrl": "audio/american-dad/024_no_roger_you_cannot_borrow_the_car.mp3"
   },
   {
-    "text": "Oh my God, my mom always caught me throwing up last night and she's like, hey, my purse.",
+    "text": "Hey, my purse",
     "character": "",
     "audioUrl": "audio/american-dad/025_oh_my_god_my_mom_always_caught_me_throwing_up_last_night_and.mp3"
   },
@@ -141,12 +141,12 @@ const quotes = [
     "audioUrl": "audio/american-dad/028_oh_oh_sorry_about_that.mp3"
   },
   {
-    "text": "Oh, we just signed a contract with IKEA to furnish a rack.",
+    "text": "A contract with IKEA",
     "character": "",
     "audioUrl": "audio/american-dad/029_oh_we_just_signed_a_contract_with_ikea_to_furnish_a_rack.mp3"
   },
   {
-    "text": "Oh, you know, I was gonna do it yesterday, but I got distracted.",
+    "text": "I got distracted",
     "character": "",
     "audioUrl": "audio/american-dad/030_oh_you_know_i_was_gonna_do_it_yesterday_but_i_got_distracted.mp3"
   },
@@ -171,17 +171,17 @@ const quotes = [
     "audioUrl": "audio/american-dad/034_rigging_elections_is_my_bread_and_butter_roger.mp3"
   },
   {
-    "text": "So if it's a statement, it should always be followed by a Steve.",
+    "text": "Followed by a Steve",
     "character": "",
     "audioUrl": "audio/american-dad/035_so_if_it_s_a_statement_it_should_always_be_followed_by_a_ste.mp3"
   },
   {
-    "text": "Steve's big boy hair isn't going to come in any faster with you taunting him.",
+    "text": "Steve's big boy hair",
     "character": "",
     "audioUrl": "audio/american-dad/036_steve_s_big_boy_hair_isn_t_going_to_come_in_any_faster_with.mp3"
   },
   {
-    "text": "Sure, you can vote for Shelley Maxwell if you don't mind voting for a prostitute.",
+    "text": "Voting for a prostitute",
     "character": "",
     "audioUrl": "audio/american-dad/037_sure_you_can_vote_for_shelley_maxwell_if_you_don_t_mind_voti.mp3"
   },
@@ -191,12 +191,12 @@ const quotes = [
     "audioUrl": "audio/american-dad/038_that_s_my_boy.mp3"
   },
   {
-    "text": "Which means something might go down somewhere in some way at some point in time, so look sharp.",
+    "text": "Look sharp",
     "character": "",
     "audioUrl": "audio/american-dad/039_which_means_something_might_go_down_somewhere_in_some_way_at.mp3"
   },
   {
-    "text": "Whoa, you hear that, Hillary? Looks like you're a winner with Steve.",
+    "text": "A winner with Steve",
     "character": "",
     "audioUrl": "audio/american-dad/040_whoa_you_hear_that_hillary_looks_like_you_re_a_winner_with_s.mp3"
   },
@@ -241,7 +241,7 @@ const quotes = [
     "audioUrl": "audio/american-dad/048_calling_dad.mp3"
   },
   {
-    "text": "Can't believe I am going to a dance with a nerd",
+    "text": "A dance with a nerd",
     "character": "",
     "audioUrl": "audio/american-dad/049_can_t_believe_i_am_going_to_a_dance_with_a_nerd.mp3"
   },
@@ -341,7 +341,7 @@ const quotes = [
     "audioUrl": "audio/american-dad/068_i_am_just_so_hung_over.mp3"
   },
   {
-    "text": "I am sure he is just waiting for the perfect time",
+    "text": "Waiting for the perfect time",
     "character": "",
     "audioUrl": "audio/american-dad/069_i_am_sure_he_is_just_waiting_for_the_perfect_time.mp3"
   },
@@ -366,7 +366,7 @@ const quotes = [
     "audioUrl": "audio/american-dad/073_i_promise_stuff_all_the_time_it_means_nothing.mp3"
   },
   {
-    "text": "I wanted to talk to you about what you just saw",
+    "text": "About what you just saw",
     "character": "",
     "audioUrl": "audio/american-dad/074_i_wanted_to_talk_to_you_about_what_you_just_saw.mp3"
   },
@@ -566,7 +566,7 @@ const quotes = [
     "audioUrl": "audio/american-dad/113_that_s_what_your_mom_said_last_night.mp3"
   },
   {
-    "text": "The only girl in the office who looks good in the business suit",
+    "text": "Good in the business suit",
     "character": "",
     "audioUrl": "audio/american-dad/114_the_only_girl_in_the_office_who_looks_good_in_the_business_s.mp3"
   },

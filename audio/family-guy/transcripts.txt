@@ -643,7 +643,7 @@
   CHARACTER: 
 
 162_grimace_mcdonalds.mp3
-  "Grimace (McDonalds)"
+  "Grimace"
   CHARACTER: 
 
 163_guess_who.mp3
@@ -847,7 +847,7 @@
   CHARACTER: 
 
 213_holy_crap_here_comes_jesus_and_he_doesn_t_look_too_happy.mp3
-  "Holy crap here comes Jesus, and he doesn't look too happy"
+  "Here comes Jesus"
   CHARACTER: 
 
 214_horse_licking_peter_s_butt.mp3
@@ -983,7 +983,7 @@
   CHARACTER: 
 
 247_i_love_you_flowers.mp3
-  "I love you (Flowers)"
+  "I love you"
   CHARACTER: 
 
 248_i_need_help_unloading_the_groceries.mp3
@@ -1083,7 +1083,7 @@
   CHARACTER: 
 
 272_if_you_re_gonna_hit_the_king_you_better_kill_the_king.mp3
-  "If you're gonna hit the king, you better kill the king"
+  "Kill the king"
   CHARACTER: 
 
 273_in_your_face.mp3
@@ -1759,7 +1759,7 @@
   CHARACTER: 
 
 441_so_busy_i_don_t_have_time_to_organize_my_own_life.mp3
-  "So busy I don't have time to organize my own life"
+  "No time for my own life"
   CHARACTER: 
 
 442_space_dog_dance.mp3
@@ -1931,7 +1931,7 @@
   CHARACTER: 
 
 484_this_is_the_second_vacation_that_i_have_watched_every_jurass.mp3
-  "This is the second vacation that I have watched every Jurassic Park"
+  "Watched every Jurassic Park"
   CHARACTER: 
 
 485_this_is_what_my_class_will_be.mp3
@@ -1955,7 +1955,7 @@
   CHARACTER: 
 
 490_uh_yeah_what_do_you_think_i_keep_in_this_backpack.mp3
-  "Uh yeah, what do you think I keep in this backpack"
+  "What's in this backpack?"
   CHARACTER: 
 
 491_untruthful.mp3
@@ -2163,7 +2163,7 @@
   CHARACTER: 
 
 542_you_could_freeze_some_of_your_sperm_at_a_sperm_bank.mp3
-  "You could freeze some of your sperm at a sperm bank"
+  "Freeze your sperm"
   CHARACTER: 
 
 543_you_dick.mp3

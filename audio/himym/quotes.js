@@ -246,7 +246,7 @@ const quotes = [
     "audioUrl": "audio/himym/049_i_forbid_you_from_calling_her.mp3"
   },
   {
-    "text": "I need to go home reevaluate how I make life decisions",
+    "text": "Reevaluate my life decisions",
     "character": "",
     "audioUrl": "audio/himym/050_i_need_to_go_home_reevaluate_how_i_make_life_decisions.mp3"
   },
@@ -326,7 +326,7 @@ const quotes = [
     "audioUrl": "audio/himym/065_let_s_dance.mp3"
   },
   {
-    "text": "Living in America (Barney Stinson)",
+    "text": "Living in America",
     "character": "",
     "audioUrl": "audio/himym/066_living_in_america_barney_stinson.mp3"
   },
@@ -461,7 +461,7 @@ const quotes = [
     "audioUrl": "audio/himym/092_that_s_the_dream.mp3"
   },
   {
-    "text": "Thats a penis! (Slow motion)",
+    "text": "That's a penis!",
     "character": "",
     "audioUrl": "audio/himym/093_thats_a_penis_slow_motion.mp3"
   },
@@ -471,7 +471,7 @@ const quotes = [
     "audioUrl": "audio/himym/094_thats_what_your_mom_said.mp3"
   },
   {
-    "text": "There will be no slap today (Slapsgiving)",
+    "text": "No slap today",
     "character": "",
     "audioUrl": "audio/himym/095_there_will_be_no_slap_today_slapsgiving.mp3"
   },
@@ -556,12 +556,12 @@ const quotes = [
     "audioUrl": "audio/himym/111_worst_idea_ever.mp3"
   },
   {
-    "text": "You can slap him (Slapsgiving)",
+    "text": "You can slap him",
     "character": "",
     "audioUrl": "audio/himym/112_you_can_slap_him_slapsgiving.mp3"
   },
   {
-    "text": "You just got slapped (chorus)",
+    "text": "You just got slapped",
     "character": "",
     "audioUrl": "audio/himym/113_you_just_got_slapped_chorus.mp3"
   },

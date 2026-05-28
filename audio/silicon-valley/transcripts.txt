@@ -59,7 +59,7 @@
   CHARACTER: 
 
 016_bachman_vs_jing_yang_silicon_valley_compilation.mp3
-  "Bachman vs Jing Yang (Silicon Valley Compilation)"
+  "Bachman vs Jian Yang"
   CHARACTER: 
 
 017_back_to_normal.mp3
@@ -155,7 +155,7 @@
   CHARACTER: 
 
 040_erlich_bachman_this_is_your_mom_you_are_not_my_baby.mp3
-  "Erlich Bachman, this is your mom, you are not my baby"
+  "You are not my baby"
   CHARACTER: 
 
 041_erlich_nice_using_that_dick.mp3
@@ -271,11 +271,11 @@
   CHARACTER: 
 
 069_i_don_t_want_to_count_our_chickens_before_they_hatch_but.mp3
-  "I don't want to count our chickens before they hatch but"
+  "Don't count our chickens"
   CHARACTER: 
 
 070_i_eat_the_fish_jian_yang.mp3
-  "I eat the fish (Jian Yang)"
+  "I eat the fish"
   CHARACTER: 
 
 071_i_hope_i_don_t_end_up_fired_over_this.mp3
@@ -315,7 +315,7 @@
   CHARACTER: 
 
 080_i_want_to_know_what_kind_of_childhood_this_guy_had.mp3
-  "I want to know what kind of childhood this guy had"
+  "What kind of childhood"
   CHARACTER: 
 
 081_i_was_right.mp3
@@ -407,7 +407,7 @@
   CHARACTER: 
 
 103_is_this_a_good_thing_or_a_bad_thing_someone_tell_me_how_to_f.mp3
-  "Is this a good thing or a bad thing? Someone tell me how to feel"
+  "Tell me how to feel"
   CHARACTER: 
 
 104_is_this_new_internet_the_man_of_your_dreams.mp3
@@ -487,7 +487,7 @@
   CHARACTER: 
 
 123_maybe_we_can_take_a_day_and_soak_it_in_hawk_urine.mp3
-  "Maybe we can take a day and soak it in hawk urine"
+  "Soak it in hawk urine"
   CHARACTER: 
 
 124_mf.mp3
@@ -495,7 +495,7 @@
   CHARACTER: 
 
 125_monahan_swallow_your_pride_or_you_will_be_eating_something_w.mp3
-  "Monahan: Swallow your pride, or you will be eating something worse than shit"
+  "Swallow your pride"
   CHARACTER: 
 
 126_monahan_s_describes_his_loss_of_control.mp3
@@ -683,7 +683,7 @@
   CHARACTER: 
 
 173_that_s_a_kind_invitation_but_i_have_too_much_to_do.mp3
-  "That's a kind invitation but I have too much to do"
+  "Too much to do"
   CHARACTER: 
 
 174_that_s_the_frothiest_space_in_the_valley.mp3
@@ -703,7 +703,7 @@
   CHARACTER: 
 
 178_there_are_very_few_things_i_will_defend_with_true_passion.mp3
-  "There are very few things I will defend with true passion"
+  "I defend with true passion"
   CHARACTER: 
 
 179_there_s_no_possible_way_we_can_pay_that.mp3

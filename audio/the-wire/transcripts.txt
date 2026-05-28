@@ -35,7 +35,7 @@
   CHARACTER: 
 
 010_did_he_have_hands_did_he_have_a_face_then_it_wasn_t_us.mp3
-  "Did He Have Hands? Did He Have a Face? Then it Wasn't Us"
+  "Then it wasn't us"
   CHARACTER: 
 
 011_do_it_or_don_t.mp3
@@ -59,11 +59,11 @@
   CHARACTER: 
 
 016_i_swear_to_fucking_christ_we_we_will_beat_you_longer.mp3
-  "I Swear To Fucking Christ, We We Will Beat You Longer"
+  "We will beat you longer"
   CHARACTER: 
 
 017_i_ll_take_any_mother_fucker_s_money_if_he_s_giving_it_away.mp3
-  "I'll Take Any Mother Fucker's Money If He's Giving It Away"
+  "I'll take any money"
   CHARACTER: 
 
 018_if_i_hear_the_music_i_m_gonna_dance.mp3
@@ -179,7 +179,7 @@
   CHARACTER: 
 
 046_worrying_about_you_would_be_like_wondering_if_the_sun_gonna.mp3
-  "Worrying About You Would Be like wondering if the Sun Gonna Come Up"
+  "Worrying about you"
   CHARACTER: 
 
 047_yo_the_man_asked_you_a_simple_question.mp3
@@ -199,5 +199,5 @@
   CHARACTER: 
 
 051_you_d_rather_live_in_shit_than_let_the_world_see_you_work_a.mp3
-  "You'd Rather Live in Shit than Let the World See You Work a Shovel"
+  "Rather live in shit"
   CHARACTER: 

@@ -46,7 +46,7 @@ const quotes = [
     "audioUrl": "audio/the-wire/009_but_if_you_start_to_follow_the_money.mp3"
   },
   {
-    "text": "Did He Have Hands? Did He Have a Face? Then it Wasn't Us",
+    "text": "Then it wasn't us",
     "character": "",
     "audioUrl": "audio/the-wire/010_did_he_have_hands_did_he_have_a_face_then_it_wasn_t_us.mp3"
   },
@@ -76,12 +76,12 @@ const quotes = [
     "audioUrl": "audio/the-wire/015_i_see_a_man_without_a_country.mp3"
   },
   {
-    "text": "I Swear To Fucking Christ, We We Will Beat You Longer",
+    "text": "We will beat you longer",
     "character": "",
     "audioUrl": "audio/the-wire/016_i_swear_to_fucking_christ_we_we_will_beat_you_longer.mp3"
   },
   {
-    "text": "I'll Take Any Mother Fucker's Money If He's Giving It Away",
+    "text": "I'll take any money",
     "character": "",
     "audioUrl": "audio/the-wire/017_i_ll_take_any_mother_fucker_s_money_if_he_s_giving_it_away.mp3"
   },
@@ -226,7 +226,7 @@ const quotes = [
     "audioUrl": "audio/the-wire/045_where_s_wallace.mp3"
   },
   {
-    "text": "Worrying About You Would Be like wondering if the Sun Gonna Come Up",
+    "text": "Worrying about you",
     "character": "",
     "audioUrl": "audio/the-wire/046_worrying_about_you_would_be_like_wondering_if_the_sun_gonna.mp3"
   },
@@ -251,7 +251,7 @@ const quotes = [
     "audioUrl": "audio/the-wire/050_you_mcnulty_are_a_gaping_asshole.mp3"
   },
   {
-    "text": "You'd Rather Live in Shit than Let the World See You Work a Shovel",
+    "text": "Rather live in shit",
     "character": "",
     "audioUrl": "audio/the-wire/051_you_d_rather_live_in_shit_than_let_the_world_see_you_work_a.mp3"
   }

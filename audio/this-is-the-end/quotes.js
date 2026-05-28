@@ -11,12 +11,12 @@ const quotes = [
     "audioUrl": "audio/this-is-the-end/002_bang_bang_your_e_dead.mp3"
   },
   {
-    "text": "Bang, bang, bang, you're dead. Pow, pow, pow. Stop, guys. Stop fucking with the gun.",
+    "text": "Stop fucking with the gun",
     "character": "",
     "audioUrl": "audio/this-is-the-end/003_bang_bang_bang_you_re_dead_pow_pow_pow_stop_guys_stop_fuckin.mp3"
   },
   {
-    "text": "Because if you want me to tell you fuck you, I will so good. Ohh you love.",
+    "text": "I will fuck you so good",
     "character": "",
     "audioUrl": "audio/this-is-the-end/004_because_if_you_want_me_to_tell_you_fuck_you_i_will_so_good_o.mp3"
   },
@@ -51,7 +51,7 @@ const quotes = [
     "audioUrl": "audio/this-is-the-end/010_good_morning_sunshine.mp3"
   },
   {
-    "text": "Guys, guys, wake up. Danny's alive. He's eating all the fucking phone.",
+    "text": "He's eating the phone",
     "character": "",
     "audioUrl": "audio/this-is-the-end/011_guys_guys_wake_up_danny_s_alive_he_s_eating_all_the_fucking.mp3"
   },
@@ -61,7 +61,7 @@ const quotes = [
     "audioUrl": "audio/this-is-the-end/012_he_s_eating_all_the_fucking_food.mp3"
   },
   {
-    "text": "Heading fucking Tatum. I found him wandering on the freeway. I collected them, made my bitch get off my Dick.",
+    "text": "Channing Tatum on the freeway",
     "character": "",
     "audioUrl": "audio/this-is-the-end/013_heading_fucking_tatum_i_found_him_wandering_on_the_freeway_i.mp3"
   },
@@ -81,7 +81,7 @@ const quotes = [
     "audioUrl": "audio/this-is-the-end/016_i_have_a_particularly_explosive_ejaculate_it_just_goes_every.mp3"
   },
   {
-    "text": "I say unto thee. The power of Christ compels you. Doesn't compel me.",
+    "text": "The power of Christ compels you",
     "character": "",
     "audioUrl": "audio/this-is-the-end/017_i_say_unto_thee_the_power_of_christ_compels_you_doesn_t_comp.mp3"
   },
@@ -116,12 +116,12 @@ const quotes = [
     "audioUrl": "audio/this-is-the-end/023_milky_way.mp3"
   },
   {
-    "text": "Oh my God, you guys are alive. You're actually alive, thank God.",
+    "text": "You're actually alive",
     "character": "",
     "audioUrl": "audio/this-is-the-end/024_oh_my_god_you_guys_are_alive_you_re_actually_alive_thank_god.mp3"
   },
   {
-    "text": "Please get the fuck out of here. Well. Fuck you, Kevin.",
+    "text": "Fuck you, Kevin",
     "character": "",
     "audioUrl": "audio/this-is-the-end/025_please_get_the_fuck_out_of_here_well_fuck_you_kevin.mp3"
   },
@@ -186,7 +186,7 @@ const quotes = [
     "audioUrl": "audio/this-is-the-end/038_who_wants_a_sip.mp3"
   },
   {
-    "text": "You can't just leave him out there and die. Are you crazy?",
+    "text": "You can't leave him to die",
     "character": "",
     "audioUrl": "audio/this-is-the-end/039_you_can_t_just_leave_him_out_there_and_die_are_you_crazy.mp3"
   },

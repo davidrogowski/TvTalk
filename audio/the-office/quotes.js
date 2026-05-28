@@ -586,7 +586,7 @@ const quotes = [
     "audioUrl": "audio/the-office/117_i_am_really_proud_of_you.mp3"
   },
   {
-    "text": "I brought you into this world and I can take you out",
+    "text": "I can take you out",
     "character": "",
     "audioUrl": "audio/the-office/118_i_brought_you_into_this_world_and_i_can_take_you_out.mp3"
   },
@@ -606,7 +606,7 @@ const quotes = [
     "audioUrl": "audio/the-office/121_i_declare_bankruptcy.mp3"
   },
   {
-    "text": "I do my best work when people don't believe in me",
+    "text": "When people don't believe in me",
     "character": "",
     "audioUrl": "audio/the-office/122_i_do_my_best_work_when_people_don_t_believe_in_me.mp3"
   },
@@ -656,7 +656,7 @@ const quotes = [
     "audioUrl": "audio/the-office/131_i_had_no_idea.mp3"
   },
   {
-    "text": "I hate so much about the things you choose to be",
+    "text": "The things you choose to be",
     "character": "",
     "audioUrl": "audio/the-office/132_i_hate_so_much_about_the_things_you_choose_to_be.mp3"
   },
@@ -731,12 +731,12 @@ const quotes = [
     "audioUrl": "audio/the-office/146_i_told_you_so.mp3"
   },
   {
-    "text": "I want the ketchup fights and the tickling and the giggling",
+    "text": "Ketchup fights and tickling",
     "character": "",
     "audioUrl": "audio/the-office/147_i_want_the_ketchup_fights_and_the_tickling_and_the_giggling.mp3"
   },
   {
-    "text": "I want you to get your ass out of my face",
+    "text": "Ass out of my face",
     "character": "",
     "audioUrl": "audio/the-office/148_i_want_you_to_get_your_ass_out_of_my_face.mp3"
   },
@@ -826,7 +826,7 @@ const quotes = [
     "audioUrl": "audio/the-office/165_if_onlys_and_justs_were_candies_and_nuts.mp3"
   },
   {
-    "text": "If someone gives you 10,000 to 1 on anything, you take it",
+    "text": "10,000 to 1, you take it",
     "character": "",
     "audioUrl": "audio/the-office/166_if_someone_gives_you_10_000_to_1_on_anything_you_take_it.mp3"
   },
@@ -836,7 +836,7 @@ const quotes = [
     "audioUrl": "audio/the-office/167_if_that_s_flashing_then_lock_me_up.mp3"
   },
   {
-    "text": "If We Did Something to Upset You I'm Sure it was Inadvertent",
+    "text": "It was inadvertent",
     "character": "",
     "audioUrl": "audio/the-office/168_if_we_did_something_to_upset_you_i_m_sure_it_was_inadvertent.mp3"
   },
@@ -1686,7 +1686,7 @@ const quotes = [
     "audioUrl": "audio/the-office/337_the_office_thank_you.mp3"
   },
   {
-    "text": "The office That’s what she said (slow)",
+    "text": "That's what she said (slow)",
     "character": "",
     "audioUrl": "audio/the-office/338_the_office_that_s_what_she_said_slow.mp3"
   },
@@ -1801,7 +1801,7 @@ const quotes = [
     "audioUrl": "audio/the-office/360_the_scarn_dance.mp3"
   },
   {
-    "text": "The stress of my modern office has caused me to go into depression",
+    "text": "Stress of my modern office",
     "character": "",
     "audioUrl": "audio/the-office/361_the_stress_of_my_modern_office_has_caused_me_to_go_into_depr.mp3"
   },
@@ -1816,7 +1816,7 @@ const quotes = [
     "audioUrl": "audio/the-office/363_these_are_our_demands.mp3"
   },
   {
-    "text": "This Has Been The Worst, Most Backwards Day Of My Life",
+    "text": "Worst day of my life",
     "character": "",
     "audioUrl": "audio/the-office/364_this_has_been_the_worst_most_backwards_day_of_my_life.mp3"
   },
@@ -1936,7 +1936,7 @@ const quotes = [
     "audioUrl": "audio/the-office/387_we_re_on_full_quarantine.mp3"
   },
   {
-    "text": "We're Screwed (Short)",
+    "text": "We're screwed (short)",
     "character": "",
     "audioUrl": "audio/the-office/388_we_re_screwed_short.mp3"
   },
@@ -2006,7 +2006,7 @@ const quotes = [
     "audioUrl": "audio/the-office/401_why_am_i_so_sad.mp3"
   },
   {
-    "text": "Why are you the way that you are? (long)",
+    "text": "Why are you the way you are? (long)",
     "character": "",
     "audioUrl": "audio/the-office/402_why_are_you_the_way_that_you_are_long.mp3"
   },

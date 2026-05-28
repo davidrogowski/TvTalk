@@ -7,11 +7,11 @@
   CHARACTER: 
 
 003_and_i_said_i_don_t_care_if_they_lay_me_off_either_because_i.mp3
-  "And I said I don't care if they lay me off either because I told I told them that if they move my death one more time and then and then i'm quitting i'm going to quit and that hold on to because th..."
+  "I'm going to quit"
   CHARACTER: 
 
 004_and_so_you_gonna_quit_no_not_really_i_m_just_going_to_stop_g.mp3
-  "And so you gonna quit no not really i'm just going to stop going"
+  "I'm just going to stop going"
   CHARACTER: 
 
 006_are_you_any_relation_to_the_pop_singer.mp3
@@ -19,7 +19,7 @@
   CHARACTER: 
 
 007_asking_some_questions_maybe_seeing_if_there_are_some_ways_we.mp3
-  "Asking some questions maybe seeing if there are some ways we can make things run a little more smoothly around here"
+  "Make things run more smoothly"
   CHARACTER: 
 
 008_back_up_in_your_ass_with_the_resurrection.mp3
@@ -27,7 +27,7 @@
   CHARACTER: 
 
 011_but_i_i_will_try_that_i_could_listen_to_the_radio_at_a_reaso.mp3
-  "But I i will try that I could listen to the radio at a reasonable volume"
+  "Radio at a reasonable volume"
   CHARACTER: 
 
 012_come_in_at_9.mp3
@@ -55,11 +55,11 @@
   CHARACTER: 
 
 021_excuse_me_lights_out.mp3
-  "Excuse Me (Lights Out)"
+  "Excuse me (lights out)"
   CHARACTER: 
 
 025_for_the_one_i_already_told_you_if_i_deal_with_the_god_damn_c.mp3
-  "For the one I already told you if I deal with the god damn customers so the engineers don't have to I have people skills I am good at dealing with people can't you understand that what the hell is ..."
+  "I have people skills"
   CHARACTER: 
 
 028_going_to_federal_pound_me_in_the_ass_prison.mp3
@@ -67,7 +67,7 @@
   CHARACTER: 
 
 029_good_luck_with_your_layoffs_alright_i_hope_your_firings_go_r.mp3
-  "Good luck with your layoffs alright I hope your firings go really well"
+  "Good luck with your layoffs"
   CHARACTER: 
 
 031_he_represents_all_that_is_solace_and_wrong.mp3
@@ -75,7 +75,7 @@
   CHARACTER: 
 
 032_he_represents_all_that_is_solace_and_wrong_and_you_slept_wit.mp3
-  "He represents all that is solace and wrong and you slept with him"
+  "You slept with him"
   CHARACTER: 
 
 035_hey_look_who_s_bad.mp3
@@ -87,15 +87,15 @@
   CHARACTER: 
 
 039_human_beings_were_not_meant_to_sit_in_little_cubicle_staring.mp3
-  "Human beings were not meant to sit in little cubicle staring at computer screens all day"
+  "Not meant to sit in cubicles"
   CHARACTER: 
 
 040_i_can_t_believe_what_a_bunch_of_nerds_we_are_we_re_looking_u.mp3
-  "I can't believe what a bunch of nerds we are we're looking up money laundering in a dictionary"
+  "Money laundering in a dictionary"
   CHARACTER: 
 
 041_i_did_nothing_i_did_absolutely_nothing_and_it_was_everything.mp3
-  "I did nothing I did absolutely nothing and it was everything that I thought it could be"
+  "I did absolutely nothing"
   CHARACTER: 
 
 042_i_do_want_to_express_myself.mp3
@@ -115,11 +115,11 @@
   CHARACTER: 
 
 046_i_hate_this_job_he_hated_doug_him_drop_it_i_don_t_need_it.mp3
-  "I hate this job he hated doug him drop it I don't need it"
+  "I hate this job"
   CHARACTER: 
 
 047_i_hate_this_job_i_hate_this_god_damn_job_and_i_don_t_need_it.mp3
-  "I hate this job I hate this god damn job and I don't need it"
+  "I hate this god damn job"
   CHARACTER: 
 
 048_i_have_people_skills.mp3
@@ -131,11 +131,11 @@
   CHARACTER: 
 
 050_i_know_how_you_get_depressed_about_your_job_and_all_and_i_ju.mp3
-  "I know how you get depressed about your job and all and I just wanted you to know that I know how you feel I used to be the same way really sure oh maybe I didn't whine as much but I bet I hated my..."
+  "I know how you feel"
   CHARACTER: 
 
 051_i_think_that_the_guy_might_actually_be_able_to_help.mp3
-  "I think that the guy might actually be able to help"
+  "He might be able to help"
   CHARACTER: 
 
 052_i_think_the_building_is_on_fire.mp3
@@ -143,11 +143,11 @@
   CHARACTER: 
 
 053_i_told_us_fudge_packers_are_like_michael_bolton_s_music.mp3
-  "I told us fudge packers are like michael bolton 's music"
+  "Like Michael Bolton's music"
   CHARACTER: 
 
 054_i_ll_go_ahead_and_make_sure_you_get_another_copy_that_memo.mp3
-  "I'll go ahead and make sure you get another copy that memo"
+  "Another copy of that memo"
   CHARACTER: 
 
 055_i_m_a_michael_bolton_fan.mp3
@@ -155,15 +155,15 @@
   CHARACTER: 
 
 056_i_m_also_going_to_need_to_go_ahead_and_come_in_on_sunday.mp3
-  "I'm also going to need to go ahead and come in on sunday"
+  "Come in on Sunday"
   CHARACTER: 
 
 057_i_m_going_to_have_to_go_ahead_and_sort_of_disagree_with_you.mp3
-  "I'm going to have to go ahead and sort of disagree with you there"
+  "I'm gonna disagree with you there"
   CHARACTER: 
 
 058_i_m_going_to_need_you_to_go_ahead_and_come_in_tomorrow.mp3
-  "I'm going to need you to go ahead and come in tomorrow"
+  "Come in tomorrow"
   CHARACTER: 
 
 059_i_m_just_not_sure_about_that_right_now.mp3
@@ -171,7 +171,7 @@
   CHARACTER: 
 
 060_i_m_sorry_man_look_i_you_know_i_m_talking_out_of_my_ass.mp3
-  "I'm sorry man look I you know i'm talking out of my ass"
+  "I'm talking out of my ass"
   CHARACTER: 
 
 061_i_ve_been_a_real_asshole.mp3
@@ -179,11 +179,11 @@
   CHARACTER: 
 
 062_if_you_could_just_go_ahead_and_make_sure_you_do_that_from_no.mp3
-  "If you could just go ahead and make sure you do that from now on that would be great"
+  "That would be great"
   CHARACTER: 
 
 063_is_a_problem_of_motivation_all_right_now_if_i_work_my_ass_of.mp3
-  "Is a problem of motivation all right now if I work my ass off and initech ships a few extra units I don't see another dime so where's the motivation"
+  "Where's the motivation?"
   CHARACTER: 
 
 064_is_this_good_for_the_company.mp3
@@ -191,7 +191,7 @@
   CHARACTER: 
 
 065_it_s_not_that_i_m_lazy_it_s_that_i_just_don_t_care.mp3
-  "It's not that i'm lazy it's that I just don't care"
+  "It's not that I'm lazy"
   CHARACTER: 
 
 067_looks_like_you_ve_been_missing_a_lot_of_work_lately.mp3
@@ -227,7 +227,7 @@
   CHARACTER: 
 
 079_oh_sounds_like_somebody_s_got_a_case_of_the_manders.mp3
-  "Oh sounds like somebody 's got a case of the manders"
+  "A case of the Mondays"
   CHARACTER: 
 
 081_ok_i_set_the_building_on_fire.mp3
@@ -255,7 +255,7 @@
   CHARACTER: 
 
 090_quit_getting_pissed_at_me_alright_this_is_all_your_idea_assh.mp3
-  "Quit getting pissed at me alright this is all your idea asshole"
+  "This is all your idea"
   CHARACTER: 
 
 091_see_you_guys_later_if_i_still_have_a_job.mp3
@@ -267,19 +267,19 @@
   CHARACTER: 
 
 093_shit_i_m_a_free_man_i_haven_t_had_a_conjugal_visit_in_six_mo.mp3
-  "Shit i'm a free man I haven't had a conjugal visit in six months"
+  "I'm a free man"
   CHARACTER: 
 
 096_so_i_guess_we_should_probably_go_ahead_and_have_a_little_tal.mp3
-  "So I guess we should probably go ahead and have a little talk"
+  "Have a little talk"
   CHARACTER: 
 
 097_so_i_was_sitting_in_my_cubicle_today_and_i_realized_ever_sin.mp3
-  "So I was sitting in my cubicle today and I realized ever since I started working"
+  "Sitting in my cubicle"
   CHARACTER: 
 
 098_so_if_you_could_be_here_around_nine_that_would_be_great.mp3
-  "So if you could be here around nine that would be great"
+  "Be here around nine"
   CHARACTER: 
 
 099_so_what_we_re_all_screwed_that_s_watch.mp3
@@ -287,7 +287,7 @@
   CHARACTER: 
 
 100_so_you_gonna_get_another_job_i_don_t_think_i_d_like_another.mp3
-  "So you gonna get another job I don't think i'd like another job wanting to do about money and build and you know i've never really liked paying bills I don't think i'm going to do that either"
+  "I don't want another job"
   CHARACTER: 
 
 101_so_you_know_if_you_want_to_go_ahead_and.mp3
@@ -307,7 +307,7 @@
   CHARACTER: 
 
 105_something_i_might_take_that_need_state_from_majestic_things.mp3
-  "Something I might take that need state from majestic things go well I might be showing in my oh face oh oh oh you know what i'm talking about"
+  "My O-face"
   CHARACTER: 
 
 106_sounds_like_a_case_of_the_mondays.mp3
@@ -335,11 +335,11 @@
   CHARACTER: 
 
 115_the_minimum_security_prison_is_no_picnic_have_a_client_in_th.mp3
-  "The minimum security prison is no picnic have a client in there right now says that ricky is kick someones ass first day or becomes almost pitch then everything will be alright"
+  "Minimum security is no picnic"
   CHARACTER: 
 
 116_the_problem_is_just_that_i_forgot_the_one_time_and_i_ve_alre.mp3
-  "The problem is just that I forgot the one time and i've already taken care of it so it's not even really a problem anymore"
+  "I forgot the one time"
   CHARACTER: 
 
 118_two_chicks_at_the_same_time.mp3
@@ -355,7 +355,7 @@
   CHARACTER: 
 
 125_we_get_caught_laundering_money_we_re_not_going_to_white_coll.mp3
-  "We get caught laundering money we're not going to white collar resort prison no no we're going to federal pound me in the ass prison"
+  "Pound me in the ass prison"
   CHARACTER: 
 
 126_we_have_sort_of_a_problem_here.mp3
@@ -387,7 +387,7 @@
   CHARACTER: 
 
 135_what_is_the_worst_idea_i_ve_ever_heard_in_my_life.mp3
-  "What is the worst idea i've ever heard in my life"
+  "The worst idea ever"
   CHARACTER: 
 
 136_what_the_hell_is_wrong_with_you_people.mp3
@@ -407,15 +407,15 @@
   CHARACTER: 
 
 140_what_you_sent_me_but_what_if_you_were_offered_some_kind_of_s.mp3
-  "What you sent me but what if you were offered some kind of stock option equity sharing program but that do anything for you I don't know I guess"
+  "A stock option program"
   CHARACTER: 
 
 143_where_does_it_say_paper_jam_indices_no_paper_jam_i_swear_to.mp3
-  "Where does it say paper jam indices no paper jam I swear to god at one of these days I i just kick you piece of shit out with windows you made both men things lucky i'm not armed"
+  "No paper jam"
   CHARACTER: 
 
 144_why_does_it_so_different_in_windows_is_no_paper_jam_i_swear.mp3
-  "Why does it so different in windows is no paper jam I swear to god at one of these days I i just take this piece of shit out the window"
+  "No paper jam (windows)"
   CHARACTER: 
 
 147_yeah_exactly_what_i_need.mp3
@@ -435,7 +435,7 @@
   CHARACTER: 
 
 151_you_apparently_didn_t_put_one_of_the_new_cover_sheets_on_you.mp3
-  "You apparently didn't put one of the new cover sheets on your TPS reports"
+  "Cover sheets on TPS reports"
   CHARACTER: 
 
 152_you_do_want_to_express_yourself_don_t_you.mp3
@@ -443,19 +443,19 @@
   CHARACTER: 
 
 153_you_know_the_nazis_had_pieces_of_flair_that_they_made_the_je.mp3
-  "You know the nazis had pieces of flair that they made the jews wear"
+  "Pieces of flair"
   CHARACTER: 
 
 154_you_know_there_are_people_in_this_world_that_don_t_have_to_p.mp3
-  "You know there are people in this world that don't have to put up with all"
+  "People don't put up with this"
   CHARACTER: 
 
 155_you_know_there_are_people_in_this_world_that_don_t_have_to_p.mp3
-  "You know there are people in this world that don't have to put up with all this shit"
+  "People don't put up with this shit"
   CHARACTER: 
 
 156_you_see_we_re_putting_the_cover_sheets_on_all_tps_reports_no.mp3
-  "You see we're putting the cover sheets on all TPS reports now before they go out"
+  "Cover sheets on all TPS reports"
   CHARACTER: 
 
 157_you_re_going_to_have_to_talk_to_payroll_about_that.mp3
@@ -475,11 +475,11 @@
   CHARACTER: 
 
 162_but_do_you_would_i_do_man_two_chicks_at_the_same_time_now.mp3
-  "But do you would I do man two chicks at the same time now"
+  "Two chicks at the same time"
   CHARACTER: 
 
 163_but_that_takes_a_double_up_on_a_dude_like_me_do.mp3
-  "But that takes a double up on a dude like me do"
+  "A dude like me"
   CHARACTER: 
 
 164_but_you_don_t_want_that_peter_man_s_toasted_maine.mp3
@@ -491,11 +491,11 @@
   CHARACTER: 
 
 167_damn_straight_always_wanted_to_do_that_then_i_think_of_our_m.mp3
-  "Damn straight always wanted to do that then I think of our millionaire I could hook that up too 'cause chicks dig dudes with money"
+  "Chicks dig dudes with money"
   CHARACTER: 
 
 168_duck_out_early_turn_off_your_answering_machine_you_should_be.mp3
-  "Duck out early turn off your answering machine you should be home pretty bang"
+  "Duck out early"
   CHARACTER: 
 
 169_hey_peter_yeah_watch_out_for_a_cornhole_bud.mp3
@@ -503,11 +503,11 @@
   CHARACTER: 
 
 170_hey_she_had_been_over_here_in_a_while_you_two_still_going_up.mp3
-  "Hey she had been over here in a while you two still going up"
+  "You two still going?"
   CHARACTER: 
 
 171_i_don_t_know_man_i_just_get_that_feeling_looking_at_her_like.mp3
-  "I don't know man I just get that feeling looking at her like she's the tablet richter just who"
+  "I get that feeling"
   CHARACTER: 
 
 172_i_m_sorry_man_i_thought_you_want_to_see_this.mp3
@@ -519,11 +519,11 @@
   CHARACTER: 
 
 176_no_thanks_man_i_don_t_want_you_fucking_up_my_life_do.mp3
-  "No thanks man I don't want you fucking up my life do"
+  "Don't fuck up my life"
   CHARACTER: 
 
 177_oh_i_gotta_wake_my_ass_up_at_six_am_everyday_this_week.mp3
-  "Oh I gotta wake my ass up at six AM everyday this week"
+  "Up at six AM"
   CHARACTER: 
 
 178_oh_sorry_man_an_over_there_some.mp3
@@ -531,7 +531,7 @@
   CHARACTER: 
 
 179_shit_no_man_i_believe_you_get_your_ass_kicked_saying_so_much.mp3
-  "Shit no man I believe you get your ass kicked saying so much batman"
+  "You'll get your ass kicked"
   CHARACTER: 
 
 180_tell_me_about_it_man.mp3
@@ -555,5 +555,5 @@
   CHARACTER: 
 
 185_yeah_i_m_doing_the_drywall_up_there_at_the_new_mcdonald_s.mp3
-  "Yeah i'm doing the drywall up there at the new mcdonald's"
+  "Drywall at the new McDonald's"
   CHARACTER: 

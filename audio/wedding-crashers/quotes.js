@@ -151,7 +151,7 @@ const quotes = [
     "audioUrl": "audio/wedding-crashers/030_jesus.mp3"
   },
   {
-    "text": "Just a couple kids who like to fuck trying to make it honest",
+    "text": "A couple kids who like to fuck",
     "character": "",
     "audioUrl": "audio/wedding-crashers/031_just_a_couple_kids_who_like_to_fuck_trying_to_make_it_honest.mp3"
   },

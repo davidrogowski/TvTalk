@@ -16,7 +16,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/003_ah_shit.mp3"
   },
   {
-    "text": "Ah, so you come crawling back, you cheap sack of shit!",
+    "text": "You cheap sack of shit",
     "character": "",
     "audioUrl": "audio/always-sunny/004_ah_so_you_come_crawling_back_you_cheap_sack_of_shit.mp3"
   },
@@ -151,7 +151,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/030_derivative.mp3"
   },
   {
-    "text": "Did you bang my wife, did you bang my poor wife? Does anybody here have any illegitimate children with my poor wife?",
+    "text": "Did you bang my wife?",
     "character": "",
     "audioUrl": "audio/always-sunny/031_did_you_bang_my_wife_did_you_bang_my_poor_wife_does_anybody.mp3"
   },
@@ -166,7 +166,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/033_doesn_t_matter.mp3"
   },
   {
-    "text": "Don't be ridiculous, you haven't thought of the smell, you bitch!",
+    "text": "You haven't thought of the smell",
     "character": "",
     "audioUrl": "audio/always-sunny/034_don_t_be_ridiculous_you_haven_t_thought_of_the_smell_you_bit.mp3"
   },
@@ -271,7 +271,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/054_happy_dance.mp3"
   },
   {
-    "text": "He was wrong, making everyone on Earth look like a bitch again",
+    "text": "Everyone looks like a bitch",
     "character": "",
     "audioUrl": "audio/always-sunny/055_he_was_wrong_making_everyone_on_earth_look_like_a_bitch_agai.mp3"
   },
@@ -371,17 +371,17 @@ const quotes = [
     "audioUrl": "audio/always-sunny/074_i_don_t_have_time_for_this.mp3"
   },
   {
-    "text": "I don't know how to express myself unless its though anger",
+    "text": "Express myself through anger",
     "character": "",
     "audioUrl": "audio/always-sunny/075_i_don_t_know_how_to_express_myself_unless_its_though_anger.mp3"
   },
   {
-    "text": "I don't think there's anything in the laws of nature that would support that",
+    "text": "The laws of nature",
     "character": "",
     "audioUrl": "audio/always-sunny/076_i_don_t_think_there_s_anything_in_the_laws_of_nature_that_wo.mp3"
   },
   {
-    "text": "I feel like you're saying you get it, but you don't get it",
+    "text": "You don't get it",
     "character": "",
     "audioUrl": "audio/always-sunny/077_i_feel_like_you_re_saying_you_get_it_but_you_don_t_get_it.mp3"
   },
@@ -411,7 +411,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/082_i_rest_my_case.mp3"
   },
   {
-    "text": "I won't change my mind 'cause I don't have to design an american",
+    "text": "I won't change my mind",
     "character": "",
     "audioUrl": "audio/always-sunny/083_i_won_t_change_my_mind_cause_i_don_t_have_to_design_an_ameri.mp3"
   },
@@ -421,7 +421,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/084_i_won_t_change_my_mind.mp3"
   },
   {
-    "text": "I won't change my mind on anything regardless of the facts that are set out before me",
+    "text": "Regardless of the facts",
     "character": "",
     "audioUrl": "audio/always-sunny/085_i_won_t_change_my_mind_on_anything_regardless_of_the_facts_t.mp3"
   },
@@ -436,7 +436,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/087_i_ll_allow_it.mp3"
   },
   {
-    "text": "I'm a swedish plumber i'm here to fix your pipes that's good that's a good accent",
+    "text": "Swedish plumber, fix your pipes",
     "character": "",
     "audioUrl": "audio/always-sunny/088_i_m_a_swedish_plumber_i_m_here_to_fix_your_pipes_that_s_good.mp3"
   },
@@ -461,7 +461,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/092_i_m_gunna_get_real_weird_with_it.mp3"
   },
   {
-    "text": "I'm just the best god damn bird lawyer in the world",
+    "text": "Best bird lawyer in the world",
     "character": "",
     "audioUrl": "audio/always-sunny/093_i_m_just_the_best_god_damn_bird_lawyer_in_the_world.mp3"
   },
@@ -476,7 +476,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/095_i_m_starting_to_swell_up.mp3"
   },
   {
-    "text": "I'm the trash man I come out I throw trash all over the all over the ring and then I start eating garbage",
+    "text": "I'm the trash man",
     "character": "",
     "audioUrl": "audio/always-sunny/096_i_m_the_trash_man_i_come_out_i_throw_trash_all_over_the_all.mp3"
   },
@@ -491,7 +491,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/098_i_m_wasted.mp3"
   },
   {
-    "text": "I've contained my rage for as long as possible but I shall unleash my fury upon you like the crossing of the thousand waves",
+    "text": "Unleash my fury",
     "character": "",
     "audioUrl": "audio/always-sunny/099_i_ve_contained_my_rage_for_as_long_as_possible_but_i_shall_u.mp3"
   },
@@ -501,7 +501,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/100_i_ve_grown_quite_weary.mp3"
   },
   {
-    "text": "If you say another word I will dice you into a million pieces",
+    "text": "Dice you into a million pieces",
     "character": "",
     "audioUrl": "audio/always-sunny/101_if_you_say_another_word_i_will_dice_you_into_a_million_piece.mp3"
   },
@@ -516,12 +516,12 @@ const quotes = [
     "audioUrl": "audio/always-sunny/103_it_s_getting_real_hot_around_here.mp3"
   },
   {
-    "text": "Jesus jesus frank jesus frank jesus jesus jesus like my life is a lie my life is a life",
+    "text": "My life is a lie",
     "character": "",
     "audioUrl": "audio/always-sunny/104_jesus_jesus_frank_jesus_frank_jesus_jesus_jesus_like_my_life.mp3"
   },
   {
-    "text": "Later dudes ass you in your age don't wear see in jail over your bees",
+    "text": "Later dudes",
     "character": "",
     "audioUrl": "audio/always-sunny/105_later_dudes_ass_you_in_your_age_don_t_wear_see_in_jail_over.mp3"
   },
@@ -576,7 +576,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/115_my_rage_knows_no_bounds.mp3"
   },
   {
-    "text": "My roommate was a frog kid. You ever seen a frog kid?",
+    "text": "Ever seen a frog kid?",
     "character": "",
     "audioUrl": "audio/always-sunny/116_my_roommate_was_a_frog_kid_you_ever_seen_a_frog_kid.mp3"
   },
@@ -781,7 +781,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/156_smooth_very_smooth_classy.mp3"
   },
   {
-    "text": "So much more romantic in the middle of nowhere we can be completely alone and you can make rash decisions based on fear",
+    "text": "Romantic in the middle of nowhere",
     "character": "",
     "audioUrl": "audio/always-sunny/157_so_much_more_romantic_in_the_middle_of_nowhere_we_can_be_com.mp3"
   },
@@ -801,7 +801,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/160_surprise_bitch.mp3"
   },
   {
-    "text": "Tell me it was good tell me i'm good tell me i'm good tell me that was good tell me i'm good",
+    "text": "Tell me I'm good",
     "character": "",
     "audioUrl": "audio/always-sunny/161_tell_me_it_was_good_tell_me_i_m_good_tell_me_i_m_good_tell_m.mp3"
   },
@@ -901,7 +901,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/180_tools.mp3"
   },
   {
-    "text": "Tools. Tools, zip ties, clubs, I have to have my tools",
+    "text": "I have to have my tools",
     "character": "",
     "audioUrl": "audio/always-sunny/181_tools_tools_zip_ties_clubs_i_have_to_have_my_tools.mp3"
   },
@@ -916,7 +916,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/183_trivia_baby.mp3"
   },
   {
-    "text": "Troll Toll (chorus)",
+    "text": "Troll Toll",
     "character": "",
     "audioUrl": "audio/always-sunny/184_troll_toll_chorus.mp3"
   },
@@ -951,7 +951,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/190_well.mp3"
   },
   {
-    "text": "Well first of all through god all things are possible so jot that down",
+    "text": "Jot that down",
     "character": "",
     "audioUrl": "audio/always-sunny/191_well_first_of_all_through_god_all_things_are_possible_so_jot.mp3"
   },
@@ -961,7 +961,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/192_well_that_s_good_call_me_that_from_now_on_mantis.mp3"
   },
   {
-    "text": "Well what show I dropped my monster condom that I use for my magnum dong",
+    "text": "My monster condom",
     "character": "",
     "audioUrl": "audio/always-sunny/193_well_what_show_i_dropped_my_monster_condom_that_i_use_for_my.mp3"
   },
@@ -986,7 +986,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/197_whip_this_bitch_in_the_face.mp3"
   },
   {
-    "text": "Whoops, I dropped my monster condom that I use for my magnum dong",
+    "text": "Dropped my monster condom",
     "character": "",
     "audioUrl": "audio/always-sunny/198_whoops_i_dropped_my_monster_condom_that_i_use_for_my_magnum.mp3"
   },
@@ -1051,7 +1051,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/210_you_guys_have_me_up_to_here.mp3"
   },
   {
-    "text": "You have to be a real piece of shit to get involved in politics",
+    "text": "A piece of shit in politics",
     "character": "",
     "audioUrl": "audio/always-sunny/211_you_have_to_be_a_real_piece_of_shit_to_get_involved_in_polit.mp3"
   },

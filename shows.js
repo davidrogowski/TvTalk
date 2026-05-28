@@ -2166,7 +2166,7 @@ const shows = [
         "audioUrl": "audio/family-guy/161_greased_up_deaf_guy.mp3"
       },
       {
-        "text": "Grimace (McDonalds)",
+        "text": "Grimace",
         "character": "",
         "audioUrl": "audio/family-guy/162_grimace_mcdonalds.mp3"
       },
@@ -2421,7 +2421,7 @@ const shows = [
         "audioUrl": "audio/family-guy/212_hollywood_fart.mp3"
       },
       {
-        "text": "Holy crap here comes Jesus, and he doesn't look too happy",
+        "text": "Here comes Jesus",
         "character": "",
         "audioUrl": "audio/family-guy/213_holy_crap_here_comes_jesus_and_he_doesn_t_look_too_happy.mp3"
       },
@@ -2591,7 +2591,7 @@ const shows = [
         "audioUrl": "audio/family-guy/246_i_love_women.mp3"
       },
       {
-        "text": "I love you (Flowers)",
+        "text": "I love you",
         "character": "",
         "audioUrl": "audio/family-guy/247_i_love_you_flowers.mp3"
       },
@@ -2716,7 +2716,7 @@ const shows = [
         "audioUrl": "audio/family-guy/271_if_it_s_good_for_me_i_don_t_want_it.mp3"
       },
       {
-        "text": "If you're gonna hit the king, you better kill the king",
+        "text": "Kill the king",
         "character": "",
         "audioUrl": "audio/family-guy/272_if_you_re_gonna_hit_the_king_you_better_kill_the_king.mp3"
       },
@@ -3561,7 +3561,7 @@ const shows = [
         "audioUrl": "audio/family-guy/440_smashes_desk.mp3"
       },
       {
-        "text": "So busy I don't have time to organize my own life",
+        "text": "No time for my own life",
         "character": "",
         "audioUrl": "audio/family-guy/441_so_busy_i_don_t_have_time_to_organize_my_own_life.mp3"
       },
@@ -3776,7 +3776,7 @@ const shows = [
         "audioUrl": "audio/family-guy/483_this_is_the_guy_whose_wife_i_am_banging.mp3"
       },
       {
-        "text": "This is the second vacation that I have watched every Jurassic Park",
+        "text": "Watched every Jurassic Park",
         "character": "",
         "audioUrl": "audio/family-guy/484_this_is_the_second_vacation_that_i_have_watched_every_jurass.mp3"
       },
@@ -3806,7 +3806,7 @@ const shows = [
         "audioUrl": "audio/family-guy/489_trololo_man.mp3"
       },
       {
-        "text": "Uh yeah, what do you think I keep in this backpack",
+        "text": "What's in this backpack?",
         "character": "",
         "audioUrl": "audio/family-guy/490_uh_yeah_what_do_you_think_i_keep_in_this_backpack.mp3"
       },
@@ -4066,7 +4066,7 @@ const shows = [
         "audioUrl": "audio/family-guy/541_you_can_t_cook.mp3"
       },
       {
-        "text": "You could freeze some of your sperm at a sperm bank",
+        "text": "Freeze your sperm",
         "character": "",
         "audioUrl": "audio/family-guy/542_you_could_freeze_some_of_your_sperm_at_a_sperm_bank.mp3"
       },
@@ -5491,7 +5491,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/003_ah_shit.mp3"
       },
       {
-        "text": "Ah, so you come crawling back, you cheap sack of shit!",
+        "text": "You cheap sack of shit",
         "character": "",
         "audioUrl": "audio/always-sunny/004_ah_so_you_come_crawling_back_you_cheap_sack_of_shit.mp3"
       },
@@ -5626,7 +5626,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/030_derivative.mp3"
       },
       {
-        "text": "Did you bang my wife, did you bang my poor wife? Does anybody here have any illegitimate children with my poor wife?",
+        "text": "Did you bang my wife?",
         "character": "",
         "audioUrl": "audio/always-sunny/031_did_you_bang_my_wife_did_you_bang_my_poor_wife_does_anybody.mp3"
       },
@@ -5641,7 +5641,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/033_doesn_t_matter.mp3"
       },
       {
-        "text": "Don't be ridiculous, you haven't thought of the smell, you bitch!",
+        "text": "You haven't thought of the smell",
         "character": "",
         "audioUrl": "audio/always-sunny/034_don_t_be_ridiculous_you_haven_t_thought_of_the_smell_you_bit.mp3"
       },
@@ -5746,7 +5746,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/054_happy_dance.mp3"
       },
       {
-        "text": "He was wrong, making everyone on Earth look like a bitch again",
+        "text": "Everyone looks like a bitch",
         "character": "",
         "audioUrl": "audio/always-sunny/055_he_was_wrong_making_everyone_on_earth_look_like_a_bitch_agai.mp3"
       },
@@ -5846,17 +5846,17 @@ const shows = [
         "audioUrl": "audio/always-sunny/074_i_don_t_have_time_for_this.mp3"
       },
       {
-        "text": "I don't know how to express myself unless its though anger",
+        "text": "Express myself through anger",
         "character": "",
         "audioUrl": "audio/always-sunny/075_i_don_t_know_how_to_express_myself_unless_its_though_anger.mp3"
       },
       {
-        "text": "I don't think there's anything in the laws of nature that would support that",
+        "text": "The laws of nature",
         "character": "",
         "audioUrl": "audio/always-sunny/076_i_don_t_think_there_s_anything_in_the_laws_of_nature_that_wo.mp3"
       },
       {
-        "text": "I feel like you're saying you get it, but you don't get it",
+        "text": "You don't get it",
         "character": "",
         "audioUrl": "audio/always-sunny/077_i_feel_like_you_re_saying_you_get_it_but_you_don_t_get_it.mp3"
       },
@@ -5886,7 +5886,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/082_i_rest_my_case.mp3"
       },
       {
-        "text": "I won't change my mind 'cause I don't have to design an american",
+        "text": "I won't change my mind",
         "character": "",
         "audioUrl": "audio/always-sunny/083_i_won_t_change_my_mind_cause_i_don_t_have_to_design_an_ameri.mp3"
       },
@@ -5896,7 +5896,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/084_i_won_t_change_my_mind.mp3"
       },
       {
-        "text": "I won't change my mind on anything regardless of the facts that are set out before me",
+        "text": "Regardless of the facts",
         "character": "",
         "audioUrl": "audio/always-sunny/085_i_won_t_change_my_mind_on_anything_regardless_of_the_facts_t.mp3"
       },
@@ -5911,7 +5911,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/087_i_ll_allow_it.mp3"
       },
       {
-        "text": "I'm a swedish plumber i'm here to fix your pipes that's good that's a good accent",
+        "text": "Swedish plumber, fix your pipes",
         "character": "",
         "audioUrl": "audio/always-sunny/088_i_m_a_swedish_plumber_i_m_here_to_fix_your_pipes_that_s_good.mp3"
       },
@@ -5936,7 +5936,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/092_i_m_gunna_get_real_weird_with_it.mp3"
       },
       {
-        "text": "I'm just the best god damn bird lawyer in the world",
+        "text": "Best bird lawyer in the world",
         "character": "",
         "audioUrl": "audio/always-sunny/093_i_m_just_the_best_god_damn_bird_lawyer_in_the_world.mp3"
       },
@@ -5951,7 +5951,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/095_i_m_starting_to_swell_up.mp3"
       },
       {
-        "text": "I'm the trash man I come out I throw trash all over the all over the ring and then I start eating garbage",
+        "text": "I'm the trash man",
         "character": "",
         "audioUrl": "audio/always-sunny/096_i_m_the_trash_man_i_come_out_i_throw_trash_all_over_the_all.mp3"
       },
@@ -5966,7 +5966,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/098_i_m_wasted.mp3"
       },
       {
-        "text": "I've contained my rage for as long as possible but I shall unleash my fury upon you like the crossing of the thousand waves",
+        "text": "Unleash my fury",
         "character": "",
         "audioUrl": "audio/always-sunny/099_i_ve_contained_my_rage_for_as_long_as_possible_but_i_shall_u.mp3"
       },
@@ -5976,7 +5976,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/100_i_ve_grown_quite_weary.mp3"
       },
       {
-        "text": "If you say another word I will dice you into a million pieces",
+        "text": "Dice you into a million pieces",
         "character": "",
         "audioUrl": "audio/always-sunny/101_if_you_say_another_word_i_will_dice_you_into_a_million_piece.mp3"
       },
@@ -5991,12 +5991,12 @@ const shows = [
         "audioUrl": "audio/always-sunny/103_it_s_getting_real_hot_around_here.mp3"
       },
       {
-        "text": "Jesus jesus frank jesus frank jesus jesus jesus like my life is a lie my life is a life",
+        "text": "My life is a lie",
         "character": "",
         "audioUrl": "audio/always-sunny/104_jesus_jesus_frank_jesus_frank_jesus_jesus_jesus_like_my_life.mp3"
       },
       {
-        "text": "Later dudes ass you in your age don't wear see in jail over your bees",
+        "text": "Later dudes",
         "character": "",
         "audioUrl": "audio/always-sunny/105_later_dudes_ass_you_in_your_age_don_t_wear_see_in_jail_over.mp3"
       },
@@ -6051,7 +6051,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/115_my_rage_knows_no_bounds.mp3"
       },
       {
-        "text": "My roommate was a frog kid. You ever seen a frog kid?",
+        "text": "Ever seen a frog kid?",
         "character": "",
         "audioUrl": "audio/always-sunny/116_my_roommate_was_a_frog_kid_you_ever_seen_a_frog_kid.mp3"
       },
@@ -6256,7 +6256,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/156_smooth_very_smooth_classy.mp3"
       },
       {
-        "text": "So much more romantic in the middle of nowhere we can be completely alone and you can make rash decisions based on fear",
+        "text": "Romantic in the middle of nowhere",
         "character": "",
         "audioUrl": "audio/always-sunny/157_so_much_more_romantic_in_the_middle_of_nowhere_we_can_be_com.mp3"
       },
@@ -6276,7 +6276,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/160_surprise_bitch.mp3"
       },
       {
-        "text": "Tell me it was good tell me i'm good tell me i'm good tell me that was good tell me i'm good",
+        "text": "Tell me I'm good",
         "character": "",
         "audioUrl": "audio/always-sunny/161_tell_me_it_was_good_tell_me_i_m_good_tell_me_i_m_good_tell_m.mp3"
       },
@@ -6376,7 +6376,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/180_tools.mp3"
       },
       {
-        "text": "Tools. Tools, zip ties, clubs, I have to have my tools",
+        "text": "I have to have my tools",
         "character": "",
         "audioUrl": "audio/always-sunny/181_tools_tools_zip_ties_clubs_i_have_to_have_my_tools.mp3"
       },
@@ -6391,7 +6391,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/183_trivia_baby.mp3"
       },
       {
-        "text": "Troll Toll (chorus)",
+        "text": "Troll Toll",
         "character": "",
         "audioUrl": "audio/always-sunny/184_troll_toll_chorus.mp3"
       },
@@ -6426,7 +6426,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/190_well.mp3"
       },
       {
-        "text": "Well first of all through god all things are possible so jot that down",
+        "text": "Jot that down",
         "character": "",
         "audioUrl": "audio/always-sunny/191_well_first_of_all_through_god_all_things_are_possible_so_jot.mp3"
       },
@@ -6436,7 +6436,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/192_well_that_s_good_call_me_that_from_now_on_mantis.mp3"
       },
       {
-        "text": "Well what show I dropped my monster condom that I use for my magnum dong",
+        "text": "My monster condom",
         "character": "",
         "audioUrl": "audio/always-sunny/193_well_what_show_i_dropped_my_monster_condom_that_i_use_for_my.mp3"
       },
@@ -6461,7 +6461,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/197_whip_this_bitch_in_the_face.mp3"
       },
       {
-        "text": "Whoops, I dropped my monster condom that I use for my magnum dong",
+        "text": "Dropped my monster condom",
         "character": "",
         "audioUrl": "audio/always-sunny/198_whoops_i_dropped_my_monster_condom_that_i_use_for_my_magnum.mp3"
       },
@@ -6526,7 +6526,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/210_you_guys_have_me_up_to_here.mp3"
       },
       {
-        "text": "You have to be a real piece of shit to get involved in politics",
+        "text": "A piece of shit in politics",
         "character": "",
         "audioUrl": "audio/always-sunny/211_you_have_to_be_a_real_piece_of_shit_to_get_involved_in_polit.mp3"
       },
@@ -7600,7 +7600,7 @@ const shows = [
         "audioUrl": "audio/the-wire/009_but_if_you_start_to_follow_the_money.mp3"
       },
       {
-        "text": "Did He Have Hands? Did He Have a Face? Then it Wasn't Us",
+        "text": "Then it wasn't us",
         "character": "",
         "audioUrl": "audio/the-wire/010_did_he_have_hands_did_he_have_a_face_then_it_wasn_t_us.mp3"
       },
@@ -7630,12 +7630,12 @@ const shows = [
         "audioUrl": "audio/the-wire/015_i_see_a_man_without_a_country.mp3"
       },
       {
-        "text": "I Swear To Fucking Christ, We We Will Beat You Longer",
+        "text": "We will beat you longer",
         "character": "",
         "audioUrl": "audio/the-wire/016_i_swear_to_fucking_christ_we_we_will_beat_you_longer.mp3"
       },
       {
-        "text": "I'll Take Any Mother Fucker's Money If He's Giving It Away",
+        "text": "I'll take any money",
         "character": "",
         "audioUrl": "audio/the-wire/017_i_ll_take_any_mother_fucker_s_money_if_he_s_giving_it_away.mp3"
       },
@@ -7780,7 +7780,7 @@ const shows = [
         "audioUrl": "audio/the-wire/045_where_s_wallace.mp3"
       },
       {
-        "text": "Worrying About You Would Be like wondering if the Sun Gonna Come Up",
+        "text": "Worrying about you",
         "character": "",
         "audioUrl": "audio/the-wire/046_worrying_about_you_would_be_like_wondering_if_the_sun_gonna.mp3"
       },
@@ -7805,7 +7805,7 @@ const shows = [
         "audioUrl": "audio/the-wire/050_you_mcnulty_are_a_gaping_asshole.mp3"
       },
       {
-        "text": "You'd Rather Live in Shit than Let the World See You Work a Shovel",
+        "text": "Rather live in shit",
         "character": "",
         "audioUrl": "audio/the-wire/051_you_d_rather_live_in_shit_than_let_the_world_see_you_work_a.mp3"
       }
@@ -8213,12 +8213,12 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/078_i_don_t_feel_safe.mp3"
       },
       {
-        "text": "I don't give a fuck just shake that ass and see what you got",
+        "text": "Shake that ass",
         "character": "",
         "audioUrl": "audio/rick-and-morty/079_i_don_t_give_a_fuck_just_shake_that_ass_and_see_what_you_got.mp3"
       },
       {
-        "text": "I dunno why I said that, but I stand by it",
+        "text": "I stand by it",
         "character": "",
         "audioUrl": "audio/rick-and-morty/080_i_dunno_why_i_said_that_but_i_stand_by_it.mp3"
       },
@@ -8268,7 +8268,7 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/089_i_ll_talk_to_you_after_lunch.mp3"
       },
       {
-        "text": "I'm Cool Rick (You're Outnumbered)",
+        "text": "I'm Cool Rick",
         "character": "",
         "audioUrl": "audio/rick-and-morty/090_i_m_cool_rick_you_re_outnumbered.mp3"
       },
@@ -8723,7 +8723,7 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/180_rick_and_morty_aids.mp3"
       },
       {
-        "text": "Rick and Morty Intro (Ear Rape)",
+        "text": "Intro (loud)",
         "character": "",
         "audioUrl": "audio/rick-and-morty/181_rick_and_morty_intro_ear_rape.mp3"
       },
@@ -8758,12 +8758,12 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/187_rick_and_morty_song.mp3"
       },
       {
-        "text": "Rick and Morty Soundtrack - Evil Morty's Theme (Qua..",
+        "text": "Evil Morty's Theme",
         "character": "",
         "audioUrl": "audio/rick-and-morty/188_rick_and_morty_soundtrack_evil_morty_s_theme_qua.mp3"
       },
       {
-        "text": "Rick and Morty Yes (better)",
+        "text": "Yes",
         "character": "",
         "audioUrl": "audio/rick-and-morty/189_rick_and_morty_yes_better.mp3"
       },
@@ -9336,7 +9336,7 @@ const shows = [
         "audioUrl": "audio/silicon-valley/015_awkward_greetings.mp3"
       },
       {
-        "text": "Bachman vs Jing Yang (Silicon Valley Compilation)",
+        "text": "Bachman vs Jian Yang",
         "character": "",
         "audioUrl": "audio/silicon-valley/016_bachman_vs_jing_yang_silicon_valley_compilation.mp3"
       },
@@ -9456,7 +9456,7 @@ const shows = [
         "audioUrl": "audio/silicon-valley/039_erlich_bachman_this_is_you_as_an_old_man.mp3"
       },
       {
-        "text": "Erlich Bachman, this is your mom, you are not my baby",
+        "text": "You are not my baby",
         "character": "",
         "audioUrl": "audio/silicon-valley/040_erlich_bachman_this_is_your_mom_you_are_not_my_baby.mp3"
       },
@@ -9601,12 +9601,12 @@ const shows = [
         "audioUrl": "audio/silicon-valley/068_i_don_t_know_how_to_respond.mp3"
       },
       {
-        "text": "I don't want to count our chickens before they hatch but",
+        "text": "Don't count our chickens",
         "character": "",
         "audioUrl": "audio/silicon-valley/069_i_don_t_want_to_count_our_chickens_before_they_hatch_but.mp3"
       },
       {
-        "text": "I eat the fish (Jian Yang)",
+        "text": "I eat the fish",
         "character": "",
         "audioUrl": "audio/silicon-valley/070_i_eat_the_fish_jian_yang.mp3"
       },
@@ -9656,7 +9656,7 @@ const shows = [
         "audioUrl": "audio/silicon-valley/079_i_wanna_talk_business.mp3"
       },
       {
-        "text": "I want to know what kind of childhood this guy had",
+        "text": "What kind of childhood",
         "character": "",
         "audioUrl": "audio/silicon-valley/080_i_want_to_know_what_kind_of_childhood_this_guy_had.mp3"
       },
@@ -9771,7 +9771,7 @@ const shows = [
         "audioUrl": "audio/silicon-valley/102_intro.mp3"
       },
       {
-        "text": "Is this a good thing or a bad thing? Someone tell me how to feel",
+        "text": "Tell me how to feel",
         "character": "",
         "audioUrl": "audio/silicon-valley/103_is_this_a_good_thing_or_a_bad_thing_someone_tell_me_how_to_f.mp3"
       },
@@ -9871,7 +9871,7 @@ const shows = [
         "audioUrl": "audio/silicon-valley/122_maybe_start_after_lunch.mp3"
       },
       {
-        "text": "Maybe we can take a day and soak it in hawk urine",
+        "text": "Soak it in hawk urine",
         "character": "",
         "audioUrl": "audio/silicon-valley/123_maybe_we_can_take_a_day_and_soak_it_in_hawk_urine.mp3"
       },
@@ -9881,7 +9881,7 @@ const shows = [
         "audioUrl": "audio/silicon-valley/124_mf.mp3"
       },
       {
-        "text": "Monahan: Swallow your pride, or you will be eating something worse than shit",
+        "text": "Swallow your pride",
         "character": "",
         "audioUrl": "audio/silicon-valley/125_monahan_swallow_your_pride_or_you_will_be_eating_something_w.mp3"
       },
@@ -10116,7 +10116,7 @@ const shows = [
         "audioUrl": "audio/silicon-valley/172_that_was_amazing.mp3"
       },
       {
-        "text": "That's a kind invitation but I have too much to do",
+        "text": "Too much to do",
         "character": "",
         "audioUrl": "audio/silicon-valley/173_that_s_a_kind_invitation_but_i_have_too_much_to_do.mp3"
       },
@@ -10141,7 +10141,7 @@ const shows = [
         "audioUrl": "audio/silicon-valley/177_the_money_is_gone.mp3"
       },
       {
-        "text": "There are very few things I will defend with true passion",
+        "text": "I defend with true passion",
         "character": "",
         "audioUrl": "audio/silicon-valley/178_there_are_very_few_things_i_will_defend_with_true_passion.mp3"
       },
@@ -10634,7 +10634,7 @@ const shows = [
         "audioUrl": "audio/arrested-development/036_i_will_not_stand_for_this.mp3"
       },
       {
-        "text": "I wine em and dine em, but I don't let em tell me what to do",
+        "text": "I wine em and dine em",
         "character": "",
         "audioUrl": "audio/arrested-development/037_i_wine_em_and_dine_em_but_i_don_t_let_em_tell_me_what_to_do.mp3"
       },
@@ -10689,7 +10689,7 @@ const shows = [
         "audioUrl": "audio/arrested-development/047_i_m_having_the_time_of_my_life.mp3"
       },
       {
-        "text": "If I could stick my nose in here for one second",
+        "text": "Stick my nose in here",
         "character": "",
         "audioUrl": "audio/arrested-development/048_if_i_could_stick_my_nose_in_here_for_one_second.mp3"
       },
@@ -10809,7 +10809,7 @@ const shows = [
         "audioUrl": "audio/arrested-development/071_that_s_another_fault_of_her_s.mp3"
       },
       {
-        "text": "The heart of an angel and the hide of an elephant",
+        "text": "Heart of an angel",
         "character": "",
         "audioUrl": "audio/arrested-development/072_the_heart_of_an_angel_and_the_hide_of_an_elephant.mp3"
       },
@@ -11037,7 +11037,7 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/019_i_need_to_lie_down_for_a_full_hour.mp3"
       },
       {
-        "text": "I Wanted to Make Fun of Stupid People While I Got Drunk",
+        "text": "Make fun of stupid people",
         "character": "",
         "audioUrl": "audio/parks-and-rec/020_i_wanted_to_make_fun_of_stupid_people_while_i_got_drunk.mp3"
       },
@@ -11157,7 +11157,7 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/043_turn_the_thermostat_to_90_and_leave_me_alone.mp3"
       },
       {
-        "text": "Uh huh! (Dancing)",
+        "text": "Uh huh!",
         "character": "",
         "audioUrl": "audio/parks-and-rec/044_uh_huh_dancing.mp3"
       },
@@ -11207,12 +11207,12 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/053_april_becomes_ron_s_assistant.mp3"
       },
       {
-        "text": "As Long As I Don't Move My Head Or Torso, I'm Good",
+        "text": "Don't move my head or torso",
         "character": "",
         "audioUrl": "audio/parks-and-rec/054_as_long_as_i_don_t_move_my_head_or_torso_i_m_good.mp3"
       },
       {
-        "text": "Capitalism: God's Way of Determining Who is Smart, and Who is Poor",
+        "text": "Capitalism: God's way",
         "character": "",
         "audioUrl": "audio/parks-and-rec/055_capitalism_god_s_way_of_determining_who_is_smart_and_who_is.mp3"
       },
@@ -11227,7 +11227,7 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/057_don_t_teach_a_man_to_fish_and_you_feed_yourself.mp3"
       },
       {
-        "text": "Enjoy the Fact Your Royal Overlords are a Frail Old Woman and a Tiny Baby",
+        "text": "Your royal overlords",
         "character": "",
         "audioUrl": "audio/parks-and-rec/058_enjoy_the_fact_your_royal_overlords_are_a_frail_old_woman_an.mp3"
       },
@@ -11282,7 +11282,7 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/068_i_like_to_call_people_by_the_wrong_name.mp3"
       },
       {
-        "text": "I Once Worked with A Guy For Three Years and Never Learned His Name",
+        "text": "Never learned his name",
         "character": "",
         "audioUrl": "audio/parks-and-rec/069_i_once_worked_with_a_guy_for_three_years_and_never_learned_h.mp3"
       },
@@ -11302,7 +11302,7 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/072_i_d_work_all_night_if_it_meant_nothing_got_done.mp3"
       },
       {
-        "text": "I'm Going to Tell You Everything You Need to Know About Local Government",
+        "text": "Everything about local government",
         "character": "",
         "audioUrl": "audio/parks-and-rec/073_i_m_going_to_tell_you_everything_you_need_to_know_about_loca.mp3"
       },
@@ -11352,7 +11352,7 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/082_never_half_ass_two_things.mp3"
       },
       {
-        "text": "On Principle, I Never Say Anything That Another Person is Obviously Trying Get Me To Say",
+        "text": "On principle, I never say",
         "character": "",
         "audioUrl": "audio/parks-and-rec/083_on_principle_i_never_say_anything_that_another_person_is_obv.mp3"
       },
@@ -11522,7 +11522,7 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/116_the_wooooorst.mp3"
       },
       {
-        "text": "There's Only One Thing I Hate More than Lying: Skim Milk",
+        "text": "I hate skim milk",
         "character": "",
         "audioUrl": "audio/parks-and-rec/117_there_s_only_one_thing_i_hate_more_than_lying_skim_milk.mp3"
       },
@@ -11537,12 +11537,12 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/119_what_in_the_devil_s_name_is_this.mp3"
       },
       {
-        "text": "When I Look At My Palm, I See a Lady's Mouth French Kissing a Dog",
+        "text": "A lady's mouth kissing a dog",
         "character": "",
         "audioUrl": "audio/parks-and-rec/120_when_i_look_at_my_palm_i_see_a_lady_s_mouth_french_kissing_a.mp3"
       },
       {
-        "text": "When It Comes to Government Hearings, the Only Type of Witness I enjoy Being is a Hostile One",
+        "text": "A hostile witness",
         "character": "",
         "audioUrl": "audio/parks-and-rec/121_when_it_comes_to_government_hearings_the_only_type_of_witnes.mp3"
       },
@@ -12218,7 +12218,7 @@ const shows = [
         "audioUrl": "audio/himym/049_i_forbid_you_from_calling_her.mp3"
       },
       {
-        "text": "I need to go home reevaluate how I make life decisions",
+        "text": "Reevaluate my life decisions",
         "character": "",
         "audioUrl": "audio/himym/050_i_need_to_go_home_reevaluate_how_i_make_life_decisions.mp3"
       },
@@ -12298,7 +12298,7 @@ const shows = [
         "audioUrl": "audio/himym/065_let_s_dance.mp3"
       },
       {
-        "text": "Living in America (Barney Stinson)",
+        "text": "Living in America",
         "character": "",
         "audioUrl": "audio/himym/066_living_in_america_barney_stinson.mp3"
       },
@@ -12433,7 +12433,7 @@ const shows = [
         "audioUrl": "audio/himym/092_that_s_the_dream.mp3"
       },
       {
-        "text": "Thats a penis! (Slow motion)",
+        "text": "That's a penis!",
         "character": "",
         "audioUrl": "audio/himym/093_thats_a_penis_slow_motion.mp3"
       },
@@ -12443,7 +12443,7 @@ const shows = [
         "audioUrl": "audio/himym/094_thats_what_your_mom_said.mp3"
       },
       {
-        "text": "There will be no slap today (Slapsgiving)",
+        "text": "No slap today",
         "character": "",
         "audioUrl": "audio/himym/095_there_will_be_no_slap_today_slapsgiving.mp3"
       },
@@ -12528,12 +12528,12 @@ const shows = [
         "audioUrl": "audio/himym/111_worst_idea_ever.mp3"
       },
       {
-        "text": "You can slap him (Slapsgiving)",
+        "text": "You can slap him",
         "character": "",
         "audioUrl": "audio/himym/112_you_can_slap_him_slapsgiving.mp3"
       },
       {
-        "text": "You just got slapped (chorus)",
+        "text": "You just got slapped",
         "character": "",
         "audioUrl": "audio/himym/113_you_just_got_slapped_chorus.mp3"
       },
@@ -13151,7 +13151,7 @@ const shows = [
         "audioUrl": "audio/the-office/117_i_am_really_proud_of_you.mp3"
       },
       {
-        "text": "I brought you into this world and I can take you out",
+        "text": "I can take you out",
         "character": "",
         "audioUrl": "audio/the-office/118_i_brought_you_into_this_world_and_i_can_take_you_out.mp3"
       },
@@ -13171,7 +13171,7 @@ const shows = [
         "audioUrl": "audio/the-office/121_i_declare_bankruptcy.mp3"
       },
       {
-        "text": "I do my best work when people don't believe in me",
+        "text": "When people don't believe in me",
         "character": "",
         "audioUrl": "audio/the-office/122_i_do_my_best_work_when_people_don_t_believe_in_me.mp3"
       },
@@ -13221,7 +13221,7 @@ const shows = [
         "audioUrl": "audio/the-office/131_i_had_no_idea.mp3"
       },
       {
-        "text": "I hate so much about the things you choose to be",
+        "text": "The things you choose to be",
         "character": "",
         "audioUrl": "audio/the-office/132_i_hate_so_much_about_the_things_you_choose_to_be.mp3"
       },
@@ -13296,12 +13296,12 @@ const shows = [
         "audioUrl": "audio/the-office/146_i_told_you_so.mp3"
       },
       {
-        "text": "I want the ketchup fights and the tickling and the giggling",
+        "text": "Ketchup fights and tickling",
         "character": "",
         "audioUrl": "audio/the-office/147_i_want_the_ketchup_fights_and_the_tickling_and_the_giggling.mp3"
       },
       {
-        "text": "I want you to get your ass out of my face",
+        "text": "Ass out of my face",
         "character": "",
         "audioUrl": "audio/the-office/148_i_want_you_to_get_your_ass_out_of_my_face.mp3"
       },
@@ -13391,7 +13391,7 @@ const shows = [
         "audioUrl": "audio/the-office/165_if_onlys_and_justs_were_candies_and_nuts.mp3"
       },
       {
-        "text": "If someone gives you 10,000 to 1 on anything, you take it",
+        "text": "10,000 to 1, you take it",
         "character": "",
         "audioUrl": "audio/the-office/166_if_someone_gives_you_10_000_to_1_on_anything_you_take_it.mp3"
       },
@@ -13401,7 +13401,7 @@ const shows = [
         "audioUrl": "audio/the-office/167_if_that_s_flashing_then_lock_me_up.mp3"
       },
       {
-        "text": "If We Did Something to Upset You I'm Sure it was Inadvertent",
+        "text": "It was inadvertent",
         "character": "",
         "audioUrl": "audio/the-office/168_if_we_did_something_to_upset_you_i_m_sure_it_was_inadvertent.mp3"
       },
@@ -14251,7 +14251,7 @@ const shows = [
         "audioUrl": "audio/the-office/337_the_office_thank_you.mp3"
       },
       {
-        "text": "The office That’s what she said (slow)",
+        "text": "That's what she said (slow)",
         "character": "",
         "audioUrl": "audio/the-office/338_the_office_that_s_what_she_said_slow.mp3"
       },
@@ -14366,7 +14366,7 @@ const shows = [
         "audioUrl": "audio/the-office/360_the_scarn_dance.mp3"
       },
       {
-        "text": "The stress of my modern office has caused me to go into depression",
+        "text": "Stress of my modern office",
         "character": "",
         "audioUrl": "audio/the-office/361_the_stress_of_my_modern_office_has_caused_me_to_go_into_depr.mp3"
       },
@@ -14381,7 +14381,7 @@ const shows = [
         "audioUrl": "audio/the-office/363_these_are_our_demands.mp3"
       },
       {
-        "text": "This Has Been The Worst, Most Backwards Day Of My Life",
+        "text": "Worst day of my life",
         "character": "",
         "audioUrl": "audio/the-office/364_this_has_been_the_worst_most_backwards_day_of_my_life.mp3"
       },
@@ -14501,7 +14501,7 @@ const shows = [
         "audioUrl": "audio/the-office/387_we_re_on_full_quarantine.mp3"
       },
       {
-        "text": "We're Screwed (Short)",
+        "text": "We're screwed (short)",
         "character": "",
         "audioUrl": "audio/the-office/388_we_re_screwed_short.mp3"
       },
@@ -14571,7 +14571,7 @@ const shows = [
         "audioUrl": "audio/the-office/401_why_am_i_so_sad.mp3"
       },
       {
-        "text": "Why are you the way that you are? (long)",
+        "text": "Why are you the way you are? (long)",
         "character": "",
         "audioUrl": "audio/the-office/402_why_are_you_the_way_that_you_are_long.mp3"
       },
@@ -14754,7 +14754,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/004_a_lannister_always_pays_his_debts.mp3"
       },
       {
-        "text": "A lion doesn't concern himself with the opinions of a sheep",
+        "text": "Opinions of a sheep",
         "character": "",
         "audioUrl": "audio/game-of-thrones/005_a_lion_doesn_t_concern_himself_with_the_opinions_of_a_sheep.mp3"
       },
@@ -14784,7 +14784,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/010_all_men_must_hype.mp3"
       },
       {
-        "text": "Almost feels as if you are about to arrive at the point",
+        "text": "Arrive at the point",
         "character": "",
         "audioUrl": "audio/game-of-thrones/011_almost_feels_as_if_you_are_about_to_arrive_at_the_point.mp3"
       },
@@ -14819,7 +14819,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/017_battle_of_the_bastards.mp3"
       },
       {
-        "text": "Better to be a coward for a minute than dead for a life",
+        "text": "Coward for a minute",
         "character": "",
         "audioUrl": "audio/game-of-thrones/018_better_to_be_a_coward_for_a_minute_than_dead_for_a_life.mp3"
       },
@@ -15104,7 +15104,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/074_hard_truths_cut_both_ways.mp3"
       },
       {
-        "text": "Have you ever considered learning how to lie every now and then",
+        "text": "Learn how to lie",
         "character": "",
         "audioUrl": "audio/game-of-thrones/075_have_you_ever_considered_learning_how_to_lie_every_now_and_t.mp3"
       },
@@ -15149,7 +15149,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/083_i_am_a_godly_man.mp3"
       },
       {
-        "text": "I am about to step into a room with a most murderous woman in the world",
+        "text": "Most murderous woman",
         "character": "",
         "audioUrl": "audio/game-of-thrones/084_i_am_about_to_step_into_a_room_with_a_most_murderous_woman_i.mp3"
       },
@@ -15284,7 +15284,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/110_i_want_you_to_tell_me_the_truth.mp3"
       },
       {
-        "text": "I was born to rule the seven kingdoms and i will",
+        "text": "Born to rule the seven kingdoms",
         "character": "",
         "audioUrl": "audio/game-of-thrones/111_i_was_born_to_rule_the_seven_kingdoms_and_i_will.mp3"
       },
@@ -15329,7 +15329,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/119_i_m_going_to_kill_that.mp3"
       },
       {
-        "text": "I'm no king, but if I were, I'd knight you 10x over",
+        "text": "I'd knight you ten times over",
         "character": "",
         "audioUrl": "audio/game-of-thrones/120_i_m_no_king_but_if_i_were_i_d_knight_you_10x_over.mp3"
       },
@@ -15344,7 +15344,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/122_i_m_sure_your_men_will_line_up_behind_you.mp3"
       },
       {
-        "text": "I’m Going to Light the Biggest Fire the North Has Ever Seen",
+        "text": "The biggest fire the North has seen",
         "character": "",
         "audioUrl": "audio/game-of-thrones/123_i_m_going_to_light_the_biggest_fire_the_north_has_ever_seen.mp3"
       },
@@ -15364,7 +15364,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/126_ice_dragon_viserion.mp3"
       },
       {
-        "text": "If I want jokes I will get myself a proper fool",
+        "text": "I will get a proper fool",
         "character": "",
         "audioUrl": "audio/game-of-thrones/127_if_i_want_jokes_i_will_get_myself_a_proper_fool.mp3"
       },
@@ -15389,7 +15389,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/131_it_is_known.mp3"
       },
       {
-        "text": "It is time I ate some of this food I paid for",
+        "text": "The food I paid for",
         "character": "",
         "audioUrl": "audio/game-of-thrones/132_it_is_time_i_ate_some_of_this_food_i_paid_for.mp3"
       },
@@ -15449,7 +15449,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/143_make_peace_to_save_your_people.mp3"
       },
       {
-        "text": "Man who fights for gold can't afford to lose to a girl",
+        "text": "Can't afford to lose to a girl",
         "character": "",
         "audioUrl": "audio/game-of-thrones/144_man_who_fights_for_gold_can_t_afford_to_lose_to_a_girl.mp3"
       },
@@ -15509,7 +15509,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/155_no_cure_for_being_a_cunt.mp3"
       },
       {
-        "text": "No need to seize the last word, I'll assume it was something clever",
+        "text": "Assume it was clever",
         "character": "",
         "audioUrl": "audio/game-of-thrones/156_no_need_to_seize_the_last_word_i_ll_assume_it_was_something.mp3"
       },
@@ -15619,7 +15619,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/177_sandor_clegane_is_eating_every_chicken_in_this_room.mp3"
       },
       {
-        "text": "Sandor Clegane is going to eat your chickens (long)",
+        "text": "Eat your chickens (long)",
         "character": "",
         "audioUrl": "audio/game-of-thrones/178_sandor_clegane_is_going_to_eat_your_chickens_long.mp3"
       },
@@ -15839,12 +15839,12 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/221_they_ll_bend_the_knee_or_i_ll_destroy_them.mp3"
       },
       {
-        "text": "This is the only thing i have ever seen that terrifies me",
+        "text": "The only thing that terrifies me",
         "character": "",
         "audioUrl": "audio/game-of-thrones/222_this_is_the_only_thing_i_have_ever_seen_that_terrifies_me.mp3"
       },
       {
-        "text": "This is what I want to do for the rest of my life",
+        "text": "For the rest of my life",
         "character": "",
         "audioUrl": "audio/game-of-thrones/223_this_is_what_i_want_to_do_for_the_rest_of_my_life.mp3"
       },
@@ -15929,7 +15929,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/239_we_all_bloody_die.mp3"
       },
       {
-        "text": "We are a group of people who do not like one another",
+        "text": "We do not like one another",
         "character": "",
         "audioUrl": "audio/game-of-thrones/240_we_are_a_group_of_people_who_do_not_like_one_another.mp3"
       },
@@ -17000,7 +17000,7 @@ const shows = [
         "audioUrl": "audio/american-dad/003_at_gazuntech.mp3"
       },
       {
-        "text": "Basically, the whole country is gonna look like your first apartment.",
+        "text": "Like your first apartment",
         "character": "",
         "audioUrl": "audio/american-dad/004_basically_the_whole_country_is_gonna_look_like_your_first_ap.mp3"
       },
@@ -17025,22 +17025,22 @@ const shows = [
         "audioUrl": "audio/american-dad/008_did_you_see_memento.mp3"
       },
       {
-        "text": "Don't play coy you cardigan Jezebel. I have photographic evidence of you having sexual relations with a jack-in-the-box man.",
+        "text": "You cardigan Jezebel",
         "character": "",
         "audioUrl": "audio/american-dad/009_don_t_play_coy_you_cardigan_jezebel_i_have_photographic_evid.mp3"
       },
       {
-        "text": "Francine, you'll be very careful out there today. Where a terror alert orange.",
+        "text": "Terror alert orange",
         "character": "",
         "audioUrl": "audio/american-dad/010_francine_you_ll_be_very_careful_out_there_today_where_a_terr.mp3"
       },
       {
-        "text": "God damn it, he's gonna pee. No, no, no, Nope. Just asked.",
+        "text": "He's gonna pee",
         "character": "",
         "audioUrl": "audio/american-dad/011_god_damn_it_he_s_gonna_pee_no_no_no_nope_just_asked.mp3"
       },
       {
-        "text": "Haley, Haley, wake up. I fell asleep. I had a sugar crash and I fell asleep and I didn't do the paper.",
+        "text": "I didn't do the paper",
         "character": "",
         "audioUrl": "audio/american-dad/012_haley_haley_wake_up_i_fell_asleep_i_had_a_sugar_crash_and_i.mp3"
       },
@@ -17065,7 +17065,7 @@ const shows = [
         "audioUrl": "audio/american-dad/016_hey_listen_mom_dad_can_i_have_a_dog.mp3"
       },
       {
-        "text": "Hey, you think that diploma will help you land a better section when you're waitressing at the Olive Garden?",
+        "text": "Waitressing at the Olive Garden",
         "character": "",
         "audioUrl": "audio/american-dad/017_hey_you_think_that_diploma_will_help_you_land_a_better_secti.mp3"
       },
@@ -17080,12 +17080,12 @@ const shows = [
         "audioUrl": "audio/american-dad/019_i_have_to_study_for_my_term_paper.mp3"
       },
       {
-        "text": "I want to come back to my apartment and pet my schnauzer, OK? And then we can play with this dog.",
+        "text": "Pet my schnauzer",
         "character": "",
         "audioUrl": "audio/american-dad/020_i_want_to_come_back_to_my_apartment_and_pet_my_schnauzer_ok.mp3"
       },
       {
-        "text": "I'm thinking of cutting third Steve, you in. Yeah, as long as I'm back by 4th, Steve.",
+        "text": "Cutting third Steve",
         "character": "",
         "audioUrl": "audio/american-dad/021_i_m_thinking_of_cutting_third_steve_you_in_yeah_as_long_as_i.mp3"
       },
@@ -17105,7 +17105,7 @@ const shows = [
         "audioUrl": "audio/american-dad/024_no_roger_you_cannot_borrow_the_car.mp3"
       },
       {
-        "text": "Oh my God, my mom always caught me throwing up last night and she's like, hey, my purse.",
+        "text": "Hey, my purse",
         "character": "",
         "audioUrl": "audio/american-dad/025_oh_my_god_my_mom_always_caught_me_throwing_up_last_night_and.mp3"
       },
@@ -17125,12 +17125,12 @@ const shows = [
         "audioUrl": "audio/american-dad/028_oh_oh_sorry_about_that.mp3"
       },
       {
-        "text": "Oh, we just signed a contract with IKEA to furnish a rack.",
+        "text": "A contract with IKEA",
         "character": "",
         "audioUrl": "audio/american-dad/029_oh_we_just_signed_a_contract_with_ikea_to_furnish_a_rack.mp3"
       },
       {
-        "text": "Oh, you know, I was gonna do it yesterday, but I got distracted.",
+        "text": "I got distracted",
         "character": "",
         "audioUrl": "audio/american-dad/030_oh_you_know_i_was_gonna_do_it_yesterday_but_i_got_distracted.mp3"
       },
@@ -17155,17 +17155,17 @@ const shows = [
         "audioUrl": "audio/american-dad/034_rigging_elections_is_my_bread_and_butter_roger.mp3"
       },
       {
-        "text": "So if it's a statement, it should always be followed by a Steve.",
+        "text": "Followed by a Steve",
         "character": "",
         "audioUrl": "audio/american-dad/035_so_if_it_s_a_statement_it_should_always_be_followed_by_a_ste.mp3"
       },
       {
-        "text": "Steve's big boy hair isn't going to come in any faster with you taunting him.",
+        "text": "Steve's big boy hair",
         "character": "",
         "audioUrl": "audio/american-dad/036_steve_s_big_boy_hair_isn_t_going_to_come_in_any_faster_with.mp3"
       },
       {
-        "text": "Sure, you can vote for Shelley Maxwell if you don't mind voting for a prostitute.",
+        "text": "Voting for a prostitute",
         "character": "",
         "audioUrl": "audio/american-dad/037_sure_you_can_vote_for_shelley_maxwell_if_you_don_t_mind_voti.mp3"
       },
@@ -17175,12 +17175,12 @@ const shows = [
         "audioUrl": "audio/american-dad/038_that_s_my_boy.mp3"
       },
       {
-        "text": "Which means something might go down somewhere in some way at some point in time, so look sharp.",
+        "text": "Look sharp",
         "character": "",
         "audioUrl": "audio/american-dad/039_which_means_something_might_go_down_somewhere_in_some_way_at.mp3"
       },
       {
-        "text": "Whoa, you hear that, Hillary? Looks like you're a winner with Steve.",
+        "text": "A winner with Steve",
         "character": "",
         "audioUrl": "audio/american-dad/040_whoa_you_hear_that_hillary_looks_like_you_re_a_winner_with_s.mp3"
       },
@@ -17225,7 +17225,7 @@ const shows = [
         "audioUrl": "audio/american-dad/048_calling_dad.mp3"
       },
       {
-        "text": "Can't believe I am going to a dance with a nerd",
+        "text": "A dance with a nerd",
         "character": "",
         "audioUrl": "audio/american-dad/049_can_t_believe_i_am_going_to_a_dance_with_a_nerd.mp3"
       },
@@ -17325,7 +17325,7 @@ const shows = [
         "audioUrl": "audio/american-dad/068_i_am_just_so_hung_over.mp3"
       },
       {
-        "text": "I am sure he is just waiting for the perfect time",
+        "text": "Waiting for the perfect time",
         "character": "",
         "audioUrl": "audio/american-dad/069_i_am_sure_he_is_just_waiting_for_the_perfect_time.mp3"
       },
@@ -17350,7 +17350,7 @@ const shows = [
         "audioUrl": "audio/american-dad/073_i_promise_stuff_all_the_time_it_means_nothing.mp3"
       },
       {
-        "text": "I wanted to talk to you about what you just saw",
+        "text": "About what you just saw",
         "character": "",
         "audioUrl": "audio/american-dad/074_i_wanted_to_talk_to_you_about_what_you_just_saw.mp3"
       },
@@ -17550,7 +17550,7 @@ const shows = [
         "audioUrl": "audio/american-dad/113_that_s_what_your_mom_said_last_night.mp3"
       },
       {
-        "text": "The only girl in the office who looks good in the business suit",
+        "text": "Good in the business suit",
         "character": "",
         "audioUrl": "audio/american-dad/114_the_only_girl_in_the_office_who_looks_good_in_the_business_s.mp3"
       },
@@ -18605,7 +18605,7 @@ const shows = [
         "audioUrl": "audio/talladega-nights/007_help_me_oprah_winfrey.mp3"
       },
       {
-        "text": "Here's something to pick your spirits up (middle finger)",
+        "text": "Pick your spirits up",
         "character": "",
         "audioUrl": "audio/talladega-nights/008_here_s_something_to_pick_your_spirits_up_middle_finger.mp3"
       },
@@ -18645,7 +18645,7 @@ const shows = [
         "audioUrl": "audio/talladega-nights/015_i_was_high_when_i_said_that.mp3"
       },
       {
-        "text": "I'm as hard as a diamond in an ice storm right now",
+        "text": "Hard as a diamond",
         "character": "",
         "audioUrl": "audio/talladega-nights/016_i_m_as_hard_as_a_diamond_in_an_ice_storm_right_now.mp3"
       },
@@ -18755,7 +18755,7 @@ const shows = [
         "audioUrl": "audio/talladega-nights/037_thank_you_sweet_baby_jesus.mp3"
       },
       {
-        "text": "That idea ain't worth a velvet painting of a whale and a dolphin getting it on",
+        "text": "Velvet painting of a whale",
         "character": "",
         "audioUrl": "audio/talladega-nights/038_that_idea_ain_t_worth_a_velvet_painting_of_a_whale_and_a_dol.mp3"
       },
@@ -18973,7 +18973,7 @@ const shows = [
         "audioUrl": "audio/wedding-crashers/030_jesus.mp3"
       },
       {
-        "text": "Just a couple kids who like to fuck trying to make it honest",
+        "text": "A couple kids who like to fuck",
         "character": "",
         "audioUrl": "audio/wedding-crashers/031_just_a_couple_kids_who_like_to_fuck_trying_to_make_it_honest.mp3"
       },
@@ -19361,7 +19361,7 @@ const shows = [
         "audioUrl": "audio/superbad/040_that_was_like_8_years_ago_asshole.mp3"
       },
       {
-        "text": "The funny thing about my back is that it's located on my cock",
+        "text": "My back is on my cock",
         "character": "",
         "audioUrl": "audio/superbad/041_the_funny_thing_about_my_back_is_that_it_s_located_on_my_coc.mp3"
       },
@@ -19434,12 +19434,12 @@ const shows = [
         "audioUrl": "audio/this-is-the-end/002_bang_bang_your_e_dead.mp3"
       },
       {
-        "text": "Bang, bang, bang, you're dead. Pow, pow, pow. Stop, guys. Stop fucking with the gun.",
+        "text": "Stop fucking with the gun",
         "character": "",
         "audioUrl": "audio/this-is-the-end/003_bang_bang_bang_you_re_dead_pow_pow_pow_stop_guys_stop_fuckin.mp3"
       },
       {
-        "text": "Because if you want me to tell you fuck you, I will so good. Ohh you love.",
+        "text": "I will fuck you so good",
         "character": "",
         "audioUrl": "audio/this-is-the-end/004_because_if_you_want_me_to_tell_you_fuck_you_i_will_so_good_o.mp3"
       },
@@ -19474,7 +19474,7 @@ const shows = [
         "audioUrl": "audio/this-is-the-end/010_good_morning_sunshine.mp3"
       },
       {
-        "text": "Guys, guys, wake up. Danny's alive. He's eating all the fucking phone.",
+        "text": "He's eating the phone",
         "character": "",
         "audioUrl": "audio/this-is-the-end/011_guys_guys_wake_up_danny_s_alive_he_s_eating_all_the_fucking.mp3"
       },
@@ -19484,7 +19484,7 @@ const shows = [
         "audioUrl": "audio/this-is-the-end/012_he_s_eating_all_the_fucking_food.mp3"
       },
       {
-        "text": "Heading fucking Tatum. I found him wandering on the freeway. I collected them, made my bitch get off my Dick.",
+        "text": "Channing Tatum on the freeway",
         "character": "",
         "audioUrl": "audio/this-is-the-end/013_heading_fucking_tatum_i_found_him_wandering_on_the_freeway_i.mp3"
       },
@@ -19504,7 +19504,7 @@ const shows = [
         "audioUrl": "audio/this-is-the-end/016_i_have_a_particularly_explosive_ejaculate_it_just_goes_every.mp3"
       },
       {
-        "text": "I say unto thee. The power of Christ compels you. Doesn't compel me.",
+        "text": "The power of Christ compels you",
         "character": "",
         "audioUrl": "audio/this-is-the-end/017_i_say_unto_thee_the_power_of_christ_compels_you_doesn_t_comp.mp3"
       },
@@ -19539,12 +19539,12 @@ const shows = [
         "audioUrl": "audio/this-is-the-end/023_milky_way.mp3"
       },
       {
-        "text": "Oh my God, you guys are alive. You're actually alive, thank God.",
+        "text": "You're actually alive",
         "character": "",
         "audioUrl": "audio/this-is-the-end/024_oh_my_god_you_guys_are_alive_you_re_actually_alive_thank_god.mp3"
       },
       {
-        "text": "Please get the fuck out of here. Well. Fuck you, Kevin.",
+        "text": "Fuck you, Kevin",
         "character": "",
         "audioUrl": "audio/this-is-the-end/025_please_get_the_fuck_out_of_here_well_fuck_you_kevin.mp3"
       },
@@ -19609,7 +19609,7 @@ const shows = [
         "audioUrl": "audio/this-is-the-end/038_who_wants_a_sip.mp3"
       },
       {
-        "text": "You can't just leave him out there and die. Are you crazy?",
+        "text": "You can't leave him to die",
         "character": "",
         "audioUrl": "audio/this-is-the-end/039_you_can_t_just_leave_him_out_there_and_die_are_you_crazy.mp3"
       },
@@ -19760,7 +19760,7 @@ const shows = [
         "audioUrl": "audio/anchorman/001_afternoon_delight.mp3"
       },
       {
-        "text": "Al now brown cow how now brown cow al now brown cow",
+        "text": "How now brown cow",
         "character": "",
         "audioUrl": "audio/anchorman/002_al_now_brown_cow_how_now_brown_cow_al_now_brown_cow.mp3"
       },
@@ -19840,7 +19840,7 @@ const shows = [
         "audioUrl": "audio/anchorman/017_brick_yells.mp3"
       },
       {
-        "text": "But a home i mean where in all of god 's green goodness",
+        "text": "God's green goodness",
         "character": "",
         "audioUrl": "audio/anchorman/018_but_a_home_i_mean_where_in_all_of_god_s_green_goodness.mp3"
       },
@@ -19985,7 +19985,7 @@ const shows = [
         "audioUrl": "audio/anchorman/046_i_friggin_love_you.mp3"
       },
       {
-        "text": "I friggin love you (full)",
+        "text": "I friggin' love you (full)",
         "character": "",
         "audioUrl": "audio/anchorman/047_i_friggin_love_you_full.mp3"
       },
@@ -20015,7 +20015,7 @@ const shows = [
         "audioUrl": "audio/anchorman/052_i_like_the_way_your_put_together.mp3"
       },
       {
-        "text": "I look good i mean really good everyone coming feel goo",
+        "text": "I look really good",
         "character": "",
         "audioUrl": "audio/anchorman/053_i_look_good_i_mean_really_good_everyone_coming_feel_goo.mp3"
       },
@@ -20060,7 +20060,7 @@ const shows = [
         "audioUrl": "audio/anchorman/061_i_nailed_it.mp3"
       },
       {
-        "text": "I pure straight hate you. But God damnit do I respect you",
+        "text": "I hate you but respect you",
         "character": "",
         "audioUrl": "audio/anchorman/062_i_pure_straight_hate_you_but_god_damnit_do_i_respect_you.mp3"
       },
@@ -20135,7 +20135,7 @@ const shows = [
         "audioUrl": "audio/anchorman/076_i_m_ron_burgundy.mp3"
       },
       {
-        "text": "If I were to give you some money out of my wallet, would that ease the pain?",
+        "text": "Money to ease the pain?",
         "character": "",
         "audioUrl": "audio/anchorman/077_if_i_were_to_give_you_some_money_out_of_my_wallet_would_that.mp3"
       },
@@ -20335,7 +20335,7 @@ const shows = [
         "audioUrl": "audio/anchorman/116_smells_like_bigfoot_s_dick.mp3"
       },
       {
-        "text": "Son of a bee sting she's turning the entire office agai",
+        "text": "Son of a bee sting",
         "character": "",
         "audioUrl": "audio/anchorman/117_son_of_a_bee_sting_she_s_turning_the_entire_office_agai.mp3"
       },
@@ -20465,7 +20465,7 @@ const shows = [
         "audioUrl": "audio/anchorman/142_you_are_acting_like_a_baby.mp3"
       },
       {
-        "text": "You are not a man, you are a big fat joke",
+        "text": "A big fat joke",
         "character": "",
         "audioUrl": "audio/anchorman/143_you_are_not_a_man_you_are_a_big_fat_joke.mp3"
       },
@@ -20563,12 +20563,12 @@ const shows = [
         "audioUrl": "audio/office-space/002_and_here_s_something_else_bob.mp3"
       },
       {
-        "text": "And I said I don't care if they lay me off either because I told I told them that if they move my death one more time and then and then i'm quitting i'm going to quit and that hold on to because th...",
+        "text": "I'm going to quit",
         "character": "",
         "audioUrl": "audio/office-space/003_and_i_said_i_don_t_care_if_they_lay_me_off_either_because_i.mp3"
       },
       {
-        "text": "And so you gonna quit no not really i'm just going to stop going",
+        "text": "I'm just going to stop going",
         "character": "",
         "audioUrl": "audio/office-space/004_and_so_you_gonna_quit_no_not_really_i_m_just_going_to_stop_g.mp3"
       },
@@ -20578,7 +20578,7 @@ const shows = [
         "audioUrl": "audio/office-space/006_are_you_any_relation_to_the_pop_singer.mp3"
       },
       {
-        "text": "Asking some questions maybe seeing if there are some ways we can make things run a little more smoothly around here",
+        "text": "Make things run more smoothly",
         "character": "",
         "audioUrl": "audio/office-space/007_asking_some_questions_maybe_seeing_if_there_are_some_ways_we.mp3"
       },
@@ -20588,7 +20588,7 @@ const shows = [
         "audioUrl": "audio/office-space/008_back_up_in_your_ass_with_the_resurrection.mp3"
       },
       {
-        "text": "But I i will try that I could listen to the radio at a reasonable volume",
+        "text": "Radio at a reasonable volume",
         "character": "",
         "audioUrl": "audio/office-space/011_but_i_i_will_try_that_i_could_listen_to_the_radio_at_a_reaso.mp3"
       },
@@ -20623,12 +20623,12 @@ const shows = [
         "audioUrl": "audio/office-space/017_didn_t_you_get_that_memo.mp3"
       },
       {
-        "text": "Excuse Me (Lights Out)",
+        "text": "Excuse me (lights out)",
         "character": "",
         "audioUrl": "audio/office-space/021_excuse_me_lights_out.mp3"
       },
       {
-        "text": "For the one I already told you if I deal with the god damn customers so the engineers don't have to I have people skills I am good at dealing with people can't you understand that what the hell is ...",
+        "text": "I have people skills",
         "character": "",
         "audioUrl": "audio/office-space/025_for_the_one_i_already_told_you_if_i_deal_with_the_god_damn_c.mp3"
       },
@@ -20638,7 +20638,7 @@ const shows = [
         "audioUrl": "audio/office-space/028_going_to_federal_pound_me_in_the_ass_prison.mp3"
       },
       {
-        "text": "Good luck with your layoffs alright I hope your firings go really well",
+        "text": "Good luck with your layoffs",
         "character": "",
         "audioUrl": "audio/office-space/029_good_luck_with_your_layoffs_alright_i_hope_your_firings_go_r.mp3"
       },
@@ -20648,7 +20648,7 @@ const shows = [
         "audioUrl": "audio/office-space/031_he_represents_all_that_is_solace_and_wrong.mp3"
       },
       {
-        "text": "He represents all that is solace and wrong and you slept with him",
+        "text": "You slept with him",
         "character": "",
         "audioUrl": "audio/office-space/032_he_represents_all_that_is_solace_and_wrong_and_you_slept_wit.mp3"
       },
@@ -20663,17 +20663,17 @@ const shows = [
         "audioUrl": "audio/office-space/036_hey_peter_man_check_out_channel_9.mp3"
       },
       {
-        "text": "Human beings were not meant to sit in little cubicle staring at computer screens all day",
+        "text": "Not meant to sit in cubicles",
         "character": "",
         "audioUrl": "audio/office-space/039_human_beings_were_not_meant_to_sit_in_little_cubicle_staring.mp3"
       },
       {
-        "text": "I can't believe what a bunch of nerds we are we're looking up money laundering in a dictionary",
+        "text": "Money laundering in a dictionary",
         "character": "",
         "audioUrl": "audio/office-space/040_i_can_t_believe_what_a_bunch_of_nerds_we_are_we_re_looking_u.mp3"
       },
       {
-        "text": "I did nothing I did absolutely nothing and it was everything that I thought it could be",
+        "text": "I did absolutely nothing",
         "character": "",
         "audioUrl": "audio/office-space/041_i_did_nothing_i_did_absolutely_nothing_and_it_was_everything.mp3"
       },
@@ -20698,12 +20698,12 @@ const shows = [
         "audioUrl": "audio/office-space/045_i_had_an_idea_like_that.mp3"
       },
       {
-        "text": "I hate this job he hated doug him drop it I don't need it",
+        "text": "I hate this job",
         "character": "",
         "audioUrl": "audio/office-space/046_i_hate_this_job_he_hated_doug_him_drop_it_i_don_t_need_it.mp3"
       },
       {
-        "text": "I hate this job I hate this god damn job and I don't need it",
+        "text": "I hate this god damn job",
         "character": "",
         "audioUrl": "audio/office-space/047_i_hate_this_job_i_hate_this_god_damn_job_and_i_don_t_need_it.mp3"
       },
@@ -20718,12 +20718,12 @@ const shows = [
         "audioUrl": "audio/office-space/049_i_i_don_t_like_my_job_and.mp3"
       },
       {
-        "text": "I know how you get depressed about your job and all and I just wanted you to know that I know how you feel I used to be the same way really sure oh maybe I didn't whine as much but I bet I hated my...",
+        "text": "I know how you feel",
         "character": "",
         "audioUrl": "audio/office-space/050_i_know_how_you_get_depressed_about_your_job_and_all_and_i_ju.mp3"
       },
       {
-        "text": "I think that the guy might actually be able to help",
+        "text": "He might be able to help",
         "character": "",
         "audioUrl": "audio/office-space/051_i_think_that_the_guy_might_actually_be_able_to_help.mp3"
       },
@@ -20733,12 +20733,12 @@ const shows = [
         "audioUrl": "audio/office-space/052_i_think_the_building_is_on_fire.mp3"
       },
       {
-        "text": "I told us fudge packers are like michael bolton 's music",
+        "text": "Like Michael Bolton's music",
         "character": "",
         "audioUrl": "audio/office-space/053_i_told_us_fudge_packers_are_like_michael_bolton_s_music.mp3"
       },
       {
-        "text": "I'll go ahead and make sure you get another copy that memo",
+        "text": "Another copy of that memo",
         "character": "",
         "audioUrl": "audio/office-space/054_i_ll_go_ahead_and_make_sure_you_get_another_copy_that_memo.mp3"
       },
@@ -20748,17 +20748,17 @@ const shows = [
         "audioUrl": "audio/office-space/055_i_m_a_michael_bolton_fan.mp3"
       },
       {
-        "text": "I'm also going to need to go ahead and come in on sunday",
+        "text": "Come in on Sunday",
         "character": "",
         "audioUrl": "audio/office-space/056_i_m_also_going_to_need_to_go_ahead_and_come_in_on_sunday.mp3"
       },
       {
-        "text": "I'm going to have to go ahead and sort of disagree with you there",
+        "text": "I'm gonna disagree with you there",
         "character": "",
         "audioUrl": "audio/office-space/057_i_m_going_to_have_to_go_ahead_and_sort_of_disagree_with_you.mp3"
       },
       {
-        "text": "I'm going to need you to go ahead and come in tomorrow",
+        "text": "Come in tomorrow",
         "character": "",
         "audioUrl": "audio/office-space/058_i_m_going_to_need_you_to_go_ahead_and_come_in_tomorrow.mp3"
       },
@@ -20768,7 +20768,7 @@ const shows = [
         "audioUrl": "audio/office-space/059_i_m_just_not_sure_about_that_right_now.mp3"
       },
       {
-        "text": "I'm sorry man look I you know i'm talking out of my ass",
+        "text": "I'm talking out of my ass",
         "character": "",
         "audioUrl": "audio/office-space/060_i_m_sorry_man_look_i_you_know_i_m_talking_out_of_my_ass.mp3"
       },
@@ -20778,12 +20778,12 @@ const shows = [
         "audioUrl": "audio/office-space/061_i_ve_been_a_real_asshole.mp3"
       },
       {
-        "text": "If you could just go ahead and make sure you do that from now on that would be great",
+        "text": "That would be great",
         "character": "",
         "audioUrl": "audio/office-space/062_if_you_could_just_go_ahead_and_make_sure_you_do_that_from_no.mp3"
       },
       {
-        "text": "Is a problem of motivation all right now if I work my ass off and initech ships a few extra units I don't see another dime so where's the motivation",
+        "text": "Where's the motivation?",
         "character": "",
         "audioUrl": "audio/office-space/063_is_a_problem_of_motivation_all_right_now_if_i_work_my_ass_of.mp3"
       },
@@ -20793,7 +20793,7 @@ const shows = [
         "audioUrl": "audio/office-space/064_is_this_good_for_the_company.mp3"
       },
       {
-        "text": "It's not that i'm lazy it's that I just don't care",
+        "text": "It's not that I'm lazy",
         "character": "",
         "audioUrl": "audio/office-space/065_it_s_not_that_i_m_lazy_it_s_that_i_just_don_t_care.mp3"
       },
@@ -20838,7 +20838,7 @@ const shows = [
         "audioUrl": "audio/office-space/078_oh_and_remember_next_friday_is_hawaiian_shirt_day.mp3"
       },
       {
-        "text": "Oh sounds like somebody 's got a case of the manders",
+        "text": "A case of the Mondays",
         "character": "",
         "audioUrl": "audio/office-space/079_oh_sounds_like_somebody_s_got_a_case_of_the_manders.mp3"
       },
@@ -20873,7 +20873,7 @@ const shows = [
         "audioUrl": "audio/office-space/089_question_is_bullshit_to_begin_with.mp3"
       },
       {
-        "text": "Quit getting pissed at me alright this is all your idea asshole",
+        "text": "This is all your idea",
         "character": "",
         "audioUrl": "audio/office-space/090_quit_getting_pissed_at_me_alright_this_is_all_your_idea_assh.mp3"
       },
@@ -20888,22 +20888,22 @@ const shows = [
         "audioUrl": "audio/office-space/092_she_gets_around_high.mp3"
       },
       {
-        "text": "Shit i'm a free man I haven't had a conjugal visit in six months",
+        "text": "I'm a free man",
         "character": "",
         "audioUrl": "audio/office-space/093_shit_i_m_a_free_man_i_haven_t_had_a_conjugal_visit_in_six_mo.mp3"
       },
       {
-        "text": "So I guess we should probably go ahead and have a little talk",
+        "text": "Have a little talk",
         "character": "",
         "audioUrl": "audio/office-space/096_so_i_guess_we_should_probably_go_ahead_and_have_a_little_tal.mp3"
       },
       {
-        "text": "So I was sitting in my cubicle today and I realized ever since I started working",
+        "text": "Sitting in my cubicle",
         "character": "",
         "audioUrl": "audio/office-space/097_so_i_was_sitting_in_my_cubicle_today_and_i_realized_ever_sin.mp3"
       },
       {
-        "text": "So if you could be here around nine that would be great",
+        "text": "Be here around nine",
         "character": "",
         "audioUrl": "audio/office-space/098_so_if_you_could_be_here_around_nine_that_would_be_great.mp3"
       },
@@ -20913,7 +20913,7 @@ const shows = [
         "audioUrl": "audio/office-space/099_so_what_we_re_all_screwed_that_s_watch.mp3"
       },
       {
-        "text": "So you gonna get another job I don't think i'd like another job wanting to do about money and build and you know i've never really liked paying bills I don't think i'm going to do that either",
+        "text": "I don't want another job",
         "character": "",
         "audioUrl": "audio/office-space/100_so_you_gonna_get_another_job_i_don_t_think_i_d_like_another.mp3"
       },
@@ -20938,7 +20938,7 @@ const shows = [
         "audioUrl": "audio/office-space/104_someone_has_the_case_of_the_mondays.mp3"
       },
       {
-        "text": "Something I might take that need state from majestic things go well I might be showing in my oh face oh oh oh you know what i'm talking about",
+        "text": "My O-face",
         "character": "",
         "audioUrl": "audio/office-space/105_something_i_might_take_that_need_state_from_majestic_things.mp3"
       },
@@ -20973,12 +20973,12 @@ const shows = [
         "audioUrl": "audio/office-space/114_the_fuck_is_that_mean.mp3"
       },
       {
-        "text": "The minimum security prison is no picnic have a client in there right now says that ricky is kick someones ass first day or becomes almost pitch then everything will be alright",
+        "text": "Minimum security is no picnic",
         "character": "",
         "audioUrl": "audio/office-space/115_the_minimum_security_prison_is_no_picnic_have_a_client_in_th.mp3"
       },
       {
-        "text": "The problem is just that I forgot the one time and i've already taken care of it so it's not even really a problem anymore",
+        "text": "I forgot the one time",
         "character": "",
         "audioUrl": "audio/office-space/116_the_problem_is_just_that_i_forgot_the_one_time_and_i_ve_alre.mp3"
       },
@@ -20998,7 +20998,7 @@ const shows = [
         "audioUrl": "audio/office-space/124_we_fixed_the_glitch.mp3"
       },
       {
-        "text": "We get caught laundering money we're not going to white collar resort prison no no we're going to federal pound me in the ass prison",
+        "text": "Pound me in the ass prison",
         "character": "",
         "audioUrl": "audio/office-space/125_we_get_caught_laundering_money_we_re_not_going_to_white_coll.mp3"
       },
@@ -21038,7 +21038,7 @@ const shows = [
         "audioUrl": "audio/office-space/134_what_if_we_re_still_doing_this_when_we_re_fifty.mp3"
       },
       {
-        "text": "What is the worst idea i've ever heard in my life",
+        "text": "The worst idea ever",
         "character": "",
         "audioUrl": "audio/office-space/135_what_is_the_worst_idea_i_ve_ever_heard_in_my_life.mp3"
       },
@@ -21063,17 +21063,17 @@ const shows = [
         "audioUrl": "audio/office-space/139_what_would_you_do_if_you_had_a_million_dollars.mp3"
       },
       {
-        "text": "What you sent me but what if you were offered some kind of stock option equity sharing program but that do anything for you I don't know I guess",
+        "text": "A stock option program",
         "character": "",
         "audioUrl": "audio/office-space/140_what_you_sent_me_but_what_if_you_were_offered_some_kind_of_s.mp3"
       },
       {
-        "text": "Where does it say paper jam indices no paper jam I swear to god at one of these days I i just kick you piece of shit out with windows you made both men things lucky i'm not armed",
+        "text": "No paper jam",
         "character": "",
         "audioUrl": "audio/office-space/143_where_does_it_say_paper_jam_indices_no_paper_jam_i_swear_to.mp3"
       },
       {
-        "text": "Why does it so different in windows is no paper jam I swear to god at one of these days I i just take this piece of shit out the window",
+        "text": "No paper jam (windows)",
         "character": "",
         "audioUrl": "audio/office-space/144_why_does_it_so_different_in_windows_is_no_paper_jam_i_swear.mp3"
       },
@@ -21098,7 +21098,7 @@ const shows = [
         "audioUrl": "audio/office-space/150_yeah_well_least_your_name_is_michael_bolton.mp3"
       },
       {
-        "text": "You apparently didn't put one of the new cover sheets on your TPS reports",
+        "text": "Cover sheets on TPS reports",
         "character": "",
         "audioUrl": "audio/office-space/151_you_apparently_didn_t_put_one_of_the_new_cover_sheets_on_you.mp3"
       },
@@ -21108,22 +21108,22 @@ const shows = [
         "audioUrl": "audio/office-space/152_you_do_want_to_express_yourself_don_t_you.mp3"
       },
       {
-        "text": "You know the nazis had pieces of flair that they made the jews wear",
+        "text": "Pieces of flair",
         "character": "",
         "audioUrl": "audio/office-space/153_you_know_the_nazis_had_pieces_of_flair_that_they_made_the_je.mp3"
       },
       {
-        "text": "You know there are people in this world that don't have to put up with all",
+        "text": "People don't put up with this",
         "character": "",
         "audioUrl": "audio/office-space/154_you_know_there_are_people_in_this_world_that_don_t_have_to_p.mp3"
       },
       {
-        "text": "You know there are people in this world that don't have to put up with all this shit",
+        "text": "People don't put up with this shit",
         "character": "",
         "audioUrl": "audio/office-space/155_you_know_there_are_people_in_this_world_that_don_t_have_to_p.mp3"
       },
       {
-        "text": "You see we're putting the cover sheets on all TPS reports now before they go out",
+        "text": "Cover sheets on all TPS reports",
         "character": "",
         "audioUrl": "audio/office-space/156_you_see_we_re_putting_the_cover_sheets_on_all_tps_reports_no.mp3"
       },
@@ -21148,12 +21148,12 @@ const shows = [
         "audioUrl": "audio/office-space/160_baby_your_man_check_out_channel_nine_togethers_jet.mp3"
       },
       {
-        "text": "But do you would I do man two chicks at the same time now",
+        "text": "Two chicks at the same time",
         "character": "",
         "audioUrl": "audio/office-space/162_but_do_you_would_i_do_man_two_chicks_at_the_same_time_now.mp3"
       },
       {
-        "text": "But that takes a double up on a dude like me do",
+        "text": "A dude like me",
         "character": "",
         "audioUrl": "audio/office-space/163_but_that_takes_a_double_up_on_a_dude_like_me_do.mp3"
       },
@@ -21168,12 +21168,12 @@ const shows = [
         "audioUrl": "audio/office-space/165_check_this_out_dude.mp3"
       },
       {
-        "text": "Damn straight always wanted to do that then I think of our millionaire I could hook that up too 'cause chicks dig dudes with money",
+        "text": "Chicks dig dudes with money",
         "character": "",
         "audioUrl": "audio/office-space/167_damn_straight_always_wanted_to_do_that_then_i_think_of_our_m.mp3"
       },
       {
-        "text": "Duck out early turn off your answering machine you should be home pretty bang",
+        "text": "Duck out early",
         "character": "",
         "audioUrl": "audio/office-space/168_duck_out_early_turn_off_your_answering_machine_you_should_be.mp3"
       },
@@ -21183,12 +21183,12 @@ const shows = [
         "audioUrl": "audio/office-space/169_hey_peter_yeah_watch_out_for_a_cornhole_bud.mp3"
       },
       {
-        "text": "Hey she had been over here in a while you two still going up",
+        "text": "You two still going?",
         "character": "",
         "audioUrl": "audio/office-space/170_hey_she_had_been_over_here_in_a_while_you_two_still_going_up.mp3"
       },
       {
-        "text": "I don't know man I just get that feeling looking at her like she's the tablet richter just who",
+        "text": "I get that feeling",
         "character": "",
         "audioUrl": "audio/office-space/171_i_don_t_know_man_i_just_get_that_feeling_looking_at_her_like.mp3"
       },
@@ -21203,12 +21203,12 @@ const shows = [
         "audioUrl": "audio/office-space/173_it_s_a_bummer_dude_could_have_seen.mp3"
       },
       {
-        "text": "No thanks man I don't want you fucking up my life do",
+        "text": "Don't fuck up my life",
         "character": "",
         "audioUrl": "audio/office-space/176_no_thanks_man_i_don_t_want_you_fucking_up_my_life_do.mp3"
       },
       {
-        "text": "Oh I gotta wake my ass up at six AM everyday this week",
+        "text": "Up at six AM",
         "character": "",
         "audioUrl": "audio/office-space/177_oh_i_gotta_wake_my_ass_up_at_six_am_everyday_this_week.mp3"
       },
@@ -21218,7 +21218,7 @@ const shows = [
         "audioUrl": "audio/office-space/178_oh_sorry_man_an_over_there_some.mp3"
       },
       {
-        "text": "Shit no man I believe you get your ass kicked saying so much batman",
+        "text": "You'll get your ass kicked",
         "character": "",
         "audioUrl": "audio/office-space/179_shit_no_man_i_believe_you_get_your_ass_kicked_saying_so_much.mp3"
       },
@@ -21248,7 +21248,7 @@ const shows = [
         "audioUrl": "audio/office-space/184_yeah_i_get_that_feeling_too_man.mp3"
       },
       {
-        "text": "Yeah i'm doing the drywall up there at the new mcdonald's",
+        "text": "Drywall at the new McDonald's",
         "character": "",
         "audioUrl": "audio/office-space/185_yeah_i_m_doing_the_drywall_up_there_at_the_new_mcdonald_s.mp3"
       }
@@ -22358,7 +22358,7 @@ const shows = [
         "audioUrl": "audio/the-other-guys/014_desk_pop.mp3"
       },
       {
-        "text": "Did That Go The Way You Thought It Was Going To Go?",
+        "text": "Did that go the way you thought?",
         "character": "",
         "audioUrl": "audio/the-other-guys/015_did_that_go_the_way_you_thought_it_was_going_to_go.mp3"
       },
@@ -22453,12 +22453,12 @@ const shows = [
         "audioUrl": "audio/the-other-guys/033_i_got_to_go.mp3"
       },
       {
-        "text": "I just don't want to feel like that out of control ever again",
+        "text": "Out of control again",
         "character": "",
         "audioUrl": "audio/the-other-guys/034_i_just_don_t_want_to_feel_like_that_out_of_control_ever_agai.mp3"
       },
       {
-        "text": "I made a promise to her I would never get out of control again",
+        "text": "I made a promise",
         "character": "",
         "audioUrl": "audio/the-other-guys/035_i_made_a_promise_to_her_i_would_never_get_out_of_control_aga.mp3"
       },
@@ -22678,7 +22678,7 @@ const shows = [
         "audioUrl": "audio/the-other-guys/078_yes_that_s_exactly_what_s_happening.mp3"
       },
       {
-        "text": "You guys are fighting over who's going to be the next hotshot",
+        "text": "The next hotshot",
         "character": "",
         "audioUrl": "audio/the-other-guys/079_you_guys_are_fighting_over_who_s_going_to_be_the_next_hotsho.mp3"
       },
@@ -23442,7 +23442,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/013_to_you_sir_i_say_goodbye.mp3"
       },
       {
-        "text": "Well come on inside and get yourself something cool to drink",
+        "text": "Something cool to drink",
         "character": "",
         "audioUrl": "audio/django-unchained/014_well_come_on_inside_and_get_yourself_something_cool_to_drink.mp3"
       },
@@ -23477,7 +23477,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/021_and_all_i_can_hear_is_criticize_criticize_criticize.mp3"
       },
       {
-        "text": "And all y'all know I ain't supposed to be on this trip",
+        "text": "Not supposed to be on this trip",
         "character": "",
         "audioUrl": "audio/django-unchained/022_and_all_y_all_know_i_ain_t_supposed_to_be_on_this_trip.mp3"
       },
@@ -23497,27 +23497,27 @@ const shows = [
         "audioUrl": "audio/django-unchained/025_and_i_do_believe_i_have_one_two_three_four.mp3"
       },
       {
-        "text": "And I take it you prefer the take it or leave it style of negotiation?",
+        "text": "Take it or leave it",
         "character": "",
         "audioUrl": "audio/django-unchained/026_and_i_take_it_you_prefer_the_take_it_or_leave_it_style_of_ne.mp3"
       },
       {
-        "text": "And I was wondering what Dumas would make of all this",
+        "text": "What would Dumas make of this",
         "character": "",
         "audioUrl": "audio/django-unchained/027_and_i_was_wondering_what_dumas_would_make_of_all_this.mp3"
       },
       {
-        "text": "And it is for these attributes we've ridden from Texas to Tennessee",
+        "text": "From Texas to Tennessee",
         "character": "",
         "audioUrl": "audio/django-unchained/028_and_it_is_for_these_attributes_we_ve_ridden_from_texas_to_te.mp3"
       },
       {
-        "text": "And she ain't gonna be worth... she ain't gonna be worth a damn thing",
+        "text": "Won't be worth a damn thing",
         "character": "",
         "audioUrl": "audio/django-unchained/029_and_she_ain_t_gonna_be_worth_she_ain_t_gonna_be_worth_a_damn.mp3"
       },
       {
-        "text": "And the way you have your Mr. Moguy, I have a lawyer",
+        "text": "I have a lawyer",
         "character": "",
         "audioUrl": "audio/django-unchained/030_and_the_way_you_have_your_mr_moguy_i_have_a_lawyer.mp3"
       },
@@ -23562,12 +23562,12 @@ const shows = [
         "audioUrl": "audio/django-unchained/042_but_now_you_have_my_attention.mp3"
       },
       {
-        "text": "But she's a young lady, whip marks on her back and speaks German.",
+        "text": "Whip marks, speaks German",
         "character": "",
         "audioUrl": "audio/django-unchained/043_but_she_s_a_young_lady_whip_marks_on_her_back_and_speaks_ger.mp3"
       },
       {
-        "text": "But, like you said in Greenville, doctor... I don't want to sell him",
+        "text": "I don't want to sell him",
         "character": "",
         "audioUrl": "audio/django-unchained/044_but_like_you_said_in_greenville_doctor_i_don_t_want_to_sell.mp3"
       },
@@ -23622,7 +23622,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/061_get_her_cleaned_up_and_smellin_real_nice.mp3"
       },
       {
-        "text": "Get out there and see what's wrong with them goddamn dogs!",
+        "text": "What's wrong with them dogs",
         "character": "",
         "audioUrl": "audio/django-unchained/062_get_out_there_and_see_what_s_wrong_with_them_goddamn_dogs.mp3"
       },
@@ -23652,12 +23652,12 @@ const shows = [
         "audioUrl": "audio/django-unchained/084_how_far_he_get_off_the_property.mp3"
       },
       {
-        "text": "How many n****** you think you see come and go, huh?",
+        "text": "How many n****** come and go?",
         "character": "",
         "audioUrl": "audio/django-unchained/086_how_many_n_you_think_you_see_come_and_go_huh.mp3"
       },
       {
-        "text": "Huh. Well, just leave 'em out here, they ain't going nowhere",
+        "text": "They ain't going nowhere",
         "character": "",
         "audioUrl": "audio/django-unchained/087_huh_well_just_leave_em_out_here_they_ain_t_going_nowhere.mp3"
       },
@@ -23677,7 +23677,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/091_i_can_t_fight_no_more_monsieur_candie.mp3"
       },
       {
-        "text": "I do believe you were just getting ready to make me",
+        "text": "Getting ready to make me",
         "character": "",
         "audioUrl": "audio/django-unchained/092_i_do_believe_you_were_just_getting_ready_to_make_me.mp3"
       },
@@ -23687,12 +23687,12 @@ const shows = [
         "audioUrl": "audio/django-unchained/094_i_got_no_use_for_a_n_with_sand.mp3"
       },
       {
-        "text": "I track that man, I find that man, I kill that man.",
+        "text": "Track, find, kill that man",
         "character": "",
         "audioUrl": "audio/django-unchained/097_i_track_that_man_i_find_that_man_i_kill_that_man.mp3"
       },
       {
-        "text": "I'd take that winter coat the dear departed Speck left behind.",
+        "text": "The dead man's winter coat",
         "character": "",
         "audioUrl": "audio/django-unchained/098_i_d_take_that_winter_coat_the_dear_departed_speck_left_behin.mp3"
       },
@@ -23707,7 +23707,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/103_i_m_keeping_it_funny_for_you_now_john_please.mp3"
       },
       {
-        "text": "I've been led to believe that you are a gentleman and a businessman.",
+        "text": "A gentleman and businessman",
         "character": "",
         "audioUrl": "audio/django-unchained/105_i_ve_been_led_to_believe_that_you_are_a_gentleman_and_a_busi.mp3"
       },
@@ -23717,7 +23717,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/106_is_that_who_you_was_lookin_for.mp3"
       },
       {
-        "text": "Is you comin' with me or is you gonna sleep in that little box over yonder?",
+        "text": "Sleep in that little box?",
         "character": "",
         "audioUrl": "audio/django-unchained/107_is_you_comin_with_me_or_is_you_gonna_sleep_in_that_little_bo.mp3"
       },
@@ -23727,7 +23727,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/108_it_is_the_soaring_eagle_that_attracts_her_attention.mp3"
       },
       {
-        "text": "It's against the law for n****** to ride horses in this territory.",
+        "text": "N****** can't ride horses here",
         "character": "",
         "audioUrl": "audio/django-unchained/109_it_s_against_the_law_for_n_to_ride_horses_in_this_territory.mp3"
       },
@@ -23737,7 +23737,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/114_lara_lee_will_you_and_cora_be_responsible.mp3"
       },
       {
-        "text": "Last time I seen you, you had your hands on my...",
+        "text": "Hands on my...",
         "character": "",
         "audioUrl": "audio/django-unchained/115_last_time_i_seen_you_you_had_your_hands_on_my.mp3"
       },
@@ -23757,7 +23757,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/119_line_em_up_to_the_left_here_now_boy.mp3"
       },
       {
-        "text": "Look, Monsieur Candie, they were all fine specimens, no doubt about it.",
+        "text": "All fine specimens",
         "character": "",
         "audioUrl": "audio/django-unchained/120_look_monsieur_candie_they_were_all_fine_specimens_no_doubt_a.mp3"
       },
@@ -23772,7 +23772,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/122_may_i_present_to_you_lara_lee_candie_fitzwilly.mp3"
       },
       {
-        "text": "Move that buckboard a long ways across the street from the saloon.",
+        "text": "Move that buckboard",
         "character": "",
         "audioUrl": "audio/django-unchained/126_move_that_buckboard_a_long_ways_across_the_street_from_the_s.mp3"
       },
@@ -23787,12 +23787,12 @@ const shows = [
         "audioUrl": "audio/django-unchained/129_my_partner_got_killed_calvin_candie_got_shot.mp3"
       },
       {
-        "text": "N***** and the German was actin' like they were slavers but they wasn't",
+        "text": "Acting like slavers",
         "character": "",
         "audioUrl": "audio/django-unchained/130_n_and_the_german_was_actin_like_they_were_slavers_but_they_w.mp3"
       },
       {
-        "text": "Now why would a slave have a Wanted Dead or Alive handbill in his pocket?",
+        "text": "A slave with a wanted handbill",
         "character": "",
         "audioUrl": "audio/django-unchained/135_now_why_would_a_slave_have_a_wanted_dead_or_alive_handbill_i.mp3"
       },
@@ -23802,17 +23802,17 @@ const shows = [
         "audioUrl": "audio/django-unchained/136_now_boy_why_do_a_fool_thing_like_run_off.mp3"
       },
       {
-        "text": "Now, gentlemen, I do apologize, but I am weary from our travels beyond words.",
+        "text": "Weary from our travels",
         "character": "",
         "audioUrl": "audio/django-unchained/138_now_gentlemen_i_do_apologize_but_i_am_weary_from_our_travels.mp3"
       },
       {
-        "text": "Now, may I please remove the warrant from my pocket so you may examine it?",
+        "text": "Remove the warrant",
         "character": "",
         "audioUrl": "audio/django-unchained/139_now_may_i_please_remove_the_warrant_from_my_pocket_so_you_ma.mp3"
       },
       {
-        "text": "Now, why that German gives a fuck who that uppity son of a bitch",
+        "text": "That uppity son of a bitch",
         "character": "",
         "audioUrl": "audio/django-unchained/141_now_why_that_german_gives_a_fuck_who_that_uppity_son_of_a_bi.mp3"
       },
@@ -23822,7 +23822,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/144_oh_monsieur_candie_you_can_t_imagine_what_it_s_like.mp3"
       },
       {
-        "text": "Oh, Mr. Bennett, I must remind you, Django is a free man.",
+        "text": "Django is a free man",
         "character": "",
         "audioUrl": "audio/django-unchained/145_oh_mr_bennett_i_must_remind_you_django_is_a_free_man.mp3"
       },
@@ -23837,7 +23837,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/151_old_man_carrucan_ain_t_gonna_appreciate_this_now.mp3"
       },
       {
-        "text": "Old Man Carrucan didn't. That's why we, uh... we run off.",
+        "text": "That's why we run off",
         "character": "",
         "audioUrl": "audio/django-unchained/152_old_man_carrucan_didn_t_that_s_why_we_uh_we_run_off.mp3"
       },
@@ -23852,22 +23852,22 @@ const shows = [
         "audioUrl": "audio/django-unchained/155_one_could_almost_say_youse_a_n.mp3"
       },
       {
-        "text": "Please, won't you take a ride with us here in the Victoria.",
+        "text": "Take a ride in the Victoria",
         "character": "",
         "audioUrl": "audio/django-unchained/156_please_won_t_you_take_a_ride_with_us_here_in_the_victoria.mp3"
       },
       {
-        "text": "See, I told you to put some more power in there.",
+        "text": "Put more power in there",
         "character": "",
         "audioUrl": "audio/django-unchained/159_see_i_told_you_to_put_some_more_power_in_there.mp3"
       },
       {
-        "text": "Seein' as how they don't have many n****** where he come from",
+        "text": "Not many n****** where he's from",
         "character": "",
         "audioUrl": "audio/django-unchained/160_seein_as_how_they_don_t_have_many_n_where_he_come_from.mp3"
       },
       {
-        "text": "Shut up, black. You ain't got nothing to say I want to hear",
+        "text": "Shut up, black",
         "character": "",
         "audioUrl": "audio/django-unchained/163_shut_up_black_you_ain_t_got_nothing_to_say_i_want_to_hear.mp3"
       },
@@ -23877,7 +23877,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/164_smitty_bacall_and_the_smitty_bacall.mp3"
       },
       {
-        "text": "So before that moment, it would be good if I could have",
+        "text": "Before that moment",
         "character": "",
         "audioUrl": "audio/django-unchained/165_so_before_that_moment_it_would_be_good_if_i_could_have.mp3"
       },
@@ -23912,12 +23912,12 @@ const shows = [
         "audioUrl": "audio/django-unchained/173_the_farmer_is_forced_to_say_yes.mp3"
       },
       {
-        "text": "The man lying dead in the dirt, who the good people of Daughtrey",
+        "text": "The man dead in the dirt",
         "character": "",
         "audioUrl": "audio/django-unchained/175_the_man_lying_dead_in_the_dirt_who_the_good_people_of_daught.mp3"
       },
       {
-        "text": "The man to my left is Django Freeman. He's my deputy.",
+        "text": "Django Freeman, my deputy",
         "character": "",
         "audioUrl": "audio/django-unchained/176_the_man_to_my_left_is_django_freeman_he_s_my_deputy.mp3"
       },
@@ -23927,12 +23927,12 @@ const shows = [
         "audioUrl": "audio/django-unchained/177_their_name_is_brittle_you_know_em.mp3"
       },
       {
-        "text": "These three dimples exist in the area of the skull most associated with...",
+        "text": "These three dimples",
         "character": "",
         "audioUrl": "audio/django-unchained/179_these_three_dimples_exist_in_the_area_of_the_skull_most_asso.mp3"
       },
       {
-        "text": "These three dimples would be found in the area of the skull",
+        "text": "Dimples in the skull",
         "character": "",
         "audioUrl": "audio/django-unchained/180_these_three_dimples_would_be_found_in_the_area_of_the_skull.mp3"
       },
@@ -23952,7 +23952,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/185_to_the_man_with_the_exceptional_beard.mp3"
       },
       {
-        "text": "We rode five hours so you could show off your stock.",
+        "text": "Show off your stock",
         "character": "",
         "audioUrl": "audio/django-unchained/188_we_rode_five_hours_so_you_could_show_off_your_stock.mp3"
       },
@@ -23972,7 +23972,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/191_well_let_me_get_this_straight.mp3"
       },
       {
-        "text": "Well, way he looks now, a blind Indian wouldn't bet a bead on him.",
+        "text": "A blind Indian wouldn't bet",
         "character": "",
         "audioUrl": "audio/django-unchained/192_well_way_he_looks_now_a_blind_indian_wouldn_t_bet_a_bead_on.mp3"
       },
@@ -23982,12 +23982,12 @@ const shows = [
         "audioUrl": "audio/django-unchained/193_well_we_weren_t_talkin_business_yet.mp3"
       },
       {
-        "text": "Well, what if I was to say I don't like you?",
+        "text": "What if I don't like you?",
         "character": "",
         "audioUrl": "audio/django-unchained/194_well_what_if_i_was_to_say_i_don_t_like_you.mp3"
       },
       {
-        "text": "What is the point of havin' a n***** that speaks German",
+        "text": "A n***** that speaks German",
         "character": "",
         "audioUrl": "audio/django-unchained/198_what_is_the_point_of_havin_a_n_that_speaks_german.mp3"
       },
@@ -24017,7 +24017,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/209_why_not_monsieur_candie_you_have_a_deal.mp3"
       },
       {
-        "text": "Why would they go through all that trouble for a n*****",
+        "text": "All that trouble for a n*****",
         "character": "",
         "audioUrl": "audio/django-unchained/210_why_would_they_go_through_all_that_trouble_for_a_n.mp3"
       },
@@ -24027,12 +24027,12 @@ const shows = [
         "audioUrl": "audio/django-unchained/212_will_you_make_these_gentlemen_a_receipt_for_12_000_please.mp3"
       },
       {
-        "text": "Would you be a dear, go out there and give them gals an eyeball? Hm?",
+        "text": "Give them gals an eyeball",
         "character": "",
         "audioUrl": "audio/django-unchained/213_would_you_be_a_dear_go_out_there_and_give_them_gals_an_eyeba.mp3"
       },
       {
-        "text": "You could mess her skin up, and you gonna mess her up",
+        "text": "You gonna mess her up",
         "character": "",
         "audioUrl": "audio/django-unchained/219_you_could_mess_her_skin_up_and_you_gonna_mess_her_up.mp3"
       },
@@ -24067,12 +24067,12 @@ const shows = [
         "audioUrl": "audio/django-unchained/228_you_see_under_the_laws_of_chickasaw_county.mp3"
       },
       {
-        "text": "You see, you wanna buy a beat ass n***** from me,",
+        "text": "Buy a beat ass n***** from me",
         "character": "",
         "audioUrl": "audio/django-unchained/229_you_see_you_wanna_buy_a_beat_ass_n_from_me.mp3"
       },
       {
-        "text": "You work with me through the winter till the snow melts...",
+        "text": "Till the snow melts",
         "character": "",
         "audioUrl": "audio/django-unchained/231_you_work_with_me_through_the_winter_till_the_snow_melts.mp3"
       },
@@ -24087,7 +24087,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/234_you_re_yelling_abuse_at_these_poor_slaves.mp3"
       },
       {
-        "text": "Your slave wife speaks German and her name is Broomhilda Von Shaft?",
+        "text": "Broomhilda Von Shaft",
         "character": "",
         "audioUrl": "audio/django-unchained/235_your_slave_wife_speaks_german_and_her_name_is_broomhilda_von.mp3"
       },
@@ -24117,7 +24117,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/243_hurry_up_girl_these_ready_miss_cora.mp3"
       },
       {
-        "text": "I think you are a bad loser. And I think you're an abysmal winner",
+        "text": "A bad loser, abysmal winner",
         "character": "",
         "audioUrl": "audio/django-unchained/245_i_think_you_are_a_bad_loser_and_i_think_you_re_an_abysmal_wi.mp3"
       },
@@ -24162,7 +24162,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/257_thank_you_ever_so_much_doctor.mp3"
       },
       {
-        "text": "We gonna offer to buy Candyland? No, it's far too big.",
+        "text": "Buy Candyland?",
         "character": "",
         "audioUrl": "audio/django-unchained/258_we_gonna_offer_to_buy_candyland_no_it_s_far_too_big.mp3"
       },
@@ -24192,7 +24192,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/267_and_in_my_world_you_gotta_get_dirty.mp3"
       },
       {
-        "text": "...but I can't let you go to Greenville in a good conscience",
+        "text": "Can't let you go to Greenville",
         "character": "",
         "audioUrl": "audio/django-unchained/269_but_i_can_t_let_you_go_to_greenville_in_a_good_conscience.mp3"
       },
@@ -24300,7 +24300,7 @@ const shows = [
         "audioUrl": "audio/dodgeball/016_i_m_not_dumb.mp3"
       },
       {
-        "text": "If you can dodge a wrench you can dodge a ball",
+        "text": "Dodge a wrench, dodge a ball",
         "character": "",
         "audioUrl": "audio/dodgeball/017_if_you_can_dodge_a_wrench_you_can_dodge_a_ball.mp3"
       },

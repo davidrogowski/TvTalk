@@ -49,6 +49,7 @@ shows:
     name: "Family Guy"
     board_url: "https://www.101soundboards.com/boards/22137-family-guy-soundboard"
     status: pending
+    preserve_transcripts: true
     text_style: "title"
     theme:
       primary: "#cc2030"
@@ -109,6 +110,7 @@ shows:
     name: "It's Always Sunny in Philadelphia"
     board_url: "https://www.101soundboards.com/boards/24751-its-always-sunny-in-philadelphia-soundboard"
     status: pending
+    preserve_transcripts: true
     text_style: "title"
     theme:
       primary: "#3a6b34"
@@ -140,6 +142,7 @@ shows:
     name: "The Wire"
     board_url: "https://www.101soundboards.com/boards/85760-the-wire-soundboard"
     status: pending
+    preserve_transcripts: true
     text_style: "title"
     theme:
       primary: "#a04020"
@@ -150,6 +153,7 @@ shows:
     name: "Rick and Morty"
     board_url: "https://www.101soundboards.com/boards/21656-rick-and-morty-soundboard"
     status: pending
+    preserve_transcripts: true
     text_style: "title"
     theme:
       primary: "#92e652"
@@ -160,6 +164,7 @@ shows:
     name: "Silicon Valley"
     board_url: "https://www.101soundboards.com/boards/21625-silicon-valley-soundboard"
     status: pending
+    preserve_transcripts: true
     text_style: "title"
     theme:
       primary: "#8a3da8"
@@ -170,6 +175,7 @@ shows:
     name: "Arrested Development"
     board_url: "https://www.101soundboards.com/boards/84252-arrested-development-soundboard"
     status: pending
+    preserve_transcripts: true
     text_style: "title"
     theme:
       primary: "#f5cd2f"
@@ -181,6 +187,7 @@ shows:
     board_url: "https://www.101soundboards.com/boards/83980-parks-and-recreation-soundboard"
     board_url_2: "https://www.101soundboards.com/boards/84783-parks-and-rec-soundboard"
     status: pending
+    preserve_transcripts: true
     text_style: "title"
     theme:
       primary: "#5a7c34"
@@ -202,6 +209,7 @@ shows:
     name: "How I Met Your Mother"
     board_url: "https://www.101soundboards.com/boards/40747-how-i-met-your-mother-soundboard"
     status: pending
+    preserve_transcripts: true
     text_style: "title"
     theme:
       primary: "#3a6db8"
@@ -212,6 +220,7 @@ shows:
     name: "The Office"
     board_url: "https://www.101soundboards.com/boards/83996-the-office-soundboard"
     status: pending
+    preserve_transcripts: true
     text_style: "title"
     theme:
       primary: "#3d4a6e"
@@ -222,6 +231,7 @@ shows:
     name: "Game of Thrones"
     board_url: "https://www.101soundboards.com/boards/21718-game-of-thrones-soundboard"
     status: pending
+    preserve_transcripts: true
     text_style: "title"
     theme:
       primary: "#5e7d99"
@@ -244,6 +254,7 @@ shows:
     board_url: "https://www.101soundboards.com/boards/10002-american-dad-sounds"
     board_url_2: "https://www.101soundboards.com/boards/84698-american-dad-soundboard"
     status: pending
+    preserve_transcripts: true
     text_style: "title"
     theme:
       primary: "#3a5fa8"
@@ -301,6 +312,7 @@ shows:
     name: "Talladega Nights"
     board_url: "https://www.101soundboards.com/boards/83872-talladega-nights-soundboard"
     status: pending
+    preserve_transcripts: true
     type: movie
     text_style: "title"
     theme:
@@ -312,6 +324,7 @@ shows:
     name: "Wedding Crashers"
     board_url: "https://www.101soundboards.com/boards/84106-wedding-crashers-soundboard"
     status: pending
+    preserve_transcripts: true
     type: movie
     text_style: "title"
     theme:
@@ -323,6 +336,7 @@ shows:
     name: "Superbad"
     board_url: "https://www.101soundboards.com/boards/83982-superbad-soundboard"
     status: pending
+    preserve_transcripts: true
     type: movie
     text_style: "title"
     theme:
@@ -334,6 +348,7 @@ shows:
     name: "This Is The End"
     board_url: "https://www.101soundboards.com/boards/75906-this-is-the-end-soundboard"
     status: pending
+    preserve_transcripts: true
     type: movie
     text_style: "title"
     theme:
@@ -356,6 +371,7 @@ shows:
     name: "Anchorman"
     board_url: "https://www.101soundboards.com/boards/40777-anchorman-soundboard"
     status: pending
+    preserve_transcripts: true
     type: movie
     text_style: "title"
     theme:
@@ -368,6 +384,7 @@ shows:
     board_url: "https://www.101soundboards.com/boards/11360-office-space-1999-soundboard"
     board_url_2: "https://www.101soundboards.com/boards/27294-lawrence-office-space-soundboard"
     status: pending
+    preserve_transcripts: true
     type: movie
     text_style: "title"
     dedup: true
@@ -428,6 +445,7 @@ shows:
     name: "The Other Guys"
     board_url: "https://www.101soundboards.com/boards/84995-the-other-guys-soundboard"
     status: pending
+    preserve_transcripts: true
     type: movie
     text_style: "title"
     theme:
@@ -464,6 +482,7 @@ shows:
     board_url: "https://www.101soundboards.com/boards/88141-django-unchained-soundboard"
     board_url_2: "https://www.101soundboards.com/boards/99916-django-unchained-2012-soundboard"
     status: pending
+    preserve_transcripts: true
     type: movie
     text_style: "title"
     censor_nword: true
@@ -479,6 +498,7 @@ shows:
     name: "Dodgeball"
     board_url: "https://www.101soundboards.com/boards/32091-dodgeball-a-true-underdog-story-soundboard"
     status: pending
+    preserve_transcripts: true
     type: movie
     text_style: "title"
     dedup: true

@@ -311,11 +311,11 @@
   CHARACTER: 
 
 079_i_don_t_give_a_fuck_just_shake_that_ass_and_see_what_you_got.mp3
-  "I don't give a fuck just shake that ass and see what you got"
+  "Shake that ass"
   CHARACTER: 
 
 080_i_dunno_why_i_said_that_but_i_stand_by_it.mp3
-  "I dunno why I said that, but I stand by it"
+  "I stand by it"
   CHARACTER: 
 
 081_i_just_want_to_die.mp3
@@ -355,7 +355,7 @@
   CHARACTER: 
 
 090_i_m_cool_rick_you_re_outnumbered.mp3
-  "I'm Cool Rick (You're Outnumbered)"
+  "I'm Cool Rick"
   CHARACTER: 
 
 091_i_m_gonna_go_take_a_shit.mp3
@@ -719,7 +719,7 @@
   CHARACTER: 
 
 181_rick_and_morty_intro_ear_rape.mp3
-  "Rick and Morty Intro (Ear Rape)"
+  "Intro (loud)"
   CHARACTER: 
 
 182_rick_and_morty_leprechaun.mp3
@@ -747,11 +747,11 @@
   CHARACTER: 
 
 188_rick_and_morty_soundtrack_evil_morty_s_theme_qua.mp3
-  "Rick and Morty Soundtrack - Evil Morty's Theme (Qua.."
+  "Evil Morty's Theme"
   CHARACTER: 
 
 189_rick_and_morty_yes_better.mp3
-  "Rick and Morty Yes (better)"
+  "Yes"
   CHARACTER: 
 
 190_rick_belching_rick_and_morty.mp3

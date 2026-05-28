@@ -81,7 +81,7 @@ const quotes = [
     "audioUrl": "audio/dodgeball/016_i_m_not_dumb.mp3"
   },
   {
-    "text": "If you can dodge a wrench you can dodge a ball",
+    "text": "Dodge a wrench, dodge a ball",
     "character": "",
     "audioUrl": "audio/dodgeball/017_if_you_can_dodge_a_wrench_you_can_dodge_a_ball.mp3"
   },

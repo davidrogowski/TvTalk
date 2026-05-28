@@ -96,7 +96,7 @@ const quotes = [
     "audioUrl": "audio/parks-and-rec/019_i_need_to_lie_down_for_a_full_hour.mp3"
   },
   {
-    "text": "I Wanted to Make Fun of Stupid People While I Got Drunk",
+    "text": "Make fun of stupid people",
     "character": "",
     "audioUrl": "audio/parks-and-rec/020_i_wanted_to_make_fun_of_stupid_people_while_i_got_drunk.mp3"
   },
@@ -216,7 +216,7 @@ const quotes = [
     "audioUrl": "audio/parks-and-rec/043_turn_the_thermostat_to_90_and_leave_me_alone.mp3"
   },
   {
-    "text": "Uh huh! (Dancing)",
+    "text": "Uh huh!",
     "character": "",
     "audioUrl": "audio/parks-and-rec/044_uh_huh_dancing.mp3"
   },
@@ -266,12 +266,12 @@ const quotes = [
     "audioUrl": "audio/parks-and-rec/053_april_becomes_ron_s_assistant.mp3"
   },
   {
-    "text": "As Long As I Don't Move My Head Or Torso, I'm Good",
+    "text": "Don't move my head or torso",
     "character": "",
     "audioUrl": "audio/parks-and-rec/054_as_long_as_i_don_t_move_my_head_or_torso_i_m_good.mp3"
   },
   {
-    "text": "Capitalism: God's Way of Determining Who is Smart, and Who is Poor",
+    "text": "Capitalism: God's way",
     "character": "",
     "audioUrl": "audio/parks-and-rec/055_capitalism_god_s_way_of_determining_who_is_smart_and_who_is.mp3"
   },
@@ -286,7 +286,7 @@ const quotes = [
     "audioUrl": "audio/parks-and-rec/057_don_t_teach_a_man_to_fish_and_you_feed_yourself.mp3"
   },
   {
-    "text": "Enjoy the Fact Your Royal Overlords are a Frail Old Woman and a Tiny Baby",
+    "text": "Your royal overlords",
     "character": "",
     "audioUrl": "audio/parks-and-rec/058_enjoy_the_fact_your_royal_overlords_are_a_frail_old_woman_an.mp3"
   },
@@ -341,7 +341,7 @@ const quotes = [
     "audioUrl": "audio/parks-and-rec/068_i_like_to_call_people_by_the_wrong_name.mp3"
   },
   {
-    "text": "I Once Worked with A Guy For Three Years and Never Learned His Name",
+    "text": "Never learned his name",
     "character": "",
     "audioUrl": "audio/parks-and-rec/069_i_once_worked_with_a_guy_for_three_years_and_never_learned_h.mp3"
   },
@@ -361,7 +361,7 @@ const quotes = [
     "audioUrl": "audio/parks-and-rec/072_i_d_work_all_night_if_it_meant_nothing_got_done.mp3"
   },
   {
-    "text": "I'm Going to Tell You Everything You Need to Know About Local Government",
+    "text": "Everything about local government",
     "character": "",
     "audioUrl": "audio/parks-and-rec/073_i_m_going_to_tell_you_everything_you_need_to_know_about_loca.mp3"
   },
@@ -411,7 +411,7 @@ const quotes = [
     "audioUrl": "audio/parks-and-rec/082_never_half_ass_two_things.mp3"
   },
   {
-    "text": "On Principle, I Never Say Anything That Another Person is Obviously Trying Get Me To Say",
+    "text": "On principle, I never say",
     "character": "",
     "audioUrl": "audio/parks-and-rec/083_on_principle_i_never_say_anything_that_another_person_is_obv.mp3"
   },
@@ -581,7 +581,7 @@ const quotes = [
     "audioUrl": "audio/parks-and-rec/116_the_wooooorst.mp3"
   },
   {
-    "text": "There's Only One Thing I Hate More than Lying: Skim Milk",
+    "text": "I hate skim milk",
     "character": "",
     "audioUrl": "audio/parks-and-rec/117_there_s_only_one_thing_i_hate_more_than_lying_skim_milk.mp3"
   },
@@ -596,12 +596,12 @@ const quotes = [
     "audioUrl": "audio/parks-and-rec/119_what_in_the_devil_s_name_is_this.mp3"
   },
   {
-    "text": "When I Look At My Palm, I See a Lady's Mouth French Kissing a Dog",
+    "text": "A lady's mouth kissing a dog",
     "character": "",
     "audioUrl": "audio/parks-and-rec/120_when_i_look_at_my_palm_i_see_a_lady_s_mouth_french_kissing_a.mp3"
   },
   {
-    "text": "When It Comes to Government Hearings, the Only Type of Witness I enjoy Being is a Hostile One",
+    "text": "A hostile witness",
     "character": "",
     "audioUrl": "audio/parks-and-rec/121_when_it_comes_to_government_hearings_the_only_type_of_witnes.mp3"
   },

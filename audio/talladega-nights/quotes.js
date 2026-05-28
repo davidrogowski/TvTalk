@@ -36,7 +36,7 @@ const quotes = [
     "audioUrl": "audio/talladega-nights/007_help_me_oprah_winfrey.mp3"
   },
   {
-    "text": "Here's something to pick your spirits up (middle finger)",
+    "text": "Pick your spirits up",
     "character": "",
     "audioUrl": "audio/talladega-nights/008_here_s_something_to_pick_your_spirits_up_middle_finger.mp3"
   },
@@ -76,7 +76,7 @@ const quotes = [
     "audioUrl": "audio/talladega-nights/015_i_was_high_when_i_said_that.mp3"
   },
   {
-    "text": "I'm as hard as a diamond in an ice storm right now",
+    "text": "Hard as a diamond",
     "character": "",
     "audioUrl": "audio/talladega-nights/016_i_m_as_hard_as_a_diamond_in_an_ice_storm_right_now.mp3"
   },
@@ -186,7 +186,7 @@ const quotes = [
     "audioUrl": "audio/talladega-nights/037_thank_you_sweet_baby_jesus.mp3"
   },
   {
-    "text": "That idea ain't worth a velvet painting of a whale and a dolphin getting it on",
+    "text": "Velvet painting of a whale",
     "character": "",
     "audioUrl": "audio/talladega-nights/038_that_idea_ain_t_worth_a_velvet_painting_of_a_whale_and_a_dol.mp3"
   },

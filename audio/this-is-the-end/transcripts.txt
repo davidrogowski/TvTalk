@@ -7,11 +7,11 @@
   CHARACTER: 
 
 003_bang_bang_bang_you_re_dead_pow_pow_pow_stop_guys_stop_fuckin.mp3
-  "Bang, bang, bang, you're dead. Pow, pow, pow. Stop, guys. Stop fucking with the gun."
+  "Stop fucking with the gun"
   CHARACTER: 
 
 004_because_if_you_want_me_to_tell_you_fuck_you_i_will_so_good_o.mp3
-  "Because if you want me to tell you fuck you, I will so good. Ohh you love."
+  "I will fuck you so good"
   CHARACTER: 
 
 005_does_this_coke_smell_funny.mp3
@@ -39,7 +39,7 @@
   CHARACTER: 
 
 011_guys_guys_wake_up_danny_s_alive_he_s_eating_all_the_fucking.mp3
-  "Guys, guys, wake up. Danny's alive. He's eating all the fucking phone."
+  "He's eating the phone"
   CHARACTER: 
 
 012_he_s_eating_all_the_fucking_food.mp3
@@ -47,7 +47,7 @@
   CHARACTER: 
 
 013_heading_fucking_tatum_i_found_him_wandering_on_the_freeway_i.mp3
-  "Heading fucking Tatum. I found him wandering on the freeway. I collected them, made my bitch get off my Dick."
+  "Channing Tatum on the freeway"
   CHARACTER: 
 
 014_hey_does_this_coke_smell_funny.mp3
@@ -63,7 +63,7 @@
   CHARACTER: 
 
 017_i_say_unto_thee_the_power_of_christ_compels_you_doesn_t_comp.mp3
-  "I say unto thee. The power of Christ compels you. Doesn't compel me."
+  "The power of Christ compels you"
   CHARACTER: 
 
 018_i_m_not_gonna_shoot_emma_watson.mp3
@@ -91,11 +91,11 @@
   CHARACTER: 
 
 024_oh_my_god_you_guys_are_alive_you_re_actually_alive_thank_god.mp3
-  "Oh my God, you guys are alive. You're actually alive, thank God."
+  "You're actually alive"
   CHARACTER: 
 
 025_please_get_the_fuck_out_of_here_well_fuck_you_kevin.mp3
-  "Please get the fuck out of here. Well. Fuck you, Kevin."
+  "Fuck you, Kevin"
   CHARACTER: 
 
 026_pow_pow.mp3
@@ -147,7 +147,7 @@
   CHARACTER: 
 
 039_you_can_t_just_leave_him_out_there_and_die_are_you_crazy.mp3
-  "You can't just leave him out there and die. Are you crazy?"
+  "You can't leave him to die"
   CHARACTER: 
 
 040_you_re_fucking_stupid_cut_out_from_spiderman_3.mp3

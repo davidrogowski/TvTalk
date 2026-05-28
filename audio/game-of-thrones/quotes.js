@@ -21,7 +21,7 @@ const quotes = [
     "audioUrl": "audio/game-of-thrones/004_a_lannister_always_pays_his_debts.mp3"
   },
   {
-    "text": "A lion doesn't concern himself with the opinions of a sheep",
+    "text": "Opinions of a sheep",
     "character": "",
     "audioUrl": "audio/game-of-thrones/005_a_lion_doesn_t_concern_himself_with_the_opinions_of_a_sheep.mp3"
   },
@@ -51,7 +51,7 @@ const quotes = [
     "audioUrl": "audio/game-of-thrones/010_all_men_must_hype.mp3"
   },
   {
-    "text": "Almost feels as if you are about to arrive at the point",
+    "text": "Arrive at the point",
     "character": "",
     "audioUrl": "audio/game-of-thrones/011_almost_feels_as_if_you_are_about_to_arrive_at_the_point.mp3"
   },
@@ -86,7 +86,7 @@ const quotes = [
     "audioUrl": "audio/game-of-thrones/017_battle_of_the_bastards.mp3"
   },
   {
-    "text": "Better to be a coward for a minute than dead for a life",
+    "text": "Coward for a minute",
     "character": "",
     "audioUrl": "audio/game-of-thrones/018_better_to_be_a_coward_for_a_minute_than_dead_for_a_life.mp3"
   },
@@ -371,7 +371,7 @@ const quotes = [
     "audioUrl": "audio/game-of-thrones/074_hard_truths_cut_both_ways.mp3"
   },
   {
-    "text": "Have you ever considered learning how to lie every now and then",
+    "text": "Learn how to lie",
     "character": "",
     "audioUrl": "audio/game-of-thrones/075_have_you_ever_considered_learning_how_to_lie_every_now_and_t.mp3"
   },
@@ -416,7 +416,7 @@ const quotes = [
     "audioUrl": "audio/game-of-thrones/083_i_am_a_godly_man.mp3"
   },
   {
-    "text": "I am about to step into a room with a most murderous woman in the world",
+    "text": "Most murderous woman",
     "character": "",
     "audioUrl": "audio/game-of-thrones/084_i_am_about_to_step_into_a_room_with_a_most_murderous_woman_i.mp3"
   },
@@ -551,7 +551,7 @@ const quotes = [
     "audioUrl": "audio/game-of-thrones/110_i_want_you_to_tell_me_the_truth.mp3"
   },
   {
-    "text": "I was born to rule the seven kingdoms and i will",
+    "text": "Born to rule the seven kingdoms",
     "character": "",
     "audioUrl": "audio/game-of-thrones/111_i_was_born_to_rule_the_seven_kingdoms_and_i_will.mp3"
   },
@@ -596,7 +596,7 @@ const quotes = [
     "audioUrl": "audio/game-of-thrones/119_i_m_going_to_kill_that.mp3"
   },
   {
-    "text": "I'm no king, but if I were, I'd knight you 10x over",
+    "text": "I'd knight you ten times over",
     "character": "",
     "audioUrl": "audio/game-of-thrones/120_i_m_no_king_but_if_i_were_i_d_knight_you_10x_over.mp3"
   },
@@ -611,7 +611,7 @@ const quotes = [
     "audioUrl": "audio/game-of-thrones/122_i_m_sure_your_men_will_line_up_behind_you.mp3"
   },
   {
-    "text": "I’m Going to Light the Biggest Fire the North Has Ever Seen",
+    "text": "The biggest fire the North has seen",
     "character": "",
     "audioUrl": "audio/game-of-thrones/123_i_m_going_to_light_the_biggest_fire_the_north_has_ever_seen.mp3"
   },
@@ -631,7 +631,7 @@ const quotes = [
     "audioUrl": "audio/game-of-thrones/126_ice_dragon_viserion.mp3"
   },
   {
-    "text": "If I want jokes I will get myself a proper fool",
+    "text": "I will get a proper fool",
     "character": "",
     "audioUrl": "audio/game-of-thrones/127_if_i_want_jokes_i_will_get_myself_a_proper_fool.mp3"
   },
@@ -656,7 +656,7 @@ const quotes = [
     "audioUrl": "audio/game-of-thrones/131_it_is_known.mp3"
   },
   {
-    "text": "It is time I ate some of this food I paid for",
+    "text": "The food I paid for",
     "character": "",
     "audioUrl": "audio/game-of-thrones/132_it_is_time_i_ate_some_of_this_food_i_paid_for.mp3"
   },
@@ -716,7 +716,7 @@ const quotes = [
     "audioUrl": "audio/game-of-thrones/143_make_peace_to_save_your_people.mp3"
   },
   {
-    "text": "Man who fights for gold can't afford to lose to a girl",
+    "text": "Can't afford to lose to a girl",
     "character": "",
     "audioUrl": "audio/game-of-thrones/144_man_who_fights_for_gold_can_t_afford_to_lose_to_a_girl.mp3"
   },
@@ -776,7 +776,7 @@ const quotes = [
     "audioUrl": "audio/game-of-thrones/155_no_cure_for_being_a_cunt.mp3"
   },
   {
-    "text": "No need to seize the last word, I'll assume it was something clever",
+    "text": "Assume it was clever",
     "character": "",
     "audioUrl": "audio/game-of-thrones/156_no_need_to_seize_the_last_word_i_ll_assume_it_was_something.mp3"
   },
@@ -886,7 +886,7 @@ const quotes = [
     "audioUrl": "audio/game-of-thrones/177_sandor_clegane_is_eating_every_chicken_in_this_room.mp3"
   },
   {
-    "text": "Sandor Clegane is going to eat your chickens (long)",
+    "text": "Eat your chickens (long)",
     "character": "",
     "audioUrl": "audio/game-of-thrones/178_sandor_clegane_is_going_to_eat_your_chickens_long.mp3"
   },
@@ -1106,12 +1106,12 @@ const quotes = [
     "audioUrl": "audio/game-of-thrones/221_they_ll_bend_the_knee_or_i_ll_destroy_them.mp3"
   },
   {
-    "text": "This is the only thing i have ever seen that terrifies me",
+    "text": "The only thing that terrifies me",
     "character": "",
     "audioUrl": "audio/game-of-thrones/222_this_is_the_only_thing_i_have_ever_seen_that_terrifies_me.mp3"
   },
   {
-    "text": "This is what I want to do for the rest of my life",
+    "text": "For the rest of my life",
     "character": "",
     "audioUrl": "audio/game-of-thrones/223_this_is_what_i_want_to_do_for_the_rest_of_my_life.mp3"
   },
@@ -1196,7 +1196,7 @@ const quotes = [
     "audioUrl": "audio/game-of-thrones/239_we_all_bloody_die.mp3"
   },
   {
-    "text": "We are a group of people who do not like one another",
+    "text": "We do not like one another",
     "character": "",
     "audioUrl": "audio/game-of-thrones/240_we_are_a_group_of_people_who_do_not_like_one_another.mp3"
   },

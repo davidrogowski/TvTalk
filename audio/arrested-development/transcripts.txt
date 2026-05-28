@@ -143,7 +143,7 @@
   CHARACTER: 
 
 037_i_wine_em_and_dine_em_but_i_don_t_let_em_tell_me_what_to_do.mp3
-  "I wine em and dine em, but I don't let em tell me what to do"
+  "I wine em and dine em"
   CHARACTER: 
 
 038_i_won_t_hear_or_respond_to_it.mp3
@@ -187,7 +187,7 @@
   CHARACTER: 
 
 048_if_i_could_stick_my_nose_in_here_for_one_second.mp3
-  "If I could stick my nose in here for one second"
+  "Stick my nose in here"
   CHARACTER: 
 
 049_illusion_michael.mp3
@@ -283,7 +283,7 @@
   CHARACTER: 
 
 072_the_heart_of_an_angel_and_the_hide_of_an_elephant.mp3
-  "The heart of an angel and the hide of an elephant"
+  "Heart of an angel"
   CHARACTER: 
 
 073_the_jokes_on_her.mp3

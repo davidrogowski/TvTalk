@@ -201,7 +201,7 @@ const quotes = [
     "audioUrl": "audio/superbad/040_that_was_like_8_years_ago_asshole.mp3"
   },
   {
-    "text": "The funny thing about my back is that it's located on my cock",
+    "text": "My back is on my cock",
     "character": "",
     "audioUrl": "audio/superbad/041_the_funny_thing_about_my_back_is_that_it_s_located_on_my_coc.mp3"
   },

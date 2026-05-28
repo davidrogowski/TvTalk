@@ -467,7 +467,7 @@
   CHARACTER: 
 
 118_i_brought_you_into_this_world_and_i_can_take_you_out.mp3
-  "I brought you into this world and I can take you out"
+  "I can take you out"
   CHARACTER: 
 
 119_i_can_t_do_this_forever.mp3
@@ -483,7 +483,7 @@
   CHARACTER: 
 
 122_i_do_my_best_work_when_people_don_t_believe_in_me.mp3
-  "I do my best work when people don't believe in me"
+  "When people don't believe in me"
   CHARACTER: 
 
 123_i_do_not_understand_what_you_spend_your_money_on.mp3
@@ -523,7 +523,7 @@
   CHARACTER: 
 
 132_i_hate_so_much_about_the_things_you_choose_to_be.mp3
-  "I hate so much about the things you choose to be"
+  "The things you choose to be"
   CHARACTER: 
 
 133_i_heard_a_joke_today.mp3
@@ -583,11 +583,11 @@
   CHARACTER: 
 
 147_i_want_the_ketchup_fights_and_the_tickling_and_the_giggling.mp3
-  "I want the ketchup fights and the tickling and the giggling"
+  "Ketchup fights and tickling"
   CHARACTER: 
 
 148_i_want_you_to_get_your_ass_out_of_my_face.mp3
-  "I want you to get your ass out of my face"
+  "Ass out of my face"
   CHARACTER: 
 
 149_i_would_shoot_toby_twice.mp3
@@ -659,7 +659,7 @@
   CHARACTER: 
 
 166_if_someone_gives_you_10_000_to_1_on_anything_you_take_it.mp3
-  "If someone gives you 10,000 to 1 on anything, you take it"
+  "10,000 to 1, you take it"
   CHARACTER: 
 
 167_if_that_s_flashing_then_lock_me_up.mp3
@@ -667,7 +667,7 @@
   CHARACTER: 
 
 168_if_we_did_something_to_upset_you_i_m_sure_it_was_inadvertent.mp3
-  "If We Did Something to Upset You I'm Sure it was Inadvertent"
+  "It was inadvertent"
   CHARACTER: 
 
 169_im_fine_b_h.mp3
@@ -1347,7 +1347,7 @@
   CHARACTER: 
 
 338_the_office_that_s_what_she_said_slow.mp3
-  "The office That’s what she said (slow)"
+  "That's what she said (slow)"
   CHARACTER: 
 
 339_the_office_why_are_you_the_way_that_you_are.mp3
@@ -1439,7 +1439,7 @@
   CHARACTER: 
 
 361_the_stress_of_my_modern_office_has_caused_me_to_go_into_depr.mp3
-  "The stress of my modern office has caused me to go into depression"
+  "Stress of my modern office"
   CHARACTER: 
 
 362_there_are_always_a_million_reasons_not_to_do_something.mp3
@@ -1451,7 +1451,7 @@
   CHARACTER: 
 
 364_this_has_been_the_worst_most_backwards_day_of_my_life.mp3
-  "This Has Been The Worst, Most Backwards Day Of My Life"
+  "Worst day of my life"
   CHARACTER: 
 
 365_this_is_a_damn_shame.mp3
@@ -1547,7 +1547,7 @@
   CHARACTER: 
 
 388_we_re_screwed_short.mp3
-  "We're Screwed (Short)"
+  "We're screwed (short)"
   CHARACTER: 
 
 389_well_happy_birthday_jesus.mp3
@@ -1603,7 +1603,7 @@
   CHARACTER: 
 
 402_why_are_you_the_way_that_you_are_long.mp3
-  "Why are you the way that you are? (long)"
+  "Why are you the way you are? (long)"
   CHARACTER: 
 
 403_why_are_you_the_way_that_you_are.mp3

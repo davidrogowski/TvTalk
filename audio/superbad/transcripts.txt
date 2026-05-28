@@ -159,7 +159,7 @@
   CHARACTER: 
 
 041_the_funny_thing_about_my_back_is_that_it_s_located_on_my_coc.mp3
-  "The funny thing about my back is that it's located on my cock"
+  "My back is on my cock"
   CHARACTER: 
 
 043_throwing_up.mp3

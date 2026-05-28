@@ -27,7 +27,7 @@
   CHARACTER: 
 
 008_here_s_something_to_pick_your_spirits_up_middle_finger.mp3
-  "Here's something to pick your spirits up (middle finger)"
+  "Pick your spirits up"
   CHARACTER: 
 
 009_i_feel_like_i_m_in_highlander.mp3
@@ -59,7 +59,7 @@
   CHARACTER: 
 
 016_i_m_as_hard_as_a_diamond_in_an_ice_storm_right_now.mp3
-  "I'm as hard as a diamond in an ice storm right now"
+  "Hard as a diamond"
   CHARACTER: 
 
 017_i_m_on_fire.mp3
@@ -147,7 +147,7 @@
   CHARACTER: 
 
 038_that_idea_ain_t_worth_a_velvet_painting_of_a_whale_and_a_dol.mp3
-  "That idea ain't worth a velvet painting of a whale and a dolphin getting it on"
+  "Velvet painting of a whale"
   CHARACTER: 
 
 039_that_just_happened.mp3

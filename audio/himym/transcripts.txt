@@ -195,7 +195,7 @@
   CHARACTER: 
 
 050_i_need_to_go_home_reevaluate_how_i_make_life_decisions.mp3
-  "I need to go home reevaluate how I make life decisions"
+  "Reevaluate my life decisions"
   CHARACTER: 
 
 051_i_request_the_highest_of_fives.mp3
@@ -259,7 +259,7 @@
   CHARACTER: 
 
 066_living_in_america_barney_stinson.mp3
-  "Living in America (Barney Stinson)"
+  "Living in America"
   CHARACTER: 
 
 067_marshall_vs_the_machines.mp3
@@ -367,7 +367,7 @@
   CHARACTER: 
 
 093_thats_a_penis_slow_motion.mp3
-  "Thats a penis! (Slow motion)"
+  "That's a penis!"
   CHARACTER: 
 
 094_thats_what_your_mom_said.mp3
@@ -375,7 +375,7 @@
   CHARACTER: 
 
 095_there_will_be_no_slap_today_slapsgiving.mp3
-  "There will be no slap today (Slapsgiving)"
+  "No slap today"
   CHARACTER: 
 
 096_think_of_me_like_yoda_instead_of.mp3
@@ -443,11 +443,11 @@
   CHARACTER: 
 
 112_you_can_slap_him_slapsgiving.mp3
-  "You can slap him (Slapsgiving)"
+  "You can slap him"
   CHARACTER: 
 
 113_you_just_got_slapped_chorus.mp3
-  "You just got slapped (chorus)"
+  "You just got slapped"
   CHARACTER: 
 
 114_you_spooned_me_against_my_will.mp3

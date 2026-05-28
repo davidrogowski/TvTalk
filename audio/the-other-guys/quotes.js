@@ -71,7 +71,7 @@ const quotes = [
     "audioUrl": "audio/the-other-guys/014_desk_pop.mp3"
   },
   {
-    "text": "Did That Go The Way You Thought It Was Going To Go?",
+    "text": "Did that go the way you thought?",
     "character": "",
     "audioUrl": "audio/the-other-guys/015_did_that_go_the_way_you_thought_it_was_going_to_go.mp3"
   },
@@ -166,12 +166,12 @@ const quotes = [
     "audioUrl": "audio/the-other-guys/033_i_got_to_go.mp3"
   },
   {
-    "text": "I just don't want to feel like that out of control ever again",
+    "text": "Out of control again",
     "character": "",
     "audioUrl": "audio/the-other-guys/034_i_just_don_t_want_to_feel_like_that_out_of_control_ever_agai.mp3"
   },
   {
-    "text": "I made a promise to her I would never get out of control again",
+    "text": "I made a promise",
     "character": "",
     "audioUrl": "audio/the-other-guys/035_i_made_a_promise_to_her_i_would_never_get_out_of_control_aga.mp3"
   },
@@ -391,7 +391,7 @@ const quotes = [
     "audioUrl": "audio/the-other-guys/078_yes_that_s_exactly_what_s_happening.mp3"
   },
   {
-    "text": "You guys are fighting over who's going to be the next hotshot",
+    "text": "The next hotshot",
     "character": "",
     "audioUrl": "audio/the-other-guys/079_you_guys_are_fighting_over_who_s_going_to_be_the_next_hotsho.mp3"
   },
