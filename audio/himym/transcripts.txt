@@ -1,0 +1,463 @@
+001_absotively.mp3
+  "Absotively"
+  CHARACTER: 
+
+002_adorable.mp3
+  "Adorable"
+  CHARACTER: 
+
+003_after_2_am.mp3
+  "After 2 AM"
+  CHARACTER: 
+
+004_air_guitar.mp3
+  "Air guitar"
+  CHARACTER: 
+
+005_baby_with_your_butt.mp3
+  "Baby with your butt"
+  CHARACTER: 
+
+006_bang_bang_bangity_bang.mp3
+  "Bang bang bangity bang"
+  CHARACTER: 
+
+007_barney_meets_his_daughter.mp3
+  "Barney meets his daughter"
+  CHARACTER: 
+
+008_barney_self_five.mp3
+  "Barney self five"
+  CHARACTER: 
+
+009_barney_shoots_himself.mp3
+  "Barney shoots himself"
+  CHARACTER: 
+
+010_barney_stinson_air_guitar.mp3
+  "Barney Stinson Air Guitar"
+  CHARACTER: 
+
+011_basketball.mp3
+  "Basketball"
+  CHARACTER: 
+
+012_beercules.mp3
+  "BEERCULES"
+  CHARACTER: 
+
+013_being_friends_with_me_is_hard_i_m_awesome.mp3
+  "Being friends with me is hard, I'm awesome"
+  CHARACTER: 
+
+014_best_day_of_your_life.mp3
+  "Best day of your life"
+  CHARACTER: 
+
+015_big_brother.mp3
+  "Big Brother"
+  CHARACTER: 
+
+016_blackout_orgasms.mp3
+  "Blackout orgasms"
+  CHARACTER: 
+
+017_boats_boats_boats.mp3
+  "BOATS BOATS BOATS"
+  CHARACTER: 
+
+018_boobs.mp3
+  "Boobs?"
+  CHARACTER: 
+
+019_bowl_o_pornflakes.mp3
+  "Bowl o' pornflakes"
+  CHARACTER: 
+
+020_bro.mp3
+  "Bro.."
+  CHARACTER: 
+
+021_calling_people_names_is_hurtful_ass_face.mp3
+  "Calling people names is hurtful, ass face"
+  CHARACTER: 
+
+022_can_t_think_straight.mp3
+  "Can't think straight!"
+  CHARACTER: 
+
+023_can_t_you_do_anything_right_patrice.mp3
+  "Can't you do anything right, Patrice?"
+  CHARACTER: 
+
+024_car_alarm.mp3
+  "Car alarm"
+  CHARACTER: 
+
+025_celebrate.mp3
+  "Celebrate"
+  CHARACTER: 
+
+026_challenge_accepted.mp3
+  "Challenge accepted"
+  CHARACTER: 
+
+027_champagne_celebration.mp3
+  "Champagne Celebration"
+  CHARACTER: 
+
+028_cheerful.mp3
+  "Cheerful!"
+  CHARACTER: 
+
+029_come_at_you.mp3
+  "Come at You"
+  CHARACTER: 
+
+030_come_on.mp3
+  "Come on"
+  CHARACTER: 
+
+031_damnit_patrice_stop_smothering_me.mp3
+  "Damnit Patrice, stop smothering me!"
+  CHARACTER: 
+
+032_dead_batteries.mp3
+  "Dead batteries"
+  CHARACTER: 
+
+033_dead_squirrel.mp3
+  "Dead squirrel"
+  CHARACTER: 
+
+034_diarrhea.mp3
+  "Diarrhea"
+  CHARACTER: 
+
+035_eliminated.mp3
+  "Eliminated"
+  CHARACTER: 
+
+036_friendship_over.mp3
+  "Friendship Over"
+  CHARACTER: 
+
+037_hashtag_burn.mp3
+  "Hashtag burn"
+  CHARACTER: 
+
+038_have_you_met_ted.mp3
+  "Have you met Ted?"
+  CHARACTER: 
+
+039_hee_ya_move_along.mp3
+  "HEE YA! MOVE ALONG!"
+  CHARACTER: 
+
+040_hell_s_kitchen.mp3
+  "Hell's Kitchen"
+  CHARACTER: 
+
+041_himym_tv_tone.mp3
+  "Himym Tv Tone"
+  CHARACTER: 
+
+042_hit_of_the_sandwich.mp3
+  "Hit of the sandwich"
+  CHARACTER: 
+
+043_hot_crazy_scale.mp3
+  "Hot Crazy Scale"
+  CHARACTER: 
+
+044_husband_s_condoms.mp3
+  "Husband's condoms"
+  CHARACTER: 
+
+045_i_accept_your_challenge.mp3
+  "I accept your challenge"
+  CHARACTER: 
+
+046_i_am_sick_of_being_smarter_than_everyone_else.mp3
+  "I am sick of being smarter than everyone else"
+  CHARACTER: 
+
+047_i_can_woo.mp3
+  "I Can Woo"
+  CHARACTER: 
+
+048_i_dare_you_guys_to_dare_us_to_makeout.mp3
+  "I Dare You Guys to Dare Us to Makeout"
+  CHARACTER: 
+
+049_i_forbid_you_from_calling_her.mp3
+  "I forbid you from calling her"
+  CHARACTER: 
+
+050_i_need_to_go_home_reevaluate_how_i_make_life_decisions.mp3
+  "I need to go home reevaluate how I make life decisions"
+  CHARACTER: 
+
+051_i_request_the_highest_of_fives.mp3
+  "I request the highest of fives"
+  CHARACTER: 
+
+052_i_said_good_day.mp3
+  "I said good day!"
+  CHARACTER: 
+
+053_i_was_a_teenage_pop_star_in_canada.mp3
+  "I was a teenage pop star in Canada"
+  CHARACTER: 
+
+054_i_m_awesome.mp3
+  "I'm awesome"
+  CHARACTER: 
+
+055_i_m_in_twouble.mp3
+  "I'm in twouble!"
+  CHARACTER: 
+
+056_i_m_not_crazy.mp3
+  "I'm not crazy"
+  CHARACTER: 
+
+057_ice_cream.mp3
+  "Ice cream"
+  CHARACTER: 
+
+058_ice_cream_air_guitar.mp3
+  "Ice Cream! Air guitar"
+  CHARACTER: 
+
+059_it_was_awesome.mp3
+  "It was awesome!"
+  CHARACTER: 
+
+060_it_s_going_to_be_legendary.mp3
+  "It's going to be legendary"
+  CHARACTER: 
+
+061_it_s_gonna_be_legen.mp3
+  "It's gonna be legen.."
+  CHARACTER: 
+
+062_law_suit_up.mp3
+  "Law suit up"
+  CHARACTER: 
+
+063_leave_the_chateau.mp3
+  "Leave the Chateau"
+  CHARACTER: 
+
+064_legend.mp3
+  "Legend.."
+  CHARACTER: 
+
+065_let_s_dance.mp3
+  "Let's dance"
+  CHARACTER: 
+
+066_living_in_america_barney_stinson.mp3
+  "Living in America (Barney Stinson)"
+  CHARACTER: 
+
+067_marshall_vs_the_machines.mp3
+  "Marshall vs the Machines"
+  CHARACTER: 
+
+068_mermaid_becomes_manatee.mp3
+  "Mermaid becomes manatee"
+  CHARACTER: 
+
+069_much_of_what_i_do_does_not_make_me_cry.mp3
+  "Much of What I Do Does Not Make Me Cry"
+  CHARACTER: 
+
+070_my_chair_is_reasonably_comfortable.mp3
+  "My Chair Is Reasonably Comfortable"
+  CHARACTER: 
+
+071_my_life_rocks.mp3
+  "My life rocks"
+  CHARACTER: 
+
+072_new_is_always_better.mp3
+  "New is always better"
+  CHARACTER: 
+
+073_oh_my_god_can_you_just_be_cool.mp3
+  "Oh my god can you just be cool"
+  CHARACTER: 
+
+074_pain_montage.mp3
+  "Pain montage"
+  CHARACTER: 
+
+075_peace_out_hombres.mp3
+  "Peace out, hombres"
+  CHARACTER: 
+
+076_pee_on_a_stick.mp3
+  "Pee on a stick"
+  CHARACTER: 
+
+077_pick_me_up_i_needed.mp3
+  "Pick me up I needed"
+  CHARACTER: 
+
+078_prayer_five.mp3
+  "Prayer Five"
+  CHARACTER: 
+
+079_robin_s_birthday_lesson.mp3
+  "Robin's birthday lesson"
+  CHARACTER: 
+
+080_rock_u_til_canada_day.mp3
+  "Rock U Til Canada Day"
+  CHARACTER: 
+
+081_sisters_fight_ted.mp3
+  "Sisters fight, Ted!"
+  CHARACTER: 
+
+082_slap_countdown.mp3
+  "Slap countdown"
+  CHARACTER: 
+
+083_son_of_a_bitch.mp3
+  "Son of a bitch!"
+  CHARACTER: 
+
+084_song_of_a_bitch.mp3
+  "Song of a bitch"
+  CHARACTER: 
+
+085_spinter_sized_splinter.mp3
+  "Spinter sized splinter"
+  CHARACTER: 
+
+086_tall_dark_and_awesome.mp3
+  "Tall dark and awesome"
+  CHARACTER: 
+
+087_thank_you.mp3
+  "Thank you"
+  CHARACTER: 
+
+088_thank_you_linus.mp3
+  "Thank you Linus"
+  CHARACTER: 
+
+089_thank_you.mp3
+  "Thank YOU!"
+  CHARACTER: 
+
+090_that_s_a_penis.mp3
+  "That's a penis!"
+  CHARACTER: 
+
+091_that_s_love_bitch.mp3
+  "That's love, bitch"
+  CHARACTER: 
+
+092_that_s_the_dream.mp3
+  "That's the dream"
+  CHARACTER: 
+
+093_thats_a_penis_slow_motion.mp3
+  "Thats a penis! (Slow motion)"
+  CHARACTER: 
+
+094_thats_what_your_mom_said.mp3
+  "Thats what your mom said"
+  CHARACTER: 
+
+095_there_will_be_no_slap_today_slapsgiving.mp3
+  "There will be no slap today (Slapsgiving)"
+  CHARACTER: 
+
+096_think_of_me_like_yoda_instead_of.mp3
+  "Think of me like Yoda, instead of.."
+  CHARACTER: 
+
+097_tiny_five.mp3
+  "Tiny five!"
+  CHARACTER: 
+
+098_top_model.mp3
+  "Top Model"
+  CHARACTER: 
+
+099_two_out_of_three_times_guaranteed.mp3
+  "Two out of three times, guaranteed"
+  CHARACTER: 
+
+100_wait_for_it.mp3
+  "Wait for it"
+  CHARACTER: 
+
+101_wait_for_it.mp3
+  "Wait for it.."
+  CHARACTER: 
+
+102_walk_of_shame.mp3
+  "Walk of shame"
+  CHARACTER: 
+
+103_we_will_be_what_is_up_new_york.mp3
+  "We will be what is up New York"
+  CHARACTER: 
+
+104_well_that_s_not_what_you_want.mp3
+  "Well that's not what you want"
+  CHARACTER: 
+
+105_wet_myself.mp3
+  "Wet myself"
+  CHARACTER: 
+
+106_what_i_love_about_halloween.mp3
+  "What I love about halloween"
+  CHARACTER: 
+
+107_what_no.mp3
+  "What No"
+  CHARACTER: 
+
+108_what_up.mp3
+  "What up"
+  CHARACTER: 
+
+109_what_s_in_the_box.mp3
+  "What's in the Box"
+  CHARACTER: 
+
+110_what_s_up_new_york.mp3
+  "What's up New York!"
+  CHARACTER: 
+
+111_worst_idea_ever.mp3
+  "Worst idea ever"
+  CHARACTER: 
+
+112_you_can_slap_him_slapsgiving.mp3
+  "You can slap him (Slapsgiving)"
+  CHARACTER: 
+
+113_you_just_got_slapped_chorus.mp3
+  "You just got slapped (chorus)"
+  CHARACTER: 
+
+114_you_spooned_me_against_my_will.mp3
+  "You spooned me against my will"
+  CHARACTER: 
+
+115_you_ve_been_lawyered.mp3
+  "You've been lawyered"
+  CHARACTER: 
+
+116_your_time_is_up.mp3
+  "Your time is up"
+  CHARACTER: 

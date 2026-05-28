@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>TvTalk</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Special+Elite&display=swap');
+
+  :root {
+    --primary: #c41e3a;
+    --accent:  #d4af37;
+    --bg:      #0a0000;
+    --bg-glow: #2a0a0a;
+    --text:    #f0e6d2;
+    --muted:   #888;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    min-height: 100vh;
+    background: radial-gradient(ellipse at center, var(--bg-glow) 0%, var(--bg) 70%);
+    color: var(--text);
+    font-family: 'Special Elite', monospace;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    padding: 2rem; overflow-x: hidden; position: relative;
+    transition: background 0.4s ease;
+  }
+  body::before {
+    content: ''; position: fixed; inset: 0; pointer-events: none; opacity: 0.08;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+    mix-blend-mode: overlay; z-index: 1;
+  }
+
+  .picker-row {
+    position: fixed; top: 1.25rem; right: 1.25rem; z-index: 3;
+  }
+  .picker-row select {
+    background: rgba(0,0,0,0.6);
+    color: var(--text);
+    border: 1px solid var(--accent);
+    font-family: 'Special Elite', monospace;
+    font-size: 0.9rem;
+    padding: 0.4rem 0.7rem;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+  }
+  .picker-row select:focus { outline: 2px solid var(--primary); }
+
+  h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: clamp(2.5rem, 9vw, 5.5rem); letter-spacing: 0.15em;
+    color: var(--accent);
+    text-shadow: 3px 3px 0 var(--primary), 6px 6px 0 #000;
+    margin-bottom: 3rem; transform: skewX(-3deg);
+    text-align: center;
+    transition: color 0.3s, text-shadow 0.3s;
+  }
+
+  .button {
+    position: relative;
+    width: 240px; height: 240px; border-radius: 50%; border: none;
+    background: radial-gradient(circle at 50% 30%,
+      color-mix(in srgb, var(--primary) 70%, white) 0%,
+      var(--primary) 32%,
+      color-mix(in srgb, var(--primary) 60%, black) 78%,
+      color-mix(in srgb, var(--primary) 35%, black) 100%);
+    color: #fff;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 3rem;
+    letter-spacing: 0.12em;
+    cursor: pointer;
+    box-shadow:
+      inset 0 14px 24px rgba(255,255,255,0.28),
+      inset 0 -18px 30px rgba(0,0,0,0.45),
+      0 14px 0 -2px color-mix(in srgb, var(--primary) 22%, black),
+      0 20px 28px rgba(0,0,0,0.5),
+      0 8px 14px rgba(0,0,0,0.3);
+    transition: transform 0.1s ease-out, box-shadow 0.1s ease-out, background 0.3s;
+    z-index: 2;
+  }
+  .button::after {
+    content: '';
+    position: absolute;
+    inset: -32px;
+    border-radius: 50%;
+    z-index: -1;
+    pointer-events: none;
+    background: radial-gradient(circle,
+      transparent 65%,
+      color-mix(in srgb, var(--primary) 55%, transparent) 80%,
+      transparent 100%);
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  .button:hover {
+    transform: translateY(-2px);
+    box-shadow:
+      inset 0 14px 24px rgba(255,255,255,0.28),
+      inset 0 -18px 30px rgba(0,0,0,0.45),
+      0 16px 0 -2px color-mix(in srgb, var(--primary) 22%, black),
+      0 22px 32px rgba(0,0,0,0.55),
+      0 10px 16px rgba(0,0,0,0.35);
+  }
+  .button:active {
+    transform: translateY(8px);
+    box-shadow:
+      inset 0 14px 24px rgba(255,255,255,0.28),
+      inset 0 -18px 30px rgba(0,0,0,0.45),
+      0 6px 0 -2px color-mix(in srgb, var(--primary) 22%, black),
+      0 8px 10px rgba(0,0,0,0.4),
+      0 3px 6px rgba(0,0,0,0.25);
+  }
+  .button.playing::after {
+    animation: glow-pulse 1.2s ease-in-out infinite;
+  }
+  @keyframes glow-pulse {
+    0%, 100% { opacity: 0.4; transform: scale(1); }
+    50%      { opacity: 0.85; transform: scale(1.12); }
+  }
+
+  .quote-display { margin-top: 3rem; max-width: 620px; min-height: 120px; text-align: center; z-index: 2; }
+  .quote-text {
+    font-size: 1.4rem; line-height: 1.5; color: var(--text); font-style: italic;
+    opacity: 0; transition: opacity 0.35s;
+  }
+  .quote-character {
+    margin-top: 1rem; font-family: 'Bebas Neue', sans-serif; font-size: 1.2rem;
+    letter-spacing: 0.25em; color: var(--accent); opacity: 0; transition: opacity 0.35s, color 0.3s;
+  }
+  .quote-source {
+    margin-top: 0.5rem; font-size: 0.75rem; letter-spacing: 0.2em; color: var(--muted);
+    opacity: 0; transition: opacity 0.35s;
+  }
+  .visible { opacity: 1 !important; }
+
+  .empty-hint {
+    color: var(--muted); font-size: 0.9rem; max-width: 500px; text-align: center;
+    line-height: 1.6;
+  }
+  .empty-hint code {
+    background: rgba(255,255,255,0.06); padding: 0.1rem 0.4rem;
+    border-radius: 3px; color: var(--accent);
+  }
+
+</style>
+</head>
+<body>
+  <div class="picker-row">
+    <select id="showPicker" aria-label="Select a show"></select>
+  </div>
+
+  <h1 id="title">TV TALK</h1>
+
+  <button class="button" id="quoteBtn">PRESS</button>
+
+  <div class="quote-display">
+    <p class="quote-text"      id="quoteText"></p>
+    <p class="quote-character" id="quoteChar"></p>
+    <p class="quote-source"    id="quoteSource"></p>
+  </div>
+
+<script src="shows.js"></script>
+<script>
+  // ----- safety: shows.js missing or empty -----
+  const SHOWS = (typeof shows !== 'undefined' && Array.isArray(shows)) ? shows : [];
+
+  const els = {
+    picker:  document.getElementById('showPicker'),
+    title:   document.getElementById('title'),
+    btn:     document.getElementById('quoteBtn'),
+    text:    document.getElementById('quoteText'),
+    char:    document.getElementById('quoteChar'),
+    source:  document.getElementById('quoteSource'),
+  };
+
+  const RANDOM = '__random__';
+  let currentSelection = RANDOM;
+  let lastKey = null;
+  let currentAudio = null;
+
+  function buildPicker() {
+    els.picker.innerHTML = '';
+    const randOpt = document.createElement('option');
+    randOpt.value = RANDOM;
+    randOpt.textContent = '🎲 Random (all shows)';
+    els.picker.appendChild(randOpt);
+    const sorted = [...SHOWS].sort((a, b) => a.name.localeCompare(b.name));
+    for (const s of sorted) {
+      const opt = document.createElement('option');
+      opt.value = s.id;
+      opt.textContent = s.name;
+      els.picker.appendChild(opt);
+    }
+    els.picker.value = RANDOM;
+  }
+
+  const DEFAULT_THEME = { primary: '#c41e3a', accent: '#d4af37', bg: '#0a0000' };
+  function applyTheme(theme) {
+    const t = { ...DEFAULT_THEME, ...(theme || {}) };
+    document.documentElement.style.setProperty('--primary', t.primary);
+    document.documentElement.style.setProperty('--accent',  t.accent);
+    document.documentElement.style.setProperty('--bg',      t.bg);
+    document.documentElement.style.setProperty(
+      '--bg-glow',
+      `color-mix(in srgb, ${t.primary} 18%, ${t.bg})`
+    );
+  }
+
+  function onSelectionChange() {
+    currentSelection = els.picker.value;
+    lastKey = null;
+    if (currentSelection === RANDOM) {
+      applyTheme(DEFAULT_THEME);
+      els.title.textContent = 'TV TALK';
+    } else {
+      const show = SHOWS.find(s => s.id === currentSelection);
+      if (show) {
+        applyTheme(show.theme);
+        els.title.textContent = show.name.toUpperCase();
+      }
+    }
+    clearQuote();
+  }
+
+  function clearQuote() {
+    els.text.classList.remove('visible');
+    els.char.classList.remove('visible');
+    els.source.classList.remove('visible');
+  }
+
+  function buildPool() {
+    if (currentSelection === RANDOM) {
+      const pool = [];
+      for (const s of SHOWS) {
+        for (let i = 0; i < s.quotes.length; i++) {
+          pool.push({ showId: s.id, showName: s.name, index: i, quote: s.quotes[i] });
+        }
+      }
+      return pool;
+    }
+    const s = SHOWS.find(x => x.id === currentSelection);
+    if (!s) return [];
+    return s.quotes.map((q, i) => ({ showId: s.id, showName: s.name, index: i, quote: q }));
+  }
+
+  function pick(pool) {
+    if (pool.length === 0) return null;
+    if (pool.length === 1) return pool[0];
+    let chosen;
+    do {
+      chosen = pool[Math.floor(Math.random() * pool.length)];
+    } while (`${chosen.showId}::${chosen.index}` === lastKey);
+    lastKey = `${chosen.showId}::${chosen.index}`;
+    return chosen;
+  }
+
+  function showQuote(item) {
+    const q = item.quote;
+    const show = SHOWS.find(s => s.id === item.showId);
+    const textStyle = show?.text_style || 'caption';
+    clearQuote();
+    setTimeout(() => {
+      els.text.textContent   = textStyle === 'title' ? q.text : `"${q.text}"`;
+      els.char.textContent   = q.character ? `— ${q.character}` : '';
+      els.source.textContent = (currentSelection === RANDOM) ? item.showName : '';
+      els.text.classList.add('visible');
+      if (q.character)                 els.char.classList.add('visible');
+      if (currentSelection === RANDOM) els.source.classList.add('visible');
+    }, 80);
+  }
+
+  function playAudio(q) {
+    if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+    if (!q.audioUrl) { els.btn.classList.remove('playing'); return; }
+    currentAudio = new Audio(q.audioUrl);
+    currentAudio.onended = () => els.btn.classList.remove('playing');
+    currentAudio.onerror = () => els.btn.classList.remove('playing');
+    currentAudio.play().catch(() => els.btn.classList.remove('playing'));
+  }
+
+  function showEmptyState() {
+    els.btn.style.display = 'none';
+    const hint = document.createElement('div');
+    hint.className = 'empty-hint';
+    hint.innerHTML = `
+      <p>No shows loaded yet.</p><br>
+      <p>Run <code>python3 scripts/scrape_soundboard.py --show the-boys</code>,
+      then <code>python3 scripts/build_shows.py</code>,
+      then refresh.</p>
+    `;
+    document.querySelector('.quote-display').appendChild(hint);
+  }
+
+  buildPicker();
+  if (SHOWS.length === 0) {
+    showEmptyState();
+  } else {
+    onSelectionChange();
+    els.picker.addEventListener('change', onSelectionChange);
+    els.btn.addEventListener('click', () => {
+      const pool = buildPool();
+      const item = pick(pool);
+      if (!item) return;
+      showQuote(item);
+      els.btn.classList.add('playing');
+      playAudio(item.quote);
+    });
+  }
+</script>
+</body>
+</html>

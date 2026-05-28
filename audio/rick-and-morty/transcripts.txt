@@ -1,0 +1,1139 @@
+001_a_little_help_please.mp3
+  "A little help please"
+  CHARACTER: 
+
+002_a_lot_of_vodka.mp3
+  "A lot of Vodka"
+  CHARACTER: 
+
+003_alan_rails_all_aboard_motherfucker.mp3
+  "Alan Rails - All Aboard, Motherfucker!"
+  CHARACTER: 
+
+004_almost_always_dressed_as_superman.mp3
+  "Almost Always Dressed as Superman"
+  CHARACTER: 
+
+005_alternative_interrogation.mp3
+  "Alternative Interrogation"
+  CHARACTER: 
+
+006_and_that_s_how_we_play_hands.mp3
+  "And That's How We Play Hands"
+  CHARACTER: 
+
+007_anomaly_raad_habibi_allahu_akbar.mp3
+  "Anomaly Raad habibi allahu akbar"
+  CHARACTER: 
+
+008_ants_in_my_eyes_johnson.mp3
+  "Ants in my eyes Johnson"
+  CHARACTER: 
+
+009_are_you_a_simulation.mp3
+  "Are you a simulation!?"
+  CHARACTER: 
+
+010_are_you_hungry_for_apples.mp3
+  "Are You Hungry for Apples"
+  CHARACTER: 
+
+011_back_to_the_drawing_board.mp3
+  "Back to the drawing board"
+  CHARACTER: 
+
+012_banana_rick.mp3
+  "Banana rick"
+  CHARACTER: 
+
+013_be_ashamed_of_your_gender.mp3
+  "Be Ashamed Of Your Gender"
+  CHARACTER: 
+
+014_because_i_m_having_a_party.mp3
+  "Because I'm Having a Party.."
+  CHARACTER: 
+
+015_because_i_m_the_rickest_rick_there_is.mp3
+  "Because I'm the Rickest Rick there is"
+  CHARACTER: 
+
+016_being_nice.mp3
+  "Being Nice"
+  CHARACTER: 
+
+017_bigot_attack.mp3
+  "Bigot Attack"
+  CHARACTER: 
+
+018_bitch_my_generation_gets_traumatized_for_breakfast.mp3
+  "Bitch, my generation gets traumatized for breakfast"
+  CHARACTER: 
+
+019_blips_and_chitz.mp3
+  "Blips And Chitz"
+  CHARACTER: 
+
+020_bully_attack.mp3
+  "Bully Attack"
+  CHARACTER: 
+
+021_butt_morty_caught_watching_faces.mp3
+  "Butt Morty caught watching faces"
+  CHARACTER: 
+
+022_can_do.mp3
+  "Can do!"
+  CHARACTER: 
+
+023_caught_wanking.mp3
+  "Caught Wanking"
+  CHARACTER: 
+
+024_christmas_drums.mp3
+  "Christmas Drums"
+  CHARACTER: 
+
+025_christmas_is_a_special_time.mp3
+  "Christmas Is a Special Time"
+  CHARACTER: 
+
+026_closet_superman.mp3
+  "Closet Superman"
+  CHARACTER: 
+
+027_coin_value.mp3
+  "Coin Value"
+  CHARACTER: 
+
+028_come_on_football.mp3
+  "Come on football!"
+  CHARACTER: 
+
+029_considered_a_dick_move.mp3
+  "Considered a dick move"
+  CHARACTER: 
+
+030_cool.mp3
+  "Cool"
+  CHARACTER: 
+
+031_crying_and_drinking_wine.mp3
+  "Crying and drinking wine"
+  CHARACTER: 
+
+032_cut_the_high_road_routine.mp3
+  "Cut the high road routine"
+  CHARACTER: 
+
+033_da_doi.mp3
+  "Da Doi"
+  CHARACTER: 
+
+034_death_stranding.mp3
+  "Death Stranding"
+  CHARACTER: 
+
+035_do_you_know_what_wubba_lubba_dub_dub_means.mp3
+  "Do you know what wubba lubba dub dub means?"
+  CHARACTER: 
+
+036_do_you_like_it.mp3
+  "Do You Like It?"
+  CHARACTER: 
+
+037_don_t_even_trip_dawg.mp3
+  "Don't even trip, dawg"
+  CHARACTER: 
+
+038_eat_shit.mp3
+  "Eat Shit"
+  CHARACTER: 
+
+039_eat_the_baby.mp3
+  "Eat the baby"
+  CHARACTER: 
+
+040_everybody_s_gonna_die.mp3
+  "Everybody's Gonna Die"
+  CHARACTER: 
+
+041_evil_morty_theme_earrape.mp3
+  "Evil Morty Theme Earrape"
+  CHARACTER: 
+
+042_fart.mp3
+  "Fart"
+  CHARACTER: 
+
+043_fuck_you_i_m_through_here.mp3
+  "Fuck You I'm through here"
+  CHARACTER: 
+
+044_fuck_you_summer_and_fuck_the_government.mp3
+  "Fuck You Summer, and Fuck the Government"
+  CHARACTER: 
+
+045_get_in_the_shower.mp3
+  "Get in the Shower"
+  CHARACTER: 
+
+046_get_schwifty.mp3
+  "Get Schwifty"
+  CHARACTER: 
+
+047_get_schwifty.mp3
+  "Get Schwifty"
+  CHARACTER: 
+
+048_get_schwiftyyy.mp3
+  "Get Schwiftyyy"
+  CHARACTER: 
+
+049_get_some.mp3
+  "Get Some"
+  CHARACTER: 
+
+050_get_up_on_outta_here.mp3
+  "Get up on outta here"
+  CHARACTER: 
+
+051_get_your_shit_together.mp3
+  "Get your shit together"
+  CHARACTER: 
+
+052_get_your_shit_together.mp3
+  "Get your shit together"
+  CHARACTER: 
+
+053_get_your_shit_together.mp3
+  "Get Your Shit Together"
+  CHARACTER: 
+
+054_giant_feet.mp3
+  "Giant Feet"
+  CHARACTER: 
+
+055_giant_prison.mp3
+  "Giant Prison"
+  CHARACTER: 
+
+056_going_to_make_love_to_my_wife.mp3
+  "Going to Make Love to My Wife"
+  CHARACTER: 
+
+057_good_breakfast.mp3
+  "Good Breakfast"
+  CHARACTER: 
+
+058_good_job.mp3
+  "Good job"
+  CHARACTER: 
+
+059_goodbye.mp3
+  "Goodbye"
+  CHARACTER: 
+
+060_goodbye.mp3
+  "Goodbye"
+  CHARACTER: 
+
+061_goodbye.mp3
+  "Goodbye"
+  CHARACTER: 
+
+062_gotta_take_it_real_serious.mp3
+  "Gotta Take it Real Serious"
+  CHARACTER: 
+
+063_grass_taste_bad.mp3
+  "Grass taste bad"
+  CHARACTER: 
+
+064_greetings.mp3
+  "Greetings"
+  CHARACTER: 
+
+065_gross.mp3
+  "Gross"
+  CHARACTER: 
+
+066_gross_what_is_that_thing.mp3
+  "Gross, what is that thing?"
+  CHARACTER: 
+
+067_he_s_just_grumpy_from_the_flight.mp3
+  "He's just grumpy from the flight"
+  CHARACTER: 
+
+068_help_me_i_m_gonna_die.mp3
+  "Help Me I'm Gonna Die"
+  CHARACTER: 
+
+069_here_i_go_killin_again.mp3
+  "Here I Go Killin Again"
+  CHARACTER: 
+
+070_hey_1995_called.mp3
+  "Hey 1995 called"
+  CHARACTER: 
+
+071_hey_ya_you_doing_ok.mp3
+  "Hey ya you doing ok?"
+  CHARACTER: 
+
+072_hi_i_am_mr.mp3
+  "Hi, I am Mr"
+  CHARACTER: 
+
+073_high_iq_to_understand_rick_and_morty.mp3
+  "High IQ to understand rick and morty"
+  CHARACTER: 
+
+074_holy_shit_thanks_kids_you_figured_it_out.mp3
+  "Holy Shit, Thanks kids you figured it out"
+  CHARACTER: 
+
+075_i_can_answer_that_for_money.mp3
+  "I can answer that, for money"
+  CHARACTER: 
+
+076_i_can_t_take_it_anymore.mp3
+  "I can't take it anymore"
+  CHARACTER: 
+
+077_i_choose_to_get_c_s.mp3
+  "I Choose To Get C's"
+  CHARACTER: 
+
+078_i_don_t_feel_safe.mp3
+  "I don't feel safe"
+  CHARACTER: 
+
+079_i_don_t_give_a_fuck_just_shake_that_ass_and_see_what_you_got.mp3
+  "I don't give a fuck just shake that ass and see what you got"
+  CHARACTER: 
+
+080_i_dunno_why_i_said_that_but_i_stand_by_it.mp3
+  "I dunno why I said that, but I stand by it"
+  CHARACTER: 
+
+081_i_just_want_to_die.mp3
+  "I Just Want to Die!"
+  CHARACTER: 
+
+082_i_love_morty.mp3
+  "I love morty"
+  CHARACTER: 
+
+083_i_love_trash.mp3
+  "I love trash"
+  CHARACTER: 
+
+084_i_never_go_back_to_the_carpet_store.mp3
+  "I never go back to the carpet store"
+  CHARACTER: 
+
+085_i_say_lets_do_it.mp3
+  "I say, lets do it!"
+  CHARACTER: 
+
+086_i_want_that_mulan_mcnugget_sauce.mp3
+  "I want that Mulan McNugget sauce"
+  CHARACTER: 
+
+087_i_was_not_in_control_of_that_situation.mp3
+  "I was not in control of that situation"
+  CHARACTER: 
+
+088_i_ll_see_you_at_the_dance.mp3
+  "I'll See You at the Dance"
+  CHARACTER: 
+
+089_i_ll_talk_to_you_after_lunch.mp3
+  "I'll talk to you after lunch"
+  CHARACTER: 
+
+090_i_m_cool_rick_you_re_outnumbered.mp3
+  "I'm Cool Rick (You're Outnumbered)"
+  CHARACTER: 
+
+091_i_m_gonna_go_take_a_shit.mp3
+  "I'm gonna go take a shit"
+  CHARACTER: 
+
+092_i_m_in_you_son_of_a_bitch.mp3
+  "I'm in, you son of a bitch"
+  CHARACTER: 
+
+093_i_m_jerry_smith.mp3
+  "I'm Jerry Smith"
+  CHARACTER: 
+
+094_i_m_late_to_class_b_tch.mp3
+  "I'm late to class b*tch"
+  CHARACTER: 
+
+095_i_m_mr_meseeks_look_at_me_rick_and_morty.mp3
+  "I'm mr Meseeks!! look at me Rick and Morty"
+  CHARACTER: 
+
+096_i_m_peeing_on_your_guns.mp3
+  "I'm Peeing on Your Guns"
+  CHARACTER: 
+
+097_i_m_pickle_rick.mp3
+  "I'm Pickle Rick"
+  CHARACTER: 
+
+098_i_m_scary_terry.mp3
+  "I'm Scary Terry"
+  CHARACTER: 
+
+099_i_m_sorry_you_think_you_need_an_apology.mp3
+  "I'm sorry you think you need an apology"
+  CHARACTER: 
+
+100_in_bird_culture.mp3
+  "In Bird Culture"
+  CHARACTER: 
+
+101_interdimensional_cable_ii.mp3
+  "Interdimensional Cable II"
+  CHARACTER: 
+
+102_is_this_organic.mp3
+  "Is This Organic?"
+  CHARACTER: 
+
+103_it_was_supposed_to_be_a_surprise.mp3
+  "It was supposed to be a surprise"
+  CHARACTER: 
+
+104_it_s_your_house_whatever_you_say.mp3
+  "It's your house whatever you say"
+  CHARACTER: 
+
+105_join_in_the_poopin.mp3
+  "Join in the poopin?"
+  CHARACTER: 
+
+106_judge_morty.mp3
+  "Judge Morty"
+  CHARACTER: 
+
+107_just_a_yes_or_no.mp3
+  "Just a yes or no"
+  CHARACTER: 
+
+108_just_stick_with_me.mp3
+  "Just stick with me"
+  CHARACTER: 
+
+109_keep_summer_safe.mp3
+  "Keep Summer Safe"
+  CHARACTER: 
+
+110_king_of_shit.mp3
+  "King of Shit"
+  CHARACTER: 
+
+111_left_the_portal_gun_at_home.mp3
+  "Left The Portal Gun at Home"
+  CHARACTER: 
+
+112_leslie_wai_remixrick.mp3
+  "Leslie Wai Remixrick"
+  CHARACTER: 
+
+113_let_me_out_acoustic.mp3
+  "Let me out acoustic"
+  CHARACTER: 
+
+114_let_me_out_dance.mp3
+  "Let me out dance"
+  CHARACTER: 
+
+115_let_s_do_this_as_a_team.mp3
+  "Let's Do this as a Team"
+  CHARACTER: 
+
+116_lick_my_balls.mp3
+  "Lick my balls"
+  CHARACTER: 
+
+117_lil_bits.mp3
+  "Lil bits"
+  CHARACTER: 
+
+118_look_through_my_eye_holes.mp3
+  "Look through my eye holes!"
+  CHARACTER: 
+
+119_love.mp3
+  "Love"
+  CHARACTER: 
+
+120_lust_and_greed.mp3
+  "Lust and Greed"
+  CHARACTER: 
+
+121_matrix_forty.mp3
+  "Matrix Forty"
+  CHARACTER: 
+
+122_meeting_mr.mp3
+  "Meeting Mr"
+  CHARACTER: 
+
+123_merry_christmas.mp3
+  "Merry Christmas!"
+  CHARACTER: 
+
+124_mind_your_own_business_gene.mp3
+  "Mind Your Own Business Gene!"
+  CHARACTER: 
+
+125_morty_killed_the_simpsons.mp3
+  "Morty killed the Simpsons"
+  CHARACTER: 
+
+126_mother_f_er.mp3
+  "Mother F***er"
+  CHARACTER: 
+
+127_mr.mp3
+  "Mr"
+  CHARACTER: 
+
+128_mr.mp3
+  "Mr"
+  CHARACTER: 
+
+129_mr.mp3
+  "Mr"
+  CHARACTER: 
+
+130_mr.mp3
+  "Mr"
+  CHARACTER: 
+
+131_mr.mp3
+  "Mr"
+  CHARACTER: 
+
+132_mr_meeseeks_look_at_me.mp3
+  "Mr Meeseeks Look at Me"
+  CHARACTER: 
+
+133_mr_poopy.mp3
+  "Mr poopy"
+  CHARACTER: 
+
+134_my_man.mp3
+  "My Man"
+  CHARACTER: 
+
+135_neo_nazi_attack.mp3
+  "Neo Nazi Attack"
+  CHARACTER: 
+
+136_new_situations.mp3
+  "New situations"
+  CHARACTER: 
+
+137_nobody_exists_on_purpose.mp3
+  "Nobody exists on purpose"
+  CHARACTER: 
+
+138_nobody_exists_on_purpose.mp3
+  "Nobody exists on purpose.."
+  CHARACTER: 
+
+139_noob_noob_goddamn_first_time.mp3
+  "Noob Noob Goddamn First Time"
+  CHARACTER: 
+
+140_noob_noob_goddamn_second_time.mp3
+  "Noob Noob Goddamn Second Time"
+  CHARACTER: 
+
+141_noob_noob_s_first_mission.mp3
+  "Noob Noob's first mission"
+  CHARACTER: 
+
+142_nothing_matters.mp3
+  "Nothing matters"
+  CHARACTER: 
+
+143_now_is_the_time_for_action.mp3
+  "Now is the Time for Action"
+  CHARACTER: 
+
+144_oh.mp3
+  "Oh !@"
+  CHARACTER: 
+
+145_oh_and_this_disappoints_you.mp3
+  "Oh and this disappoints you?"
+  CHARACTER: 
+
+146_oh_fuck.mp3
+  "Oh fuck"
+  CHARACTER: 
+
+147_oh_jeeze_ok.mp3
+  "Oh Jeeze, OK"
+  CHARACTER: 
+
+148_oh_man_oh_jeez.mp3
+  "Oh man, oh jeez"
+  CHARACTER: 
+
+149_oh_my_god.mp3
+  "Oh my god!"
+  CHARACTER: 
+
+150_oh_no_i_m_not_wearing_any_pants.mp3
+  "Oh no, I'm not wearing any pants!"
+  CHARACTER: 
+
+151_oh_shit_we_got_tiny_people.mp3
+  "Oh shit, we got tiny people"
+  CHARACTER: 
+
+152_oh_yeah_i_want_you.mp3
+  "Oh yeah I want you!"
+  CHARACTER: 
+
+153_oh_yeah_fight_pickle_rick.mp3
+  "Oh Yeah! Fight! Pickle Rick!"
+  CHARACTER: 
+
+154_okay_okay.mp3
+  "Okay, Okay?"
+  CHARACTER: 
+
+155_omg_are_you_drunk.mp3
+  "OMG are you drunk?!"
+  CHARACTER: 
+
+156_omg_caught_wanking_it.mp3
+  "OMG caught wanking it"
+  CHARACTER: 
+
+157_ooo_weee_long.mp3
+  "Ooo Weee Long"
+  CHARACTER: 
+
+158_oooweee.mp3
+  "OooWeee"
+  CHARACTER: 
+
+159_pat_on_the_back.mp3
+  "Pat On The Back"
+  CHARACTER: 
+
+160_peace_out.mp3
+  "Peace out"
+  CHARACTER: 
+
+161_pickle_rick.mp3
+  "Pickle Rick"
+  CHARACTER: 
+
+162_pickle_rick.mp3
+  "Pickle rick"
+  CHARACTER: 
+
+163_pickle_rick_escapes_the_sewer.mp3
+  "Pickle Rick Escapes the Sewer!"
+  CHARACTER: 
+
+164_pickle_rick_transformation.mp3
+  "Pickle Rick Transformation"
+  CHARACTER: 
+
+165_play_something.mp3
+  "Play Something"
+  CHARACTER: 
+
+166_pluto_is_a_planet.mp3
+  "Pluto is a planet"
+  CHARACTER: 
+
+167_put_your_burka_on.mp3
+  "Put Your Burka On"
+  CHARACTER: 
+
+168_reality_is_poison.mp3
+  "Reality is Poison"
+  CHARACTER: 
+
+169_redgrin_grumble.mp3
+  "Redgrin Grumble"
+  CHARACTER: 
+
+170_rhetorical_question.mp3
+  "Rhetorical Question"
+  CHARACTER: 
+
+171_rick_actually_compliments_morty.mp3
+  "Rick actually compliments Morty"
+  CHARACTER: 
+
+172_rick_and_morty.mp3
+  "Rick And Morty"
+  CHARACTER: 
+
+173_rick_and_morty.mp3
+  "Rick And Morty"
+  CHARACTER: 
+
+174_rick_and_morty.mp3
+  "Rick And Morty"
+  CHARACTER: 
+
+175_rick_and_morty.mp3
+  "Rick and morty"
+  CHARACTER: 
+
+176_rick_and_morty_ah_shit_dog.mp3
+  "Rick and Morty ah shit dog"
+  CHARACTER: 
+
+177_rick_and_morty_i_want_you.mp3
+  "Rick and Morty i want you"
+  CHARACTER: 
+
+178_rick_and_morty_red_heads.mp3
+  "Rick and Morty red heads"
+  CHARACTER: 
+
+179_rick_and_morty_shit.mp3
+  "Rick and Morty shit"
+  CHARACTER: 
+
+180_rick_and_morty_aids.mp3
+  "Rick and Morty Aids"
+  CHARACTER: 
+
+181_rick_and_morty_intro_ear_rape.mp3
+  "Rick and Morty Intro (Ear Rape)"
+  CHARACTER: 
+
+182_rick_and_morty_leprechaun.mp3
+  "Rick and Morty Leprechaun"
+  CHARACTER: 
+
+183_rick_and_morty_s_t.mp3
+  "Rick And Morty S**t"
+  CHARACTER: 
+
+184_rick_and_morty_sad_f.mp3
+  "Rick And Morty Sad F"
+  CHARACTER: 
+
+185_rick_and_morty_shake_that_ass.mp3
+  "Rick and Morty Shake That Ass"
+  CHARACTER: 
+
+186_rick_and_morty_snap_yes.mp3
+  "Rick and Morty Snap Yes"
+  CHARACTER: 
+
+187_rick_and_morty_song.mp3
+  "Rick and morty song"
+  CHARACTER: 
+
+188_rick_and_morty_soundtrack_evil_morty_s_theme_qua.mp3
+  "Rick and Morty Soundtrack - Evil Morty's Theme (Qua.."
+  CHARACTER: 
+
+189_rick_and_morty_yes_better.mp3
+  "Rick and Morty Yes (better)"
+  CHARACTER: 
+
+190_rick_belching_rick_and_morty.mp3
+  "Rick Belching Rick and Morty"
+  CHARACTER: 
+
+191_rick_fredie.mp3
+  "Rick Fredie"
+  CHARACTER: 
+
+192_rick_gross.mp3
+  "Rick Gross"
+  CHARACTER: 
+
+193_rick_schwifty.mp3
+  "Rick Schwifty"
+  CHARACTER: 
+
+194_riggity_riggity_wreaked_son_rick_and_morty.mp3
+  "Riggity riggity Wreaked Son! Rick and Morty"
+  CHARACTER: 
+
+195_riggity_riggity_wrecked_son.mp3
+  "Riggity Riggity Wrecked Son"
+  CHARACTER: 
+
+196_rise_above_focus_on_science.mp3
+  "Rise above Focus on Science"
+  CHARACTER: 
+
+197_save_it_for_the_semantics_dome.mp3
+  "Save it for the Semantics Dome"
+  CHARACTER: 
+
+198_scary_terry.mp3
+  "Scary Terry"
+  CHARACTER: 
+
+199_scary_terry.mp3
+  "Scary Terry"
+  CHARACTER: 
+
+200_scary_terry.mp3
+  "Scary Terry"
+  CHARACTER: 
+
+201_schezwan_sauce_speech_rick_and_morty_season_3.mp3
+  "Schezwan Sauce Speech - Rick and Morty Season 3"
+  CHARACTER: 
+
+202_screaming_sun_rick_and_morty.mp3
+  "Screaming Sun - Rick and Morty"
+  CHARACTER: 
+
+203_scumbag_attack.mp3
+  "Scumbag Attack"
+  CHARACTER: 
+
+204_see_this.mp3
+  "See this?"
+  CHARACTER: 
+
+205_see_you_mother_f_ckers_at_the_dance.mp3
+  "See you mother f*ckers at the dance!"
+  CHARACTER: 
+
+206_shake_that_ass.mp3
+  "Shake that ass"
+  CHARACTER: 
+
+207_shirt.mp3
+  "Shirt"
+  CHARACTER: 
+
+208_show_me_what_you_got.mp3
+  "Show me what you got"
+  CHARACTER: 
+
+209_show_me_what_you_got.mp3
+  "Show me what you got"
+  CHARACTER: 
+
+210_singing_cowboy_meme.mp3
+  "Singing Cowboy Meme"
+  CHARACTER: 
+
+211_six_days_later.mp3
+  "Six Days Later"
+  CHARACTER: 
+
+212_songify_this_r_and_m.mp3
+  "Songify This R And M"
+  CHARACTER: 
+
+213_squanchy_culture.mp3
+  "Squanchy Culture"
+  CHARACTER: 
+
+214_stop_fighting.mp3
+  "Stop Fighting"
+  CHARACTER: 
+
+215_stupid_dumb_bitch.mp3
+  "Stupid dumb bitch"
+  CHARACTER: 
+
+216_stupid_little_garbage_person.mp3
+  "Stupid Little Garbage Person"
+  CHARACTER: 
+
+217_suck_my_dick.mp3
+  "Suck my dick"
+  CHARACTER: 
+
+218_syka.mp3
+  "Syka"
+  CHARACTER: 
+
+219_szechuan_sauce.mp3
+  "Szechuan sauce"
+  CHARACTER: 
+
+220_szechuan_sauce_is_delicious.mp3
+  "Szechuan Sauce is delicious!"
+  CHARACTER: 
+
+221_teenage_mind_is_its_own_worst_enemy.mp3
+  "Teenage mind is its own worst enemy"
+  CHARACTER: 
+
+222_thank_you.mp3
+  "Thank You"
+  CHARACTER: 
+
+223_thank_you.mp3
+  "Thank You"
+  CHARACTER: 
+
+224_thanks_mr.mp3
+  "Thanks Mr"
+  CHARACTER: 
+
+225_that_is_so_sweet.mp3
+  "That is so sweet!"
+  CHARACTER: 
+
+226_that_s_a_relief.mp3
+  "That's a relief"
+  CHARACTER: 
+
+227_that_s_insane.mp3
+  "That's insane"
+  CHARACTER: 
+
+228_that_s_retarded.mp3
+  "That's retarded"
+  CHARACTER: 
+
+229_that_s_why_you_want_it.mp3
+  "That's why you want it?"
+  CHARACTER: 
+
+230_the_12_days_of_rickmas.mp3
+  "The 12 Days of Rickmas"
+  CHARACTER: 
+
+231_the_ghost_train_guy_would_ve_used_a_ghost_train.mp3
+  "The Ghost Train Guy Would've Used a Ghost Train"
+  CHARACTER: 
+
+232_the_mental_breakdown.mp3
+  "The Mental Breakdown"
+  CHARACTER: 
+
+233_the_rick_dance.mp3
+  "The Rick Dance"
+  CHARACTER: 
+
+234_the_rick_dance.mp3
+  "The Rick Dance"
+  CHARACTER: 
+
+235_this_guys_taking_roy_off_the_grid.mp3
+  "This guys taking Roy off the grid!"
+  CHARACTER: 
+
+236_this_holiday_is_about_humanity.mp3
+  "This holiday is about humanity"
+  CHARACTER: 
+
+237_this_lawyer_has_made_sexual_advances_on_me.mp3
+  "This lawyer has made sexual advances on me"
+  CHARACTER: 
+
+238_this_shit_is_delicious.mp3
+  "This Shit is Delicious"
+  CHARACTER: 
+
+239_this_shit_is_delicious.mp3
+  "This Shit is Delicious"
+  CHARACTER: 
+
+240_tiny_rick_hunting_a_vampire.mp3
+  "Tiny Rick Hunting a Vampire"
+  CHARACTER: 
+
+241_two_brothers_rick_and_morty.mp3
+  "Two Brothers Rick and Morty"
+  CHARACTER: 
+
+242_two_brothers_the_movie.mp3
+  "Two Brothers: The Movie"
+  CHARACTER: 
+
+243_vasectomy.mp3
+  "Vasectomy"
+  CHARACTER: 
+
+244_wait_what.mp3
+  "Wait? What?"
+  CHARACTER: 
+
+245_we_are_connecting_this_christmas.mp3
+  "We are connecting this Christmas!"
+  CHARACTER: 
+
+246_we_need_a_vacation.mp3
+  "We need a vacation"
+  CHARACTER: 
+
+247_we_need_food_when_we_re_hungry.mp3
+  "We Need Food When We're Hungry"
+  CHARACTER: 
+
+248_we_need_to_go_on_a_quick_adventure.mp3
+  "We need to go on a quick adventure"
+  CHARACTER: 
+
+249_we_re_so_screwed.mp3
+  "We're so screwed"
+  CHARACTER: 
+
+250_weeping_breakdown.mp3
+  "Weeping breakdown"
+  CHARACTER: 
+
+251_welcome_to_your_nightmare.mp3
+  "Welcome to Your Nightmare"
+  CHARACTER: 
+
+252_what_am_i_eating.mp3
+  "What am I eating?"
+  CHARACTER: 
+
+253_what_is_my_purpose.mp3
+  "What is my purpose?"
+  CHARACTER: 
+
+254_what_the_hell.mp3
+  "What the hell"
+  CHARACTER: 
+
+255_what.mp3
+  "What?!"
+  CHARACTER: 
+
+256_whatever_you_say_stone_cold_steve_austin.mp3
+  "Whatever you say, Stone Cold Steve Austin"
+  CHARACTER: 
+
+257_wheeee.mp3
+  "Wheeee"
+  CHARACTER: 
+
+258_where_am_i.mp3
+  "Where am I?!"
+  CHARACTER: 
+
+259_where_is_the_anger_coming_from.mp3
+  "Where is the Anger Coming From"
+  CHARACTER: 
+
+260_white_people_problems.mp3
+  "White People Problems"
+  CHARACTER: 
+
+261_who_the_f_are_you.mp3
+  "Who the f* are you?"
+  CHARACTER: 
+
+262_whoo_wee.mp3
+  "Whoo Wee"
+  CHARACTER: 
+
+263_why_do_you_keep_doing_this_to_us.mp3
+  "Why do you keep doing this to us?"
+  CHARACTER: 
+
+264_woolly_mammoths.mp3
+  "Woolly Mammoths"
+  CHARACTER: 
+
+265_woopie_loopie_doop_doop.mp3
+  "Woopie loopie doop doop"
+  CHARACTER: 
+
+266_wow_i_m_so_smart.mp3
+  "Wow! I'm so smart!"
+  CHARACTER: 
+
+267_wubalubadubdub_rick.mp3
+  "WUBALUBADUBDUB Rick"
+  CHARACTER: 
+
+268_wubba_lubba_dub_dub_i_am_in_great_pain.mp3
+  "Wubba Lubba Dub Dub I am in great pain"
+  CHARACTER: 
+
+269_wubba_lubba_dub_dub_rick_and_morty.mp3
+  "Wubba Lubba Dub Dub Rick and Morty"
+  CHARACTER: 
+
+270_wubba_lubba_dub_dub.mp3
+  "Wubba Lubba Dub Dub"
+  CHARACTER: 
+
+271_wubba_lubba_dub_dub_fart.mp3
+  "Wubba Lubba Dub Dub Fart"
+  CHARACTER: 
+
+272_x_gon_give_it_to_ya.mp3
+  "X Gon' Give It To Ya"
+  CHARACTER: 
+
+273_yeah_you_know_it_dog.mp3
+  "Yeah! You know it, dog!"
+  CHARACTER: 
+
+274_yes_yes_yes.mp3
+  "Yes. Yes. Yes"
+  CHARACTER: 
+
+275_you_aren_t_special.mp3
+  "You Aren't Special"
+  CHARACTER: 
+
+276_you_can_be_very_inconsiderate_sometimes.mp3
+  "You can be very inconsiderate sometimes"
+  CHARACTER: 
+
+277_you_can_run_but_you_can_t_hide.mp3
+  "You can run, but you can't hide"
+  CHARACTER: 
+
+278_you_f_cked_with_squirrels.mp3
+  "You F*cked with Squirrels!"
+  CHARACTER: 
+
+279_you_have_the_right_to_kiss_my_dick.mp3
+  "You Have the Right to Kiss My Dick"
+  CHARACTER: 
+
+280_you_re_both_pieces_of_shit_i_can_prove_it_mathematically.mp3
+  "You're both pieces of shit, I can prove it mathematically"
+  CHARACTER: 
+
+281_you_re_killing_the_vibe_in_here.mp3
+  "You're killing the vibe in here"
+  CHARACTER: 
+
+282_your_opinion_means_very_little_to_me.mp3
+  "Your opinion means very little to me"
+  CHARACTER: 
+
+283_your_the_reason_this_species_is_a_failure.mp3
+  "Your The reason this species is a failure"
+  CHARACTER: 
+
+284_3_weeks_earlier.mp3
+  "3 Weeks Earlier"
+  CHARACTER: 
+
+285_sigh.mp3
+  "::Sigh::"
+  CHARACTER: 

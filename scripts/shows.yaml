@@ -1,0 +1,200 @@
+# Registry of soundboards to scrape.
+#
+# Fields:
+#   id        slug used as folder name in audio/ and as id in shows.js
+#   name      human-readable show name shown in the UI
+#   board_url 101soundboards.com board URL
+#   status    pending | scraped | wip
+#   theme     UI colors for this show
+#     primary button color, primary text accents
+#     accent  secondary accent
+#     bg      darkest background color
+
+shows:
+  - id: the-boys
+    name: "The Boys"
+    board_url: "https://www.101soundboards.com/boards/1375005-the-boys-2019"
+    status: pending
+    theme:
+      primary: "#c41e3a"
+      accent:  "#2c5fa8"
+      bg:      "#0a0000"
+
+  - id: invincible
+    name: "Invincible"
+    board_url: "https://www.101soundboards.com/boards/1375641-invincible-2021"
+    status: pending
+    theme:
+      primary: "#ffd900"
+      accent:  "#1e88e5"
+      bg:      "#0a0a14"
+
+  - id: breaking-bad
+    name: "Breaking Bad"
+    board_url: "https://www.101soundboards.com/boards/24176-walter-white-soundboard-breaking-bad"
+    status: pending
+    theme:
+      primary: "#f5c721"
+      accent:  "#4a7a52"
+      bg:      "#080a06"
+
+  - id: family-guy
+    name: "Family Guy"
+    board_url: "https://www.101soundboards.com/boards/22137-family-guy-soundboard"
+    status: pending
+    text_style: "title"
+    theme:
+      primary: "#cc2030"
+      accent:  "#f5d51e"
+      bg:      "#0a0606"
+
+  - id: that-70s-show
+    name: "That '70s Show"
+    board_url: "https://www.101soundboards.com/boards/1396616-that-70s-show-1998"
+    status: pending
+    case_style: "fix_all_caps"
+    exclude_prefix: "CAPTIONING MADE POSSIBLE BY"
+    theme:
+      primary: "#e08530"
+      accent:  "#f0d49c"
+      bg:      "#1a0e05"
+
+  - id: narcos
+    name: "Narcos"
+    board_url: "https://www.101soundboards.com/boards/1390523-narcos-2015"
+    status: pending
+    theme:
+      primary: "#c9a86a"
+      accent:  "#8c1c1c"
+      bg:      "#100805"
+
+  - id: succession
+    name: "Succession"
+    board_url: "https://www.101soundboards.com/boards/1387142-succession-2018"
+    status: pending
+    exclude_prefix: "("
+    theme:
+      primary: "#c4a032"
+      accent:  "#5e6878"
+      bg:      "#0a0a0e"
+
+  - id: peaky-blinders
+    name: "Peaky Blinders"
+    board_url: "https://www.101soundboards.com/boards/35300-peaky-blinders-soundboard"
+    board_url_2: "https://www.101soundboards.com/boards/1389222-peaky-blinders-2013"
+    status: pending
+    case_style: "fix_all_caps"
+    exclude_prefix: "("
+    theme:
+      primary: "#2a4a5e"
+      accent:  "#c4953a"
+      bg:      "#080a0c"
+
+  - id: always-sunny
+    name: "It's Always Sunny in Philadelphia"
+    board_url: "https://www.101soundboards.com/boards/24751-its-always-sunny-in-philadelphia-soundboard"
+    status: pending
+    text_style: "title"
+    theme:
+      primary: "#3a6b34"
+      accent:  "#f5d028"
+      bg:      "#080a06"
+
+  - id: ozark
+    name: "Ozark"
+    board_url: "https://www.101soundboards.com/boards/1393042-ozark-2017"
+    status: pending
+    theme:
+      primary: "#2a6878"
+      accent:  "#8ec4cc"
+      bg:      "#04060a"
+
+  - id: sopranos
+    name: "The Sopranos"
+    board_url: "https://www.101soundboards.com/boards/34534-the-sopranos-soundboard"
+    status: pending
+    text_style: "title"
+    theme:
+      primary: "#a82d2d"
+      accent:  "#e4d49c"
+      bg:      "#0a0608"
+
+  - id: the-wire
+    name: "The Wire"
+    board_url: "https://www.101soundboards.com/boards/85760-the-wire-soundboard"
+    status: pending
+    text_style: "title"
+    theme:
+      primary: "#a04020"
+      accent:  "#5a7080"
+      bg:      "#080808"
+
+  - id: rick-and-morty
+    name: "Rick and Morty"
+    board_url: "https://www.101soundboards.com/boards/21656-rick-and-morty-soundboard"
+    status: pending
+    text_style: "title"
+    theme:
+      primary: "#92e652"
+      accent:  "#3acce5"
+      bg:      "#0a1408"
+
+  - id: silicon-valley
+    name: "Silicon Valley"
+    board_url: "https://www.101soundboards.com/boards/21625-silicon-valley-soundboard"
+    status: pending
+    text_style: "title"
+    theme:
+      primary: "#8a3da8"
+      accent:  "#d9d4c2"
+      bg:      "#0a0810"
+
+  - id: arrested-development
+    name: "Arrested Development"
+    board_url: "https://www.101soundboards.com/boards/84252-arrested-development-soundboard"
+    status: pending
+    text_style: "title"
+    theme:
+      primary: "#f5cd2f"
+      accent:  "#8b5e2b"
+      bg:      "#0a0604"
+
+  - id: parks-and-rec
+    name: "Parks and Recreation"
+    board_url: "https://www.101soundboards.com/boards/83980-parks-and-recreation-soundboard"
+    board_url_2: "https://www.101soundboards.com/boards/84783-parks-and-rec-soundboard"
+    status: pending
+    text_style: "title"
+    theme:
+      primary: "#5a7c34"
+      accent:  "#d6a972"
+      bg:      "#0a0c06"
+
+  - id: atlanta
+    name: "Atlanta"
+    board_url: "https://www.101soundboards.com/boards/1375380-atlanta-2016"
+    status: pending
+    theme:
+      primary: "#c2664f"
+      accent:  "#3a8688"
+      bg:      "#0a0808"
+
+  - id: himym
+    name: "How I Met Your Mother"
+    board_url: "https://www.101soundboards.com/boards/40747-how-i-met-your-mother-soundboard"
+    status: pending
+    text_style: "title"
+    theme:
+      primary: "#3a6db8"
+      accent:  "#fbcb4a"
+      bg:      "#080a0e"
+
+  - id: the-office
+    name: "The Office"
+    board_url: "https://www.101soundboards.com/boards/83996-the-office-soundboard"
+    status: pending
+    text_style: "title"
+    theme:
+      primary: "#3d4a6e"
+      accent:  "#d4c89a"
+      bg:      "#08090c"

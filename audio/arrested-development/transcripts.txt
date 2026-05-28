@@ -1,0 +1,379 @@
+001_ahh_i_knew_it.mp3
+  "Ahh I knew it!"
+  CHARACTER: 
+
+002_arrested_development.mp3
+  "Arrested Development"
+  CHARACTER: 
+
+003_bees.mp3
+  "Bees?"
+  CHARACTER: 
+
+004_chicken_dance_whole_family.mp3
+  "Chicken dance whole family"
+  CHARACTER: 
+
+005_collapsing.mp3
+  "Collapsing"
+  CHARACTER: 
+
+006_come_on.mp3
+  "Come on!"
+  CHARACTER: 
+
+007_come_on.mp3
+  "Come on!"
+  CHARACTER: 
+
+008_crying_in_the_shower.mp3
+  "Crying in the Shower"
+  CHARACTER: 
+
+009_did_nothing_cancel.mp3
+  "Did "nothing" cancel?"
+  CHARACTER: 
+
+010_don_t_give_me_that_look.mp3
+  "Don't give me that look"
+  CHARACTER: 
+
+011_everything_they_do_is_so_dramatic.mp3
+  "Everything they do is so dramatic"
+  CHARACTER: 
+
+012_eye_roll.mp3
+  "Eye Roll"
+  CHARACTER: 
+
+013_eyeroll.mp3
+  "Eyeroll"
+  CHARACTER: 
+
+014_finalcountdown_choir.mp3
+  "FinalCountdown Choir"
+  CHARACTER: 
+
+015_fire_sale.mp3
+  "Fire Sale"
+  CHARACTER: 
+
+016_get_a_job.mp3
+  "Get a job"
+  CHARACTER: 
+
+017_giggle.mp3
+  "Giggle"
+  CHARACTER: 
+
+018_go_see_a_star_war.mp3
+  "Go see a Star War"
+  CHARACTER: 
+
+019_gob_s_final_countdown.mp3
+  "Gob's final countdown"
+  CHARACTER: 
+
+020_handcuff_the_king_of_the_jews.mp3
+  "Handcuff the King of the Jews"
+  CHARACTER: 
+
+021_hello_darkness.mp3
+  "Hello Darkness"
+  CHARACTER: 
+
+022_her.mp3
+  "Her?"
+  CHARACTER: 
+
+023_his_words.mp3
+  "His words"
+  CHARACTER: 
+
+024_hot.mp3
+  "Hot"
+  CHARACTER: 
+
+025_hot_ham_water.mp3
+  "Hot Ham Water"
+  CHARACTER: 
+
+026_huh_oscar.mp3
+  "Huh, Oscar"
+  CHARACTER: 
+
+027_huzzah.mp3
+  "Huzzah!"
+  CHARACTER: 
+
+028_i_am_not_threatened.mp3
+  "I am not threatened"
+  CHARACTER: 
+
+029_i_don_t_know_who_that_is.mp3
+  "I don't know who that is"
+  CHARACTER: 
+
+030_i_don_t_understand_the_question.mp3
+  "I don't understand the question"
+  CHARACTER: 
+
+031_i_don_t_understand_the_question.mp3
+  "I don't understand the question"
+  CHARACTER: 
+
+032_i_dont_know_what_i_expected.mp3
+  "I dont know what I expected"
+  CHARACTER: 
+
+033_i_knew_it.mp3
+  "I knew it!"
+  CHARACTER: 
+
+034_i_knew_you_would_throw_that_in_my_face.mp3
+  "I knew you would throw that in my face"
+  CHARACTER: 
+
+035_i_understand_more_than_you_ll_never_know.mp3
+  "I understand more than you'll never know"
+  CHARACTER: 
+
+036_i_will_not_stand_for_this.mp3
+  "I will not stand for this"
+  CHARACTER: 
+
+037_i_wine_em_and_dine_em_but_i_don_t_let_em_tell_me_what_to_do.mp3
+  "I wine em and dine em, but I don't let em tell me what to do"
+  CHARACTER: 
+
+038_i_won_t_hear_or_respond_to_it.mp3
+  "I won't hear or respond to it"
+  CHARACTER: 
+
+039_i_ll_drink_you_for_it.mp3
+  "I'll drink you for it"
+  CHARACTER: 
+
+040_i_ll_leave_when_i_m_ready.mp3
+  "I'll leave when I'm ready"
+  CHARACTER: 
+
+041_i_m_not_gay.mp3
+  "I'm not gay"
+  CHARACTER: 
+
+042_i_ve_made_a_huge_mistake.mp3
+  "I've made a huge mistake"
+  CHARACTER: 
+
+043_i_ve_made_a_huge_mistake.mp3
+  "I've made a huge mistake"
+  CHARACTER: 
+
+044_i_ve_made_a_huge_mistake.mp3
+  "I've made a huge mistake"
+  CHARACTER: 
+
+045_i_ve_made_a_huge_mistake.mp3
+  "I've made a huge mistake"
+  CHARACTER: 
+
+046_i_ve_made_a_huge_mistake.mp3
+  "I've made a huge mistake"
+  CHARACTER: 
+
+047_i_m_having_the_time_of_my_life.mp3
+  "I’m having the time of my life"
+  CHARACTER: 
+
+048_if_i_could_stick_my_nose_in_here_for_one_second.mp3
+  "If I could stick my nose in here for one second"
+  CHARACTER: 
+
+049_illusion_michael.mp3
+  "Illusion, Michael"
+  CHARACTER: 
+
+050_it_s_good.mp3
+  "It's good.."
+  CHARACTER: 
+
+051_just_blue_myself.mp3
+  "Just blue myself"
+  CHARACTER: 
+
+052_let_me_know_when_you_re_ready.mp3
+  "Let me know when you're ready"
+  CHARACTER: 
+
+053_mom_it_s_breakfast.mp3
+  "Mom, it's breakfast"
+  CHARACTER: 
+
+054_my_purse_overflowth_so_shopping_we_must_go.mp3
+  "My purse overflowth, so shopping we must go!"
+  CHARACTER: 
+
+055_never_nude.mp3
+  "Never nude"
+  CHARACTER: 
+
+056_ninja_please.mp3
+  "Ninja Please!"
+  CHARACTER: 
+
+057_no.mp3
+  "No"
+  CHARACTER: 
+
+058_no_touching.mp3
+  "No touching!"
+  CHARACTER: 
+
+059_not_let_you_into_the_country_club.mp3
+  "Not let you into the country club"
+  CHARACTER: 
+
+060_oh_go_right_to_that.mp3
+  "Oh! Go right to that!"
+  CHARACTER: 
+
+061_oh_is_there_such_a_thing.mp3
+  "Oh! Is there such a thing?"
+  CHARACTER: 
+
+062_panic.mp3
+  "Panic!"
+  CHARACTER: 
+
+063_sad_collapse.mp3
+  "Sad Collapse"
+  CHARACTER: 
+
+064_sad_walk.mp3
+  "Sad Walk"
+  CHARACTER: 
+
+065_see_if_you_can_get_it_down_to_5.mp3
+  "See if you can get it down to 5"
+  CHARACTER: 
+
+066_somewhere_over_the_rainbow.mp3
+  "Somewhere over the rainbow"
+  CHARACTER: 
+
+067_spring_break_wooo.mp3
+  "Spring break WOOO!"
+  CHARACTER: 
+
+068_spring_break_woo.mp3
+  "Spring break, woo!"
+  CHARACTER: 
+
+069_staredown.mp3
+  "Staredown"
+  CHARACTER: 
+
+070_that_one_didn_t_count.mp3
+  "That one didn't count"
+  CHARACTER: 
+
+071_that_s_another_fault_of_her_s.mp3
+  "That's another fault of her's"
+  CHARACTER: 
+
+072_the_heart_of_an_angel_and_the_hide_of_an_elephant.mp3
+  "The heart of an angel and the hide of an elephant"
+  CHARACTER: 
+
+073_the_jokes_on_her.mp3
+  "The jokes on her"
+  CHARACTER: 
+
+074_the_milk_of_mothers_kindess.mp3
+  "The milk of mothers kindess"
+  CHARACTER: 
+
+075_there_are_dozens_of_us.mp3
+  "There are dozens of us"
+  CHARACTER: 
+
+076_there_s_always_money_in_the_banana_stand.mp3
+  "There's always money in the banana stand"
+  CHARACTER: 
+
+077_there_s_always_money_in_the_banana_stand.mp3
+  "There's always money in the banana stand!"
+  CHARACTER: 
+
+078_this_does_not_bode_well.mp3
+  "This does not bode well"
+  CHARACTER: 
+
+079_this_is_joyous_news.mp3
+  "This is joyous news"
+  CHARACTER: 
+
+080_this_should_be_easy_for_you.mp3
+  "This should be easy for you"
+  CHARACTER: 
+
+081_tobias_balls.mp3
+  "Tobias Balls"
+  CHARACTER: 
+
+082_tobias_funke.mp3
+  "Tobias Funke"
+  CHARACTER: 
+
+083_tobias_is_a_thug.mp3
+  "Tobias Is A Thug"
+  CHARACTER: 
+
+084_we_re_just_blowing_through_nap_time_aren_t_we.mp3
+  "We're just blowing through nap time aren't we?"
+  CHARACTER: 
+
+085_well.mp3
+  "Well .."
+  CHARACTER: 
+
+086_well_no_one_s_gonna_top_that.mp3
+  "Well no one's gonna top that"
+  CHARACTER: 
+
+087_what_an_adventure_gang.mp3
+  "What an adventure, gang!"
+  CHARACTER: 
+
+088_who_d_wanna_mess_with_any_of_us_huh.mp3
+  "Who'd wanna mess with any of us, huh?"
+  CHARACTER: 
+
+089_who_s_gonna_believe_that.mp3
+  "Who's gonna believe that?"
+  CHARACTER: 
+
+090_why_would_anybody_take_a_limo.mp3
+  "Why would anybody take a limo?"
+  CHARACTER: 
+
+091_wink.mp3
+  "Wink"
+  CHARACTER: 
+
+092_you_can_t_handle_your_booze.mp3
+  "You can't handle your booze"
+  CHARACTER: 
+
+093_you_don_t_work_and_you_re_lazy.mp3
+  "You don't work and you're lazy"
+  CHARACTER: 
+
+094_you_re_a_chicken.mp3
+  "You're a chicken"
+  CHARACTER: 
+
+095_caring_about_our_family.mp3
+  ""Caring" about our family"
+  CHARACTER: 
