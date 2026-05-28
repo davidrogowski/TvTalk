@@ -1,25 +1,25 @@
 001_a_finger_jockey_we_don_t_think_the_same_way_as_the_face_and.mp3
-  "A finger jockey We don't think the same way. as the face and body boys do We're a different breed So why male models."
+  "We're a different breed"
   CHARACTER: 
 
 002_and_i_felt_like_this_guy_s_really_hurting_me_and_it_hurt.mp3
-  "And I felt like This guy's really hurting me. and it hurt"
+  "This guy's really hurting me"
   CHARACTER: 
 
 003_and_most_important_of_all_models_don_t_think_for_themselves.mp3
-  "And most important of all models don't think for themselves. They do as they're told That is not true. Yes it is Derek Okay."
+  "Models don't think for themselves"
   CHARACTER: 
 
 004_and_now_that_you_re_retired_i_can_t_have_you.mp3
-  "And now that you're retired I can't have you."
+  "Now that you're retired"
   CHARACTER: 
 
 006_are_you_not_aware_that_i_get_farty_and_bloated_with_a_foamy.mp3
-  "Are you not aware that I get farty and bloated with a foamy latte. My mistake Jacobim."
+  "Farty and bloated with a latte"
   CHARACTER: 
 
 007_but_why_male_models_are_you_serious_i_just_l_just_told_you_t.mp3
-  "But why male models. Are you serious I just l just told you that a moment ago."
+  "But why male models?"
   CHARACTER: 
 
 008_cool_story_hansel_thanks_olaf.mp3
@@ -27,7 +27,7 @@
   CHARACTER: 
 
 009_damn_it_derek_i_m_a_coal_miner_not_a_professional_film_and_t.mp3
-  "Damn it Derek I'm a coal miner not a professional film and television actor."
+  "I'm a coal miner"
   CHARACTER: 
 
 010_deal_with_that.mp3
@@ -35,23 +35,23 @@
   CHARACTER: 
 
 012_derek_derek_are_you_worried_about_hansel_not_as_much_as_i_m.mp3
-  "Derek Derek Are you worried about Hansel. Not as much as I'm worried about Gretel."
+  "Worried about Gretel"
   CHARACTER: 
 
 013_did_you_ever_think_that_maybe_there_s_more_to_life_than_bein.mp3
-  "Did you ever think that maybe there's more to life. than being really really really ridiculously good looking"
+  "Really ridiculously good looking"
   CHARACTER: 
 
 014_do_as_you_ve_been_trained_to_do_and_kill_the_malaysian_prime.mp3
-  "Do as you've been trained to do and kill the Malaysian prime minister."
+  "Kill the Malaysian prime minister"
   CHARACTER: 
 
 016_done_it_done_it_in_a_while_yeah_okay_what_s_a_while_like_eig.mp3
-  "Done it Done it in a while yeah. Okay what's a while Like eight days."
+  "Like eight days"
   CHARACTER: 
 
 017_excuse_me_bro_you_re_excused_and_l_m_not_your_bro.mp3
-  "Excuse me bro You're excused. And l'm not your bro."
+  "I'm not your bro"
   CHARACTER: 
 
 018_for_serious.mp3
@@ -59,95 +59,95 @@
   CHARACTER: 
 
 019_god_god_what_the_shit_are_you_talking_about_it_s_me_maury.mp3
-  "God God. What the shit are you talking about It's me Maury."
+  "It's me, Maury"
   CHARACTER: 
 
 020_hansel_he_s_so_hot_right_now_hansel.mp3
-  "Hansel He's so hot right now Hansel."
+  "Hansel, so hot right now"
   CHARACTER: 
 
 021_he_can_take_a_crap_wrap_it_in_tin_foil_put_a_couple_of_fishh.mp3
-  "He can take a crap wrap it in tin foil put a couple of fishhooks on it and sell it to Queen Elizabeth as earrings"
+  "Sell it to Queen Elizabeth"
   CHARACTER: 
 
 022_he_s_almost_too_good_looking_hey_paco_that_would_be_my_main.mp3
-  "He's almost too good looking. Hey Paco. That would be my main deterrent in considering a relationship."
+  "Almost too good looking"
   CHARACTER: 
 
 023_hey_mugatu_screw_you_and_your_little_dog_too.mp3
-  "Hey Mugatu Screw you and your little dog too."
+  "Screw you and your little dog"
   CHARACTER: 
 
 025_hey_you_want_to_hear_some_great_news.mp3
-  "Hey you want to hear some great news."
+  "Want to hear great news?"
   CHARACTER: 
 
 026_how_can_we_be_expected_to_teach_children_to_learn_how_to_rea.mp3
-  "How can we be expected to teach children to learn how to read. if they can't even fit inside the building"
+  "If they can't fit in the building"
   CHARACTER: 
 
 027_i_feel_really_bad_that_good_looking_people_like_us_made_you.mp3
-  "I feel really bad that good looking people like us. made you throw up and feel bad about yourself"
+  "Good looking people like us"
   CHARACTER: 
 
 028_i_freakin_worship_you_man.mp3
-  "I freakin' worship you man."
+  "I freakin' worship you, man"
   CHARACTER: 
 
 031_i_just_thank_the_lord_she_didn_t_live_to_see_her_son_as_a_me.mp3
-  "I just thank the Lord she didn't live to see her son as a mermaid. Merman. Merman."
+  "Merman"
   CHARACTER: 
 
 033_i_suggest_you_and_your_kmart_jaclyn_smith_collection_outfit.mp3
-  "I suggest you and your Kmart Jaclyn Smith Collection outfit. stay the hell away from Derek Zoolander"
+  "Kmart Jaclyn Smith outfit"
   CHARACTER: 
 
 034_i_thought_someone_was_gonna_be_reading_our_eugoogoly.mp3
-  "I thought someone was gonna be reading our eugoogoly."
+  "Reading our eugoogoly"
   CHARACTER: 
 
 037_i_m_not_an_ambi_turner.mp3
-  "I'm not an ambi turner."
+  "I'm not an ambi-turner"
   CHARACTER: 
 
 039_i_m_so_tired_no_todd_not_now_it_s_maury_tell_me_something_go.mp3
-  "I'm so tired No Todd not now. It's Maury. Tell me something good."
+  "Tell me something good"
   CHARACTER: 
 
 041_if_nobody_has_any_objections_i_believe_i_might_be_of_service.mp3
-  "If nobody has any objections. I believe I might be of service."
+  "I might be of service"
   CHARACTER: 
 
 042_it_s_a_walk_off.mp3
-  "It's a walk off."
+  "It's a walk-off."
   CHARACTER: 
 
 043_it_s_that_damn_hansel_he_s_so_hot_right_now.mp3
-  "It's that damn Hansel. He's so hot right now."
+  "He's so hot right now"
   CHARACTER: 
 
 044_l_do_not_like_snoopy_reporter_with_lack_of_fashion_sense_not.mp3
-  "L do not like snoopy reporter with lack of fashion sense Not one little bit."
+  "Not one little bit"
   CHARACTER: 
 
 045_l_m_sorry_l_was_whack.mp3
-  "L'm sorry l was whack"
+  "I'm sorry, I was whack"
   CHARACTER: 
 
 047_like_a_caterpillar_becomes_a_butterfly_so_must_you_become_de.mp3
-  "Like a caterpillar becomes a butterfly so must you become Derelicte."
+  "Become Derelicte"
   CHARACTER: 
 
 048_look_i_gotta_go_pee_but_i_d_really_like_to_continue_talking.mp3
-  "Look I gotta go pee. but I'd really like to continue talking about this conversation when I come back"
+  "Continue this conversation"
   CHARACTER: 
 
 050_now_if_you_ll_excuse_me_i_ve_got_an_after_funeral_party_to_a.mp3
-  "Now if you'll excuse me I've got an after funeral party to attend."
+  "An after-funeral party"
   CHARACTER: 
 
 051_now_this_ll_be_a_straight_walk_off_old_school_rules_first_mo.mp3
-  "Now this'll be a straight walk off old school rules. First model walks second model duplicates. then elaborates Okay boys let's go to work."
+  "Old school walk-off rules"
   CHARACTER: 
 
 052_obey_my_dog.mp3
@@ -159,101 +159,101 @@
   CHARACTER: 
 
 054_oh_sure_i_ve_been_working_on_magnum_for_at_least_eight_or_ni.mp3
-  "Oh Sure I've been working on Magnum for at least eight or nine years."
+  "Working on Magnum for nine years"
   CHARACTER: 
 
 055_orange_mocha_frappuccino_orange_mocha_frappuccino.mp3
-  "Orange mocha frappuccino Orange mocha frappuccino."
+  "Orange mocha frappuccino"
   CHARACTER: 
 
 057_over_the_past_decade_male_modelling_has_had_a_shadow_cast_ov.mp3
-  "Over the past decade. male modelling has had a shadow cast over it by one man and five syllables Derek Zoolander."
+  "One man, five syllables"
   CHARACTER: 
 
 058_put_a_cork_in_it_zane.mp3
-  "Put a cork in it Zane."
+  "Put a cork in it, Zane"
   CHARACTER: 
 
 060_seriously_do_you_service_yourself_ten_times_a_day.mp3
-  "Seriously Do you service yourself ten times a day."
+  "Service yourself ten times a day?"
   CHARACTER: 
 
 061_so_i_became_what_bulimic_you_can_read_minds.mp3
-  "So I became. What. Bulimic. You can read minds."
+  "Bulimic? You can read minds"
   CHARACTER: 
 
 065_the_guy_had_to_miraculously_pull_his_underwear_out_of_his_bu.mp3
-  "The guy had to miraculously pull his underwear out of his butt. just to beat you"
+  "Pull his underwear out to win"
   CHARACTER: 
 
 067_they_re_break_dance_fighting.mp3
-  "They're break dance fighting."
+  "They're break dance fighting"
   CHARACTER: 
 
 068_they_re_in_the_computer.mp3
-  "They're in the computer."
+  "They're in the computer"
   CHARACTER: 
 
 072_tripping_on_acid_changed_our_whole_perspective_on_shit.mp3
-  "Tripping on acid changed our whole perspective on shit."
+  "Tripping on acid"
   CHARACTER: 
 
 073_wait_a_minute_i_might_just_have_an_idea_they_ll_be_looking_f.mp3
-  "Wait a minute. I might just have an idea. They'll be looking for us at Maury's right. But they won't be looking for. Not us."
+  "I might have an idea"
   CHARACTER: 
 
 074_well_i_guess_i_would_have_to_answer_your_question_with_anoth.mp3
-  "Well I guess I would have to answer your question with another question. How many abo digitals do you see modelling."
+  "Answer a question with a question"
   CHARACTER: 
 
 075_what_do_we_do_when_we_fall_off_the_horse_we_get_back_on_sorr.mp3
-  "What do we do when we fall off the horse. We get back on. Sorry Maury I'm not a gymnast."
+  "I'm not a gymnast"
   CHARACTER: 
 
 077_what_say_we_settle_this_on_the_runway_han_solo_stop_it_are_y.mp3
-  "What say we settle this on the runway. Han solo. Stop it. Are you challenging me to a walk off. Boo lander."
+  "Settle it on the runway"
   CHARACTER: 
 
 078_what_s_the_deal_yo_yo.mp3
-  "What's the deal yo yo."
+  "What's the deal, yo yo"
   CHARACTER: 
 
 079_whatever_dude_whatever_peace_god_bless.mp3
-  "Whatever dude Whatever Peace God bless."
+  "Whatever, peace, God bless"
   CHARACTER: 
 
 080_when_i_was_in_seventh_grade_i_was_the_fat_kid_in_my_class.mp3
-  "When I was in seventh grade I was the fat kid in my class."
+  "The fat kid in class"
   CHARACTER: 
 
 081_who_am_i.mp3
-  "Who am I."
+  "Who am I?"
   CHARACTER: 
 
 082_who_are_you_trying_to_get_crazy_with_ese_don_t_you_know_i_m.mp3
-  "Who are you trying to get crazy with ese. Don't you know I'm loco."
+  "Don't you know I'm loco"
   CHARACTER: 
 
 084_with_a_push_up_bra_you_could_have_a_nice_rack_of_lamb_going.mp3
-  "With a push up bra you could have a nice rack of lamb going on there."
+  "A nice rack of lamb"
   CHARACTER: 
 
 086_yo_taste_my_pain_bitch.mp3
-  "Yo taste my pain bitch."
+  "Taste my pain, bitch"
   CHARACTER: 
 
 087_you_freakin_idiot.mp3
-  "You freakin' idiot."
+  "You freakin' idiot"
   CHARACTER: 
 
 088_you_is_talkin_loco_and_i_like_it.mp3
-  "You is talkin' loco and I like it."
+  "Talkin' loco and I like it"
   CHARACTER: 
 
 089_you_think_you_re_too_cool_for_school_but_i_got_a_news_flash.mp3
-  "You think you're too cool for school. But I got a news flash for you Walter Cronkite. You aren't."
+  "Too cool for school"
   CHARACTER: 
 
 090_you_were_wrong_about_my_outfit_it_s_the_cheryl_ladd_collecti.mp3
-  "You were wrong about my outfit It's the Cheryl Ladd Collection and I got it at J C Penney. On sale."
+  "Cheryl Ladd from JC Penney"
   CHARACTER: 

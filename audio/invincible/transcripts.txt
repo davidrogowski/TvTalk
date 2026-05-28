@@ -1,163 +1,163 @@
 001_agree_to_my_demands_and_i_will_consider_not_destroying_half.mp3
-  "Agree to my demands. and I will consider not destroying half of the nation."
-  CHARACTER: 
+  "Agree to my demands"
+  CHARACTER:
 
 002_all_will_kneel_before_grom.mp3
   "All will kneel before Grom!"
-  CHARACTER: 
+  CHARACTER:
 
 003_amber_summer_plans_go.mp3
   "Amber, summer plans. Go."
-  CHARACTER: 
+  CHARACTER:
 
 004_and_i_ve_thought_about_you_every_day_since.mp3
-  "And I've thought about you every day since..."
-  CHARACTER: 
+  "Thought about you every day"
+  CHARACTER:
 
 007_and_this_guy_he_s_nothing.mp3
   "And this guy? He's nothing."
-  CHARACTER: 
+  CHARACTER:
 
 008_and_you_wouldn_t_accidentally_crush_me_or_something.mp3
-  "And you wouldn't accidentally crush me or something?"
-  CHARACTER: 
+  "Wouldn't accidentally crush me?"
+  CHARACTER:
 
 011_but_he_will_know_my_life_has_run_its_course.mp3
-  "But he will know. my life has run its course."
-  CHARACTER: 
+  "My life has run its course"
+  CHARACTER:
 
 012_but_if_he_lives_he_ll_go_searching_for_you_not_me.mp3
-  "But if he lives, he'll go searching for you, not me."
-  CHARACTER: 
+  "He'll come searching for you"
+  CHARACTER:
 
 013_but_now_everyone_he_knows_here_will_soon_be_dead.mp3
-  "But now. everyone he knows here will soon be dead."
-  CHARACTER: 
+  "Everyone he knows will be dead"
+  CHARACTER:
 
 014_but_there_is_something_else_i_must_ask_of_you.mp3
-  "But there is something else I must ask of you."
-  CHARACTER: 
+  "Something else I must ask"
+  CHARACTER:
 
 015_but_to_me_your_centuries_are_still_just_a_concept.mp3
-  "But to me, your centuries are still just a concept."
-  CHARACTER: 
+  "Your centuries are just a concept"
+  CHARACTER:
 
 016_can_t_believe_you_shot_me_in_the_fucking_head.mp3
-  "Can't believe you shot me in the fucking head!"
-  CHARACTER: 
+  "You shot me in the head"
+  CHARACTER:
 
 018_come_back_and_we_ll_talk_please.mp3
-  "Come back and we'll talk. Please?"
-  CHARACTER: 
+  "Come back and we'll talk"
+  CHARACTER:
 
 019_did_you_retrieve_the_null_energy.mp3
   "Did you retrieve the null energy?"
-  CHARACTER: 
+  CHARACTER:
 
 020_do_take_more_than_dirt_at_hurt_octoboss.mp3
-  "Do take more than dirt at hurt Octoboss."
-  CHARACTER: 
+  "Octoboss"
+  CHARACTER:
 
 021_don_t_do_this_come_on_come_on_don_t_do_this_to_me.mp3
-  "Don't do this. Come on, come on, don't do this to me."
-  CHARACTER: 
+  "Don't do this to me"
+  CHARACTER:
 
 022_everyone_please_rise.mp3
-  "Everyone, please rise."
-  CHARACTER: 
+  "Everyone, please rise"
+  CHARACTER:
 
 023_fuck_well_look_at_this_brave_little_soldier.mp3
-  "Fuck. Well, look at this brave little soldier."
-  CHARACTER: 
+  "Brave little soldier"
+  CHARACTER:
 
 024_generations_will_pass_before_he_s_even_an_adult.mp3
-  "Generations will pass before he's even an adult."
-  CHARACTER: 
+  "Generations before he's an adult"
+  CHARACTER:
 
 025_get_it_together_mark_get_it_together_get_in_there.mp3
-  "Get it together, Mark. Get it together. Get in there."
-  CHARACTER: 
+  "Get it together, Mark"
+  CHARACTER:
 
 026_huh_i_order_i_order_i_order_you_you_order_what.mp3
-  "Huh? I order... I order... I order you... You order what?"
-  CHARACTER: 
+  "You order what?"
+  CHARACTER:
 
 027_huh_now_while_he_s_distracted_this_floor_looks_clear_i_ll_go.mp3
-  "Huh? Now! While he's distracted! This floor looks clear. I'll go up, you go down."
-  CHARACTER: 
+  "While he's distracted"
+  CHARACTER:
 
 029_i_didn_t_know_they_had_burger_marts_here_you_called_me_dad.mp3
-  "I didn't know they had Burger Marts here. You called me Dad."
-  CHARACTER: 
+  "You called me Dad"
+  CHARACTER:
 
 030_i_don_t_know_i_don_t_feel_any_different.mp3
-  "I don't know. I don't feel any different."
-  CHARACTER: 
+  "I don't feel any different"
+  CHARACTER:
 
 031_i_have_no_intention_of_hurting_your_brother_or_your_mother.mp3
-  "I have no intention of hurting your brother. or your mother."
-  CHARACTER: 
+  "I won't hurt your family"
+  CHARACTER:
 
 032_i_see_life_now_on_a_longer_scale_than_most_thraxans.mp3
-  "I see life now on a longer scale than most Thraxans."
-  CHARACTER: 
+  "Life on a longer scale"
+  CHARACTER:
 
 033_i_thought_we_weren_t_keeping_secrets_from_each_other_anymore.mp3
-  "I thought we weren't keeping secrets from each other anymore."
-  CHARACTER: 
+  "No more secrets"
+  CHARACTER:
 
 034_i_was_but_a_hatchling_when_i_last_tasted_their_succulent_fle.mp3
-  "I was but a hatchling. when I last tasted their succulent flesh."
-  CHARACTER: 
+  "Tasted their succulent flesh"
+  CHARACTER:
 
 035_i_ll_be_gone_before_he_can_form_a_sentence.mp3
-  "I'll be gone before he can form a sentence."
-  CHARACTER: 
+  "Gone before he can speak"
+  CHARACTER:
 
 036_i_ll_get_you_a_ship_home_but_there_s_something_you_need_to_s.mp3
-  "I'll get you a ship home, but there's something you need to see first."
-  CHARACTER: 
+  "Something you need to see"
+  CHARACTER:
 
 037_i_m_at_the_community_center_mondays_tuesdays_and_thursdays.mp3
-  "I'm at the community center. Mondays, Tuesdays and Thursdays."
-  CHARACTER: 
+  "At the community center"
+  CHARACTER:
 
 038_i_m_not_sure_you_ll_ever_get_the_floors_clean_again.mp3
-  "I'm not sure you'll ever get the floors clean again."
-  CHARACTER: 
+  "Floors won't come clean"
+  CHARACTER:
 
 039_i_ve_got_you_we_re_gonna_be_fine_we_ll_get_out_of_this.mp3
-  "I've got you. We're gonna be fine. We'll get out of this."
-  CHARACTER: 
+  "We're gonna be fine"
+  CHARACTER:
 
 040_if_this_doesn_t_make_omni_man_have_a_bad_day_nothing_will.mp3
-  "If this doesn't make Omni Man have a bad day, nothing will."
-  CHARACTER: 
+  "Omni Man's bad day"
+  CHARACTER:
 
 041_it_s_graduating_high_school_not_losing_your_virginity.mp3
-  "It's graduating high school, not losing your virginity."
-  CHARACTER: 
+  "Graduating, not losing your virginity"
+  CHARACTER:
 
 042_kill_that_one_and_move_on_your_eye_is_as_replaceable_as_you.mp3
-  "Kill that one and move on! Your eye is as replaceable as you are. I am the original! Steve, look out!"
-  CHARACTER: 
+  "I am the original!"
+  CHARACTER:
 
 043_like_if_you_get_excited_i_ve_seen_what_you_can_do.mp3
-  "Like, if you get excited? I've seen what you can do."
-  CHARACTER: 
+  "I've seen what you can do"
+  CHARACTER:
 
 044_look_how_much_older_i_am_than_when_you_first_arrived.mp3
-  "Look how much older I am than when you first arrived."
-  CHARACTER: 
+  "Look how much older I am"
+  CHARACTER:
 
 046_mark_look_i_made_a_mistake.mp3
-  "Mark. Look... I made a mistake."
-  CHARACTER: 
+  "Mark, I made a mistake"
+  CHARACTER:
 
 047_maybe_we_ll_try_with_me_on_top_just_to_be_safe.mp3
-  "Maybe we'll try with me on top, just to be safe."
-  CHARACTER: 
+  "Me on top, to be safe"
+  CHARACTER:
 
 048_no_no_what_about_you.mp3
-  "No, no, what about you?"
-  CHARACTER: 
+  "No, what about you?"
+  CHARACTER:

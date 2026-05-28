@@ -412,15 +412,26 @@ def scrape_board(
     newly_downloaded: list[tuple[Path, bool]] = []
     downloaded = skipped_existing = skipped_length = 0
 
+    # Once a curated transcripts.txt exists, preserve_transcripts treats it as the
+    # authoritative set: include exactly the clips listed there (by filename), with
+    # their hand-edited text, and don't apply the length filter (the labels are
+    # intentionally short). On the very first scrape (no file yet) it behaves normally.
+    curate = preserve_transcripts and bool(existing_transcripts)
     for i, (mp3_url, transcript, from_legacy, cmin, cmax) in enumerate(clips, 1):
         # Filename is derived from the original API transcript so it stays stable
         # across re-runs even when preserve_transcripts swaps in hand-edited text.
         filename = safe_filename(transcript, mp3_url, i)
-        display_transcript = existing_transcripts.get(filename, transcript)
 
-        if not passes_length(display_transcript, cmin, cmax):
-            skipped_length += 1
-            continue
+        if curate:
+            if filename not in existing_transcripts:
+                skipped_length += 1
+                continue
+            display_transcript = existing_transcripts[filename]
+        else:
+            display_transcript = existing_transcripts.get(filename, transcript)
+            if not passes_length(display_transcript, cmin, cmax):
+                skipped_length += 1
+                continue
 
         dest = out_dir / filename
 

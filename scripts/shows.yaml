@@ -15,6 +15,8 @@ shows:
     name: "The Boys"
     board_url: "https://www.101soundboards.com/boards/1375005-the-boys-2019"
     status: pending
+    text_style: "title"
+    preserve_transcripts: true
     theme:
       primary: "#c41e3a"
       accent:  "#2c5fa8"
@@ -24,6 +26,8 @@ shows:
     name: "Invincible"
     board_url: "https://www.101soundboards.com/boards/1375641-invincible-2021"
     status: pending
+    text_style: "title"
+    preserve_transcripts: true
     theme:
       primary: "#ffd900"
       accent:  "#1e88e5"
@@ -34,6 +38,8 @@ shows:
     board_url: "https://www.101soundboards.com/boards/24176-walter-white-soundboard-breaking-bad"
     board_url_2: "https://www.101soundboards.com/boards/1393567-breaking-bad-2008"
     status: pending
+    text_style: "title"
+    preserve_transcripts: true
     theme:
       primary: "#f5c721"
       accent:  "#4a7a52"
@@ -53,6 +59,8 @@ shows:
     name: "That '70s Show"
     board_url: "https://www.101soundboards.com/boards/1396616-that-70s-show-1998"
     status: pending
+    text_style: "title"
+    preserve_transcripts: true
     case_style: "fix_all_caps"
     exclude_prefix: "CAPTIONING MADE POSSIBLE BY"
     theme:
@@ -64,6 +72,8 @@ shows:
     name: "Narcos"
     board_url: "https://www.101soundboards.com/boards/1390523-narcos-2015"
     status: pending
+    text_style: "title"
+    preserve_transcripts: true
     theme:
       primary: "#c9a86a"
       accent:  "#8c1c1c"
@@ -73,6 +83,8 @@ shows:
     name: "Succession"
     board_url: "https://www.101soundboards.com/boards/1387142-succession-2018"
     status: pending
+    text_style: "title"
+    preserve_transcripts: true
     exclude_prefix: "("
     theme:
       primary: "#c4a032"
@@ -84,6 +96,8 @@ shows:
     board_url: "https://www.101soundboards.com/boards/35300-peaky-blinders-soundboard"
     board_url_2: "https://www.101soundboards.com/boards/1389222-peaky-blinders-2013"
     status: pending
+    text_style: "title"
+    preserve_transcripts: true
     case_style: "fix_all_caps"
     exclude_prefix: "("
     theme:
@@ -105,6 +119,8 @@ shows:
     name: "Ozark"
     board_url: "https://www.101soundboards.com/boards/1393042-ozark-2017"
     status: pending
+    text_style: "title"
+    preserve_transcripts: true
     theme:
       primary: "#2a6878"
       accent:  "#8ec4cc"
@@ -175,6 +191,8 @@ shows:
     name: "Atlanta"
     board_url: "https://www.101soundboards.com/boards/1375380-atlanta-2016"
     status: pending
+    text_style: "title"
+    preserve_transcripts: true
     theme:
       primary: "#c2664f"
       accent:  "#3a8688"
@@ -214,6 +232,8 @@ shows:
     name: "Friends"
     board_url: "https://www.101soundboards.com/boards/24992-friends-tv-show-soundboard"
     status: pending
+    text_style: "title"
+    preserve_transcripts: true
     theme:
       primary: "#d14b4b"
       accent:  "#3f8ecc"
@@ -235,6 +255,8 @@ shows:
     board_url: "https://www.101soundboards.com/boards/40660-blue-mountain-state-soundboard"
     board_url_2: "https://www.101soundboards.com/boards/1394590-blue-mountain-state-2010"
     status: pending
+    text_style: "title"
+    preserve_transcripts: true
     dedup: true
     theme:
       primary: "#2f6fb0"
@@ -245,6 +267,8 @@ shows:
     name: "Nathan For You"
     board_url: "https://www.101soundboards.com/boards/84649-nathan-for-you-soundboard"
     status: pending
+    text_style: "title"
+    preserve_transcripts: true
     theme:
       primary: "#c2a35a"
       accent:  "#5f7e8f"
@@ -265,6 +289,8 @@ shows:
     name: "Step Brothers"
     board_url: "https://www.101soundboards.com/boards/24957-step-brothers-movie-soundboard"
     status: pending
+    text_style: "title"
+    preserve_transcripts: true
     type: movie
     theme:
       primary: "#2b5288"
@@ -366,6 +392,8 @@ shows:
     name: "Austin Powers: Goldmember"
     board_url: "https://www.101soundboards.com/boards/24798-austin-powers-in-goldmember-soundboard"
     status: pending
+    text_style: "title"
+    preserve_transcripts: true
     type: movie
     theme:
       primary: "#a83d9c"
@@ -411,6 +439,8 @@ shows:
     name: "Zoolander"
     board_url: "https://www.101soundboards.com/boards/1374577-zoolander-2001"
     status: pending
+    text_style: "title"
+    preserve_transcripts: true
     type: movie
     theme:
       primary: "#2f8fd0"
@@ -461,6 +491,8 @@ shows:
     name: "Entourage"
     board_url: "https://www.101soundboards.com/boards/1388507-entourage-2004"
     status: pending
+    text_style: "title"
+    preserve_transcripts: true
     min_length: 6             # omit captions of 5 words or fewer
     max_length: 9999          # keep the long ones
     theme:

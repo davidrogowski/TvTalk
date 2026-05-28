@@ -1,9 +1,9 @@
 006_cooking_kettle_one_it_s_the_fucking_catalina_wine_mixer_stop.mp3
-  "Cooking kettle one. It's the fucking Catalina wine mixer. Stop fucking Catalina wine mixer."
+  "Catalina wine mixer"
   CHARACTER: 
 
 007_dad_is_fat_is_so_bad_there_s_blood_everywhere_why_did_why_di.mp3
-  "Dad is fat is so bad there's blood everywhere. Why did why did you guys do that is so bad?"
+  "Blood everywhere"
   CHARACTER: 
 
 012_eat_shit_derek.mp3
@@ -11,43 +11,43 @@
   CHARACTER: 
 
 013_feel_feel_like_a_lightning_bolt_hit_the_tip_of_my_penis_yeah.mp3
-  "Feel, feel like a lightning bolt. Hit the tip of my penis, yeah, yeah."
+  "Lightning bolt to the penis"
   CHARACTER: 
 
 014_fuck_you_dale.mp3
-  "Fuck you Dale"
+  "Fuck you, Dale"
   CHARACTER: 
 
 016_guys_guys_guys_we_can_t_have_no_penis_kind_of_dreams_you_guy.mp3
-  "Guys guys guys we can't have no penis kind of dreams you guys having."
+  "No penis dreams"
   CHARACTER: 
 
 017_ha_ha_ha_that_s_so_funny_last_time_i_heard_that_i_laughed_so.mp3
-  "Ha ha ha that's so funny. Last time I heard that I laughed so hard I fell off my dinosaur's."
+  "Fell off my dinosaur"
   CHARACTER: 
 
 018_hey_derek_sprechen_ze_dick.mp3
-  "Hey Derek Sprechen ZE Dick."
+  "Sprechen ze Dick"
   CHARACTER: 
 
 019_hey_derek_you_know_it_s_always_good_for_shoulder_pain_if_you.mp3
-  "Hey Derek, you know it's always good for shoulder pain if you lick my butt hole map."
+  "Lick my butt hole"
   CHARACTER: 
 
 021_hey_tiffany_might_know_what_i_got_a_crush_soul_you_mentioned.mp3
-  "Hey Tiffany might know what I got a crush soul. You mentioned that earlier."
+  "I got a crush"
   CHARACTER: 
 
 022_hey_i_m_brent_no_most_common_dragons_you_have_to_call_me_nig.mp3
-  "Hey, I'm Brent. No most common Dragons. You have to call me Nighthawk."
+  "Call me Nighthawk"
   CHARACTER: 
 
 025_hi_my_name_is_jim_wanna_suck_my_dick_for_money_so_it_s_just.mp3
-  "Hi, my name is Jim. Wanna suck my Dick for money so it's just me."
+  "Suck my Dick for money"
   CHARACTER: 
 
 026_hold_on_we_re_not_going_on_the_boat_derek_selling_the_house.mp3
-  "Hold on, we're not going on the boat, Derek selling the house. We have to go to therapy. What the fuck happened, hey?"
+  "We have to go to therapy"
   CHARACTER: 
 
 027_holy_santa_claus_shit.mp3
@@ -55,43 +55,43 @@
   CHARACTER: 
 
 028_horn_like_it_drops_out_myself_that_s_a_guys_like_you_gave_yo.mp3
-  "Horn, like it, drops out myself. That's a guys like you gave you fucker."
+  "You fucker"
   CHARACTER: 
 
 031_i_couldn_t_eat_another_bite_of_turkey_without_thinking_of_yo.mp3
-  "I couldn't eat another bite of Turkey without thinking of you inside of me. Come on, let's try something illegal."
+  "Let's try something illegal"
   CHARACTER: 
 
 032_i_didn_t_want_salmon_i_said_four_times.mp3
-  "I didn't want Salmon I said four times."
+  "I didn't want salmon"
   CHARACTER: 
 
 034_i_know_said_there_s_a_long_gap_in_your_job_history_and_it_sa.mp3
-  "I know said there's a long gap in your job history and it said wait two years you went Kerouac on everyone's eyes."
+  "Gap in your job history"
   CHARACTER: 
 
 039_it_s_just_like_cold_case_files_this_is_like_ok_smiles_mr_cyc.mp3
-  "It's just like cold case files. This is like OK smiles Mr. Cycle game files. People die everyday. Proper burial, unmarked grave."
+  "Cold case files"
   CHARACTER: 
 
 043_look_i_didn_t_touch_a_drum_set_ok_i_witnessed_with_my_eyes_y.mp3
-  "Look, I didn't touch a drum set. OK, I witnessed with my eyes your testicles touching my drum set alright that's it that's it."
+  "Touched my drum set"
   CHARACTER: 
 
 044_mass_no_it_s_ok_that_mines_not_movie_quality.mp3
-  "Mass no, it's OK that mines not movie quality."
+  "Not movie quality"
   CHARACTER: 
 
 045_mr_hub_mr_gina_is_ready_for_your_interview_actually_will_be.mp3
-  "Mr Hub Mr. Gina is ready for your interview, actually will be interviewing as a team. We're here to fuck shit up."
+  "Here to fuck shit up"
   CHARACTER: 
 
 047_now_let_s_move_on_to_other_business.mp3
-  "Now let's move on to other business."
+  "On to other business"
   CHARACTER: 
 
 048_ok_here_s_the_shot_out_of_a_cannon_oprah_barbara_walters_you.mp3
-  "OK, here's the shot out of a cannon. Oprah Barbara Walters, your wife, you gotta fuck one. Marry one Kill 1 go."
+  "Fuck, marry, kill"
   CHARACTER: 
 
 051_pirate_hats.mp3
@@ -107,15 +107,15 @@
   CHARACTER: 
 
 058_so_you_re_a_bear_sing_yourself_you_geriatric_fuck.mp3
-  "So you're a bear. Sing yourself you geriatric fuck."
+  "Sing, you geriatric fuck"
   CHARACTER: 
 
 059_sticks_and_stones_may_break_my_bones_but_i_m_gonna_kick_you.mp3
-  "Sticks and stones may break my bones, but I'm gonna kick you repeatedly in the falls Gardocki."
+  "Kick you repeatedly, Gardocki"
   CHARACTER: 
 
 061_still_what_have_you_been_working_on_recently_well_i_manage_a.mp3
-  "Still, what have you been working on recently? Well, I manage a baseball team Little League Fantasy league."
+  "I manage a baseball team"
   CHARACTER: 
 
 062_sure.mp3
@@ -123,19 +123,19 @@
   CHARACTER: 
 
 063_this_house_is_a_fucking_prison_on_planet_bullshit_in_the_gal.mp3
-  "This house is a fucking prison on planet bullshit in the Galaxy of this sucks camel Dicks."
+  "Prison on planet bullshit"
   CHARACTER: 
 
 065_this_isn_t_me_i_m_fucking_miserable_i_had_to_get_up_at_10_00.mp3
-  "This isn't me. I'm fucking miserable. I had to get up at 10:00 o'clock this morning."
+  "Up at 10 o'clock, miserable"
   CHARACTER: 
 
 066_those_are_my_two_bugaboos.mp3
-  "Those are my two bugaboos."
+  "My two bugaboos"
   CHARACTER: 
 
 068_we_should_do_this_again_it_was_very_constructive.mp3
-  "We should do this again. It was very constructive."
+  "Very constructive"
   CHARACTER: 
 
 069_we_re_here_to_fuck_shit_up.mp3
@@ -143,25 +143,25 @@
   CHARACTER: 
 
 070_we_re_not_like_you_were_grownups_motherfucker.mp3
-  "We're not like you were grownups, motherfucker."
+  "We're grownups, motherfucker"
   CHARACTER: 
 
 073_what_the_fuck_happened_hey.mp3
-  "What the fuck happened, hey?"
+  "What the fuck happened?"
   CHARACTER: 
 
 074_what_was_he_doing_here_we_re_putting_the_house_on_the_market.mp3
-  "What was he doing here? We're putting the house on the market where we moving. Is the house haunted?"
+  "Is the house haunted?"
   CHARACTER: 
 
 080_you_both_know_this_is_completely_fucked_up_right_yeah_of_cou.mp3
-  "You both know this is completely fucked up right? Yeah of course. But Brandon sure can wear the shit out of that pirate hat."
+  "Wear that pirate hat"
   CHARACTER: 
 
 082_you_keep_your_liver_spotted_hands_off_my_beautiful_mother_sh.mp3
-  "You keep your liver spotted hands off my beautiful mother she's a St."
+  "Hands off my mother"
   CHARACTER: 
 
 083_you_know_what_i_got_for_christmas_across_seoul.mp3
-  "You know what I got for Christmas across Seoul?"
+  "What I got for Christmas"
   CHARACTER: 

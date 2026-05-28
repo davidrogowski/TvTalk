@@ -6,252 +6,252 @@ const quotes = [
     "audioUrl": "audio/that-70s-show/001_a_dumbass_boss.mp3"
   },
   {
-    "text": "And a promise ring is not only a gift from the heart. but it also means more sex and less mouthing off",
+    "text": "Promise ring means more sex",
     "character": "",
     "audioUrl": "audio/that-70s-show/004_and_a_promise_ring_is_not_only_a_gift_from_the_heart_but_it.mp3"
   },
   {
-    "text": "And she was drunk in the middle of the afternoon. It was like It was like Sue Ellen on Dallas.",
+    "text": "Like Sue Ellen on Dallas",
     "character": "",
     "audioUrl": "audio/that-70s-show/005_and_she_was_drunk_in_the_middle_of_the_afternoon_it_was_like.mp3"
   },
   {
-    "text": "Are going to the playboy club at lake geneva this weekend. Do you guys want souvenirs. Ooh ashtrays. A woman.",
+    "text": "Playboy club, Lake Geneva",
     "character": "",
     "audioUrl": "audio/that-70s-show/006_are_going_to_the_playboy_club_at_lake_geneva_this_weekend_do.mp3"
   },
   {
-    "text": "Damn. Oh kelso misses another one. I believe that's h o r. Ah you are a whore.",
+    "text": "You are a whore",
     "character": "",
     "audioUrl": "audio/that-70s-show/007_damn_oh_kelso_misses_another_one_i_believe_that_s_h_o_r_ah_y.mp3"
   },
   {
-    "text": "Guess who made out with pam macy behind the gym. Everyone.",
+    "text": "Made out with Pam Macy",
     "character": "",
     "audioUrl": "audio/that-70s-show/015_guess_who_made_out_with_pam_macy_behind_the_gym_everyone.mp3"
   },
   {
-    "text": "Hello house of chicken. How big are your wings. Breasts. Oh. How big are your breasts. This is fez who is this.",
+    "text": "How big are your breasts?",
     "character": "",
     "audioUrl": "audio/that-70s-show/016_hello_house_of_chicken_how_big_are_your_wings_breasts_oh_how.mp3"
   },
   {
-    "text": "Hey forman man this thing better be good. If I don't see some space jugs. I'm gonna be super pissed.",
+    "text": "I better see space jugs",
     "character": "",
     "audioUrl": "audio/that-70s-show/017_hey_forman_man_this_thing_better_be_good_if_i_don_t_see_some.mp3"
   },
   {
-    "text": "Hey L'Eggo my foot in your ass.",
+    "text": "L'Eggo my foot in your ass",
     "character": "",
     "audioUrl": "audio/that-70s-show/020_hey_l_eggo_my_foot_in_your_ass.mp3"
   },
   {
-    "text": "His head looks like a poodle's ass.",
+    "text": "Head like a poodle's ass",
     "character": "",
     "audioUrl": "audio/that-70s-show/021_his_head_looks_like_a_poodle_s_ass.mp3"
   },
   {
-    "text": "Horror movies turn on chicks faster than porno. Really faster than that. Yeah if only somebody would make a porno horror movie.",
+    "text": "A porno horror movie",
     "character": "",
     "audioUrl": "audio/that-70s-show/022_horror_movies_turn_on_chicks_faster_than_porno_really_faster.mp3"
   },
   {
-    "text": "I am so excited about star whores. Fezzie man it's star wars. Screw that.",
+    "text": "Star Whores",
     "character": "",
     "audioUrl": "audio/that-70s-show/023_i_am_so_excited_about_star_whores_fezzie_man_it_s_star_wars.mp3"
   },
   {
-    "text": "I don't know what's going on but that is the luckiest pizza boy ever.",
+    "text": "Luckiest pizza boy ever",
     "character": "",
     "audioUrl": "audio/that-70s-show/025_i_don_t_know_what_s_going_on_but_that_is_the_luckiest_pizza.mp3"
   },
   {
-    "text": "I was that close to a japanese machine. It was shooting at me.",
+    "text": "Japanese machine shooting at me",
     "character": "",
     "audioUrl": "audio/that-70s-show/028_i_was_that_close_to_a_japanese_machine_it_was_shooting_at_me.mp3"
   },
   {
-    "text": "I'm not a conspiracy nut okay. My history shop and gym teachers. secretly started that rumor to discredit me",
+    "text": "I'm not a conspiracy nut",
     "character": "",
     "audioUrl": "audio/that-70s-show/029_i_m_not_a_conspiracy_nut_okay_my_history_shop_and_gym_teache.mp3"
   },
   {
-    "text": "I've been working since I was 16. I fought in 2 wars. Hell I killed people. I'm not saying that I didn't enjoy it.",
+    "text": "I fought in 2 wars",
     "character": "",
     "audioUrl": "audio/that-70s-show/031_i_ve_been_working_since_i_was_16_i_fought_in_2_wars_hell_i_k.mp3"
   },
   {
-    "text": "If you ask me man UNICEF's a scam. If we ask you everything's a scam. Everything is a scam Oh lighten up.",
+    "text": "UNICEF's a scam",
     "character": "",
     "audioUrl": "audio/that-70s-show/032_if_you_ask_me_man_unicef_s_a_scam_if_we_ask_you_everything_s.mp3"
   },
   {
-    "text": "Is that kid from uh not america down here.",
+    "text": "That kid from not-America",
     "character": "",
     "audioUrl": "audio/that-70s-show/033_is_that_kid_from_uh_not_america_down_here.mp3"
   },
   {
-    "text": "Kitty why is it we always do what you wanna do and never do what I wanna do. It's in the Bible Laughs.",
+    "text": "It's in the Bible",
     "character": "",
     "audioUrl": "audio/that-70s-show/035_kitty_why_is_it_we_always_do_what_you_wanna_do_and_never_do.mp3"
   },
   {
-    "text": "Look at this Heart shaped sandwiches Donna's giving me sexy naps. As God is my witness I will never go hungry or horny again.",
+    "text": "Never hungry or horny again",
     "character": "",
     "audioUrl": "audio/that-70s-show/036_look_at_this_heart_shaped_sandwiches_donna_s_giving_me_sexy.mp3"
   },
   {
-    "text": "Looks like Shelly has a thing for Forman. Yes and Forman has a thing for Shelly. And it's in his pants.",
+    "text": "It's in his pants",
     "character": "",
     "audioUrl": "audio/that-70s-show/037_looks_like_shelly_has_a_thing_for_forman_yes_and_forman_has.mp3"
   },
   {
-    "text": "Mmm. Menthol. Eric, quit it. Yeah, okay. Let's go, forman.",
+    "text": "Mmm, menthol",
     "character": "",
     "audioUrl": "audio/that-70s-show/038_mmm_menthol_eric_quit_it_yeah_okay_let_s_go_forman.mp3"
   },
   {
-    "text": "My heart aches with pain. When I see you I vomit. Die away from me.",
+    "text": "When I see you, I vomit",
     "character": "",
     "audioUrl": "audio/that-70s-show/039_my_heart_aches_with_pain_when_i_see_you_i_vomit_die_away_fro.mp3"
   },
   {
-    "text": "Not to worry Kelso The Puberty Bunny will visit you soon.",
+    "text": "The Puberty Bunny",
     "character": "",
     "audioUrl": "audio/that-70s-show/040_not_to_worry_kelso_the_puberty_bunny_will_visit_you_soon.mp3"
   },
   {
-    "text": "Now I am off to spend the rest of my American money on candy and porno. But Fez I said candy and porno.",
+    "text": "Candy and porno",
     "character": "",
     "audioUrl": "audio/that-70s-show/041_now_i_am_off_to_spend_the_rest_of_my_american_money_on_candy.mp3"
   },
   {
-    "text": "Now stop it Help me with this crossword puzzle. I need a four letter word. for disappointment Eric. Gasps It fits.",
+    "text": "Four letter word for disappointment",
     "character": "",
     "audioUrl": "audio/that-70s-show/043_now_stop_it_help_me_with_this_crossword_puzzle_i_need_a_four.mp3"
   },
   {
-    "text": "Now stop it Help me with this crossword puzzle. I need a four letter word. for disappointment Eric. Gasps It fits.",
+    "text": "Disappointment — it fits",
     "character": "",
     "audioUrl": "audio/that-70s-show/044_now_stop_it_help_me_with_this_crossword_puzzle_i_need_a_four.mp3"
   },
   {
-    "text": "Oh hey we could take Fez to Chicago and peddle his ass for beer. I'm game.",
+    "text": "Peddle Fez's ass for beer",
     "character": "",
     "audioUrl": "audio/that-70s-show/046_oh_hey_we_could_take_fez_to_chicago_and_peddle_his_ass_for_b.mp3"
   },
   {
-    "text": "Oh that's a burn about a burn That's a second degree burn.",
+    "text": "A second degree burn",
     "character": "",
     "audioUrl": "audio/that-70s-show/048_oh_that_s_a_burn_about_a_burn_that_s_a_second_degree_burn.mp3"
   },
   {
-    "text": "Oh yeah Government pawns and missing limbs. That's amore.",
+    "text": "That's amore",
     "character": "",
     "audioUrl": "audio/that-70s-show/049_oh_yeah_government_pawns_and_missing_limbs_that_s_amore.mp3"
   },
   {
-    "text": "Ok. Here we go. Right hand, blue.",
+    "text": "Right hand, blue",
     "character": "",
     "audioUrl": "audio/that-70s-show/050_ok_here_we_go_right_hand_blue.mp3"
   },
   {
-    "text": "Plus you know I could get a date. I've got numbers buddy. Sure you do honey You're number one with me.",
+    "text": "Number one with me",
     "character": "",
     "audioUrl": "audio/that-70s-show/052_plus_you_know_i_could_get_a_date_i_ve_got_numbers_buddy_sure.mp3"
   },
   {
-    "text": "Poor forman huh working for red like that. I wouldn't wish that on my enemies. I would. Those suckers must pay.",
+    "text": "Those suckers must pay",
     "character": "",
     "audioUrl": "audio/that-70s-show/053_poor_forman_huh_working_for_red_like_that_i_wouldn_t_wish_th.mp3"
   },
   {
-    "text": "Red's mother is coming. What's that pet name she has for you. Whore.",
+    "text": "What's your pet name? Whore",
     "character": "",
     "audioUrl": "audio/that-70s-show/054_red_s_mother_is_coming_what_s_that_pet_name_she_has_for_you.mp3"
   },
   {
-    "text": "Responsible people don't go around getting. Their nipples twisted. See when you say it though. It just sounds weird.",
+    "text": "Nipples twisted",
     "character": "",
     "audioUrl": "audio/that-70s-show/055_responsible_people_don_t_go_around_getting_their_nipples_twi.mp3"
   },
   {
-    "text": "Stop being such a little girl and do something bad for once.",
+    "text": "Do something bad for once",
     "character": "",
     "audioUrl": "audio/that-70s-show/059_stop_being_such_a_little_girl_and_do_something_bad_for_once.mp3"
   },
   {
-    "text": "This is going to be expensive isn't it Maybe. Don't you like anything cheap. I like you.",
+    "text": "Don't you like anything cheap?",
     "character": "",
     "audioUrl": "audio/that-70s-show/061_this_is_going_to_be_expensive_isn_t_it_maybe_don_t_you_like.mp3"
   },
   {
-    "text": "Uh, really, you should come. No. You go. Have fun. Are you sure? Sure. It's no big deal. Okay, cool.",
+    "text": "You go, have fun",
     "character": "",
     "audioUrl": "audio/that-70s-show/062_uh_really_you_should_come_no_you_go_have_fun_are_you_sure_su.mp3"
   },
   {
-    "text": "Well I'd like to help but not as much as I'd like not to.",
+    "text": "I'd like not to help",
     "character": "",
     "audioUrl": "audio/that-70s-show/064_well_i_d_like_to_help_but_not_as_much_as_i_d_like_not_to.mp3"
   },
   {
-    "text": "Well there's no way it's better than. The planet of the apes. I mean those apes were really good actors.",
+    "text": "Better than Planet of the Apes",
     "character": "",
     "audioUrl": "audio/that-70s-show/065_well_there_s_no_way_it_s_better_than_the_planet_of_the_apes.mp3"
   },
   {
-    "text": "Wow Laughs Time really flies when you're. Drunk Y Well. I was gonna say havin' fun but Laughs same thing.",
+    "text": "Time flies when you're drunk",
     "character": "",
     "audioUrl": "audio/that-70s-show/066_wow_laughs_time_really_flies_when_you_re_drunk_y_well_i_was.mp3"
   },
   {
-    "text": "Yeah I'm trying to read Red's lips but I can't make it out. He keeps calling me a stupid duck.",
+    "text": "He keeps calling me a duck",
     "character": "",
     "audioUrl": "audio/that-70s-show/068_yeah_i_m_trying_to_read_red_s_lips_but_i_can_t_make_it_out_h.mp3"
   },
   {
-    "text": "You know Eric hickeys lead to dirty things. For God's sakes don't let Donna suck your neck.",
+    "text": "Don't let Donna suck your neck",
     "character": "",
     "audioUrl": "audio/that-70s-show/073_you_know_eric_hickeys_lead_to_dirty_things_for_god_s_sakes_d.mp3"
   },
   {
-    "text": "You know what All this talk about having fun makes me want to have fun. Hey let's throw stuff at other stuff.",
+    "text": "Throw stuff at other stuff",
     "character": "",
     "audioUrl": "audio/that-70s-show/075_you_know_what_all_this_talk_about_having_fun_makes_me_want_t.mp3"
   },
   {
-    "text": "You look familiar Do I know you. I should hope so Dad.",
+    "text": "I should hope so, Dad",
     "character": "",
     "audioUrl": "audio/that-70s-show/077_you_look_familiar_do_i_know_you_i_should_hope_so_dad.mp3"
   },
   {
-    "text": "You're right jackie. The fonz could beat up bruce lee.",
+    "text": "The Fonz could beat Bruce Lee",
     "character": "",
     "audioUrl": "audio/that-70s-show/079_you_re_right_jackie_the_fonz_could_beat_up_bruce_lee.mp3"
   },
   {
-    "text": "[engine roaring] [tires squealing] captioning made possible by carsey werner productions and fox broadcasting company.",
+    "text": "Engine roaring",
     "character": "",
     "audioUrl": "audio/that-70s-show/080_engine_roaring_tires_squealing_captioning_made_possible_by.mp3"
   },
   {
-    "text": "[laser weapons firing]",
+    "text": "Laser weapons firing",
     "character": "",
     "audioUrl": "audio/that-70s-show/081_laser_weapons_firing.mp3"
   },
   {
-    "text": "[music] so, um, laurie's almost all packed. I can't believe my little girl is movin' out. Which reminds me... When are you leaving?",
+    "text": "When are you leaving?",
     "character": "",
     "audioUrl": "audio/that-70s-show/082_music_so_um_laurie_s_almost_all_packed_i_can_t_believe_my_l.mp3"
   },
   {
-    "text": "[passionate breathing] (kitty) oh, red! (red) oh, kitty!",
+    "text": "Oh Red, oh Kitty",
     "character": "",
     "audioUrl": "audio/that-70s-show/083_passionate_breathing_kitty_oh_red_red_oh_kitty.mp3"
   },
   {
-    "text": "♪ who's the birthday boy? ♪",
+    "text": "Who's the birthday boy?",
     "character": "",
     "audioUrl": "audio/that-70s-show/085_who_s_the_birthday_boy.mp3"
   }

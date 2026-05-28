@@ -7,11 +7,11 @@
   CHARACTER: 
 
 003_and_all_you_ve_got_to_do_is_let_him_go.mp3
-  "And all you've got to do is let him go."
+  "All you do is let him go"
   CHARACTER: 
 
 004_and_i_used_to_go_in_there_a_lot_because_it_was_close_enough.mp3
-  "And I used to go in there a lot because it was close enough to the lab where I could ride my bicycle."
+  "Close enough to ride my bike"
   CHARACTER: 
 
 005_and_you_are.mp3
@@ -27,7 +27,7 @@
   CHARACTER: 
 
 008_do_you_think_he_is_capable_of_listening_to_reason.mp3
-  "Do you think he is capable of listening to reason?"
+  "Capable of listening to reason?"
   CHARACTER: 
 
 009_does_it_look_like_i_m_doing.mp3
@@ -35,7 +35,7 @@
   CHARACTER: 
 
 010_doesn_t_matter_it_doesn_t_concern_you.mp3
-  "Doesn't matter, it doesn't concern you."
+  "Doesn't concern you"
   CHARACTER: 
 
 011_don_t_bullshit_a_bullshitter.mp3
@@ -43,15 +43,15 @@
   CHARACTER: 
 
 012_don_t_you_dare_put_that_on_me.mp3
-  "Don't you dare put that on me?"
+  "Don't you dare put that on me"
   CHARACTER: 
 
 013_emilio_is_going_to_prison.mp3
-  "Emilio is going to prison."
+  "Emilio is going to prison"
   CHARACTER: 
 
 014_everything_is_going_to_be_fine_but_we_need_to_leave_right_no.mp3
-  "Everything is going to be fine, but we need to leave right now. Alright, can we do that?"
+  "We need to leave right now"
   CHARACTER: 
 
 015_feel_very_foolish.mp3
@@ -59,11 +59,11 @@
   CHARACTER: 
 
 016_from_what_i_can_tell_you_are_just_a_drug_addict.mp3
-  "From what I can tell, you are just a drug addict."
+  "You're just a drug addict"
   CHARACTER: 
 
 017_fuck_you_and_your_eyebrows.mp3
-  "Fuck you and your eyebrows."
+  "Fuck you and your eyebrows"
   CHARACTER: 
 
 018_fuck_you.mp3
@@ -75,15 +75,15 @@
   CHARACTER: 
 
 020_he_s_got_a_bug_up_his_butt.mp3
-  "He's got a bug up his butt."
+  "He's got a bug up his butt"
   CHARACTER: 
 
 021_hiding_money_it_s_buried_down_here.mp3
-  "Hiding money it's buried down here."
+  "Money's buried down here"
   CHARACTER: 
 
 022_honestly_i_never_expected_you_to_amount_to_much.mp3
-  "Honestly, I never expected you to amount to much."
+  "Never expected you to amount to much"
   CHARACTER: 
 
 023_how_do_you_know_my_name.mp3
@@ -99,15 +99,15 @@
   CHARACTER: 
 
 026_i_feel_like_you_re_upset_with_me_because_you_think_that_i_m.mp3
-  "I feel like you're upset with me because you think that I'm up to something."
+  "You think I'm up to something"
   CHARACTER: 
 
 027_i_need_you_to_go_into_your_bedroom_right_now_and_grab_anythi.mp3
-  "I need you to go into your bedroom right now and grab anything that's important you understand. Go now both of you go."
+  "Grab anything important, go now"
   CHARACTER: 
 
 028_i_saw_your_setup_is_ridiculous_you_and_i_will_not_make_garba.mp3
-  "I saw your setup is ridiculous. You and I will not make garbage."
+  "We will not make garbage"
   CHARACTER: 
 
 029_i_tried_to_save_it.mp3
@@ -115,19 +115,19 @@
   CHARACTER: 
 
 030_i_warned_you_for_a_solid_year_you_cross_me_there_will_be_con.mp3
-  "I warned you for a solid year. You cross me. There will be consequences. What part of that didn't you understand?"
+  "There will be consequences"
   CHARACTER: 
 
 031_i_was_told_that_the_man_i_would_be_meeting_with_his_very_car.mp3
-  "I was told that the man I would be meeting with his very careful cautious man. I believe we're alike in that way. If you are who I think you are, you should give me another chance."
+  "Give me another chance"
   CHARACTER: 
 
 032_i_would_like_to_know_why_you_wouldn_t_meet_with_me_yesterday.mp3
-  "I would like to know why you wouldn't meet with me yesterday."
+  "Why wouldn't you meet me?"
   CHARACTER: 
 
 033_i_ve_still_got_things_left_to_do.mp3
-  "I've still got things left to do."
+  "I've still got things to do"
   CHARACTER: 
 
 034_it_s_bad.mp3
@@ -151,31 +151,31 @@
   CHARACTER: 
 
 039_keep_your_damn_mouth_shut.mp3
-  "Keep your damn mouth shut."
+  "Keep your damn mouth shut"
   CHARACTER: 
 
 040_left_hand_and_your_right_hand_are_mirror_images_of_one_anoth.mp3
-  "Left hand and your right hand are mirror images of one another, right? Identical and yet opposite. Well, so two organic compounds can exist as mere image forms of one another, all the way down at t..."
+  "Mirror images of one another"
   CHARACTER: 
 
 041_let_me_know_when_you_re_ready_and_i_ll_i_ll_give_you_a_holle.mp3
-  "Let me know when you're ready and I'll I'll give you a holler."
+  "I'll give you a holler"
   CHARACTER: 
 
 042_lingering_on_things_doesn_t_help_believe_me_just_try_and_foc.mp3
-  "Lingering on things doesn't help. Believe me, just try and focus on getting better, OK?"
+  "Focus on getting better"
   CHARACTER: 
 
 043_listen_i_am_having_breakfast_with_my_family_right_now_and_i.mp3
-  "Listen, I am having breakfast with my family right now and I really don't appreciate these sales calls."
+  "I don't appreciate these sales calls"
   CHARACTER: 
 
 044_listen_that_is_just_not_going_to_work_for_me_i_m_not_interes.mp3
-  "Listen, that is just not going to work for me. I'm not interested in that at all."
+  "That's not going to work for me"
   CHARACTER: 
 
 045_look_at_the_bottom_for_a_triangle.mp3
-  "Look at the bottom for a triangle."
+  "Look at the bottom for a triangle"
   CHARACTER: 
 
 046_no_no_no.mp3
@@ -195,7 +195,7 @@
   CHARACTER: 
 
 050_not_a_conversation_i_m_even_remotely_ready_to_have.mp3
-  "Not a conversation. I'm even remotely ready to have."
+  "Not a conversation I'm ready for"
   CHARACTER: 
 
 051_not_anymore.mp3
@@ -203,7 +203,7 @@
   CHARACTER: 
 
 052_now_even_the_small_busted_girls_have_cleavage.mp3
-  "Now, even the small busted girls have cleavage."
+  "Now even small busted girls have cleavage"
   CHARACTER: 
 
 053_of_course_i_am.mp3
@@ -211,15 +211,15 @@
   CHARACTER: 
 
 054_oh_no_well_what_you_have_to_stop_you_have_to_stop_this_it_s.mp3
-  "Oh no. Well what you have to stop you have to stop this, it's immoral. It's illegal. Someone might get hurt. You're always whining and complaining about how I make my money just dragging me down wh..."
+  "It's immoral, it's illegal"
   CHARACTER: 
 
 055_ok_can_you_at_least_tell_me_why.mp3
-  "OK, can you at least tell me why?"
+  "Can you tell me why?"
   CHARACTER: 
 
 056_please_just_work_with_me_here_and_i_promise_i_will_explain_e.mp3
-  "Please just work with me here and I promise I will explain everything later."
+  "I'll explain everything later"
   CHARACTER: 
 
 057_please.mp3
@@ -227,11 +227,11 @@
   CHARACTER: 
 
 058_put_the_knife_down_please.mp3
-  "Put the knife down, please."
+  "Put the knife down, please"
   CHARACTER: 
 
 059_put_your_arms_around_me_jenna_stand_up_we_re_going_to_look_a.mp3
-  "Put your arms around me, Jenna stand up. We're going to look at it, yeah, OK? We're going to take you someplace nice and safe that's it, that's it let's go come on, here we go."
+  "Somewhere nice and safe"
   CHARACTER: 
 
 060_say_my_name.mp3
@@ -243,11 +243,11 @@
   CHARACTER: 
 
 062_so_i_suggest_let_you_go_then_just_unlock_you_and_audios.mp3
-  "So I suggest let you go, then just unlock you and audios."
+  "Unlock you and adios"
   CHARACTER: 
 
 063_sorry_i_ll_do_it_tomorrow_i_promise.mp3
-  "Sorry, I'll do it tomorrow, I promise."
+  "I'll do it tomorrow, I promise"
   CHARACTER: 
 
 064_sorry.mp3
@@ -271,15 +271,15 @@
   CHARACTER: 
 
 069_this_is_between_him_and_me.mp3
-  "This is between him and me."
+  "This is between him and me"
   CHARACTER: 
 
 070_this_is_walter_white_breaking.mp3
-  "This is Walter White breaking."
+  "This is Walter White breaking"
   CHARACTER: 
 
 071_volume_metric_flask_is_for_general_mixing_and_titration_you.mp3
-  "Volume metric flask is for general mixing and titration. You wouldn't apply heat through volume metric flask. That's what a boiling flask is for. Did you learn nothing from my chemistry class?"
+  "Did you learn nothing in my class?"
   CHARACTER: 
 
 072_what_about_the_side_effects.mp3
@@ -295,11 +295,11 @@
   CHARACTER: 
 
 075_what_i_need_is_for_you_to_climb_down_out_of_my_ass.mp3
-  "What I need is for you to climb down out of my ass."
+  "Climb down out of my ass"
   CHARACTER: 
 
 076_what_is_his_reputation_for_violence.mp3
-  "What is his reputation for violence?"
+  "His reputation for violence?"
   CHARACTER: 
 
 077_what_the_hell_are_you_doing_here.mp3
@@ -311,27 +311,27 @@
   CHARACTER: 
 
 079_what_the_hell_is_wrong_with_you_i_m_i_m_really_asking.mp3
-  "What the hell is wrong with you? I'm I'm really asking."
+  "I'm really asking"
   CHARACTER: 
 
 080_who_are_you_talking_to_right_now_do_you_know_how_much_i_make.mp3
-  "Who are you talking to right now? Do you know how much I make a year? I mean, even if I told you you wouldn't believe it, do you know what would happen if I suddenly decided to stop going into work..."
+  "Do you know how much I make?"
   CHARACTER: 
 
 081_will_you_do_that_for_me_honey_will_you_please_just_once_get.mp3
-  "Will you do that for me, honey, will you please just once get off my ass?"
+  "Get off my ass"
   CHARACTER: 
 
 082_wish_wait_a_minute_listen_to_me_i_ll_teach_you_my_recipe_but.mp3
-  "Wish wait a minute, listen to me I'll teach you my recipe but he said you want to cook like me."
+  "I'll teach you my recipe"
   CHARACTER: 
 
 083_wow_i_don_t_know_what_this_stuff_is_but_it_s_pretty_great.mp3
-  "Wow, I don't know what this stuff is, but it's pretty great."
+  "It's pretty great"
   CHARACTER: 
 
 084_yeah_no_i_remember_that.mp3
-  "Yeah no, I remember that."
+  "Yeah, I remember that"
   CHARACTER: 
 
 085_yeah_you_got_it.mp3
@@ -343,7 +343,7 @@
   CHARACTER: 
 
 087_yes_i_would_of_course_i_would.mp3
-  "Yes, I would of course I would."
+  "Of course I would"
   CHARACTER: 
 
 088_yes_yes_indeed.mp3
@@ -363,31 +363,31 @@
   CHARACTER: 
 
 092_you_all_know_exactly_who_i_am.mp3
-  "You all know exactly who I am."
+  "You all know exactly who I am"
   CHARACTER: 
 
 093_you_and_i_could_partner_up.mp3
-  "You and I could partner up."
+  "You and I could partner up"
   CHARACTER: 
 
 094_you_are_a_pathetic_junkie_too_stupid_to_understand_and_follo.mp3
-  "You are a pathetic junkie. Too stupid to understand and follow simple rudimentary instructions."
+  "You are a pathetic junkie"
   CHARACTER: 
 
 095_you_are_not_good_at_all.mp3
-  "You are not good at all."
+  "You are not good at all"
   CHARACTER: 
 
 096_you_better_not_be_saying_what_i_think_you_re_saying.mp3
-  "You better not be saying what I think you're saying."
+  "Don't say what I think"
   CHARACTER: 
 
 097_you_can_have_any_future_that_you_want.mp3
-  "You can have any future that you want."
+  "Any future that you want"
   CHARACTER: 
 
 098_you_could_charge_twice_the_current_rate_for_what_i_provide_a.mp3
-  "You could charge twice the current rate for what I provide an your customers would pay it."
+  "Charge twice the rate"
   CHARACTER: 
 
 099_you_got_nothing.mp3
@@ -395,7 +395,7 @@
   CHARACTER: 
 
 100_you_lost_your_partner_today.mp3
-  "You lost your partner today."
+  "You lost your partner today"
   CHARACTER: 
 
 101_you_stupid_bitch.mp3
@@ -403,7 +403,7 @@
   CHARACTER: 
 
 102_you_wouldn_t_cook_in_one_of_these.mp3
-  "You wouldn't cook in one of these."
+  "You wouldn't cook in one of these"
   CHARACTER: 
 
 103_you_re_god_damn_right.mp3
@@ -411,59 +411,59 @@
   CHARACTER: 
 
 104_80_million.mp3
-  "$80 million."
+  "$80 million"
   CHARACTER: 
 
 105_90_000.mp3
-  "$90,000."
+  "$90,000"
   CHARACTER: 
 
 106_aah_god_jesus_god_shut_up_oh_wow.mp3
-  "Aah. God. Jesus. God. Shut up. Oh, wow."
+  "Jesus, God, shut up"
   CHARACTER: 
 
 107_among_the_gangsters_the_gringos_fame_is_inflated_cause_of_th.mp3
-  "Among the gangsters The gringos' fame is inflated. 'Cause of the new drug they created"
+  "The gringo's fame (corrido)"
   CHARACTER: 
 
 108_are_they_back_yet_have_you_heard_from_anyone_lf_pinkman_is_g.mp3
-  "Are they back yet? Have you heard from anyone? lf Pinkman is gone... ...l'm done. Do you understand? l quit."
+  "If Pinkman is gone, I quit"
   CHARACTER: 
 
 110_but_but_what_are_you_doing_buddy_leaving_you_gotta_go_inside.mp3
-  "But-- But-- What are you doing, buddy? Leaving. You gotta go inside, order something like last time. Avoid suspicion. Besides, I want a vanilla shake. We'll use the drive through."
+  "I want a vanilla shake"
   CHARACTER: 
 
 111_can_i_get_you_anything_else_nope_thanks_darling_i_m_ready_fo.mp3
-  "Can I get you anything else? Nope. Thanks, darling. I'm ready for the check."
+  "I'm ready for the check"
   CHARACTER: 
 
 112_can_t_we_just_dump_them_here_what_and_somebody_finds_them_th.mp3
-  "Can't we just dump them here? What, and somebody finds them? Then what? People have seen us."
+  "Can't we just dump them?"
   CHARACTER: 
 
 113_christ_longest_week_ever_ha_ha_here_s_just_hoping_we_get_som.mp3
-  "Christ. Longest week ever. Ha ha. Here's just hoping we get something good. Keep your fingers crossed. Relax, buddy, this ain't no spy movie. It's more like Rocky, you know?"
+  "It's more like Rocky"
   CHARACTER: 
 
 114_come_on_come_come_on_come_on_baby_please_please_come_on_come.mp3
-  "Come on. Come... Come on. Come on, baby. Please, please. Come on, come on. Come on!"
+  "Come on, baby, please"
   CHARACTER: 
 
 115_damn_man_look_at_that_look_yeah_that_s_messed_up_okay_heisen.mp3
-  "Damn, man! Look at that! Look! Yeah, that's messed up. Okay, Heisenberg. Next week."
+  "Okay, Heisenberg. Next week."
   CHARACTER: 
 
 116_dude_this_isn_t_even_7_grand_my_guy_wants_85_this_is_all_the.mp3
-  "Dude, this isn't even 7 grand. My guy wants 85. This is all the money I have in the world. You are a drug dealer. Negotiate. Buy the RV. We start tomorrow."
+  "Buy the RV, we start tomorrow"
   CHARACTER: 
 
 117_ever_try_it_i_smoke_pot_a_lot_sometimes_i_party_but_but_that.mp3
-  "Ever try it? I smoke pot a lot sometimes. I party. But... But that stuff's really addictive, right? Not really. It's just a media thing. You know? What's it like?"
+  "I smoke pot sometimes"
   CHARACTER: 
 
 118_excuse_me_skyler_white_307_thank_you.mp3
-  "Excuse me. Skyler White? - 307. - Thank you."
+  "Skyler White? 307"
   CHARACTER: 
 
 119_fine_walt.mp3
@@ -475,27 +475,27 @@
   CHARACTER: 
 
 121_get_the_bad_guy_yeah_cause_it_s_the_eye_of_the_tiger_it_s_th.mp3
-  "Get the bad guy. Yeah! ♪ 'Cause it's the eye of the tiger It's the thrill of the fight ♪ ♪ Rising up ♪♪"
+  "Eye of the tiger"
   CHARACTER: 
 
 122_he_a_no_show_why_didn_t_you_c_you_and_him_you_took_it_right.mp3
-  "He a no show? Why didn't you c--? You and him-- you took it right out of my pocket. The ricin cigarette! And all for Mr. White!? He poisoned Brock and you helped him!"
+  "He poisoned Brock"
   CHARACTER: 
 
 123_heisenberg_says_relax_i_m_relaxed_i_m_relaxed_i_m_rela.mp3
-  "Heisenberg says relax. I'm relaxed. I'm relaxed. I'm rela..."
+  "Heisenberg says relax"
   CHARACTER: 
 
 124_heisenberg_s_fame_has_got_down_to_michoacan_from_way_far_awa.mp3
-  "Heisenberg's fame has got Down to Michoacan. From way far away They want to taste that meth. That blue stuff has crossed the border."
+  "Blue stuff crossed the border"
   CHARACTER: 
 
 125_here_you_go_ms_quayle_lydia_thank_you.mp3
-  "Here you go, Ms. Quayle. Lydia. Thank you."
+  "Here you go, Lydia"
   CHARACTER: 
 
 126_hey_captain_america_what_s_up_brother_hey_bro.mp3
-  "Hey, Captain America. - What's up, brother? - Hey, bro."
+  "Hey, Captain America"
   CHARACTER: 
 
 127_hey_dennis_have_a_seat.mp3
@@ -503,87 +503,87 @@
   CHARACTER: 
 
 128_hey_hey_hey_what_about_him_what_about_him.mp3
-  "Hey! Hey! Hey! What about him? What about him?"
+  "What about him?"
   CHARACTER: 
 
 129_hey_someone_help_assistance_this_man_needs_help_this_man_pay.mp3
-  "Hey. Someone. Help. Assistance. This man needs help. This man pays my salary."
+  "This man pays my salary"
   CHARACTER: 
 
 130_hi_you_ve_reached_the_white_family_please_leave_a_message_he.mp3
-  "Hi. You've reached the White family. Please leave a message. Hey. lt's me. l.... l just wanted to say that l was thinking about you and the kids, and.... l love you."
+  "You've reached the White family"
   CHARACTER: 
 
 131_how_big_s_the_batch_should_be_about_50_pounds_give_or_take_u.mp3
-  "How big's the batch? Should be about 50 pounds, give or take. Uncle Jack, that mask, I think you should... Mr. White said the fumes aren't good to breathe. Let me worry about what I breathe, kid. Just hurry this up so I can grab a smoke. Ahem."
+  "About 50 pounds, give or take"
   CHARACTER: 
 
 132_i_am_awake_you_are_not_how_i_remember_you_from_class_like_no.mp3
-  "I am awake. You are not how I remember you from class. Like, not at all."
+  "Not how I remember you"
   CHARACTER: 
 
 133_i_got_your_word_this_won_t_wind_up_crossing_the_border_it_s.mp3
-  "I got your word this won't wind up crossing the border? It's never leaving town. Is there a manual? Instruction manual? I pulled something off the Internet. It's in there. Well... ...good luck, I guess."
+  "It's never leaving town"
   CHARACTER: 
 
 135_it_s_a_bold_plan_mr_white_you_sure_this_is_the_way_to_go_yea.mp3
-  "It's a bold plan, Mr. White. You sure this is the way to go? Yeah."
+  "It's a bold plan, Mr. White"
   CHARACTER: 
 
 136_it_s_an_actual_store_mm_hm_i_guess_i_figured_vacuum_cleaner.mp3
-  "It's an actual store. Mm hm. I guess I figured "vacuum cleaner repair" was a term of art. If you would step right here on this blue spot. Leave your luggage where it is for the moment."
+  "Step on the blue spot"
   CHARACTER: 
 
 137_it_s_awesome_everything_s_maximum_interesting_you_get_these.mp3
-  "It's awesome. Everything's. maximum interesting. You get these. really cold and sharp like action dagger feelings. It's awesome. Come on. What do you say?"
+  "Maximum interesting"
   CHARACTER: 
 
 138_it_s_pretty_cool_the_way_they_do_that_they_just_turn_a_car_i.mp3
-  "It's pretty cool the way they do that. They just turn a car into a cube."
+  "Turn a car into a cube"
   CHARACTER: 
 
 139_jesse_jesse_you_show_yourself_right_now.mp3
-  "Jesse!? Jesse! You show yourself right now!"
+  "Jesse, show yourself!"
   CHARACTER: 
 
 140_just_get_me_home_just_get_me_home_i_ll_do_the_rest.mp3
-  "Just get me home. Just get me home. I'll do the rest."
+  "Just get me home"
   CHARACTER: 
 
 141_kdk_12_here_janet_jesus_we_got_a_homicide_come_again_miss_pe.mp3
-  "KDK 12 here. Janet, Jesus, we got a homicide. - Come again? - Miss Peyketewa, she's dead. - I need some backup out here. - On their way."
+  "We got a homicide"
   CHARACTER: 
 
 142_kdk_12_come_in_kdk_12_kdk_12_need_you_to_look_in_on_mrs_peyk.mp3
-  "KDK 12, come in. KDK 12. KDK 12. Need you to look in on Mrs. Peyketewa. She all right? Her daughter called from California, she hasn't heard from her in a while, kind of worried. Will do."
+  "KDK 12, come in"
   CHARACTER: 
 
 143_l_can_hear_your_cell_phone_ringing_this_is_ridiculous_l_can.mp3
-  "L can hear your cell phone ringing. This is ridiculous. l can't...."
+  "I can hear your phone ringing"
   CHARACTER: 
 
 144_l_just_told_you_40_23_pounds_forty_point_two_one.mp3
-  "L just told you, 40.23 pounds. Forty point two one."
+  "40.23 pounds"
   CHARACTER: 
 
 145_l_m_not_leaving_walt_l_m_not_leaving_oh_my_god.mp3
-  "L'm not leaving. Walt, l'm not leaving. Oh, my God."
+  "I'm not leaving, Walt"
   CHARACTER: 
 
 146_like_i_said_we_couldn_t_be_more_grateful.mp3
-  "Like I said, we couldn't be more grateful."
+  "We couldn't be more grateful"
   CHARACTER: 
 
 147_look_i_can_t_leave_my_house_for_more_than_20_minutes_without.mp3
-  "Look, I can't leave my house... ...for more than 20 minutes without my wife worrying. I need time to mend fences. Okay, so while you're fixing fences, what about me, huh? Your A hole brother in law took all my money."
+  "I need to mend fences"
   CHARACTER: 
 
 148_lt_came_out_of_nowhere_you_gotta_help_us_look_at_all_this_da.mp3
-  "Lt came out of nowhere. You gotta help us. -Look at all this damn water. -Don't drink that. Ain't no telling if it's gonna be poison."
+  "Don't drink that water"
   CHARACTER: 
 
 149_mr_white_the_car_s_been_dealt_with_sir_no_one_tailed_you_no.mp3
-  "Mr. White, the car's been dealt with, sir. No one tailed you? No, I stayed off the main streets and kept checking, so... Joe ask any questions? I told him RV job, just like you said, and he totally knew."
+  "The car's been dealt with"
   CHARACTER: 
 
 150_mr_white_hello.mp3
@@ -591,67 +591,67 @@
   CHARACTER: 
 
 151_new_hampshire_you_re_a_long_way_from_home_how_long_a_drive_i.mp3
-  "New Hampshire. You're a long way from home. How long a drive is that? About 30 hours, if all you stop for is gas. You headed to California? No. Here. Okay. So, what's here?"
+  "A long way from home"
   CHARACTER: 
 
 152_no_matter_what_happens_no_more_bloodshed_no_violence.mp3
-  "No matter what happens, no more bloodshed. No violence."
+  "No more bloodshed"
   CHARACTER: 
 
 153_no_no_no_not_in_here_duh_like_i_m_an_idiot_yeah_like_you_re.mp3
-  "No, no, no. Not in here. Duh. Like I'm an idiot. Yeah. Like you're an idiot. Dick."
+  "Like I'm an idiot. Dick."
   CHARACTER: 
 
 154_oh_god_oh_my_god_oh_my_god_oh_my_god_think_think_think_oh_my.mp3
-  "Oh, God. Oh, my God. Oh, my God. Oh, my God. Think, think, think. Oh, my gosh."
+  "Think, think, think"
   CHARACTER: 
 
 155_oh_my_god_christ_shit.mp3
-  "Oh, my God. Christ! Shit."
+  "Oh my God. Shit."
   CHARACTER: 
 
 156_oh_thank_you_now_what_are_you_supposed_to_do_today_nothing_e.mp3
-  "Oh, thank you. Now... ...what are you supposed to do today? - Nothing. - Excellent. Brownie points for taking a nap."
+  "Brownie points for a nap"
   CHARACTER: 
 
 157_okay_come_on_come_on_come_on_come_on_my_name_is_walter_hartw.mp3
-  "Okay. Come on, come on, come on. Come on. My name is Walter Hartwell White. I live at 308 Negra Arroyo Lane, Albuquerque, New Mexico, 87104. To all law enforcement entities, this is not an admission of guilt. I am speaking to my family now."
+  "My name is Walter Hartwell White"
   CHARACTER: 
 
 158_ooh_ow_okay_okay_okay_oh_wow_where_did_that_come_from_and_wh.mp3
-  "Ooh. Ow. Okay. Okay. Okay. Oh, wow. Where did that come from? And why was it so damn good? Because it was illegal."
+  "Because it was illegal"
   CHARACTER: 
 
 160_previously_on_amc_s_breaking_bad_you_need_me_gone_cause_your.mp3
-  "Previously on AMC's Breaking Bad... You need me gone, 'cause your brother in law is never gonna let up. Excuse me..."
+  "Previously on Breaking Bad"
   CHARACTER: 
 
 161_saul_goodman_better_call_saul.mp3
-  "Saul Goodman: Better call Saul!"
+  "Better call Saul!"
   CHARACTER: 
 
 163_sir_you_can_go_back_to_your_changing_room_and_get_dressed_so.mp3
-  "Sir, you can go back to your changing room and get dressed. - So how'd we do? - You did fine. - See anything? - I'm just a technician, Mr. White. Dr. Delcavoli will go over the results with you next week. Sorry."
+  "Dr. Delcavoli has your results"
   CHARACTER: 
 
 164_skyler_i_m_so_sorry_i_m_just_are_you_okay_meet_your_daughter.mp3
-  "Skyler, I'm so sorry. I'm just... Are you okay? Meet your daughter."
+  "Meet your daughter"
   CHARACTER: 
 
 165_so_should_we_deal_with_this_other_thing_now.mp3
-  "So should we deal with this other thing now?"
+  "Deal with this other thing?"
   CHARACTER: 
 
 166_sorry_i_m_late_man_damn_brother_look_at_you_that_s_messed_up.mp3
-  "Sorry I'm late, man. Damn, brother, look at you. That's messed up. How are you feeling? You okay? Actually... I'm great. Subtitles: Breys, Michvanilly."
+  "Damn, look at you"
   CHARACTER: 
 
 167_that_good_sure_what_about_this_i_ll_photoshop_that_out.mp3
-  "That good? Sure. What about this? I'll Photoshop that out."
+  "I'll Photoshop that out"
   CHARACTER: 
 
 169_the_city_s_called_duke_the_state_s_called_new_mexico.mp3
-  "The city's called Duke The state's called New Mexico."
+  "The state's called New Mexico"
   CHARACTER: 
 
 170_there_that_s_them.mp3
@@ -659,35 +659,35 @@
   CHARACTER: 
 
 171_they_say_the_color_is_blue_and_the_quality_pure.mp3
-  "They say the color is blue And the quality pure."
+  "The color is blue"
   CHARACTER: 
 
 173_this_man_pays_my_salary.mp3
-  "This man pays my salary."
+  "This man pays my salary"
   CHARACTER: 
 
 174_tight_tight_tight_yeah_blue_yellow_pink_whatever_man_just_ke.mp3
-  "Tight, tight, tight. Yeah. Blue, yellow, pink, whatever, man, just keep bringing me that."
+  "Just keep bringing me that"
   CHARACTER: 
 
 175_we_will_find_hank_steve_too_they_re_out_there_and_we_re_gonn.mp3
-  "We will find Hank. Steve too. They're out there, and we're gonna find them. You have my word. Sir."
+  "We will find Hank"
   CHARACTER: 
 
 176_what_happened_there_it_s_my_birthday_yeah_well_happy_birthda.mp3
-  "What happened there? - It's my birthday. - Yeah? Well, happy birthday. Birthday meals are free at Denny's. All you gotta show is a valid ID. I'm good. Thanks. Really? Free meal. Free is good. Even if I was, like, rich, free is always good. Thank you. Okay."
+  "Free meal at Denny's"
   CHARACTER: 
 
 178_what_is_this_it_s_blue_we_used_a_different_chemical_process.mp3
-  "What is this? It's blue. We used a different chemical process, but it is every bit as pure. It may be blue, but it's the bomb."
+  "It may be blue, but it's the bomb"
   CHARACTER: 
 
 179_what_you_need_you_buying_or_you_just_stopping_to_envy_yeah_p.mp3
-  "What you need? You buying or you just stopping to envy? Yeah. Punk bitches."
+  "Punk bitches"
   CHARACTER: 
 
 180_whoever_s_in_there_show_yourself_right_now.mp3
-  "Whoever's in there, show yourself right now."
+  "Show yourself right now"
   CHARACTER: 
 
 181_yeah_sure.mp3
@@ -695,53 +695,53 @@
   CHARACTER: 
 
 182_yo_this_way_to_savings_save_your_dollar_bills_y_all.mp3
-  "Yo, this way to savings. Save your dollar bills, y'all."
+  "This way to savings"
   CHARACTER: 
 
 183_you_all_right_in_there_yeah_hey_you_okay_yes_i_m_fine_thank.mp3
-  "You all right in there? Yeah. Hey, you okay? Yes. I'm fine, thank you."
+  "You all right in there?"
   CHARACTER: 
 
 184_you_feeling_good_about_cooking_yeah_you_ll_be_able_to_run_yo.mp3
-  "You feeling good about cooking? Yeah. You'll be able to run your own lab? Do it up right? Yeah. For sure. I got this. All right. Let's make some money, then. I gotta hit the head."
+  "Let's make some money"
   CHARACTER: 
 
 185_you_guys_didn_t_tell_me_this_stuff_smells_like_cat_piss.mp3
-  "You guys didn't tell me this stuff smells like cat piss."
+  "Smells like cat piss"
   CHARACTER: 
 
 186_you_want_me_to_open_the_doors_here_the_keys_take_them_why_yo.mp3
-  "You want me to open the doors? Here. The keys. Take them. Why you talking? No! No, no, no--."
+  "Take the keys"
   CHARACTER: 
 
 187_you_ll_be_okay_waiting_here_by_yourself_whatever_sir_if_you.mp3
-  "You'll be okay waiting here by yourself? Whatever. Sir, if you'd like to smoke, you need to be another 20 feet from the door. So roll me further, bitch."
+  "Roll me further, bitch"
   CHARACTER: 
 
 188_your_play_walter_you_re_on_your_own.mp3
-  "Your play, Walter. You're on your own."
+  "Your play, Walter"
   CHARACTER: 
 
 189_hey_darla_how_you_doing_today_hey_dan_i_m_looking_for_somet.mp3
-  "- Hey, Darla. How you doing today? - Hey, Dan. - I'm looking for something in a Markowski. - That'd be Dennis Markowski? That's the one. Oh, and I've got my paralegal with me today. Paralegal? Coming up in the world. You know it."
+  "Looking for a Markowski"
   CHARACTER: 
 
 190_i_don_t_want_to_talk_about_this_okay_it_had_to_be_done_okay.mp3
-  "- I don't want to talk about this. - Okay. It had to be done. Okay. All right."
+  "It had to be done"
   CHARACTER: 
 
 191_oh_god_please_oh_jeez_please.mp3
-  "- Oh, God. Please. - Oh, jeez. Please."
+  "Oh God, please"
   CHARACTER: 
 
 193_pos_192_225_so_if_it_s_okay_i_was_thinking_pos_192_225_abou.mp3
-  "{\pos(192,225)}So if it's okay, I was thinking {\pos(192,225)}about using this one for the test. {\pos(192,225)}Mom's brakes are very sticky... {\pos(192,225)}and you barely press down on them, {\pos(192,225)}and it's like a screech. {\pos(192,225)}Sure. {\pos(192,225)}But I'm good? {\pos(192,225)}Yeah, you're great. {\pos(192,225)}Why? {\pos(192,225)}Are my feet okay?"
+  "Using this one for the test"
   CHARACTER: 
 
 194_i_saddled_up_and_away_i_did_go_riding_alone_in_the_dark_may.mp3
-  "♪ I saddled up and away I did go ♪ ♪ riding alone in the dark ♪ ♪ maybe tomorrow a bullet may find me ♪ ♪ tonight nothing's worse than this pain in my heart ♪ ♪ and at last here I am on the hill overlooking ♪"
+  "Riding alone in the dark"
   CHARACTER: 
 
 195_this_way_to_savings_this_way_to_savings_come_on_save_some_m.mp3
-  "♪ This way to savings This way to savings ♪ Come on! Save some money."
+  "This way to savings"
   CHARACTER: 

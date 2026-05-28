@@ -9,7 +9,7 @@ const shows = [
       "accent": "#2c5fa8",
       "bg": "#0a0000"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
         "text": "Ah fucking diabolical.",
@@ -17,37 +17,37 @@ const shows = [
         "audioUrl": "audio/the-boys/001_ah_fucking_diabolical.mp3"
       },
       {
-        "text": "All right. Frenchie will go with you. Wait, what? No. Either he goes with you, or I break your legs.",
+        "text": "I'll break your legs",
         "character": "",
         "audioUrl": "audio/the-boys/004_all_right_frenchie_will_go_with_you_wait_what_no_either_he_g.mp3"
       },
       {
-        "text": "And she was injected in a basement, not a hospital.",
+        "text": "Injected in a basement",
         "character": "",
         "audioUrl": "audio/the-boys/005_and_she_was_injected_in_a_basement_not_a_hospital.mp3"
       },
       {
-        "text": "And then, once she's active, she stabs you in the back, gets you kicked out of the house?",
+        "text": "Stabs you in the back",
         "character": "",
         "audioUrl": "audio/the-boys/006_and_then_once_she_s_active_she_stabs_you_in_the_back_gets_yo.mp3"
       },
       {
-        "text": "Annie... Oh, my God. Oh, my God.",
+        "text": "Annie... oh my God",
         "character": "",
         "audioUrl": "audio/the-boys/007_annie_oh_my_god_oh_my_god.mp3"
       },
       {
-        "text": "At least I don't have to kiss. your ass anymore.",
+        "text": "Don't have to kiss your ass",
         "character": "",
         "audioUrl": "audio/the-boys/008_at_least_i_don_t_have_to_kiss_your_ass_anymore.mp3"
       },
       {
-        "text": "Black Noir. We haven't properly met yet. I'm Starlight.",
+        "text": "Black Noir, I'm Starlight",
         "character": "",
         "audioUrl": "audio/the-boys/009_black_noir_we_haven_t_properly_met_yet_i_m_starlight.mp3"
       },
       {
-        "text": "Bonjour, my little spy. -(horn honking) -(siren wailing) (panting)",
+        "text": "Bonjour, my little spy",
         "character": "",
         "audioUrl": "audio/the-boys/010_bonjour_my_little_spy_horn_honking_siren_wailing_panting.mp3"
       },
@@ -57,27 +57,27 @@ const shows = [
         "audioUrl": "audio/the-boys/011_bonjour_i_got_you_something.mp3"
       },
       {
-        "text": "Butcher, hold on a second. I might have one thing. ♪ ♪",
+        "text": "I might have one thing",
         "character": "",
         "audioUrl": "audio/the-boys/012_butcher_hold_on_a_second_i_might_have_one_thing.mp3"
       },
       {
-        "text": "Come on in. Ms Stillwell. Hello. Please sit.",
+        "text": "Come on in, Ms Stillwell",
         "character": "",
         "audioUrl": "audio/the-boys/014_come_on_in_ms_stillwell_hello_please_sit.mp3"
       },
       {
-        "text": "Come on, Earving, me and the others. have something to sh sh sh show you.",
+        "text": "Something to show you",
         "character": "",
         "audioUrl": "audio/the-boys/015_come_on_earving_me_and_the_others_have_something_to_sh_sh_sh.mp3"
       },
       {
-        "text": "Do you think... do you think they know...",
+        "text": "Do you think they know?",
         "character": "",
         "audioUrl": "audio/the-boys/017_do_you_think_do_you_think_they_know.mp3"
       },
       {
-        "text": "Frenchie, come on, let's go, Check these boxes. Come on, Frenchie, what are you doing? Are you deaf? Jesus.",
+        "text": "Check these boxes",
         "character": "",
         "audioUrl": "audio/the-boys/018_frenchie_come_on_let_s_go_check_these_boxes_come_on_frenchie.mp3"
       },
@@ -87,47 +87,47 @@ const shows = [
         "audioUrl": "audio/the-boys/019_gentlemen_oh.mp3"
       },
       {
-        "text": "Get up. Get up, get up, get up. Come on, Benjy. Come on, come on.",
+        "text": "Get up, Benjy",
         "character": "",
         "audioUrl": "audio/the-boys/020_get_up_get_up_get_up_get_up_come_on_benjy_come_on_come_on.mp3"
       },
       {
-        "text": "H Hold on, hold on. So, no hero was born?",
+        "text": "No hero was born?",
         "character": "",
         "audioUrl": "audio/the-boys/022_h_hold_on_hold_on_so_no_hero_was_born.mp3"
       },
       {
-        "text": "I am sorry. I do not understand.",
+        "text": "I do not understand",
         "character": "",
         "audioUrl": "audio/the-boys/028_i_am_sorry_i_do_not_understand.mp3"
       },
       {
-        "text": "I am Starlight. I'm 110 pounds, and I'm five foot six. Turn around, please.",
+        "text": "110 pounds, five foot six",
         "character": "",
         "audioUrl": "audio/the-boys/029_i_am_starlight_i_m_110_pounds_and_i_m_five_foot_six_turn_aro.mp3"
       },
       {
-        "text": "I can't stop. I can't stop. I can't stop. I can't stop. Can't stop. Can't stop. Robin?",
+        "text": "I can't stop, Robin",
         "character": "",
         "audioUrl": "audio/the-boys/030_i_can_t_stop_i_can_t_stop_i_can_t_stop_i_can_t_stop_can_t_st.mp3"
       },
       {
-        "text": "I know a bloke. Top man. He'll know what to do.",
+        "text": "I know a bloke, top man",
         "character": "",
         "audioUrl": "audio/the-boys/031_i_know_a_bloke_top_man_he_ll_know_what_to_do.mp3"
       },
       {
-        "text": "I mean, what about our petite Lazarus here?",
+        "text": "Our petite Lazarus here",
         "character": "",
         "audioUrl": "audio/the-boys/032_i_mean_what_about_our_petite_lazarus_here.mp3"
       },
       {
-        "text": "I'd like to see what bitch that is!",
+        "text": "What bitch that is!",
         "character": "",
         "audioUrl": "audio/the-boys/033_i_d_like_to_see_what_bitch_that_is.mp3"
       },
       {
-        "text": "I'll just, uh, keep on Starlight then, right?",
+        "text": "Keep on Starlight then",
         "character": "",
         "audioUrl": "audio/the-boys/034_i_ll_just_uh_keep_on_starlight_then_right.mp3"
       },
@@ -137,32 +137,32 @@ const shows = [
         "audioUrl": "audio/the-boys/035_i_ll_take_this_merci.mp3"
       },
       {
-        "text": "I'm trying to give. a tremendous fucking TED Talk here, and this...",
+        "text": "Tremendous fucking TED Talk",
         "character": "",
         "audioUrl": "audio/the-boys/036_i_m_trying_to_give_a_tremendous_fucking_ted_talk_here_and_th.mp3"
       },
       {
-        "text": "Let's hurry up, let's go. Check those boxes.",
+        "text": "Let's check those boxes",
         "character": "",
         "audioUrl": "audio/the-boys/038_let_s_hurry_up_let_s_go_check_those_boxes.mp3"
       },
       {
-        "text": "No. We're gonna go on a little detour.",
+        "text": "A little detour",
         "character": "",
         "audioUrl": "audio/the-boys/040_no_we_re_gonna_go_on_a_little_detour.mp3"
       },
       {
-        "text": "None of them? They're all just kids dosed with the blue shit.",
+        "text": "Kids dosed with blue shit",
         "character": "",
         "audioUrl": "audio/the-boys/041_none_of_them_they_re_all_just_kids_dosed_with_the_blue_shit.mp3"
       },
       {
-        "text": "Noodle Guy. He's packing. About time we see something.",
+        "text": "Noodle Guy, he's packing",
         "character": "",
         "audioUrl": "audio/the-boys/042_noodle_guy_he_s_packing_about_time_we_see_something.mp3"
       },
       {
-        "text": "Oh, fuck. Looks like Kermit the Frog had a right wank in your mouth. No, I'm good, okay? So I see.",
+        "text": "Kermit the Frog wank",
         "character": "",
         "audioUrl": "audio/the-boys/043_oh_fuck_looks_like_kermit_the_frog_had_a_right_wank_in_your.mp3"
       },
@@ -172,12 +172,12 @@ const shows = [
         "audioUrl": "audio/the-boys/047_robin_robin_robin.mp3"
       },
       {
-        "text": "She wanted to explore different career paths, and, um, we wished her well.",
+        "text": "Explore different career paths",
         "character": "",
         "audioUrl": "audio/the-boys/049_she_wanted_to_explore_different_career_paths_and_um_we_wishe.mp3"
       },
       {
-        "text": "Since when did hopeful and naive become the same thing.",
+        "text": "Hopeful and naive",
         "character": "",
         "audioUrl": "audio/the-boys/050_since_when_did_hopeful_and_naive_become_the_same_thing.mp3"
       }
@@ -192,10 +192,10 @@ const shows = [
       "accent": "#1e88e5",
       "bg": "#0a0a14"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
-        "text": "Agree to my demands. and I will consider not destroying half of the nation.",
+        "text": "Agree to my demands",
         "character": "",
         "audioUrl": "audio/invincible/001_agree_to_my_demands_and_i_will_consider_not_destroying_half.mp3"
       },
@@ -210,7 +210,7 @@ const shows = [
         "audioUrl": "audio/invincible/003_amber_summer_plans_go.mp3"
       },
       {
-        "text": "And I've thought about you every day since...",
+        "text": "Thought about you every day",
         "character": "",
         "audioUrl": "audio/invincible/004_and_i_ve_thought_about_you_every_day_since.mp3"
       },
@@ -220,42 +220,42 @@ const shows = [
         "audioUrl": "audio/invincible/007_and_this_guy_he_s_nothing.mp3"
       },
       {
-        "text": "And you wouldn't accidentally crush me or something?",
+        "text": "Wouldn't accidentally crush me?",
         "character": "",
         "audioUrl": "audio/invincible/008_and_you_wouldn_t_accidentally_crush_me_or_something.mp3"
       },
       {
-        "text": "But he will know. my life has run its course.",
+        "text": "My life has run its course",
         "character": "",
         "audioUrl": "audio/invincible/011_but_he_will_know_my_life_has_run_its_course.mp3"
       },
       {
-        "text": "But if he lives, he'll go searching for you, not me.",
+        "text": "He'll come searching for you",
         "character": "",
         "audioUrl": "audio/invincible/012_but_if_he_lives_he_ll_go_searching_for_you_not_me.mp3"
       },
       {
-        "text": "But now. everyone he knows here will soon be dead.",
+        "text": "Everyone he knows will be dead",
         "character": "",
         "audioUrl": "audio/invincible/013_but_now_everyone_he_knows_here_will_soon_be_dead.mp3"
       },
       {
-        "text": "But there is something else I must ask of you.",
+        "text": "Something else I must ask",
         "character": "",
         "audioUrl": "audio/invincible/014_but_there_is_something_else_i_must_ask_of_you.mp3"
       },
       {
-        "text": "But to me, your centuries are still just a concept.",
+        "text": "Your centuries are just a concept",
         "character": "",
         "audioUrl": "audio/invincible/015_but_to_me_your_centuries_are_still_just_a_concept.mp3"
       },
       {
-        "text": "Can't believe you shot me in the fucking head!",
+        "text": "You shot me in the head",
         "character": "",
         "audioUrl": "audio/invincible/016_can_t_believe_you_shot_me_in_the_fucking_head.mp3"
       },
       {
-        "text": "Come back and we'll talk. Please?",
+        "text": "Come back and we'll talk",
         "character": "",
         "audioUrl": "audio/invincible/018_come_back_and_we_ll_talk_please.mp3"
       },
@@ -265,137 +265,137 @@ const shows = [
         "audioUrl": "audio/invincible/019_did_you_retrieve_the_null_energy.mp3"
       },
       {
-        "text": "Do take more than dirt at hurt Octoboss.",
+        "text": "Octoboss",
         "character": "",
         "audioUrl": "audio/invincible/020_do_take_more_than_dirt_at_hurt_octoboss.mp3"
       },
       {
-        "text": "Don't do this. Come on, come on, don't do this to me.",
+        "text": "Don't do this to me",
         "character": "",
         "audioUrl": "audio/invincible/021_don_t_do_this_come_on_come_on_don_t_do_this_to_me.mp3"
       },
       {
-        "text": "Everyone, please rise.",
+        "text": "Everyone, please rise",
         "character": "",
         "audioUrl": "audio/invincible/022_everyone_please_rise.mp3"
       },
       {
-        "text": "Fuck. Well, look at this brave little soldier.",
+        "text": "Brave little soldier",
         "character": "",
         "audioUrl": "audio/invincible/023_fuck_well_look_at_this_brave_little_soldier.mp3"
       },
       {
-        "text": "Generations will pass before he's even an adult.",
+        "text": "Generations before he's an adult",
         "character": "",
         "audioUrl": "audio/invincible/024_generations_will_pass_before_he_s_even_an_adult.mp3"
       },
       {
-        "text": "Get it together, Mark. Get it together. Get in there.",
+        "text": "Get it together, Mark",
         "character": "",
         "audioUrl": "audio/invincible/025_get_it_together_mark_get_it_together_get_in_there.mp3"
       },
       {
-        "text": "Huh? I order... I order... I order you... You order what?",
+        "text": "You order what?",
         "character": "",
         "audioUrl": "audio/invincible/026_huh_i_order_i_order_i_order_you_you_order_what.mp3"
       },
       {
-        "text": "Huh? Now! While he's distracted! This floor looks clear. I'll go up, you go down.",
+        "text": "While he's distracted",
         "character": "",
         "audioUrl": "audio/invincible/027_huh_now_while_he_s_distracted_this_floor_looks_clear_i_ll_go.mp3"
       },
       {
-        "text": "I didn't know they had Burger Marts here. You called me Dad.",
+        "text": "You called me Dad",
         "character": "",
         "audioUrl": "audio/invincible/029_i_didn_t_know_they_had_burger_marts_here_you_called_me_dad.mp3"
       },
       {
-        "text": "I don't know. I don't feel any different.",
+        "text": "I don't feel any different",
         "character": "",
         "audioUrl": "audio/invincible/030_i_don_t_know_i_don_t_feel_any_different.mp3"
       },
       {
-        "text": "I have no intention of hurting your brother. or your mother.",
+        "text": "I won't hurt your family",
         "character": "",
         "audioUrl": "audio/invincible/031_i_have_no_intention_of_hurting_your_brother_or_your_mother.mp3"
       },
       {
-        "text": "I see life now on a longer scale than most Thraxans.",
+        "text": "Life on a longer scale",
         "character": "",
         "audioUrl": "audio/invincible/032_i_see_life_now_on_a_longer_scale_than_most_thraxans.mp3"
       },
       {
-        "text": "I thought we weren't keeping secrets from each other anymore.",
+        "text": "No more secrets",
         "character": "",
         "audioUrl": "audio/invincible/033_i_thought_we_weren_t_keeping_secrets_from_each_other_anymore.mp3"
       },
       {
-        "text": "I was but a hatchling. when I last tasted their succulent flesh.",
+        "text": "Tasted their succulent flesh",
         "character": "",
         "audioUrl": "audio/invincible/034_i_was_but_a_hatchling_when_i_last_tasted_their_succulent_fle.mp3"
       },
       {
-        "text": "I'll be gone before he can form a sentence.",
+        "text": "Gone before he can speak",
         "character": "",
         "audioUrl": "audio/invincible/035_i_ll_be_gone_before_he_can_form_a_sentence.mp3"
       },
       {
-        "text": "I'll get you a ship home, but there's something you need to see first.",
+        "text": "Something you need to see",
         "character": "",
         "audioUrl": "audio/invincible/036_i_ll_get_you_a_ship_home_but_there_s_something_you_need_to_s.mp3"
       },
       {
-        "text": "I'm at the community center. Mondays, Tuesdays and Thursdays.",
+        "text": "At the community center",
         "character": "",
         "audioUrl": "audio/invincible/037_i_m_at_the_community_center_mondays_tuesdays_and_thursdays.mp3"
       },
       {
-        "text": "I'm not sure you'll ever get the floors clean again.",
+        "text": "Floors won't come clean",
         "character": "",
         "audioUrl": "audio/invincible/038_i_m_not_sure_you_ll_ever_get_the_floors_clean_again.mp3"
       },
       {
-        "text": "I've got you. We're gonna be fine. We'll get out of this.",
+        "text": "We're gonna be fine",
         "character": "",
         "audioUrl": "audio/invincible/039_i_ve_got_you_we_re_gonna_be_fine_we_ll_get_out_of_this.mp3"
       },
       {
-        "text": "If this doesn't make Omni Man have a bad day, nothing will.",
+        "text": "Omni Man's bad day",
         "character": "",
         "audioUrl": "audio/invincible/040_if_this_doesn_t_make_omni_man_have_a_bad_day_nothing_will.mp3"
       },
       {
-        "text": "It's graduating high school, not losing your virginity.",
+        "text": "Graduating, not losing your virginity",
         "character": "",
         "audioUrl": "audio/invincible/041_it_s_graduating_high_school_not_losing_your_virginity.mp3"
       },
       {
-        "text": "Kill that one and move on! Your eye is as replaceable as you are. I am the original! Steve, look out!",
+        "text": "I am the original!",
         "character": "",
         "audioUrl": "audio/invincible/042_kill_that_one_and_move_on_your_eye_is_as_replaceable_as_you.mp3"
       },
       {
-        "text": "Like, if you get excited? I've seen what you can do.",
+        "text": "I've seen what you can do",
         "character": "",
         "audioUrl": "audio/invincible/043_like_if_you_get_excited_i_ve_seen_what_you_can_do.mp3"
       },
       {
-        "text": "Look how much older I am than when you first arrived.",
+        "text": "Look how much older I am",
         "character": "",
         "audioUrl": "audio/invincible/044_look_how_much_older_i_am_than_when_you_first_arrived.mp3"
       },
       {
-        "text": "Mark. Look... I made a mistake.",
+        "text": "Mark, I made a mistake",
         "character": "",
         "audioUrl": "audio/invincible/046_mark_look_i_made_a_mistake.mp3"
       },
       {
-        "text": "Maybe we'll try with me on top, just to be safe.",
+        "text": "Me on top, to be safe",
         "character": "",
         "audioUrl": "audio/invincible/047_maybe_we_ll_try_with_me_on_top_just_to_be_safe.mp3"
       },
       {
-        "text": "No, no, what about you?",
+        "text": "No, what about you?",
         "character": "",
         "audioUrl": "audio/invincible/048_no_no_what_about_you.mp3"
       }
@@ -410,7 +410,7 @@ const shows = [
       "accent": "#4a7a52",
       "bg": "#080a06"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
         "text": "A strong force of attraction.",
@@ -423,12 +423,12 @@ const shows = [
         "audioUrl": "audio/breaking-bad/002_absolutely_not.mp3"
       },
       {
-        "text": "And all you've got to do is let him go.",
+        "text": "All you do is let him go",
         "character": "",
         "audioUrl": "audio/breaking-bad/003_and_all_you_ve_got_to_do_is_let_him_go.mp3"
       },
       {
-        "text": "And I used to go in there a lot because it was close enough to the lab where I could ride my bicycle.",
+        "text": "Close enough to ride my bike",
         "character": "",
         "audioUrl": "audio/breaking-bad/004_and_i_used_to_go_in_there_a_lot_because_it_was_close_enough.mp3"
       },
@@ -448,7 +448,7 @@ const shows = [
         "audioUrl": "audio/breaking-bad/007_do_you_know_what_a_bond_is.mp3"
       },
       {
-        "text": "Do you think he is capable of listening to reason?",
+        "text": "Capable of listening to reason?",
         "character": "",
         "audioUrl": "audio/breaking-bad/008_do_you_think_he_is_capable_of_listening_to_reason.mp3"
       },
@@ -458,7 +458,7 @@ const shows = [
         "audioUrl": "audio/breaking-bad/009_does_it_look_like_i_m_doing.mp3"
       },
       {
-        "text": "Doesn't matter, it doesn't concern you.",
+        "text": "Doesn't concern you",
         "character": "",
         "audioUrl": "audio/breaking-bad/010_doesn_t_matter_it_doesn_t_concern_you.mp3"
       },
@@ -468,17 +468,17 @@ const shows = [
         "audioUrl": "audio/breaking-bad/011_don_t_bullshit_a_bullshitter.mp3"
       },
       {
-        "text": "Don't you dare put that on me?",
+        "text": "Don't you dare put that on me",
         "character": "",
         "audioUrl": "audio/breaking-bad/012_don_t_you_dare_put_that_on_me.mp3"
       },
       {
-        "text": "Emilio is going to prison.",
+        "text": "Emilio is going to prison",
         "character": "",
         "audioUrl": "audio/breaking-bad/013_emilio_is_going_to_prison.mp3"
       },
       {
-        "text": "Everything is going to be fine, but we need to leave right now. Alright, can we do that?",
+        "text": "We need to leave right now",
         "character": "",
         "audioUrl": "audio/breaking-bad/014_everything_is_going_to_be_fine_but_we_need_to_leave_right_no.mp3"
       },
@@ -488,12 +488,12 @@ const shows = [
         "audioUrl": "audio/breaking-bad/015_feel_very_foolish.mp3"
       },
       {
-        "text": "From what I can tell, you are just a drug addict.",
+        "text": "You're just a drug addict",
         "character": "",
         "audioUrl": "audio/breaking-bad/016_from_what_i_can_tell_you_are_just_a_drug_addict.mp3"
       },
       {
-        "text": "Fuck you and your eyebrows.",
+        "text": "Fuck you and your eyebrows",
         "character": "",
         "audioUrl": "audio/breaking-bad/017_fuck_you_and_your_eyebrows.mp3"
       },
@@ -508,17 +508,17 @@ const shows = [
         "audioUrl": "audio/breaking-bad/019_have_a_seat.mp3"
       },
       {
-        "text": "He's got a bug up his butt.",
+        "text": "He's got a bug up his butt",
         "character": "",
         "audioUrl": "audio/breaking-bad/020_he_s_got_a_bug_up_his_butt.mp3"
       },
       {
-        "text": "Hiding money it's buried down here.",
+        "text": "Money's buried down here",
         "character": "",
         "audioUrl": "audio/breaking-bad/021_hiding_money_it_s_buried_down_here.mp3"
       },
       {
-        "text": "Honestly, I never expected you to amount to much.",
+        "text": "Never expected you to amount to much",
         "character": "",
         "audioUrl": "audio/breaking-bad/022_honestly_i_never_expected_you_to_amount_to_much.mp3"
       },
@@ -538,17 +538,17 @@ const shows = [
         "audioUrl": "audio/breaking-bad/025_i_didn_t_picture_that.mp3"
       },
       {
-        "text": "I feel like you're upset with me because you think that I'm up to something.",
+        "text": "You think I'm up to something",
         "character": "",
         "audioUrl": "audio/breaking-bad/026_i_feel_like_you_re_upset_with_me_because_you_think_that_i_m.mp3"
       },
       {
-        "text": "I need you to go into your bedroom right now and grab anything that's important you understand. Go now both of you go.",
+        "text": "Grab anything important, go now",
         "character": "",
         "audioUrl": "audio/breaking-bad/027_i_need_you_to_go_into_your_bedroom_right_now_and_grab_anythi.mp3"
       },
       {
-        "text": "I saw your setup is ridiculous. You and I will not make garbage.",
+        "text": "We will not make garbage",
         "character": "",
         "audioUrl": "audio/breaking-bad/028_i_saw_your_setup_is_ridiculous_you_and_i_will_not_make_garba.mp3"
       },
@@ -558,22 +558,22 @@ const shows = [
         "audioUrl": "audio/breaking-bad/029_i_tried_to_save_it.mp3"
       },
       {
-        "text": "I warned you for a solid year. You cross me. There will be consequences. What part of that didn't you understand?",
+        "text": "There will be consequences",
         "character": "",
         "audioUrl": "audio/breaking-bad/030_i_warned_you_for_a_solid_year_you_cross_me_there_will_be_con.mp3"
       },
       {
-        "text": "I was told that the man I would be meeting with his very careful cautious man. I believe we're alike in that way. If you are who I think you are, you should give me another chance.",
+        "text": "Give me another chance",
         "character": "",
         "audioUrl": "audio/breaking-bad/031_i_was_told_that_the_man_i_would_be_meeting_with_his_very_car.mp3"
       },
       {
-        "text": "I would like to know why you wouldn't meet with me yesterday.",
+        "text": "Why wouldn't you meet me?",
         "character": "",
         "audioUrl": "audio/breaking-bad/032_i_would_like_to_know_why_you_wouldn_t_meet_with_me_yesterday.mp3"
       },
       {
-        "text": "I've still got things left to do.",
+        "text": "I've still got things to do",
         "character": "",
         "audioUrl": "audio/breaking-bad/033_i_ve_still_got_things_left_to_do.mp3"
       },
@@ -603,37 +603,37 @@ const shows = [
         "audioUrl": "audio/breaking-bad/038_just_listen_to_me.mp3"
       },
       {
-        "text": "Keep your damn mouth shut.",
+        "text": "Keep your damn mouth shut",
         "character": "",
         "audioUrl": "audio/breaking-bad/039_keep_your_damn_mouth_shut.mp3"
       },
       {
-        "text": "Left hand and your right hand are mirror images of one another, right? Identical and yet opposite. Well, so two organic compounds can exist as mere image forms of one another, all the way down at t...",
+        "text": "Mirror images of one another",
         "character": "",
         "audioUrl": "audio/breaking-bad/040_left_hand_and_your_right_hand_are_mirror_images_of_one_anoth.mp3"
       },
       {
-        "text": "Let me know when you're ready and I'll I'll give you a holler.",
+        "text": "I'll give you a holler",
         "character": "",
         "audioUrl": "audio/breaking-bad/041_let_me_know_when_you_re_ready_and_i_ll_i_ll_give_you_a_holle.mp3"
       },
       {
-        "text": "Lingering on things doesn't help. Believe me, just try and focus on getting better, OK?",
+        "text": "Focus on getting better",
         "character": "",
         "audioUrl": "audio/breaking-bad/042_lingering_on_things_doesn_t_help_believe_me_just_try_and_foc.mp3"
       },
       {
-        "text": "Listen, I am having breakfast with my family right now and I really don't appreciate these sales calls.",
+        "text": "I don't appreciate these sales calls",
         "character": "",
         "audioUrl": "audio/breaking-bad/043_listen_i_am_having_breakfast_with_my_family_right_now_and_i.mp3"
       },
       {
-        "text": "Listen, that is just not going to work for me. I'm not interested in that at all.",
+        "text": "That's not going to work for me",
         "character": "",
         "audioUrl": "audio/breaking-bad/044_listen_that_is_just_not_going_to_work_for_me_i_m_not_interes.mp3"
       },
       {
-        "text": "Look at the bottom for a triangle.",
+        "text": "Look at the bottom for a triangle",
         "character": "",
         "audioUrl": "audio/breaking-bad/045_look_at_the_bottom_for_a_triangle.mp3"
       },
@@ -658,7 +658,7 @@ const shows = [
         "audioUrl": "audio/breaking-bad/049_no.mp3"
       },
       {
-        "text": "Not a conversation. I'm even remotely ready to have.",
+        "text": "Not a conversation I'm ready for",
         "character": "",
         "audioUrl": "audio/breaking-bad/050_not_a_conversation_i_m_even_remotely_ready_to_have.mp3"
       },
@@ -668,7 +668,7 @@ const shows = [
         "audioUrl": "audio/breaking-bad/051_not_anymore.mp3"
       },
       {
-        "text": "Now, even the small busted girls have cleavage.",
+        "text": "Now even small busted girls have cleavage",
         "character": "",
         "audioUrl": "audio/breaking-bad/052_now_even_the_small_busted_girls_have_cleavage.mp3"
       },
@@ -678,17 +678,17 @@ const shows = [
         "audioUrl": "audio/breaking-bad/053_of_course_i_am.mp3"
       },
       {
-        "text": "Oh no. Well what you have to stop you have to stop this, it's immoral. It's illegal. Someone might get hurt. You're always whining and complaining about how I make my money just dragging me down wh...",
+        "text": "It's immoral, it's illegal",
         "character": "",
         "audioUrl": "audio/breaking-bad/054_oh_no_well_what_you_have_to_stop_you_have_to_stop_this_it_s.mp3"
       },
       {
-        "text": "OK, can you at least tell me why?",
+        "text": "Can you tell me why?",
         "character": "",
         "audioUrl": "audio/breaking-bad/055_ok_can_you_at_least_tell_me_why.mp3"
       },
       {
-        "text": "Please just work with me here and I promise I will explain everything later.",
+        "text": "I'll explain everything later",
         "character": "",
         "audioUrl": "audio/breaking-bad/056_please_just_work_with_me_here_and_i_promise_i_will_explain_e.mp3"
       },
@@ -698,12 +698,12 @@ const shows = [
         "audioUrl": "audio/breaking-bad/057_please.mp3"
       },
       {
-        "text": "Put the knife down, please.",
+        "text": "Put the knife down, please",
         "character": "",
         "audioUrl": "audio/breaking-bad/058_put_the_knife_down_please.mp3"
       },
       {
-        "text": "Put your arms around me, Jenna stand up. We're going to look at it, yeah, OK? We're going to take you someplace nice and safe that's it, that's it let's go come on, here we go.",
+        "text": "Somewhere nice and safe",
         "character": "",
         "audioUrl": "audio/breaking-bad/059_put_your_arms_around_me_jenna_stand_up_we_re_going_to_look_a.mp3"
       },
@@ -718,12 +718,12 @@ const shows = [
         "audioUrl": "audio/breaking-bad/061_shut_up.mp3"
       },
       {
-        "text": "So I suggest let you go, then just unlock you and audios.",
+        "text": "Unlock you and adios",
         "character": "",
         "audioUrl": "audio/breaking-bad/062_so_i_suggest_let_you_go_then_just_unlock_you_and_audios.mp3"
       },
       {
-        "text": "Sorry, I'll do it tomorrow, I promise.",
+        "text": "I'll do it tomorrow, I promise",
         "character": "",
         "audioUrl": "audio/breaking-bad/063_sorry_i_ll_do_it_tomorrow_i_promise.mp3"
       },
@@ -753,17 +753,17 @@ const shows = [
         "audioUrl": "audio/breaking-bad/068_there_s_no_net.mp3"
       },
       {
-        "text": "This is between him and me.",
+        "text": "This is between him and me",
         "character": "",
         "audioUrl": "audio/breaking-bad/069_this_is_between_him_and_me.mp3"
       },
       {
-        "text": "This is Walter White breaking.",
+        "text": "This is Walter White breaking",
         "character": "",
         "audioUrl": "audio/breaking-bad/070_this_is_walter_white_breaking.mp3"
       },
       {
-        "text": "Volume metric flask is for general mixing and titration. You wouldn't apply heat through volume metric flask. That's what a boiling flask is for. Did you learn nothing from my chemistry class?",
+        "text": "Did you learn nothing in my class?",
         "character": "",
         "audioUrl": "audio/breaking-bad/071_volume_metric_flask_is_for_general_mixing_and_titration_you.mp3"
       },
@@ -783,12 +783,12 @@ const shows = [
         "audioUrl": "audio/breaking-bad/074_what_does_your_dad_do.mp3"
       },
       {
-        "text": "What I need is for you to climb down out of my ass.",
+        "text": "Climb down out of my ass",
         "character": "",
         "audioUrl": "audio/breaking-bad/075_what_i_need_is_for_you_to_climb_down_out_of_my_ass.mp3"
       },
       {
-        "text": "What is his reputation for violence?",
+        "text": "His reputation for violence?",
         "character": "",
         "audioUrl": "audio/breaking-bad/076_what_is_his_reputation_for_violence.mp3"
       },
@@ -803,32 +803,32 @@ const shows = [
         "audioUrl": "audio/breaking-bad/078_what_the_hell_is_wrong_with_you.mp3"
       },
       {
-        "text": "What the hell is wrong with you? I'm I'm really asking.",
+        "text": "I'm really asking",
         "character": "",
         "audioUrl": "audio/breaking-bad/079_what_the_hell_is_wrong_with_you_i_m_i_m_really_asking.mp3"
       },
       {
-        "text": "Who are you talking to right now? Do you know how much I make a year? I mean, even if I told you you wouldn't believe it, do you know what would happen if I suddenly decided to stop going into work...",
+        "text": "Do you know how much I make?",
         "character": "",
         "audioUrl": "audio/breaking-bad/080_who_are_you_talking_to_right_now_do_you_know_how_much_i_make.mp3"
       },
       {
-        "text": "Will you do that for me, honey, will you please just once get off my ass?",
+        "text": "Get off my ass",
         "character": "",
         "audioUrl": "audio/breaking-bad/081_will_you_do_that_for_me_honey_will_you_please_just_once_get.mp3"
       },
       {
-        "text": "Wish wait a minute, listen to me I'll teach you my recipe but he said you want to cook like me.",
+        "text": "I'll teach you my recipe",
         "character": "",
         "audioUrl": "audio/breaking-bad/082_wish_wait_a_minute_listen_to_me_i_ll_teach_you_my_recipe_but.mp3"
       },
       {
-        "text": "Wow, I don't know what this stuff is, but it's pretty great.",
+        "text": "It's pretty great",
         "character": "",
         "audioUrl": "audio/breaking-bad/083_wow_i_don_t_know_what_this_stuff_is_but_it_s_pretty_great.mp3"
       },
       {
-        "text": "Yeah no, I remember that.",
+        "text": "Yeah, I remember that",
         "character": "",
         "audioUrl": "audio/breaking-bad/084_yeah_no_i_remember_that.mp3"
       },
@@ -843,7 +843,7 @@ const shows = [
         "audioUrl": "audio/breaking-bad/086_yes_absolutely.mp3"
       },
       {
-        "text": "Yes, I would of course I would.",
+        "text": "Of course I would",
         "character": "",
         "audioUrl": "audio/breaking-bad/087_yes_i_would_of_course_i_would.mp3"
       },
@@ -868,37 +868,37 @@ const shows = [
         "audioUrl": "audio/breaking-bad/091_yes.mp3"
       },
       {
-        "text": "You all know exactly who I am.",
+        "text": "You all know exactly who I am",
         "character": "",
         "audioUrl": "audio/breaking-bad/092_you_all_know_exactly_who_i_am.mp3"
       },
       {
-        "text": "You and I could partner up.",
+        "text": "You and I could partner up",
         "character": "",
         "audioUrl": "audio/breaking-bad/093_you_and_i_could_partner_up.mp3"
       },
       {
-        "text": "You are a pathetic junkie. Too stupid to understand and follow simple rudimentary instructions.",
+        "text": "You are a pathetic junkie",
         "character": "",
         "audioUrl": "audio/breaking-bad/094_you_are_a_pathetic_junkie_too_stupid_to_understand_and_follo.mp3"
       },
       {
-        "text": "You are not good at all.",
+        "text": "You are not good at all",
         "character": "",
         "audioUrl": "audio/breaking-bad/095_you_are_not_good_at_all.mp3"
       },
       {
-        "text": "You better not be saying what I think you're saying.",
+        "text": "Don't say what I think",
         "character": "",
         "audioUrl": "audio/breaking-bad/096_you_better_not_be_saying_what_i_think_you_re_saying.mp3"
       },
       {
-        "text": "You can have any future that you want.",
+        "text": "Any future that you want",
         "character": "",
         "audioUrl": "audio/breaking-bad/097_you_can_have_any_future_that_you_want.mp3"
       },
       {
-        "text": "You could charge twice the current rate for what I provide an your customers would pay it.",
+        "text": "Charge twice the rate",
         "character": "",
         "audioUrl": "audio/breaking-bad/098_you_could_charge_twice_the_current_rate_for_what_i_provide_a.mp3"
       },
@@ -908,7 +908,7 @@ const shows = [
         "audioUrl": "audio/breaking-bad/099_you_got_nothing.mp3"
       },
       {
-        "text": "You lost your partner today.",
+        "text": "You lost your partner today",
         "character": "",
         "audioUrl": "audio/breaking-bad/100_you_lost_your_partner_today.mp3"
       },
@@ -918,7 +918,7 @@ const shows = [
         "audioUrl": "audio/breaking-bad/101_you_stupid_bitch.mp3"
       },
       {
-        "text": "You wouldn't cook in one of these.",
+        "text": "You wouldn't cook in one of these",
         "character": "",
         "audioUrl": "audio/breaking-bad/102_you_wouldn_t_cook_in_one_of_these.mp3"
       },
@@ -928,72 +928,72 @@ const shows = [
         "audioUrl": "audio/breaking-bad/103_you_re_god_damn_right.mp3"
       },
       {
-        "text": "$80 million.",
+        "text": "$80 million",
         "character": "",
         "audioUrl": "audio/breaking-bad/104_80_million.mp3"
       },
       {
-        "text": "$90,000.",
+        "text": "$90,000",
         "character": "",
         "audioUrl": "audio/breaking-bad/105_90_000.mp3"
       },
       {
-        "text": "Aah. God. Jesus. God. Shut up. Oh, wow.",
+        "text": "Jesus, God, shut up",
         "character": "",
         "audioUrl": "audio/breaking-bad/106_aah_god_jesus_god_shut_up_oh_wow.mp3"
       },
       {
-        "text": "Among the gangsters The gringos' fame is inflated. 'Cause of the new drug they created",
+        "text": "The gringo's fame (corrido)",
         "character": "",
         "audioUrl": "audio/breaking-bad/107_among_the_gangsters_the_gringos_fame_is_inflated_cause_of_th.mp3"
       },
       {
-        "text": "Are they back yet? Have you heard from anyone? lf Pinkman is gone... ...l'm done. Do you understand? l quit.",
+        "text": "If Pinkman is gone, I quit",
         "character": "",
         "audioUrl": "audio/breaking-bad/108_are_they_back_yet_have_you_heard_from_anyone_lf_pinkman_is_g.mp3"
       },
       {
-        "text": "But-- But-- What are you doing, buddy? Leaving. You gotta go inside, order something like last time. Avoid suspicion. Besides, I want a vanilla shake. We'll use the drive through.",
+        "text": "I want a vanilla shake",
         "character": "",
         "audioUrl": "audio/breaking-bad/110_but_but_what_are_you_doing_buddy_leaving_you_gotta_go_inside.mp3"
       },
       {
-        "text": "Can I get you anything else? Nope. Thanks, darling. I'm ready for the check.",
+        "text": "I'm ready for the check",
         "character": "",
         "audioUrl": "audio/breaking-bad/111_can_i_get_you_anything_else_nope_thanks_darling_i_m_ready_fo.mp3"
       },
       {
-        "text": "Can't we just dump them here? What, and somebody finds them? Then what? People have seen us.",
+        "text": "Can't we just dump them?",
         "character": "",
         "audioUrl": "audio/breaking-bad/112_can_t_we_just_dump_them_here_what_and_somebody_finds_them_th.mp3"
       },
       {
-        "text": "Christ. Longest week ever. Ha ha. Here's just hoping we get something good. Keep your fingers crossed. Relax, buddy, this ain't no spy movie. It's more like Rocky, you know?",
+        "text": "It's more like Rocky",
         "character": "",
         "audioUrl": "audio/breaking-bad/113_christ_longest_week_ever_ha_ha_here_s_just_hoping_we_get_som.mp3"
       },
       {
-        "text": "Come on. Come... Come on. Come on, baby. Please, please. Come on, come on. Come on!",
+        "text": "Come on, baby, please",
         "character": "",
         "audioUrl": "audio/breaking-bad/114_come_on_come_come_on_come_on_baby_please_please_come_on_come.mp3"
       },
       {
-        "text": "Damn, man! Look at that! Look! Yeah, that's messed up. Okay, Heisenberg. Next week.",
+        "text": "Okay, Heisenberg. Next week.",
         "character": "",
         "audioUrl": "audio/breaking-bad/115_damn_man_look_at_that_look_yeah_that_s_messed_up_okay_heisen.mp3"
       },
       {
-        "text": "Dude, this isn't even 7 grand. My guy wants 85. This is all the money I have in the world. You are a drug dealer. Negotiate. Buy the RV. We start tomorrow.",
+        "text": "Buy the RV, we start tomorrow",
         "character": "",
         "audioUrl": "audio/breaking-bad/116_dude_this_isn_t_even_7_grand_my_guy_wants_85_this_is_all_the.mp3"
       },
       {
-        "text": "Ever try it? I smoke pot a lot sometimes. I party. But... But that stuff's really addictive, right? Not really. It's just a media thing. You know? What's it like?",
+        "text": "I smoke pot sometimes",
         "character": "",
         "audioUrl": "audio/breaking-bad/117_ever_try_it_i_smoke_pot_a_lot_sometimes_i_party_but_but_that.mp3"
       },
       {
-        "text": "Excuse me. Skyler White? - 307. - Thank you.",
+        "text": "Skyler White? 307",
         "character": "",
         "audioUrl": "audio/breaking-bad/118_excuse_me_skyler_white_307_thank_you.mp3"
       },
@@ -1008,32 +1008,32 @@ const shows = [
         "audioUrl": "audio/breaking-bad/120_get_that_hey.mp3"
       },
       {
-        "text": "Get the bad guy. Yeah! ♪ 'Cause it's the eye of the tiger It's the thrill of the fight ♪ ♪ Rising up ♪♪",
+        "text": "Eye of the tiger",
         "character": "",
         "audioUrl": "audio/breaking-bad/121_get_the_bad_guy_yeah_cause_it_s_the_eye_of_the_tiger_it_s_th.mp3"
       },
       {
-        "text": "He a no show? Why didn't you c--? You and him-- you took it right out of my pocket. The ricin cigarette! And all for Mr. White!? He poisoned Brock and you helped him!",
+        "text": "He poisoned Brock",
         "character": "",
         "audioUrl": "audio/breaking-bad/122_he_a_no_show_why_didn_t_you_c_you_and_him_you_took_it_right.mp3"
       },
       {
-        "text": "Heisenberg says relax. I'm relaxed. I'm relaxed. I'm rela...",
+        "text": "Heisenberg says relax",
         "character": "",
         "audioUrl": "audio/breaking-bad/123_heisenberg_says_relax_i_m_relaxed_i_m_relaxed_i_m_rela.mp3"
       },
       {
-        "text": "Heisenberg's fame has got Down to Michoacan. From way far away They want to taste that meth. That blue stuff has crossed the border.",
+        "text": "Blue stuff crossed the border",
         "character": "",
         "audioUrl": "audio/breaking-bad/124_heisenberg_s_fame_has_got_down_to_michoacan_from_way_far_awa.mp3"
       },
       {
-        "text": "Here you go, Ms. Quayle. Lydia. Thank you.",
+        "text": "Here you go, Lydia",
         "character": "",
         "audioUrl": "audio/breaking-bad/125_here_you_go_ms_quayle_lydia_thank_you.mp3"
       },
       {
-        "text": "Hey, Captain America. - What's up, brother? - Hey, bro.",
+        "text": "Hey, Captain America",
         "character": "",
         "audioUrl": "audio/breaking-bad/126_hey_captain_america_what_s_up_brother_hey_bro.mp3"
       },
@@ -1043,107 +1043,107 @@ const shows = [
         "audioUrl": "audio/breaking-bad/127_hey_dennis_have_a_seat.mp3"
       },
       {
-        "text": "Hey! Hey! Hey! What about him? What about him?",
+        "text": "What about him?",
         "character": "",
         "audioUrl": "audio/breaking-bad/128_hey_hey_hey_what_about_him_what_about_him.mp3"
       },
       {
-        "text": "Hey. Someone. Help. Assistance. This man needs help. This man pays my salary.",
+        "text": "This man pays my salary",
         "character": "",
         "audioUrl": "audio/breaking-bad/129_hey_someone_help_assistance_this_man_needs_help_this_man_pay.mp3"
       },
       {
-        "text": "Hi. You've reached the White family. Please leave a message. Hey. lt's me. l.... l just wanted to say that l was thinking about you and the kids, and.... l love you.",
+        "text": "You've reached the White family",
         "character": "",
         "audioUrl": "audio/breaking-bad/130_hi_you_ve_reached_the_white_family_please_leave_a_message_he.mp3"
       },
       {
-        "text": "How big's the batch? Should be about 50 pounds, give or take. Uncle Jack, that mask, I think you should... Mr. White said the fumes aren't good to breathe. Let me worry about what I breathe, kid. Just hurry this up so I can grab a smoke. Ahem.",
+        "text": "About 50 pounds, give or take",
         "character": "",
         "audioUrl": "audio/breaking-bad/131_how_big_s_the_batch_should_be_about_50_pounds_give_or_take_u.mp3"
       },
       {
-        "text": "I am awake. You are not how I remember you from class. Like, not at all.",
+        "text": "Not how I remember you",
         "character": "",
         "audioUrl": "audio/breaking-bad/132_i_am_awake_you_are_not_how_i_remember_you_from_class_like_no.mp3"
       },
       {
-        "text": "I got your word this won't wind up crossing the border? It's never leaving town. Is there a manual? Instruction manual? I pulled something off the Internet. It's in there. Well... ...good luck, I guess.",
+        "text": "It's never leaving town",
         "character": "",
         "audioUrl": "audio/breaking-bad/133_i_got_your_word_this_won_t_wind_up_crossing_the_border_it_s.mp3"
       },
       {
-        "text": "It's a bold plan, Mr. White. You sure this is the way to go? Yeah.",
+        "text": "It's a bold plan, Mr. White",
         "character": "",
         "audioUrl": "audio/breaking-bad/135_it_s_a_bold_plan_mr_white_you_sure_this_is_the_way_to_go_yea.mp3"
       },
       {
-        "text": "It's an actual store. Mm hm. I guess I figured \"vacuum cleaner repair\" was a term of art. If you would step right here on this blue spot. Leave your luggage where it is for the moment.",
+        "text": "Step on the blue spot",
         "character": "",
         "audioUrl": "audio/breaking-bad/136_it_s_an_actual_store_mm_hm_i_guess_i_figured_vacuum_cleaner.mp3"
       },
       {
-        "text": "It's awesome. Everything's. maximum interesting. You get these. really cold and sharp like action dagger feelings. It's awesome. Come on. What do you say?",
+        "text": "Maximum interesting",
         "character": "",
         "audioUrl": "audio/breaking-bad/137_it_s_awesome_everything_s_maximum_interesting_you_get_these.mp3"
       },
       {
-        "text": "It's pretty cool the way they do that. They just turn a car into a cube.",
+        "text": "Turn a car into a cube",
         "character": "",
         "audioUrl": "audio/breaking-bad/138_it_s_pretty_cool_the_way_they_do_that_they_just_turn_a_car_i.mp3"
       },
       {
-        "text": "Jesse!? Jesse! You show yourself right now!",
+        "text": "Jesse, show yourself!",
         "character": "",
         "audioUrl": "audio/breaking-bad/139_jesse_jesse_you_show_yourself_right_now.mp3"
       },
       {
-        "text": "Just get me home. Just get me home. I'll do the rest.",
+        "text": "Just get me home",
         "character": "",
         "audioUrl": "audio/breaking-bad/140_just_get_me_home_just_get_me_home_i_ll_do_the_rest.mp3"
       },
       {
-        "text": "KDK 12 here. Janet, Jesus, we got a homicide. - Come again? - Miss Peyketewa, she's dead. - I need some backup out here. - On their way.",
+        "text": "We got a homicide",
         "character": "",
         "audioUrl": "audio/breaking-bad/141_kdk_12_here_janet_jesus_we_got_a_homicide_come_again_miss_pe.mp3"
       },
       {
-        "text": "KDK 12, come in. KDK 12. KDK 12. Need you to look in on Mrs. Peyketewa. She all right? Her daughter called from California, she hasn't heard from her in a while, kind of worried. Will do.",
+        "text": "KDK 12, come in",
         "character": "",
         "audioUrl": "audio/breaking-bad/142_kdk_12_come_in_kdk_12_kdk_12_need_you_to_look_in_on_mrs_peyk.mp3"
       },
       {
-        "text": "L can hear your cell phone ringing. This is ridiculous. l can't....",
+        "text": "I can hear your phone ringing",
         "character": "",
         "audioUrl": "audio/breaking-bad/143_l_can_hear_your_cell_phone_ringing_this_is_ridiculous_l_can.mp3"
       },
       {
-        "text": "L just told you, 40.23 pounds. Forty point two one.",
+        "text": "40.23 pounds",
         "character": "",
         "audioUrl": "audio/breaking-bad/144_l_just_told_you_40_23_pounds_forty_point_two_one.mp3"
       },
       {
-        "text": "L'm not leaving. Walt, l'm not leaving. Oh, my God.",
+        "text": "I'm not leaving, Walt",
         "character": "",
         "audioUrl": "audio/breaking-bad/145_l_m_not_leaving_walt_l_m_not_leaving_oh_my_god.mp3"
       },
       {
-        "text": "Like I said, we couldn't be more grateful.",
+        "text": "We couldn't be more grateful",
         "character": "",
         "audioUrl": "audio/breaking-bad/146_like_i_said_we_couldn_t_be_more_grateful.mp3"
       },
       {
-        "text": "Look, I can't leave my house... ...for more than 20 minutes without my wife worrying. I need time to mend fences. Okay, so while you're fixing fences, what about me, huh? Your A hole brother in law took all my money.",
+        "text": "I need to mend fences",
         "character": "",
         "audioUrl": "audio/breaking-bad/147_look_i_can_t_leave_my_house_for_more_than_20_minutes_without.mp3"
       },
       {
-        "text": "Lt came out of nowhere. You gotta help us. -Look at all this damn water. -Don't drink that. Ain't no telling if it's gonna be poison.",
+        "text": "Don't drink that water",
         "character": "",
         "audioUrl": "audio/breaking-bad/148_lt_came_out_of_nowhere_you_gotta_help_us_look_at_all_this_da.mp3"
       },
       {
-        "text": "Mr. White, the car's been dealt with, sir. No one tailed you? No, I stayed off the main streets and kept checking, so... Joe ask any questions? I told him RV job, just like you said, and he totally knew.",
+        "text": "The car's been dealt with",
         "character": "",
         "audioUrl": "audio/breaking-bad/149_mr_white_the_car_s_been_dealt_with_sir_no_one_tailed_you_no.mp3"
       },
@@ -1153,82 +1153,82 @@ const shows = [
         "audioUrl": "audio/breaking-bad/150_mr_white_hello.mp3"
       },
       {
-        "text": "New Hampshire. You're a long way from home. How long a drive is that? About 30 hours, if all you stop for is gas. You headed to California? No. Here. Okay. So, what's here?",
+        "text": "A long way from home",
         "character": "",
         "audioUrl": "audio/breaking-bad/151_new_hampshire_you_re_a_long_way_from_home_how_long_a_drive_i.mp3"
       },
       {
-        "text": "No matter what happens, no more bloodshed. No violence.",
+        "text": "No more bloodshed",
         "character": "",
         "audioUrl": "audio/breaking-bad/152_no_matter_what_happens_no_more_bloodshed_no_violence.mp3"
       },
       {
-        "text": "No, no, no. Not in here. Duh. Like I'm an idiot. Yeah. Like you're an idiot. Dick.",
+        "text": "Like I'm an idiot. Dick.",
         "character": "",
         "audioUrl": "audio/breaking-bad/153_no_no_no_not_in_here_duh_like_i_m_an_idiot_yeah_like_you_re.mp3"
       },
       {
-        "text": "Oh, God. Oh, my God. Oh, my God. Oh, my God. Think, think, think. Oh, my gosh.",
+        "text": "Think, think, think",
         "character": "",
         "audioUrl": "audio/breaking-bad/154_oh_god_oh_my_god_oh_my_god_oh_my_god_think_think_think_oh_my.mp3"
       },
       {
-        "text": "Oh, my God. Christ! Shit.",
+        "text": "Oh my God. Shit.",
         "character": "",
         "audioUrl": "audio/breaking-bad/155_oh_my_god_christ_shit.mp3"
       },
       {
-        "text": "Oh, thank you. Now... ...what are you supposed to do today? - Nothing. - Excellent. Brownie points for taking a nap.",
+        "text": "Brownie points for a nap",
         "character": "",
         "audioUrl": "audio/breaking-bad/156_oh_thank_you_now_what_are_you_supposed_to_do_today_nothing_e.mp3"
       },
       {
-        "text": "Okay. Come on, come on, come on. Come on. My name is Walter Hartwell White. I live at 308 Negra Arroyo Lane, Albuquerque, New Mexico, 87104. To all law enforcement entities, this is not an admission of guilt. I am speaking to my family now.",
+        "text": "My name is Walter Hartwell White",
         "character": "",
         "audioUrl": "audio/breaking-bad/157_okay_come_on_come_on_come_on_come_on_my_name_is_walter_hartw.mp3"
       },
       {
-        "text": "Ooh. Ow. Okay. Okay. Okay. Oh, wow. Where did that come from? And why was it so damn good? Because it was illegal.",
+        "text": "Because it was illegal",
         "character": "",
         "audioUrl": "audio/breaking-bad/158_ooh_ow_okay_okay_okay_oh_wow_where_did_that_come_from_and_wh.mp3"
       },
       {
-        "text": "Previously on AMC's Breaking Bad... You need me gone, 'cause your brother in law is never gonna let up. Excuse me...",
+        "text": "Previously on Breaking Bad",
         "character": "",
         "audioUrl": "audio/breaking-bad/160_previously_on_amc_s_breaking_bad_you_need_me_gone_cause_your.mp3"
       },
       {
-        "text": "Saul Goodman: Better call Saul!",
+        "text": "Better call Saul!",
         "character": "",
         "audioUrl": "audio/breaking-bad/161_saul_goodman_better_call_saul.mp3"
       },
       {
-        "text": "Sir, you can go back to your changing room and get dressed. - So how'd we do? - You did fine. - See anything? - I'm just a technician, Mr. White. Dr. Delcavoli will go over the results with you next week. Sorry.",
+        "text": "Dr. Delcavoli has your results",
         "character": "",
         "audioUrl": "audio/breaking-bad/163_sir_you_can_go_back_to_your_changing_room_and_get_dressed_so.mp3"
       },
       {
-        "text": "Skyler, I'm so sorry. I'm just... Are you okay? Meet your daughter.",
+        "text": "Meet your daughter",
         "character": "",
         "audioUrl": "audio/breaking-bad/164_skyler_i_m_so_sorry_i_m_just_are_you_okay_meet_your_daughter.mp3"
       },
       {
-        "text": "So should we deal with this other thing now?",
+        "text": "Deal with this other thing?",
         "character": "",
         "audioUrl": "audio/breaking-bad/165_so_should_we_deal_with_this_other_thing_now.mp3"
       },
       {
-        "text": "Sorry I'm late, man. Damn, brother, look at you. That's messed up. How are you feeling? You okay? Actually... I'm great. Subtitles: Breys, Michvanilly.",
+        "text": "Damn, look at you",
         "character": "",
         "audioUrl": "audio/breaking-bad/166_sorry_i_m_late_man_damn_brother_look_at_you_that_s_messed_up.mp3"
       },
       {
-        "text": "That good? Sure. What about this? I'll Photoshop that out.",
+        "text": "I'll Photoshop that out",
         "character": "",
         "audioUrl": "audio/breaking-bad/167_that_good_sure_what_about_this_i_ll_photoshop_that_out.mp3"
       },
       {
-        "text": "The city's called Duke The state's called New Mexico.",
+        "text": "The state's called New Mexico",
         "character": "",
         "audioUrl": "audio/breaking-bad/169_the_city_s_called_duke_the_state_s_called_new_mexico.mp3"
       },
@@ -1238,42 +1238,42 @@ const shows = [
         "audioUrl": "audio/breaking-bad/170_there_that_s_them.mp3"
       },
       {
-        "text": "They say the color is blue And the quality pure.",
+        "text": "The color is blue",
         "character": "",
         "audioUrl": "audio/breaking-bad/171_they_say_the_color_is_blue_and_the_quality_pure.mp3"
       },
       {
-        "text": "This man pays my salary.",
+        "text": "This man pays my salary",
         "character": "",
         "audioUrl": "audio/breaking-bad/173_this_man_pays_my_salary.mp3"
       },
       {
-        "text": "Tight, tight, tight. Yeah. Blue, yellow, pink, whatever, man, just keep bringing me that.",
+        "text": "Just keep bringing me that",
         "character": "",
         "audioUrl": "audio/breaking-bad/174_tight_tight_tight_yeah_blue_yellow_pink_whatever_man_just_ke.mp3"
       },
       {
-        "text": "We will find Hank. Steve too. They're out there, and we're gonna find them. You have my word. Sir.",
+        "text": "We will find Hank",
         "character": "",
         "audioUrl": "audio/breaking-bad/175_we_will_find_hank_steve_too_they_re_out_there_and_we_re_gonn.mp3"
       },
       {
-        "text": "What happened there? - It's my birthday. - Yeah? Well, happy birthday. Birthday meals are free at Denny's. All you gotta show is a valid ID. I'm good. Thanks. Really? Free meal. Free is good. Even if I was, like, rich, free is always good. Thank you. Okay.",
+        "text": "Free meal at Denny's",
         "character": "",
         "audioUrl": "audio/breaking-bad/176_what_happened_there_it_s_my_birthday_yeah_well_happy_birthda.mp3"
       },
       {
-        "text": "What is this? It's blue. We used a different chemical process, but it is every bit as pure. It may be blue, but it's the bomb.",
+        "text": "It may be blue, but it's the bomb",
         "character": "",
         "audioUrl": "audio/breaking-bad/178_what_is_this_it_s_blue_we_used_a_different_chemical_process.mp3"
       },
       {
-        "text": "What you need? You buying or you just stopping to envy? Yeah. Punk bitches.",
+        "text": "Punk bitches",
         "character": "",
         "audioUrl": "audio/breaking-bad/179_what_you_need_you_buying_or_you_just_stopping_to_envy_yeah_p.mp3"
       },
       {
-        "text": "Whoever's in there, show yourself right now.",
+        "text": "Show yourself right now",
         "character": "",
         "audioUrl": "audio/breaking-bad/180_whoever_s_in_there_show_yourself_right_now.mp3"
       },
@@ -1283,67 +1283,67 @@ const shows = [
         "audioUrl": "audio/breaking-bad/181_yeah_sure.mp3"
       },
       {
-        "text": "Yo, this way to savings. Save your dollar bills, y'all.",
+        "text": "This way to savings",
         "character": "",
         "audioUrl": "audio/breaking-bad/182_yo_this_way_to_savings_save_your_dollar_bills_y_all.mp3"
       },
       {
-        "text": "You all right in there? Yeah. Hey, you okay? Yes. I'm fine, thank you.",
+        "text": "You all right in there?",
         "character": "",
         "audioUrl": "audio/breaking-bad/183_you_all_right_in_there_yeah_hey_you_okay_yes_i_m_fine_thank.mp3"
       },
       {
-        "text": "You feeling good about cooking? Yeah. You'll be able to run your own lab? Do it up right? Yeah. For sure. I got this. All right. Let's make some money, then. I gotta hit the head.",
+        "text": "Let's make some money",
         "character": "",
         "audioUrl": "audio/breaking-bad/184_you_feeling_good_about_cooking_yeah_you_ll_be_able_to_run_yo.mp3"
       },
       {
-        "text": "You guys didn't tell me this stuff smells like cat piss.",
+        "text": "Smells like cat piss",
         "character": "",
         "audioUrl": "audio/breaking-bad/185_you_guys_didn_t_tell_me_this_stuff_smells_like_cat_piss.mp3"
       },
       {
-        "text": "You want me to open the doors? Here. The keys. Take them. Why you talking? No! No, no, no--.",
+        "text": "Take the keys",
         "character": "",
         "audioUrl": "audio/breaking-bad/186_you_want_me_to_open_the_doors_here_the_keys_take_them_why_yo.mp3"
       },
       {
-        "text": "You'll be okay waiting here by yourself? Whatever. Sir, if you'd like to smoke, you need to be another 20 feet from the door. So roll me further, bitch.",
+        "text": "Roll me further, bitch",
         "character": "",
         "audioUrl": "audio/breaking-bad/187_you_ll_be_okay_waiting_here_by_yourself_whatever_sir_if_you.mp3"
       },
       {
-        "text": "Your play, Walter. You're on your own.",
+        "text": "Your play, Walter",
         "character": "",
         "audioUrl": "audio/breaking-bad/188_your_play_walter_you_re_on_your_own.mp3"
       },
       {
-        "text": "- Hey, Darla. How you doing today? - Hey, Dan. - I'm looking for something in a Markowski. - That'd be Dennis Markowski? That's the one. Oh, and I've got my paralegal with me today. Paralegal? Coming up in the world. You know it.",
+        "text": "Looking for a Markowski",
         "character": "",
         "audioUrl": "audio/breaking-bad/189_hey_darla_how_you_doing_today_hey_dan_i_m_looking_for_somet.mp3"
       },
       {
-        "text": "- I don't want to talk about this. - Okay. It had to be done. Okay. All right.",
+        "text": "It had to be done",
         "character": "",
         "audioUrl": "audio/breaking-bad/190_i_don_t_want_to_talk_about_this_okay_it_had_to_be_done_okay.mp3"
       },
       {
-        "text": "- Oh, God. Please. - Oh, jeez. Please.",
+        "text": "Oh God, please",
         "character": "",
         "audioUrl": "audio/breaking-bad/191_oh_god_please_oh_jeez_please.mp3"
       },
       {
-        "text": "{\\pos(192,225)}So if it's okay, I was thinking {\\pos(192,225)}about using this one for the test. {\\pos(192,225)}Mom's brakes are very sticky... {\\pos(192,225)}and you barely press down on them, {\\pos(192,225)}and it's like a screech. {\\pos(192,225)}Sure. {\\pos(192,225)}But I'm good? {\\pos(192,225)}Yeah, you're great. {\\pos(192,225)}Why? {\\pos(192,225)}Are my feet okay?",
+        "text": "Using this one for the test",
         "character": "",
         "audioUrl": "audio/breaking-bad/193_pos_192_225_so_if_it_s_okay_i_was_thinking_pos_192_225_abou.mp3"
       },
       {
-        "text": "♪ I saddled up and away I did go ♪ ♪ riding alone in the dark ♪ ♪ maybe tomorrow a bullet may find me ♪ ♪ tonight nothing's worse than this pain in my heart ♪ ♪ and at last here I am on the hill overlooking ♪",
+        "text": "Riding alone in the dark",
         "character": "",
         "audioUrl": "audio/breaking-bad/194_i_saddled_up_and_away_i_did_go_riding_alone_in_the_dark_may.mp3"
       },
       {
-        "text": "♪ This way to savings This way to savings ♪ Come on! Save some money.",
+        "text": "This way to savings",
         "character": "",
         "audioUrl": "audio/breaking-bad/195_this_way_to_savings_this_way_to_savings_come_on_save_some_m.mp3"
       }
@@ -4161,7 +4161,7 @@ const shows = [
       "accent": "#f0d49c",
       "bg": "#1a0e05"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
         "text": "A dumbass boss",
@@ -4169,252 +4169,252 @@ const shows = [
         "audioUrl": "audio/that-70s-show/001_a_dumbass_boss.mp3"
       },
       {
-        "text": "And a promise ring is not only a gift from the heart. but it also means more sex and less mouthing off",
+        "text": "Promise ring means more sex",
         "character": "",
         "audioUrl": "audio/that-70s-show/004_and_a_promise_ring_is_not_only_a_gift_from_the_heart_but_it.mp3"
       },
       {
-        "text": "And she was drunk in the middle of the afternoon. It was like It was like Sue Ellen on Dallas.",
+        "text": "Like Sue Ellen on Dallas",
         "character": "",
         "audioUrl": "audio/that-70s-show/005_and_she_was_drunk_in_the_middle_of_the_afternoon_it_was_like.mp3"
       },
       {
-        "text": "Are going to the playboy club at lake geneva this weekend. Do you guys want souvenirs. Ooh ashtrays. A woman.",
+        "text": "Playboy club, Lake Geneva",
         "character": "",
         "audioUrl": "audio/that-70s-show/006_are_going_to_the_playboy_club_at_lake_geneva_this_weekend_do.mp3"
       },
       {
-        "text": "Damn. Oh kelso misses another one. I believe that's h o r. Ah you are a whore.",
+        "text": "You are a whore",
         "character": "",
         "audioUrl": "audio/that-70s-show/007_damn_oh_kelso_misses_another_one_i_believe_that_s_h_o_r_ah_y.mp3"
       },
       {
-        "text": "Guess who made out with pam macy behind the gym. Everyone.",
+        "text": "Made out with Pam Macy",
         "character": "",
         "audioUrl": "audio/that-70s-show/015_guess_who_made_out_with_pam_macy_behind_the_gym_everyone.mp3"
       },
       {
-        "text": "Hello house of chicken. How big are your wings. Breasts. Oh. How big are your breasts. This is fez who is this.",
+        "text": "How big are your breasts?",
         "character": "",
         "audioUrl": "audio/that-70s-show/016_hello_house_of_chicken_how_big_are_your_wings_breasts_oh_how.mp3"
       },
       {
-        "text": "Hey forman man this thing better be good. If I don't see some space jugs. I'm gonna be super pissed.",
+        "text": "I better see space jugs",
         "character": "",
         "audioUrl": "audio/that-70s-show/017_hey_forman_man_this_thing_better_be_good_if_i_don_t_see_some.mp3"
       },
       {
-        "text": "Hey L'Eggo my foot in your ass.",
+        "text": "L'Eggo my foot in your ass",
         "character": "",
         "audioUrl": "audio/that-70s-show/020_hey_l_eggo_my_foot_in_your_ass.mp3"
       },
       {
-        "text": "His head looks like a poodle's ass.",
+        "text": "Head like a poodle's ass",
         "character": "",
         "audioUrl": "audio/that-70s-show/021_his_head_looks_like_a_poodle_s_ass.mp3"
       },
       {
-        "text": "Horror movies turn on chicks faster than porno. Really faster than that. Yeah if only somebody would make a porno horror movie.",
+        "text": "A porno horror movie",
         "character": "",
         "audioUrl": "audio/that-70s-show/022_horror_movies_turn_on_chicks_faster_than_porno_really_faster.mp3"
       },
       {
-        "text": "I am so excited about star whores. Fezzie man it's star wars. Screw that.",
+        "text": "Star Whores",
         "character": "",
         "audioUrl": "audio/that-70s-show/023_i_am_so_excited_about_star_whores_fezzie_man_it_s_star_wars.mp3"
       },
       {
-        "text": "I don't know what's going on but that is the luckiest pizza boy ever.",
+        "text": "Luckiest pizza boy ever",
         "character": "",
         "audioUrl": "audio/that-70s-show/025_i_don_t_know_what_s_going_on_but_that_is_the_luckiest_pizza.mp3"
       },
       {
-        "text": "I was that close to a japanese machine. It was shooting at me.",
+        "text": "Japanese machine shooting at me",
         "character": "",
         "audioUrl": "audio/that-70s-show/028_i_was_that_close_to_a_japanese_machine_it_was_shooting_at_me.mp3"
       },
       {
-        "text": "I'm not a conspiracy nut okay. My history shop and gym teachers. secretly started that rumor to discredit me",
+        "text": "I'm not a conspiracy nut",
         "character": "",
         "audioUrl": "audio/that-70s-show/029_i_m_not_a_conspiracy_nut_okay_my_history_shop_and_gym_teache.mp3"
       },
       {
-        "text": "I've been working since I was 16. I fought in 2 wars. Hell I killed people. I'm not saying that I didn't enjoy it.",
+        "text": "I fought in 2 wars",
         "character": "",
         "audioUrl": "audio/that-70s-show/031_i_ve_been_working_since_i_was_16_i_fought_in_2_wars_hell_i_k.mp3"
       },
       {
-        "text": "If you ask me man UNICEF's a scam. If we ask you everything's a scam. Everything is a scam Oh lighten up.",
+        "text": "UNICEF's a scam",
         "character": "",
         "audioUrl": "audio/that-70s-show/032_if_you_ask_me_man_unicef_s_a_scam_if_we_ask_you_everything_s.mp3"
       },
       {
-        "text": "Is that kid from uh not america down here.",
+        "text": "That kid from not-America",
         "character": "",
         "audioUrl": "audio/that-70s-show/033_is_that_kid_from_uh_not_america_down_here.mp3"
       },
       {
-        "text": "Kitty why is it we always do what you wanna do and never do what I wanna do. It's in the Bible Laughs.",
+        "text": "It's in the Bible",
         "character": "",
         "audioUrl": "audio/that-70s-show/035_kitty_why_is_it_we_always_do_what_you_wanna_do_and_never_do.mp3"
       },
       {
-        "text": "Look at this Heart shaped sandwiches Donna's giving me sexy naps. As God is my witness I will never go hungry or horny again.",
+        "text": "Never hungry or horny again",
         "character": "",
         "audioUrl": "audio/that-70s-show/036_look_at_this_heart_shaped_sandwiches_donna_s_giving_me_sexy.mp3"
       },
       {
-        "text": "Looks like Shelly has a thing for Forman. Yes and Forman has a thing for Shelly. And it's in his pants.",
+        "text": "It's in his pants",
         "character": "",
         "audioUrl": "audio/that-70s-show/037_looks_like_shelly_has_a_thing_for_forman_yes_and_forman_has.mp3"
       },
       {
-        "text": "Mmm. Menthol. Eric, quit it. Yeah, okay. Let's go, forman.",
+        "text": "Mmm, menthol",
         "character": "",
         "audioUrl": "audio/that-70s-show/038_mmm_menthol_eric_quit_it_yeah_okay_let_s_go_forman.mp3"
       },
       {
-        "text": "My heart aches with pain. When I see you I vomit. Die away from me.",
+        "text": "When I see you, I vomit",
         "character": "",
         "audioUrl": "audio/that-70s-show/039_my_heart_aches_with_pain_when_i_see_you_i_vomit_die_away_fro.mp3"
       },
       {
-        "text": "Not to worry Kelso The Puberty Bunny will visit you soon.",
+        "text": "The Puberty Bunny",
         "character": "",
         "audioUrl": "audio/that-70s-show/040_not_to_worry_kelso_the_puberty_bunny_will_visit_you_soon.mp3"
       },
       {
-        "text": "Now I am off to spend the rest of my American money on candy and porno. But Fez I said candy and porno.",
+        "text": "Candy and porno",
         "character": "",
         "audioUrl": "audio/that-70s-show/041_now_i_am_off_to_spend_the_rest_of_my_american_money_on_candy.mp3"
       },
       {
-        "text": "Now stop it Help me with this crossword puzzle. I need a four letter word. for disappointment Eric. Gasps It fits.",
+        "text": "Four letter word for disappointment",
         "character": "",
         "audioUrl": "audio/that-70s-show/043_now_stop_it_help_me_with_this_crossword_puzzle_i_need_a_four.mp3"
       },
       {
-        "text": "Now stop it Help me with this crossword puzzle. I need a four letter word. for disappointment Eric. Gasps It fits.",
+        "text": "Disappointment — it fits",
         "character": "",
         "audioUrl": "audio/that-70s-show/044_now_stop_it_help_me_with_this_crossword_puzzle_i_need_a_four.mp3"
       },
       {
-        "text": "Oh hey we could take Fez to Chicago and peddle his ass for beer. I'm game.",
+        "text": "Peddle Fez's ass for beer",
         "character": "",
         "audioUrl": "audio/that-70s-show/046_oh_hey_we_could_take_fez_to_chicago_and_peddle_his_ass_for_b.mp3"
       },
       {
-        "text": "Oh that's a burn about a burn That's a second degree burn.",
+        "text": "A second degree burn",
         "character": "",
         "audioUrl": "audio/that-70s-show/048_oh_that_s_a_burn_about_a_burn_that_s_a_second_degree_burn.mp3"
       },
       {
-        "text": "Oh yeah Government pawns and missing limbs. That's amore.",
+        "text": "That's amore",
         "character": "",
         "audioUrl": "audio/that-70s-show/049_oh_yeah_government_pawns_and_missing_limbs_that_s_amore.mp3"
       },
       {
-        "text": "Ok. Here we go. Right hand, blue.",
+        "text": "Right hand, blue",
         "character": "",
         "audioUrl": "audio/that-70s-show/050_ok_here_we_go_right_hand_blue.mp3"
       },
       {
-        "text": "Plus you know I could get a date. I've got numbers buddy. Sure you do honey You're number one with me.",
+        "text": "Number one with me",
         "character": "",
         "audioUrl": "audio/that-70s-show/052_plus_you_know_i_could_get_a_date_i_ve_got_numbers_buddy_sure.mp3"
       },
       {
-        "text": "Poor forman huh working for red like that. I wouldn't wish that on my enemies. I would. Those suckers must pay.",
+        "text": "Those suckers must pay",
         "character": "",
         "audioUrl": "audio/that-70s-show/053_poor_forman_huh_working_for_red_like_that_i_wouldn_t_wish_th.mp3"
       },
       {
-        "text": "Red's mother is coming. What's that pet name she has for you. Whore.",
+        "text": "What's your pet name? Whore",
         "character": "",
         "audioUrl": "audio/that-70s-show/054_red_s_mother_is_coming_what_s_that_pet_name_she_has_for_you.mp3"
       },
       {
-        "text": "Responsible people don't go around getting. Their nipples twisted. See when you say it though. It just sounds weird.",
+        "text": "Nipples twisted",
         "character": "",
         "audioUrl": "audio/that-70s-show/055_responsible_people_don_t_go_around_getting_their_nipples_twi.mp3"
       },
       {
-        "text": "Stop being such a little girl and do something bad for once.",
+        "text": "Do something bad for once",
         "character": "",
         "audioUrl": "audio/that-70s-show/059_stop_being_such_a_little_girl_and_do_something_bad_for_once.mp3"
       },
       {
-        "text": "This is going to be expensive isn't it Maybe. Don't you like anything cheap. I like you.",
+        "text": "Don't you like anything cheap?",
         "character": "",
         "audioUrl": "audio/that-70s-show/061_this_is_going_to_be_expensive_isn_t_it_maybe_don_t_you_like.mp3"
       },
       {
-        "text": "Uh, really, you should come. No. You go. Have fun. Are you sure? Sure. It's no big deal. Okay, cool.",
+        "text": "You go, have fun",
         "character": "",
         "audioUrl": "audio/that-70s-show/062_uh_really_you_should_come_no_you_go_have_fun_are_you_sure_su.mp3"
       },
       {
-        "text": "Well I'd like to help but not as much as I'd like not to.",
+        "text": "I'd like not to help",
         "character": "",
         "audioUrl": "audio/that-70s-show/064_well_i_d_like_to_help_but_not_as_much_as_i_d_like_not_to.mp3"
       },
       {
-        "text": "Well there's no way it's better than. The planet of the apes. I mean those apes were really good actors.",
+        "text": "Better than Planet of the Apes",
         "character": "",
         "audioUrl": "audio/that-70s-show/065_well_there_s_no_way_it_s_better_than_the_planet_of_the_apes.mp3"
       },
       {
-        "text": "Wow Laughs Time really flies when you're. Drunk Y Well. I was gonna say havin' fun but Laughs same thing.",
+        "text": "Time flies when you're drunk",
         "character": "",
         "audioUrl": "audio/that-70s-show/066_wow_laughs_time_really_flies_when_you_re_drunk_y_well_i_was.mp3"
       },
       {
-        "text": "Yeah I'm trying to read Red's lips but I can't make it out. He keeps calling me a stupid duck.",
+        "text": "He keeps calling me a duck",
         "character": "",
         "audioUrl": "audio/that-70s-show/068_yeah_i_m_trying_to_read_red_s_lips_but_i_can_t_make_it_out_h.mp3"
       },
       {
-        "text": "You know Eric hickeys lead to dirty things. For God's sakes don't let Donna suck your neck.",
+        "text": "Don't let Donna suck your neck",
         "character": "",
         "audioUrl": "audio/that-70s-show/073_you_know_eric_hickeys_lead_to_dirty_things_for_god_s_sakes_d.mp3"
       },
       {
-        "text": "You know what All this talk about having fun makes me want to have fun. Hey let's throw stuff at other stuff.",
+        "text": "Throw stuff at other stuff",
         "character": "",
         "audioUrl": "audio/that-70s-show/075_you_know_what_all_this_talk_about_having_fun_makes_me_want_t.mp3"
       },
       {
-        "text": "You look familiar Do I know you. I should hope so Dad.",
+        "text": "I should hope so, Dad",
         "character": "",
         "audioUrl": "audio/that-70s-show/077_you_look_familiar_do_i_know_you_i_should_hope_so_dad.mp3"
       },
       {
-        "text": "You're right jackie. The fonz could beat up bruce lee.",
+        "text": "The Fonz could beat Bruce Lee",
         "character": "",
         "audioUrl": "audio/that-70s-show/079_you_re_right_jackie_the_fonz_could_beat_up_bruce_lee.mp3"
       },
       {
-        "text": "[engine roaring] [tires squealing] captioning made possible by carsey werner productions and fox broadcasting company.",
+        "text": "Engine roaring",
         "character": "",
         "audioUrl": "audio/that-70s-show/080_engine_roaring_tires_squealing_captioning_made_possible_by.mp3"
       },
       {
-        "text": "[laser weapons firing]",
+        "text": "Laser weapons firing",
         "character": "",
         "audioUrl": "audio/that-70s-show/081_laser_weapons_firing.mp3"
       },
       {
-        "text": "[music] so, um, laurie's almost all packed. I can't believe my little girl is movin' out. Which reminds me... When are you leaving?",
+        "text": "When are you leaving?",
         "character": "",
         "audioUrl": "audio/that-70s-show/082_music_so_um_laurie_s_almost_all_packed_i_can_t_believe_my_l.mp3"
       },
       {
-        "text": "[passionate breathing] (kitty) oh, red! (red) oh, kitty!",
+        "text": "Oh Red, oh Kitty",
         "character": "",
         "audioUrl": "audio/that-70s-show/083_passionate_breathing_kitty_oh_red_red_oh_kitty.mp3"
       },
       {
-        "text": "♪ who's the birthday boy? ♪",
+        "text": "Who's the birthday boy?",
         "character": "",
         "audioUrl": "audio/that-70s-show/085_who_s_the_birthday_boy.mp3"
       }
@@ -4429,65 +4429,65 @@ const shows = [
       "accent": "#8c1c1c",
       "bg": "#100805"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
-        "text": "A fucking fridge? A message from Miguel Rodríguez Orejuela. Son of a bitch! What's that smell? The surveillance team we sent to Cali.",
+        "text": "A fucking fridge?",
         "character": "",
         "audioUrl": "audio/narcos/001_a_fucking_fridge_a_message_from_miguel_rodr_guez_orejuela_so.mp3"
       },
       {
-        "text": "All it took was the whiff of a scandal. out of the mouth of an exiled drug queen and Peña was gone, like fucking magic.",
+        "text": "Peña was gone like magic",
         "character": "",
         "audioUrl": "audio/narcos/002_all_it_took_was_the_whiff_of_a_scandal_out_of_the_mouth_of_a.mp3"
       },
       {
-        "text": "Anderson! Move all that over to the left. The tables are too close together.",
+        "text": "Move the tables",
         "character": "",
         "audioUrl": "audio/narcos/005_anderson_move_all_that_over_to_the_left_the_tables_are_too_c.mp3"
       },
       {
-        "text": "Applauded by the multitude present on 10th street, president elect Ernesto Samper Pizano is welcomed by the people of Colombia...",
+        "text": "President-elect Samper welcomed",
         "character": "",
         "audioUrl": "audio/narcos/006_applauded_by_the_multitude_present_on_10th_street_president.mp3"
       },
       {
-        "text": "Come in. Come in. Over there! Look back! Watch out!",
+        "text": "Come in! Watch out!",
         "character": "",
         "audioUrl": "audio/narcos/010_come_in_come_in_over_there_look_back_watch_out.mp3"
       },
       {
-        "text": "Come, baby brother. Let me see how you are holding up.",
+        "text": "How you holding up",
         "character": "",
         "audioUrl": "audio/narcos/011_come_baby_brother_let_me_see_how_you_are_holding_up.mp3"
       },
       {
-        "text": "Defense positions. Defense positions. Are we under attack? Defense positions. Get around to the side. Defense positions. Defense positions! No games.",
+        "text": "Defense positions",
         "character": "",
         "audioUrl": "audio/narcos/012_defense_positions_defense_positions_are_we_under_attack_defe.mp3"
       },
       {
-        "text": "Did you find her? Sure you don't want something? - The picada here is the shit. - You have what I asked for or not?",
+        "text": "Did you find her?",
         "character": "",
         "audioUrl": "audio/narcos/013_did_you_find_her_sure_you_don_t_want_something_the_picada_he.mp3"
       },
       {
-        "text": "Duque was a lawyer and a lobbyist who represented the New Liberals, a party who claimed to represent the people.",
+        "text": "Duque the lobbyist",
         "character": "",
         "audioUrl": "audio/narcos/014_duque_was_a_lawyer_and_a_lobbyist_who_represented_the_new_li.mp3"
       },
       {
-        "text": "Gentlemen, you heard! I need you to be tight and right. - Understood? - Yes, sir! Let's go.",
+        "text": "Tight and right",
         "character": "",
         "audioUrl": "audio/narcos/016_gentlemen_you_heard_i_need_you_to_be_tight_and_right_underst.mp3"
       },
       {
-        "text": "Get out the weapons. As you wish, sir. (shouting orders in Spanish). (overlapping shouts in Spanish) (indistinct chatter)",
+        "text": "Get out the weapons",
         "character": "",
         "audioUrl": "audio/narcos/017_get_out_the_weapons_as_you_wish_sir_shouting_orders_in_spani.mp3"
       },
       {
-        "text": "Go ahead, sir. Director. Don Miguel... Please, go ahead.",
+        "text": "Don Miguel, go ahead",
         "character": "",
         "audioUrl": "audio/narcos/018_go_ahead_sir_director_don_miguel_please_go_ahead.mp3"
       },
@@ -4497,22 +4497,22 @@ const shows = [
         "audioUrl": "audio/narcos/019_good_morning_boss_bad_news.mp3"
       },
       {
-        "text": "Guten tag. Join the DEA, see the world, right? The airport, anyways.",
+        "text": "Join the DEA, see the world",
         "character": "",
         "audioUrl": "audio/narcos/020_guten_tag_join_the_dea_see_the_world_right_the_airport_anywa.mp3"
       },
       {
-        "text": "He's one of my best men. He'll take care of it. You're a man of your word.",
+        "text": "A man of your word",
         "character": "",
         "audioUrl": "audio/narcos/022_he_s_one_of_my_best_men_he_ll_take_care_of_it_you_re_a_man_o.mp3"
       },
       {
-        "text": "Hello, Paco. Everyone in Laredo is at this thing.",
+        "text": "Everyone in Laredo",
         "character": "",
         "audioUrl": "audio/narcos/023_hello_paco_everyone_in_laredo_is_at_this_thing.mp3"
       },
       {
-        "text": "Hello? Yes. What's up? Let's see.",
+        "text": "Hello? What's up?",
         "character": "",
         "audioUrl": "audio/narcos/024_hello_yes_what_s_up_let_s_see.mp3"
       },
@@ -4522,92 +4522,92 @@ const shows = [
         "audioUrl": "audio/narcos/025_help_help.mp3"
       },
       {
-        "text": "Hey, ladies. Are you looking for something? We're just taking a ride. Can't we pass? No, sweetheart. You have to go back.",
+        "text": "You have to go back",
         "character": "",
         "audioUrl": "audio/narcos/026_hey_ladies_are_you_looking_for_something_we_re_just_taking_a.mp3"
       },
       {
-        "text": "Hi! How did it go, honey? Very good! Look, what a beauty.",
+        "text": "Look, what a beauty",
         "character": "",
         "audioUrl": "audio/narcos/027_hi_how_did_it_go_honey_very_good_look_what_a_beauty.mp3"
       },
       {
-        "text": "I can help you expand your businesses... I could help you make millions.",
+        "text": "I could help you make millions",
         "character": "",
         "audioUrl": "audio/narcos/028_i_can_help_you_expand_your_businesses_i_could_help_you_make.mp3"
       },
       {
-        "text": "I wanted... I have her! Don't move! I will shoot! I will shoot her right now.",
+        "text": "I will shoot her",
         "character": "",
         "audioUrl": "audio/narcos/029_i_wanted_i_have_her_don_t_move_i_will_shoot_i_will_shoot_her.mp3"
       },
       {
-        "text": "I will get Nakia out as quickly as possible. Just don't freeze when you see her. What are you talking about? I never freeze.",
+        "text": "I never freeze",
         "character": "",
         "audioUrl": "audio/narcos/030_i_will_get_nakia_out_as_quickly_as_possible_just_don_t_freez.mp3"
       },
       {
-        "text": "If we go back... I'm going to have to fight.",
+        "text": "I'll have to fight",
         "character": "",
         "audioUrl": "audio/narcos/031_if_we_go_back_i_m_going_to_have_to_fight.mp3"
       },
       {
-        "text": "It's these two Grace Jones looking chicks. They're holding spears. Open it. You serious? They won't knock again.",
+        "text": "Grace Jones looking chicks",
         "character": "",
         "audioUrl": "audio/narcos/034_it_s_these_two_grace_jones_looking_chicks_they_re_holding_sp.mp3"
       },
       {
-        "text": "It's too early. I rise early. I'm up with the sun. Up all right!",
+        "text": "I rise with the sun",
         "character": "",
         "audioUrl": "audio/narcos/035_it_s_too_early_i_rise_early_i_m_up_with_the_sun_up_all_right.mp3"
       },
       {
-        "text": "Leave it there. Enjoy your meal.",
+        "text": "Enjoy your meal",
         "character": "",
         "audioUrl": "audio/narcos/037_leave_it_there_enjoy_your_meal.mp3"
       },
       {
-        "text": "Let's get inside. Going once, going twice... No. You can't go out that way. Please, no, sweetie. Honey, let's go inside. Inside.",
+        "text": "Let's go inside",
         "character": "",
         "audioUrl": "audio/narcos/038_let_s_get_inside_going_once_going_twice_no_you_can_t_go_out.mp3"
       },
       {
-        "text": "Let's go. Take the money and destroy the plane.",
+        "text": "Destroy the plane",
         "character": "",
         "audioUrl": "audio/narcos/039_let_s_go_take_the_money_and_destroy_the_plane.mp3"
       },
       {
-        "text": "Listen... do you want to hang out later back in town? - What? - I said...",
+        "text": "Hang out later?",
         "character": "",
         "audioUrl": "audio/narcos/040_listen_do_you_want_to_hang_out_later_back_in_town_what_i_sai.mp3"
       },
       {
-        "text": "Look at that pass. Goal! Dammit, what sort of defence is that? Piece of shit! I'm paying your fucking salaries!",
+        "text": "I'm paying your salaries!",
         "character": "",
         "audioUrl": "audio/narcos/041_look_at_that_pass_goal_dammit_what_sort_of_defence_is_that_p.mp3"
       },
       {
-        "text": "Many observers fear Colombia's other large cartel, the Cali cartel, will now simply step up its own drug production.",
+        "text": "The Cali cartel steps up",
         "character": "",
         "audioUrl": "audio/narcos/043_many_observers_fear_colombia_s_other_large_cartel_the_cali_c.mp3"
       },
       {
-        "text": "Mrs Salazar? Mrs Salazar, housekeeping. - Come back later, please. - As you wish.",
+        "text": "Housekeeping",
         "character": "",
         "audioUrl": "audio/narcos/044_mrs_salazar_mrs_salazar_housekeeping_come_back_later_please.mp3"
       },
       {
-        "text": "Murphy! Not a good neighborhood to get yourself lost in, eh? Fuck.",
+        "text": "Bad neighborhood to get lost",
         "character": "",
         "audioUrl": "audio/narcos/046_murphy_not_a_good_neighborhood_to_get_yourself_lost_in_eh_fu.mp3"
       },
       {
-        "text": "My king. Leave us. This is James. I trust him with my life. He stays... With your permission, king T'Chaka. As you wish. At ease.",
+        "text": "I trust him with my life",
         "character": "",
         "audioUrl": "audio/narcos/047_my_king_leave_us_this_is_james_i_trust_him_with_my_life_he_s.mp3"
       },
       {
-        "text": "OK, guys, listen up. Understood?",
+        "text": "OK, listen up. Understood?",
         "character": "",
         "audioUrl": "audio/narcos/049_ok_guys_listen_up_understood.mp3"
       },
@@ -4617,107 +4617,107 @@ const shows = [
         "audioUrl": "audio/narcos/050_pablo_pablo_pablo.mp3"
       },
       {
-        "text": "Pick me up in ten minutes. I'll meet you downstairs.",
+        "text": "Pick me up in ten",
         "character": "",
         "audioUrl": "audio/narcos/051_pick_me_up_in_ten_minutes_i_ll_meet_you_downstairs.mp3"
       },
       {
-        "text": "Please, pay attention! I need you to put your mobile phones, beepers, and radios in the container. Please. I'll take that.",
+        "text": "Phones in the container",
         "character": "",
         "audioUrl": "audio/narcos/052_please_pay_attention_i_need_you_to_put_your_mobile_phones_be.mp3"
       },
       {
-        "text": "Pretty girl. Long way from home.",
+        "text": "Pretty girl, long way from home",
         "character": "",
         "audioUrl": "audio/narcos/053_pretty_girl_long_way_from_home.mp3"
       },
       {
-        "text": "Sir, here you are. Thank you.",
+        "text": "Sir, here you are",
         "character": "",
         "audioUrl": "audio/narcos/056_sir_here_you_are_thank_you.mp3"
       },
       {
-        "text": "Sir? The telephone recordings you requested. From La Picota. Excuse me.",
+        "text": "The recordings you requested",
         "character": "",
         "audioUrl": "audio/narcos/057_sir_the_telephone_recordings_you_requested_from_la_picota_ex.mp3"
       },
       {
-        "text": "So, what are we doing here? We're arresting one of the godfathers of Cali.",
+        "text": "Arresting a godfather of Cali",
         "character": "",
         "audioUrl": "audio/narcos/060_so_what_are_we_doing_here_we_re_arresting_one_of_the_godfath.mp3"
       },
       {
-        "text": "T'Challa, no! This one's just a boy. He got kidnapped as well. Nakia...",
+        "text": "He's just a boy",
         "character": "",
         "audioUrl": "audio/narcos/061_t_challa_no_this_one_s_just_a_boy_he_got_kidnapped_as_well_n.mp3"
       },
       {
-        "text": "Thank you for being here with us, with the groom and the bride. Come and dance with us, everyone. Let's begin.",
+        "text": "The groom and the bride",
         "character": "",
         "audioUrl": "audio/narcos/062_thank_you_for_being_here_with_us_with_the_groom_and_the_brid.mp3"
       },
       {
-        "text": "Were you shot? No. Get him out. - You're scaring him. - Out!",
+        "text": "Were you shot?",
         "character": "",
         "audioUrl": "audio/narcos/069_were_you_shot_no_get_him_out_you_re_scaring_him_out.mp3"
       },
       {
-        "text": "WHAT IS THE DEA DOING IN CALI?",
+        "text": "What's the DEA doing in Cali?",
         "character": "",
         "audioUrl": "audio/narcos/071_what_is_the_dea_doing_in_cali.mp3"
       },
       {
-        "text": "When Pablo Escobar starts believing. the pen's mightier than the sword... you know you're getting to him.",
+        "text": "The pen's mightier than the sword",
         "character": "",
         "audioUrl": "audio/narcos/073_when_pablo_escobar_starts_believing_the_pen_s_mightier_than.mp3"
       },
       {
-        "text": "While everyone could agree it felt good emptying Pablo's pockets...",
+        "text": "Emptying Pablo's pockets",
         "character": "",
         "audioUrl": "audio/narcos/074_while_everyone_could_agree_it_felt_good_emptying_pablo_s_poc.mp3"
       },
       {
-        "text": "Who are you? Prince N'Jobu, son of Azzuri. Prove to me you are one of us.",
+        "text": "Prove you're one of us",
         "character": "",
         "audioUrl": "audio/narcos/075_who_are_you_prince_n_jobu_son_of_azzuri_prove_to_me_you_are.mp3"
       },
       {
-        "text": "Yo, is it the feds? No.",
+        "text": "Is it the feds? No.",
         "character": "",
         "audioUrl": "audio/narcos/077_yo_is_it_the_feds_no.mp3"
       },
       {
-        "text": "- (man in Spanish) Boss. - Good morning, boss. (low greetings in Spanish) (indistinct chatter) (sniffing) Ahh!",
+        "text": "Good morning, boss",
         "character": "",
         "audioUrl": "audio/narcos/078_man_in_spanish_boss_good_morning_boss_low_greetings_in_span.mp3"
       },
       {
-        "text": "- [overlapping gunfire] - [screaming] But don't call me a bad guy just yet. [Latin guitar theme music plays]",
+        "text": "Don't call me a bad guy",
         "character": "",
         "audioUrl": "audio/narcos/079_overlapping_gunfire_screaming_but_don_t_call_me_a_bad_guy_j.mp3"
       },
       {
-        "text": "- Don Chucho. - Luis, how are you? How are you, sir?",
+        "text": "Don Chucho, how are you?",
         "character": "",
         "audioUrl": "audio/narcos/080_don_chucho_luis_how_are_you_how_are_you_sir.mp3"
       },
       {
-        "text": "- Julio. - Pacho, you motherfucker. Motherfucking dog!",
+        "text": "You motherfucking dog",
         "character": "",
         "audioUrl": "audio/narcos/082_julio_pacho_you_motherfucker_motherfucking_dog.mp3"
       },
       {
-        "text": "- We're safe! - Pass me the ball. - Here you go. - Here it is.",
+        "text": "Pass me the ball",
         "character": "",
         "audioUrl": "audio/narcos/085_we_re_safe_pass_me_the_ball_here_you_go_here_it_is.mp3"
       },
       {
-        "text": "-Murphy. -Escobar's out. -What? -He's fucking out. He took Sandoval hostage during the siege and when the army went in... he escaped. Walked right out.",
+        "text": "Escobar's out",
         "character": "",
         "audioUrl": "audio/narcos/086_murphy_escobar_s_out_what_he_s_fucking_out_he_took_sandoval.mp3"
       },
       {
-        "text": "[clearing throat] The Colombian government has refused our amnesty offer. Get used to the food, gentlemen. It's not safe to go back home.",
+        "text": "Amnesty offer refused",
         "character": "",
         "audioUrl": "audio/narcos/087_clearing_throat_the_colombian_government_has_refused_our_am.mp3"
       }
@@ -4732,70 +4732,70 @@ const shows = [
       "accent": "#5e6878",
       "bg": "#0a0a0e"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
-        "text": "And no one... No one. But I am... the eldest son of our father. I am. Me. He is him. Fuck off!",
+        "text": "I am the eldest son",
         "character": "",
         "audioUrl": "audio/succession/002_and_no_one_no_one_but_i_am_the_eldest_son_of_our_father_i_am.mp3"
       },
       {
-        "text": "And you're a lucky guy. I hope that your marriage. is as rich and happy, rewarding, and fulfilling as mine. So, here's to, uh, the bride and groom. - The bride and groom! - The bride and groom!",
+        "text": "To the bride and groom",
         "character": "",
         "audioUrl": "audio/succession/003_and_you_re_a_lucky_guy_i_hope_that_your_marriage_is_as_rich.mp3"
       },
       {
-        "text": "Can you please stop buzzing around me? God, you're fucking useless. The lot of youse. You're as bad as my fucking idiot kids. That's bullshit. Sorry, Ken. That's fine. That's a Valentine's card. - Can we watch it again, actually? - Absolutely. Good to see you, dad.",
+        "text": "You're fucking useless",
         "character": "",
         "audioUrl": "audio/succession/006_can_you_please_stop_buzzing_around_me_god_you_re_fucking_use.mp3"
       },
       {
-        "text": "Carla! Where do we keep the fucking coffee beans? Didn't you give them the day off? - Skeleton staff. - Oh.",
+        "text": "Where are the coffee beans?",
         "character": "",
         "audioUrl": "audio/succession/007_carla_where_do_we_keep_the_fucking_coffee_beans_didn_t_you_g.mp3"
       },
       {
-        "text": "Dad. ROMAN: Just go in. He needs to see the story. -Go in. -(WHISPERS) Dude, fuck you. Okay, I'm coming in, Dad.",
+        "text": "He needs to see the story",
         "character": "",
         "audioUrl": "audio/succession/008_dad_roman_just_go_in_he_needs_to_see_the_story_go_in_whisper.mp3"
       },
       {
-        "text": "Fine, okay. No quid pro quo? Just... That's... That's inc-- incredibly kind of you. - Can I get this? - No. Greenpeace stole your inheritance. Besides, all my meals will be free soon. So...",
+        "text": "Greenpeace stole your inheritance",
         "character": "",
         "audioUrl": "audio/succession/010_fine_okay_no_quid_pro_quo_just_that_s_that_s_inc_incredibly.mp3"
       },
       {
-        "text": "Good. Right. Now just keep everything straight, okay? Good.",
+        "text": "Keep everything straight",
         "character": "",
         "audioUrl": "audio/succession/012_good_right_now_just_keep_everything_straight_okay_good.mp3"
       },
       {
-        "text": "He always believed that he brought home the polio with him, which took her. I don't even know if that's true. But our aunt and uncle certainly did nothing. to disabuse him of that notion. They let it lie with him.",
+        "text": "He brought home the polio",
         "character": "",
         "audioUrl": "audio/succession/013_he_always_believed_that_he_brought_home_the_polio_with_him_w.mp3"
       },
       {
-        "text": "Hello. Hello. I am Gerri Kellman. - Viola. Nice to meet you. - Nice to meet you. This is very nice.",
+        "text": "I am Gerri Kellman",
         "character": "",
         "audioUrl": "audio/succession/014_hello_hello_i_am_gerri_kellman_viola_nice_to_meet_you_nice_t.mp3"
       },
       {
-        "text": "Hey, Dad. Hey. You shouldn't eat this shit. You're not the boss of me.",
+        "text": "You're not the boss of me",
         "character": "",
         "audioUrl": "audio/succession/015_hey_dad_hey_you_shouldn_t_eat_this_shit_you_re_not_the_boss.mp3"
       },
       {
-        "text": "Hey, hey, hey. Huh. You're late. Well, like, 10 minutes, Grandpa. Happy Thanksgiving! Not for the Indians. No, sir. Nope, that is still true. Shall we, uh, grab some lunch and then hit the road? I gots the old rumbling tum. No. Let's go before it snows.",
+        "text": "Not for the Indians",
         "character": "",
         "audioUrl": "audio/succession/016_hey_hey_hey_huh_you_re_late_well_like_10_minutes_grandpa_hap.mp3"
       },
       {
-        "text": "Hey. I-- I thought this was gonna be private. I'm across a lot of shit and, uh, she's monitoring. Hang out wherever. You-- You guys can wait inside.",
+        "text": "I thought this was private",
         "character": "",
         "audioUrl": "audio/succession/017_hey_i_i_thought_this_was_gonna_be_private_i_m_across_a_lot_o.mp3"
       },
       {
-        "text": "Hey. Um... No. No, I don't think he's gonna play ball. He's not talking. No way he's gonna drop the lawsuit. Okay, that's fine, Roman. - No? - No. Okay. Plan B. Operation Black Sheep.",
+        "text": "Operation Black Sheep",
         "character": "",
         "audioUrl": "audio/succession/018_hey_um_no_no_i_don_t_think_he_s_gonna_play_ball_he_s_not_tal.mp3"
       },
@@ -4805,32 +4805,32 @@ const shows = [
         "audioUrl": "audio/succession/019_hi_thank_you.mp3"
       },
       {
-        "text": "I think I might need a piss. You wanna go back up? You don't want another--. No, no, no, let's-- let's get on with it. I can do it.",
+        "text": "I might need a piss",
         "character": "",
         "audioUrl": "audio/succession/023_i_think_i_might_need_a_piss_you_wanna_go_back_up_you_don_t_w.mp3"
       },
       {
-        "text": "I'm gonna block your car. I'm gonna lie in front of your fucking car. Okay? You're gonna have to run me over if you wanna go. What are you gonna do?",
+        "text": "I'll lie in front of your car",
         "character": "",
         "audioUrl": "audio/succession/025_i_m_gonna_block_your_car_i_m_gonna_lie_in_front_of_your_fuck.mp3"
       },
       {
-        "text": "I'm sorry. - Hey... - Hey.",
+        "text": "I'm sorry. Hey.",
         "character": "",
         "audioUrl": "audio/succession/026_i_m_sorry_hey_hey.mp3"
       },
       {
-        "text": "If I get them in behind me, will you follow? Ken, you've got stuff cooking. You seem so well. You really want back in?",
+        "text": "You really want back in?",
         "character": "",
         "audioUrl": "audio/succession/027_if_i_get_them_in_behind_me_will_you_follow_ken_you_ve_got_st.mp3"
       },
       {
-        "text": "Is that even true? What? Like, is that even true? Or is that, like, a new position or a tactic? Or what?",
+        "text": "Is that even true?",
         "character": "",
         "audioUrl": "audio/succession/028_is_that_even_true_what_like_is_that_even_true_or_is_that_lik.mp3"
       },
       {
-        "text": "Jess. Hey, Jess? - Yeah? - Has anyone been... Yeah, your dad came in for, like, two minutes.",
+        "text": "Your dad came in",
         "character": "",
         "audioUrl": "audio/succession/029_jess_hey_jess_yeah_has_anyone_been_yeah_your_dad_came_in_for.mp3"
       },
@@ -4840,197 +4840,197 @@ const shows = [
         "audioUrl": "audio/succession/030_knock_knock_thank_you.mp3"
       },
       {
-        "text": "Logan? Logan? Logan, where are you? - Logan! - Oh, fuck. Where am I? It's okay. We're in the new place. - Oh, I'm sorry. - It's okay. - Need anything? - No. You good?",
+        "text": "Logan, where are you?",
         "character": "",
         "audioUrl": "audio/succession/032_logan_logan_logan_where_are_you_logan_oh_fuck_where_am_i_it.mp3"
       },
       {
-        "text": "Marianne, come up with the candles, please. Ken. Got a minute? Yeah.",
+        "text": "Ken, got a minute?",
         "character": "",
         "audioUrl": "audio/succession/033_marianne_come_up_with_the_candles_please_ken_got_a_minute_ye.mp3"
       },
       {
-        "text": "MAXIM: ...conservative, or are they... ROMAN: Excellent work. Thank you so much. (INDISTINCT CHATTER) TABITHA: Yeah. How many breakers you had? MAN: Whoa, whoa! -(APPLAUSE) -CONNOR: Bravo. NAN: Oh, stop!",
+        "text": "Bravo",
         "character": "",
         "audioUrl": "audio/succession/034_maxim_conservative_or_are_they_roman_excellent_work_thank_yo.mp3"
       },
       {
-        "text": "No? Okay. You know what? There's not really any point. Uh... To making love? Yeah, well, you're still on contraception. It's just like throwing so much cake batter at a brick wall.",
+        "text": "Cake batter at a brick wall",
         "character": "",
         "audioUrl": "audio/succession/035_no_okay_you_know_what_there_s_not_really_any_point_uh_to_mak.mp3"
       },
       {
-        "text": "Oh, fuck yeah. - What do you think? - Yeah. Yep.",
+        "text": "Oh, fuck yeah",
         "character": "",
         "audioUrl": "audio/succession/036_oh_fuck_yeah_what_do_you_think_yeah_yep.mp3"
       },
       {
-        "text": "Okay, Pa. - Nicely done. - Yeah.",
+        "text": "Okay, Pa. Nicely done.",
         "character": "",
         "audioUrl": "audio/succession/038_okay_pa_nicely_done_yeah.mp3"
       },
       {
-        "text": "Okay, Rick, thanks for that. Thank you. Very useful. Thanks. Fuck off.",
+        "text": "Thanks. Fuck off.",
         "character": "",
         "audioUrl": "audio/succession/039_okay_rick_thanks_for_that_thank_you_very_useful_thanks_fuck.mp3"
       },
       {
-        "text": "One more. Okay, how's that, sir? - Like a glass fucking slipper. - Okay, good, hold on, hold on. - Let me get you. There. All set.",
+        "text": "Like a glass fucking slipper",
         "character": "",
         "audioUrl": "audio/succession/040_one_more_okay_how_s_that_sir_like_a_glass_fucking_slipper_ok.mp3"
       },
       {
-        "text": "ROMAN ROY: This is it. Wish me luck. All right. I'm exiting Earth's atmosphere. The prince is departing the palace. See you in six weeks. If I don't come back, send goons. They may sacrifice me to their gods. Welcome to management training. -Oh... -Itinerary. Oh, thanks. Okay.",
+        "text": "Welcome to management training",
         "character": "",
         "audioUrl": "audio/succession/042_roman_roy_this_is_it_wish_me_luck_all_right_i_m_exiting_eart.mp3"
       },
       {
-        "text": "SHIV: Oh, my God. Look at him. No. No thanks. (SIGHS) I don't think I can do this. Well, shall we just hit him? With a stick or rocks? Yeah. Hey. Dead man walking. The fucking cadaver awakens.",
+        "text": "The cadaver awakens",
         "character": "",
         "audioUrl": "audio/succession/045_shiv_oh_my_god_look_at_him_no_no_thanks_sighs_i_don_t_think.mp3"
       },
       {
-        "text": "Sir. Your father's on a call in the den. He asked if you'd wait a moment? Sure.",
+        "text": "Your father's on a call",
         "character": "",
         "audioUrl": "audio/succession/046_sir_your_father_s_on_a_call_in_the_den_he_asked_if_you_d_wai.mp3"
       },
       {
-        "text": "So, first one to stop, loses. - Bitey. - Bitey. - Ready? - Yeah, I guess.",
+        "text": "First one to stop loses",
         "character": "",
         "audioUrl": "audio/succession/047_so_first_one_to_stop_loses_bitey_bitey_ready_yeah_i_guess.mp3"
       },
       {
-        "text": "So, how's it going? The course? Oh. Um, it's actually, you know, I mean, it's bullshit, but it's good. Yeah. Ah, well, I'm proud of you, son. Getting back in there. Thank you, Dad. But this weekend, don't mention it. Sounds like you're back in business kindergarten. Right. Thank you.",
+        "text": "Back in business kindergarten",
         "character": "",
         "audioUrl": "audio/succession/048_so_how_s_it_going_the_course_oh_um_it_s_actually_you_know_i.mp3"
       },
       {
-        "text": "So, just--This is a safe place to be, yeah. So just buzz me in.",
+        "text": "A safe place to be",
         "character": "",
         "audioUrl": "audio/succession/049_so_just_this_is_a_safe_place_to_be_yeah_so_just_buzz_me_in.mp3"
       },
       {
-        "text": "So, without further ado, and with interesting things to tell you, I believe, please welcome our Chief Financial Officer, Karl Muller.",
+        "text": "Please welcome Karl Muller",
         "character": "",
         "audioUrl": "audio/succession/051_so_without_further_ado_and_with_interesting_things_to_tell_y.mp3"
       },
       {
-        "text": "So... Hmm? - Hello, son. - Hey, Dad.",
+        "text": "Hello, son. Hey, Dad.",
         "character": "",
         "audioUrl": "audio/succession/052_so_hmm_hello_son_hey_dad.mp3"
       },
       {
-        "text": "Sorry for your loss. - So sorry, Kendall. - Thank you, Penny. Thanks. Thanks, Mark. - Hey. - Hey. How you doing? - Hey. - Hey.",
+        "text": "Sorry for your loss",
         "character": "",
         "audioUrl": "audio/succession/053_sorry_for_your_loss_so_sorry_kendall_thank_you_penny_thanks.mp3"
       },
       {
-        "text": "Sorry. Sorry. I didn't delay things, did I? PETER MUNION: No worries, Kendall. - You don't know where, um-- - Sorry. that Logan is not gonna make it. You might have to just make do with me. Sorry. - How about that? Darling.",
+        "text": "Did I delay things?",
         "character": "",
         "audioUrl": "audio/succession/054_sorry_sorry_i_didn_t_delay_things_did_i_peter_munion_no_worr.mp3"
       },
       {
-        "text": "Thanks. Well, that was exciting. Smuggled in like Cleopatra in the carpet. Yeah. Sorry for the cloak and dagger. Rhea Jarrell. And you must be Oedipus Roy? -Uh... -RHEA JARRELL: I'm teasing. -Right. (CHUCKLES) -RHEA: Are we this way? KENDALL: Yeah, over here. Sorry about the commotion outside.",
+        "text": "Smuggled in like Cleopatra",
         "character": "",
         "audioUrl": "audio/succession/056_thanks_well_that_was_exciting_smuggled_in_like_cleopatra_in.mp3"
       },
       {
-        "text": "That was really hard. Yeah, man. You fuckin' did it. Drinks. Drinks. Drinks, drinks, drinks, drinks, drinks. Fuck, yes, drinks. Yes. Um, Jess?",
+        "text": "You fuckin' did it. Drinks.",
         "character": "",
         "audioUrl": "audio/succession/057_that_was_really_hard_yeah_man_you_fuckin_did_it_drinks_drink.mp3"
       },
       {
-        "text": "There you go. You turn it off yourself. Come on. Where the fuck's she going?",
+        "text": "Where the fuck's she going?",
         "character": "",
         "audioUrl": "audio/succession/058_there_you_go_you_turn_it_off_yourself_come_on_where_the_fuck.mp3"
       },
       {
-        "text": "Wait for me. Thank you. - Wait, wait, wait. - I'm okay. All right. Okay. You're okay? I don't think I can do this. Yes, you can. Vas y and fuck them. - Yeah. - Okay. Let's go.",
+        "text": "Vas y and fuck them",
         "character": "",
         "audioUrl": "audio/succession/060_wait_for_me_thank_you_wait_wait_wait_i_m_okay_all_right_okay.mp3"
       },
       {
-        "text": "What is Kerry doing in the front row? She's in the front. God, Logan would hate this. At least he won't grind his teeth tonight.",
+        "text": "What's Kerry doing in front?",
         "character": "",
         "audioUrl": "audio/succession/062_what_is_kerry_doing_in_the_front_row_she_s_in_the_front_god.mp3"
       },
       {
-        "text": "What the... Oh, Jesus, fuck.",
+        "text": "What the... oh, Jesus, fuck",
         "character": "",
         "audioUrl": "audio/succession/063_what_the_oh_jesus_fuck.mp3"
       },
       {
-        "text": "What's up? Uh, these are the boxes I need. Okay. Pass?",
+        "text": "These are the boxes I need",
         "character": "",
         "audioUrl": "audio/succession/064_what_s_up_uh_these_are_the_boxes_i_need_okay_pass.mp3"
       },
       {
-        "text": "You want to play bitey? - Bitey? - We never played bitey? No. Okay. Well, you bite me, I bite you. See who can take it. - Okay, sure. - Give me your arm.",
+        "text": "Wanna play bitey?",
         "character": "",
         "audioUrl": "audio/succession/066_you_want_to_play_bitey_bitey_we_never_played_bitey_no_okay_w.mp3"
       },
       {
-        "text": "Your brother's right. Gut it. Okay. LOGAN: Roman, I want you on the proxy battle with Gerri. Kendall, you think you can gut Vaulter for me? Or you need help? I'll take care of it, Dad. ♪ (TENSE MUSIC PLAYS) ♪",
+        "text": "Gut Vaulter for me",
         "character": "",
         "audioUrl": "audio/succession/067_your_brother_s_right_gut_it_okay_logan_roman_i_want_you_on_t.mp3"
       },
       {
-        "text": "- Here. - No. Fuck off.",
+        "text": "Here. No. Fuck off.",
         "character": "",
         "audioUrl": "audio/succession/069_here_no_fuck_off.mp3"
       },
       {
-        "text": "- Hey, Ken. Are you okay? - Is he okay? Uh, he's in the bathroom.",
+        "text": "He's in the bathroom",
         "character": "",
         "audioUrl": "audio/succession/071_hey_ken_are_you_okay_is_he_okay_uh_he_s_in_the_bathroom.mp3"
       },
       {
-        "text": "- Hey! - Hey! - So? - So, what? What, you came 3 000 kilometers and you can't come another 20 meters? I'm just stopping at a convenient location to refuel. And there's no reason for me to get off the plane. Bye!",
+        "text": "Can't come another 20 meters?",
         "character": "",
         "audioUrl": "audio/succession/072_hey_hey_so_so_what_what_you_came_3_000_kilometers_and_you_c.mp3"
       },
       {
-        "text": "- Hey. - Hey! Okay! - Very nice. How-- How we doin'? - Good, great. Yeah. - Yeah. I'm great--. Oh, shit. - Phone stuff. Yeah, yeah, yeah. - Yeah. Sorry. No, no, uh, go for it.",
+        "text": "How we doin'?",
         "character": "",
         "audioUrl": "audio/succession/073_hey_hey_okay_very_nice_how_how_we_doin_good_great_yeah_yeah.mp3"
       },
       {
-        "text": "- I'm kidding. - That's really good. That's funny. One single dollar. Sorry. Your face... But I do want ATN though. Well, no, ATN's off the table, Dad carved it out. Yeah, I'm not sure it makes sense and I want it back in. - Why? - Why? Why?",
+        "text": "I want ATN",
         "character": "",
         "audioUrl": "audio/succession/075_i_m_kidding_that_s_really_good_that_s_funny_one_single_doll.mp3"
       },
       {
-        "text": "- So have we tied up all five now? - Yep. And they're all the ones that Mr. Roy's office gave us? Yep.",
+        "text": "Tied up all five",
         "character": "",
         "audioUrl": "audio/succession/076_so_have_we_tied_up_all_five_now_yep_and_they_re_all_the_one.mp3"
       },
       {
-        "text": "- Tom! - Hey. Have you seen Kendall? No. I feel like we should maybe keep an eye out for him. Oh, damn it.",
+        "text": "Have you seen Kendall?",
         "character": "",
         "audioUrl": "audio/succession/077_tom_hey_have_you_seen_kendall_no_i_feel_like_we_should_mayb.mp3"
       },
       {
-        "text": "- Yeah. - What happened? He said I was dead in the water without him. and tried to finger bang me. What'd you say? Said I'd rather eat my own shit. - Have you heard? - What? Stock's gone below 130.",
+        "text": "Dead in the water",
         "character": "",
         "audioUrl": "audio/succession/079_yeah_what_happened_he_said_i_was_dead_in_the_water_without.mp3"
       },
       {
-        "text": "-CONNOR: Hey! Welcome. -SHIV: Hey, Dad! Hi! Hi, hi, hi. Hi. -Hey. Hey. -SHIV: Here he is. Hey! (CHUCKLES). Roman. Laird. Karl. Business.",
+        "text": "Roman. Laird. Karl. Business.",
         "character": "",
         "audioUrl": "audio/succession/080_connor_hey_welcome_shiv_hey_dad_hi_hi_hi_hi_hi_hey_hey_shiv.mp3"
       },
       {
-        "text": "♪ (MUSIC PLAYING) ♪",
+        "text": "Music playing",
         "character": "",
         "audioUrl": "audio/succession/081_music_playing.mp3"
       },
       {
-        "text": "♪ (MUSIC PLAYING) ♪",
+        "text": "Theme music",
         "character": "",
         "audioUrl": "audio/succession/082_music_playing.mp3"
       },
       {
-        "text": "♪ (MUSIC PLAYS) ♪ Okay. We're such shitty hunters. that we're just shooting piggies in a barrel. Might as well just throw a grenade at the pigs. -(INDISTINCT CHATTER) -(HORN BLOWS) -(GUNFIRE) -(MEN SHOUTING) (PIGS GRUNTING AND SQUEALING) -(DOGS BARKING) -(GUNFIRE CONTINUES) -(WHISTLE BLOWS) -(MEN SHOUTING)",
+        "text": "Shooting piggies in a barrel",
         "character": "",
         "audioUrl": "audio/succession/083_music_plays_okay_we_re_such_shitty_hunters_that_we_re_just.mp3"
       }
@@ -5045,7 +5045,7 @@ const shows = [
       "accent": "#c4953a",
       "bg": "#080a0c"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
         "text": "All religion is a foolish answer to a foolish question",
@@ -5053,7 +5053,7 @@ const shows = [
         "audioUrl": "audio/peaky-blinders/001_all_religion_is_a_foolish_answer_to_a_foolish_question.mp3"
       },
       {
-        "text": "Because, you are a fucking wop mate",
+        "text": "Because you are a fucking wop, mate",
         "character": "",
         "audioUrl": "audio/peaky-blinders/002_because_you_are_a_fucking_wop_mate.mp3"
       },
@@ -5063,12 +5063,12 @@ const shows = [
         "audioUrl": "audio/peaky-blinders/003_by_order_of_the_peaky_blinders.mp3"
       },
       {
-        "text": "Despite the temptation, no HOARDING!",
+        "text": "Despite the temptation, no hoarding",
         "character": "",
         "audioUrl": "audio/peaky-blinders/004_despite_the_temptation_no_hoarding.mp3"
       },
       {
-        "text": "Everyone's a whore grace",
+        "text": "Everyone's a whore, Grace",
         "character": "",
         "audioUrl": "audio/peaky-blinders/005_everyone_s_a_whore_grace.mp3"
       },
@@ -5093,37 +5093,37 @@ const shows = [
         "audioUrl": "audio/peaky-blinders/009_i_will_remember_everything.mp3"
       },
       {
-        "text": "If you try to sneak out I'll tell on you to mum",
+        "text": "I'll tell on you to mum",
         "character": "",
         "audioUrl": "audio/peaky-blinders/010_if_you_try_to_sneak_out_i_ll_tell_on_you_to_mum.mp3"
       },
       {
-        "text": "If you try to sneak out I'll tell on you to mum (short)",
+        "text": "I'll tell mum (short)",
         "character": "",
         "audioUrl": "audio/peaky-blinders/011_if_you_try_to_sneak_out_i_ll_tell_on_you_to_mum_short.mp3"
       },
       {
-        "text": "Intelligence is a valuable thing my friend",
+        "text": "Intelligence is a valuable thing, my friend",
         "character": "",
         "audioUrl": "audio/peaky-blinders/012_intelligence_is_a_valuable_thing_my_friend.mp3"
       },
       {
-        "text": "It is fucking awful that stuff",
+        "text": "It is fucking awful, that stuff",
         "character": "",
         "audioUrl": "audio/peaky-blinders/013_it_is_fucking_awful_that_stuff.mp3"
       },
       {
-        "text": "It was fucking biblical mate",
+        "text": "It was fucking biblical, mate",
         "character": "",
         "audioUrl": "audio/peaky-blinders/014_it_was_fucking_biblical_mate.mp3"
       },
       {
-        "text": "Men and their cocks never seize to amaze me",
+        "text": "Men and their cocks",
         "character": "",
         "audioUrl": "audio/peaky-blinders/015_men_and_their_cocks_never_seize_to_amaze_me.mp3"
       },
       {
-        "text": "My name is Thomas Shelby and today Im gonna kill a man",
+        "text": "Today I'm gonna kill a man",
         "character": "",
         "audioUrl": "audio/peaky-blinders/016_my_name_is_thomas_shelby_and_today_im_gonna_kill_a_man.mp3"
       },
@@ -5148,7 +5148,7 @@ const shows = [
         "audioUrl": "audio/peaky-blinders/020_no_fucking_going_out.mp3"
       },
       {
-        "text": "NO fucking going out! (short)",
+        "text": "No fucking going out! (short)",
         "character": "",
         "audioUrl": "audio/peaky-blinders/021_no_fucking_going_out_short.mp3"
       },
@@ -5158,27 +5158,27 @@ const shows = [
         "audioUrl": "audio/peaky-blinders/022_peaky_blinders.mp3"
       },
       {
-        "text": "Stop 'fooking' whingeing!",
+        "text": "Stop fooking whingeing!",
         "character": "",
         "audioUrl": "audio/peaky-blinders/023_stop_fooking_whingeing.mp3"
       },
       {
-        "text": "There Is God And There Are The Peaky Blinders",
+        "text": "There's God, and the Peaky Blinders",
         "character": "",
         "audioUrl": "audio/peaky-blinders/024_there_is_god_and_there_are_the_peaky_blinders.mp3"
       },
       {
-        "text": "This place is under new management..",
+        "text": "Under new management",
         "character": "",
         "audioUrl": "audio/peaky-blinders/025_this_place_is_under_new_management.mp3"
       },
       {
-        "text": "Wanted Man",
+        "text": "Wanted man",
         "character": "",
         "audioUrl": "audio/peaky-blinders/026_wanted_man.mp3"
       },
       {
-        "text": "We are now all QUARANTINED",
+        "text": "We are all quarantined",
         "character": "",
         "audioUrl": "audio/peaky-blinders/027_we_are_now_all_quarantined.mp3"
       },
@@ -5193,47 +5193,47 @@ const shows = [
         "audioUrl": "audio/peaky-blinders/029_whisky_is_good_proofing_water.mp3"
       },
       {
-        "text": "Who is the boss",
+        "text": "Who is the boss?",
         "character": "",
         "audioUrl": "audio/peaky-blinders/030_who_is_the_boss.mp3"
       },
       {
-        "text": "Who wants to be in heaven",
+        "text": "Who wants to be in heaven?",
         "character": "",
         "audioUrl": "audio/peaky-blinders/031_who_wants_to_be_in_heaven.mp3"
       },
       {
-        "text": "You just made a deal without a Negotiation, didn't ya?",
+        "text": "A deal without negotiation",
         "character": "",
         "audioUrl": "audio/peaky-blinders/032_you_just_made_a_deal_without_a_negotiation_didn_t_ya.mp3"
       },
       {
-        "text": "You need to be a ******* man",
+        "text": "You need to be a man",
         "character": "",
         "audioUrl": "audio/peaky-blinders/033_you_need_to_be_a_man.mp3"
       },
       {
-        "text": "And we're the Peaky Blinders.",
+        "text": "And we're the Peaky Blinders",
         "character": "",
         "audioUrl": "audio/peaky-blinders/034_and_we_re_the_peaky_blinders.mp3"
       },
       {
-        "text": "Are you not going to thank me for saving your life? Pass me cigarettes?",
+        "text": "Thank me for saving your life",
         "character": "",
         "audioUrl": "audio/peaky-blinders/036_are_you_not_going_to_thank_me_for_saving_your_life_pass_me_c.mp3"
       },
       {
-        "text": "ARTHUR: Michael? Michael? MICHAEL: Arth u r! -Arthur! John! Where's Tommy? -Arthur! Arthur! -No!",
+        "text": "Where's Tommy?",
         "character": "",
         "audioUrl": "audio/peaky-blinders/038_arthur_michael_michael_michael_arth_u_r_arthur_john_where_s.mp3"
       },
       {
-        "text": "By order of the peaky blinders.",
+        "text": "By order of the Peaky Blinders",
         "character": "",
         "audioUrl": "audio/peaky-blinders/041_by_order_of_the_peaky_blinders.mp3"
       },
       {
-        "text": "By order of the peaky blinders.",
+        "text": "By order of the Peaky Blinders",
         "character": "",
         "audioUrl": "audio/peaky-blinders/042_by_order_of_the_peaky_blinders.mp3"
       },
@@ -5243,17 +5243,17 @@ const shows = [
         "audioUrl": "audio/peaky-blinders/043_cushion_poll_right.mp3"
       },
       {
-        "text": "Door opens. Sniffling.",
+        "text": "Door opens",
         "character": "",
         "audioUrl": "audio/peaky-blinders/045_door_opens_sniffling.mp3"
       },
       {
-        "text": "Go! Go! Go! (SPEAKING IN ITALIAN)",
+        "text": "Go! Go! Go!",
         "character": "",
         "audioUrl": "audio/peaky-blinders/046_go_go_go_speaking_in_italian.mp3"
       },
       {
-        "text": "Good morning, Mrs Ross. Have a seat.",
+        "text": "Good morning, Mrs Ross",
         "character": "",
         "audioUrl": "audio/peaky-blinders/047_good_morning_mrs_ross_have_a_seat.mp3"
       },
@@ -5263,202 +5263,202 @@ const shows = [
         "audioUrl": "audio/peaky-blinders/048_good_morning_sisters_let_us_pray.mp3"
       },
       {
-        "text": "Goodbye, Mrs Ross. -(CHAIR CREAKS) -(FOOTSTEPS RECEDE) (TH EME MUSIC PLAYING)",
+        "text": "Goodbye, Mrs Ross",
         "character": "",
         "audioUrl": "audio/peaky-blinders/049_goodbye_mrs_ross_chair_creaks_footsteps_recede_th_eme_music.mp3"
       },
       {
-        "text": "He just listened. And now he has no face. May you Peaky Blinders all rot...",
+        "text": "Now he has no face",
         "character": "",
         "audioUrl": "audio/peaky-blinders/051_he_just_listened_and_now_he_has_no_face_may_you_peaky_blinde.mp3"
       },
       {
-        "text": "He was in the war. He was in a tunnel collapse. (GASPING) He won medals... (BREATHING HEAVILY) Take care of him...",
+        "text": "He was in a tunnel collapse",
         "character": "",
         "audioUrl": "audio/peaky-blinders/052_he_was_in_the_war_he_was_in_a_tunnel_collapse_gasping_he_won.mp3"
       },
       {
-        "text": "I think it's about time we got off the stage, old man. The Chinese, the Italians. Mosley knew nothing! He knew nothing! Who?!",
+        "text": "Time to get off the stage",
         "character": "",
         "audioUrl": "audio/peaky-blinders/055_i_think_it_s_about_time_we_got_off_the_stage_old_man_the_chi.mp3"
       },
       {
-        "text": "I will shoot him myself, Tommy. Just teach me how to shoot. (SCOFFS) It's easy, Michael. Just point and pull the trigger.",
+        "text": "Just point and pull the trigger",
         "character": "",
         "audioUrl": "audio/peaky-blinders/057_i_will_shoot_him_myself_tommy_just_teach_me_how_to_shoot_sco.mp3"
       },
       {
-        "text": "I've been to a doctor on your behalf. It starts when you stop. When you rest.",
+        "text": "It starts when you stop",
         "character": "",
         "audioUrl": "audio/peaky-blinders/060_i_ve_been_to_a_doctor_on_your_behalf_it_starts_when_you_stop.mp3"
       },
       {
-        "text": "I've made arrangements with men I trust. If I should die, then you will die.",
+        "text": "If I die, you die",
         "character": "",
         "audioUrl": "audio/peaky-blinders/061_i_ve_made_arrangements_with_men_i_trust_if_i_should_die_then.mp3"
       },
       {
-        "text": "In the bleak midwinter.",
+        "text": "In the bleak midwinter",
         "character": "",
         "audioUrl": "audio/peaky-blinders/063_in_the_bleak_midwinter.mp3"
       },
       {
-        "text": "It was the ambitions and strategies of one man that caused this. I will take revenge on Tommy Shelby.",
+        "text": "Revenge on Tommy Shelby",
         "character": "",
         "audioUrl": "audio/peaky-blinders/067_it_was_the_ambitions_and_strategies_of_one_man_that_caused_t.mp3"
       },
       {
-        "text": "It's all right, love. It's all right. Come inside. Come inside. Come inside. Listen to me. Stay inside. Don't come out.",
+        "text": "Stay inside, don't come out",
         "character": "",
         "audioUrl": "audio/peaky-blinders/068_it_s_all_right_love_it_s_all_right_come_inside_come_inside_c.mp3"
       },
       {
-        "text": "Let's... Let's go inside. We'll work it out, have a drink. I need to walk.",
+        "text": "I need to walk",
         "character": "",
         "audioUrl": "audio/peaky-blinders/070_let_s_let_s_go_inside_we_ll_work_it_out_have_a_drink_i_need.mp3"
       },
       {
-        "text": "Mr Shelby, you're meant to be resting. I have learnt something, Frances. There's no rest for me in this world. Perhaps in the next.",
+        "text": "No rest in this world",
         "character": "",
         "audioUrl": "audio/peaky-blinders/072_mr_shelby_you_re_meant_to_be_resting_i_have_learnt_something.mp3"
       },
       {
-        "text": "Mr Shelby. My bullets ache to get inside your tinker head.",
+        "text": "My bullets ache for your head",
         "character": "",
         "audioUrl": "audio/peaky-blinders/074_mr_shelby_my_bullets_ache_to_get_inside_your_tinker_head.mp3"
       },
       {
-        "text": "No! No! It's all right, Miss Shelby. We work with Tommy. We're Peaky Blinders. My name is not Shelby!",
+        "text": "My name is not Shelby!",
         "character": "",
         "audioUrl": "audio/peaky-blinders/075_no_no_it_s_all_right_miss_shelby_we_work_with_tommy_we_re_pe.mp3"
       },
       {
-        "text": "NUTLEY: Your brothers came to my house. They said the Peaky Blinders had business with me. TOMMY: You're not afraid of me.",
+        "text": "You're not afraid of me",
         "character": "",
         "audioUrl": "audio/peaky-blinders/076_nutley_your_brothers_came_to_my_house_they_said_the_peaky_bl.mp3"
       },
       {
-        "text": "POLLY: ..clean up when I come back. When I come backI gotta be clean. Whatever I said, whatever I decided. WhateverI decide...",
+        "text": "Clean up when I come back",
         "character": "",
         "audioUrl": "audio/peaky-blinders/077_polly_clean_up_when_i_come_back_when_i_come_backi_gotta_be_c.mp3"
       },
       {
-        "text": "Service? (KNOCKING) We don't open two more hours. You come back later. PoUce.",
+        "text": "We don't open for two hours",
         "character": "",
         "audioUrl": "audio/peaky-blinders/082_service_knocking_we_don_t_open_two_more_hours_you_come_back.mp3"
       },
       {
-        "text": "Sir, this is her. The girl who tells fortunes?",
+        "text": "The girl who tells fortunes",
         "character": "",
         "audioUrl": "audio/peaky-blinders/083_sir_this_is_her_the_girl_who_tells_fortunes.mp3"
       },
       {
-        "text": "So, what is it you want from a simple working man? Fear.",
+        "text": "What do you want? Fear",
         "character": "",
         "audioUrl": "audio/peaky-blinders/084_so_what_is_it_you_want_from_a_simple_working_man_fear.mp3"
       },
       {
-        "text": "Talk to me. Maybe I've found him... ..Arthur, the man I can't defeat. Mosley. I don't know. I don't fucking know. Doesn't make sense.",
+        "text": "The man I can't defeat",
         "character": "",
         "audioUrl": "audio/peaky-blinders/085_talk_to_me_maybe_i_ve_found_him_arthur_the_man_i_can_t_defea.mp3"
       },
       {
-        "text": "Tell the counsellor the name \"Grace Shelby Institute\" is acceptable to us. (SNIFFS)",
+        "text": "Grace Shelby Institute is acceptable",
         "character": "",
         "audioUrl": "audio/peaky-blinders/086_tell_the_counsellor_the_name_grace_shelby_institute_is_accep.mp3"
       },
       {
-        "text": "The horse's name is Monaghan Boy. Kempton. 3:00. Monday. You ladies have a bet yourselves, but don't tell anyone else.",
+        "text": "The horse is Monaghan Boy",
         "character": "",
         "audioUrl": "audio/peaky-blinders/087_the_horse_s_name_is_monaghan_boy_kempton_3_00_monday_you_lad.mp3"
       },
       {
-        "text": "They say they haven't even heard of us. So tell Aberama and Isiah to introduce themselves. And, Finn... you stay out of it.",
+        "text": "Introduce themselves",
         "character": "",
         "audioUrl": "audio/peaky-blinders/089_they_say_they_haven_t_even_heard_of_us_so_tell_aberama_and_i.mp3"
       },
       {
-        "text": "They're doing a magic spell. To make it win a race.",
+        "text": "A magic spell to win",
         "character": "",
         "audioUrl": "audio/peaky-blinders/090_they_re_doing_a_magic_spell_to_make_it_win_a_race.mp3"
       },
       {
-        "text": "This is a list on the other things Iwant doing. That's all. (CLEARS TH ROAT)",
+        "text": "A list of things I want done",
         "character": "",
         "audioUrl": "audio/peaky-blinders/091_this_is_a_list_on_the_other_things_iwant_doing_that_s_all_cl.mp3"
       },
       {
-        "text": "This letter says that Dad's dead.",
+        "text": "This letter says Dad's dead",
         "character": "",
         "audioUrl": "audio/peaky-blinders/092_this_letter_says_that_dad_s_dead.mp3"
       },
       {
-        "text": "Tommy grunts and retches. He coughs.",
+        "text": "Tommy coughs",
         "character": "",
         "audioUrl": "audio/peaky-blinders/094_tommy_grunts_and_retches_he_coughs.mp3"
       },
       {
-        "text": "TOMMY: 0h, there's a woman. Yeah. A woman. Who I love. And I got close.",
+        "text": "A woman who I love",
         "character": "",
         "audioUrl": "audio/peaky-blinders/095_tommy_0h_there_s_a_woman_yeah_a_woman_who_i_love_and_i_got_c.mp3"
       },
       {
-        "text": "TOMMY: Is it him? ARTHUR: Yeah. On his own doorstep. His own fucking doorstep.",
+        "text": "On his own doorstep",
         "character": "",
         "audioUrl": "audio/peaky-blinders/096_tommy_is_it_him_arthur_yeah_on_his_own_doorstep_his_own_fuck.mp3"
       },
       {
-        "text": "Who are we? - Let's go.",
+        "text": "Who are we? Let's go.",
         "character": "",
         "audioUrl": "audio/peaky-blinders/100_who_are_we_let_s_go.mp3"
       },
       {
-        "text": "Who's going to take the throne, eh? Black cat dreams are never wrong. They crucified my son... ..for you.",
+        "text": "Who takes the throne?",
         "character": "",
         "audioUrl": "audio/peaky-blinders/101_who_s_going_to_take_the_throne_eh_black_cat_dreams_are_never.mp3"
       },
       {
-        "text": "You and I will be done. THOMAS: And you will be king.",
+        "text": "You will be king",
         "character": "",
         "audioUrl": "audio/peaky-blinders/102_you_and_i_will_be_done_thomas_and_you_will_be_king.mp3"
       },
       {
-        "text": "You look a little unsteady, Mr Shelby. Take a seat.",
+        "text": "You look unsteady, Mr Shelby",
         "character": "",
         "audioUrl": "audio/peaky-blinders/103_you_look_a_little_unsteady_mr_shelby_take_a_seat.mp3"
       },
       {
-        "text": "You might think this is a curious place for me to suggest a meeting, but... your surprises have only just begun.",
+        "text": "Your surprises have just begun",
         "character": "",
         "audioUrl": "audio/peaky-blinders/104_you_might_think_this_is_a_curious_place_for_me_to_suggest_a.mp3"
       },
       {
-        "text": "You want me to go away? Yes. I'lljust leave these.",
+        "text": "You want me to go away?",
         "character": "",
         "audioUrl": "audio/peaky-blinders/105_you_want_me_to_go_away_yes_i_lljust_leave_these.mp3"
       },
       {
-        "text": "You're all right. You're all right. - It's all over. - Hold her.",
+        "text": "It's all over, hold her",
         "character": "",
         "audioUrl": "audio/peaky-blinders/106_you_re_all_right_you_re_all_right_it_s_all_over_hold_her.mp3"
       },
       {
-        "text": "- Clear that shit. Clear it! - All right. - Take her.",
+        "text": "Clear that shit, take her",
         "character": "",
         "audioUrl": "audio/peaky-blinders/107_clear_that_shit_clear_it_all_right_take_her.mp3"
       },
       {
-        "text": "-(FOOTSTEPS APPROACH) -(DOOR OPENS) -Mr Gray? -Yeah, send him in. It's your mother. (SOFTLY) 0h, fuck.",
+        "text": "It's your mother. Oh, fuck.",
         "character": "",
         "audioUrl": "audio/peaky-blinders/109_footsteps_approach_door_opens_mr_gray_yeah_send_him_in_it_s.mp3"
       },
       {
-        "text": "...and give him peace. Amen. Amen.",
+        "text": "Give him peace. Amen.",
         "character": "",
         "audioUrl": "audio/peaky-blinders/110_and_give_him_peace_amen_amen.mp3"
       },
       {
-        "text": "..for thine is the kingdom, the power and the glory, for ever and ever... ..Amen.",
+        "text": "For thine is the kingdom",
         "character": "",
         "audioUrl": "audio/peaky-blinders/111_for_thine_is_the_kingdom_the_power_and_the_glory_for_ever_a.mp3"
       }
@@ -6581,420 +6581,420 @@ const shows = [
       "accent": "#8ec4cc",
       "bg": "#04060a"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
-        "text": "All right, well... Everybody grab a box. Let's go.",
+        "text": "Everybody grab a box",
         "character": "",
         "audioUrl": "audio/ozark/001_all_right_well_everybody_grab_a_box_let_s_go.mp3"
       },
       {
-        "text": "Answer's the same as it was five minutes ago. She's been in there for hours. You don't say. Can you at least check to see what's going on? Nope.",
+        "text": "She's been in there for hours",
         "character": "",
         "audioUrl": "audio/ozark/003_answer_s_the_same_as_it_was_five_minutes_ago_she_s_been_in_t.mp3"
       },
       {
-        "text": "Are you ready to tell me where you are? [Wendy] No.",
+        "text": "Where are you? No",
         "character": "",
         "audioUrl": "audio/ozark/004_are_you_ready_to_tell_me_where_you_are_wendy_no.mp3"
       },
       {
-        "text": "Buddy told me he wanted to die at home in his bed. Do you think he'd be upset that he died in his car? No, sweetheart, I don't think he'd be upset about that.",
+        "text": "He died in his car",
         "character": "",
         "audioUrl": "audio/ozark/005_buddy_told_me_he_wanted_to_die_at_home_in_his_bed_do_you_thi.mp3"
       },
       {
-        "text": "Can you do me a favor and get the fuck out and close the door? I take my orders from Sam. -Oh, is that right? Well... -Mm hmm. Well, how 'bout I pop those tits and squeeze out the silicone? -How do you feel about that? -[gasps]",
+        "text": "Squeeze out the silicone",
         "character": "",
         "audioUrl": "audio/ozark/006_can_you_do_me_a_favor_and_get_the_fuck_out_and_close_the_doo.mp3"
       },
       {
-        "text": "Do you have his ashes? [sniffles]. Yeah. [sobs] Are they heavy?",
+        "text": "Are they heavy?",
         "character": "",
         "audioUrl": "audio/ozark/007_do_you_have_his_ashes_sniffles_yeah_sobs_are_they_heavy.mp3"
       },
       {
-        "text": "Enlighten my eyes... or I shall sleep the sleep of death.",
+        "text": "The sleep of death",
         "character": "",
         "audioUrl": "audio/ozark/008_enlighten_my_eyes_or_i_shall_sleep_the_sleep_of_death.mp3"
       },
       {
-        "text": "Great. Get the fuck out. Do it. -I don't need you. -[door opens] -I don't even fucking know you anymore. -[door shuts] [sighs]",
+        "text": "I don't know you anymore",
         "character": "",
         "audioUrl": "audio/ozark/010_great_get_the_fuck_out_do_it_i_don_t_need_you_door_opens_i_d.mp3"
       },
       {
-        "text": "He just sits there. [Charlotte] Who is he? Is he dangerous? Uh, no. He's not dangerous. He's a colleague. -Why don't you wave to him? -[engine starts]",
+        "text": "Is he dangerous?",
         "character": "",
         "audioUrl": "audio/ozark/011_he_just_sits_there_charlotte_who_is_he_is_he_dangerous_uh_no.mp3"
       },
       {
-        "text": "He loses it. Another day goes by, I'll lie in my bed... cry about... killing the kid on the scooter or... the homeless marine... or my father dying. And my father was not a good person, but... I imagine him there at the end.",
+        "text": "Cry about killing the kid",
         "character": "",
         "audioUrl": "audio/ozark/012_he_loses_it_another_day_goes_by_i_ll_lie_in_my_bed_cry_about.mp3"
       },
       {
-        "text": "Hey, Eddie, you got any Oxy? No Oxy. Got some H, though. -I don't want that shit. -Well, suit yourself. Wait.",
+        "text": "You got any Oxy?",
         "character": "",
         "audioUrl": "audio/ozark/013_hey_eddie_you_got_any_oxy_no_oxy_got_some_h_though_i_don_t_w.mp3"
       },
       {
-        "text": "Hey. Can I take a look at this?",
+        "text": "Can I take a look?",
         "character": "",
         "audioUrl": "audio/ozark/014_hey_can_i_take_a_look_at_this.mp3"
       },
       {
-        "text": "Hi. What? You don't recognize me without my tits in your face? How's it going, Raven? Actually, my name's Margaret. -You got that pay stub? -[softly] Yeah. Great.",
+        "text": "Without my tits in your face",
         "character": "",
         "audioUrl": "audio/ozark/015_hi_what_you_don_t_recognize_me_without_my_tits_in_your_face.mp3"
       },
       {
-        "text": "How is this any different from the power company. flooding out our forebears a hundred years ago? We entered into it by choice. We did, Darlene. Not without reservation, but for the benefit of the family. And our family will benefit. -The family? -Uh huh. What family?",
+        "text": "What family?",
         "character": "",
         "audioUrl": "audio/ozark/016_how_is_this_any_different_from_the_power_company_flooding_ou.mp3"
       },
       {
-        "text": "Jacob. Oh, God. Don't you go and die on me, baby. Oh, God, don't you die on me.",
+        "text": "Don't die on me, baby",
         "character": "",
         "audioUrl": "audio/ozark/018_jacob_oh_god_don_t_you_go_and_die_on_me_baby_oh_god_don_t_yo.mp3"
       },
       {
-        "text": "Marty! Welcome to our home, Martin Byrde.",
+        "text": "Welcome to our home, Martin Byrde",
         "character": "",
         "audioUrl": "audio/ozark/019_marty_welcome_to_our_home_martin_byrde.mp3"
       },
       {
-        "text": "Morning, ladies. -We ready? -Mm hmm. Looking good. Call the Mexicans.",
+        "text": "Call the Mexicans",
         "character": "",
         "audioUrl": "audio/ozark/020_morning_ladies_we_ready_mm_hmm_looking_good_call_the_mexican.mp3"
       },
       {
-        "text": "Not very. [sniffling]",
+        "text": "Not very",
         "character": "",
         "audioUrl": "audio/ozark/021_not_very_sniffling.mp3"
       },
       {
-        "text": "Off you go. [Erin] Hi, guys.",
+        "text": "Off you go",
         "character": "",
         "audioUrl": "audio/ozark/022_off_you_go_erin_hi_guys.mp3"
       },
       {
-        "text": "Oh. Mmm. [inhales deeply] -I'm so sorry you feel that way. Hmm. -Hmm. Hmm.",
+        "text": "Sorry you feel that way",
         "character": "",
         "audioUrl": "audio/ozark/023_oh_mmm_inhales_deeply_i_m_so_sorry_you_feel_that_way_hmm_hmm.mp3"
       },
       {
-        "text": "Okay. I got the rest of this. Thank you.",
+        "text": "I got the rest",
         "character": "",
         "audioUrl": "audio/ozark/024_okay_i_got_the_rest_of_this_thank_you.mp3"
       },
       {
-        "text": "Open the goddamn door! ReEncoded By Dr.XJ | PSA www.PSArips.com.",
+        "text": "Open the goddamn door!",
         "character": "",
         "audioUrl": "audio/ozark/025_open_the_goddamn_door_reencoded_by_dr_xj_psa_www_psarips_com.mp3"
       },
       {
-        "text": "Sue? Sue, are you here? It's Marty.",
+        "text": "Sue, are you here?",
         "character": "",
         "audioUrl": "audio/ozark/026_sue_sue_are_you_here_it_s_marty.mp3"
       },
       {
-        "text": "The kids love you. And I love you.",
+        "text": "The kids love you",
         "character": "",
         "audioUrl": "audio/ozark/027_the_kids_love_you_and_i_love_you.mp3"
       },
       {
-        "text": "Things happen. You apologize and you move on. She blew a man's head off. For which she is contrite. Am I supposed to believe that? -The woman brought you fresh honey. -Mm hmm.",
+        "text": "She blew a man's head off",
         "character": "",
         "audioUrl": "audio/ozark/028_things_happen_you_apologize_and_you_move_on_she_blew_a_man_s.mp3"
       },
       {
-        "text": "Took it the night we were putting it in the wall. I don't even know why I did it. -How much is it? -Ten thousand. You think I should tell Mom and Dad? No. We might need it. [Charlotte sighs]",
+        "text": "We might need it",
         "character": "",
         "audioUrl": "audio/ozark/029_took_it_the_night_we_were_putting_it_in_the_wall_i_don_t_eve.mp3"
       },
       {
-        "text": "What are you doing in the safe? Looking for the ham sandwich I left.",
+        "text": "Looking for the ham sandwich",
         "character": "",
         "audioUrl": "audio/ozark/030_what_are_you_doing_in_the_safe_looking_for_the_ham_sandwich.mp3"
       },
       {
-        "text": "What are you doing? [gunshots] ♪ Oh, don't you know It's time for me to fly ♪ -♪ Oh, I've got to set myself free ♪ -♪ Time for me to fly ♪ ♪ Oh, baby, that's just how It's got to be ♪ [soft moan]",
+        "text": "Time for me to fly",
         "character": "",
         "audioUrl": "audio/ozark/031_what_are_you_doing_gunshots_oh_don_t_you_know_it_s_time_for.mp3"
       },
       {
-        "text": "Would you die without that oxygen? Hey, I don't know. Am I dead yet? Hmm? [chuckles] Yeah. Wanna try?",
+        "text": "Am I dead yet?",
         "character": "",
         "audioUrl": "audio/ozark/032_would_you_die_without_that_oxygen_hey_i_don_t_know_am_i_dead.mp3"
       },
       {
-        "text": "You like your fucking job? Just shut the door, please.",
+        "text": "Just shut the door",
         "character": "",
         "audioUrl": "audio/ozark/033_you_like_your_fucking_job_just_shut_the_door_please.mp3"
       },
       {
-        "text": "You sound like your brother. Hmm. I just gotta get myself re socialized, I guess. There is no excuse. -Hmm. -Can you forgive me?",
+        "text": "Can you forgive me?",
         "character": "",
         "audioUrl": "audio/ozark/034_you_sound_like_your_brother_hmm_i_just_gotta_get_myself_re_s.mp3"
       },
       {
-        "text": "You think I should say something? No, it'll just give them something else to fight about.",
+        "text": "Something else to fight about",
         "character": "",
         "audioUrl": "audio/ozark/035_you_think_i_should_say_something_no_it_ll_just_give_them_som.mp3"
       },
       {
-        "text": "You understand punitive interest, don't you, Marty? $200,000.",
+        "text": "Punitive interest, Marty",
         "character": "",
         "audioUrl": "audio/ozark/036_you_understand_punitive_interest_don_t_you_marty_200_000.mp3"
       },
       {
-        "text": "You wanna talk about a house, all that shit? I'll listen. No. You're right. That's not for us.",
+        "text": "That's not for us",
         "character": "",
         "audioUrl": "audio/ozark/037_you_wanna_talk_about_a_house_all_that_shit_i_ll_listen_no_yo.mp3"
       },
       {
-        "text": "You're gonna walk home? Home is a 43 minute walk from here. By the time I get there, I want you out.",
+        "text": "A 43 minute walk home",
         "character": "",
         "audioUrl": "audio/ozark/038_you_re_gonna_walk_home_home_is_a_43_minute_walk_from_here_by.mp3"
       },
       {
-        "text": "-[\"Besame Mucho\" playing] -[trembling breaths]",
+        "text": "Besame Mucho",
         "character": "",
         "audioUrl": "audio/ozark/039_besame_mucho_playing_trembling_breaths.mp3"
       },
       {
-        "text": "-[birds twittering] -[water laps softly]",
+        "text": "Birds and water",
         "character": "",
         "audioUrl": "audio/ozark/040_birds_twittering_water_laps_softly.mp3"
       },
       {
-        "text": "-[grunts] -[screaming] [shouting in Spanish] [screams] -[gags] -[grunts]",
+        "text": "Screaming in Spanish",
         "character": "",
         "audioUrl": "audio/ozark/041_grunts_screaming_shouting_in_spanish_screams_gags_grunts.mp3"
       },
       {
-        "text": "-[hammering] -[saw whirring] ReEncoded By Dr.XJ | PSA www.PSArips.com.",
+        "text": "Hammering and sawing",
         "character": "",
         "audioUrl": "audio/ozark/042_hammering_saw_whirring_reencoded_by_dr_xj_psa_www_psarips_c.mp3"
       },
       {
-        "text": "-[indistinct chatter on police radio] -[camera clicking]",
+        "text": "Police radio chatter",
         "character": "",
         "audioUrl": "audio/ozark/043_indistinct_chatter_on_police_radio_camera_clicking.mp3"
       },
       {
-        "text": "-[keys jangling] -[footsteps approaching] -[panting] -[doors open] Who's that? ¿Quién es ese? [grunting]",
+        "text": "Who's that?",
         "character": "",
         "audioUrl": "audio/ozark/044_keys_jangling_footsteps_approaching_panting_doors_open_who.mp3"
       },
       {
-        "text": "-[man] Yeah, baby! -[cheering] -It's party time! -[man] Hit it!",
+        "text": "It's party time!",
         "character": "",
         "audioUrl": "audio/ozark/045_man_yeah_baby_cheering_it_s_party_time_man_hit_it.mp3"
       },
       {
-        "text": "-[Muzak plays softly over speakers] -[door bell jingling] ReEncoded By Dr.XJ | PSA www.PSArips.com.",
+        "text": "Muzak and a door bell",
         "character": "",
         "audioUrl": "audio/ozark/046_muzak_plays_softly_over_speakers_door_bell_jingling_reencod.mp3"
       },
       {
-        "text": "-[Wilkes] I know. It's a lot. -Please. -In Chicago, this would be baby steps. -[Wilkes chuckles] They're all gonna be at the prayer luncheon today.",
+        "text": "In Chicago this is baby steps",
         "character": "",
         "audioUrl": "audio/ozark/047_wilkes_i_know_it_s_a_lot_please_in_chicago_this_would_be_ba.mp3"
       },
       {
-        "text": "-Fuck, yeah. -What? My broker told me to short Weight Watchers, and it just went down 12%. [chuckles] You got a broker? You gotta clean your money somehow, man. -Hey, look, I'll send you his email. -Okay.",
+        "text": "Short Weight Watchers",
         "character": "",
         "audioUrl": "audio/ozark/048_fuck_yeah_what_my_broker_told_me_to_short_weight_watchers_a.mp3"
       },
       {
-        "text": "-iVamos! -[handcuffs ratchet] [opens box]",
+        "text": "¡Vamos!",
         "character": "",
         "audioUrl": "audio/ozark/049_ivamos_handcuffs_ratchet_opens_box.mp3"
       },
       {
-        "text": "-Ma'am. Ma'am? -What's wrong with her? We don't know yet, son. Pinpoint pupils. Do you know what kind of drugs she was taking? -Resp in the toilet. You wanna intubate? -No, let's bag her first.",
+        "text": "Pinpoint pupils, bag her",
         "character": "",
         "audioUrl": "audio/ozark/050_ma_am_ma_am_what_s_wrong_with_her_we_don_t_know_yet_son_pin.mp3"
       },
       {
-        "text": "-Yeah? -People are complaining. [Petty] You mean the one other person that's here? There's people in here yappin' all night. Well, look, there's no one here but me. Keep it down, okay?",
+        "text": "People are complaining",
         "character": "",
         "audioUrl": "audio/ozark/051_yeah_people_are_complaining_petty_you_mean_the_one_other_pe.mp3"
       },
       {
-        "text": "-You want a do over? -Uh, no. -Are you sure? -Yep. If I was going on a trip, I'd be smiling. Well, it's a white background, no shadow, eyes open, neutral expression. That's a TSA checklist right there. -So, where are you headed? -Abroad.",
+        "text": "Where are you headed? Abroad",
         "character": "",
         "audioUrl": "audio/ozark/052_you_want_a_do_over_uh_no_are_you_sure_yep_if_i_was_going_on.mp3"
       },
       {
-        "text": "[beeping] Adiós, pendejo.",
+        "text": "Adiós, pendejo",
         "character": "",
         "audioUrl": "audio/ozark/053_beeping_adi_s_pendejo.mp3"
       },
       {
-        "text": "[bugs chirring] [mourning dove calls]",
+        "text": "Bugs and a dove",
         "character": "",
         "audioUrl": "audio/ozark/054_bugs_chirring_mourning_dove_calls.mp3"
       },
       {
-        "text": "[Cade chuckles] Don't mind if I do. We'll come back after dark, Ruthie. [chuckles]",
+        "text": "Come back after dark, Ruthie",
         "character": "",
         "audioUrl": "audio/ozark/055_cade_chuckles_don_t_mind_if_i_do_we_ll_come_back_after_dark.mp3"
       },
       {
-        "text": "[captured man whispers prayer in Spanish]",
+        "text": "A whispered prayer",
         "character": "",
         "audioUrl": "audio/ozark/056_captured_man_whispers_prayer_in_spanish.mp3"
       },
       {
-        "text": "[Darlene] Hold on, baby. Please, please, please, just hold on. [rapid gunfire] Drive, you idiot. [tires screeching]",
+        "text": "Drive, you idiot",
         "character": "",
         "audioUrl": "audio/ozark/058_darlene_hold_on_baby_please_please_please_just_hold_on_rapi.mp3"
       },
       {
-        "text": "[Darlene] Jacob's angry with me. I can tell. [sighs] Just feels different.",
+        "text": "Jacob's angry with me",
         "character": "",
         "audioUrl": "audio/ozark/059_darlene_jacob_s_angry_with_me_i_can_tell_sighs_just_feels_d.mp3"
       },
       {
-        "text": "[dialing] -What the fuck are you doing? -Calling the cops. Stop! Don't! Who the hell are those people? Ask your fucking sister.",
+        "text": "Ask your fucking sister",
         "character": "",
         "audioUrl": "audio/ozark/060_dialing_what_the_fuck_are_you_doing_calling_the_cops_stop_d.mp3"
       },
       {
-        "text": "[dials] [crickets chirping ringtone]",
+        "text": "A ringtone",
         "character": "",
         "audioUrl": "audio/ozark/061_dials_crickets_chirping_ringtone.mp3"
       },
       {
-        "text": "[door opens] [door shuts] [clicks]",
+        "text": "A door",
         "character": "",
         "audioUrl": "audio/ozark/062_door_opens_door_shuts_clicks.mp3"
       },
       {
-        "text": "[door opens] You can't just walk in here like this. What if I was dressing? [Cade] You really think I'm gonna see something that shocks me? And you got a fucking job to see about. [breathes deeply] I'm sorry I laid hands on you.",
+        "text": "I'm sorry I laid hands on you",
         "character": "",
         "audioUrl": "audio/ozark/063_door_opens_you_can_t_just_walk_in_here_like_this_what_if_i.mp3"
       },
       {
-        "text": "[groans softly] [sirens wailing in the distance] [breathing shakily]",
+        "text": "Sirens in the distance",
         "character": "",
         "audioUrl": "audio/ozark/064_groans_softly_sirens_wailing_in_the_distance_breathing_shak.mp3"
       },
       {
-        "text": "[Jacob] Busy morning looks like. Not a thing to worry about. This is Jonah's, just back from the taxiderm. What the hell's that? Boy's first kill.",
+        "text": "Boy's first kill",
         "character": "",
         "audioUrl": "audio/ozark/065_jacob_busy_morning_looks_like_not_a_thing_to_worry_about_th.mp3"
       },
       {
-        "text": "[Junior Walker & The All Stars' \"Shotgun\" playing on radio] [Buddy laughing] Oh, man. Now this takes me way back.",
+        "text": "This takes me way back",
         "character": "",
         "audioUrl": "audio/ozark/066_junior_walker_the_all_stars_shotgun_playing_on_radio_buddy.mp3"
       },
       {
-        "text": "[knocks] Sue? [rings doorbell] It's Marty. [knocks]",
+        "text": "Sue? It's Marty",
         "character": "",
         "audioUrl": "audio/ozark/067_knocks_sue_rings_doorbell_it_s_marty_knocks.mp3"
       },
       {
-        "text": "[men and women chattering in Spanish] -[Mariachi music playing] -[chatter, laughter continuing]",
+        "text": "Mariachi music",
         "character": "",
         "audioUrl": "audio/ozark/068_men_and_women_chattering_in_spanish_mariachi_music_playing.mp3"
       },
       {
-        "text": "[men and women screaming] [device beeping] [clamoring]",
+        "text": "Screaming and beeping",
         "character": "",
         "audioUrl": "audio/ozark/069_men_and_women_screaming_device_beeping_clamoring.mp3"
       },
       {
-        "text": "[men murmuring in Spanish]",
+        "text": "Men murmuring",
         "character": "",
         "audioUrl": "audio/ozark/070_men_murmuring_in_spanish.mp3"
       },
       {
-        "text": "[music plays in Spanish over radio] [speaking Spanish]",
+        "text": "Spanish radio",
         "character": "",
         "audioUrl": "audio/ozark/071_music_plays_in_spanish_over_radio_speaking_spanish.mp3"
       },
       {
-        "text": "[rock music playing over speakers] [sales associate over speakers] Attention, Superstore shoppers. Stock up on cold weather gear, now ten percent off with our September Super Savings Sale. Hey, sport. How can I help? -Hi. -Hi.",
+        "text": "Attention, Superstore shoppers",
         "character": "",
         "audioUrl": "audio/ozark/073_rock_music_playing_over_speakers_sales_associate_over_speak.mp3"
       },
       {
-        "text": "[Ruth] I only saw the one who pointed the gun at me. [Ben] Uh, there were four. Uh, the driver, and the three who threw Marty in the backseat. -And the man in charge. Describe him. -Um... Little guy. Uh, he had mean eyes, uh, and balding, balding. Shit.",
+        "text": "He had mean eyes",
         "character": "",
         "audioUrl": "audio/ozark/075_ruth_i_only_saw_the_one_who_pointed_the_gun_at_me_ben_uh_th.mp3"
       },
       {
-        "text": "[shouts] [theme music playing]",
+        "text": "Theme music",
         "character": "",
         "audioUrl": "audio/ozark/076_shouts_theme_music_playing.mp3"
       },
       {
-        "text": "[sliding door opens] [Charlotte] I'm ready. Hon, I know we said yes, but I don't think this is a good idea. Was last night really an accident? -[bell tolling continues] -Yeah. [Charlotte] Well, then I wanna go.",
+        "text": "I wanna go",
         "character": "",
         "audioUrl": "audio/ozark/077_sliding_door_opens_charlotte_i_m_ready_hon_i_know_we_said_y.mp3"
       },
       {
-        "text": "[slurps] We're here, whenever you want to come home, okay?",
+        "text": "Come home whenever",
         "character": "",
         "audioUrl": "audio/ozark/078_slurps_we_re_here_whenever_you_want_to_come_home_okay.mp3"
       },
       {
-        "text": "[snoring] [theme music playing]",
+        "text": "Snoring",
         "character": "",
         "audioUrl": "audio/ozark/079_snoring_theme_music_playing.mp3"
       },
       {
-        "text": "[snorting] [sniffles]",
+        "text": "Snorting",
         "character": "",
         "audioUrl": "audio/ozark/080_snorting_sniffles.mp3"
       },
       {
-        "text": "[speaking Spanish]",
+        "text": "Speaking Spanish",
         "character": "",
         "audioUrl": "audio/ozark/081_speaking_spanish.mp3"
       },
       {
-        "text": "[ticking] [festive music continues playing] [explosion] [theme music playing]",
+        "text": "An explosion",
         "character": "",
         "audioUrl": "audio/ozark/082_ticking_festive_music_continues_playing_explosion_theme_mus.mp3"
       },
       {
-        "text": "[tires screech] [Helen] I'm telling you, I had nothing to do with this. -You wouldn't tell me if you did. -I didn't do this. But I was afraid it would happen.",
+        "text": "I had nothing to do with this",
         "character": "",
         "audioUrl": "audio/ozark/083_tires_screech_helen_i_m_telling_you_i_had_nothing_to_do_wit.mp3"
       },
       {
-        "text": "[tires screeching] [grunting] Get the fuck away from me. -[Ash] Get up. -Get the fuck away from me! -Get the fuck up! -What's your problem? -Get the... -[man grunts] Okay, all right! Get in the truck! [all grunting] -Get in the fucking truck. Get-- -[grunting]",
+        "text": "Get in the fucking truck",
         "character": "",
         "audioUrl": "audio/ozark/084_tires_screeching_grunting_get_the_fuck_away_from_me_ash_get.mp3"
       },
       {
-        "text": "[Tuck] Over here! Help! Quick, hurry! Hurry up! This way! Hurry!",
+        "text": "Over here! Help!",
         "character": "",
         "audioUrl": "audio/ozark/085_tuck_over_here_help_quick_hurry_hurry_up_this_way_hurry.mp3"
       },
       {
-        "text": "[vultures screeching] ReEncoded By Dr.XJ | PSA www.PSArips.com.",
+        "text": "Vultures screeching",
         "character": "",
         "audioUrl": "audio/ozark/086_vultures_screeching_reencoded_by_dr_xj_psa_www_psarips_com.mp3"
       },
       {
-        "text": "[woman] Go ahead. Give it to her. [Tuck sobbing] Is she dead?",
+        "text": "Is she dead?",
         "character": "",
         "audioUrl": "audio/ozark/088_woman_go_ahead_give_it_to_her_tuck_sobbing_is_she_dead.mp3"
       },
       {
-        "text": "[woman] Mason! Ash is here to help with the boat. [Mason] I'll be in in a second.",
+        "text": "Ash is here for the boat",
         "character": "",
         "audioUrl": "audio/ozark/089_woman_mason_ash_is_here_to_help_with_the_boat_mason_i_ll_be.mp3"
       },
       {
-        "text": "$724,000 is all I've got and it's earmarked. All you got sounds about right. [scoffs]",
+        "text": "$724,000, all earmarked",
         "character": "",
         "audioUrl": "audio/ozark/090_724_000_is_all_i_ve_got_and_it_s_earmarked_all_you_got_soun.mp3"
       }
@@ -11567,395 +11567,395 @@ const shows = [
       "accent": "#3a8688",
       "bg": "#0a0808"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
-        "text": "All right, all right. We just signed a new recruit. So I'm gonna need all hands on deck for this one. Cathy, can you pull the video up on the big screen, please?",
+        "text": "We signed a new recruit",
         "character": "",
         "audioUrl": "audio/atlanta/001_all_right_all_right_we_just_signed_a_new_recruit_so_i_m_gonn.mp3"
       },
       {
-        "text": "An FX original series. The Americans. The riveting final season. Premieres March 28 on FX. FX presents Atlanta. (train whistle blowing in distance)",
+        "text": "FX promo: The Americans",
         "character": "",
         "audioUrl": "audio/atlanta/002_an_fx_original_series_the_americans_the_riveting_final_seaso.mp3"
       },
       {
-        "text": "Are you coming back tonight? Um... No...",
+        "text": "Are you coming back tonight?",
         "character": "",
         "audioUrl": "audio/atlanta/003_are_you_coming_back_tonight_um_no.mp3"
       },
       {
-        "text": "Are you high? Not really. Jesus.",
+        "text": "Are you high? Not really",
         "character": "",
         "audioUrl": "audio/atlanta/004_are_you_high_not_really_jesus.mp3"
       },
       {
-        "text": "Can you hand me those? Um, this? - Yeah. - Thank you. No problem.",
+        "text": "Can you hand me those?",
         "character": "",
         "audioUrl": "audio/atlanta/005_can_you_hand_me_those_um_this_yeah_thank_you_no_problem.mp3"
       },
       {
-        "text": "Come on. -Jewish. -Yeah. -Jewish dude, man. -Yeah, I got you.",
+        "text": "Jewish dude, man",
         "character": "",
         "audioUrl": "audio/atlanta/006_come_on_jewish_yeah_jewish_dude_man_yeah_i_got_you.mp3"
       },
       {
-        "text": "Come on. Please, come sit in the parlor. Oh, cool. I've never been in a house with a parlor before.",
+        "text": "I've never seen a parlor",
         "character": "",
         "audioUrl": "audio/atlanta/007_come_on_please_come_sit_in_the_parlor_oh_cool_i_ve_never_bee.mp3"
       },
       {
-        "text": "CURTIS: Fuck, go, go, fuck it, fuck, man, go.",
+        "text": "Fuck, go, go!",
         "character": "",
         "audioUrl": "audio/atlanta/008_curtis_fuck_go_go_fuck_it_fuck_man_go.mp3"
       },
       {
-        "text": "Do you know where, um... my underwear or my belt is? Uh... Do you speak English?",
+        "text": "Where's my underwear?",
         "character": "",
         "audioUrl": "audio/atlanta/009_do_you_know_where_um_my_underwear_or_my_belt_is_uh_do_you_sp.mp3"
       },
       {
-        "text": "DRIVER: No moving around the bus.",
+        "text": "No moving around the bus",
         "character": "",
         "audioUrl": "audio/atlanta/010_driver_no_moving_around_the_bus.mp3"
       },
       {
-        "text": "EARN: What's up? Chillin'. Cool shirt. Thanks. You do the math homework? I forgot about it. Just copy it during lunch.",
+        "text": "Copy it during lunch",
         "character": "",
         "audioUrl": "audio/atlanta/012_earn_what_s_up_chillin_cool_shirt_thanks_you_do_the_math_hom.mp3"
       },
       {
-        "text": "EARN: Yo, we should probably get moving. You know, the 75 about to be crazy. Oh, and your fit's on the table. Yeah. Hey, man, if you want this money, we need this college fan base. And, you know, first it's this, then it's Spring Fling, and that's $60K, guaranteed.",
+        "text": "Spring Fling, $60K guaranteed",
         "character": "",
         "audioUrl": "audio/atlanta/013_earn_yo_we_should_probably_get_moving_you_know_the_75_about.mp3"
       },
       {
-        "text": "Everything is gonna be okay. Hugs.",
+        "text": "Everything is gonna be okay",
         "character": "",
         "audioUrl": "audio/atlanta/014_everything_is_gonna_be_okay_hugs.mp3"
       },
       {
-        "text": "Excuse me, sir. I have to pat you down. Lift up your hands, please. I can't. Why not? I lost my belt. And my underwear. I'm sorry, sir. I can't let you through if you don't lift your hands.",
+        "text": "I lost my belt and underwear",
         "character": "",
         "audioUrl": "audio/atlanta/015_excuse_me_sir_i_have_to_pat_you_down_lift_up_your_hands_plea.mp3"
       },
       {
-        "text": "FX's American Horror Story: NYC. ll new, A ednesdays at 10:00 on FX.W",
+        "text": "FX promo: AHS NYC",
         "character": "",
         "audioUrl": "audio/atlanta/016_fx_s_american_horror_story_nyc_ll_new_a_ednesdays_at_10_00_o.mp3"
       },
       {
-        "text": "Geez. -This place is a mess. -Mm. You ever hear of a trash can? -And I know you know how to fold. Uh uh. Get up. You know good and well I did not raise a son this lazy. Get on up now. It's close to noon.",
+        "text": "This place is a mess",
         "character": "",
         "audioUrl": "audio/atlanta/017_geez_this_place_is_a_mess_mm_you_ever_hear_of_a_trash_can_an.mp3"
       },
       {
-        "text": "GLORIA: Earn? You better be up, in there. I am. * Here comes the brand new flava in ya ear * * Time for new flava in ya ear... *",
+        "text": "You better be up",
         "character": "",
         "audioUrl": "audio/atlanta/018_gloria_earn_you_better_be_up_in_there_i_am_here_comes_the_br.mp3"
       },
       {
-        "text": "Got dang! Whoo! ♪ At night I can't sleep, I toss and turn ♪ Candlesticks in the dark ♪. ♪ Visions of bodies bein' burned ♪ ♪ Four walls just starin' at a nigga ♪ ♪ I'm paranoid, sleepin' with my finger on the trigger... ♪",
+        "text": "Paranoid, finger on the trigger",
         "character": "",
         "audioUrl": "audio/atlanta/019_got_dang_whoo_at_night_i_can_t_sleep_i_toss_and_turn_candles.mp3"
       },
       {
-        "text": "Hello? Um, I'm here for the... the, uh, pick... Was that Mr. Wonder?",
+        "text": "Here for the pickup",
         "character": "",
         "audioUrl": "audio/atlanta/020_hello_um_i_m_here_for_the_the_uh_pick_was_that_mr_wonder.mp3"
       },
       {
-        "text": "Hey, Al, whatever happens, just know that I love you very much. Okay. - Let's do this. - Mm.",
+        "text": "I love you very much",
         "character": "",
         "audioUrl": "audio/atlanta/021_hey_al_whatever_happens_just_know_that_i_love_you_very_much.mp3"
       },
       {
-        "text": "Hey, are you okay? I'm just so happy. Y'all pretty. I'm a take y'all home with me. Just kidding.",
+        "text": "I'm a take y'all home",
         "character": "",
         "audioUrl": "audio/atlanta/022_hey_are_you_okay_i_m_just_so_happy_y_all_pretty_i_m_a_take_y.mp3"
       },
       {
-        "text": "Hey, man, I'm sorry, though. -I didn't mean to... -Yo. You threw that yogurt out the window? Yeah, listen, I'm sorry.",
+        "text": "You threw the yogurt out?",
         "character": "",
         "audioUrl": "audio/atlanta/024_hey_man_i_m_sorry_though_i_didn_t_mean_to_yo_you_threw_that.mp3"
       },
       {
-        "text": "Hey, who did that? Huh? I said, who did that? Aw.",
+        "text": "Who did that?",
         "character": "",
         "audioUrl": "audio/atlanta/025_hey_who_did_that_huh_i_said_who_did_that_aw.mp3"
       },
       {
-        "text": "Hi. Morning. Come on, Gizmo. We're gonna be late.",
+        "text": "Come on, Gizmo, we're late",
         "character": "",
         "audioUrl": "audio/atlanta/026_hi_morning_come_on_gizmo_we_re_gonna_be_late.mp3"
       },
       {
-        "text": "How much for that hat? And this? Ten dollars. Bet.",
+        "text": "How much for that hat?",
         "character": "",
         "audioUrl": "audio/atlanta/028_how_much_for_that_hat_and_this_ten_dollars_bet.mp3"
       },
       {
-        "text": "I do know one thing, though. If you're still in my house when you graduate, you're paying rent. Yeah, I know. And if you miss that bus again, you're walking. - Four miles? - Or catching MARTA, which we both know you're too scared to do. Bye, Dad.",
+        "text": "You're paying rent",
         "character": "",
         "audioUrl": "audio/atlanta/029_i_do_know_one_thing_though_if_you_re_still_in_my_house_when.mp3"
       },
       {
-        "text": "I mean... Yeah, I've thought about it a lot, actually.",
+        "text": "I've thought about it a lot",
         "character": "",
         "audioUrl": "audio/atlanta/030_i_mean_yeah_i_ve_thought_about_it_a_lot_actually.mp3"
       },
       {
-        "text": "I'll pay for it, man. Damn, just move. Thank you, fate. I'll have the same thing, man. Okay.",
+        "text": "Thank you, fate",
         "character": "",
         "audioUrl": "audio/atlanta/031_i_ll_pay_for_it_man_damn_just_move_thank_you_fate_i_ll_have.mp3"
       },
       {
-        "text": "I'm Darius. Apologies. I'm Theodore Perkins. Please... call me Teddy.",
+        "text": "Call me Teddy",
         "character": "",
         "audioUrl": "audio/atlanta/032_i_m_darius_apologies_i_m_theodore_perkins_please_call_me_ted.mp3"
       },
       {
-        "text": "I've been inconsiderate. I get it. I'm sorry.",
+        "text": "I've been inconsiderate",
         "character": "",
         "audioUrl": "audio/atlanta/033_i_ve_been_inconsiderate_i_get_it_i_m_sorry.mp3"
       },
       {
-        "text": "In the car? Oh, yeah. Music of My Mind. Masterpiece. I love Stevie. Yeah, me, too. I I like to, uh, listen to it on long drives. because, uh, his songs are long, you know? Yes.",
+        "text": "I love Stevie",
         "character": "",
         "audioUrl": "audio/atlanta/034_in_the_car_oh_yeah_music_of_my_mind_masterpiece_i_love_stevi.mp3"
       },
       {
-        "text": "Is it weird that made me hungry? You, too?",
+        "text": "That made me hungry",
         "character": "",
         "audioUrl": "audio/atlanta/035_is_it_weird_that_made_me_hungry_you_too.mp3"
       },
       {
-        "text": "Let me get Daddy over here. Ooh. You help me, Earn?",
+        "text": "You help me, Earn?",
         "character": "",
         "audioUrl": "audio/atlanta/037_let_me_get_daddy_over_here_ooh_you_help_me_earn.mp3"
       },
       {
-        "text": "MAN: This is who I am. This is my truth. * ANNOUNCER: FX presents Atlanta.",
+        "text": "This is my truth (FX promo)",
         "character": "",
         "audioUrl": "audio/atlanta/038_man_this_is_who_i_am_this_is_my_truth_announcer_fx_presents.mp3"
       },
       {
-        "text": "Mm hmm. Fuck with me. Mm hmm.",
+        "text": "Fuck with me",
         "character": "",
         "audioUrl": "audio/atlanta/039_mm_hmm_fuck_with_me_mm_hmm.mp3"
       },
       {
-        "text": "Oh. Look at you.",
+        "text": "Oh, look at you",
         "character": "",
         "audioUrl": "audio/atlanta/041_oh_look_at_you.mp3"
       },
       {
-        "text": "Oh... (coughing) Shit. (sighs)",
+        "text": "Oh, shit",
         "character": "",
         "audioUrl": "audio/atlanta/042_oh_coughing_shit_sighs.mp3"
       },
       {
-        "text": "Paper mail. * Paper mail, all about my paper mail * (chewing) Mm. Mm. Breakfast cup. You made that up. Everything's made up, nigga, stay woke. Hey, man. That dude from last night talking shit. What?",
+        "text": "Everything's made up, stay woke",
         "character": "",
         "audioUrl": "audio/atlanta/043_paper_mail_paper_mail_all_about_my_paper_mail_chewing_mm_mm.mp3"
       },
       {
-        "text": "Sh... Sorry. Do you got any dehydrated mango, ginger? Jicama, perhaps? Nah. Hmm. This place sucks.",
+        "text": "Dehydrated mango, ginger?",
         "character": "",
         "audioUrl": "audio/atlanta/044_sh_sorry_do_you_got_any_dehydrated_mango_ginger_jicama_perha.mp3"
       },
       {
-        "text": "So, have you... thought more about L.A.?",
+        "text": "Thought more about L.A.?",
         "character": "",
         "audioUrl": "audio/atlanta/045_so_have_you_thought_more_about_l_a.mp3"
       },
       {
-        "text": "Sorry, coming through. Sorry. Sorry, miss. I'm gonna let him through. All right. Go ahead. Yeah. Thank you.",
+        "text": "Sorry, coming through",
         "character": "",
         "audioUrl": "audio/atlanta/046_sorry_coming_through_sorry_sorry_miss_i_m_gonna_let_him_thro.mp3"
       },
       {
-        "text": "Sorry. Um... Where where was I? I don't... Probation, Princeton. Right. Um, really is, um, getting a sense of, uh... - Sorry. Sorry. - Hmm.",
+        "text": "Where was I?",
         "character": "",
         "audioUrl": "audio/atlanta/047_sorry_um_where_where_was_i_i_don_t_probation_princeton_right.mp3"
       },
       {
-        "text": "Thanks. (piano music) *",
+        "text": "Thanks",
         "character": "",
         "audioUrl": "audio/atlanta/049_thanks_piano_music.mp3"
       },
       {
-        "text": "This it? Yeah. We made it.",
+        "text": "We made it",
         "character": "",
         "audioUrl": "audio/atlanta/050_this_it_yeah_we_made_it.mp3"
       },
       {
-        "text": "This thing kills everyone.",
+        "text": "This thing kills everyone",
         "character": "",
         "audioUrl": "audio/atlanta/051_this_thing_kills_everyone.mp3"
       },
       {
-        "text": "Those ones, I think, go by the door. Hmm. Are we missing a pole? Doesn't quite look right. What do you think?",
+        "text": "Are we missing a pole?",
         "character": "",
         "audioUrl": "audio/atlanta/052_those_ones_i_think_go_by_the_door_hmm_are_we_missing_a_pole.mp3"
       },
       {
-        "text": "Told ya. (music playing inside)",
+        "text": "Told ya",
         "character": "",
         "audioUrl": "audio/atlanta/053_told_ya_music_playing_inside.mp3"
       },
       {
-        "text": "Van, it's me. It's Candice. - Non... Non. - No? Désolée... Candice! I'm so sorry, chérie. It is so good to see... to see you.",
+        "text": "It's me, Candice",
         "character": "",
         "audioUrl": "audio/atlanta/054_van_it_s_me_it_s_candice_non_non_no_d_sol_e_candice_i_m_so_s.mp3"
       },
       {
-        "text": "We were gonna talk about it a little later. Yeah. Whenever you want.",
+        "text": "Whenever you want",
         "character": "",
         "audioUrl": "audio/atlanta/055_we_were_gonna_talk_about_it_a_little_later_yeah_whenever_you.mp3"
       },
       {
-        "text": "Whoo hoo hoo! ANNOUNCER: Archer Danger Island. All new, Wednesdays at 10:00. Only on FXX. FX presents Atlanta.",
+        "text": "FX promo: Archer",
         "character": "",
         "audioUrl": "audio/atlanta/057_whoo_hoo_hoo_announcer_archer_danger_island_all_new_wednesda.mp3"
       },
       {
-        "text": "WOMAN: Paul's been having a difficult time of late.",
+        "text": "Paul's having a difficult time",
         "character": "",
         "audioUrl": "audio/atlanta/058_woman_paul_s_been_having_a_difficult_time_of_late.mp3"
       },
       {
-        "text": "Would you like a glass of water? Yeah. Kind of parched. Darius would like a glass of water when you have a moment.",
+        "text": "A glass of water",
         "character": "",
         "audioUrl": "audio/atlanta/059_would_you_like_a_glass_of_water_yeah_kind_of_parched_darius.mp3"
       },
       {
-        "text": "Wow. I should probably... yeah. Okay.",
+        "text": "I should probably... yeah",
         "character": "",
         "audioUrl": "audio/atlanta/060_wow_i_should_probably_yeah_okay.mp3"
       },
       {
-        "text": "Yeah, all right. Okay. My favorite. That's real nice.",
+        "text": "My favorite, that's real nice",
         "character": "",
         "audioUrl": "audio/atlanta/061_yeah_all_right_okay_my_favorite_that_s_real_nice.mp3"
       },
       {
-        "text": "- Aaron! - What? I love you. Oh, my God, I know. Jesus.",
+        "text": "I love you. I know.",
         "character": "",
         "audioUrl": "audio/atlanta/063_aaron_what_i_love_you_oh_my_god_i_know_jesus.mp3"
       },
       {
-        "text": "- Here you go. - Thank you. All right now. - Let me see that bag, too. - You want this bag? - Yeah, the backpack. Mm hmm. - Oh. Here. All right. Thank you.",
+        "text": "Let me see that bag",
         "character": "",
         "audioUrl": "audio/atlanta/065_here_you_go_thank_you_all_right_now_let_me_see_that_bag_too.mp3"
       },
       {
-        "text": "- Hi, morning. - Hey, good morning. - Can I see your license? - Uh, yes. - Here you go. - Thank you. All right, I'm a need to see your bag. Oh. Okay.",
+        "text": "I need to see your bag",
         "character": "",
         "audioUrl": "audio/atlanta/066_hi_morning_hey_good_morning_can_i_see_your_license_uh_yes_h.mp3"
       },
       {
-        "text": "- How was your week? - Fine. Uh, probation ended. Uh, my alma mater asked me to speak, - so... Hold on.",
+        "text": "Probation ended",
         "character": "",
         "audioUrl": "audio/atlanta/067_how_was_your_week_fine_uh_probation_ended_uh_my_alma_mater.mp3"
       },
       {
-        "text": "- Is this your first time here? - Oh, yeah. It's great, isn't it? Yeah, it's fun. That's the one you saw with Grandma.",
+        "text": "Is this your first time?",
         "character": "",
         "audioUrl": "audio/atlanta/068_is_this_your_first_time_here_oh_yeah_it_s_great_isn_t_it_ye.mp3"
       },
       {
-        "text": "- Mm. Tell me you love me. - [laughs]. - Why did you just laugh? - 'Cause you always say that, and I'm always, like, \"of course.\" - Then why don't you just say \"I love you\"? - I love you. - [scoffs]",
+        "text": "Tell me you love me",
         "character": "",
         "audioUrl": "audio/atlanta/069_mm_tell_me_you_love_me_laughs_why_did_you_just_laugh_cause.mp3"
       },
       {
-        "text": "- Mommy? - Yes, Bash? Sylvia walks me to my class. Oh. Okay.",
+        "text": "Sylvia walks me to class",
         "character": "",
         "audioUrl": "audio/atlanta/070_mommy_yes_bash_sylvia_walks_me_to_my_class_oh_okay.mp3"
       },
       {
-        "text": "- Oh, shit, she's got a knife! Oh, shit! Oh! Oh! Shit, shit! Oh, oh!",
+        "text": "She's got a knife!",
         "character": "",
         "audioUrl": "audio/atlanta/071_oh_shit_she_s_got_a_knife_oh_shit_oh_oh_shit_shit_oh_oh.mp3"
       },
       {
-        "text": "- Sylvia died. W What, what happened? How? They don't know.",
+        "text": "Sylvia died",
         "character": "",
         "audioUrl": "audio/atlanta/072_sylvia_died_w_what_what_happened_how_they_don_t_know.mp3"
       },
       {
-        "text": "- That was Nando's. - Yeah.",
+        "text": "That was Nando's",
         "character": "",
         "audioUrl": "audio/atlanta/073_that_was_nando_s_yeah.mp3"
       },
       {
-        "text": "- Whoa! - Dope!",
+        "text": "Whoa! Dope!",
         "character": "",
         "audioUrl": "audio/atlanta/074_whoa_dope.mp3"
       },
       {
-        "text": "- Yeah? Okay. Keep eating, please.",
+        "text": "Keep eating, please",
         "character": "",
         "audioUrl": "audio/atlanta/075_yeah_okay_keep_eating_please.mp3"
       },
       {
-        "text": "-Anita. I need you on the register after this. * I I I'm Lil Tay K, I don't think you want no action... * ANITA: Please don't hurt me! Where the storage closet at? * Fuck a beat, I was tryin' to beat a case... * Fuck.",
+        "text": "Where's the storage closet?",
         "character": "",
         "audioUrl": "audio/atlanta/077_anita_i_need_you_on_the_register_after_this_i_i_i_m_lil_tay.mp3"
       },
       {
-        "text": "-David! David! Syd? ANNOUNCER: Legion. All new Tuesdays at 10:00 on FX. FX presents Atlanta.",
+        "text": "FX promo: Legion",
         "character": "",
         "audioUrl": "audio/atlanta/078_david_david_syd_announcer_legion_all_new_tuesdays_at_10_00.mp3"
       },
       {
-        "text": "-Hey, man. -Nigga... I'm I'm sorry about this shit, man. I'm a pay you back, man. Appreciate you, man.",
+        "text": "I'm a pay you back",
         "character": "",
         "audioUrl": "audio/atlanta/079_hey_man_nigga_i_m_i_m_sorry_about_this_shit_man_i_m_a_pay_y.mp3"
       },
       {
-        "text": "-This place kind of stinks. -Damn. ALFRED: The fuck? -Yeah, man. Shit.",
+        "text": "This place kind of stinks",
         "character": "",
         "audioUrl": "audio/atlanta/081_this_place_kind_of_stinks_damn_alfred_the_fuck_yeah_man_shi.mp3"
       },
       {
-        "text": "(\"It's Forever\" by The Ebonys) * Would you like a drink while you wait? Uh, yeah, just a little more water, please. *",
+        "text": "A drink while you wait?",
         "character": "",
         "audioUrl": "audio/atlanta/082_it_s_forever_by_the_ebonys_would_you_like_a_drink_while_you.mp3"
       },
       {
-        "text": "(muffled music playing through headphones) -Oh.",
+        "text": "Muffled music",
         "character": "",
         "audioUrl": "audio/atlanta/083_muffled_music_playing_through_headphones_oh.mp3"
       },
       {
-        "text": "(music continues) * (upbeat hip hop instrumental music) *",
+        "text": "Hip-hop instrumental",
         "character": "",
         "audioUrl": "audio/atlanta/084_music_continues_upbeat_hip_hop_instrumental_music.mp3"
       },
       {
-        "text": "* Eat, sleep * * Everybody wanna be a nigga, but nobody wanna be a nigga * * When it's time to be a nigga * * Please, 'cause if I get nervous we get un sturdy * * And we start to squeeze, okay, niggadom. *",
+        "text": "Paper Boi verse",
         "character": "",
         "audioUrl": "audio/atlanta/085_eat_sleep_everybody_wanna_be_a_nigga_but_nobody_wanna_be_a.mp3"
       },
       {
-        "text": "♪ Girl, I'm in love... Hello? Hey, yeah, um, I'm here for the pickup.",
+        "text": "Here for the pickup",
         "character": "",
         "audioUrl": "audio/atlanta/086_girl_i_m_in_love_hello_hey_yeah_um_i_m_here_for_the_pickup.mp3"
       },
       {
-        "text": "♪ Keed, talk to 'em♪ -♪ Warrior, warrior♪ -♪ Warrior♪ -♪ Warrior, warrior♪ -♪ Ah♪ -♪ Warrior.♪",
+        "text": "Warrior, warrior",
         "character": "",
         "audioUrl": "audio/atlanta/087_keed_talk_to_em_warrior_warrior_warrior_warrior_warrior_ah.mp3"
       },
       {
-        "text": "♪ Sweet little girl ♪ ♪ You know your baby loves you ♪ ♪ Your love is driving me crazy, crazy, crazy ♪ ♪ Sweet little girl... ♪",
+        "text": "Sweet little girl",
         "character": "",
         "audioUrl": "audio/atlanta/088_sweet_little_girl_you_know_your_baby_loves_you_your_love_is.mp3"
       },
       {
-        "text": "♪ Your heart has called me♪ ♪ Closer to you♪ ♪ I will be♪ ♪ All that you need♪ ♪ Just trust...♪ Baby? Lottie? We're almost there, okay? Might want to wake up. ♪ Baby, I believe.♪",
+        "text": "We're almost there, Lottie",
         "character": "",
         "audioUrl": "audio/atlanta/090_your_heart_has_called_me_closer_to_you_i_will_be_all_that_y.mp3"
       }
@@ -16159,50 +16159,50 @@ const shows = [
       "accent": "#3f8ecc",
       "bg": "#0a0708"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
-        "text": "All of a sudden had this big attitude problem.",
+        "text": "Big attitude problem",
         "character": "",
         "audioUrl": "audio/friends/001_all_of_a_sudden_had_this_big_attitude_problem.mp3"
       },
       {
-        "text": "Alright, 10 bucks for kid over cough it up pay the piper give me it.",
+        "text": "Cough it up, pay the piper",
         "character": "",
         "audioUrl": "audio/friends/002_alright_10_bucks_for_kid_over_cough_it_up_pay_the_piper_give.mp3"
       },
       {
-        "text": "Alright, hang on a second there, Custer.",
+        "text": "Hang on a second there, Custer",
         "character": "",
         "audioUrl": "audio/friends/004_alright_hang_on_a_second_there_custer.mp3"
       },
       {
-        "text": "Alright, that's it. School is in session.",
+        "text": "School is in session",
         "character": "",
         "audioUrl": "audio/friends/005_alright_that_s_it_school_is_in_session.mp3"
       },
       {
-        "text": "And if all goes as planned, my butt will be smack free.",
+        "text": "My butt will be smack free",
         "character": "",
         "audioUrl": "audio/friends/006_and_if_all_goes_as_planned_my_butt_will_be_smack_free.mp3"
       },
       {
-        "text": "Are you crazy am I am I am I out of my mind about losing my senses?",
+        "text": "Out of my mind?",
         "character": "",
         "audioUrl": "audio/friends/007_are_you_crazy_am_i_am_i_am_i_out_of_my_mind_about_losing_my.mp3"
       },
       {
-        "text": "Are you going to kiss me? Was thinking about it OK?",
+        "text": "Are you going to kiss me?",
         "character": "",
         "audioUrl": "audio/friends/008_are_you_going_to_kiss_me_was_thinking_about_it_ok.mp3"
       },
       {
-        "text": "Are you in there little fetus in nine months? Will you come greet us? I will buy you some Adidas.",
+        "text": "Little fetus, I'll buy you Adidas",
         "character": "",
         "audioUrl": "audio/friends/009_are_you_in_there_little_fetus_in_nine_months_will_you_come_g.mp3"
       },
       {
-        "text": "Are you the cutest? I'm afraid I might just be.",
+        "text": "Are you the cutest?",
         "character": "",
         "audioUrl": "audio/friends/010_are_you_the_cutest_i_m_afraid_i_might_just_be.mp3"
       },
@@ -16212,17 +16212,17 @@ const shows = [
         "audioUrl": "audio/friends/011_are_you_watching_star_trek.mp3"
       },
       {
-        "text": "Aren't you going to answer her? That's like the 10th Bing Bong message she sent.",
+        "text": "The 10th Bing Bong message",
         "character": "",
         "audioUrl": "audio/friends/012_aren_t_you_going_to_answer_her_that_s_like_the_10th_bing_bon.mp3"
       },
       {
-        "text": "Behalf of everyone. I just like to say my hand.",
+        "text": "On behalf of everyone",
         "character": "",
         "audioUrl": "audio/friends/013_behalf_of_everyone_i_just_like_to_say_my_hand.mp3"
       },
       {
-        "text": "Beta beta give me Rhonda from PS129. I shared my pudding with you man. I gave you my snack pack.",
+        "text": "I gave you my snack pack",
         "character": "",
         "audioUrl": "audio/friends/014_beta_beta_give_me_rhonda_from_ps129_i_shared_my_pudding_with.mp3"
       },
@@ -16237,7 +16237,7 @@ const shows = [
         "audioUrl": "audio/friends/016_bite_me.mp3"
       },
       {
-        "text": "Build the units and are really lay the tile cinderelly.",
+        "text": "Lay the tile, Cinderelly",
         "character": "",
         "audioUrl": "audio/friends/017_build_the_units_and_are_really_lay_the_tile_cinderelly.mp3"
       },
@@ -16247,37 +16247,37 @@ const shows = [
         "audioUrl": "audio/friends/018_but_did_you_see_the_ass_on_her.mp3"
       },
       {
-        "text": "But this is such geeks.",
+        "text": "But this is such geeks",
         "character": "",
         "audioUrl": "audio/friends/019_but_this_is_such_geeks.mp3"
       },
       {
-        "text": "But you will always be the guy who peed on me.",
+        "text": "The guy who peed on me",
         "character": "",
         "audioUrl": "audio/friends/020_but_you_will_always_be_the_guy_who_peed_on_me.mp3"
       },
       {
-        "text": "Come on, play that funky music white boy.",
+        "text": "Play that funky music",
         "character": "",
         "audioUrl": "audio/friends/021_come_on_play_that_funky_music_white_boy.mp3"
       },
       {
-        "text": "Come on, quit yanking me.",
+        "text": "Come on, quit yanking me",
         "character": "",
         "audioUrl": "audio/friends/022_come_on_quit_yanking_me.mp3"
       },
       {
-        "text": "Come with us to watch naked girls dance around.",
+        "text": "Watch naked girls dance",
         "character": "",
         "audioUrl": "audio/friends/023_come_with_us_to_watch_naked_girls_dance_around.mp3"
       },
       {
-        "text": "Congratulations, you just crossed the line into completely useless get out.",
+        "text": "Crossed the line into useless",
         "character": "",
         "audioUrl": "audio/friends/024_congratulations_you_just_crossed_the_line_into_completely_us.mp3"
       },
       {
-        "text": "Cookies and porn. You're the best mom ever.",
+        "text": "Cookies and porn",
         "character": "",
         "audioUrl": "audio/friends/025_cookies_and_porn_you_re_the_best_mom_ever.mp3"
       },
@@ -16287,12 +16287,12 @@ const shows = [
         "audioUrl": "audio/friends/026_don_t_cry_out_loud.mp3"
       },
       {
-        "text": "Don't touch the computer. Don't ever touch the computer.",
+        "text": "Don't touch the computer",
         "character": "",
         "audioUrl": "audio/friends/027_don_t_touch_the_computer_don_t_ever_touch_the_computer.mp3"
       },
       {
-        "text": "Dude, we are so gonna party.",
+        "text": "Dude, we are so gonna party",
         "character": "",
         "audioUrl": "audio/friends/028_dude_we_are_so_gonna_party.mp3"
       },
@@ -16302,22 +16302,22 @@ const shows = [
         "audioUrl": "audio/friends/029_dude_what_are_you_doing.mp3"
       },
       {
-        "text": "Electrifying infinite time.",
+        "text": "Electrifying infinite time",
         "character": "",
         "audioUrl": "audio/friends/030_electrifying_infinite_time.mp3"
       },
       {
-        "text": "Friends TV Show Soundboard Sound",
+        "text": "Friends sound 1",
         "character": "",
         "audioUrl": "audio/friends/031_friends_tv_show_soundboard_sound.mp3"
       },
       {
-        "text": "Friends TV Show Soundboard Sound",
+        "text": "Friends sound 2",
         "character": "",
         "audioUrl": "audio/friends/032_friends_tv_show_soundboard_sound.mp3"
       },
       {
-        "text": "Friends TV Show Soundboard Sound",
+        "text": "Friends sound 3",
         "character": "",
         "audioUrl": "audio/friends/033_friends_tv_show_soundboard_sound.mp3"
       },
@@ -16327,37 +16327,37 @@ const shows = [
         "audioUrl": "audio/friends/034_geek.mp3"
       },
       {
-        "text": "Get out of my chair, dillhole.",
+        "text": "Get out of my chair, dillhole",
         "character": "",
         "audioUrl": "audio/friends/035_get_out_of_my_chair_dillhole.mp3"
       },
       {
-        "text": "GI Joe cool correctly.",
+        "text": "GI Joe",
         "character": "",
         "audioUrl": "audio/friends/036_gi_joe_cool_correctly.mp3"
       },
       {
-        "text": "Give me a century 21 real estate agent to get to wear those really cool jackets.",
+        "text": "Century 21 jackets",
         "character": "",
         "audioUrl": "audio/friends/037_give_me_a_century_21_real_estate_agent_to_get_to_wear_those.mp3"
       },
       {
-        "text": "Good morning, nice breast by the way.",
+        "text": "Nice breast, by the way",
         "character": "",
         "audioUrl": "audio/friends/038_good_morning_nice_breast_by_the_way.mp3"
       },
       {
-        "text": "Good very good firm but tender. I recommend it to a friend.",
+        "text": "Firm but tender",
         "character": "",
         "audioUrl": "audio/friends/039_good_very_good_firm_but_tender_i_recommend_it_to_a_friend.mp3"
       },
       {
-        "text": "Happy Hanukkah God will Christmas be snowy Joe. He happy New year. Chandler and Ross spin the dreidel Rachel.",
+        "text": "Spin the dreidel, Rachel",
         "character": "",
         "audioUrl": "audio/friends/040_happy_hanukkah_god_will_christmas_be_snowy_joe_he_happy_new.mp3"
       },
       {
-        "text": "Have a hubba Bubba birthday.",
+        "text": "Have a hubba bubba birthday",
         "character": "",
         "audioUrl": "audio/friends/041_have_a_hubba_bubba_birthday.mp3"
       },
@@ -16367,32 +16367,32 @@ const shows = [
         "audioUrl": "audio/friends/042_he_said.mp3"
       },
       {
-        "text": "He's just going to be so glad that you don't have barnacles on your butt.",
+        "text": "No barnacles on your butt",
         "character": "",
         "audioUrl": "audio/friends/043_he_s_just_going_to_be_so_glad_that_you_don_t_have_barnacles.mp3"
       },
       {
-        "text": "Hey hey, good looking.",
+        "text": "Hey hey, good looking",
         "character": "",
         "audioUrl": "audio/friends/044_hey_hey_good_looking.mp3"
       },
       {
-        "text": "Hey how you doing?",
+        "text": "Hey, how you doing?",
         "character": "",
         "audioUrl": "audio/friends/045_hey_how_you_doing.mp3"
       },
       {
-        "text": "Hey shut up you're not my real mom.",
+        "text": "You're not my real mom",
         "character": "",
         "audioUrl": "audio/friends/047_hey_shut_up_you_re_not_my_real_mom.mp3"
       },
       {
-        "text": "Hey, don't you want a washboard, stomach and rock hard pecs? No, I want a flabby gut and saggy man breasts.",
+        "text": "Flabby gut, saggy man breasts",
         "character": "",
         "audioUrl": "audio/friends/048_hey_don_t_you_want_a_washboard_stomach_and_rock_hard_pecs_no.mp3"
       },
       {
-        "text": "Hey, stick a fork in me. I am done.",
+        "text": "Stick a fork in me",
         "character": "",
         "audioUrl": "audio/friends/049_hey_stick_a_fork_in_me_i_am_done.mp3"
       },
@@ -16412,122 +16412,122 @@ const shows = [
         "audioUrl": "audio/friends/053_how_do_you_not_fall_down_more.mp3"
       },
       {
-        "text": "How you doin",
+        "text": "How you doin'",
         "character": "",
         "audioUrl": "audio/friends/054_how_you_doin.mp3"
       },
       {
-        "text": "I always picture your mom when I'm having sex.",
+        "text": "I picture your mom",
         "character": "",
         "audioUrl": "audio/friends/055_i_always_picture_your_mom_when_i_m_having_sex.mp3"
       },
       {
-        "text": "I believe my exact words were flying instant.",
+        "text": "My exact words",
         "character": "",
         "audioUrl": "audio/friends/056_i_believe_my_exact_words_were_flying_instant.mp3"
       },
       {
-        "text": "I have a lung capacity of two year old.",
+        "text": "Lung capacity of a two year old",
         "character": "",
         "audioUrl": "audio/friends/057_i_have_a_lung_capacity_of_two_year_old.mp3"
       },
       {
-        "text": "I kiss him before I can do it again.",
+        "text": "Kiss him again",
         "character": "",
         "audioUrl": "audio/friends/058_i_kiss_him_before_i_can_do_it_again.mp3"
       },
       {
-        "text": "I mean, you suck like you've never sucked before.",
+        "text": "You suck like never before",
         "character": "",
         "audioUrl": "audio/friends/059_i_mean_you_suck_like_you_ve_never_sucked_before.mp3"
       },
       {
-        "text": "I need to live in a land where people can fill.",
+        "text": "A land where people can feel",
         "character": "",
         "audioUrl": "audio/friends/060_i_need_to_live_in_a_land_where_people_can_fill.mp3"
       },
       {
-        "text": "I said share not scare.",
+        "text": "I said share, not scare",
         "character": "",
         "audioUrl": "audio/friends/061_i_said_share_not_scare.mp3"
       },
       {
-        "text": "I tell people secrets. It makes them like me.",
+        "text": "I tell people secrets",
         "character": "",
         "audioUrl": "audio/friends/062_i_tell_people_secrets_it_makes_them_like_me.mp3"
       },
       {
-        "text": "I think my boyfriend never so dreamy.",
+        "text": "My boyfriend's so dreamy",
         "character": "",
         "audioUrl": "audio/friends/063_i_think_my_boyfriend_never_so_dreamy.mp3"
       },
       {
-        "text": "I think somebody needs another lap dance.",
+        "text": "Somebody needs a lap dance",
         "character": "",
         "audioUrl": "audio/friends/064_i_think_somebody_needs_another_lap_dance.mp3"
       },
       {
-        "text": "I think this could be the real thing. Capital R capital T.",
+        "text": "Capital R, capital T",
         "character": "",
         "audioUrl": "audio/friends/065_i_think_this_could_be_the_real_thing_capital_r_capital_t.mp3"
       },
       {
-        "text": "I think you've gone over to the bad place.",
+        "text": "Gone to the bad place",
         "character": "",
         "audioUrl": "audio/friends/066_i_think_you_ve_gone_over_to_the_bad_place.mp3"
       },
       {
-        "text": "I'm going commando too.",
+        "text": "I'm going commando too",
         "character": "",
         "audioUrl": "audio/friends/067_i_m_going_commando_too.mp3"
       },
       {
-        "text": "I'm hopeless and awkward and desperate for love.",
+        "text": "Desperate for love",
         "character": "",
         "audioUrl": "audio/friends/068_i_m_hopeless_and_awkward_and_desperate_for_love.mp3"
       },
       {
-        "text": "I'm Joey, I'm an actor, I don't know squat about dinosaurs.",
+        "text": "I don't know squat about dinosaurs",
         "character": "",
         "audioUrl": "audio/friends/069_i_m_joey_i_m_an_actor_i_don_t_know_squat_about_dinosaurs.mp3"
       },
       {
-        "text": "I'm sorry we don't have your sheep.",
+        "text": "We don't have your sheep",
         "character": "",
         "audioUrl": "audio/friends/070_i_m_sorry_we_don_t_have_your_sheep.mp3"
       },
       {
-        "text": "I'm still awake and now I have to pee.",
+        "text": "Now I have to pee",
         "character": "",
         "audioUrl": "audio/friends/071_i_m_still_awake_and_now_i_have_to_pee.mp3"
       },
       {
-        "text": "I'm such a grown up.",
+        "text": "I'm such a grown up",
         "character": "",
         "audioUrl": "audio/friends/072_i_m_such_a_grown_up.mp3"
       },
       {
-        "text": "I'm talking about you. You big big freak.",
+        "text": "You big big freak",
         "character": "",
         "audioUrl": "audio/friends/073_i_m_talking_about_you_you_big_big_freak.mp3"
       },
       {
-        "text": "I'm telling you this thing won't print.",
+        "text": "This thing won't print",
         "character": "",
         "audioUrl": "audio/friends/074_i_m_telling_you_this_thing_won_t_print.mp3"
       },
       {
-        "text": "If I had two IP on anyone of you.",
+        "text": "If I had two IPs",
         "character": "",
         "audioUrl": "audio/friends/075_if_i_had_two_ip_on_anyone_of_you.mp3"
       },
       {
-        "text": "If I was a superhero who could fly and be invisible, that would be the best.",
+        "text": "Fly and be invisible",
         "character": "",
         "audioUrl": "audio/friends/076_if_i_was_a_superhero_who_could_fly_and_be_invisible_that_wou.mp3"
       },
       {
-        "text": "Is it wrong that I was totally aroused by that?",
+        "text": "Totally aroused by that",
         "character": "",
         "audioUrl": "audio/friends/078_is_it_wrong_that_i_was_totally_aroused_by_that.mp3"
       },
@@ -16537,12 +16537,12 @@ const shows = [
         "audioUrl": "audio/friends/079_is_this_what_it_s_like_to_be_you.mp3"
       },
       {
-        "text": "It's just like a bloodbath in here today.",
+        "text": "A bloodbath in here",
         "character": "",
         "audioUrl": "audio/friends/080_it_s_just_like_a_bloodbath_in_here_today.mp3"
       },
       {
-        "text": "It's like somebody literally wrote down my worst nightmare and then charge me $32 to see.",
+        "text": "My worst nightmare for $32",
         "character": "",
         "audioUrl": "audio/friends/081_it_s_like_somebody_literally_wrote_down_my_worst_nightmare_a.mp3"
       },
@@ -16552,72 +16552,72 @@ const shows = [
         "audioUrl": "audio/friends/082_joey_and_janice_s_day_of_fun.mp3"
       },
       {
-        "text": "Let me show you my underwear.",
+        "text": "Let me show you my underwear",
         "character": "",
         "audioUrl": "audio/friends/083_let_me_show_you_my_underwear.mp3"
       },
       {
-        "text": "Let me tell you something in a long time since I've been flung.",
+        "text": "Since I've been flung",
         "character": "",
         "audioUrl": "audio/friends/084_let_me_tell_you_something_in_a_long_time_since_i_ve_been_flu.mp3"
       },
       {
-        "text": "Like a dirty math problem.",
+        "text": "Like a dirty math problem",
         "character": "",
         "audioUrl": "audio/friends/085_like_a_dirty_math_problem.mp3"
       },
       {
-        "text": "Look at kids, he's coming.",
+        "text": "Look at kids, he's coming",
         "character": "",
         "audioUrl": "audio/friends/086_look_at_kids_he_s_coming.mp3"
       },
       {
-        "text": "Look Ben, it's a toy that protects U.S. oil interests overseas. Call Joe.",
+        "text": "Protects U.S. oil interests",
         "character": "",
         "audioUrl": "audio/friends/087_look_ben_it_s_a_toy_that_protects_u_s_oil_interests_overseas.mp3"
       },
       {
-        "text": "Me on my computer.",
+        "text": "Me on my computer",
         "character": "",
         "audioUrl": "audio/friends/088_me_on_my_computer.mp3"
       },
       {
-        "text": "Mr millionaire. New from Snooty playthings. Third wife sold separately.",
+        "text": "Third wife sold separately",
         "character": "",
         "audioUrl": "audio/friends/089_mr_millionaire_new_from_snooty_playthings_third_wife_sold_se.mp3"
       },
       {
-        "text": "My breasts are coming out my back.",
+        "text": "My breasts are coming out my back",
         "character": "",
         "audioUrl": "audio/friends/090_my_breasts_are_coming_out_my_back.mp3"
       },
       {
-        "text": "My breasts are really strong.",
+        "text": "My breasts are really strong",
         "character": "",
         "audioUrl": "audio/friends/091_my_breasts_are_really_strong.mp3"
       },
       {
-        "text": "No, my motto is get out before they go down. That is so not my model.",
+        "text": "Get out before they go down",
         "character": "",
         "audioUrl": "audio/friends/092_no_my_motto_is_get_out_before_they_go_down_that_is_so_not_my.mp3"
       },
       {
-        "text": "Not going to go commando in another man's fatigue.",
+        "text": "Commando in another man's fatigues",
         "character": "",
         "audioUrl": "audio/friends/093_not_going_to_go_commando_in_another_man_s_fatigue.mp3"
       },
       {
-        "text": "Now problem litter in the litter box. Don't change your Kitty. Change your Kitty litter.",
+        "text": "Change your kitty litter",
         "character": "",
         "audioUrl": "audio/friends/095_now_problem_litter_in_the_litter_box_don_t_change_your_kitty.mp3"
       },
       {
-        "text": "Oh dear, God, what have I done?",
+        "text": "Oh dear God, what have I done?",
         "character": "",
         "audioUrl": "audio/friends/096_oh_dear_god_what_have_i_done.mp3"
       },
       {
-        "text": "Oh man, I'm so excited I may vomit.",
+        "text": "So excited I may vomit",
         "character": "",
         "audioUrl": "audio/friends/097_oh_man_i_m_so_excited_i_may_vomit.mp3"
       },
@@ -16632,7 +16632,7 @@ const shows = [
         "audioUrl": "audio/friends/099_oh_no_no_no_no.mp3"
       },
       {
-        "text": "Oh no, wait a minute. I have no one.",
+        "text": "I have no one",
         "character": "",
         "audioUrl": "audio/friends/100_oh_no_wait_a_minute_i_have_no_one.mp3"
       },
@@ -16642,27 +16642,27 @@ const shows = [
         "audioUrl": "audio/friends/101_oh_no.mp3"
       },
       {
-        "text": "Oh, dark mother. Once again I saw collector smoke eat eat.",
+        "text": "Oh, dark mother",
         "character": "",
         "audioUrl": "audio/friends/102_oh_dark_mother_once_again_i_saw_collector_smoke_eat_eat.mp3"
       },
       {
-        "text": "Oh, it's a website.",
+        "text": "Oh, it's a website",
         "character": "",
         "audioUrl": "audio/friends/103_oh_it_s_a_website.mp3"
       },
       {
-        "text": "Oh, then I guess the panty raid last night was totally uncalled for.",
+        "text": "The panty raid was uncalled for",
         "character": "",
         "audioUrl": "audio/friends/104_oh_then_i_guess_the_panty_raid_last_night_was_totally_uncall.mp3"
       },
       {
-        "text": "OK, this is most romantic disease I've ever had.",
+        "text": "Most romantic disease ever",
         "character": "",
         "audioUrl": "audio/friends/105_ok_this_is_most_romantic_disease_i_ve_ever_had.mp3"
       },
       {
-        "text": "OK, you know what? I just heard blah blah blah blah blah blah blah blah blah blah blah.",
+        "text": "Blah blah blah",
         "character": "",
         "audioUrl": "audio/friends/106_ok_you_know_what_i_just_heard_blah_blah_blah_blah_blah_blah.mp3"
       },
@@ -16672,37 +16672,37 @@ const shows = [
         "audioUrl": "audio/friends/108_over_my_dead_body.mp3"
       },
       {
-        "text": "Pair aye.",
+        "text": "Pair aye",
         "character": "",
         "audioUrl": "audio/friends/109_pair_aye.mp3"
       },
       {
-        "text": "Pee into the wind.",
+        "text": "Pee into the wind",
         "character": "",
         "audioUrl": "audio/friends/110_pee_into_the_wind.mp3"
       },
       {
-        "text": "Please pass the pie.",
+        "text": "Please pass the pie",
         "character": "",
         "audioUrl": "audio/friends/111_please_pass_the_pie.mp3"
       },
       {
-        "text": "Princess Leia gold bikini.",
+        "text": "Princess Leia gold bikini",
         "character": "",
         "audioUrl": "audio/friends/112_princess_leia_gold_bikini.mp3"
       },
       {
-        "text": "Put some pants on kids so I can kick your butt.",
+        "text": "So I can kick your butt",
         "character": "",
         "audioUrl": "audio/friends/113_put_some_pants_on_kids_so_i_can_kick_your_butt.mp3"
       },
       {
-        "text": "Put the shame you can't see what finger I'm holding up.",
+        "text": "What finger I'm holding up",
         "character": "",
         "audioUrl": "audio/friends/114_put_the_shame_you_can_t_see_what_finger_i_m_holding_up.mp3"
       },
       {
-        "text": "Seeing that drunk Santa wet himself really perked up my Christmas.",
+        "text": "Drunk Santa wet himself",
         "character": "",
         "audioUrl": "audio/friends/115_seeing_that_drunk_santa_wet_himself_really_perked_up_my_chri.mp3"
       },
@@ -16712,32 +16712,32 @@ const shows = [
         "audioUrl": "audio/friends/116_slut.mp3"
       },
       {
-        "text": "So far it kind of blows.",
+        "text": "So far it kind of blows",
         "character": "",
         "audioUrl": "audio/friends/117_so_far_it_kind_of_blows.mp3"
       },
       {
-        "text": "So how's your day with your cyber chip going?",
+        "text": "Your cyber chip day",
         "character": "",
         "audioUrl": "audio/friends/118_so_how_s_your_day_with_your_cyber_chip_going.mp3"
       },
       {
-        "text": "So if this guy goes down for like 2 years at a time.",
+        "text": "Down for 2 years at a time",
         "character": "",
         "audioUrl": "audio/friends/119_so_if_this_guy_goes_down_for_like_2_years_at_a_time.mp3"
       },
       {
-        "text": "Sometimes late at night, I can still hear the screaming.",
+        "text": "I can still hear the screaming",
         "character": "",
         "audioUrl": "audio/friends/120_sometimes_late_at_night_i_can_still_hear_the_screaming.mp3"
       },
       {
-        "text": "Sometimes men love women. Sometimes men love men, then there are bisexuals the some. Just say they're kidding themselves. La La La La La La.",
+        "text": "Sometimes men love men",
         "character": "",
         "audioUrl": "audio/friends/121_sometimes_men_love_women_sometimes_men_love_men_then_there_a.mp3"
       },
       {
-        "text": "Step away from the duck.",
+        "text": "Step away from the duck",
         "character": "",
         "audioUrl": "audio/friends/122_step_away_from_the_duck.mp3"
       },
@@ -16752,82 +16752,82 @@ const shows = [
         "audioUrl": "audio/friends/124_that_is_so_sad.mp3"
       },
       {
-        "text": "That'll teach you lick my muffin.",
+        "text": "Lick my muffin",
         "character": "",
         "audioUrl": "audio/friends/125_that_ll_teach_you_lick_my_muffin.mp3"
       },
       {
-        "text": "That's how radio stars escape stalkers.",
+        "text": "How radio stars escape stalkers",
         "character": "",
         "audioUrl": "audio/friends/126_that_s_how_radio_stars_escape_stalkers.mp3"
       },
       {
-        "text": "They call me cookie dude.",
+        "text": "They call me cookie dude",
         "character": "",
         "audioUrl": "audio/friends/127_they_call_me_cookie_dude.mp3"
       },
       {
-        "text": "They had little like she must leave.",
+        "text": "She must leave",
         "character": "",
         "audioUrl": "audio/friends/128_they_had_little_like_she_must_leave.mp3"
       },
       {
-        "text": "They're kind of Papa.",
+        "text": "They're kind of Papa",
         "character": "",
         "audioUrl": "audio/friends/129_they_re_kind_of_papa.mp3"
       },
       {
-        "text": "Turkey, oh giving thanks.",
+        "text": "Turkey, oh giving thanks",
         "character": "",
         "audioUrl": "audio/friends/130_turkey_oh_giving_thanks.mp3"
       },
       {
-        "text": "Well before we answer that, I think we should address the more important question. How dumb are you?",
+        "text": "How dumb are you?",
         "character": "",
         "audioUrl": "audio/friends/132_well_before_we_answer_that_i_think_we_should_address_the_mor.mp3"
       },
       {
-        "text": "Well that was a nice move dumb ass.",
+        "text": "Nice move, dumbass",
         "character": "",
         "audioUrl": "audio/friends/133_well_that_was_a_nice_move_dumb_ass.mp3"
       },
       {
-        "text": "Well, I don't think you can make that statement unless you've been kicked in narrative that God only meant to be treated nicely.",
+        "text": "You can't make that statement",
         "character": "",
         "audioUrl": "audio/friends/134_well_i_don_t_think_you_can_make_that_statement_unless_you_ve.mp3"
       },
       {
-        "text": "Well, I thought if I littered that, crying Indian might come by and save us.",
+        "text": "The crying Indian might save us",
         "character": "",
         "audioUrl": "audio/friends/135_well_i_thought_if_i_littered_that_crying_indian_might_come_b.mp3"
       },
       {
-        "text": "Well, I'm going to kill you.",
+        "text": "I'm going to kill you",
         "character": "",
         "audioUrl": "audio/friends/136_well_i_m_going_to_kill_you.mp3"
       },
       {
-        "text": "Well, we haven't actually met, we just stayed up all night talking on the Internet.",
+        "text": "We talked all night online",
         "character": "",
         "audioUrl": "audio/friends/137_well_we_haven_t_actually_met_we_just_stayed_up_all_night_tal.mp3"
       },
       {
-        "text": "What a wank.",
+        "text": "What a wank",
         "character": "",
         "audioUrl": "audio/friends/139_what_a_wank.mp3"
       },
       {
-        "text": "What are you being such a weenie for?",
+        "text": "Such a weenie",
         "character": "",
         "audioUrl": "audio/friends/140_what_are_you_being_such_a_weenie_for.mp3"
       },
       {
-        "text": "What are you looking at me for? He's the one who wants to buff the maniac.",
+        "text": "Buff the maniac",
         "character": "",
         "audioUrl": "audio/friends/141_what_are_you_looking_at_me_for_he_s_the_one_who_wants_to_buf.mp3"
       },
       {
-        "text": "What did you do after you threw her leg on the fire?",
+        "text": "Threw her leg on the fire",
         "character": "",
         "audioUrl": "audio/friends/142_what_did_you_do_after_you_threw_her_leg_on_the_fire.mp3"
       },
@@ -16837,22 +16837,22 @@ const shows = [
         "audioUrl": "audio/friends/143_what_just_happened.mp3"
       },
       {
-        "text": "What's the worst thing that could happen? I could die.",
+        "text": "What's the worst that could happen?",
         "character": "",
         "audioUrl": "audio/friends/144_what_s_the_worst_thing_that_could_happen_i_could_die.mp3"
       },
       {
-        "text": "When I walk outside naked people throw garbage at me.",
+        "text": "Naked, people throw garbage",
         "character": "",
         "audioUrl": "audio/friends/145_when_i_walk_outside_naked_people_throw_garbage_at_me.mp3"
       },
       {
-        "text": "Why, why, why, why, why? Why would they do this?",
+        "text": "Why would they do this?",
         "character": "",
         "audioUrl": "audio/friends/146_why_why_why_why_why_why_would_they_do_this.mp3"
       },
       {
-        "text": "Wow, that ripped.",
+        "text": "Wow, that ripped",
         "character": "",
         "audioUrl": "audio/friends/147_wow_that_ripped.mp3"
       },
@@ -16862,7 +16862,7 @@ const shows = [
         "audioUrl": "audio/friends/148_wow_what_s_that_like.mp3"
       },
       {
-        "text": "Wow, your lip wet bulb.",
+        "text": "Your lip",
         "character": "",
         "audioUrl": "audio/friends/149_wow_your_lip_wet_bulb.mp3"
       },
@@ -16872,47 +16872,47 @@ const shows = [
         "audioUrl": "audio/friends/150_yay.mp3"
       },
       {
-        "text": "Yeah hey nice to meet you a really.",
+        "text": "Nice to meet you",
         "character": "",
         "audioUrl": "audio/friends/151_yeah_hey_nice_to_meet_you_a_really.mp3"
       },
       {
-        "text": "Yeah, 'cause life's just that kind.",
+        "text": "Life's just that kind",
         "character": "",
         "audioUrl": "audio/friends/152_yeah_cause_life_s_just_that_kind.mp3"
       },
       {
-        "text": "Yeah, Bing what's that about?",
+        "text": "Bing, what's that about?",
         "character": "",
         "audioUrl": "audio/friends/153_yeah_bing_what_s_that_about.mp3"
       },
       {
-        "text": "Yeah, my rock.",
+        "text": "Yeah, my rock",
         "character": "",
         "audioUrl": "audio/friends/154_yeah_my_rock.mp3"
       },
       {
-        "text": "Yeah, that was a tricky one.",
+        "text": "That was a tricky one",
         "character": "",
         "audioUrl": "audio/friends/155_yeah_that_was_a_tricky_one.mp3"
       },
       {
-        "text": "Yes, back then I use humor as a defense mechanism. Thank God I don't do that anymore.",
+        "text": "Humor as a defense mechanism",
         "character": "",
         "audioUrl": "audio/friends/156_yes_back_then_i_use_humor_as_a_defense_mechanism_thank_god_i.mp3"
       },
       {
-        "text": "Yes, getting over the frying pan is a good idea. We might want to backup plan though, just in case she isn't a cartoon.",
+        "text": "Over the frying pan",
         "character": "",
         "audioUrl": "audio/friends/157_yes_getting_over_the_frying_pan_is_a_good_idea_we_might_want.mp3"
       },
       {
-        "text": "Yes, I press that button like 100 times.",
+        "text": "I press that button 100 times",
         "character": "",
         "audioUrl": "audio/friends/158_yes_i_press_that_button_like_100_times.mp3"
       },
       {
-        "text": "You could start out with a little one. I do A1233 the five a four at 322 A 24624642247576777777777.",
+        "text": "Start with a little one",
         "character": "",
         "audioUrl": "audio/friends/160_you_could_start_out_with_a_little_one_i_do_a1233_the_five_a.mp3"
       },
@@ -16922,42 +16922,42 @@ const shows = [
         "audioUrl": "audio/friends/161_you_don_t_think_i_m_cute.mp3"
       },
       {
-        "text": "You guys wanna play doom?",
+        "text": "You guys wanna play Doom?",
         "character": "",
         "audioUrl": "audio/friends/162_you_guys_wanna_play_doom.mp3"
       },
       {
-        "text": "You know channel and put it up on his computer.",
+        "text": "Up on his computer",
         "character": "",
         "audioUrl": "audio/friends/163_you_know_channel_and_put_it_up_on_his_computer.mp3"
       },
       {
-        "text": "You must have me confused with the amazing Chandler.",
+        "text": "The amazing Chandler",
         "character": "",
         "audioUrl": "audio/friends/164_you_must_have_me_confused_with_the_amazing_chandler.mp3"
       },
       {
-        "text": "You owe me, I know.",
+        "text": "You owe me, I know",
         "character": "",
         "audioUrl": "audio/friends/165_you_owe_me_i_know.mp3"
       },
       {
-        "text": "You should never be allowed to talk to people.",
+        "text": "Never allowed to talk to people",
         "character": "",
         "audioUrl": "audio/friends/166_you_should_never_be_allowed_to_talk_to_people.mp3"
       },
       {
-        "text": "You will be talking stop talking now.",
+        "text": "Stop talking now",
         "character": "",
         "audioUrl": "audio/friends/167_you_will_be_talking_stop_talking_now.mp3"
       },
       {
-        "text": "You're going to do some fake flirting.",
+        "text": "Some fake flirting",
         "character": "",
         "audioUrl": "audio/friends/168_you_re_going_to_do_some_fake_flirting.mp3"
       },
       {
-        "text": "You're not the boss of me.",
+        "text": "You're not the boss of me",
         "character": "",
         "audioUrl": "audio/friends/169_you_re_not_the_boss_of_me.mp3"
       },
@@ -17625,250 +17625,250 @@ const shows = [
       "accent": "#e0b13a",
       "bg": "#06090d"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
-        "text": "Drop Your Cocks And Gather The Troops",
+        "text": "Drop your cocks and gather the troops",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/001_drop_your_cocks_and_gather_the_troops.mp3"
       },
       {
-        "text": "Fell Out Your Ass 10 Yards Back",
+        "text": "Fell out your ass 10 yards back",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/002_fell_out_your_ass_10_yards_back.mp3"
       },
       {
-        "text": "Get Out Of My House!",
+        "text": "Get out of my house!",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/003_get_out_of_my_house.mp3"
       },
       {
-        "text": "Get Outta My Face",
+        "text": "Get outta my face",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/004_get_outta_my_face.mp3"
       },
       {
-        "text": "Get The Hell Out Of My Face",
+        "text": "Get the hell out of my face",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/005_get_the_hell_out_of_my_face.mp3"
       },
       {
-        "text": "He Said Spit On The Ball Not Shit",
+        "text": "Spit on the ball, not shit",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/006_he_said_spit_on_the_ball_not_shit.mp3"
       },
       {
-        "text": "I Measured With My Dick",
+        "text": "I measured with my dick",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/007_i_measured_with_my_dick.mp3"
       },
       {
-        "text": "I Only Do It In The Butt",
+        "text": "I only do it in the butt",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/008_i_only_do_it_in_the_butt.mp3"
       },
       {
-        "text": "Into Your Urethra",
+        "text": "Into your urethra",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/009_into_your_urethra.mp3"
       },
       {
-        "text": "Just Double Checking",
+        "text": "Just double checking",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/010_just_double_checking.mp3"
       },
       {
-        "text": "Mess With The Bull You Get The Horns",
+        "text": "Mess with the bull, get the horns",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/011_mess_with_the_bull_you_get_the_horns.mp3"
       },
       {
-        "text": "My Face Actually Looks Like Your Ass",
+        "text": "My face looks like your ass",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/012_my_face_actually_looks_like_your_ass.mp3"
       },
       {
-        "text": "No, Dirty",
+        "text": "No, dirty",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/013_no_dirty.mp3"
       },
       {
-        "text": "Nothing To Be Scared Of",
+        "text": "Nothing to be scared of",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/014_nothing_to_be_scared_of.mp3"
       },
       {
-        "text": "Shut Up I'm A Football Player",
+        "text": "Shut up, I'm a football player",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/015_shut_up_i_m_a_football_player.mp3"
       },
       {
-        "text": "That Demands Respect",
+        "text": "That demands respect",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/016_that_demands_respect.mp3"
       },
       {
-        "text": "That's Really Gay",
+        "text": "That's really gay",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/017_that_s_really_gay.mp3"
       },
       {
-        "text": "You Just Stole My Rabies",
+        "text": "You just stole my rabies",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/018_you_just_stole_my_rabies.mp3"
       },
       {
-        "text": "Alex. Coach Marty Daniels, your emergency contact is here. Excuse me. Good luck, guys. Good luck.",
+        "text": "Your emergency contact is here",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/019_alex_coach_marty_daniels_your_emergency_contact_is_here_excu.mp3"
       },
       {
-        "text": "And your fingers didn't smell like shit. Because of the ball. They smelled like shit because you stuck one, Or more of them, into my asshole.",
+        "text": "Fingers smell like shit",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/020_and_your_fingers_didn_t_smell_like_shit_because_of_the_ball.mp3"
       },
       {
-        "text": "Debra, what the hell are you doing under there?",
+        "text": "Debra, what are you doing under there?",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/022_debra_what_the_hell_are_you_doing_under_there.mp3"
       },
       {
-        "text": "Do I go this way?! Hello? Hello? I'm looking for a tower.",
+        "text": "Looking for a tower",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/023_do_i_go_this_way_hello_hello_i_m_looking_for_a_tower.mp3"
       },
       {
-        "text": "Hey, guys, guys, the van! Get in the van! Guys! Come on, come on.",
+        "text": "Get in the van!",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/027_hey_guys_guys_the_van_get_in_the_van_guys_come_on_come_on.mp3"
       },
       {
-        "text": "How long have I been asleep? Where has my life gone? I'm old. I've accomplished nothing. - Don't go. - We're so happy together. Goodbye, cheerleaders. I'll visit you each in my dreams. and do really awesome stuff to you.",
+        "text": "Goodbye, cheerleaders",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/028_how_long_have_i_been_asleep_where_has_my_life_gone_i_m_old_i.mp3"
       },
       {
-        "text": "I want a dying wish. What kind of a wish? Not really sure yet. So why don't we all have a drink. and, you know, we can talk about it?",
+        "text": "I want a dying wish",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/029_i_want_a_dying_wish_what_kind_of_a_wish_not_really_sure_yet.mp3"
       },
       {
-        "text": "It's just practice, man. Go down! - Go down, son, go down. - Can't go down! Too... Awesome.",
+        "text": "It's just practice, man",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/031_it_s_just_practice_man_go_down_go_down_son_go_down_can_t_go.mp3"
       },
       {
-        "text": "Lube's gone. Must have been a good night.",
+        "text": "Lube's gone, good night",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/032_lube_s_gone_must_have_been_a_good_night.mp3"
       },
       {
-        "text": "Sammy can't find out about this. - Agreed. - Okay. And we can't do this again. Totally. - Maybe one more time? - Okay. - Yeah? - Okay.",
+        "text": "Sammy can't find out",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/033_sammy_can_t_find_out_about_this_agreed_okay_and_we_can_t_do.mp3"
       },
       {
-        "text": "Sammy! Silence! Let's hang the goat! ( cheering ) ( chanting ) Hang the goat! Hang the goat! Hang the goat! Can we just talk about this for one second, please?",
+        "text": "Let's hang the goat",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/034_sammy_silence_let_s_hang_the_goat_cheering_chanting_hang_the.mp3"
       },
       {
-        "text": "That was pretty good. Well, look who showed up today.",
+        "text": "Look who showed up today",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/035_that_was_pretty_good_well_look_who_showed_up_today.mp3"
       },
       {
-        "text": "The drugs should have worn off by now. He should be fine... or very very dead. - Thad. - Help me!",
+        "text": "Fine, or very very dead",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/036_the_drugs_should_have_worn_off_by_now_he_should_be_fine_or_v.mp3"
       },
       {
-        "text": "The tower. Don't let him get away. Is that a dildo? Somebody let me in. Help!",
+        "text": "Is that a dildo?",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/037_the_tower_don_t_let_him_get_away_is_that_a_dildo_somebody_le.mp3"
       },
       {
-        "text": "They won't do it. How's this for earning my uniform? Oh! Oh my god. What is wrong with you? Right or wrong, that's dedication. Stop. Stop. You're in. You're a cheerleader. We believe you. - - Yeah, we did it! - - You guys are the best.",
+        "text": "Earning my uniform",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/038_they_won_t_do_it_how_s_this_for_earning_my_uniform_oh_oh_my.mp3"
       },
       {
-        "text": "Two doors, two futures. The choice is yours.",
+        "text": "Two doors, two futures",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/039_two_doors_two_futures_the_choice_is_yours.mp3"
       },
       {
-        "text": "Ugh. You, turn your pom poms in. Everyone else, grab a camera. And take a picture making out with a football player.",
+        "text": "Making out with a player",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/040_ugh_you_turn_your_pom_poms_in_everyone_else_grab_a_camera_an.mp3"
       },
       {
-        "text": "Wait, pause that tape. Coach--. Where's the homeless guy? Coach, how did you recognize that homeless guy. After all these years? Like, through the beard and the dirt and all that? I don't know what you're talking about. I never saw that guy before in my life. Ready?",
+        "text": "Where's the homeless guy?",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/041_wait_pause_that_tape_coach_where_s_the_homeless_guy_coach_ho.mp3"
       },
       {
-        "text": "We're in love. Sorry, boss. Shit happens. - ( shouting ) - ( banging drum )",
+        "text": "We're in love, sorry boss",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/042_we_re_in_love_sorry_boss_shit_happens_shouting_banging_drum.mp3"
       },
       {
-        "text": "WHAT IN THE--. WHAT UP THOUGH, BIG J? - WHERE'S COACH? - WELL... ( laughs )",
+        "text": "What up though, Big J?",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/043_what_in_the_what_up_though_big_j_where_s_coach_well_laughs.mp3"
       },
       {
-        "text": "Who the hell is sammy cacciatore? ♪ something like this ♪",
+        "text": "Who is Sammy Cacciatore?",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/044_who_the_hell_is_sammy_cacciatore_something_like_this.mp3"
       },
       {
-        "text": "Win. Win. Win. How many of these we'll be doing, Harmon?",
+        "text": "How many of these, Harmon?",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/045_win_win_win_how_many_of_these_we_ll_be_doing_harmon.mp3"
       },
       {
-        "text": "You think you can leave me? I made you. Nobody leaves me. You're staying at B.M.S. forever. Larry, Radon! Quick, follow me. Don't trust him. Think about your future, Thad. We're running out of time. Let's go. No, it's a trap. Remember the box.",
+        "text": "Nobody leaves me",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/046_you_think_you_can_leave_me_i_made_you_nobody_leaves_me_you_r.mp3"
       },
       {
-        "text": "- I HEAR SOMETHING. - THERE'S NO ONE HERE. ( growling ) ( gasps ) Man: OH HEY. LOOK AT THE CUTE LITTLE GUY. - ( snarls ) - ( screaming )",
+        "text": "Cute little guy",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/048_i_hear_something_there_s_no_one_here_growling_gasps_man_oh.mp3"
       },
       {
-        "text": "- Why? You never know. Some guys just get off on smelling people's asses.",
+        "text": "Smelling people's asses",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/050_why_you_never_know_some_guys_just_get_off_on_smelling_peopl.mp3"
       },
       {
-        "text": "( grunts ) ( chuckles ) This is a waterbed. ( door creaks )",
+        "text": "This is a waterbed",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/051_grunts_chuckles_this_is_a_waterbed_door_creaks.mp3"
       },
       {
-        "text": "( laughing continues )",
+        "text": "Laughing",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/052_laughing_continues.mp3"
       },
       {
-        "text": "( women screaming ) Nerd.",
+        "text": "Nerd",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/053_women_screaming_nerd.mp3"
       },
       {
-        "text": "♪ fraught with the excess ♪ ♪ so rich in self neglect... ♪ - Take me! Take me! - No, Larry! No, Larry Save the Goat house! Save the Goat house! Save the Goat house!",
+        "text": "Save the Goat house!",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/054_fraught_with_the_excess_so_rich_in_self_neglect_take_me_tak.mp3"
       },
       {
-        "text": "♪ I can see how the mighty could fall... ♪ And I assure you, we at b.M.S. Have taken the difficult yet necessary steps. To ensure that nothing like this ever happens again.",
+        "text": "The mighty could fall",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/055_i_can_see_how_the_mighty_could_fall_and_i_assure_you_we_at.mp3"
       },
       {
-        "text": "♪ I can see how the mighty could fall... ♪ And I assure you, we at b.M.S. Have taken the difficult yet necessary steps. To ensure that nothing like this ever happens again. ♪ I can see how the mighty could fall... ♪ Thank you. And go goats.",
+        "text": "Thank you, and go Goats",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/056_i_can_see_how_the_mighty_could_fall_and_i_assure_you_we_at.mp3"
       }
@@ -17883,7 +17883,7 @@ const shows = [
       "accent": "#5f7e8f",
       "bg": "#0b0a07"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
         "text": "Ah! That hurt!",
@@ -18344,15 +18344,15 @@ const shows = [
       "accent": "#d9b04a",
       "bg": "#070912"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
-        "text": "Cooking kettle one. It's the fucking Catalina wine mixer. Stop fucking Catalina wine mixer.",
+        "text": "Catalina wine mixer",
         "character": "",
         "audioUrl": "audio/step-brothers/006_cooking_kettle_one_it_s_the_fucking_catalina_wine_mixer_stop.mp3"
       },
       {
-        "text": "Dad is fat is so bad there's blood everywhere. Why did why did you guys do that is so bad?",
+        "text": "Blood everywhere",
         "character": "",
         "audioUrl": "audio/step-brothers/007_dad_is_fat_is_so_bad_there_s_blood_everywhere_why_did_why_di.mp3"
       },
@@ -18362,52 +18362,52 @@ const shows = [
         "audioUrl": "audio/step-brothers/012_eat_shit_derek.mp3"
       },
       {
-        "text": "Feel, feel like a lightning bolt. Hit the tip of my penis, yeah, yeah.",
+        "text": "Lightning bolt to the penis",
         "character": "",
         "audioUrl": "audio/step-brothers/013_feel_feel_like_a_lightning_bolt_hit_the_tip_of_my_penis_yeah.mp3"
       },
       {
-        "text": "Fuck you Dale",
+        "text": "Fuck you, Dale",
         "character": "",
         "audioUrl": "audio/step-brothers/014_fuck_you_dale.mp3"
       },
       {
-        "text": "Guys guys guys we can't have no penis kind of dreams you guys having.",
+        "text": "No penis dreams",
         "character": "",
         "audioUrl": "audio/step-brothers/016_guys_guys_guys_we_can_t_have_no_penis_kind_of_dreams_you_guy.mp3"
       },
       {
-        "text": "Ha ha ha that's so funny. Last time I heard that I laughed so hard I fell off my dinosaur's.",
+        "text": "Fell off my dinosaur",
         "character": "",
         "audioUrl": "audio/step-brothers/017_ha_ha_ha_that_s_so_funny_last_time_i_heard_that_i_laughed_so.mp3"
       },
       {
-        "text": "Hey Derek Sprechen ZE Dick.",
+        "text": "Sprechen ze Dick",
         "character": "",
         "audioUrl": "audio/step-brothers/018_hey_derek_sprechen_ze_dick.mp3"
       },
       {
-        "text": "Hey Derek, you know it's always good for shoulder pain if you lick my butt hole map.",
+        "text": "Lick my butt hole",
         "character": "",
         "audioUrl": "audio/step-brothers/019_hey_derek_you_know_it_s_always_good_for_shoulder_pain_if_you.mp3"
       },
       {
-        "text": "Hey Tiffany might know what I got a crush soul. You mentioned that earlier.",
+        "text": "I got a crush",
         "character": "",
         "audioUrl": "audio/step-brothers/021_hey_tiffany_might_know_what_i_got_a_crush_soul_you_mentioned.mp3"
       },
       {
-        "text": "Hey, I'm Brent. No most common Dragons. You have to call me Nighthawk.",
+        "text": "Call me Nighthawk",
         "character": "",
         "audioUrl": "audio/step-brothers/022_hey_i_m_brent_no_most_common_dragons_you_have_to_call_me_nig.mp3"
       },
       {
-        "text": "Hi, my name is Jim. Wanna suck my Dick for money so it's just me.",
+        "text": "Suck my Dick for money",
         "character": "",
         "audioUrl": "audio/step-brothers/025_hi_my_name_is_jim_wanna_suck_my_dick_for_money_so_it_s_just.mp3"
       },
       {
-        "text": "Hold on, we're not going on the boat, Derek selling the house. We have to go to therapy. What the fuck happened, hey?",
+        "text": "We have to go to therapy",
         "character": "",
         "audioUrl": "audio/step-brothers/026_hold_on_we_re_not_going_on_the_boat_derek_selling_the_house.mp3"
       },
@@ -18417,52 +18417,52 @@ const shows = [
         "audioUrl": "audio/step-brothers/027_holy_santa_claus_shit.mp3"
       },
       {
-        "text": "Horn, like it, drops out myself. That's a guys like you gave you fucker.",
+        "text": "You fucker",
         "character": "",
         "audioUrl": "audio/step-brothers/028_horn_like_it_drops_out_myself_that_s_a_guys_like_you_gave_yo.mp3"
       },
       {
-        "text": "I couldn't eat another bite of Turkey without thinking of you inside of me. Come on, let's try something illegal.",
+        "text": "Let's try something illegal",
         "character": "",
         "audioUrl": "audio/step-brothers/031_i_couldn_t_eat_another_bite_of_turkey_without_thinking_of_yo.mp3"
       },
       {
-        "text": "I didn't want Salmon I said four times.",
+        "text": "I didn't want salmon",
         "character": "",
         "audioUrl": "audio/step-brothers/032_i_didn_t_want_salmon_i_said_four_times.mp3"
       },
       {
-        "text": "I know said there's a long gap in your job history and it said wait two years you went Kerouac on everyone's eyes.",
+        "text": "Gap in your job history",
         "character": "",
         "audioUrl": "audio/step-brothers/034_i_know_said_there_s_a_long_gap_in_your_job_history_and_it_sa.mp3"
       },
       {
-        "text": "It's just like cold case files. This is like OK smiles Mr. Cycle game files. People die everyday. Proper burial, unmarked grave.",
+        "text": "Cold case files",
         "character": "",
         "audioUrl": "audio/step-brothers/039_it_s_just_like_cold_case_files_this_is_like_ok_smiles_mr_cyc.mp3"
       },
       {
-        "text": "Look, I didn't touch a drum set. OK, I witnessed with my eyes your testicles touching my drum set alright that's it that's it.",
+        "text": "Touched my drum set",
         "character": "",
         "audioUrl": "audio/step-brothers/043_look_i_didn_t_touch_a_drum_set_ok_i_witnessed_with_my_eyes_y.mp3"
       },
       {
-        "text": "Mass no, it's OK that mines not movie quality.",
+        "text": "Not movie quality",
         "character": "",
         "audioUrl": "audio/step-brothers/044_mass_no_it_s_ok_that_mines_not_movie_quality.mp3"
       },
       {
-        "text": "Mr Hub Mr. Gina is ready for your interview, actually will be interviewing as a team. We're here to fuck shit up.",
+        "text": "Here to fuck shit up",
         "character": "",
         "audioUrl": "audio/step-brothers/045_mr_hub_mr_gina_is_ready_for_your_interview_actually_will_be.mp3"
       },
       {
-        "text": "Now let's move on to other business.",
+        "text": "On to other business",
         "character": "",
         "audioUrl": "audio/step-brothers/047_now_let_s_move_on_to_other_business.mp3"
       },
       {
-        "text": "OK, here's the shot out of a cannon. Oprah Barbara Walters, your wife, you gotta fuck one. Marry one Kill 1 go.",
+        "text": "Fuck, marry, kill",
         "character": "",
         "audioUrl": "audio/step-brothers/048_ok_here_s_the_shot_out_of_a_cannon_oprah_barbara_walters_you.mp3"
       },
@@ -18482,17 +18482,17 @@ const shows = [
         "audioUrl": "audio/step-brothers/054_rock_well.mp3"
       },
       {
-        "text": "So you're a bear. Sing yourself you geriatric fuck.",
+        "text": "Sing, you geriatric fuck",
         "character": "",
         "audioUrl": "audio/step-brothers/058_so_you_re_a_bear_sing_yourself_you_geriatric_fuck.mp3"
       },
       {
-        "text": "Sticks and stones may break my bones, but I'm gonna kick you repeatedly in the falls Gardocki.",
+        "text": "Kick you repeatedly, Gardocki",
         "character": "",
         "audioUrl": "audio/step-brothers/059_sticks_and_stones_may_break_my_bones_but_i_m_gonna_kick_you.mp3"
       },
       {
-        "text": "Still, what have you been working on recently? Well, I manage a baseball team Little League Fantasy league.",
+        "text": "I manage a baseball team",
         "character": "",
         "audioUrl": "audio/step-brothers/061_still_what_have_you_been_working_on_recently_well_i_manage_a.mp3"
       },
@@ -18502,22 +18502,22 @@ const shows = [
         "audioUrl": "audio/step-brothers/062_sure.mp3"
       },
       {
-        "text": "This house is a fucking prison on planet bullshit in the Galaxy of this sucks camel Dicks.",
+        "text": "Prison on planet bullshit",
         "character": "",
         "audioUrl": "audio/step-brothers/063_this_house_is_a_fucking_prison_on_planet_bullshit_in_the_gal.mp3"
       },
       {
-        "text": "This isn't me. I'm fucking miserable. I had to get up at 10:00 o'clock this morning.",
+        "text": "Up at 10 o'clock, miserable",
         "character": "",
         "audioUrl": "audio/step-brothers/065_this_isn_t_me_i_m_fucking_miserable_i_had_to_get_up_at_10_00.mp3"
       },
       {
-        "text": "Those are my two bugaboos.",
+        "text": "My two bugaboos",
         "character": "",
         "audioUrl": "audio/step-brothers/066_those_are_my_two_bugaboos.mp3"
       },
       {
-        "text": "We should do this again. It was very constructive.",
+        "text": "Very constructive",
         "character": "",
         "audioUrl": "audio/step-brothers/068_we_should_do_this_again_it_was_very_constructive.mp3"
       },
@@ -18527,32 +18527,32 @@ const shows = [
         "audioUrl": "audio/step-brothers/069_we_re_here_to_fuck_shit_up.mp3"
       },
       {
-        "text": "We're not like you were grownups, motherfucker.",
+        "text": "We're grownups, motherfucker",
         "character": "",
         "audioUrl": "audio/step-brothers/070_we_re_not_like_you_were_grownups_motherfucker.mp3"
       },
       {
-        "text": "What the fuck happened, hey?",
+        "text": "What the fuck happened?",
         "character": "",
         "audioUrl": "audio/step-brothers/073_what_the_fuck_happened_hey.mp3"
       },
       {
-        "text": "What was he doing here? We're putting the house on the market where we moving. Is the house haunted?",
+        "text": "Is the house haunted?",
         "character": "",
         "audioUrl": "audio/step-brothers/074_what_was_he_doing_here_we_re_putting_the_house_on_the_market.mp3"
       },
       {
-        "text": "You both know this is completely fucked up right? Yeah of course. But Brandon sure can wear the shit out of that pirate hat.",
+        "text": "Wear that pirate hat",
         "character": "",
         "audioUrl": "audio/step-brothers/080_you_both_know_this_is_completely_fucked_up_right_yeah_of_cou.mp3"
       },
       {
-        "text": "You keep your liver spotted hands off my beautiful mother she's a St.",
+        "text": "Hands off my mother",
         "character": "",
         "audioUrl": "audio/step-brothers/082_you_keep_your_liver_spotted_hands_off_my_beautiful_mother_sh.mp3"
       },
       {
-        "text": "You know what I got for Christmas across Seoul?",
+        "text": "What I got for Christmas",
         "character": "",
         "audioUrl": "audio/step-brothers/083_you_know_what_i_got_for_christmas_across_seoul.mp3"
       }
@@ -21486,35 +21486,35 @@ const shows = [
       "accent": "#e6c23a",
       "bg": "#0c0610"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
-        "text": "A powers you better watch your freaking self because this is one Doctor Who does make house calls.",
+        "text": "Doctor Who makes house calls",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/001_a_powers_you_better_watch_your_freaking_self_because_this_is.mp3"
       },
       {
-        "text": "All I know is that I'm having an Amsterdam good time. Yes, I just want you to be my everything.",
+        "text": "Amsterdam good time",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/002_all_i_know_is_that_i_m_having_an_amsterdam_good_time_yes_i_j.mp3"
       },
       {
-        "text": "Alright, hold on let's try and find my balls for God sakes. 1/2 An three. OK I'm OK.",
+        "text": "Find my balls",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/003_alright_hold_on_let_s_try_and_find_my_balls_for_god_sakes_1.mp3"
       },
       {
-        "text": "And now it is time to shake goodbye. Doctor Evil SH orders rich for you is bad news bears.",
+        "text": "Time to shake goodbye",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/004_and_now_it_is_time_to_shake_goodbye_doctor_evil_sh_orders_ri.mp3"
       },
       {
-        "text": "Are we done here? A chicken cop?",
+        "text": "A chicken cop?",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/005_are_we_done_here_a_chicken_cop.mp3"
       },
       {
-        "text": "Assholes I have time for a smoke and a pancake or what?",
+        "text": "Smoke and a pancake",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/006_assholes_i_have_time_for_a_smoke_and_a_pancake_or_what.mp3"
       },
@@ -21529,22 +21529,22 @@ const shows = [
         "audioUrl": "audio/austin-powers-goldmember/009_call_my_dad.mp3"
       },
       {
-        "text": "Cool baby, you look very switched on.",
+        "text": "You look very switched on",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/010_cool_baby_you_look_very_switched_on.mp3"
       },
       {
-        "text": "Doctor Evil can I paint issue who gold? It's kind of my thing, you know.",
+        "text": "It's kind of my thing",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/012_doctor_evil_can_i_paint_issue_who_gold_it_s_kind_of_my_thing.mp3"
       },
       {
-        "text": "Doctor evil, you look very tight. Yes, do it like a Tiger. Yes yes yes really yes, you look like a macho man.",
+        "text": "You look like a macho man",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/013_doctor_evil_you_look_very_tight_yes_do_it_like_a_tiger_yes_y.mp3"
       },
       {
-        "text": "Everybody I'm from Holland, isn't that beer?",
+        "text": "I'm from Holland, isn't that beer?",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/015_everybody_i_m_from_holland_isn_t_that_beer.mp3"
       },
@@ -21554,7 +21554,7 @@ const shows = [
         "audioUrl": "audio/austin-powers-goldmember/016_fasha_fasha.mp3"
       },
       {
-        "text": "Free Kitty who I had the best grades in a class and I didn't get diddly squat.",
+        "text": "Didn't get diddly squat",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/018_free_kitty_who_i_had_the_best_grades_in_a_class_and_i_didn_t.mp3"
       },
@@ -21564,32 +21564,32 @@ const shows = [
         "audioUrl": "audio/austin-powers-goldmember/019_free_kitty_who.mp3"
       },
       {
-        "text": "Gentlemen, you have my demands. Peace out.",
+        "text": "You have my demands. Peace out.",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/020_gentlemen_you_have_my_demands_peace_out.mp3"
       },
       {
-        "text": "Having said that I do have some thoughts",
+        "text": "I do have some thoughts",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/021_having_said_that_i_do_have_some_thoughts.mp3"
       },
       {
-        "text": "Hey, David Lady, here's my diaper. I think I might pinch one off too soon. Oh I, I left the rosebud in Emporia.",
+        "text": "Left the rosebud in Emporia",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/022_hey_david_lady_here_s_my_diaper_i_think_i_might_pinch_one_of.mp3"
       },
       {
-        "text": "Hi I'm Dixie Dixie normous.",
+        "text": "I'm Dixie Normous",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/023_hi_i_m_dixie_dixie_normous.mp3"
       },
       {
-        "text": "How About No You Crazy Dutch B*stard",
+        "text": "How about no, you crazy Dutch b*stard",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/024_how_about_no_you_crazy_dutch_b_stard.mp3"
       },
       {
-        "text": "I know guys on crack that makes more sense than you.",
+        "text": "Crackheads make more sense",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/025_i_know_guys_on_crack_that_makes_more_sense_than_you.mp3"
       },
@@ -21599,42 +21599,42 @@ const shows = [
         "audioUrl": "audio/austin-powers-goldmember/026_i_love_gold.mp3"
       },
       {
-        "text": "I mean, I actually have frickin sharks with frickin laser beams attached to their frickin heads.",
+        "text": "Sharks with frickin laser beams",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/027_i_mean_i_actually_have_frickin_sharks_with_frickin_laser_bea.mp3"
       },
       {
-        "text": "I realize I have a large mole on my face",
+        "text": "A large mole on my face",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/029_i_realize_i_have_a_large_mole_on_my_face.mp3"
       },
       {
-        "text": "I threw up in my mouth a little bit.",
+        "text": "Threw up in my mouth a little",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/030_i_threw_up_in_my_mouth_a_little_bit.mp3"
       },
       {
-        "text": "Is it true what they say about you kickstand really? Can I give you my cell phone number, please?",
+        "text": "Can I give you my number?",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/031_is_it_true_what_they_say_about_you_kickstand_really_can_i_gi.mp3"
       },
       {
-        "text": "Jesus Christ this tape is making my nuts up together. It's gonna start a fire.",
+        "text": "It's gonna start a fire",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/032_jesus_christ_this_tape_is_making_my_nuts_up_together_it_s_go.mp3"
       },
       {
-        "text": "John, I'm in the mood for a party who was the color of my paper is swinging shindig?",
+        "text": "In the mood for a party",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/033_john_i_m_in_the_mood_for_a_party_who_was_the_color_of_my_pap.mp3"
       },
       {
-        "text": "Kublai me all your privates had the privates painted gold. How bizarre. Imagine gilded Tally Whackers Golden wedding tackle 14 karat trouser snakes. That's OK.",
+        "text": "14 karat trouser snakes",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/034_kublai_me_all_your_privates_had_the_privates_painted_gold_ho.mp3"
       },
       {
-        "text": "Ladies and gentlemen, welcome to my new submarine layer. It's long and hard and full of seamen.",
+        "text": "Full of seamen",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/035_ladies_and_gentlemen_welcome_to_my_new_submarine_layer_it_s.mp3"
       },
@@ -21644,7 +21644,7 @@ const shows = [
         "audioUrl": "audio/austin-powers-goldmember/036_mall.mp3"
       },
       {
-        "text": "Meet mini me, blind me, I thought I smelled cabbage.",
+        "text": "I thought I smelled cabbage",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/037_meet_mini_me_blind_me_i_thought_i_smelled_cabbage.mp3"
       },
@@ -21659,7 +21659,7 @@ const shows = [
         "audioUrl": "audio/austin-powers-goldmember/040_moley_moley_moley_moley.mp3"
       },
       {
-        "text": "Molly Molly Molly Molly Molly.",
+        "text": "Molly molly molly",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/041_molly_molly_molly_molly_molly.mp3"
       },
@@ -21674,12 +21674,12 @@ const shows = [
         "audioUrl": "audio/austin-powers-goldmember/045_no_traitor.mp3"
       },
       {
-        "text": "Nobody training stupid for the shooting begins.",
+        "text": "The shooting begins",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/046_nobody_training_stupid_for_the_shooting_begins.mp3"
       },
       {
-        "text": "Not so much. Smarty pants evil. You might not want to destroy the world, but I though.",
+        "text": "Smarty pants evil",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/047_not_so_much_smarty_pants_evil_you_might_not_want_to_destroy.mp3"
       },
@@ -21689,32 +21689,32 @@ const shows = [
         "audioUrl": "audio/austin-powers-goldmember/050_oh_shut_up.mp3"
       },
       {
-        "text": "One billion gagillion..",
+        "text": "One billion gagillion",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/053_one_billion_gagillion.mp3"
       },
       {
-        "text": "Oops, I did it again baby, yeah.",
+        "text": "Oops, I did it again, baby",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/054_oops_i_did_it_again_baby_yeah.mp3"
       },
       {
-        "text": "Remember when I told you we're not so different? You and I we're not so different you are not see. I did say that.",
+        "text": "We're not so different",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/057_remember_when_i_told_you_we_re_not_so_different_you_and_i_we.mp3"
       },
       {
-        "text": "Right, it looks like Godzilla, but due to international Copyright laws it's not. There was around like it is what the law, so it isn't.",
+        "text": "Looks like Godzilla, legally not",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/058_right_it_looks_like_godzilla_but_due_to_international_copyri.mp3"
       },
       {
-        "text": "Scott is on fire.",
+        "text": "Scott is on fire",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/059_scott_is_on_fire.mp3"
       },
       {
-        "text": "That anyone can take a hint it doesn't understand he is small.",
+        "text": "He is small",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/063_that_anyone_can_take_a_hint_it_doesn_t_understand_he_is_smal.mp3"
       },
@@ -21724,37 +21724,37 @@ const shows = [
         "audioUrl": "audio/austin-powers-goldmember/064_that_s_not_right.mp3"
       },
       {
-        "text": "There are only two things I can't stand in this world. People who are intolerant of other peoples cultures and the Dutch.",
+        "text": "...and the Dutch",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/065_there_are_only_two_things_i_can_t_stand_in_this_world_people.mp3"
       },
       {
-        "text": "Up your job Turkey.",
+        "text": "Up your job, Turkey",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/066_up_your_job_turkey.mp3"
       },
       {
-        "text": "Welcome to New 1975 Austin Powers and Farsia.",
+        "text": "Welcome to 1975",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/068_welcome_to_new_1975_austin_powers_and_farsia.mp3"
       },
       {
-        "text": "Well Miss Norma's shall we shag, now or shag later? Oh, often behave.",
+        "text": "Shag now or shag later?",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/069_well_miss_norma_s_shall_we_shag_now_or_shag_later_oh_often_b.mp3"
       },
       {
-        "text": "Well, I didn't have any corn.",
+        "text": "I didn't have any corn",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/070_well_i_didn_t_have_any_corn.mp3"
       },
       {
-        "text": "Well, the future better get ready for me 'cause I'm foxy Cleopatra and I'm a whole lot of woman.",
+        "text": "I'm foxy Cleopatra",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/071_well_the_future_better_get_ready_for_me_cause_i_m_foxy_cleop.mp3"
       },
       {
-        "text": "Where to go a whole.",
+        "text": "Where to go",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/072_where_to_go_a_whole.mp3"
       },
@@ -21764,42 +21764,42 @@ const shows = [
         "audioUrl": "audio/austin-powers-goldmember/073_yeah_baby_yeah.mp3"
       },
       {
-        "text": "Yes, nice to meet you. Meet you. Nice to meet your mole. Don't say more I said mom.",
+        "text": "Nice to meet your mole",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/075_yes_nice_to_meet_you_meet_you_nice_to_meet_your_mole_don_t_s.mp3"
       },
       {
-        "text": "You have the right to remain 60 sugar.",
+        "text": "Right to remain, sugar",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/076_you_have_the_right_to_remain_60_sugar.mp3"
       },
       {
-        "text": "You know doctor evil. I used to think you were crazy, I know, but now I can see your nuts. I thank you.",
+        "text": "Now I can see your nuts",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/077_you_know_doctor_evil_i_used_to_think_you_were_crazy_i_know_b.mp3"
       },
       {
-        "text": "You know gold member. I do think that something one dude should say to another dude. Yeah little creepy.",
+        "text": "A little creepy",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/078_you_know_gold_member_i_do_think_that_something_one_dude_shou.mp3"
       },
       {
-        "text": "You speak Japanese and little well, you might be a cunning linguist, but I'm a master debater.",
+        "text": "Cunning linguist, master debater",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/079_you_speak_japanese_and_little_well_you_might_be_a_cunning_li.mp3"
       },
       {
-        "text": "You under arrest sugar.",
+        "text": "You under arrest, sugar",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/080_you_under_arrest_sugar.mp3"
       },
       {
-        "text": "You're insane gold member, and that's the way. Uh-huh uh, huh? I like it kacian the Sunshine band.",
+        "text": "That's the way I like it",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/081_you_re_insane_gold_member_and_that_s_the_way_uh_huh_uh_huh_i.mp3"
       },
       {
-        "text": "You're surrounded doctor evil shit.",
+        "text": "You're surrounded, Doctor Evil",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/082_you_re_surrounded_doctor_evil_shit.mp3"
       }
@@ -22713,35 +22713,35 @@ const shows = [
       "accent": "#d0d0d8",
       "bg": "#06080d"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
-        "text": "A finger jockey We don't think the same way. as the face and body boys do We're a different breed So why male models.",
+        "text": "We're a different breed",
         "character": "",
         "audioUrl": "audio/zoolander/001_a_finger_jockey_we_don_t_think_the_same_way_as_the_face_and.mp3"
       },
       {
-        "text": "And I felt like This guy's really hurting me. and it hurt",
+        "text": "This guy's really hurting me",
         "character": "",
         "audioUrl": "audio/zoolander/002_and_i_felt_like_this_guy_s_really_hurting_me_and_it_hurt.mp3"
       },
       {
-        "text": "And most important of all models don't think for themselves. They do as they're told That is not true. Yes it is Derek Okay.",
+        "text": "Models don't think for themselves",
         "character": "",
         "audioUrl": "audio/zoolander/003_and_most_important_of_all_models_don_t_think_for_themselves.mp3"
       },
       {
-        "text": "And now that you're retired I can't have you.",
+        "text": "Now that you're retired",
         "character": "",
         "audioUrl": "audio/zoolander/004_and_now_that_you_re_retired_i_can_t_have_you.mp3"
       },
       {
-        "text": "Are you not aware that I get farty and bloated with a foamy latte. My mistake Jacobim.",
+        "text": "Farty and bloated with a latte",
         "character": "",
         "audioUrl": "audio/zoolander/006_are_you_not_aware_that_i_get_farty_and_bloated_with_a_foamy.mp3"
       },
       {
-        "text": "But why male models. Are you serious I just l just told you that a moment ago.",
+        "text": "But why male models?",
         "character": "",
         "audioUrl": "audio/zoolander/007_but_why_male_models_are_you_serious_i_just_l_just_told_you_t.mp3"
       },
@@ -22751,7 +22751,7 @@ const shows = [
         "audioUrl": "audio/zoolander/008_cool_story_hansel_thanks_olaf.mp3"
       },
       {
-        "text": "Damn it Derek I'm a coal miner not a professional film and television actor.",
+        "text": "I'm a coal miner",
         "character": "",
         "audioUrl": "audio/zoolander/009_damn_it_derek_i_m_a_coal_miner_not_a_professional_film_and_t.mp3"
       },
@@ -22761,27 +22761,27 @@ const shows = [
         "audioUrl": "audio/zoolander/010_deal_with_that.mp3"
       },
       {
-        "text": "Derek Derek Are you worried about Hansel. Not as much as I'm worried about Gretel.",
+        "text": "Worried about Gretel",
         "character": "",
         "audioUrl": "audio/zoolander/012_derek_derek_are_you_worried_about_hansel_not_as_much_as_i_m.mp3"
       },
       {
-        "text": "Did you ever think that maybe there's more to life. than being really really really ridiculously good looking",
+        "text": "Really ridiculously good looking",
         "character": "",
         "audioUrl": "audio/zoolander/013_did_you_ever_think_that_maybe_there_s_more_to_life_than_bein.mp3"
       },
       {
-        "text": "Do as you've been trained to do and kill the Malaysian prime minister.",
+        "text": "Kill the Malaysian prime minister",
         "character": "",
         "audioUrl": "audio/zoolander/014_do_as_you_ve_been_trained_to_do_and_kill_the_malaysian_prime.mp3"
       },
       {
-        "text": "Done it Done it in a while yeah. Okay what's a while Like eight days.",
+        "text": "Like eight days",
         "character": "",
         "audioUrl": "audio/zoolander/016_done_it_done_it_in_a_while_yeah_okay_what_s_a_while_like_eig.mp3"
       },
       {
-        "text": "Excuse me bro You're excused. And l'm not your bro.",
+        "text": "I'm not your bro",
         "character": "",
         "audioUrl": "audio/zoolander/017_excuse_me_bro_you_re_excused_and_l_m_not_your_bro.mp3"
       },
@@ -22791,117 +22791,117 @@ const shows = [
         "audioUrl": "audio/zoolander/018_for_serious.mp3"
       },
       {
-        "text": "God God. What the shit are you talking about It's me Maury.",
+        "text": "It's me, Maury",
         "character": "",
         "audioUrl": "audio/zoolander/019_god_god_what_the_shit_are_you_talking_about_it_s_me_maury.mp3"
       },
       {
-        "text": "Hansel He's so hot right now Hansel.",
+        "text": "Hansel, so hot right now",
         "character": "",
         "audioUrl": "audio/zoolander/020_hansel_he_s_so_hot_right_now_hansel.mp3"
       },
       {
-        "text": "He can take a crap wrap it in tin foil put a couple of fishhooks on it and sell it to Queen Elizabeth as earrings",
+        "text": "Sell it to Queen Elizabeth",
         "character": "",
         "audioUrl": "audio/zoolander/021_he_can_take_a_crap_wrap_it_in_tin_foil_put_a_couple_of_fishh.mp3"
       },
       {
-        "text": "He's almost too good looking. Hey Paco. That would be my main deterrent in considering a relationship.",
+        "text": "Almost too good looking",
         "character": "",
         "audioUrl": "audio/zoolander/022_he_s_almost_too_good_looking_hey_paco_that_would_be_my_main.mp3"
       },
       {
-        "text": "Hey Mugatu Screw you and your little dog too.",
+        "text": "Screw you and your little dog",
         "character": "",
         "audioUrl": "audio/zoolander/023_hey_mugatu_screw_you_and_your_little_dog_too.mp3"
       },
       {
-        "text": "Hey you want to hear some great news.",
+        "text": "Want to hear great news?",
         "character": "",
         "audioUrl": "audio/zoolander/025_hey_you_want_to_hear_some_great_news.mp3"
       },
       {
-        "text": "How can we be expected to teach children to learn how to read. if they can't even fit inside the building",
+        "text": "If they can't fit in the building",
         "character": "",
         "audioUrl": "audio/zoolander/026_how_can_we_be_expected_to_teach_children_to_learn_how_to_rea.mp3"
       },
       {
-        "text": "I feel really bad that good looking people like us. made you throw up and feel bad about yourself",
+        "text": "Good looking people like us",
         "character": "",
         "audioUrl": "audio/zoolander/027_i_feel_really_bad_that_good_looking_people_like_us_made_you.mp3"
       },
       {
-        "text": "I freakin' worship you man.",
+        "text": "I freakin' worship you, man",
         "character": "",
         "audioUrl": "audio/zoolander/028_i_freakin_worship_you_man.mp3"
       },
       {
-        "text": "I just thank the Lord she didn't live to see her son as a mermaid. Merman. Merman.",
+        "text": "Merman",
         "character": "",
         "audioUrl": "audio/zoolander/031_i_just_thank_the_lord_she_didn_t_live_to_see_her_son_as_a_me.mp3"
       },
       {
-        "text": "I suggest you and your Kmart Jaclyn Smith Collection outfit. stay the hell away from Derek Zoolander",
+        "text": "Kmart Jaclyn Smith outfit",
         "character": "",
         "audioUrl": "audio/zoolander/033_i_suggest_you_and_your_kmart_jaclyn_smith_collection_outfit.mp3"
       },
       {
-        "text": "I thought someone was gonna be reading our eugoogoly.",
+        "text": "Reading our eugoogoly",
         "character": "",
         "audioUrl": "audio/zoolander/034_i_thought_someone_was_gonna_be_reading_our_eugoogoly.mp3"
       },
       {
-        "text": "I'm not an ambi turner.",
+        "text": "I'm not an ambi-turner",
         "character": "",
         "audioUrl": "audio/zoolander/037_i_m_not_an_ambi_turner.mp3"
       },
       {
-        "text": "I'm so tired No Todd not now. It's Maury. Tell me something good.",
+        "text": "Tell me something good",
         "character": "",
         "audioUrl": "audio/zoolander/039_i_m_so_tired_no_todd_not_now_it_s_maury_tell_me_something_go.mp3"
       },
       {
-        "text": "If nobody has any objections. I believe I might be of service.",
+        "text": "I might be of service",
         "character": "",
         "audioUrl": "audio/zoolander/041_if_nobody_has_any_objections_i_believe_i_might_be_of_service.mp3"
       },
       {
-        "text": "It's a walk off.",
+        "text": "It's a walk-off.",
         "character": "",
         "audioUrl": "audio/zoolander/042_it_s_a_walk_off.mp3"
       },
       {
-        "text": "It's that damn Hansel. He's so hot right now.",
+        "text": "He's so hot right now",
         "character": "",
         "audioUrl": "audio/zoolander/043_it_s_that_damn_hansel_he_s_so_hot_right_now.mp3"
       },
       {
-        "text": "L do not like snoopy reporter with lack of fashion sense Not one little bit.",
+        "text": "Not one little bit",
         "character": "",
         "audioUrl": "audio/zoolander/044_l_do_not_like_snoopy_reporter_with_lack_of_fashion_sense_not.mp3"
       },
       {
-        "text": "L'm sorry l was whack",
+        "text": "I'm sorry, I was whack",
         "character": "",
         "audioUrl": "audio/zoolander/045_l_m_sorry_l_was_whack.mp3"
       },
       {
-        "text": "Like a caterpillar becomes a butterfly so must you become Derelicte.",
+        "text": "Become Derelicte",
         "character": "",
         "audioUrl": "audio/zoolander/047_like_a_caterpillar_becomes_a_butterfly_so_must_you_become_de.mp3"
       },
       {
-        "text": "Look I gotta go pee. but I'd really like to continue talking about this conversation when I come back",
+        "text": "Continue this conversation",
         "character": "",
         "audioUrl": "audio/zoolander/048_look_i_gotta_go_pee_but_i_d_really_like_to_continue_talking.mp3"
       },
       {
-        "text": "Now if you'll excuse me I've got an after funeral party to attend.",
+        "text": "An after-funeral party",
         "character": "",
         "audioUrl": "audio/zoolander/050_now_if_you_ll_excuse_me_i_ve_got_an_after_funeral_party_to_a.mp3"
       },
       {
-        "text": "Now this'll be a straight walk off old school rules. First model walks second model duplicates. then elaborates Okay boys let's go to work.",
+        "text": "Old school walk-off rules",
         "character": "",
         "audioUrl": "audio/zoolander/051_now_this_ll_be_a_straight_walk_off_old_school_rules_first_mo.mp3"
       },
@@ -22916,127 +22916,127 @@ const shows = [
         "audioUrl": "audio/zoolander/053_oh_snap.mp3"
       },
       {
-        "text": "Oh Sure I've been working on Magnum for at least eight or nine years.",
+        "text": "Working on Magnum for nine years",
         "character": "",
         "audioUrl": "audio/zoolander/054_oh_sure_i_ve_been_working_on_magnum_for_at_least_eight_or_ni.mp3"
       },
       {
-        "text": "Orange mocha frappuccino Orange mocha frappuccino.",
+        "text": "Orange mocha frappuccino",
         "character": "",
         "audioUrl": "audio/zoolander/055_orange_mocha_frappuccino_orange_mocha_frappuccino.mp3"
       },
       {
-        "text": "Over the past decade. male modelling has had a shadow cast over it by one man and five syllables Derek Zoolander.",
+        "text": "One man, five syllables",
         "character": "",
         "audioUrl": "audio/zoolander/057_over_the_past_decade_male_modelling_has_had_a_shadow_cast_ov.mp3"
       },
       {
-        "text": "Put a cork in it Zane.",
+        "text": "Put a cork in it, Zane",
         "character": "",
         "audioUrl": "audio/zoolander/058_put_a_cork_in_it_zane.mp3"
       },
       {
-        "text": "Seriously Do you service yourself ten times a day.",
+        "text": "Service yourself ten times a day?",
         "character": "",
         "audioUrl": "audio/zoolander/060_seriously_do_you_service_yourself_ten_times_a_day.mp3"
       },
       {
-        "text": "So I became. What. Bulimic. You can read minds.",
+        "text": "Bulimic? You can read minds",
         "character": "",
         "audioUrl": "audio/zoolander/061_so_i_became_what_bulimic_you_can_read_minds.mp3"
       },
       {
-        "text": "The guy had to miraculously pull his underwear out of his butt. just to beat you",
+        "text": "Pull his underwear out to win",
         "character": "",
         "audioUrl": "audio/zoolander/065_the_guy_had_to_miraculously_pull_his_underwear_out_of_his_bu.mp3"
       },
       {
-        "text": "They're break dance fighting.",
+        "text": "They're break dance fighting",
         "character": "",
         "audioUrl": "audio/zoolander/067_they_re_break_dance_fighting.mp3"
       },
       {
-        "text": "They're in the computer.",
+        "text": "They're in the computer",
         "character": "",
         "audioUrl": "audio/zoolander/068_they_re_in_the_computer.mp3"
       },
       {
-        "text": "Tripping on acid changed our whole perspective on shit.",
+        "text": "Tripping on acid",
         "character": "",
         "audioUrl": "audio/zoolander/072_tripping_on_acid_changed_our_whole_perspective_on_shit.mp3"
       },
       {
-        "text": "Wait a minute. I might just have an idea. They'll be looking for us at Maury's right. But they won't be looking for. Not us.",
+        "text": "I might have an idea",
         "character": "",
         "audioUrl": "audio/zoolander/073_wait_a_minute_i_might_just_have_an_idea_they_ll_be_looking_f.mp3"
       },
       {
-        "text": "Well I guess I would have to answer your question with another question. How many abo digitals do you see modelling.",
+        "text": "Answer a question with a question",
         "character": "",
         "audioUrl": "audio/zoolander/074_well_i_guess_i_would_have_to_answer_your_question_with_anoth.mp3"
       },
       {
-        "text": "What do we do when we fall off the horse. We get back on. Sorry Maury I'm not a gymnast.",
+        "text": "I'm not a gymnast",
         "character": "",
         "audioUrl": "audio/zoolander/075_what_do_we_do_when_we_fall_off_the_horse_we_get_back_on_sorr.mp3"
       },
       {
-        "text": "What say we settle this on the runway. Han solo. Stop it. Are you challenging me to a walk off. Boo lander.",
+        "text": "Settle it on the runway",
         "character": "",
         "audioUrl": "audio/zoolander/077_what_say_we_settle_this_on_the_runway_han_solo_stop_it_are_y.mp3"
       },
       {
-        "text": "What's the deal yo yo.",
+        "text": "What's the deal, yo yo",
         "character": "",
         "audioUrl": "audio/zoolander/078_what_s_the_deal_yo_yo.mp3"
       },
       {
-        "text": "Whatever dude Whatever Peace God bless.",
+        "text": "Whatever, peace, God bless",
         "character": "",
         "audioUrl": "audio/zoolander/079_whatever_dude_whatever_peace_god_bless.mp3"
       },
       {
-        "text": "When I was in seventh grade I was the fat kid in my class.",
+        "text": "The fat kid in class",
         "character": "",
         "audioUrl": "audio/zoolander/080_when_i_was_in_seventh_grade_i_was_the_fat_kid_in_my_class.mp3"
       },
       {
-        "text": "Who am I.",
+        "text": "Who am I?",
         "character": "",
         "audioUrl": "audio/zoolander/081_who_am_i.mp3"
       },
       {
-        "text": "Who are you trying to get crazy with ese. Don't you know I'm loco.",
+        "text": "Don't you know I'm loco",
         "character": "",
         "audioUrl": "audio/zoolander/082_who_are_you_trying_to_get_crazy_with_ese_don_t_you_know_i_m.mp3"
       },
       {
-        "text": "With a push up bra you could have a nice rack of lamb going on there.",
+        "text": "A nice rack of lamb",
         "character": "",
         "audioUrl": "audio/zoolander/084_with_a_push_up_bra_you_could_have_a_nice_rack_of_lamb_going.mp3"
       },
       {
-        "text": "Yo taste my pain bitch.",
+        "text": "Taste my pain, bitch",
         "character": "",
         "audioUrl": "audio/zoolander/086_yo_taste_my_pain_bitch.mp3"
       },
       {
-        "text": "You freakin' idiot.",
+        "text": "You freakin' idiot",
         "character": "",
         "audioUrl": "audio/zoolander/087_you_freakin_idiot.mp3"
       },
       {
-        "text": "You is talkin' loco and I like it.",
+        "text": "Talkin' loco and I like it",
         "character": "",
         "audioUrl": "audio/zoolander/088_you_is_talkin_loco_and_i_like_it.mp3"
       },
       {
-        "text": "You think you're too cool for school. But I got a news flash for you Walter Cronkite. You aren't.",
+        "text": "Too cool for school",
         "character": "",
         "audioUrl": "audio/zoolander/089_you_think_you_re_too_cool_for_school_but_i_got_a_news_flash.mp3"
       },
       {
-        "text": "You were wrong about my outfit It's the Cheryl Ladd Collection and I got it at J C Penney. On sale.",
+        "text": "Cheryl Ladd from JC Penney",
         "character": "",
         "audioUrl": "audio/zoolander/090_you_were_wrong_about_my_outfit_it_s_the_cheryl_ladd_collecti.mp3"
       }
@@ -24500,370 +24500,370 @@ const shows = [
       "accent": "#3a7d9c",
       "bg": "#0a0906"
     },
-    "text_style": "caption",
+    "text_style": "title",
     "quotes": [
       {
-        "text": "Are we ever gonna get to use the bed? Come on, honey. There's nothing wrong with the hammock. (MOANING)",
+        "text": "Get to use the bed?",
         "character": "",
         "audioUrl": "audio/entourage/001_are_we_ever_gonna_get_to_use_the_bed_come_on_honey_there_s_n.mp3"
       },
       {
-        "text": "Are you hiding something from me Ari. Only my cock and my asshole Lloyd.",
+        "text": "Only my cock and asshole, Lloyd",
         "character": "",
         "audioUrl": "audio/entourage/002_are_you_hiding_something_from_me_ari_only_my_cock_and_my_ass.mp3"
       },
       {
-        "text": "Ari Gold: Let's hug it out, bitch.",
+        "text": "Let's hug it out, bitch",
         "character": "",
         "audioUrl": "audio/entourage/003_ari_gold_let_s_hug_it_out_bitch.mp3"
       },
       {
-        "text": "Craftsman's are very hot right now, Vince. I just sold one to that actor from Smallville. Where's Smallville?",
+        "text": "Where's Smallville?",
         "character": "",
         "audioUrl": "audio/entourage/004_craftsman_s_are_very_hot_right_now_vince_i_just_sold_one_to.mp3"
       },
       {
-        "text": "Dana I have never cheated on my wife. not since she became my wife but if you want to jerk me in the car right now I'm game",
+        "text": "Jerk me in the car",
         "character": "",
         "audioUrl": "audio/entourage/006_dana_i_have_never_cheated_on_my_wife_not_since_she_became_my.mp3"
       },
       {
-        "text": "Dinner was great Tell Drama he's on my to do list. right after inserting needles in my cock",
+        "text": "Inserting needles in my cock",
         "character": "",
         "audioUrl": "audio/entourage/007_dinner_was_great_tell_drama_he_s_on_my_to_do_list_right_afte.mp3"
       },
       {
-        "text": "Do you have Vince No I have Drama. and he says that he's been authorized to tell you that Vince will not speak to you until he Drama has a job Really Really. RINGING CONTINUES. Question Uh no lox at staff meetings now Ari. Cost cutting until we get into the new offices. There will be lox in the new year trust me. Until then enjoy the gourmet chicken salad. Anyway people. staff meeting has been canceled You all have one goal today. To get Vincent Chase's brother. Johnny Chase a job Any job....",
+        "text": "Get Johnny Chase a job",
         "character": "",
         "audioUrl": "audio/entourage/008_do_you_have_vince_no_i_have_drama_and_he_says_that_he_s_been.mp3"
       },
       {
-        "text": "Don't talk to us like we're adopted bro.",
+        "text": "Don't talk to us like we're adopted",
         "character": "",
         "audioUrl": "audio/entourage/009_don_t_talk_to_us_like_we_re_adopted_bro.mp3"
       },
       {
-        "text": "DRAMA: Back off a little. You're too close. TURTLE: I'm two cars back. What do you want? Always keep two fifths of a block between you and your subject. Oh, what, have you done this before, Drama? Too many times, Turtle. Too many times. I'm thinking about taking a trip to Paris. - Yeah? - Yeah. I've got a week before shooting starts. It's six months of hell after that. - Yeah. - I could use a trip. I'll tell the boys. No, not with the boys. With Mandy.",
+        "text": "Keep two cars back",
         "character": "",
         "audioUrl": "audio/entourage/010_drama_back_off_a_little_you_re_too_close_turtle_i_m_two_cars.mp3"
       },
       {
-        "text": "Easy, Ari. What do you say we race for pink slips? I was thinking about getting that car for my daughter for her Sweet 16. Your daughter's almost 16, huh, Ari? Two more years and she's legal. - Watch it, Davies. - Or what? You couldn't catch me if you wanted to. 100 bucks says I pass Bijan before you. Bijan? You really are a bitch. But you're on!",
+        "text": "Race for pink slips",
         "character": "",
         "audioUrl": "audio/entourage/011_easy_ari_what_do_you_say_we_race_for_pink_slips_i_was_thinki.mp3"
       },
       {
-        "text": "Eric Murphy's office. Uh, just a second.",
+        "text": "Eric Murphy's office",
         "character": "",
         "audioUrl": "audio/entourage/012_eric_murphy_s_office_uh_just_a_second.mp3"
       },
       {
-        "text": "Get a picture of me and my brother. - You used to be on that show, right? - I've been on a bunch of shows. - Vince's brother, what's your name? - Johnny Chase, he steals the film. One more, guys. (PHOTOGRAPHERS CLAMORING INDISTINCTLY)",
+        "text": "Get a picture of me and my brother",
         "character": "",
         "audioUrl": "audio/entourage/013_get_a_picture_of_me_and_my_brother_you_used_to_be_on_that_sh.mp3"
       },
       {
-        "text": "Give me a call when you guys want me to pick you up. What was that number again? Don't worry, I already got it. Come on!",
+        "text": "Call me to pick you up",
         "character": "",
         "audioUrl": "audio/entourage/014_give_me_a_call_when_you_guys_want_me_to_pick_you_up_what_was.mp3"
       },
       {
-        "text": "Goal! (GUNSHOT) Papi, Papi! Papi, Papi. (SOBBING) Papi. (ENGINE REVS)",
+        "text": "Papi, Papi!",
         "character": "",
         "audioUrl": "audio/entourage/015_goal_gunshot_papi_papi_papi_papi_sobbing_papi_engine_revs.mp3"
       },
       {
-        "text": "He did but he didn't go because he thought. he might run into Vince again Ridiculous Is it ridiculous What are you two a fucking tag team. I don't think that Vincent Chase should determine. where you go and don't go in this town He doesn't determine. He's been in a funk since he got fired. And then of course there was the birthday party incident. Everybody stop. I didn't go to the Lakers game 'cause they were playing the fucking Bobcats. And I came here today because I thought this was a...",
+        "text": "Since he got fired",
         "character": "",
         "audioUrl": "audio/entourage/016_he_did_but_he_didn_t_go_because_he_thought_he_might_run_into.mp3"
       },
       {
-        "text": "He's fucking a guy You're getting asked out like a little bitch. I'd say it's a very big deal.",
+        "text": "Asked out like a little bitch",
         "character": "",
         "audioUrl": "audio/entourage/017_he_s_fucking_a_guy_you_re_getting_asked_out_like_a_little_bi.mp3"
       },
       {
-        "text": "Hello, ladies... Johnny Chase, official cast member, \"Rush Hour 3.\" Nice. (LAUGHS). (GRUNTS SOFTLY)",
+        "text": "Cast member, Rush Hour 3",
         "character": "",
         "audioUrl": "audio/entourage/018_hello_ladies_johnny_chase_official_cast_member_rush_hour_3_n.mp3"
       },
       {
-        "text": "Hey don't kid yourself E North of Ventura Boulevard. is Hell's waiting room Be prepared",
+        "text": "Hell's waiting room",
         "character": "",
         "audioUrl": "audio/entourage/019_hey_don_t_kid_yourself_e_north_of_ventura_boulevard_is_hell.mp3"
       },
       {
-        "text": "Hey Is it me. or is her voice getting worse Ari Doesn't mean that I don't love her but she's just awful baby.",
+        "text": "Is her voice getting worse?",
         "character": "",
         "audioUrl": "audio/entourage/020_hey_is_it_me_or_is_her_voice_getting_worse_ari_doesn_t_mean.mp3"
       },
       {
-        "text": "Hey. 10! (ALL LAUGH) - Last ticket. - Our work here is done. Excuse me!",
+        "text": "Our work here is done",
         "character": "",
         "audioUrl": "audio/entourage/021_hey_10_all_laugh_last_ticket_our_work_here_is_done_excuse_me.mp3"
       },
       {
-        "text": "Hi Mr Gold I'm Jake Steinberg. H R Sent me up to replace your last assistant. I don't care Get me Eddie Kapowski on the phone. Any relation to Kelly Kapowski You know Saved by the Bell. You're finished Go. You're fucking fired.",
+        "text": "You're fucking fired",
         "character": "",
         "audioUrl": "audio/entourage/022_hi_mr_gold_i_m_jake_steinberg_h_r_sent_me_up_to_replace_your.mp3"
       },
       {
-        "text": "Holy shit. Are we gonna go cash this? - Not now. We're on our way to Malibu. - Malibu? I booked a massage. So cancel it. I'll have Turtle give you a rubdown. What the hell's in Malibu? Marcel, cancel my 11:00 deep tissue, please. Thank you. Fuckin' Malibu. (LIKE DAT PLAYING)",
+        "text": "Fuckin' Malibu",
         "character": "",
         "audioUrl": "audio/entourage/024_holy_shit_are_we_gonna_go_cash_this_not_now_we_re_on_our_way.mp3"
       },
       {
-        "text": "I dropped my monkey! MOTHER: No, come back!",
+        "text": "I dropped my monkey!",
         "character": "",
         "audioUrl": "audio/entourage/025_i_dropped_my_monkey_mother_no_come_back.mp3"
       },
       {
-        "text": "I was gonna put that scene back in anyway. Now play your funky music, white boy. (HIP HOP MUSIC PLAYING)",
+        "text": "Play your funky music, white boy",
         "character": "",
         "audioUrl": "audio/entourage/026_i_was_gonna_put_that_scene_back_in_anyway_now_play_your_funk.mp3"
       },
       {
-        "text": "I'm afraid of him I'll beat that old fuck and throw him in the pool. Only Daddy speaks that way.",
+        "text": "Throw him in the pool",
         "character": "",
         "audioUrl": "audio/entourage/027_i_m_afraid_of_him_i_ll_beat_that_old_fuck_and_throw_him_in_t.mp3"
       },
       {
-        "text": "I've been working steady for the last twelve years minus the last three.",
+        "text": "Minus the last three",
         "character": "",
         "audioUrl": "audio/entourage/028_i_ve_been_working_steady_for_the_last_twelve_years_minus_the.mp3"
       },
       {
-        "text": "It's not about an Oscar or the neighborhood. If it's good I'll do it.",
+        "text": "If it's good, I'll do it",
         "character": "",
         "audioUrl": "audio/entourage/029_it_s_not_about_an_oscar_or_the_neighborhood_if_it_s_good_i_l.mp3"
       },
       {
-        "text": "Jesus Christ Ari Gold. You just got demoted to silver.",
+        "text": "Demoted to silver",
         "character": "",
         "audioUrl": "audio/entourage/030_jesus_christ_ari_gold_you_just_got_demoted_to_silver.mp3"
       },
       {
-        "text": "Look at this. (SCOFFS) What a dump. You could use the exercise anyway, fat boy. Yeah, why don't you race me up, you 50 year old cocksucker?",
+        "text": "You 50 year old cocksucker",
         "character": "",
         "audioUrl": "audio/entourage/037_look_at_this_scoffs_what_a_dump_you_could_use_the_exercise_a.mp3"
       },
       {
-        "text": "No e mails, no faxes, no phone calls, no nothing. - Simply silence, Lloyd. - (WHISPERS) Ari. Silence, Lloyd. It's golden.",
+        "text": "Silence, Lloyd. It's golden.",
         "character": "",
         "audioUrl": "audio/entourage/038_no_e_mails_no_faxes_no_phone_calls_no_nothing_simply_silence.mp3"
       },
       {
-        "text": "Pavarottis are out tonight, huh, E? Check out the tits on the girl from Extra. Go find out where Ali's sitting. Make sure she's not within 10 rows. - And don't mug for the cameras, either. - Come on.",
+        "text": "Pavarottis are out tonight",
         "character": "",
         "audioUrl": "audio/entourage/039_pavarottis_are_out_tonight_huh_e_check_out_the_tits_on_the_g.mp3"
       },
       {
-        "text": "Scotch. - How about we make it a double? - (LAUGHS) - Thanks so much. - You're welcome. (BABY CRYING) Yo, love that you're sitting coach. Very cool. Thanks, kid. How you doing, Drama? Not good. But I took two Vics, so I will be. (CRYING)",
+        "text": "Make it a double",
         "character": "",
         "audioUrl": "audio/entourage/040_scotch_how_about_we_make_it_a_double_laughs_thanks_so_much_y.mp3"
       },
       {
-        "text": "Script Shut the fuck up Lloyd",
+        "text": "Shut the fuck up, Lloyd",
         "character": "",
         "audioUrl": "audio/entourage/041_script_shut_the_fuck_up_lloyd.mp3"
       },
       {
-        "text": "Shh. Give me a call. (GRUNTING) (CHUCKLING)",
+        "text": "Give me a call",
         "character": "",
         "audioUrl": "audio/entourage/042_shh_give_me_a_call_grunting_chuckling.mp3"
       },
       {
-        "text": "Shut the fuck up Lloyd phone ringing.",
+        "text": "Shut the fuck up, Lloyd",
         "character": "",
         "audioUrl": "audio/entourage/043_shut_the_fuck_up_lloyd_phone_ringing.mp3"
       },
       {
-        "text": "So what's in the gym bag Uh it's a kilo of blow. What's with all the fucking questions He's showing off for you.",
+        "text": "A kilo of blow",
         "character": "",
         "audioUrl": "audio/entourage/045_so_what_s_in_the_gym_bag_uh_it_s_a_kilo_of_blow_what_s_with.mp3"
       },
       {
-        "text": "So, you all live here together? - I live in the guest house. - I'm a guest. Show me.",
+        "text": "I live in the guest house",
         "character": "",
         "audioUrl": "audio/entourage/046_so_you_all_live_here_together_i_live_in_the_guest_house_i_m.mp3"
       },
       {
-        "text": "Sorry about this. I'm just a bit distracted. I know, you taking over an hour. Is there anything else I can do? No, it's okay, just keep doing what you're doing.",
+        "text": "I'm a bit distracted",
         "character": "",
         "audioUrl": "audio/entourage/047_sorry_about_this_i_m_just_a_bit_distracted_i_know_you_taking.mp3"
       },
       {
-        "text": "This fucking art man Fuck art.",
+        "text": "Fuck art",
         "character": "",
         "audioUrl": "audio/entourage/048_this_fucking_art_man_fuck_art.mp3"
       },
       {
-        "text": "Too many times Turtle. Too many times.",
+        "text": "Too many times, Turtle",
         "character": "",
         "audioUrl": "audio/entourage/049_too_many_times_turtle_too_many_times.mp3"
       },
       {
-        "text": "Well it doesn't exactly scream I'm Vincent Chase's manager. No It screams I'm Johnny Chase's.",
+        "text": "Vincent Chase's manager",
         "character": "",
         "audioUrl": "audio/entourage/051_well_it_doesn_t_exactly_scream_i_m_vincent_chase_s_manager_n.mp3"
       },
       {
-        "text": "Were you going to say goodbye? Yeah, I was going to call you tonight. I swear. Should I come visit you in New York? Can you? That'd be great. - Really? - Yeah, really.",
+        "text": "Were you going to say goodbye?",
         "character": "",
         "audioUrl": "audio/entourage/052_were_you_going_to_say_goodbye_yeah_i_was_going_to_call_you_t.mp3"
       },
       {
-        "text": "What do you think? Oh, they're loving it. Wait till they get a load of the end of this scene. TURTLE: Jesus Christ, where's this jerkoff going? Hey, pal... you wanna sit down? You're about to miss. the best part of the whole movie. I have to use the bathroom. Sit down.",
+        "text": "They're loving it",
         "character": "",
         "audioUrl": "audio/entourage/053_what_do_you_think_oh_they_re_loving_it_wait_till_they_get_a.mp3"
       },
       {
-        "text": "What is it distracting you? That. I didn't know you had a subscription. Ah, customer must have left it. You can read if you think it will help. No no. It won't help.",
+        "text": "It won't help",
         "character": "",
         "audioUrl": "audio/entourage/054_what_is_it_distracting_you_that_i_didn_t_know_you_had_a_subs.mp3"
       },
       {
-        "text": "What the fuck are you wearing. I'm trying out new looks. This one's my Andre 3000 You like. No I don't You look like Michelle Kwan in drag. Do a triple fucking axel over to the phone and try Cameron again.",
+        "text": "Michelle Kwan in drag",
         "character": "",
         "audioUrl": "audio/entourage/055_what_the_fuck_are_you_wearing_i_m_trying_out_new_looks_this.mp3"
       },
       {
-        "text": "Where am I going Ivy you're 20 minutes late. Ari I need to talk to you about something Walk with me. Vince and the guys will be partying at Josh Weinstein's. Who's Josh Weinstein He's your old assistant. I have many old assistants. Two before me after Jackie before Jared. My J phase I think I fired him for stealing pens. Why do I care about Josh Now he's an agent at Triad. Uh huh. And he's the one who gave the boys Queens Boulevard. That's why no more guys You fire a guy and you create a...",
+        "text": "You're 20 minutes late",
         "character": "",
         "audioUrl": "audio/entourage/056_where_am_i_going_ivy_you_re_20_minutes_late_ari_i_need_to_ta.mp3"
       },
       {
-        "text": "Why aren't you eating? They got downgraded to a \"B.\". If these warm plates aren't heated up to the right temperature... they become hotbeds of bacteria. Hey. Isn't that that girl from Cheetahs in Vegas? Yeah, the one you cock blocked me for. Please, she was so into me. Hey! Hey!",
+        "text": "Downgraded to a B",
         "character": "",
         "audioUrl": "audio/entourage/057_why_aren_t_you_eating_they_got_downgraded_to_a_b_if_these_wa.mp3"
       },
       {
-        "text": "Why don't you let us show you what we're talking about? Sure. Dana, let's bring in the suit. (CLEARS THROAT) Bring in the suit.",
+        "text": "Bring in the suit",
         "character": "",
         "audioUrl": "audio/entourage/058_why_don_t_you_let_us_show_you_what_we_re_talking_about_sure.mp3"
       },
       {
-        "text": "Wow, nice car, Ari. Anniversary gift from the wife. Thanks, Davies. Oh, that's right, I forgot, you married into money. Good for you, Ari. Good for you. We only use her money for the small stuff. Someday when you're done sucking on Terrance's tit, you might want to get yourself into a man's car like this. (SNIFFS) Breathe deep, Ari, here comes the dust. - Fuck it. - (TIRES SQUEAL)",
+        "text": "Nice car, Ari",
         "character": "",
         "audioUrl": "audio/entourage/059_wow_nice_car_ari_anniversary_gift_from_the_wife_thanks_davie.mp3"
       },
       {
-        "text": "Yeah, Wilson, it's McCabe. I'm code three. Winds took me about 100 yards from the drop point. (CLEARS THROAT) (SIGHS)",
+        "text": "I'm code three",
         "character": "",
         "audioUrl": "audio/entourage/060_yeah_wilson_it_s_mccabe_i_m_code_three_winds_took_me_about_1.mp3"
       },
       {
-        "text": "Yeah. Isn't that something? Isn't that something? No way I'm gonna be up on a 70 foot screen looking like an underwater Elton John. Vinnie, the suit will not look like that on film. Tom Cruise is, like, 5'4\", on screen he looks like Yao Ming. - It's just a prototype, Vince. - Yeah! Ari, it's over. Do not mention this movie to me again. All right, now find me something else I can do. I'll deal with this.",
+        "text": "Underwater Elton John",
         "character": "",
         "audioUrl": "audio/entourage/061_yeah_isn_t_that_something_isn_t_that_something_no_way_i_m_go.mp3"
       },
       {
-        "text": "You are so gonna bang this girl. VINCE: She can be real trouble for me, I'm telling you. If you and Drama both have girlfriends, I'm gonna shoot myself. I hope I have a girlfriend after tonight. I'm gonna go call her. (JUSTINE SINGING)",
+        "text": "You're gonna bang this girl",
         "character": "",
         "audioUrl": "audio/entourage/062_you_are_so_gonna_bang_this_girl_vince_she_can_be_real_troubl.mp3"
       },
       {
-        "text": "You guys hang here. We'll be back in a little while. Don't talk to us like we're adopted, bro.",
+        "text": "Don't talk to us like we're adopted",
         "character": "",
         "audioUrl": "audio/entourage/063_you_guys_hang_here_we_ll_be_back_in_a_little_while_don_t_tal.mp3"
       },
       {
-        "text": "You know what E's right. We should just focus on Queens Boulevard. You know what they feed people on an indie set Vinny. Nothing No trailer They tell you to go sit on an apple box. You ever try to bang an extra on an apple box. If anybody could do it Vince could I do have great balance.",
+        "text": "Focus on Queens Boulevard",
         "character": "",
         "audioUrl": "audio/entourage/064_you_know_what_e_s_right_we_should_just_focus_on_queens_boule.mp3"
       },
       {
-        "text": "You know, sitting here in this expensive suit, flying in this expensive helicopter, going to an expensive guy's house, I finally feel like I made something in my life. Thanks, Vince. I'd feel the same fucking way if I was wearing that shirt.",
+        "text": "I finally made something",
         "character": "",
         "audioUrl": "audio/entourage/065_you_know_sitting_here_in_this_expensive_suit_flying_in_this.mp3"
       },
       {
-        "text": "23 minutes to the Valley. I'm like Chuck Yeager. Uh huh, he's waiting. - Do you need a drink? - I'm all good.",
+        "text": "I'm like Chuck Yeager",
         "character": "",
         "audioUrl": "audio/entourage/066_23_minutes_to_the_valley_i_m_like_chuck_yeager_uh_huh_he_s_w.mp3"
       },
       {
-        "text": "- (CAR HORN HONKS) - (SIGHS) Fucking Malibu!",
+        "text": "Fucking Malibu!",
         "character": "",
         "audioUrl": "audio/entourage/067_car_horn_honks_sighs_fucking_malibu.mp3"
       },
       {
-        "text": "- (DOG WHINING) - Do you smell something? Is that sausage? No, that's gourmet kielbasa. It's been aging for three days. I was going to surprise you guys. I'll kill that son of a bitch!",
+        "text": "Gourmet kielbasa",
         "character": "",
         "audioUrl": "audio/entourage/068_dog_whining_do_you_smell_something_is_that_sausage_no_that.mp3"
       },
       {
-        "text": "- Going down? - It looks like we all are. Look, I'm sorry about that pizza remark. Sorry I came back at you so hard. You were just doing what you were supposed to do. - Protecting your client, right? - That's right. So who else do you represent, Eric? Oh, right. Just Vince. You want to start in again, Barbara? My point is I have 100 clients. So if I'm this worried about one of 100, how worried should you be about one of one? That's some apology, Barbara.",
+        "text": "One of one",
         "character": "",
         "audioUrl": "audio/entourage/069_going_down_it_looks_like_we_all_are_look_i_m_sorry_about_th.mp3"
       },
       {
-        "text": "- Here. - I like it. - (LAUGHS) - Here we go. All right, come on. Let's eat. Here we go. What, peer pressure? Fine.",
+        "text": "Peer pressure? Fine.",
         "character": "",
         "audioUrl": "audio/entourage/070_here_i_like_it_laughs_here_we_go_all_right_come_on_let_s_ea.mp3"
       },
       {
-        "text": "- MAN: Yes? - How are you doing? I have Vincent Chase for the Sweet 16 meet. Come through. And please take your shoes off at the front door.",
+        "text": "Take your shoes off",
         "character": "",
         "audioUrl": "audio/entourage/071_man_yes_how_are_you_doing_i_have_vincent_chase_for_the_swee.mp3"
       },
       {
-        "text": "- Mind if we join you? - WOMAN: Sure. - I'll take some chips, please. - All of it? - Well, 10 is yours, do what you want. - Really? Yeah, man. Commission. You earned it. (LAUGHS) Thank you, Vince! (RAP MUSIC PLAYING)",
+        "text": "Commission, you earned it",
         "character": "",
         "audioUrl": "audio/entourage/072_mind_if_we_join_you_woman_sure_i_ll_take_some_chips_please.mp3"
       },
       {
-        "text": "- Wake up. - I'm up. - You're like kissing a corpse. - I'm sorry. You're not attracted to me? Are you kidding? You're smoking. - Yeah? - Yeah. Maybe you just need to loosen up a little. Relax.",
+        "text": "Like kissing a corpse",
         "character": "",
         "audioUrl": "audio/entourage/073_wake_up_i_m_up_you_re_like_kissing_a_corpse_i_m_sorry_you_r.mp3"
       },
       {
-        "text": "- Yeah? - You up? Yeah, of course. You know you've got that meeting in 45 minutes. - Yeah, I know. - You want me to go with you? No, E, relax. I'm all good. - All right, good. I'll talk to you later. - Bye. You have to go? Yeah, I've got to go win over my director. You have a couple minutes. I'm exhausted. I'm not sure we'd accomplish much in a couple minutes. You relax, I'll accomplish.",
+        "text": "You relax, I'll accomplish",
         "character": "",
         "audioUrl": "audio/entourage/074_yeah_you_up_yeah_of_course_you_know_you_ve_got_that_meeting.mp3"
       },
       {
-        "text": "-You okay? -Not really. You need to get some sleep. l actually need to talk to you. -Okay. -Just give me a second. l'm trying to figure out how we're gonna have a conversation without getting into a fight. Ha, what conversation? Why would we have a fight? Because you like to tell me what l've done wrong. -You don't like to fix things. -Really? You know what? Pull over here.",
+        "text": "Pull over here",
         "character": "",
         "audioUrl": "audio/entourage/075_you_okay_not_really_you_need_to_get_some_sleep_l_actually_n.mp3"
       },
       {
-        "text": "(ALARM BLARING) (HIP HOP MUSIC PLAYING)",
+        "text": "Alarm and hip-hop",
         "character": "",
         "audioUrl": "audio/entourage/076_alarm_blaring_hip_hop_music_playing.mp3"
       },
       {
-        "text": "(BELL RINGING) (PEOPLE CHEERING) (MAN WHISTLING) (SHOUTING)",
+        "text": "Cheering crowd",
         "character": "",
         "audioUrl": "audio/entourage/077_bell_ringing_people_cheering_man_whistling_shouting.mp3"
       },
       {
-        "text": "(CAR APPROACHES) Salgan! - Salg... - (CHILDREN SPEAKING SPANISH) Hola, hermano. (SPEAKING SPANISH)",
+        "text": "Hola, hermano",
         "character": "",
         "audioUrl": "audio/entourage/078_car_approaches_salgan_salg_children_speaking_spanish_hola_h.mp3"
       },
       {
-        "text": "(CHATTERING, LAUGHING) - E: Uh oh. - You... you booked him into this? - Turtle did. - Nice job managing. This should be great for his image. E: What are you doing? I'm on vay cay. Getting a cocktail. - (CAMERAS CLICKING) - All right. What are we drinking?",
+        "text": "What are we drinking?",
         "character": "",
         "audioUrl": "audio/entourage/080_chattering_laughing_e_uh_oh_you_you_booked_him_into_this_tu.mp3"
       },
       {
-        "text": "(HIP HOP MUSIC PLAYING) (ENGINE REWING)",
+        "text": "Hip-hop and engine",
         "character": "",
         "audioUrl": "audio/entourage/081_hip_hop_music_playing_engine_rewing.mp3"
       },
       {
-        "text": "(PEOPLE CHEERING) Whoa! (PEOPLE WHISTLING) Lights Out, it's Johnny Drama! What's up, man? You see that? He recognized me. (RAP MUSIC PLAYING) (MAN WHOOPING)",
+        "text": "Lights Out, it's Johnny Drama!",
         "character": "",
         "audioUrl": "audio/entourage/084_people_cheering_whoa_people_whistling_lights_out_it_s_johnn.mp3"
       },
       {
-        "text": "♪ I wanna be your superhero ♪",
+        "text": "I wanna be your superhero",
         "character": "",
         "audioUrl": "audio/entourage/089_i_wanna_be_your_superhero.mp3"
       },
       {
-        "text": "♪ Yeah, oh yeah ♪ ♪ Oh yeah. ♪",
+        "text": "Yeah, oh yeah",
         "character": "",
         "audioUrl": "audio/entourage/090_yeah_oh_yeah_oh_yeah.mp3"
       }
