@@ -76,6 +76,11 @@ const quotes = [
     "audioUrl": "audio/django-unchained/015_who_dis_n_on_dat_nag.mp3"
   },
   {
+    "text": "Who dis n**** on dat nag?",
+    "character": "",
+    "audioUrl": "audio/django-unchained/015_who_dis_n_on_dat_nag.mp3"
+  },
+  {
     "text": "With My Hands Raised Above My Head",
     "character": "",
     "audioUrl": "audio/django-unchained/016_with_my_hands_raised_above_my_head.mp3"
@@ -249,6 +254,16 @@ const quotes = [
     "text": "What's wrong with them dogs",
     "character": "",
     "audioUrl": "audio/django-unchained/062_get_out_there_and_see_what_s_wrong_with_them_goddamn_dogs.mp3"
+  },
+  {
+    "text": "He gonna stay in The Big House?",
+    "character": "",
+    "audioUrl": "audio/django-unchained/071_he_gonna_stay_in_the_big_house.mp3"
+  },
+  {
+    "text": "He gonna stay in The Big House?",
+    "character": "",
+    "audioUrl": "audio/django-unchained/071_he_gonna_stay_in_the_big_house.mp3"
   },
   {
     "text": "He gonna stay in The Big House?",
