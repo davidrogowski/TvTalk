@@ -159,6 +159,26 @@ Every clip's on-screen text is a **short 1-5 word label**, not the full transcri
 
 **Gotcha — board drift:** re-running fetches the live board to map filenames. If a board has changed since the audio was downloaded (mostly an issue for **modern `-YYYY` boards**, which get updated), the recomputed filenames won't match your `transcripts.txt` and clips silently drop. Legacy `-soundboard` boards are archival and stable. If a re-run's "Total kept" is suddenly low, regenerate `quotes.js` directly from `transcripts.txt` instead of via the scraper.
 
+## Weighting a clip & adding local (non-board) clips
+
+Two durable curation features, both driven from `audio/<id>/transcripts.txt` so they **survive re-scrapes** (they live in the curated file, not in the generated `quotes.js`):
+
+**Play a clip more often — `REPEAT: N`.** Add a `REPEAT:` line to any entry. The scraper emits the clip `N` times into `quotes.js`, so it lands in the random pool `N` times and plays ~`N`× as often. Omit the line (or `REPEAT: 1`) for normal weight.
+
+```
+015_who_dis_n_on_dat_nag.mp3
+  "Who dis n**** on dat nag?"
+  CHARACTER:
+  REPEAT: 2
+```
+
+**Add a clip that isn't on any board (a local MP3 you have).**
+1. Drop the file into `audio/<id>/` (any filename, e.g. `like_a_baby_miss_mammys_titty.mp3`).
+2. Add a normal block for it in `transcripts.txt` (filename / label / `CHARACTER:` / optional `REPEAT:`).
+3. Re-run `python3 scripts/scrape_soundboard.py --show <id>`.
+
+On re-run (curate mode) the scraper **preserves** any clip listed in `transcripts.txt` whose MP3 exists on disk but isn't produced by a board — you'll see `Preserving N hand-added clip(s) not on any board.` Stale entries whose file is missing are skipped. (Pure helpers for both features are covered by `scripts/test_scrape_soundboard.py`.)
+
 ## 7. Rebuild the aggregated data
 
 ```sh

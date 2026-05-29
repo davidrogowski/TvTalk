@@ -57,6 +57,7 @@
 015_who_dis_n_on_dat_nag.mp3
   "Who dis n**** on dat nag?"
   CHARACTER: 
+  REPEAT: 2
 
 016_with_my_hands_raised_above_my_head.mp3
   "With My Hands Raised Above My Head"
@@ -201,6 +202,7 @@
 071_he_gonna_stay_in_the_big_house.mp3
   "He gonna stay in The Big House?"
   CHARACTER: 
+  REPEAT: 3
 
 072_he_is_a_rambunctious_sort_ain_t_he.mp3
   "He is a rambunctious sort, ain't he?"
@@ -661,3 +663,13 @@
 274_normally_i_would_say_auf_wiedersehen.mp3
   "...normally, I would say auf Wiedersehen."
   CHARACTER: 
+
+like_a_baby_miss_mammys_titty.mp3
+  "Like a baby, miss Mammy's titty"
+  CHARACTER: 
+  REPEAT: 3
+
+in_other_words_marshal_you_owe_me_200.mp3
+  "In other words, Marshal, you owe me $200"
+  CHARACTER: 
+  REPEAT: 2
