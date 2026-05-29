@@ -285,6 +285,73 @@ shows:
       accent:  "#5f7e8f"
       bg:      "#0b0a07"
 
+  - id: seinfeld
+    name: "Seinfeld"
+    board_url: "https://www.101soundboards.com/boards/75577-seinfeld-soundboard"
+    status: pending
+    text_style: "title"
+    preserve_transcripts: true
+    min_length: 3             # omit clips of 2 words or fewer (hashtags already stripped)
+    max_length: 9999          # keep the long ones (e.g. the Kramer "anti-dentite" bit)
+    # Curated clip set (transcripts.txt is authoritative): also drops every clip
+    # whose label starts with "Seinfeld" and every "Kramer ..." clip EXCEPT the
+    # anti-dentite/dentist line and "Kramer drinks beer and smokes cigarette".
+    theme:
+      primary: "#c9342f"
+      accent:  "#4a8fc0"
+      bg:      "#0a0707"
+
+  - id: the-simpsons
+    name: "The Simpsons"
+    board_url: "https://www.101soundboards.com/boards/10018-the-simpsons-sounds"
+    status: pending
+    text_style: "title"
+    preserve_transcripts: true
+    dedup: true               # drop repeated transcripts (e.g. "D'oh!" x6)
+    min_length: 3             # omit clips of 2 words or fewer
+    max_length: 9999          # keep the long ones
+    # Curated clip set also drops every clip whose label starts with "The Simpsons".
+    theme:
+      primary: "#ffd521"
+      accent:  "#4a9fd4"
+      bg:      "#0a0a05"
+
+  - id: drake-and-josh
+    name: "Drake & Josh"
+    board_url: "https://www.101soundboards.com/boards/84632-drake-and-josh-soundboard"
+    status: pending
+    text_style: "title"
+    preserve_transcripts: true
+    theme:
+      primary: "#3a86c8"
+      accent:  "#f2a02a"
+      bg:      "#06090d"
+
+  - id: beavis-and-butthead
+    name: "Beavis and Butt-Head"
+    board_url: "https://www.101soundboards.com/boards/22448-beavis-and-butthead-soundboard"
+    status: pending
+    text_style: "title"
+    preserve_transcripts: true
+    min_length: 5             # omit clips of 4 words or fewer (hashtags already stripped)
+    max_length: 9999          # keep the long ones
+    theme:
+      primary: "#c0392b"
+      accent:  "#e8b84a"
+      bg:      "#0a0706"
+
+  - id: king-of-the-hill
+    name: "King of the Hill"
+    board_url: "https://www.101soundboards.com/boards/10013-king-of-the-hill-sounds"
+    status: pending
+    text_style: "title"
+    preserve_transcripts: true
+    max_length: 9999          # keep all clips (a couple are long monologues > 25 words)
+    theme:
+      primary: "#4a7ab0"
+      accent:  "#e0a838"
+      bg:      "#080a0e"
+
   - id: tropic-thunder
     name: "Tropic Thunder"
     board_url: "https://www.101soundboards.com/boards/85853-tropic-thunder-soundboard"
@@ -519,6 +586,101 @@ shows:
       primary: "#e84d8a"
       accent:  "#d9d4e0"
       bg:      "#0d060a"
+
+  - id: dazed-and-confused
+    name: "Dazed and Confused"
+    board_url: "https://www.101soundboards.com/boards/86552-dazed-and-confused-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true
+    dedup: true               # "Alright alright alright" is listed twice
+    theme:
+      primary: "#e0742a"
+      accent:  "#3a9ca0"
+      bg:      "#0e0805"
+
+  - id: idiocracy
+    name: "Idiocracy"
+    board_url: "https://www.101soundboards.com/boards/24757-idiocracy-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true
+    dedup: true               # board has many exact-duplicate captions
+    max_length: 9999          # keep the long narrator monologues
+    theme:
+      primary: "#6db33f"
+      accent:  "#e6d12a"
+      bg:      "#080a05"
+
+  - id: pirates-of-the-caribbean
+    name: "Pirates of the Caribbean"
+    board_url: "https://www.101soundboards.com/boards/24919-pirates-of-the-caribbean-the-curse-of-the-black-pearl-movie-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # board captions are run-together (no spaces); labels in transcripts.txt are hand-spaced
+    theme:
+      primary: "#2a7d8c"
+      accent:  "#d4a843"
+      bg:      "#06090c"
+
+  - id: forrest-gump
+    name: "Forrest Gump"
+    board_url: "https://www.101soundboards.com/boards/26175-forrest-gump-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true
+    max_length: 9999          # keep the long ones
+    theme:
+      primary: "#6a9bd0"
+      accent:  "#c8a86a"
+      bg:      "#08090c"
+
+  - id: pulp-fiction
+    name: "Pulp Fiction"
+    board_url: "https://www.101soundboards.com/boards/1389073-pulp-fiction-1994"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true
+    dedup: true               # board lists some lines twice
+    censor_nword: true        # blur the n-word in captions (as with Django)
+    max_length: 9999          # keep the long monologues (most clips are >25 words)
+    theme:
+      primary: "#e0b020"
+      accent:  "#b02a25"
+      bg:      "#0a0805"
+
+  - id: devil-wears-prada
+    name: "The Devil Wears Prada"
+    board_url: "https://www.101soundboards.com/boards/85006-the-devil-wears-prada-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true
+    min_length: 3             # omit clips of 2 words or fewer (hashtags already stripped)
+    max_length: 9999          # keep the long ones
+    theme:
+      primary: "#3a3f5c"
+      accent:  "#c9a86a"
+      bg:      "#08080c"
+
+  - id: mean-girls
+    name: "Mean Girls"
+    board_url: "https://www.101soundboards.com/boards/97533-mean-girls-2004-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true
+    min_length: 6             # omit clips of 5 words or fewer
+    max_length: 9999          # keep the long ones
+    theme:
+      primary: "#f2569e"
+      accent:  "#c9a0d8"
+      bg:      "#0d060c"
 
   - id: entourage
     name: "Entourage"

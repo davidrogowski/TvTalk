@@ -1,0 +1,127 @@
+001_and_it_s_sort_of_comical.mp3
+  "And it's sort of comical"
+  CHARACTER: 
+
+002_and_what_are_you_doing_here.mp3
+  "And what are you doing here?"
+  CHARACTER: 
+
+003_by_all_means_move_at_a_glacial_pace.mp3
+  "By all means, move at a glacial pace"
+  CHARACTER: 
+
+006_check_for_bad_breath.mp3
+  "Check for bad breath"
+  CHARACTER: 
+
+007_did_you_fall_down_and_smack_your_little_head_on_the_pavement.mp3
+  "Did you fall down and smack your little head on the pavement?"
+  CHARACTER: 
+
+008_disappointed_and_stupid.mp3
+  "Disappointed and stupid"
+  CHARACTER: 
+
+009_everybody_wants_this.mp3
+  "Everybody wants this"
+  CHARACTER: 
+
+010_florals_for_spring_groundbreaking.mp3
+  "Florals? For Spring? Groundbreaking"
+  CHARACTER: 
+
+011_gird_your_loins.mp3
+  "Gird Your Loins"
+  CHARACTER: 
+
+012_gird_your_loins.mp3
+  "Gird your loins"
+  CHARACTER: 
+
+013_i_don_t_know_what_you_expect_me_to_do.mp3
+  "I don't know what you expect me to do"
+  CHARACTER: 
+
+014_is_there_some_reason_that_my_coffee_isn_t_here.mp3
+  "Is there some reason that my coffee isn't here?"
+  CHARACTER: 
+
+015_it_s_a_tough_call_they_re_so_different.mp3
+  "It's a tough call. They're so different"
+  CHARACTER: 
+
+016_make_an_entrance.mp3
+  "Make an entrance"
+  CHARACTER: 
+
+017_making_an_entrance.mp3
+  "Making an entrance"
+  CHARACTER: 
+
+021_no_no_that_wasn_t_a_question.mp3
+  "No no. That wasn't a question"
+  CHARACTER: 
+
+022_ok_i_m_screwing_it_up.mp3
+  "Ok I'm screwing it up"
+  CHARACTER: 
+
+023_please_bore_someone_else_with_your_questions.mp3
+  "Please bore someone else with your questions"
+  CHARACTER: 
+
+024_rushing_to_get_ready.mp3
+  "Rushing to get ready"
+  CHARACTER: 
+
+026_she_s_on_her_way.mp3
+  "She's on her way"
+  CHARACTER: 
+
+028_tales_of_your_incompetence_do_not_interest_me.mp3
+  "Tales of your incompetence do not interest me"
+  CHARACTER: 
+
+029_that_i_can_t_even_talk_about.mp3
+  "That I can't even talk about"
+  CHARACTER: 
+
+030_that_wasn_t_a_question.mp3
+  "That wasn't a question"
+  CHARACTER: 
+
+032_the_chanel_boots.mp3
+  "The Chanel boots"
+  CHARACTER: 
+
+033_throws_phone_in_the_fountain.mp3
+  "Throws phone in the fountain"
+  CHARACTER: 
+
+034_well_i_think_i_could_do_a_good_job.mp3
+  "Well, I think I could do a good job"
+  CHARACTER: 
+
+036_who_is_that_sad_little_person.mp3
+  "Who is that sad little person?"
+  CHARACTER: 
+
+037_why_is_no_one_ready.mp3
+  "Why is no one ready?"
+  CHARACTER: 
+
+038_you_disappointed_me_most.mp3
+  "You disappointed me most"
+  CHARACTER: 
+
+039_you_look_good.mp3
+  "You look good"
+  CHARACTER: 
+
+040_you_think_this_has_nothing_to_do_with_you.mp3
+  "You think this has nothing to do with you"
+  CHARACTER: 
+
+041_you_ll_take_what_i_give_you_and_you_ll_like_it.mp3
+  "You'll take what I give you and you'll like it"
+  CHARACTER: 

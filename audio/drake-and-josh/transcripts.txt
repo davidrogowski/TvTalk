@@ -1,0 +1,135 @@
+001_back_at_ya_sista.mp3
+  "Back at ya, sista"
+  CHARACTER: 
+
+002_bless_you.mp3
+  "Bless you"
+  CHARACTER: 
+
+003_cockle_doodle_doo_the_cow_says_moo.mp3
+  "Cockle Doodle Doo the Cow Says Moo"
+  CHARACTER: 
+
+004_disgusted.mp3
+  "Disgusted"
+  CHARACTER: 
+
+005_don_t_tell_me_what_to_do.mp3
+  "Don't tell me what to do"
+  CHARACTER: 
+
+006_drake_where_s_the_door_hole.mp3
+  "Drake, where's the door hole?"
+  CHARACTER: 
+
+007_embarrassed_sweaty_josh.mp3
+  "Embarrassed Sweaty Josh"
+  CHARACTER: 
+
+008_everyone_raises_their_hands.mp3
+  "Everyone raises their hands"
+  CHARACTER: 
+
+009_ewwrr.mp3
+  "Ewwrr"
+  CHARACTER: 
+
+010_finger_guns.mp3
+  "Finger guns"
+  CHARACTER: 
+
+011_happy_birthday_brother.mp3
+  "Happy Birthday Brother"
+  CHARACTER: 
+
+012_here_s_a_little_song_for_you.mp3
+  "Here's a little song for you.."
+  CHARACTER: 
+
+013_hug_me_brotha.mp3
+  "Hug Me Brotha"
+  CHARACTER: 
+
+014_idiots.mp3
+  "Idiots"
+  CHARACTER: 
+
+015_intense_ping_pong.mp3
+  "Intense Ping Pong"
+  CHARACTER: 
+
+016_it_seems_my_antiperspirant_has_failed.mp3
+  "It seems my antiperspirant has failed"
+  CHARACTER: 
+
+017_it_s_a_little_warm_in_here.mp3
+  "It's a little warm in here"
+  CHARACTER: 
+
+018_its_my_birthday.mp3
+  "Its My Birthday"
+  CHARACTER: 
+
+019_josh_gets_a_wedgie.mp3
+  "Josh gets a wedgie"
+  CHARACTER: 
+
+020_josh_laughing_from_outside_of_the_cell.mp3
+  "Josh laughing from outside of the cell"
+  CHARACTER: 
+
+021_josh_peck_evil.mp3
+  "Josh Peck EVIL"
+  CHARACTER: 
+
+022_leave_me_alone.mp3
+  "Leave me alone!"
+  CHARACTER: 
+
+023_look_up.mp3
+  "Look Up!"
+  CHARACTER: 
+
+024_maguku.mp3
+  "Maguku?"
+  CHARACTER: 
+
+025_megan.mp3
+  "Megan!"
+  CHARACTER: 
+
+026_my_battery_died.mp3
+  "My battery died"
+  CHARACTER: 
+
+027_nervous_twitch.mp3
+  "Nervous twitch"
+  CHARACTER: 
+
+028_that_is_not_my_job.mp3
+  "That is not my job"
+  CHARACTER: 
+
+029_the_cooliest.mp3
+  "The cooliest?"
+  CHARACTER: 
+
+030_try_and_hurt_me_now.mp3
+  "Try and hurt me now!"
+  CHARACTER: 
+
+031_turn_it_off.mp3
+  "Turn it off!"
+  CHARACTER: 
+
+032_whoa_just_take_it_easy_man.mp3
+  "Whoa, just take it easy man"
+  CHARACTER: 
+
+033_you_calling_me_a_liar.mp3
+  "You calling me a liar"
+  CHARACTER: 
+
+034_you_mucker_drake_and_josh_sound_effect.mp3
+  "You Mucker Drake And Josh Sound Effect"
+  CHARACTER: 

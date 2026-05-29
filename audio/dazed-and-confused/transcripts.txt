@@ -1,0 +1,39 @@
+001_alright_alright_alright.mp3
+  "Alright alright alright"
+  CHARACTER: 
+
+002_check_ya_later.mp3
+  "Check Ya Later"
+  CHARACTER: 
+
+003_i_get_older_they_stay_the_same_age.mp3
+  "I get older, they stay the same age"
+  CHARACTER: 
+
+004_i_love_those_redheads.mp3
+  "I love those redheads"
+  CHARACTER: 
+
+005_i_wanna_dance.mp3
+  "I wanna dance"
+  CHARACTER: 
+
+006_it_d_be_a_lot_cooler_if_you_did.mp3
+  "It'd Be A Lot Cooler If You Did"
+  CHARACTER: 
+
+007_school_s_out_for_summer.mp3
+  "School's out for summer"
+  CHARACTER: 
+
+008_that_was_so_creepy.mp3
+  "That was so creepy"
+  CHARACTER: 
+
+009_win_some_you_lose_some.mp3
+  "Win some, you lose some"
+  CHARACTER: 
+
+010_you_got_a_joint.mp3
+  "You got a joint?"
+  CHARACTER: 

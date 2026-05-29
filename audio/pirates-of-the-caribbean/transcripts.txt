@@ -1,0 +1,227 @@
+001_almostcaught.mp3
+  "Almost caught"
+  CHARACTER: 
+
+002_backtowork.mp3
+  "Back to work"
+  CHARACTER: 
+
+003_bloodyisnow.mp3
+  "Bloody is now"
+  CHARACTER: 
+
+004_bloodypirates.mp3
+  "Bloody pirates"
+  CHARACTER: 
+
+005_blowingholes.mp3
+  "Blowing holes"
+  CHARACTER: 
+
+006_buyyouthehat.mp3
+  "Buy you the hat"
+  CHARACTER: 
+
+007_condemnhim.mp3
+  "Condemn him"
+  CHARACTER: 
+
+008_crossingblades.mp3
+  "Crossing blades"
+  CHARACTER: 
+
+009_deepestcircle.mp3
+  "Deepest circle"
+  CHARACTER: 
+
+010_deservedthat.mp3
+  "Deserved that"
+  CHARACTER: 
+
+011_dishonestman.mp3
+  "Dishonest man"
+  CHARACTER: 
+
+012_drinkup.mp3
+  "Drink up"
+  CHARACTER: 
+
+013_easyonthegoods.mp3
+  "Easy on the goods"
+  CHARACTER: 
+
+014_forbreathing.mp3
+  "For breathing"
+  CHARACTER: 
+
+015_havenoweapon.mp3
+  "Have no weapon"
+  CHARACTER: 
+
+016_hellochum.mp3
+  "Hello chum"
+  CHARACTER: 
+
+017_hellopoppet.mp3
+  "Hello poppet"
+  CHARACTER: 
+
+018_ilovethissong.mp3
+  "I love this song"
+  CHARACTER: 
+
+019_iloveweddings.mp3
+  "I love weddings"
+  CHARACTER: 
+
+020_imayhave.mp3
+  "I may have"
+  CHARACTER: 
+
+021_inafairfight.mp3
+  "In a fair fight"
+  CHARACTER: 
+
+022_interesting.mp3
+  "Interesting"
+  CHARACTER: 
+
+023_inthemarket.mp3
+  "In the market"
+  CHARACTER: 
+
+024_isuppose.mp3
+  "I suppose"
+  CHARACTER: 
+
+025_itcallstous.mp3
+  "It calls to us"
+  CHARACTER: 
+
+026_madness.mp3
+  "Madness"
+  CHARACTER: 
+
+027_makesallthese.mp3
+  "Makes all these"
+  CHARACTER: 
+
+028_meansno.mp3
+  "Means no"
+  CHARACTER: 
+
+029_noitsnotyesitis.mp3
+  "No it's not, yes it is"
+  CHARACTER: 
+
+030_nolivingwithher.mp3
+  "No living with her"
+  CHARACTER: 
+
+031_nosurvivors.mp3
+  "No survivors"
+  CHARACTER: 
+
+032_notaeunuch.mp3
+  "Not a eunuch"
+  CHARACTER: 
+
+033_notgood.mp3
+  "Not good"
+  CHARACTER: 
+
+034_nottobreathe.mp3
+  "Not to breathe"
+  CHARACTER: 
+
+035_notverynice.mp3
+  "Not very nice"
+  CHARACTER: 
+
+036_opportune.mp3
+  "Opportune"
+  CHARACTER: 
+
+037_parley.mp3
+  "Parley"
+  CHARACTER: 
+
+038_prettyboat.mp3
+  "Pretty boat"
+  CHARACTER: 
+
+039_promised.mp3
+  "Promised"
+  CHARACTER: 
+
+040_reallybadeggs.mp3
+  "Really bad eggs"
+  CHARACTER: 
+
+041_shoothim.mp3
+  "Shoot him"
+  CHARACTER: 
+
+042_soicankillit.mp3
+  "So I can kill it"
+  CHARACTER: 
+
+043_supposedtobe.mp3
+  "Supposed to be"
+  CHARACTER: 
+
+044_takingover.mp3
+  "Taking over"
+  CHARACTER: 
+
+045_therumisgone.mp3
+  "The rum is gone"
+  CHARACTER: 
+
+046_theworstpirate.mp3
+  "The worst pirate"
+  CHARACTER: 
+
+047_theyrebemonsters.mp3
+  "They be monsters"
+  CHARACTER: 
+
+048_thisshot.mp3
+  "This shot"
+  CHARACTER: 
+
+049_tosaveher.mp3
+  "To save her"
+  CHARACTER: 
+
+050_tosingapore.mp3
+  "To Singapore"
+  CHARACTER: 
+
+051_treasure.mp3
+  "Treasure"
+  CHARACTER: 
+
+052_veryinteresting.mp3
+  "Very interesting"
+  CHARACTER: 
+
+053_welcometo.mp3
+  "Welcome to"
+  CHARACTER: 
+
+054_whyistherumgone.mp3
+  "Why is the rum gone?"
+  CHARACTER: 
+
+055_wonderfultrick.mp3
+  "Wonderful trick"
+  CHARACTER: 
+
+056_youcheated.mp3
+  "You cheated"
+  CHARACTER: 
+
+057_yourpurpose.mp3
+  "Your purpose"
+  CHARACTER: 

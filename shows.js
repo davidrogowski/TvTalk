@@ -18113,6 +18113,2911 @@ const shows = [
     ]
   },
   {
+    "id": "seinfeld",
+    "name": "Seinfeld",
+    "type": "show",
+    "theme": {
+      "primary": "#c9342f",
+      "accent": "#4a8fc0",
+      "bg": "#0a0707"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "A Jesus Fish!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/001_a_jesus_fish.mp3"
+      },
+      {
+        "text": "A new holiday was born! A Festivus for the rest of us",
+        "character": "",
+        "audioUrl": "audio/seinfeld/002_a_new_holiday_was_born_a_festivus_for_the_rest_of_us.mp3"
+      },
+      {
+        "text": "And I'm assuming I need it right away",
+        "character": "",
+        "audioUrl": "audio/seinfeld/004_and_i_m_assuming_i_need_it_right_away.mp3"
+      },
+      {
+        "text": "And you wanna be my latex sailor.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/005_and_you_wanna_be_my_latex_sailor.mp3"
+      },
+      {
+        "text": "And you want to be my latex salesman",
+        "character": "",
+        "audioUrl": "audio/seinfeld/006_and_you_want_to_be_my_latex_salesman.mp3"
+      },
+      {
+        "text": "And you want to be my latex salesman?",
+        "character": "",
+        "audioUrl": "audio/seinfeld/007_and_you_want_to_be_my_latex_salesman.mp3"
+      },
+      {
+        "text": "Another Festivus Miracle!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/008_another_festivus_miracle.mp3"
+      },
+      {
+        "text": "Apartheid RSA + Seinfeld",
+        "character": "",
+        "audioUrl": "audio/seinfeld/011_apartheid_rsa_seinfeld.mp3"
+      },
+      {
+        "text": "Are These Free?",
+        "character": "",
+        "audioUrl": "audio/seinfeld/013_are_these_free.mp3"
+      },
+      {
+        "text": "Are You Crazy",
+        "character": "",
+        "audioUrl": "audio/seinfeld/014_are_you_crazy.mp3"
+      },
+      {
+        "text": "Are You Crazy",
+        "character": "",
+        "audioUrl": "audio/seinfeld/015_are_you_crazy.mp3"
+      },
+      {
+        "text": "Are You Crazy?!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/016_are_you_crazy.mp3"
+      },
+      {
+        "text": "Awful, I hate it",
+        "character": "",
+        "audioUrl": "audio/seinfeld/017_awful_i_hate_it.mp3"
+      },
+      {
+        "text": "Back it up",
+        "character": "",
+        "audioUrl": "audio/seinfeld/018_back_it_up.mp3"
+      },
+      {
+        "text": "Bald men with no job and no money do no approach strange woman",
+        "character": "",
+        "audioUrl": "audio/seinfeld/019_bald_men_with_no_job_and_no_money_do_no_approach_strange_wom.mp3"
+      },
+      {
+        "text": "Blow it off",
+        "character": "",
+        "audioUrl": "audio/seinfeld/022_blow_it_off.mp3"
+      },
+      {
+        "text": "But I don't wanna be a pirate!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/023_but_i_don_t_wanna_be_a_pirate.mp3"
+      },
+      {
+        "text": "Child named seven",
+        "character": "",
+        "audioUrl": "audio/seinfeld/024_child_named_seven.mp3"
+      },
+      {
+        "text": "Chiropractor didn't do anything",
+        "character": "",
+        "audioUrl": "audio/seinfeld/025_chiropractor_didn_t_do_anything.mp3"
+      },
+      {
+        "text": "Come and listen to the idiot!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/027_come_and_listen_to_the_idiot.mp3"
+      },
+      {
+        "text": "Cucumbers on Pizza",
+        "character": "",
+        "audioUrl": "audio/seinfeld/028_cucumbers_on_pizza.mp3"
+      },
+      {
+        "text": "Del boca vista",
+        "character": "",
+        "audioUrl": "audio/seinfeld/029_del_boca_vista.mp3"
+      },
+      {
+        "text": "Did you steal my car? Yes, I did. You did. I did. But that's my car. I don't know. It's yours.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/031_did_you_steal_my_car_yes_i_did_you_did_i_did_but_that_s_my_c.mp3"
+      },
+      {
+        "text": "Didn't they notice it? No, I could. They not notice it because it's a little mint. It's a junior mint.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/032_didn_t_they_notice_it_no_i_could_they_not_notice_it_because.mp3"
+      },
+      {
+        "text": "Dinners, Movies, Talking",
+        "character": "",
+        "audioUrl": "audio/seinfeld/033_dinners_movies_talking.mp3"
+      },
+      {
+        "text": "Do You Ever Get Down On One Knee and Thank God For Me",
+        "character": "",
+        "audioUrl": "audio/seinfeld/034_do_you_ever_get_down_on_one_knee_and_thank_god_for_me.mp3"
+      },
+      {
+        "text": "Do you know how it's getting telling people I even know you?",
+        "character": "",
+        "audioUrl": "audio/seinfeld/035_do_you_know_how_it_s_getting_telling_people_i_even_know_you.mp3"
+      },
+      {
+        "text": "Do You Want To Have Sex With Me Right Now",
+        "character": "",
+        "audioUrl": "audio/seinfeld/036_do_you_want_to_have_sex_with_me_right_now.mp3"
+      },
+      {
+        "text": "Double dipped the chip",
+        "character": "",
+        "audioUrl": "audio/seinfeld/038_double_dipped_the_chip.mp3"
+      },
+      {
+        "text": "Eating in bed",
+        "character": "",
+        "audioUrl": "audio/seinfeld/039_eating_in_bed.mp3"
+      },
+      {
+        "text": "Elaine Christmas Card",
+        "character": "",
+        "audioUrl": "audio/seinfeld/041_elaine_christmas_card.mp3"
+      },
+      {
+        "text": "Elaine No More Soup for You..",
+        "character": "",
+        "audioUrl": "audio/seinfeld/043_elaine_no_more_soup_for_you.mp3"
+      },
+      {
+        "text": "Elaine says Die",
+        "character": "",
+        "audioUrl": "audio/seinfeld/044_elaine_says_die.mp3"
+      },
+      {
+        "text": "Everytime I think i'm out the pull me back in",
+        "character": "",
+        "audioUrl": "audio/seinfeld/045_everytime_i_think_i_m_out_the_pull_me_back_in.mp3"
+      },
+      {
+        "text": "Festivus is back!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/046_festivus_is_back.mp3"
+      },
+      {
+        "text": "George and the fire",
+        "character": "",
+        "audioUrl": "audio/seinfeld/049_george_and_the_fire.mp3"
+      },
+      {
+        "text": "George Costanza Sleeping Under Desk",
+        "character": "",
+        "audioUrl": "audio/seinfeld/050_george_costanza_sleeping_under_desk.mp3"
+      },
+      {
+        "text": "George is getting upset",
+        "character": "",
+        "audioUrl": "audio/seinfeld/051_george_is_getting_upset.mp3"
+      },
+      {
+        "text": "George likes his Chicken Spicy",
+        "character": "",
+        "audioUrl": "audio/seinfeld/052_george_likes_his_chicken_spicy.mp3"
+      },
+      {
+        "text": "Get A Picture Of Him With His Shirt Off",
+        "character": "",
+        "audioUrl": "audio/seinfeld/053_get_a_picture_of_him_with_his_shirt_off.mp3"
+      },
+      {
+        "text": "Get In The Mood",
+        "character": "",
+        "audioUrl": "audio/seinfeld/054_get_in_the_mood.mp3"
+      },
+      {
+        "text": "Get Well Cake",
+        "character": "",
+        "audioUrl": "audio/seinfeld/056_get_well_cake.mp3"
+      },
+      {
+        "text": "Get well, get well soon!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/057_get_well_get_well_soon.mp3"
+      },
+      {
+        "text": "Give Me A Big Smile",
+        "character": "",
+        "audioUrl": "audio/seinfeld/060_give_me_a_big_smile.mp3"
+      },
+      {
+        "text": "Goerge is Getting Upset",
+        "character": "",
+        "audioUrl": "audio/seinfeld/061_goerge_is_getting_upset.mp3"
+      },
+      {
+        "text": "Good Let's keep it that way",
+        "character": "",
+        "audioUrl": "audio/seinfeld/062_good_let_s_keep_it_that_way.mp3"
+      },
+      {
+        "text": "Grab a broom! Sweep! Sweep! Sweep!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/063_grab_a_broom_sweep_sweep_sweep.mp3"
+      },
+      {
+        "text": "Greg Seinfeld 1",
+        "character": "",
+        "audioUrl": "audio/seinfeld/064_greg_seinfeld_1.mp3"
+      },
+      {
+        "text": "Greg Seinfeld 2",
+        "character": "",
+        "audioUrl": "audio/seinfeld/065_greg_seinfeld_2.mp3"
+      },
+      {
+        "text": "Greg Seinfeld 3",
+        "character": "",
+        "audioUrl": "audio/seinfeld/066_greg_seinfeld_3.mp3"
+      },
+      {
+        "text": "Happy Festivus, Everyone!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/069_happy_festivus_everyone.mp3"
+      },
+      {
+        "text": "He Took It Out",
+        "character": "",
+        "audioUrl": "audio/seinfeld/070_he_took_it_out.mp3"
+      },
+      {
+        "text": "He took it out",
+        "character": "",
+        "audioUrl": "audio/seinfeld/071_he_took_it_out.mp3"
+      },
+      {
+        "text": "He took. Get out.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/072_he_took_get_out.mp3"
+      },
+      {
+        "text": "He's a little hot",
+        "character": "",
+        "audioUrl": "audio/seinfeld/073_he_s_a_little_hot.mp3"
+      },
+      {
+        "text": "He's Got A Great Butt",
+        "character": "",
+        "audioUrl": "audio/seinfeld/074_he_s_got_a_great_butt.mp3"
+      },
+      {
+        "text": "His Buttocks Are Sublime",
+        "character": "",
+        "audioUrl": "audio/seinfeld/081_his_buttocks_are_sublime.mp3"
+      },
+      {
+        "text": "His wife is in a coma.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/082_his_wife_is_in_a_coma.mp3"
+      },
+      {
+        "text": "How did I not think of this earlier",
+        "character": "",
+        "audioUrl": "audio/seinfeld/083_how_did_i_not_think_of_this_earlier.mp3"
+      },
+      {
+        "text": "How do you cross those wires? I didn't cross any wires. The keys were in it. Sid left the keys in the car. All right. I got to go. Drive carefully.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/084_how_do_you_cross_those_wires_i_didn_t_cross_any_wires_the_ke.mp3"
+      },
+      {
+        "text": "How you doin over there?",
+        "character": "",
+        "audioUrl": "audio/seinfeld/086_how_you_doin_over_there.mp3"
+      },
+      {
+        "text": "I can browse around on my own",
+        "character": "",
+        "audioUrl": "audio/seinfeld/087_i_can_browse_around_on_my_own.mp3"
+      },
+      {
+        "text": "I can’t help you",
+        "character": "",
+        "audioUrl": "audio/seinfeld/088_i_can_t_help_you.mp3"
+      },
+      {
+        "text": "I choose not to run!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/089_i_choose_not_to_run.mp3"
+      },
+      {
+        "text": "I could drop you like a bag of dirt",
+        "character": "",
+        "audioUrl": "audio/seinfeld/090_i_could_drop_you_like_a_bag_of_dirt.mp3"
+      },
+      {
+        "text": "I don't even know what you're talking about",
+        "character": "",
+        "audioUrl": "audio/seinfeld/091_i_don_t_even_know_what_you_re_talking_about.mp3"
+      },
+      {
+        "text": "I don't even really work here",
+        "character": "",
+        "audioUrl": "audio/seinfeld/092_i_don_t_even_really_work_here.mp3"
+      },
+      {
+        "text": "I don't understand how do these thieves start the car? Do they cross the wires or something crossed the wires? I can't even make a pot of spaghetti.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/093_i_don_t_understand_how_do_these_thieves_start_the_car_do_the.mp3"
+      },
+      {
+        "text": "I don't wanna be remembered I wanna be forgotten",
+        "character": "",
+        "audioUrl": "audio/seinfeld/094_i_don_t_wanna_be_remembered_i_wanna_be_forgotten.mp3"
+      },
+      {
+        "text": "I Find You Extremely Ugly",
+        "character": "",
+        "audioUrl": "audio/seinfeld/095_i_find_you_extremely_ugly.mp3"
+      },
+      {
+        "text": "I find your belief system, fascinating",
+        "character": "",
+        "audioUrl": "audio/seinfeld/096_i_find_your_belief_system_fascinating.mp3"
+      },
+      {
+        "text": "I got a lot of problems with you people, now you're gonna hear about it",
+        "character": "",
+        "audioUrl": "audio/seinfeld/097_i_got_a_lot_of_problems_with_you_people_now_you_re_gonna_hea.mp3"
+      },
+      {
+        "text": "I Got It",
+        "character": "",
+        "audioUrl": "audio/seinfeld/098_i_got_it.mp3"
+      },
+      {
+        "text": "I got it.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/099_i_got_it.mp3"
+      },
+      {
+        "text": "I got it.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/100_i_got_it.mp3"
+      },
+      {
+        "text": "I gotta focus, I’m shifting into soup mode",
+        "character": "",
+        "audioUrl": "audio/seinfeld/101_i_gotta_focus_i_m_shifting_into_soup_mode.mp3"
+      },
+      {
+        "text": "I Gotta Get Out Of This City",
+        "character": "",
+        "audioUrl": "audio/seinfeld/102_i_gotta_get_out_of_this_city.mp3"
+      },
+      {
+        "text": "I Hate Him",
+        "character": "",
+        "audioUrl": "audio/seinfeld/103_i_hate_him.mp3"
+      },
+      {
+        "text": "I hate you hate him. I despise him. Why? I'll tell you why, let me tell. No, you can't tell. You always tell it. Alright, tell you. Just tell it.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/104_i_hate_you_hate_him_i_despise_him_why_i_ll_tell_you_why_let.mp3"
+      },
+      {
+        "text": "I Intend To Undertake This",
+        "character": "",
+        "audioUrl": "audio/seinfeld/105_i_intend_to_undertake_this.mp3"
+      },
+      {
+        "text": "I know less about women than anyone",
+        "character": "",
+        "audioUrl": "audio/seinfeld/106_i_know_less_about_women_than_anyone.mp3"
+      },
+      {
+        "text": "I like to think I have a little grace",
+        "character": "",
+        "audioUrl": "audio/seinfeld/107_i_like_to_think_i_have_a_little_grace.mp3"
+      },
+      {
+        "text": "I Loathe You",
+        "character": "",
+        "audioUrl": "audio/seinfeld/108_i_loathe_you.mp3"
+      },
+      {
+        "text": "I never know what to say to her about. It is one of those problems I hope would just go away. Well, sometimes you can't help these people till they hit rock bottom, and by then you've lost interest.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/109_i_never_know_what_to_say_to_her_about_it_is_one_of_those_pro.mp3"
+      },
+      {
+        "text": "I pinch yourself because you have to do this all day for very little money. Hey, what's he doing? I think he's stealing our rickshaw.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/110_i_pinch_yourself_because_you_have_to_do_this_all_day_for_ver.mp3"
+      },
+      {
+        "text": "I Realized There Had to Be Another Way",
+        "character": "",
+        "audioUrl": "audio/seinfeld/111_i_realized_there_had_to_be_another_way.mp3"
+      },
+      {
+        "text": "I really think we need to talk",
+        "character": "",
+        "audioUrl": "audio/seinfeld/112_i_really_think_we_need_to_talk.mp3"
+      },
+      {
+        "text": "I Really Think We Need To Talk",
+        "character": "",
+        "audioUrl": "audio/seinfeld/113_i_really_think_we_need_to_talk.mp3"
+      },
+      {
+        "text": "I said spread em!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/114_i_said_spread_em.mp3"
+      },
+      {
+        "text": "I Stepped on Your Last Rose",
+        "character": "",
+        "audioUrl": "audio/seinfeld/115_i_stepped_on_your_last_rose.mp3"
+      },
+      {
+        "text": "I stopped short",
+        "character": "",
+        "audioUrl": "audio/seinfeld/116_i_stopped_short.mp3"
+      },
+      {
+        "text": "I tell ya, I gotta plead ignorance on this thing",
+        "character": "",
+        "audioUrl": "audio/seinfeld/117_i_tell_ya_i_gotta_plead_ignorance_on_this_thing.mp3"
+      },
+      {
+        "text": "I think you have me confused",
+        "character": "",
+        "audioUrl": "audio/seinfeld/118_i_think_you_have_me_confused.mp3"
+      },
+      {
+        "text": "I was in the pool!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/119_i_was_in_the_pool.mp3"
+      },
+      {
+        "text": "I'm a damn good cop!!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/120_i_m_a_damn_good_cop.mp3"
+      },
+      {
+        "text": "I'm Back Baby",
+        "character": "",
+        "audioUrl": "audio/seinfeld/121_i_m_back_baby.mp3"
+      },
+      {
+        "text": "I'm Back Baby!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/122_i_m_back_baby.mp3"
+      },
+      {
+        "text": "I'm back baby! I'm back!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/123_i_m_back_baby_i_m_back.mp3"
+      },
+      {
+        "text": "I'm Distrubed, I'm Depressed",
+        "character": "",
+        "audioUrl": "audio/seinfeld/124_i_m_distrubed_i_m_depressed.mp3"
+      },
+      {
+        "text": "I'm gonna have to keep my eye on that",
+        "character": "",
+        "audioUrl": "audio/seinfeld/125_i_m_gonna_have_to_keep_my_eye_on_that.mp3"
+      },
+      {
+        "text": "I'm gonna let you off",
+        "character": "",
+        "audioUrl": "audio/seinfeld/126_i_m_gonna_let_you_off.mp3"
+      },
+      {
+        "text": "I'm gonna need some water",
+        "character": "",
+        "audioUrl": "audio/seinfeld/127_i_m_gonna_need_some_water.mp3"
+      },
+      {
+        "text": "I'm Gonna Need Some Water Here",
+        "character": "",
+        "audioUrl": "audio/seinfeld/128_i_m_gonna_need_some_water_here.mp3"
+      },
+      {
+        "text": "I'm hip to the whole scene",
+        "character": "",
+        "audioUrl": "audio/seinfeld/129_i_m_hip_to_the_whole_scene.mp3"
+      },
+      {
+        "text": "I'm Keith Hernandez",
+        "character": "",
+        "audioUrl": "audio/seinfeld/130_i_m_keith_hernandez.mp3"
+      },
+      {
+        "text": "I'm not gonna betray that trust",
+        "character": "",
+        "audioUrl": "audio/seinfeld/131_i_m_not_gonna_betray_that_trust.mp3"
+      },
+      {
+        "text": "I'm not treating you to lunch anymore!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/132_i_m_not_treating_you_to_lunch_anymore.mp3"
+      },
+      {
+        "text": "I'm really sorry.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/134_i_m_really_sorry.mp3"
+      },
+      {
+        "text": "I'm So Sorry",
+        "character": "",
+        "audioUrl": "audio/seinfeld/135_i_m_so_sorry.mp3"
+      },
+      {
+        "text": "I'm sorry, the card says Moops.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/136_i_m_sorry_the_card_says_moops.mp3"
+      },
+      {
+        "text": "I'm The Opposite Of Every Guy",
+        "character": "",
+        "audioUrl": "audio/seinfeld/137_i_m_the_opposite_of_every_guy.mp3"
+      },
+      {
+        "text": "I'm the opposite of every guy you've ever met",
+        "character": "",
+        "audioUrl": "audio/seinfeld/138_i_m_the_opposite_of_every_guy_you_ve_ever_met.mp3"
+      },
+      {
+        "text": "I'm unemployed and I live with my parents",
+        "character": "",
+        "audioUrl": "audio/seinfeld/139_i_m_unemployed_and_i_live_with_my_parents.mp3"
+      },
+      {
+        "text": "I've driven women to lesbianism before but never a mental institute",
+        "character": "",
+        "audioUrl": "audio/seinfeld/140_i_ve_driven_women_to_lesbianism_before_but_never_a_mental_in.mp3"
+      },
+      {
+        "text": "If a doctor can do it, why can’t we?",
+        "character": "",
+        "audioUrl": "audio/seinfeld/141_if_a_doctor_can_do_it_why_can_t_we.mp3"
+      },
+      {
+        "text": "In A Sack",
+        "character": "",
+        "audioUrl": "audio/seinfeld/142_in_a_sack.mp3"
+      },
+      {
+        "text": "Installing a Clarkman Garbage Disposal",
+        "character": "",
+        "audioUrl": "audio/seinfeld/143_installing_a_clarkman_garbage_disposal.mp3"
+      },
+      {
+        "text": "Is That How You're Going To Say It",
+        "character": "",
+        "audioUrl": "audio/seinfeld/144_is_that_how_you_re_going_to_say_it.mp3"
+      },
+      {
+        "text": "It's a Festivus Miracle!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/146_it_s_a_festivus_miracle.mp3"
+      },
+      {
+        "text": "It's a perfect plan. So inspired, so devious, yet so simple. This is what I do.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/147_it_s_a_perfect_plan_so_inspired_so_devious_yet_so_simple_thi.mp3"
+      },
+      {
+        "text": "It's an eyelash. Make a wish. I don't want to make a wish. Didn't come true.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/148_it_s_an_eyelash_make_a_wish_i_don_t_want_to_make_a_wish_didn.mp3"
+      },
+      {
+        "text": "It's Not A Lie If You Believe It",
+        "character": "",
+        "audioUrl": "audio/seinfeld/150_it_s_not_a_lie_if_you_believe_it.mp3"
+      },
+      {
+        "text": "It's not a lie, if you believe it",
+        "character": "",
+        "audioUrl": "audio/seinfeld/151_it_s_not_a_lie_if_you_believe_it.mp3"
+      },
+      {
+        "text": "It's not the same",
+        "character": "",
+        "audioUrl": "audio/seinfeld/152_it_s_not_the_same.mp3"
+      },
+      {
+        "text": "It's Not The SATs",
+        "character": "",
+        "audioUrl": "audio/seinfeld/153_it_s_not_the_sats.mp3"
+      },
+      {
+        "text": "It's Not You, It's Me",
+        "character": "",
+        "audioUrl": "audio/seinfeld/154_it_s_not_you_it_s_me.mp3"
+      },
+      {
+        "text": "It's true, you can't do the switch. Nobody can do the switch. It's a stupid idea to begin with.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/155_it_s_true_you_can_t_do_the_switch_nobody_can_do_the_switch_i.mp3"
+      },
+      {
+        "text": "Its like a sauna in here",
+        "character": "",
+        "audioUrl": "audio/seinfeld/156_its_like_a_sauna_in_here.mp3"
+      },
+      {
+        "text": "Jerry, it's Bo. But the whole car smells. So someone somebody has Bo, they all usually stays with the B. Once the B leaves, the O goes with it.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/158_jerry_it_s_bo_but_the_whole_car_smells_so_someone_somebody_h.mp3"
+      },
+      {
+        "text": "Kramer drinks beer and smokes cigarette",
+        "character": "",
+        "audioUrl": "audio/seinfeld/163_kramer_drinks_beer_and_smokes_cigarette.mp3"
+      },
+      {
+        "text": "Kramer. He's just a dentist. Yeah, and you're an anti dentite. I am not an anti dentite. You're our Robin anti dentite.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/176_kramer_he_s_just_a_dentist_yeah_and_you_re_an_anti_dentite_i.mp3"
+      },
+      {
+        "text": "Let's Have A Looksy",
+        "character": "",
+        "audioUrl": "audio/seinfeld/179_let_s_have_a_looksy.mp3"
+      },
+      {
+        "text": "Let’s get nuts",
+        "character": "",
+        "audioUrl": "audio/seinfeld/181_let_s_get_nuts.mp3"
+      },
+      {
+        "text": "Lets keep it that way",
+        "character": "",
+        "audioUrl": "audio/seinfeld/182_lets_keep_it_that_way.mp3"
+      },
+      {
+        "text": "Living in the past man",
+        "character": "",
+        "audioUrl": "audio/seinfeld/183_living_in_the_past_man.mp3"
+      },
+      {
+        "text": "Look At This",
+        "character": "",
+        "audioUrl": "audio/seinfeld/184_look_at_this.mp3"
+      },
+      {
+        "text": "Look Away I'm Hideous",
+        "character": "",
+        "audioUrl": "audio/seinfeld/185_look_away_i_m_hideous.mp3"
+      },
+      {
+        "text": "Looking at cleavage is like looking at the sun, you don't stare at it",
+        "character": "",
+        "audioUrl": "audio/seinfeld/187_looking_at_cleavage_is_like_looking_at_the_sun_you_don_t_sta.mp3"
+      },
+      {
+        "text": "Lord of the idiots",
+        "character": "",
+        "audioUrl": "audio/seinfeld/188_lord_of_the_idiots.mp3"
+      },
+      {
+        "text": "Make love to that wall pervert",
+        "character": "",
+        "audioUrl": "audio/seinfeld/189_make_love_to_that_wall_pervert.mp3"
+      },
+      {
+        "text": "Movie Theater Noise",
+        "character": "",
+        "audioUrl": "audio/seinfeld/190_movie_theater_noise.mp3"
+      },
+      {
+        "text": "Moving to Florida",
+        "character": "",
+        "audioUrl": "audio/seinfeld/191_moving_to_florida.mp3"
+      },
+      {
+        "text": "My ex came over, yada yada yada",
+        "character": "",
+        "audioUrl": "audio/seinfeld/192_my_ex_came_over_yada_yada_yada.mp3"
+      },
+      {
+        "text": "My life is the complete opposite of everything I want it to be",
+        "character": "",
+        "audioUrl": "audio/seinfeld/193_my_life_is_the_complete_opposite_of_everything_i_want_it_to.mp3"
+      },
+      {
+        "text": "My mother always said I'm not special",
+        "character": "",
+        "audioUrl": "audio/seinfeld/194_my_mother_always_said_i_m_not_special.mp3"
+      },
+      {
+        "text": "My Mother Caught Me",
+        "character": "",
+        "audioUrl": "audio/seinfeld/195_my_mother_caught_me.mp3"
+      },
+      {
+        "text": "Name baby seven",
+        "character": "",
+        "audioUrl": "audio/seinfeld/196_name_baby_seven.mp3"
+      },
+      {
+        "text": "Newman Insult Full Scene",
+        "character": "",
+        "audioUrl": "audio/seinfeld/197_newman_insult_full_scene.mp3"
+      },
+      {
+        "text": "No No No No No",
+        "character": "",
+        "audioUrl": "audio/seinfeld/199_no_no_no_no_no.mp3"
+      },
+      {
+        "text": "No offense, this holiday's a little out there",
+        "character": "",
+        "audioUrl": "audio/seinfeld/200_no_offense_this_holiday_s_a_little_out_there.mp3"
+      },
+      {
+        "text": "No soup for you!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/202_no_soup_for_you.mp3"
+      },
+      {
+        "text": "No Tippy Toe?",
+        "character": "",
+        "audioUrl": "audio/seinfeld/203_no_tippy_toe.mp3"
+      },
+      {
+        "text": "No, no, I'm working on it.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/204_no_no_i_m_working_on_it.mp3"
+      },
+      {
+        "text": "No, no, see, that's no good. See, you don't know how to act.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/205_no_no_see_that_s_no_good_see_you_don_t_know_how_to_act.mp3"
+      },
+      {
+        "text": "Nobody came up. I hang up.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/206_nobody_came_up_i_hang_up.mp3"
+      },
+      {
+        "text": "Not an Orgy Guy",
+        "character": "",
+        "audioUrl": "audio/seinfeld/207_not_an_orgy_guy.mp3"
+      },
+      {
+        "text": "Not that there's anything wrong with that",
+        "character": "",
+        "audioUrl": "audio/seinfeld/208_not_that_there_s_anything_wrong_with_that.mp3"
+      },
+      {
+        "text": "Not To Run",
+        "character": "",
+        "audioUrl": "audio/seinfeld/209_not_to_run.mp3"
+      },
+      {
+        "text": "Now as Festivus rolls on, we come to the Feats of Strength",
+        "character": "",
+        "audioUrl": "audio/seinfeld/211_now_as_festivus_rolls_on_we_come_to_the_feats_of_strength.mp3"
+      },
+      {
+        "text": "Now, why don't you give me your home number and I'll call you later. I'm sorry, we're not allowed to do that. I guess you don't want people calling you at home. Well, now you know how I feel.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/212_now_why_don_t_you_give_me_your_home_number_and_i_ll_call_you.mp3"
+      },
+      {
+        "text": "Oh I'm stressed",
+        "character": "",
+        "audioUrl": "audio/seinfeld/214_oh_i_m_stressed.mp3"
+      },
+      {
+        "text": "Oh my God.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/215_oh_my_god.mp3"
+      },
+      {
+        "text": "Oh not a problem",
+        "character": "",
+        "audioUrl": "audio/seinfeld/216_oh_not_a_problem.mp3"
+      },
+      {
+        "text": "Oh, the humanity!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/217_oh_the_humanity.mp3"
+      },
+      {
+        "text": "One in a Million Hand",
+        "character": "",
+        "audioUrl": "audio/seinfeld/219_one_in_a_million_hand.mp3"
+      },
+      {
+        "text": "Outrageous, egregious, preposterous!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/220_outrageous_egregious_preposterous.mp3"
+      },
+      {
+        "text": "Problem For Them",
+        "character": "",
+        "audioUrl": "audio/seinfeld/224_problem_for_them.mp3"
+      },
+      {
+        "text": "Serenity Now, Insanity Later",
+        "character": "",
+        "audioUrl": "audio/seinfeld/252_serenity_now_insanity_later.mp3"
+      },
+      {
+        "text": "Serenity Now! Cantsantya",
+        "character": "",
+        "audioUrl": "audio/seinfeld/255_serenity_now_cantsantya.mp3"
+      },
+      {
+        "text": "Shut up. Shut up.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/256_shut_up_shut_up.mp3"
+      },
+      {
+        "text": "Shut Your Mouth",
+        "character": "",
+        "audioUrl": "audio/seinfeld/257_shut_your_mouth.mp3"
+      },
+      {
+        "text": "Sick is the only way to go",
+        "character": "",
+        "audioUrl": "audio/seinfeld/258_sick_is_the_only_way_to_go.mp3"
+      },
+      {
+        "text": "Square to Spare",
+        "character": "",
+        "audioUrl": "audio/seinfeld/263_square_to_spare.mp3"
+      },
+      {
+        "text": "Stick a fork in me I'm done",
+        "character": "",
+        "audioUrl": "audio/seinfeld/264_stick_a_fork_in_me_i_m_done.mp3"
+      },
+      {
+        "text": "Stuff your sorries in a sack mister",
+        "character": "",
+        "audioUrl": "audio/seinfeld/266_stuff_your_sorries_in_a_sack_mister.mp3"
+      },
+      {
+        "text": "Sweep? Yes. Sweep",
+        "character": "",
+        "audioUrl": "audio/seinfeld/267_sweep_yes_sweep.mp3"
+      },
+      {
+        "text": "Sweet Fancy Moses",
+        "character": "",
+        "audioUrl": "audio/seinfeld/268_sweet_fancy_moses.mp3"
+      },
+      {
+        "text": "T Bone, the ladies are gonna love you",
+        "character": "",
+        "audioUrl": "audio/seinfeld/269_t_bone_the_ladies_are_gonna_love_you.mp3"
+      },
+      {
+        "text": "Taking care of business",
+        "character": "",
+        "audioUrl": "audio/seinfeld/270_taking_care_of_business.mp3"
+      },
+      {
+        "text": "That is so cool!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/271_that_is_so_cool.mp3"
+      },
+      {
+        "text": "That's a shame",
+        "character": "",
+        "audioUrl": "audio/seinfeld/272_that_s_a_shame.mp3"
+      },
+      {
+        "text": "That's Gold Jerry, Gold",
+        "character": "",
+        "audioUrl": "audio/seinfeld/274_that_s_gold_jerry_gold.mp3"
+      },
+      {
+        "text": "That's GOLD Jerry!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/275_that_s_gold_jerry.mp3"
+      },
+      {
+        "text": "That's my car.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/276_that_s_my_car.mp3"
+      },
+      {
+        "text": "That's No Good",
+        "character": "",
+        "audioUrl": "audio/seinfeld/277_that_s_no_good.mp3"
+      },
+      {
+        "text": "That's not going to be good for business",
+        "character": "",
+        "audioUrl": "audio/seinfeld/278_that_s_not_going_to_be_good_for_business.mp3"
+      },
+      {
+        "text": "The Answering Machine",
+        "character": "",
+        "audioUrl": "audio/seinfeld/279_the_answering_machine.mp3"
+      },
+      {
+        "text": "The best, Jerry, the best! (Kenny Bania)",
+        "character": "",
+        "audioUrl": "audio/seinfeld/280_the_best_jerry_the_best_kenny_bania.mp3"
+      },
+      {
+        "text": "The Big Salad",
+        "character": "",
+        "audioUrl": "audio/seinfeld/281_the_big_salad.mp3"
+      },
+      {
+        "text": "The Festivus Dinner",
+        "character": "",
+        "audioUrl": "audio/seinfeld/282_the_festivus_dinner.mp3"
+      },
+      {
+        "text": "The Jerk Store Called",
+        "character": "",
+        "audioUrl": "audio/seinfeld/283_the_jerk_store_called.mp3"
+      },
+      {
+        "text": "The ocean called",
+        "character": "",
+        "audioUrl": "audio/seinfeld/285_the_ocean_called.mp3"
+      },
+      {
+        "text": "The summer of George",
+        "character": "",
+        "audioUrl": "audio/seinfeld/286_the_summer_of_george.mp3"
+      },
+      {
+        "text": "The tradition of Festivus begins with the airing of grievances",
+        "character": "",
+        "audioUrl": "audio/seinfeld/287_the_tradition_of_festivus_begins_with_the_airing_of_grievanc.mp3"
+      },
+      {
+        "text": "There's Nothing Funny About That",
+        "character": "",
+        "audioUrl": "audio/seinfeld/288_there_s_nothing_funny_about_that.mp3"
+      },
+      {
+        "text": "These pretzels are making me thirsty",
+        "character": "",
+        "audioUrl": "audio/seinfeld/289_these_pretzels_are_making_me_thirsty.mp3"
+      },
+      {
+        "text": "These Pretzels are Making Me Thirsty",
+        "character": "",
+        "audioUrl": "audio/seinfeld/290_these_pretzels_are_making_me_thirsty.mp3"
+      },
+      {
+        "text": "These pretzels. I'm making me thirsty.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/291_these_pretzels_i_m_making_me_thirsty.mp3"
+      },
+      {
+        "text": "These pretzels. I'm making me thirsty.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/292_these_pretzels_i_m_making_me_thirsty.mp3"
+      },
+      {
+        "text": "They're real and they're spectacular",
+        "character": "",
+        "audioUrl": "audio/seinfeld/293_they_re_real_and_they_re_spectacular.mp3"
+      },
+      {
+        "text": "This Is Anarchy!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/294_this_is_anarchy.mp3"
+      },
+      {
+        "text": "This man is a genius",
+        "character": "",
+        "audioUrl": "audio/seinfeld/295_this_man_is_a_genius.mp3"
+      },
+      {
+        "text": "This whole place is going downhill",
+        "character": "",
+        "audioUrl": "audio/seinfeld/296_this_whole_place_is_going_downhill.mp3"
+      },
+      {
+        "text": "Today is your lucky day junior",
+        "character": "",
+        "audioUrl": "audio/seinfeld/298_today_is_your_lucky_day_junior.mp3"
+      },
+      {
+        "text": "Toilet Paper Elaine",
+        "character": "",
+        "audioUrl": "audio/seinfeld/299_toilet_paper_elaine.mp3"
+      },
+      {
+        "text": "Tried to Be Nice",
+        "character": "",
+        "audioUrl": "audio/seinfeld/300_tried_to_be_nice.mp3"
+      },
+      {
+        "text": "Unfortunately The Immutable Laws Of Physics",
+        "character": "",
+        "audioUrl": "audio/seinfeld/301_unfortunately_the_immutable_laws_of_physics.mp3"
+      },
+      {
+        "text": "Unfortunately, we ran out of cars, but the reservation keeps the car here. That's why you have the reservations. I know why we have reservations. I don't think you do.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/302_unfortunately_we_ran_out_of_cars_but_the_reservation_keeps_t.mp3"
+      },
+      {
+        "text": "UNO MOMENTO, POR FAVOR!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/303_uno_momento_por_favor.mp3"
+      },
+      {
+        "text": "Was that wrong?",
+        "character": "",
+        "audioUrl": "audio/seinfeld/305_was_that_wrong.mp3"
+      },
+      {
+        "text": "Wasn't Talking To You",
+        "character": "",
+        "audioUrl": "audio/seinfeld/306_wasn_t_talking_to_you.mp3"
+      },
+      {
+        "text": "We All Want the Hand",
+        "character": "",
+        "audioUrl": "audio/seinfeld/307_we_all_want_the_hand.mp3"
+      },
+      {
+        "text": "We Are In A Society",
+        "character": "",
+        "audioUrl": "audio/seinfeld/308_we_are_in_a_society.mp3"
+      },
+      {
+        "text": "We are living in a society act in a civilized way!",
+        "character": "",
+        "audioUrl": "audio/seinfeld/309_we_are_living_in_a_society_act_in_a_civilized_way.mp3"
+      },
+      {
+        "text": "We Want You to Get Well",
+        "character": "",
+        "audioUrl": "audio/seinfeld/310_we_want_you_to_get_well.mp3"
+      },
+      {
+        "text": "We're moving to Florida",
+        "character": "",
+        "audioUrl": "audio/seinfeld/311_we_re_moving_to_florida.mp3"
+      },
+      {
+        "text": "Well Now We’re Gettin’ Somewhere",
+        "character": "",
+        "audioUrl": "audio/seinfeld/312_well_now_we_re_gettin_somewhere.mp3"
+      },
+      {
+        "text": "What Are We Going To Do There",
+        "character": "",
+        "audioUrl": "audio/seinfeld/313_what_are_we_going_to_do_there.mp3"
+      },
+      {
+        "text": "What are you eating?",
+        "character": "",
+        "audioUrl": "audio/seinfeld/314_what_are_you_eating.mp3"
+      },
+      {
+        "text": "What do you mean you're not gonna do it?",
+        "character": "",
+        "audioUrl": "audio/seinfeld/315_what_do_you_mean_you_re_not_gonna_do_it.mp3"
+      },
+      {
+        "text": "What the hell do I know about cooking a shirt?",
+        "character": "",
+        "audioUrl": "audio/seinfeld/316_what_the_hell_do_i_know_about_cooking_a_shirt.mp3"
+      },
+      {
+        "text": "What the hell does that mean?",
+        "character": "",
+        "audioUrl": "audio/seinfeld/317_what_the_hell_does_that_mean.mp3"
+      },
+      {
+        "text": "Who Could Love Me?",
+        "character": "",
+        "audioUrl": "audio/seinfeld/318_who_could_love_me.mp3"
+      },
+      {
+        "text": "Who Could Love Me?",
+        "character": "",
+        "audioUrl": "audio/seinfeld/319_who_could_love_me.mp3"
+      },
+      {
+        "text": "Would it kill you not to be so funny all the time?",
+        "character": "",
+        "audioUrl": "audio/seinfeld/321_would_it_kill_you_not_to_be_so_funny_all_the_time.mp3"
+      },
+      {
+        "text": "Would It Kill You To Not Be Funny",
+        "character": "",
+        "audioUrl": "audio/seinfeld/322_would_it_kill_you_to_not_be_funny.mp3"
+      },
+      {
+        "text": "Would you like to come up for some coffee?",
+        "character": "",
+        "audioUrl": "audio/seinfeld/323_would_you_like_to_come_up_for_some_coffee.mp3"
+      },
+      {
+        "text": "Wow, that was fast",
+        "character": "",
+        "audioUrl": "audio/seinfeld/324_wow_that_was_fast.mp3"
+      },
+      {
+        "text": "Wow, that was fast. What was that woman across the street? You know, you better be careful about it. She's gonna get you next.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/325_wow_that_was_fast_what_was_that_woman_across_the_street_you.mp3"
+      },
+      {
+        "text": "Yada yada yada",
+        "character": "",
+        "audioUrl": "audio/seinfeld/326_yada_yada_yada.mp3"
+      },
+      {
+        "text": "Yada yada yada, I'm still single",
+        "character": "",
+        "audioUrl": "audio/seinfeld/327_yada_yada_yada_i_m_still_single.mp3"
+      },
+      {
+        "text": "Yadda yadda yadda. I'm really tired today.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/328_yadda_yadda_yadda_i_m_really_tired_today.mp3"
+      },
+      {
+        "text": "Yeah, well, he's in perfect health. He works out. He's vibrant. He'd really like him. Why do people always say that? I hate everybody. Why would I like him?",
+        "character": "",
+        "audioUrl": "audio/seinfeld/330_yeah_well_he_s_in_perfect_health_he_works_out_he_s_vibrant_h.mp3"
+      },
+      {
+        "text": "You Anti Dentite bastard",
+        "character": "",
+        "audioUrl": "audio/seinfeld/332_you_anti_dentite_bastard.mp3"
+      },
+      {
+        "text": "You Are Nothing But a Piece of Crap",
+        "character": "",
+        "audioUrl": "audio/seinfeld/333_you_are_nothing_but_a_piece_of_crap.mp3"
+      },
+      {
+        "text": "You dip the chip. You took a bite. And you dipped again.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/334_you_dip_the_chip_you_took_a_bite_and_you_dipped_again.mp3"
+      },
+      {
+        "text": "You don't ask, you tell",
+        "character": "",
+        "audioUrl": "audio/seinfeld/335_you_don_t_ask_you_tell.mp3"
+      },
+      {
+        "text": "You Emit a Foul and Unpleasant Odor",
+        "character": "",
+        "audioUrl": "audio/seinfeld/336_you_emit_a_foul_and_unpleasant_odor.mp3"
+      },
+      {
+        "text": "You Gotta Get Some Lifts for Your Shoes",
+        "character": "",
+        "audioUrl": "audio/seinfeld/337_you_gotta_get_some_lifts_for_your_shoes.mp3"
+      },
+      {
+        "text": "You hurt the maestro's feelings",
+        "character": "",
+        "audioUrl": "audio/seinfeld/338_you_hurt_the_maestro_s_feelings.mp3"
+      },
+      {
+        "text": "You just blew my mind",
+        "character": "",
+        "audioUrl": "audio/seinfeld/339_you_just_blew_my_mind.mp3"
+      },
+      {
+        "text": "You think that dentists are so different from me and you? They came to this country just like everybody else in search of a tree. Well, he's from Jersey, yes, and now he's a full-fledged American.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/340_you_think_that_dentists_are_so_different_from_me_and_you_the.mp3"
+      },
+      {
+        "text": "You wanna piece of me?",
+        "character": "",
+        "audioUrl": "audio/seinfeld/341_you_wanna_piece_of_me.mp3"
+      },
+      {
+        "text": "You're An Idiot",
+        "character": "",
+        "audioUrl": "audio/seinfeld/342_you_re_an_idiot.mp3"
+      },
+      {
+        "text": "You're banned from the store",
+        "character": "",
+        "audioUrl": "audio/seinfeld/343_you_re_banned_from_the_store.mp3"
+      },
+      {
+        "text": "You're not very bright, are you?",
+        "character": "",
+        "audioUrl": "audio/seinfeld/344_you_re_not_very_bright_are_you.mp3"
+      },
+      {
+        "text": "You're scheming arent you?",
+        "character": "",
+        "audioUrl": "audio/seinfeld/345_you_re_scheming_arent_you.mp3"
+      },
+      {
+        "text": "You're telling me wine is better than pepsi?",
+        "character": "",
+        "audioUrl": "audio/seinfeld/346_you_re_telling_me_wine_is_better_than_pepsi.mp3"
+      },
+      {
+        "text": "You're the punk I'm looking for",
+        "character": "",
+        "audioUrl": "audio/seinfeld/347_you_re_the_punk_i_m_looking_for.mp3"
+      },
+      {
+        "text": "You're their all time best seller.",
+        "character": "",
+        "audioUrl": "audio/seinfeld/348_you_re_their_all_time_best_seller.mp3"
+      }
+    ]
+  },
+  {
+    "id": "the-simpsons",
+    "name": "The Simpsons",
+    "type": "show",
+    "theme": {
+      "primary": "#ffd521",
+      "accent": "#4a9fd4",
+      "bg": "#0a0a05"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "A free sample on gasoline",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/001_a_free_sample_on_gasoline.mp3"
+      },
+      {
+        "text": "Ah faithful toilet",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/002_ah_faithful_toilet.mp3"
+      },
+      {
+        "text": "All my life I've been obese man trapped inside a fat man's body",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/004_all_my_life_i_ve_been_obese_man_trapped_inside_a_fat_man_s_b.mp3"
+      },
+      {
+        "text": "All this computer hacking is making me thirsty.",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/005_all_this_computer_hacking_is_making_me_thirsty.mp3"
+      },
+      {
+        "text": "And all his wizard friends went straight to Hell for practicing witchcraft",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/006_and_all_his_wizard_friends_went_straight_to_hell_for_practic.mp3"
+      },
+      {
+        "text": "And clean up that mess",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/007_and_clean_up_that_mess.mp3"
+      },
+      {
+        "text": "And how they are not mere objects with curves that make us crazy. No, they are our wives, they are our daughters, our sisters, our grandmas, our aunts, our neices, and nephews. Well not our newphews.",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/008_and_how_they_are_not_mere_objects_with_curves_that_make_us_c.mp3"
+      },
+      {
+        "text": "And special awards go to the two students who obviously had no help from their parents lisa simpson and ralph wiggum yes of course you are",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/009_and_special_awards_go_to_the_two_students_who_obviously_had.mp3"
+      },
+      {
+        "text": "Another chance to be bad",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/010_another_chance_to_be_bad.mp3"
+      },
+      {
+        "text": "Apu Nisa Federal",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/011_apu_nisa_federal.mp3"
+      },
+      {
+        "text": "Argh, I'm stuck! Help me!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/012_argh_i_m_stuck_help_me.mp3"
+      },
+      {
+        "text": "At least I'm out there trying new things",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/014_at_least_i_m_out_there_trying_new_things.mp3"
+      },
+      {
+        "text": "At the risk of editorialising, these women are guilty and must be dealt with in a harsh and brutal fashion, otherwise their behavior could incite other women, leading to anarchy of biblical proportion",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/015_at_the_risk_of_editorialising_these_women_are_guilty_and_mus.mp3"
+      },
+      {
+        "text": "Awalululul uwlaulw wahlwalw heh uh halalululal",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/016_awalululul_uwlaulw_wahlwalw_heh_uh_halalululal.mp3"
+      },
+      {
+        "text": "Back to the lock with use nisi",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/019_back_to_the_lock_with_use_nisi.mp3"
+      },
+      {
+        "text": "Barney, don't steal any beer while I'm gone",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/020_barney_don_t_steal_any_beer_while_i_m_gone.mp3"
+      },
+      {
+        "text": "Bart talking gibberish",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/021_bart_talking_gibberish.mp3"
+      },
+      {
+        "text": "Bart, do you want to see my new chainsaw? Oh, sorry, what am I thinking?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/022_bart_do_you_want_to_see_my_new_chainsaw_oh_sorry_what_am_i_t.mp3"
+      },
+      {
+        "text": "Because we're the parents, and you're the children",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/023_because_we_re_the_parents_and_you_re_the_children.mp3"
+      },
+      {
+        "text": "Begun to my sect",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/025_begun_to_my_sect.mp3"
+      },
+      {
+        "text": "Boy, ye read my thoughts you've got the shinin",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/026_boy_ye_read_my_thoughts_you_ve_got_the_shinin.mp3"
+      },
+      {
+        "text": "But not I was funny that was funny yet taken away my dignity like that ha ha ha",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/027_but_not_i_was_funny_that_was_funny_yet_taken_away_my_dignity.mp3"
+      },
+      {
+        "text": "Can I throw up in your bathroom?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/028_can_i_throw_up_in_your_bathroom.mp3"
+      },
+      {
+        "text": "Come on i dare ya",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/029_come_on_i_dare_ya.mp3"
+      },
+      {
+        "text": "Cool in the sweet I did with my trademark changes of heart",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/030_cool_in_the_sweet_i_did_with_my_trademark_changes_of_heart.mp3"
+      },
+      {
+        "text": "Damn it Smithers this isn't rocket science it's brain surgery",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/033_damn_it_smithers_this_isn_t_rocket_science_it_s_brain_surger.mp3"
+      },
+      {
+        "text": "Dispatch this is chief wiggum, back in persuit of the rebelling women",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/034_dispatch_this_is_chief_wiggum_back_in_persuit_of_the_rebelli.mp3"
+      },
+      {
+        "text": "Do we have to?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/035_do_we_have_to.mp3"
+      },
+      {
+        "text": "Do you gotta go shake to do work committee",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/036_do_you_gotta_go_shake_to_do_work_committee.mp3"
+      },
+      {
+        "text": "Doh, deh, doh dah dih dah",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/039_doh_deh_doh_dah_dih_dah.mp3"
+      },
+      {
+        "text": "Doh, doh, doh",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/040_doh_doh_doh.mp3"
+      },
+      {
+        "text": "Don't feel bad for losin",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/043_don_t_feel_bad_for_losin.mp3"
+      },
+      {
+        "text": "Don't have a cow",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/044_don_t_have_a_cow.mp3"
+      },
+      {
+        "text": "Don't have a cow dad",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/045_don_t_have_a_cow_dad.mp3"
+      },
+      {
+        "text": "Don't lie to me boy",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/046_don_t_lie_to_me_boy.mp3"
+      },
+      {
+        "text": "Donut? No thanks! Got any fruit? This has purple stuff inside, purple's a fruit.",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/048_donut_no_thanks_got_any_fruit_this_has_purple_stuff_inside_p.mp3"
+      },
+      {
+        "text": "Doughnuts is there anything they can’t do",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/049_doughnuts_is_there_anything_they_can_t_do.mp3"
+      },
+      {
+        "text": "Drivers license and drove know how smells in martinsville wig out but not filling the car got crushed in the alamo and can't get home in parkesburg answer courier and just came back from his cock",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/050_drivers_license_and_drove_know_how_smells_in_martinsville_wi.mp3"
+      },
+      {
+        "text": "Dum dee dum dah",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/051_dum_dee_dum_dah.mp3"
+      },
+      {
+        "text": "Eat my shorts",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/052_eat_my_shorts.mp3"
+      },
+      {
+        "text": "English pfft who needs that? I've never gone to England",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/053_english_pfft_who_needs_that_i_ve_never_gone_to_england.mp3"
+      },
+      {
+        "text": "Everyone else loves Ned Flanders... not me!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/054_everyone_else_loves_ned_flanders_not_me.mp3"
+      },
+      {
+        "text": "Everyone loves Ned Flanders (2)",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/055_everyone_loves_ned_flanders_2.mp3"
+      },
+      {
+        "text": "Frankly I would have expected better from Jimmy the Scumbag",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/058_frankly_i_would_have_expected_better_from_jimmy_the_scumbag.mp3"
+      },
+      {
+        "text": "Getcher haggis right here",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/059_getcher_haggis_right_here.mp3"
+      },
+      {
+        "text": "Go ahead water it down some more",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/060_go_ahead_water_it_down_some_more.mp3"
+      },
+      {
+        "text": "Go to bed!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/061_go_to_bed.mp3"
+      },
+      {
+        "text": "God said to Noah, build yourself an Arky Arky...",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/062_god_said_to_noah_build_yourself_an_arky_arky.mp3"
+      },
+      {
+        "text": "Guess who likes you?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/063_guess_who_likes_you.mp3"
+      },
+      {
+        "text": "Ha ha ha. Scaredy cat",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/064_ha_ha_ha_scaredy_cat.mp3"
+      },
+      {
+        "text": "Ha ha, some idiot actually called in",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/065_ha_ha_some_idiot_actually_called_in.mp3"
+      },
+      {
+        "text": "Have a good life",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/067_have_a_good_life.mp3"
+      },
+      {
+        "text": "Have you got any greese?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/068_have_you_got_any_greese.mp3"
+      },
+      {
+        "text": "Have you started smoking?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/069_have_you_started_smoking.mp3"
+      },
+      {
+        "text": "He can't help because biggest I wanna come inside i'll come in god we could have something you picked up boys pep boys killed beverly hills",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/070_he_can_t_help_because_biggest_i_wanna_come_inside_i_ll_come.mp3"
+      },
+      {
+        "text": "He wanted truth you want the truth you can't handle the truth",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/071_he_wanted_truth_you_want_the_truth_you_can_t_handle_the_trut.mp3"
+      },
+      {
+        "text": "Hehehe, hehehe, hehehe, hahaha.",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/072_hehehe_hehehe_hehehe_hahaha.mp3"
+      },
+      {
+        "text": "Hello i'm doctor cheeks I do my rounds and i'm a little behind",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/073_hello_i_m_doctor_cheeks_i_do_my_rounds_and_i_m_a_little_behi.mp3"
+      },
+      {
+        "text": "Hello steady customer! How are you this evening sir?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/074_hello_steady_customer_how_are_you_this_evening_sir.mp3"
+      },
+      {
+        "text": "Hello, what's your name?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/075_hello_what_s_your_name.mp3"
+      },
+      {
+        "text": "Hello? Hello? Hello-dailodily",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/076_hello_hello_hello_dailodily.mp3"
+      },
+      {
+        "text": "Hi I'm Troy McClure",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/077_hi_i_m_troy_mcclure.mp3"
+      },
+      {
+        "text": "Hi join the party!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/078_hi_join_the_party.mp3"
+      },
+      {
+        "text": "Hold me. Only if you hold me",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/079_hold_me_only_if_you_hold_me.mp3"
+      },
+      {
+        "text": "How can you desert your children?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/082_how_can_you_desert_your_children.mp3"
+      },
+      {
+        "text": "How sweet it is",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/083_how_sweet_it_is.mp3"
+      },
+      {
+        "text": "I am evil homer I am evil homer I am evil homer I am evil homer",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/084_i_am_evil_homer_i_am_evil_homer_i_am_evil_homer_i_am_evil_ho.mp3"
+      },
+      {
+        "text": "I am the thing from Uranus",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/085_i_am_the_thing_from_uranus.mp3"
+      },
+      {
+        "text": "I can't, I got to take my wife to the ballet",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/086_i_can_t_i_got_to_take_my_wife_to_the_ballet.mp3"
+      },
+      {
+        "text": "I could do anything if I just put my mind to it",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/087_i_could_do_anything_if_i_just_put_my_mind_to_it.mp3"
+      },
+      {
+        "text": "I didn't do it",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/088_i_didn_t_do_it.mp3"
+      },
+      {
+        "text": "I don't know",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/089_i_don_t_know.mp3"
+      },
+      {
+        "text": "I don't think any of us expected him to say that",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/090_i_don_t_think_any_of_us_expected_him_to_say_that.mp3"
+      },
+      {
+        "text": "I gotta C minus I passed I gotta C minus I passed I passed I kissed the teacher",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/091_i_gotta_c_minus_i_passed_i_gotta_c_minus_i_passed_i_passed_i.mp3"
+      },
+      {
+        "text": "I heard your dad went into a restaurant it ain't everything in the restaurant they had to close the restaurant",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/092_i_heard_your_dad_went_into_a_restaurant_it_ain_t_everything.mp3"
+      },
+      {
+        "text": "I I admiral butt head",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/093_i_i_admiral_butt_head.mp3"
+      },
+      {
+        "text": "I know you didn't believe me about the vending machine, that's why I had the fireman write me a note",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/094_i_know_you_didn_t_believe_me_about_the_vending_machine_that.mp3"
+      },
+      {
+        "text": "I see, ESC, CTRL, and PG UP. There doesn't seem to be any any key.",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/095_i_see_esc_ctrl_and_pg_up_there_doesn_t_seem_to_be_any_any_ke.mp3"
+      },
+      {
+        "text": "I sure like the cut of your gibberish",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/096_i_sure_like_the_cut_of_your_gibberish.mp3"
+      },
+      {
+        "text": "I think I'll have some wine",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/097_i_think_i_ll_have_some_wine.mp3"
+      },
+      {
+        "text": "I used to be a fat disgusting slob *burps*",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/098_i_used_to_be_a_fat_disgusting_slob_burps.mp3"
+      },
+      {
+        "text": "I warnedja didn't I warnedja?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/099_i_warnedja_didn_t_i_warnedja.mp3"
+      },
+      {
+        "text": "I was just going through your garbage, and I couldn't help overhearing that you need a babysitter",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/100_i_was_just_going_through_your_garbage_and_i_couldn_t_help_ov.mp3"
+      },
+      {
+        "text": "I was more animal than ma",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/101_i_was_more_animal_than_ma.mp3"
+      },
+      {
+        "text": "I won, I won!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/102_i_won_i_won.mp3"
+      },
+      {
+        "text": "I'd sell my soul for a donut",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/103_i_d_sell_my_soul_for_a_donut.mp3"
+      },
+      {
+        "text": "I'm a Star Wars!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/104_i_m_a_star_wars.mp3"
+      },
+      {
+        "text": "I'm afraid sorry doesn't cut it with this Pope",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/105_i_m_afraid_sorry_doesn_t_cut_it_with_this_pope.mp3"
+      },
+      {
+        "text": "I'm really, really, really sorry.",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/106_i_m_really_really_really_sorry.mp3"
+      },
+      {
+        "text": "I'm the magical man, from happy land!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/107_i_m_the_magical_man_from_happy_land.mp3"
+      },
+      {
+        "text": "If elected Mayor, my first act will be to kill the whole lot of you, and turn you all to cinders",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/108_if_elected_mayor_my_first_act_will_be_to_kill_the_whole_lot.mp3"
+      },
+      {
+        "text": "If it were up to you, all we would ever do is work, and go to church",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/109_if_it_were_up_to_you_all_we_would_ever_do_is_work_and_go_to.mp3"
+      },
+      {
+        "text": "If something's hard to do, then it's not worth doing",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/110_if_something_s_hard_to_do_then_it_s_not_worth_doing.mp3"
+      },
+      {
+        "text": "If ya don't save the wee turtles, who will?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/111_if_ya_don_t_save_the_wee_turtles_who_will.mp3"
+      },
+      {
+        "text": "If you don't like your job, you don't strike, you just go in every day and do it really half-assed",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/112_if_you_don_t_like_your_job_you_don_t_strike_you_just_go_in_e.mp3"
+      },
+      {
+        "text": "In a gum drop house on lollipop lane!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/113_in_a_gum_drop_house_on_lollipop_lane.mp3"
+      },
+      {
+        "text": "Is punishment for your decision it's company policy to give you the plague",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/114_is_punishment_for_your_decision_it_s_company_policy_to_give.mp3"
+      },
+      {
+        "text": "Isn't life grand?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/115_isn_t_life_grand.mp3"
+      },
+      {
+        "text": "Isn't that the wrong way?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/116_isn_t_that_the_wrong_way.mp3"
+      },
+      {
+        "text": "It isn't that groundskeeper willie teaching french then you the cheese eating surrender monkeys",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/117_it_isn_t_that_groundskeeper_willie_teaching_french_then_you.mp3"
+      },
+      {
+        "text": "It sure does",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/118_it_sure_does.mp3"
+      },
+      {
+        "text": "It was like that when I got here",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/119_it_was_like_that_when_i_got_here.mp3"
+      },
+      {
+        "text": "It's all yours",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/120_it_s_all_yours.mp3"
+      },
+      {
+        "text": "It's been 4000 days since my last drink. It was my first, and last, Blackberry Schnapps",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/121_it_s_been_4000_days_since_my_last_drink_it_was_my_first_and.mp3"
+      },
+      {
+        "text": "It's time for Church!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/122_it_s_time_for_church.mp3"
+      },
+      {
+        "text": "Itchy and scratchy theme",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/123_itchy_and_scratchy_theme.mp3"
+      },
+      {
+        "text": "Just like oscar the grouch",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/124_just_like_oscar_the_grouch.mp3"
+      },
+      {
+        "text": "Kids, you've tried your best and you failed miserably",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/125_kids_you_ve_tried_your_best_and_you_failed_miserably.mp3"
+      },
+      {
+        "text": "Let's get in a quick nine down at the Pitch 'n' Putt",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/126_let_s_get_in_a_quick_nine_down_at_the_pitch_n_putt.mp3"
+      },
+      {
+        "text": "Look, that kid's got bosoms!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/127_look_that_kid_s_got_bosoms.mp3"
+      },
+      {
+        "text": "Man this classic compulsive behavior",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/128_man_this_classic_compulsive_behavior.mp3"
+      },
+      {
+        "text": "Man what's gotten into you",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/129_man_what_s_gotten_into_you.mp3"
+      },
+      {
+        "text": "Margerie please, I enjoy all the meats of our cultural stew",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/131_margerie_please_i_enjoy_all_the_meats_of_our_cultural_stew.mp3"
+      },
+      {
+        "text": "Me fail English? That's unpossible",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/132_me_fail_english_that_s_unpossible.mp3"
+      },
+      {
+        "text": "Me fail English? That's unpossible.",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/133_me_fail_english_that_s_unpossible.mp3"
+      },
+      {
+        "text": "Mmm forbidden doughnut",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/135_mmm_forbidden_doughnut.mp3"
+      },
+      {
+        "text": "Mmm, invisible cola",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/136_mmm_invisible_cola.mp3"
+      },
+      {
+        "text": "Mmm! Urinal fresh",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/138_mmm_urinal_fresh.mp3"
+      },
+      {
+        "text": "My fee is $175 an hour",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/140_my_fee_is_175_an_hour.mp3"
+      },
+      {
+        "text": "My name is Ned",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/141_my_name_is_ned.mp3"
+      },
+      {
+        "text": "No jokes, no taunting",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/143_no_jokes_no_taunting.mp3"
+      },
+      {
+        "text": "No no beer bring pain",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/144_no_no_beer_bring_pain.mp3"
+      },
+      {
+        "text": "No she won't",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/145_no_she_won_t.mp3"
+      },
+      {
+        "text": "Now it's marge is time to shine",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/147_now_it_s_marge_is_time_to_shine.mp3"
+      },
+      {
+        "text": "Now let’s burn rubber baby",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/148_now_let_s_burn_rubber_baby.mp3"
+      },
+      {
+        "text": "Oakily doakily doo!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/149_oakily_doakily_doo.mp3"
+      },
+      {
+        "text": "Oh look at me, I'm making people happy! I'm the magical man from happy land, in a gun drop house on lollipop lane!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/150_oh_look_at_me_i_m_making_people_happy_i_m_the_magical_man_fr.mp3"
+      },
+      {
+        "text": "Oh oh oh",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/151_oh_oh_oh.mp3"
+      },
+      {
+        "text": "Oh, a wise guy, eh?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/152_oh_a_wise_guy_eh.mp3"
+      },
+      {
+        "text": "Oh, good idea boss",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/153_oh_good_idea_boss.mp3"
+      },
+      {
+        "text": "Oh, I don't know",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/154_oh_i_don_t_know.mp3"
+      },
+      {
+        "text": "Oh, I'm on a road, looks to be asphalt, trees, shrubs, I'm directly under the earth's sun, now.",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/155_oh_i_m_on_a_road_looks_to_be_asphalt_trees_shrubs_i_m_direct.mp3"
+      },
+      {
+        "text": "Oodily oodily, diddly doddily...",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/156_oodily_oodily_diddly_doddily.mp3"
+      },
+      {
+        "text": "Ooh! floor pie",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/157_ooh_floor_pie.mp3"
+      },
+      {
+        "text": "Overload pleasure overload",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/158_overload_pleasure_overload.mp3"
+      },
+      {
+        "text": "Please dad your embarrassing us",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/159_please_dad_your_embarrassing_us.mp3"
+      },
+      {
+        "text": "Please pay for your purchases and get out and come again",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/160_please_pay_for_your_purchases_and_get_out_and_come_again.mp3"
+      },
+      {
+        "text": "Silly customer, you cannot hurt the Twinkie!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/164_silly_customer_you_cannot_hurt_the_twinkie.mp3"
+      },
+      {
+        "text": "Sixty four slices of american cheese",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/165_sixty_four_slices_of_american_cheese.mp3"
+      },
+      {
+        "text": "Smithers, dismember the corpse",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/166_smithers_dismember_the_corpse.mp3"
+      },
+      {
+        "text": "So long dental plan, dental plan. Lisa needs braces. Dental plan. Lisa needs braces. Dental plan. Lisa needs braces. Dental plan. Lisa needs braces. Dental plan. Lisa needs braces. Dental plan.",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/168_so_long_dental_plan_dental_plan_lisa_needs_braces_dental_pla.mp3"
+      },
+      {
+        "text": "Someone smells stinky",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/169_someone_smells_stinky.mp3"
+      },
+      {
+        "text": "Sorry, what am I thinking?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/171_sorry_what_am_i_thinking.mp3"
+      },
+      {
+        "text": "Stupid TV! Be more funny!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/172_stupid_tv_be_more_funny.mp3"
+      },
+      {
+        "text": "Success it's ringing most haven't looking for mister smith is first name waylon ayesha you're looking for a mister smith AJ first name waylon is it listen to me yo when i",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/173_success_it_s_ringing_most_haven_t_looking_for_mister_smith_i.mp3"
+      },
+      {
+        "text": "Thank you for coming i'll see you in hell",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/175_thank_you_for_coming_i_ll_see_you_in_hell.mp3"
+      },
+      {
+        "text": "That I am out of here",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/176_that_i_am_out_of_here.mp3"
+      },
+      {
+        "text": "That was easy",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/177_that_was_easy.mp3"
+      },
+      {
+        "text": "That would be delightful!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/178_that_would_be_delightful.mp3"
+      },
+      {
+        "text": "That's a crock",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/179_that_s_a_crock.mp3"
+      },
+      {
+        "text": "That's good enough for me",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/180_that_s_good_enough_for_me.mp3"
+      },
+      {
+        "text": "That's it, I'm calling my buddies",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/181_that_s_it_i_m_calling_my_buddies.mp3"
+      },
+      {
+        "text": "That's it, you people have stood in my way long enough. I'm going to Clown College.",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/182_that_s_it_you_people_have_stood_in_my_way_long_enough_i_m_go.mp3"
+      },
+      {
+        "text": "That's my name that name again is mister plow",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/183_that_s_my_name_that_name_again_is_mister_plow.mp3"
+      },
+      {
+        "text": "That's not a knife, that's a spoo",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/184_that_s_not_a_knife_that_s_a_spoo.mp3"
+      },
+      {
+        "text": "That's the American way",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/185_that_s_the_american_way.mp3"
+      },
+      {
+        "text": "That's what I've been saying. We're all fine the way we are",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/186_that_s_what_i_ve_been_saying_we_re_all_fine_the_way_we_are.mp3"
+      },
+      {
+        "text": "That's why you're bulletproof vest sanjay it's time for another bank run all right but if I don't make it promise you one sleep with my wife I promised nothing",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/187_that_s_why_you_re_bulletproof_vest_sanjay_it_s_time_for_anot.mp3"
+      },
+      {
+        "text": "That's your advice?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/188_that_s_your_advice.mp3"
+      },
+      {
+        "text": "The doctor said I wouldn't have so many nosebleeds if I kept my finger out of there",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/189_the_doctor_said_i_wouldn_t_have_so_many_nosebleeds_if_i_kept.mp3"
+      },
+      {
+        "text": "The mail the mail is here ooh!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/190_the_mail_the_mail_is_here_ooh.mp3"
+      },
+      {
+        "text": "Then grease me up woman!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/193_then_grease_me_up_woman.mp3"
+      },
+      {
+        "text": "There are ghost cars all over these highways",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/194_there_are_ghost_cars_all_over_these_highways.mp3"
+      },
+      {
+        "text": "There are several fine young man who i'm sure i'm gonna go far ladies and gentlemen the ramones he's been seriously seriously jingles leaves I just like to say this exact your springfield",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/195_there_are_several_fine_young_man_who_i_m_sure_i_m_gonna_go_f.mp3"
+      },
+      {
+        "text": "There's three ways to do things, the right way, the wrong way, and the Max Power way!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/196_there_s_three_ways_to_do_things_the_right_way_the_wrong_way.mp3"
+      },
+      {
+        "text": "They used nylon drop this time it feels so smooth against my skin almost sensuous",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/197_they_used_nylon_drop_this_time_it_feels_so_smooth_against_my.mp3"
+      },
+      {
+        "text": "Think you can get this car home? Sure thing giant beer!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/198_think_you_can_get_this_car_home_sure_thing_giant_beer.mp3"
+      },
+      {
+        "text": "This is all your fault it how can I stay mad at you",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/199_this_is_all_your_fault_it_how_can_i_stay_mad_at_you.mp3"
+      },
+      {
+        "text": "This may be hard to believe, but I'm trapped inside two vending machines",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/200_this_may_be_hard_to_believe_but_i_m_trapped_inside_two_vendi.mp3"
+      },
+      {
+        "text": "Time to stick it to the man",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/201_time_to_stick_it_to_the_man.mp3"
+      },
+      {
+        "text": "To alcohol! The cause of, and solution to, all of life's problems.",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/202_to_alcohol_the_cause_of_and_solution_to_all_of_life_s_proble.mp3"
+      },
+      {
+        "text": "To start press any key where is the any key",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/203_to_start_press_any_key_where_is_the_any_key.mp3"
+      },
+      {
+        "text": "To start, press any key. Where's the any key?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/204_to_start_press_any_key_where_s_the_any_key.mp3"
+      },
+      {
+        "text": "Wait a minute, who is this?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/207_wait_a_minute_who_is_this.mp3"
+      },
+      {
+        "text": "We don't need a baby sitter",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/209_we_don_t_need_a_baby_sitter.mp3"
+      },
+      {
+        "text": "We're done for, we're done diddly done for...",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/210_we_re_done_for_we_re_done_diddly_done_for.mp3"
+      },
+      {
+        "text": "Well Homer, maybe you can take some consolation in the fact that something you created is making so many people happy",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/211_well_homer_maybe_you_can_take_some_consolation_in_the_fact_t.mp3"
+      },
+      {
+        "text": "Well ooh-la-dee-da Mr. Frenchman!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/213_well_ooh_la_dee_da_mr_frenchman.mp3"
+      },
+      {
+        "text": "What a day",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/215_what_a_day.mp3"
+      },
+      {
+        "text": "What do you think Smithers?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/216_what_do_you_think_smithers.mp3"
+      },
+      {
+        "text": "What is that a six barrel Holley carb? Edelbrock intakes? Myohoff lifters?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/217_what_is_that_a_six_barrel_holley_carb_edelbrock_intakes_myoh.mp3"
+      },
+      {
+        "text": "What the hell? Oh, we got a call",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/218_what_the_hell_oh_we_got_a_call.mp3"
+      },
+      {
+        "text": "What's the deal?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/219_what_s_the_deal.mp3"
+      },
+      {
+        "text": "When I first arrived but now i've come to love",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/220_when_i_first_arrived_but_now_i_ve_come_to_love.mp3"
+      },
+      {
+        "text": "When I grow up i'm going to bovine university",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/221_when_i_grow_up_i_m_going_to_bovine_university.mp3"
+      },
+      {
+        "text": "When will you be home?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/222_when_will_you_be_home.mp3"
+      },
+      {
+        "text": "Where you going?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/223_where_you_going.mp3"
+      },
+      {
+        "text": "Whoops! Lost a nail! Well, that's leprosy for you!",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/224_whoops_lost_a_nail_well_that_s_leprosy_for_you.mp3"
+      },
+      {
+        "text": "Wine 'em and dine 'em, bring 'em flowers, write 'em love poetry",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/226_wine_em_and_dine_em_bring_em_flowers_write_em_love_poetry.mp3"
+      },
+      {
+        "text": "Woo, ah, hee, ahh, woo, yeargh, yee",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/228_woo_ah_hee_ahh_woo_yeargh_yee.mp3"
+      },
+      {
+        "text": "Wrong wrong wrong",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/230_wrong_wrong_wrong.mp3"
+      },
+      {
+        "text": "Yeah just like object amanda huggenkiss hey i'm looking for amanda hug and cats I can I find a man",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/231_yeah_just_like_object_amanda_huggenkiss_hey_i_m_looking_for.mp3"
+      },
+      {
+        "text": "Yeah no number",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/232_yeah_no_number.mp3"
+      },
+      {
+        "text": "Yes i'm sorry I do not speak english OK but you were just tell me yes yes hotdog hotdog yes sir no sir may be OK",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/233_yes_i_m_sorry_i_do_not_speak_english_ok_but_you_were_just_te.mp3"
+      },
+      {
+        "text": "Yes ralph what is it no ralph their arms anymore just try to sleep all the other children are learning oh boy sleep that's where i'm a viking",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/234_yes_ralph_what_is_it_no_ralph_their_arms_anymore_just_try_to.mp3"
+      },
+      {
+        "text": "Yes you're in deep doo now",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/235_yes_you_re_in_deep_doo_now.mp3"
+      },
+      {
+        "text": "You have to promise not to commit any more crimes, OK?",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/237_you_have_to_promise_not_to_commit_any_more_crimes_ok.mp3"
+      },
+      {
+        "text": "You magnificent bastard I salute",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/238_you_magnificent_bastard_i_salute.mp3"
+      },
+      {
+        "text": "You make me feel like dancing I wanna dance mat away",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/239_you_make_me_feel_like_dancing_i_wanna_dance_mat_away.mp3"
+      },
+      {
+        "text": "You might remember me from such telethons as Out with Gout '88 and Let's Save Tony Orlando's House",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/240_you_might_remember_me_from_such_telethons_as_out_with_gout_8.mp3"
+      },
+      {
+        "text": "You tried your best, and you failed miserably. The lesson is: never try.",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/241_you_tried_your_best_and_you_failed_miserably_the_lesson_is_n.mp3"
+      },
+      {
+        "text": "You'll make Sargeant for this",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/242_you_ll_make_sargeant_for_this.mp3"
+      },
+      {
+        "text": "Your have your house she had so glamorously decorated I thought I was in vegas you guys lied to me and said it was dangerous",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/243_your_have_your_house_she_had_so_glamorously_decorated_i_thou.mp3"
+      },
+      {
+        "text": "Your silk wedding",
+        "character": "",
+        "audioUrl": "audio/the-simpsons/244_your_silk_wedding.mp3"
+      }
+    ]
+  },
+  {
+    "id": "drake-and-josh",
+    "name": "Drake & Josh",
+    "type": "show",
+    "theme": {
+      "primary": "#3a86c8",
+      "accent": "#f2a02a",
+      "bg": "#06090d"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Back at ya, sista",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/001_back_at_ya_sista.mp3"
+      },
+      {
+        "text": "Bless you",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/002_bless_you.mp3"
+      },
+      {
+        "text": "Cockle Doodle Doo the Cow Says Moo",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/003_cockle_doodle_doo_the_cow_says_moo.mp3"
+      },
+      {
+        "text": "Disgusted",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/004_disgusted.mp3"
+      },
+      {
+        "text": "Don't tell me what to do",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/005_don_t_tell_me_what_to_do.mp3"
+      },
+      {
+        "text": "Drake, where's the door hole?",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/006_drake_where_s_the_door_hole.mp3"
+      },
+      {
+        "text": "Embarrassed Sweaty Josh",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/007_embarrassed_sweaty_josh.mp3"
+      },
+      {
+        "text": "Everyone raises their hands",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/008_everyone_raises_their_hands.mp3"
+      },
+      {
+        "text": "Ewwrr",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/009_ewwrr.mp3"
+      },
+      {
+        "text": "Finger guns",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/010_finger_guns.mp3"
+      },
+      {
+        "text": "Happy Birthday Brother",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/011_happy_birthday_brother.mp3"
+      },
+      {
+        "text": "Here's a little song for you..",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/012_here_s_a_little_song_for_you.mp3"
+      },
+      {
+        "text": "Hug Me Brotha",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/013_hug_me_brotha.mp3"
+      },
+      {
+        "text": "Idiots",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/014_idiots.mp3"
+      },
+      {
+        "text": "Intense Ping Pong",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/015_intense_ping_pong.mp3"
+      },
+      {
+        "text": "It seems my antiperspirant has failed",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/016_it_seems_my_antiperspirant_has_failed.mp3"
+      },
+      {
+        "text": "It's a little warm in here",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/017_it_s_a_little_warm_in_here.mp3"
+      },
+      {
+        "text": "Its My Birthday",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/018_its_my_birthday.mp3"
+      },
+      {
+        "text": "Josh gets a wedgie",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/019_josh_gets_a_wedgie.mp3"
+      },
+      {
+        "text": "Josh laughing from outside of the cell",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/020_josh_laughing_from_outside_of_the_cell.mp3"
+      },
+      {
+        "text": "Josh Peck EVIL",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/021_josh_peck_evil.mp3"
+      },
+      {
+        "text": "Leave me alone!",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/022_leave_me_alone.mp3"
+      },
+      {
+        "text": "Look Up!",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/023_look_up.mp3"
+      },
+      {
+        "text": "Maguku?",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/024_maguku.mp3"
+      },
+      {
+        "text": "Megan!",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/025_megan.mp3"
+      },
+      {
+        "text": "My battery died",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/026_my_battery_died.mp3"
+      },
+      {
+        "text": "Nervous twitch",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/027_nervous_twitch.mp3"
+      },
+      {
+        "text": "That is not my job",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/028_that_is_not_my_job.mp3"
+      },
+      {
+        "text": "The cooliest?",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/029_the_cooliest.mp3"
+      },
+      {
+        "text": "Try and hurt me now!",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/030_try_and_hurt_me_now.mp3"
+      },
+      {
+        "text": "Turn it off!",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/031_turn_it_off.mp3"
+      },
+      {
+        "text": "Whoa, just take it easy man",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/032_whoa_just_take_it_easy_man.mp3"
+      },
+      {
+        "text": "You calling me a liar",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/033_you_calling_me_a_liar.mp3"
+      },
+      {
+        "text": "You Mucker Drake And Josh Sound Effect",
+        "character": "",
+        "audioUrl": "audio/drake-and-josh/034_you_mucker_drake_and_josh_sound_effect.mp3"
+      }
+    ]
+  },
+  {
+    "id": "beavis-and-butthead",
+    "name": "Beavis and Butt-Head",
+    "type": "show",
+    "theme": {
+      "primary": "#c0392b",
+      "accent": "#e8b84a",
+      "bg": "#0a0706"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Are we gonna do it",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/003_are_we_gonna_do_it.mp3"
+      },
+      {
+        "text": "Can you take us to Washington",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/014_can_you_take_us_to_washington.mp3"
+      },
+      {
+        "text": "Coperate with my bumhole pt1",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/019_coperate_with_my_bumhole_pt1.mp3"
+      },
+      {
+        "text": "Coperate with my bumhole pt2",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/020_coperate_with_my_bumhole_pt2.mp3"
+      },
+      {
+        "text": "Could you like see her boobs",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/021_could_you_like_see_her_boobs.mp3"
+      },
+      {
+        "text": "Could you make an announcment",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/022_could_you_make_an_announcment.mp3"
+      },
+      {
+        "text": "Could you not stand there",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/023_could_you_not_stand_there.mp3"
+      },
+      {
+        "text": "Dammit we were supposed to get some",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/025_dammit_we_were_supposed_to_get_some.mp3"
+      },
+      {
+        "text": "Do these 2 sluts live in highland",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/028_do_these_2_sluts_live_in_highland.mp3"
+      },
+      {
+        "text": "Do they have a lot of sluts in",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/029_do_they_have_a_lot_of_sluts_in.mp3"
+      },
+      {
+        "text": "Do you know where Washington is?",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/030_do_you_know_where_washington_is.mp3"
+      },
+      {
+        "text": "Does she have big hooters",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/031_does_she_have_big_hooters.mp3"
+      },
+      {
+        "text": "Does that mean we're gonna get money",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/032_does_that_mean_we_re_gonna_get_money.mp3"
+      },
+      {
+        "text": "Err can we watch some tv first",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/035_err_can_we_watch_some_tv_first.mp3"
+      },
+      {
+        "text": "Greatest day of our lives",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/039_greatest_day_of_our_lives.mp3"
+      },
+      {
+        "text": "I can't sleep without a tv",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/046_i_can_t_sleep_without_a_tv.mp3"
+      },
+      {
+        "text": "I don't know - butthead",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/048_i_don_t_know_butthead.mp3"
+      },
+      {
+        "text": "I don't wanna go to school",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/049_i_don_t_wanna_go_to_school.mp3"
+      },
+      {
+        "text": "I just figured something out",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/052_i_just_figured_something_out.mp3"
+      },
+      {
+        "text": "I want you to hit yourself",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/055_i_want_you_to_hit_yourself.mp3"
+      },
+      {
+        "text": "I was about to score",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/056_i_was_about_to_score.mp3"
+      },
+      {
+        "text": "Is that gonna be enough time",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/058_is_that_gonna_be_enough_time.mp3"
+      },
+      {
+        "text": "It's that slut from the plane",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/059_it_s_that_slut_from_the_plane.mp3"
+      },
+      {
+        "text": "Looking for the chick with big boobs",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/062_looking_for_the_chick_with_big_boobs.mp3"
+      },
+      {
+        "text": "My bumhole will not wait",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/063_my_bumhole_will_not_wait.mp3"
+      },
+      {
+        "text": "My bunghole will not wait!",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/064_my_bunghole_will_not_wait.mp3"
+      },
+      {
+        "text": "My life is flashing infront of my eyes",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/066_my_life_is_flashing_infront_of_my_eyes.mp3"
+      },
+      {
+        "text": "No I wanna watch tv",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/070_no_i_wanna_watch_tv.mp3"
+      },
+      {
+        "text": "There's gonna be sluts everywhere, it's gonna rule",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/087_there_s_gonna_be_sluts_everywhere_it_s_gonna_rule.mp3"
+      },
+      {
+        "text": "This sucks more than anything",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/091_this_sucks_more_than_anything.mp3"
+      },
+      {
+        "text": "We just wanna watch tv",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/103_we_just_wanna_watch_tv.mp3"
+      },
+      {
+        "text": "We must find this butthole",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/104_we_must_find_this_butthole.mp3"
+      },
+      {
+        "text": "We're gonna get paid to score",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/108_we_re_gonna_get_paid_to_score.mp3"
+      },
+      {
+        "text": "We're gonna meet this chick with big hooters",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/109_we_re_gonna_meet_this_chick_with_big_hooters.mp3"
+      },
+      {
+        "text": "We're here to look at the tv",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/110_we_re_here_to_look_at_the_tv.mp3"
+      },
+      {
+        "text": "What are we doing here",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/115_what_are_we_doing_here.mp3"
+      },
+      {
+        "text": "Where did those chicks go",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/117_where_did_those_chicks_go.mp3"
+      },
+      {
+        "text": "Will there be teepee for my bunghole",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/121_will_there_be_teepee_for_my_bunghole.mp3"
+      },
+      {
+        "text": "You want us to do a guy",
+        "character": "",
+        "audioUrl": "audio/beavis-and-butthead/126_you_want_us_to_do_a_guy.mp3"
+      }
+    ]
+  },
+  {
+    "id": "king-of-the-hill",
+    "name": "King of the Hill",
+    "type": "show",
+    "theme": {
+      "primary": "#4a7ab0",
+      "accent": "#e0a838",
+      "bg": "#080a0e"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "All you have to do is cosign as you are the one with the income and the house is in your name",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/001_all_you_have_to_do_is_cosign_as_you_are_the_one_with_the_inc.mp3"
+      },
+      {
+        "text": "Any responses?",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/002_any_responses.mp3"
+      },
+      {
+        "text": "Anyone?",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/003_anyone.mp3"
+      },
+      {
+        "text": "Anything?",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/004_anything.mp3"
+      },
+      {
+        "text": "Bobby Surprised Sound",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/005_bobby_surprised_sound.mp3"
+      },
+      {
+        "text": "Bobby, television.",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/006_bobby_television.mp3"
+      },
+      {
+        "text": "Bobby, why don't you go look in the adventure section. Anything about a boy with gumption should be fine",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/007_bobby_why_don_t_you_go_look_in_the_adventure_section_anythin.mp3"
+      },
+      {
+        "text": "Can I sell guns in this location?",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/008_can_i_sell_guns_in_this_location.mp3"
+      },
+      {
+        "text": "Come on, let's get a dialog going",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/009_come_on_let_s_get_a_dialog_going.mp3"
+      },
+      {
+        "text": "Cream cheese is cheese Bill",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/010_cream_cheese_is_cheese_bill.mp3"
+      },
+      {
+        "text": "Get me something that shoots like this. Bang bang bang.",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/011_get_me_something_that_shoots_like_this_bang_bang_bang.mp3"
+      },
+      {
+        "text": "Gun cocks",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/012_gun_cocks.mp3"
+      },
+      {
+        "text": "I don't know",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/013_i_don_t_know.mp3"
+      },
+      {
+        "text": "I will be raking in money with one hand, and reading my book with the other",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/014_i_will_be_raking_in_money_with_one_hand_and_reading_my_book.mp3"
+      },
+      {
+        "text": "I'd like your thickest book please",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/015_i_d_like_your_thickest_book_please.mp3"
+      },
+      {
+        "text": "I'm kind of in the mood for some stimulating conversation",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/016_i_m_kind_of_in_the_mood_for_some_stimulating_conversation.mp3"
+      },
+      {
+        "text": "In theory, I reject this money. It is only in practice that I accept it",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/017_in_theory_i_reject_this_money_it_is_only_in_practice_that_i.mp3"
+      },
+      {
+        "text": "Morning officer",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/018_morning_officer.mp3"
+      },
+      {
+        "text": "No it's not, it's butter",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/019_no_it_s_not_it_s_butter.mp3"
+      },
+      {
+        "text": "Oh",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/020_oh.mp3"
+      },
+      {
+        "text": "Oh I can, and I will",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/021_oh_i_can_and_i_will.mp3"
+      },
+      {
+        "text": "Oh my God it's so juicy!",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/022_oh_my_god_it_s_so_juicy.mp3"
+      },
+      {
+        "text": "Oh, I can't believe it. What am I going to do with my weekends now, except, watch sports.",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/023_oh_i_can_t_believe_it_what_am_i_going_to_do_with_my_weekends.mp3"
+      },
+      {
+        "text": "Oh, mind if I join you?",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/024_oh_mind_if_i_join_you.mp3"
+      },
+      {
+        "text": "OK",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/025_ok.mp3"
+      },
+      {
+        "text": "So that's it?",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/026_so_that_s_it.mp3"
+      },
+      {
+        "text": "Sometimes the boys like to go down in the basement and test their piece. Don't worry, I shut off the gas valve. Well, shot off the gas valve",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/027_sometimes_the_boys_like_to_go_down_in_the_basement_and_test.mp3"
+      },
+      {
+        "text": "Straight in back",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/028_straight_in_back.mp3"
+      },
+      {
+        "text": "That's a hell of a weird sound, I never made that before",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/029_that_s_a_hell_of_a_weird_sound_i_never_made_that_before.mp3"
+      },
+      {
+        "text": "That's what the elves call Justice of the Unicorn",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/030_that_s_what_the_elves_call_justice_of_the_unicorn.mp3"
+      },
+      {
+        "text": "Thatherton",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/031_thatherton.mp3"
+      },
+      {
+        "text": "Well I, -weird sound",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/032_well_i_weird_sound.mp3"
+      },
+      {
+        "text": "Well I, -weird sound-, That's a hell of a weird sound, I never made that before",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/033_well_i_weird_sound_that_s_a_hell_of_a_weird_sound_i_never_ma.mp3"
+      },
+      {
+        "text": "What do you call it Peggy? Ambience. Right, ambience.",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/034_what_do_you_call_it_peggy_ambience_right_ambience.mp3"
+      },
+      {
+        "text": "What I sell is a lifestyle",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/035_what_i_sell_is_a_lifestyle.mp3"
+      },
+      {
+        "text": "Why won't you take my word for this?",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/036_why_won_t_you_take_my_word_for_this.mp3"
+      },
+      {
+        "text": "Yep",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/037_yep.mp3"
+      },
+      {
+        "text": "Yep",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/038_yep.mp3"
+      },
+      {
+        "text": "Yes, yes",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/039_yes_yes.mp3"
+      },
+      {
+        "text": "You can't do that",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/040_you_can_t_do_that.mp3"
+      },
+      {
+        "text": "You know this is a perfect gun selling location",
+        "character": "",
+        "audioUrl": "audio/king-of-the-hill/041_you_know_this_is_a_perfect_gun_selling_location.mp3"
+      }
+    ]
+  },
+  {
     "id": "tropic-thunder",
     "name": "Tropic Thunder",
     "type": "movie",
@@ -24746,6 +27651,2877 @@ const shows = [
         "text": "50 Thousand Dollar Cash",
         "character": "",
         "audioUrl": "audio/white-chicks/043_50_thousand_dollar_cash.mp3"
+      }
+    ]
+  },
+  {
+    "id": "dazed-and-confused",
+    "name": "Dazed and Confused",
+    "type": "movie",
+    "theme": {
+      "primary": "#e0742a",
+      "accent": "#3a9ca0",
+      "bg": "#0e0805"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Alright alright alright",
+        "character": "",
+        "audioUrl": "audio/dazed-and-confused/001_alright_alright_alright.mp3"
+      },
+      {
+        "text": "Check Ya Later",
+        "character": "",
+        "audioUrl": "audio/dazed-and-confused/002_check_ya_later.mp3"
+      },
+      {
+        "text": "I get older, they stay the same age",
+        "character": "",
+        "audioUrl": "audio/dazed-and-confused/003_i_get_older_they_stay_the_same_age.mp3"
+      },
+      {
+        "text": "I love those redheads",
+        "character": "",
+        "audioUrl": "audio/dazed-and-confused/004_i_love_those_redheads.mp3"
+      },
+      {
+        "text": "I wanna dance",
+        "character": "",
+        "audioUrl": "audio/dazed-and-confused/005_i_wanna_dance.mp3"
+      },
+      {
+        "text": "It'd Be A Lot Cooler If You Did",
+        "character": "",
+        "audioUrl": "audio/dazed-and-confused/006_it_d_be_a_lot_cooler_if_you_did.mp3"
+      },
+      {
+        "text": "School's out for summer",
+        "character": "",
+        "audioUrl": "audio/dazed-and-confused/007_school_s_out_for_summer.mp3"
+      },
+      {
+        "text": "That was so creepy",
+        "character": "",
+        "audioUrl": "audio/dazed-and-confused/008_that_was_so_creepy.mp3"
+      },
+      {
+        "text": "Win some, you lose some",
+        "character": "",
+        "audioUrl": "audio/dazed-and-confused/009_win_some_you_lose_some.mp3"
+      },
+      {
+        "text": "You got a joint?",
+        "character": "",
+        "audioUrl": "audio/dazed-and-confused/010_you_got_a_joint.mp3"
+      }
+    ]
+  },
+  {
+    "id": "idiocracy",
+    "name": "Idiocracy",
+    "type": "movie",
+    "theme": {
+      "primary": "#6db33f",
+      "accent": "#e6d12a",
+      "bg": "#080a05"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "After several hours Joe finally gave up on logic and reason and simply told the cabinet that he could talk to plants and that they wanted water. He made believers out of everyone.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/001_after_several_hours_joe_finally_gave_up_on_logic_and_reason.mp3"
+      },
+      {
+        "text": "And if you could just go ahead and like put your tattoo that shit this thing has the same Miss printers at magazine. What are the odds? Where is your tattoo tattoo? Why don't you have this?",
+        "character": "",
+        "audioUrl": "audio/idiocracy/002_and_if_you_could_just_go_ahead_and_like_put_your_tattoo_that.mp3"
+      },
+      {
+        "text": "And there was a time in this country long time ago when reading wasn't just for fags and neither was writing. People wrote books and movies, movies that had stories. So you care who's asked it was ...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/003_and_there_was_a_time_in_this_country_long_time_ago_when_read.mp3"
+      },
+      {
+        "text": "Aptitude test",
+        "character": "",
+        "audioUrl": "audio/idiocracy/004_aptitude_test.mp3"
+      },
+      {
+        "text": "Are we on base base there? I'll base your ass on my first, face, ass, shut up.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/005_are_we_on_base_base_there_i_ll_base_your_ass_on_my_first_fac.mp3"
+      },
+      {
+        "text": "Are we on base or base or ask? How much first face ass got up?",
+        "character": "",
+        "audioUrl": "audio/idiocracy/006_are_we_on_base_or_base_or_ask_how_much_first_face_ass_got_up.mp3"
+      },
+      {
+        "text": "Are you ready for some car on car action? Yes.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/007_are_you_ready_for_some_car_on_car_action_yes.mp3"
+      },
+      {
+        "text": "As the 21st century began, human evolution was at a turning point natural selection. The process by which the strongest, the smartest, the fastest reproduced in greater numbers than the rest, a pro...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/008_as_the_21st_century_began_human_evolution_was_at_a_turning_p.mp3"
+      },
+      {
+        "text": "Bria built very haveli rehab elation. Well you keep trying to read that word. You a fag fag your face.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/009_bria_built_very_haveli_rehab_elation_well_you_keep_trying_to.mp3"
+      },
+      {
+        "text": "But then in even greater force emerged the UN at the en UN not see the world forever.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/010_but_then_in_even_greater_force_emerged_the_un_at_the_en_un_n.mp3"
+      },
+      {
+        "text": "Can go find his home.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/011_can_go_find_his_home.mp3"
+      },
+      {
+        "text": "Can't believe you like money too. We should hang out.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/012_can_t_believe_you_like_money_too_we_should_hang_out.mp3"
+      },
+      {
+        "text": "Carl's Junior. Fuck you I'm eating.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/013_carl_s_junior_fuck_you_i_m_eating.mp3"
+      },
+      {
+        "text": "Clevon is lucky to be alive. He attempted to jump a jet ski from a Lake into a swimming pool and impaled his crotch on Irongate, but thanks to recent advances in stem cell research and the fine wor...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/014_clevon_is_lucky_to_be_alive_he_attempted_to_jump_a_jet_ski_f.mp3"
+      },
+      {
+        "text": "Do I got time to use the bathroom? Haha.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/015_do_i_got_time_to_use_the_bathroom_haha.mp3"
+      },
+      {
+        "text": "Do you think Einstein walked around thinking everyone was a bunch of dumb shits? Hadn't thought of that. Now you know why you built that bomb.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/016_do_you_think_einstein_walked_around_thinking_everyone_was_a.mp3"
+      },
+      {
+        "text": "Enjoy your Extra Big Ass Fries.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/017_enjoy_your_extra_big_ass_fries.mp3"
+      },
+      {
+        "text": "Enjoy your extra burger frauds. Give me no fries. I got an empty box. Would you like another extra burger fraud? I said I didn't get any thank you. Your account has been charged. Your balance is 0....",
+        "character": "",
+        "audioUrl": "audio/idiocracy/018_enjoy_your_extra_burger_frauds_give_me_no_fries_i_got_an_emp.mp3"
+      },
+      {
+        "text": "Everybody gets. This is how I was going to die.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/019_everybody_gets_this_is_how_i_was_going_to_die.mp3"
+      },
+      {
+        "text": "Excuse me, I think this might be Gatorade or something I was just looking for some regular water water. Yeah, you mean like in the toilet or 4th just drink.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/020_excuse_me_i_think_this_might_be_gatorade_or_something_i_was.mp3"
+      },
+      {
+        "text": "Follow me upstairs like now right now, but should I train. This guy I think he can figure out how to sit on his ass and watch TV all day.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/021_follow_me_upstairs_like_now_right_now_but_should_i_train_thi.mp3"
+      },
+      {
+        "text": "For the last time, I'm pretty sure what's killing the crops. Is this brondo stuff the Broncos go with plants crave. It's got electrolytes. So wait a minute, what you're saying is that you want us t...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/022_for_the_last_time_i_m_pretty_sure_what_s_killing_the_crops_i.mp3"
+      },
+      {
+        "text": "For the last time, I'm pretty sure what's killing the crops. Is this brondo stuff the Broncos got? What plants crave. It's got electrolytes. So wait a minute, what you're saying is that you want us...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/023_for_the_last_time_i_m_pretty_sure_what_s_killing_the_crops_i.mp3"
+      },
+      {
+        "text": "Frito can you get me over there? No, you fucking moron to the rehabilitation place.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/024_frito_can_you_get_me_over_there_no_you_fucking_moron_to_the.mp3"
+      },
+      {
+        "text": "Girl yeah, so when we gonna do it 'cause you've been charging me by the hour and it's been like 3 days. Oh yes, so maybe soon have you know what? Why don't you come back tomorrow. You you baby you ...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/025_girl_yeah_so_when_we_gonna_do_it_cause_you_ve_been_charging.mp3"
+      },
+      {
+        "text": "Gotta understand that upgrades been dead for a long time now. Yeah man, but you said there was a time machine, right? Yeah, yeah, there's a time machine now that can take us back to the past, but t...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/026_gotta_understand_that_upgrades_been_dead_for_a_long_time_now.mp3"
+      },
+      {
+        "text": "He tried taking water from toilets, but it's secretary. Not sure who finds himself in the toilet. Male and his history pulls down his pants and prepares to lower its ass on not sure's head. It will...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/027_he_tried_taking_water_from_toilets_but_it_s_secretary_not_su.mp3"
+      },
+      {
+        "text": "He's gonna fix the economy!",
+        "character": "",
+        "audioUrl": "audio/idiocracy/028_he_s_gonna_fix_the_economy.mp3"
+      },
+      {
+        "text": "Hey as ang SA.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/029_hey_as_ang_sa.mp3"
+      },
+      {
+        "text": "Hey she not putting out uh no she is. We are. We already did it. Yeah he was great. OK hey couple us guys were wondering we go family style honor I yeah probably not right now. We should focus on t...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/030_hey_she_not_putting_out_uh_no_she_is_we_are_we_already_did_i.mp3"
+      },
+      {
+        "text": "Hey, come on, Joe already told you we'd all like a hand job, but we don't have time for it.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/031_hey_come_on_joe_already_told_you_we_d_all_like_a_hand_job_bu.mp3"
+      },
+      {
+        "text": "Hey, how much farther is it? I like far.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/032_hey_how_much_farther_is_it_i_like_far.mp3"
+      },
+      {
+        "text": "Hey, how much farther is it? Light bar?",
+        "character": "",
+        "audioUrl": "audio/idiocracy/033_hey_how_much_farther_is_it_light_bar.mp3"
+      },
+      {
+        "text": "Hey, you want us to come along and make sure she puts out no thanks I can handle it.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/034_hey_you_want_us_to_come_along_and_make_sure_she_puts_out_no.mp3"
+      },
+      {
+        "text": "Hey. How's it hanging SA?",
+        "character": "",
+        "audioUrl": "audio/idiocracy/035_hey_how_s_it_hanging_sa.mp3"
+      },
+      {
+        "text": "Hi excuse me, I'm I'm actually supposed to be getting out of prison today. Sir you're in the wrong line. Dumb ass over there. I'm sorry. I am in a big dumb asses sorry. Hey let this dumb ass through.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/036_hi_excuse_me_i_m_i_m_actually_supposed_to_be_getting_out_of.mp3"
+      },
+      {
+        "text": "I came here net prosecutor why you think you've done it? OK, number one your honor. Just look at him. Do dogs like abide to be? We've got all this like evidence of how like this guy didn't even pay...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/037_i_came_here_net_prosecutor_why_you_think_you_ve_done_it_ok_n.mp3"
+      },
+      {
+        "text": "I give ya my word, he's gonna fix the dust storms too, and I give ya my word, he's gonna fiiiiiix the ecomony too, and he's sooo smart, he's gonna do it all in one week.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/038_i_give_ya_my_word_he_s_gonna_fix_the_dust_storms_too_and_i_g.mp3"
+      },
+      {
+        "text": "I like money, though I like money.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/039_i_like_money_though_i_like_money.mp3"
+      },
+      {
+        "text": "I Like Money2",
+        "character": "",
+        "audioUrl": "audio/idiocracy/040_i_like_money2.mp3"
+      },
+      {
+        "text": "I'm a Secretary of State or 2 by Carl 's junior why do you keep saying that 'cause they pay me every time I do it's a really good way to make money so smart once you know that.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/041_i_m_a_secretary_of_state_or_2_by_carl_s_junior_why_do_you_ke.mp3"
+      },
+      {
+        "text": "I'm a Secretary of State, brought to you by Carl's Junior. Why do you keep saying that 'cause they pay me every time I do, it's a really good way to make money so smart once you know that.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/042_i_m_a_secretary_of_state_brought_to_you_by_carl_s_junior_why.mp3"
+      },
+      {
+        "text": "Idiocracy Batin",
+        "character": "",
+        "audioUrl": "audio/idiocracy/043_idiocracy_batin.mp3"
+      },
+      {
+        "text": "Idiocracy Evadage",
+        "character": "",
+        "audioUrl": "audio/idiocracy/044_idiocracy_evadage.mp3"
+      },
+      {
+        "text": "Idiocracy Pognon",
+        "character": "",
+        "audioUrl": "audio/idiocracy/045_idiocracy_pognon.mp3"
+      },
+      {
+        "text": "Joe had awakened to a world in crisis, the economy was in a state of deep neglect. A great Dust Bowl had ravaged food supplies and the number one movie in the country was called ass and that's all ...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/046_joe_had_awakened_to_a_world_in_crisis_the_economy_was_in_a_s.mp3"
+      },
+      {
+        "text": "Joe stated his case logically and passionately",
+        "character": "",
+        "audioUrl": "audio/idiocracy/047_joe_stated_his_case_logically_and_passionately.mp3"
+      },
+      {
+        "text": "Just done what are you objectifying on? Come on just give me understanding. OK um your honor I object that this guy also broke my apartment it's yeah yeah and you know now I object that he's not go...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/048_just_done_what_are_you_objectifying_on_come_on_just_give_me.mp3"
+      },
+      {
+        "text": "Ladies and gentlemen.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/049_ladies_and_gentlemen.mp3"
+      },
+      {
+        "text": "Let the rehabilition begin.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/050_let_the_rehabilition_begin.mp3"
+      },
+      {
+        "text": "Listen, I told these people that you were smart, OK, so Wack Smart Smart like you owe all The Time Machine. I wanna go home. I don't talk like that. I don't talk like that shit. I thought there was...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/051_listen_i_told_these_people_that_you_were_smart_ok_so_wack_sm.mp3"
+      },
+      {
+        "text": "Listen, I told these people that you were smart. OK, so wack smart, smart, like you owe all The Time Machine I wanna go home. I don't talk like that I don't talk like that shit I thought there was ...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/052_listen_i_told_these_people_that_you_were_smart_ok_so_wack_sm.mp3"
+      },
+      {
+        "text": "Look if you guys are taking me back to that jail. Just go ahead and shoot me 'cause there's no way the fuck, Oh well, what fat.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/053_look_if_you_guys_are_taking_me_back_to_that_jail_just_go_ahe.mp3"
+      },
+      {
+        "text": "Lyrics to the violence channel it all new album.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/054_lyrics_to_the_violence_channel_it_all_new_album.mp3"
+      },
+      {
+        "text": "Man, I could really go for a Starbucks, you know, yeah, well, I really don't think we have time for a handjob Joe.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/055_man_i_could_really_go_for_a_starbucks_you_know_yeah_well_i_r.mp3"
+      },
+      {
+        "text": "Meanwhile, the population exploded and intelligence continued to decline until humanity was incapable of solving even its most basic problems like garbage, which had been stacked for centuries with...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/056_meanwhile_the_population_exploded_and_intelligence_continued.mp3"
+      },
+      {
+        "text": "Mistrial",
+        "character": "",
+        "audioUrl": "audio/idiocracy/057_mistrial.mp3"
+      },
+      {
+        "text": "Next on the violence channel.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/058_next_on_the_violence_channel.mp3"
+      },
+      {
+        "text": "No, I'm serious here. Don't worry Scro now there's plenty of tards out there living really kick ass lives. My first wife was targeted. She's a pilot now I need for you to be serious for a second he...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/059_no_i_m_serious_here_don_t_worry_scro_now_there_s_plenty_of_t.mp3"
+      },
+      {
+        "text": "Now either lead follow, get out of the way alright? Oh, did you just make that up? Yes I did.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/060_now_either_lead_follow_get_out_of_the_way_alright_oh_did_you.mp3"
+      },
+      {
+        "text": "Now that y'all say you ain't got no money, we have proprietarily obtained for you on him. Court appointed lawyer. So put your hands together and give it up for free code.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/061_now_that_y_all_say_you_ain_t_got_no_money_we_have_proprietar.mp3"
+      },
+      {
+        "text": "Nuevos Tiempos",
+        "character": "",
+        "audioUrl": "audio/idiocracy/062_nuevos_tiempos.mp3"
+      },
+      {
+        "text": "Number one, your honor, just look at him",
+        "character": "",
+        "audioUrl": "audio/idiocracy/063_number_one_your_honor_just_look_at_him.mp3"
+      },
+      {
+        "text": "Objection! What are you objectifying home? Come on just give me understanding OK um your Honor I object that this guy also broke my apartment that's yeah yeah and you know what else I object that he..",
+        "character": "",
+        "audioUrl": "audio/idiocracy/064_objection_what_are_you_objectifying_home_come_on_just_give_m.mp3"
+      },
+      {
+        "text": "Oh God damn it. Way to go Fredo.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/065_oh_god_damn_it_way_to_go_fredo.mp3"
+      },
+      {
+        "text": "Oh shit, it's Upgrayedd.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/066_oh_shit_it_s_upgrayedd.mp3"
+      },
+      {
+        "text": "Oh, you just... go away, baitin'!",
+        "character": "",
+        "audioUrl": "audio/idiocracy/067_oh_you_just_go_away_baitin.mp3"
+      },
+      {
+        "text": "OK Sir, now we will begin to proceed to obtain your IQ and aptitude tests. What 4K Sir, this is to figure out what your aptitudes good at and get you jail job while you're being a particular indivi...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/068_ok_sir_now_we_will_begin_to_proceed_to_obtain_your_iq_and_ap.mp3"
+      },
+      {
+        "text": "Or.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/069_or.mp3"
+      },
+      {
+        "text": "Please come back when you can afford to make a purchase.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/070_please_come_back_when_you_can_afford_to_make_a_purchase.mp3"
+      },
+      {
+        "text": "Please speak your name as it appears on your current federal identity card document number G 24. LA not sure if you have entered the name not sure is this correct not sure no that's not correct. Th...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/071_please_speak_your_name_as_it_appears_on_your_current_federal.mp3"
+      },
+      {
+        "text": "Plenty of tards out there",
+        "character": "",
+        "audioUrl": "audio/idiocracy/072_plenty_of_tards_out_there.mp3"
+      },
+      {
+        "text": "Police, open the door.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/073_police_open_the_door.mp3"
+      },
+      {
+        "text": "Rachel, it'll be this many dollars an if you could just go ahead and like put your tattoo that shit.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/074_rachel_it_ll_be_this_many_dollars_an_if_you_could_just_go_ah.mp3"
+      },
+      {
+        "text": "Reaville 3 have a light rehab elation. Why you keep trying to read that word? You a fag fag your face.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/075_reaville_3_have_a_light_rehab_elation_why_you_keep_trying_to.mp3"
+      },
+      {
+        "text": "Runner, pretty sure we have a mistrial here. Sir, I'm going to Mistral my foot up your ass you don't shut up. Please listen please listen.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/076_runner_pretty_sure_we_have_a_mistrial_here_sir_i_m_going_to.mp3"
+      },
+      {
+        "text": "Says here on your chart that you're fucked up",
+        "character": "",
+        "audioUrl": "audio/idiocracy/077_says_here_on_your_chart_that_you_re_fucked_up.mp3"
+      },
+      {
+        "text": "Says here you robbed a hospital. Why'd you do that? Yeah, I'm not guilty that's not what the other lawyer said.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/078_says_here_you_robbed_a_hospital_why_d_you_do_that_yeah_i_m_n.mp3"
+      },
+      {
+        "text": "Shit, that's a good deal.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/079_shit_that_s_a_good_deal.mp3"
+      },
+      {
+        "text": "So just goes in your mouth. This one goes in your ear and this one goes in your butt home free up asshole my shit hey honestly this one, this one. This one goes in your mouth.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/080_so_just_goes_in_your_mouth_this_one_goes_in_your_ear_and_thi.mp3"
+      },
+      {
+        "text": "So you an artist or something, yeah, yeah, you do paintings or yeah, paints OK great Boo. What do you paint mostly I don't know just people and fruit and shit?",
+        "character": "",
+        "audioUrl": "audio/idiocracy/081_so_you_an_artist_or_something_yeah_yeah_you_do_paintings_or.mp3"
+      },
+      {
+        "text": "So you smarh, huh? Thought your head would be bigger.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/082_so_you_smarh_huh_thought_your_head_would_be_bigger.mp3"
+      },
+      {
+        "text": "So you smart, huh? You know to hear would be bigger.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/083_so_you_smart_huh_you_know_to_hear_would_be_bigger.mp3"
+      },
+      {
+        "text": "Some had high hopes that genetic engineering would correct this trend in evolution, but sadly the greatest minds and resources were focused on conquering hair loss and prolonging erections.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/084_some_had_high_hopes_that_genetic_engineering_would_correct_t.mp3"
+      },
+      {
+        "text": "Stop no, I'm fixing the commensurate this trial here. We don't see if we can come up with a verdict up in here.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/085_stop_no_i_m_fixing_the_commensurate_this_trial_here_we_don_t.mp3"
+      },
+      {
+        "text": "Stop. No. I'm fixing the commensurate this trial here, we go and see if we can come up with a verdict up in here.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/086_stop_no_i_m_fixing_the_commensurate_this_trial_here_we_go_an.mp3"
+      },
+      {
+        "text": "Sure, that's a big pile of rocks.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/087_sure_that_s_a_big_pile_of_rocks.mp3"
+      },
+      {
+        "text": "Thank you Velveeta. Well it started off boring and slow with not. You're trying to bullshit everyone with a bunch of smart talk bla bla bla. You gotta believe me that part of the trial sucked. But ...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/088_thank_you_velveeta_well_it_started_off_boring_and_slow_with.mp3"
+      },
+      {
+        "text": "That wasn't really part of the deal. OK, I'll throw in another couple billion. Alright, I like money.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/089_that_wasn_t_really_part_of_the_deal_ok_i_ll_throw_in_another.mp3"
+      },
+      {
+        "text": "The Masturbation Network",
+        "character": "",
+        "audioUrl": "audio/idiocracy/090_the_masturbation_network.mp3"
+      },
+      {
+        "text": "The masturbation network keeping America Bayton for 300 years and now sweet bang tube.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/091_the_masturbation_network_keeping_america_bayton_for_300_year.mp3"
+      },
+      {
+        "text": "There are 9,726 listings for Upgrayedd",
+        "character": "",
+        "audioUrl": "audio/idiocracy/092_there_are_9_726_listings_for_upgrayedd.mp3"
+      },
+      {
+        "text": "Things look bleak for Joe that they were even worse for mankind as Joe and Rita lay dormant the years passed mankind became stupider at a frightening rate.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/093_things_look_bleak_for_joe_that_they_were_even_worse_for_mank.mp3"
+      },
+      {
+        "text": "Think about it, you know, we just gonna have to figure it out. You know like we did with the crops. But how are we going to figure out about the garbage ambulances and so company or what about the ...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/094_think_about_it_you_know_we_just_gonna_have_to_figure_it_out.mp3"
+      },
+      {
+        "text": "This bear 500 years, Oh Hell, no upgrades on kill me. He gets mad when I'm a day late with his money.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/095_this_bear_500_years_oh_hell_no_upgrades_on_kill_me_he_gets_m.mp3"
+      },
+      {
+        "text": "This is gonna be so sad, I hope I don't Cry.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/096_this_is_gonna_be_so_sad_i_hope_i_don_t_cry.mp3"
+      },
+      {
+        "text": "Turns out she charged some guy a lot of money and didn't put out. Don't worry though, we get her out on a work release Horn last as long as you're doing her.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/097_turns_out_she_charged_some_guy_a_lot_of_money_and_didn_t_put.mp3"
+      },
+      {
+        "text": "Unaware of what year it was, Joe wandered the streets desperate for help, but the English language had deteriorated into a hybrid of Hillbilly Valley girl inner city slang and various crumbs. Joe w...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/098_unaware_of_what_year_it_was_joe_wandered_the_streets_despera.mp3"
+      },
+      {
+        "text": "Wait a second, we're going to do OK, I know. Here's what we do. We just go to The Time Machine, then when I get back to the past I tell her not to do the experiment. Then she won't even be here. Th...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/099_wait_a_second_we_re_going_to_do_ok_i_know_here_s_what_we_do.mp3"
+      },
+      {
+        "text": "We seem to be experimenting some technological differences.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/100_we_seem_to_be_experimenting_some_technological_differences.mp3"
+      },
+      {
+        "text": "We've been walking forever. You sure you know where you going. Yeah, I know this place pretty good. I went to law school here in Costco. Yeah, I couldn't believe it myself, Luckily my dad was an al...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/101_we_ve_been_walking_forever_you_sure_you_know_where_you_going.mp3"
+      },
+      {
+        "text": "Welcome to Carl's Jr. Would you like to try our 'EXTRA BIG ASS TACO'? Now with more 'MOLECULES'.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/102_welcome_to_carl_s_jr_would_you_like_to_try_our_extra_big_ass.mp3"
+      },
+      {
+        "text": "Welcome to Carls Junior. Would you like to try our Extra BigAss Tacos, now with more molecules.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/103_welcome_to_carls_junior_would_you_like_to_try_our_extra_biga.mp3"
+      },
+      {
+        "text": "Welcome to Costco. I love you.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/104_welcome_to_costco_i_love_you.mp3"
+      },
+      {
+        "text": "Welcome to The Time Machine. We are going to take you back first to the year 1939 when Charlie Chaplin and his evil Nazi regime enslaved Europe and trying to take over the world.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/105_welcome_to_the_time_machine_we_are_going_to_take_you_back_fi.mp3"
+      },
+      {
+        "text": "Well, all I know is I better find upgrade before he finds me listen to me upgrade cannot. Find you OK. It's impossible. Oh yeah, yeah, and even if upgrade could somehow magically travel through tim...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/106_well_all_i_know_is_i_better_find_upgrade_before_he_finds_me.mp3"
+      },
+      {
+        "text": "Well, all I'm saying is you don't have to worry about it now what the last time you told me not to worry was 500 God damn years ago when you were trying to tell me to get in some sort of tricked ou...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/107_well_all_i_m_saying_is_you_don_t_have_to_worry_about_it_now.mp3"
+      },
+      {
+        "text": "Well, I don't want to sound like a Dick are nothing but says on your chart that you fucked up. You talk like a fag and your shits all retarded? What I do is just saying thanks, yeah, yeah, I mean l...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/108_well_i_don_t_want_to_sound_like_a_dick_are_nothing_but_says.mp3"
+      },
+      {
+        "text": "Well, I don't want to sound like a dick or nothing but says on your chart that you fucked up. You talk like a fag and your shits all retarded? What I do is just say thank you know you know, I mean...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/109_well_i_don_t_want_to_sound_like_a_dick_or_nothing_but_says_o.mp3"
+      },
+      {
+        "text": "Why come you don't have a tattoo?",
+        "character": "",
+        "audioUrl": "audio/idiocracy/110_why_come_you_don_t_have_a_tattoo.mp3"
+      },
+      {
+        "text": "Why me everytime Metzler says lead follow or get out of the way I get out of the way when he says that you're not supposed to choose get out of the way it's supposed to embarrass you in deleting, o...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/111_why_me_everytime_metzler_says_lead_follow_or_get_out_of_the.mp3"
+      },
+      {
+        "text": "Yeah, back that thing up hey you mind if I pound on that show what I like having sex with chicks. Yeah yeah I think everybody does freedom not like I do.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/112_yeah_back_that_thing_up_hey_you_mind_if_i_pound_on_that_show.mp3"
+      },
+      {
+        "text": "Yeah, back that thing up. Hey, you mind if I pound on that. Joe what I like having sex with chicks, yeah, yeah. I think everybody does freedom not like I do.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/113_yeah_back_that_thing_up_hey_you_mind_if_i_pound_on_that_joe.mp3"
+      },
+      {
+        "text": "Yeah, fuck all y'all.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/114_yeah_fuck_all_y_all.mp3"
+      },
+      {
+        "text": "You got hepatitis. Oh, is someone not feeling well? Your illness is very important to us.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/115_you_got_hepatitis_oh_is_someone_not_feeling_well_your_illnes.mp3"
+      },
+      {
+        "text": "You know there was a time in this country when smart people were considered cool well. Maybe not cool. But Smart people did things like built ships and Pyramids and they even went to the moon.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/116_you_know_there_was_a_time_in_this_country_when_smart_people.mp3"
+      },
+      {
+        "text": "You know you don't have to sleep on the floor if you don't want to. Now I'm I'm all right beside you. I don't think upgraded be too happy about that. You in bed with a stranger.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/117_you_know_you_don_t_have_to_sleep_on_the_floor_if_you_don_t_w.mp3"
+      },
+      {
+        "text": "You thought you could really travel through time, huh? Yeah, I guess I did the smartest guy in the world. You're pretty dumb sometimes.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/118_you_thought_you_could_really_travel_through_time_huh_yeah_i.mp3"
+      },
+      {
+        "text": "You're blowing your floors now, please.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/119_you_re_blowing_your_floors_now_please.mp3"
+      },
+      {
+        "text": "Your kids are starving. Carls Junior believes no child should go hungry. You are an unfit mother. Your children will be placed in the custody of Carl's junior.",
+        "character": "",
+        "audioUrl": "audio/idiocracy/120_your_kids_are_starving_carls_junior_believes_no_child_should.mp3"
+      },
+      {
+        "text": "'cause of the interest it'll be worth billions of dollars. Oh I like money. Yeah, how many billions like 10 serious talk one time machine cost like 20. Yeah OK 30 Friedel $30 billion thirty billion...",
+        "character": "",
+        "audioUrl": "audio/idiocracy/121_cause_of_the_interest_it_ll_be_worth_billions_of_dollars_oh.mp3"
+      }
+    ]
+  },
+  {
+    "id": "pirates-of-the-caribbean",
+    "name": "Pirates of the Caribbean",
+    "type": "movie",
+    "theme": {
+      "primary": "#2a7d8c",
+      "accent": "#d4a843",
+      "bg": "#06090c"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Almost caught",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/001_almostcaught.mp3"
+      },
+      {
+        "text": "Back to work",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/002_backtowork.mp3"
+      },
+      {
+        "text": "Bloody is now",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/003_bloodyisnow.mp3"
+      },
+      {
+        "text": "Bloody pirates",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/004_bloodypirates.mp3"
+      },
+      {
+        "text": "Blowing holes",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/005_blowingholes.mp3"
+      },
+      {
+        "text": "Buy you the hat",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/006_buyyouthehat.mp3"
+      },
+      {
+        "text": "Condemn him",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/007_condemnhim.mp3"
+      },
+      {
+        "text": "Crossing blades",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/008_crossingblades.mp3"
+      },
+      {
+        "text": "Deepest circle",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/009_deepestcircle.mp3"
+      },
+      {
+        "text": "Deserved that",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/010_deservedthat.mp3"
+      },
+      {
+        "text": "Dishonest man",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/011_dishonestman.mp3"
+      },
+      {
+        "text": "Drink up",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/012_drinkup.mp3"
+      },
+      {
+        "text": "Easy on the goods",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/013_easyonthegoods.mp3"
+      },
+      {
+        "text": "For breathing",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/014_forbreathing.mp3"
+      },
+      {
+        "text": "Have no weapon",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/015_havenoweapon.mp3"
+      },
+      {
+        "text": "Hello chum",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/016_hellochum.mp3"
+      },
+      {
+        "text": "Hello poppet",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/017_hellopoppet.mp3"
+      },
+      {
+        "text": "I love this song",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/018_ilovethissong.mp3"
+      },
+      {
+        "text": "I love weddings",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/019_iloveweddings.mp3"
+      },
+      {
+        "text": "I may have",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/020_imayhave.mp3"
+      },
+      {
+        "text": "In a fair fight",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/021_inafairfight.mp3"
+      },
+      {
+        "text": "Interesting",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/022_interesting.mp3"
+      },
+      {
+        "text": "In the market",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/023_inthemarket.mp3"
+      },
+      {
+        "text": "I suppose",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/024_isuppose.mp3"
+      },
+      {
+        "text": "It calls to us",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/025_itcallstous.mp3"
+      },
+      {
+        "text": "Madness",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/026_madness.mp3"
+      },
+      {
+        "text": "Makes all these",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/027_makesallthese.mp3"
+      },
+      {
+        "text": "Means no",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/028_meansno.mp3"
+      },
+      {
+        "text": "No it's not, yes it is",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/029_noitsnotyesitis.mp3"
+      },
+      {
+        "text": "No living with her",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/030_nolivingwithher.mp3"
+      },
+      {
+        "text": "No survivors",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/031_nosurvivors.mp3"
+      },
+      {
+        "text": "Not a eunuch",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/032_notaeunuch.mp3"
+      },
+      {
+        "text": "Not good",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/033_notgood.mp3"
+      },
+      {
+        "text": "Not to breathe",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/034_nottobreathe.mp3"
+      },
+      {
+        "text": "Not very nice",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/035_notverynice.mp3"
+      },
+      {
+        "text": "Opportune",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/036_opportune.mp3"
+      },
+      {
+        "text": "Parley",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/037_parley.mp3"
+      },
+      {
+        "text": "Pretty boat",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/038_prettyboat.mp3"
+      },
+      {
+        "text": "Promised",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/039_promised.mp3"
+      },
+      {
+        "text": "Really bad eggs",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/040_reallybadeggs.mp3"
+      },
+      {
+        "text": "Shoot him",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/041_shoothim.mp3"
+      },
+      {
+        "text": "So I can kill it",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/042_soicankillit.mp3"
+      },
+      {
+        "text": "Supposed to be",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/043_supposedtobe.mp3"
+      },
+      {
+        "text": "Taking over",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/044_takingover.mp3"
+      },
+      {
+        "text": "The rum is gone",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/045_therumisgone.mp3"
+      },
+      {
+        "text": "The worst pirate",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/046_theworstpirate.mp3"
+      },
+      {
+        "text": "They be monsters",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/047_theyrebemonsters.mp3"
+      },
+      {
+        "text": "This shot",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/048_thisshot.mp3"
+      },
+      {
+        "text": "To save her",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/049_tosaveher.mp3"
+      },
+      {
+        "text": "To Singapore",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/050_tosingapore.mp3"
+      },
+      {
+        "text": "Treasure",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/051_treasure.mp3"
+      },
+      {
+        "text": "Very interesting",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/052_veryinteresting.mp3"
+      },
+      {
+        "text": "Welcome to",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/053_welcometo.mp3"
+      },
+      {
+        "text": "Why is the rum gone?",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/054_whyistherumgone.mp3"
+      },
+      {
+        "text": "Wonderful trick",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/055_wonderfultrick.mp3"
+      },
+      {
+        "text": "You cheated",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/056_youcheated.mp3"
+      },
+      {
+        "text": "Your purpose",
+        "character": "",
+        "audioUrl": "audio/pirates-of-the-caribbean/057_yourpurpose.mp3"
+      }
+    ]
+  },
+  {
+    "id": "forrest-gump",
+    "name": "Forrest Gump",
+    "type": "movie",
+    "theme": {
+      "primary": "#6a9bd0",
+      "accent": "#c8a86a",
+      "bg": "#08090c"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "An 'cause I was in Gov Zillionaire and I like doing it so much. I cut that grass for free.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/001_an_cause_i_was_in_gov_zillionaire_and_i_like_doing_it_so_muc.mp3"
+      },
+      {
+        "text": "And scared or what? I don't know, but I think it was her grandma's dog. He was a mean dog.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/002_and_scared_or_what_i_don_t_know_but_i_think_it_was_her_grand.mp3"
+      },
+      {
+        "text": "And so then I got a call from him saying we don't have to worry about money no more and I said that's good, one less than.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/003_and_so_then_i_got_a_call_from_him_saying_we_don_t_have_to_wo.mp3"
+      },
+      {
+        "text": "And that's all I had to say about that.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/004_and_that_s_all_i_had_to_say_about_that.mp3"
+      },
+      {
+        "text": "Arthur, congratulations. How do you feel? I gotta pay I believe he said he had to go pee.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/005_arthur_congratulations_how_do_you_feel_i_gotta_pay_i_believe.mp3"
+      },
+      {
+        "text": "At the moment you chase him off with the group, not raccoons you idiot, and they want to go to school with us with us, I do.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/006_at_the_moment_you_chase_him_off_with_the_group_not_raccoons.mp3"
+      },
+      {
+        "text": "Bit me directly in the buttocks",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/007_bit_me_directly_in_the_buttocks.mp3"
+      },
+      {
+        "text": "Black Panther party",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/008_black_panther_party.mp3"
+      },
+      {
+        "text": "Come on forrest, you can do it",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/009_come_on_forrest_you_can_do_it.mp3"
+      },
+      {
+        "text": "Do you want a chocolate? I could eat about a million and a half of these.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/010_do_you_want_a_chocolate_i_could_eat_about_a_million_and_a_ha.mp3"
+      },
+      {
+        "text": "Doing nothing but I like that guitar, it sounded good. I started moving around the music, swinging my hips.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/011_doing_nothing_but_i_like_that_guitar_it_sounded_good_i_start.mp3"
+      },
+      {
+        "text": "Done drill sergeant",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/012_done_drill_sergeant.mp3"
+      },
+      {
+        "text": "Dr peppers",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/013_dr_peppers.mp3"
+      },
+      {
+        "text": "Every place like that. That's how me and Momma got money. Mama was a real smart lady.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/014_every_place_like_that_that_s_how_me_and_momma_got_money_mama.mp3"
+      },
+      {
+        "text": "Firm offer animals they just couldn't believe that somebody would do all that running for no particular reason. Why are you doing?",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/015_firm_offer_animals_they_just_couldn_t_believe_that_somebody.mp3"
+      },
+      {
+        "text": "For some reason, ping pong, Canberra, natural to me NVIDIA complain. So I started playing it all the time.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/016_for_some_reason_ping_pong_canberra_natural_to_me_nvidia_comp.mp3"
+      },
+      {
+        "text": "Forrest and Bubba talkin shrimp",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/017_forrest_and_bubba_talkin_shrimp.mp3"
+      },
+      {
+        "text": "Forrest Gump graduates",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/018_forrest_gump_graduates.mp3"
+      },
+      {
+        "text": "Forrest Gump Ice Cream",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/019_forrest_gump_ice_cream.mp3"
+      },
+      {
+        "text": "Forrest Gump sneaking in",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/020_forrest_gump_sneaking_in.mp3"
+      },
+      {
+        "text": "Forrest! Run!",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/021_forrest_run.mp3"
+      },
+      {
+        "text": "Got off work. It's nice you got air conditioning.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/022_got_off_work_it_s_nice_you_got_air_conditioning.mp3"
+      },
+      {
+        "text": "Happy New Year, Lieutenant Dan!",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/023_happy_new_year_lieutenant_dan.mp3"
+      },
+      {
+        "text": "Have A Nice Day",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/024_have_a_nice_day.mp3"
+      },
+      {
+        "text": "Have you found Jesus yet, Gump?",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/025_have_you_found_jesus_yet_gump.mp3"
+      },
+      {
+        "text": "Have you found Jesus yet? No, I don't know if suppose be looking for him so.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/026_have_you_found_jesus_yet_no_i_don_t_know_if_suppose_be_looki.mp3"
+      },
+      {
+        "text": "He's stupid but he sure is fast!",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/027_he_s_stupid_but_he_sure_is_fast.mp3"
+      },
+      {
+        "text": "Hello",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/028_hello.mp3"
+      },
+      {
+        "text": "Here, goddamnit, that's an order. Hot guy at 5 Baba.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/029_here_goddamnit_that_s_an_order_hot_guy_at_5_baba.mp3"
+      },
+      {
+        "text": "I got you icecream",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/030_i_got_you_icecream.mp3"
+      },
+      {
+        "text": "I gotta pee",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/031_i_gotta_pee.mp3"
+      },
+      {
+        "text": "I gotta pee",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/032_i_gotta_pee.mp3"
+      },
+      {
+        "text": "I gotta pee",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/033_i_gotta_pee.mp3"
+      },
+      {
+        "text": "I know what love is",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/034_i_know_what_love_is.mp3"
+      },
+      {
+        "text": "I like that guitar, it sounded good",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/035_i_like_that_guitar_it_sounded_good.mp3"
+      },
+      {
+        "text": "I Miss You, Jenny",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/036_i_miss_you_jenny.mp3"
+      },
+      {
+        "text": "I miss you, Jenny",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/037_i_miss_you_jenny.mp3"
+      },
+      {
+        "text": "I played ping Pong so much I even played it in my sleep.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/038_i_played_ping_pong_so_much_i_even_played_it_in_my_sleep.mp3"
+      },
+      {
+        "text": "I played thankful even when I didn't have anyone to play ping pong with.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/039_i_played_thankful_even_when_i_didn_t_have_anyone_to_play_pin.mp3"
+      },
+      {
+        "text": "I think, I think you should go home to Greenbow Alabama!",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/040_i_think_i_think_you_should_go_home_to_greenbow_alabama.mp3"
+      },
+      {
+        "text": "I thought I was going back to Vietnam, but instead they decided the best way for me to fight the Communists was play ping pong, so I was in this.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/041_i_thought_i_was_going_back_to_vietnam_but_instead_they_decid.mp3"
+      },
+      {
+        "text": "I understand you were Woon, did where were you hit in the butt talks is PSA. I'd like to see that.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/042_i_understand_you_were_woon_did_where_were_you_hit_in_the_but.mp3"
+      },
+      {
+        "text": "I wanted to be your boyfriend.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/043_i_wanted_to_be_your_boyfriend.mp3"
+      },
+      {
+        "text": "I'd make a good husband",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/044_i_d_make_a_good_husband.mp3"
+      },
+      {
+        "text": "I'm going to bring up some soldier and he liked to say the F word alot and this and ask that and every time he said the F word people for some reason well they chip.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/045_i_m_going_to_bring_up_some_soldier_and_he_liked_to_say_the_f.mp3"
+      },
+      {
+        "text": "I'm not a smart man",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/046_i_m_not_a_smart_man.mp3"
+      },
+      {
+        "text": "I'm Pretty Tired",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/047_i_m_pretty_tired.mp3"
+      },
+      {
+        "text": "I'm Pretty Tired, I Think I'll Go Home Now",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/048_i_m_pretty_tired_i_think_i_ll_go_home_now.mp3"
+      },
+      {
+        "text": "I'm pretty tired, think I'll go home now.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/049_i_m_pretty_tired_think_i_ll_go_home_now.mp3"
+      },
+      {
+        "text": "I'm sorry I ruined your New Year Eve party Lieutenant Dan",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/050_i_m_sorry_i_ruined_your_new_year_eve_party_lieutenant_dan.mp3"
+      },
+      {
+        "text": "I'm Sorry I Ruined Your New Years Eve Party",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/051_i_m_sorry_i_ruined_your_new_years_eve_party.mp3"
+      },
+      {
+        "text": "I've won a lot too shoes. I bet if I think about it real hard, I could remember my first pair issue.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/052_i_ve_won_a_lot_too_shoes_i_bet_if_i_think_about_it_real_hard.mp3"
+      },
+      {
+        "text": "Ice Cream",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/053_ice_cream.mp3"
+      },
+      {
+        "text": "Ice Cream Forrest Gump",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/054_ice_cream_forrest_gump.mp3"
+      },
+      {
+        "text": "If it's Lieutenant Dan, I don't know if we each have a destiny or if we're all just floating around accidental, like on a brace. But, uh, thank member, it's both.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/055_if_it_s_lieutenant_dan_i_don_t_know_if_we_each_have_a_destin.mp3"
+      },
+      {
+        "text": "In sideways and sometimes rain even seem to come straight up from underneath.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/056_in_sideways_and_sometimes_rain_even_seem_to_come_straight_up.mp3"
+      },
+      {
+        "text": "It was a bullet 1A bullet that jumped up in bitch. Oh yes Sir, let me directly in the butt talks.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/057_it_was_a_bullet_1a_bullet_that_jumped_up_in_bitch_oh_yes_sir.mp3"
+      },
+      {
+        "text": "It was quite bank palm. When I got home I was a national celebrity, famous or even in Captain Kangaroo. Here he is.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/058_it_was_quite_bank_palm_when_i_got_home_i_was_a_national_cele.mp3"
+      },
+      {
+        "text": "It's a household name",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/059_it_s_a_household_name.mp3"
+      },
+      {
+        "text": "It's a household name",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/060_it_s_a_household_name.mp3"
+      },
+      {
+        "text": "Jumped up and bit me",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/061_jumped_up_and_bit_me.mp3"
+      },
+      {
+        "text": "King Kong stuff. One man even left a check for $25,000 if you'd be agreeable to saying you like using their paddle or my mom. I like using my own paddle.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/062_king_kong_stuff_one_man_even_left_a_check_for_25_000_if_you.mp3"
+      },
+      {
+        "text": "Lieutenant dan",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/063_lieutenant_dan.mp3"
+      },
+      {
+        "text": "Lieutenant dan",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/064_lieutenant_dan.mp3"
+      },
+      {
+        "text": "Life is like a box of chocolates",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/065_life_is_like_a_box_of_chocolates.mp3"
+      },
+      {
+        "text": "Life is Like a Box of Chocolates",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/066_life_is_like_a_box_of_chocolates.mp3"
+      },
+      {
+        "text": "Like so like ping pong paddle which everybody knows is true. But Mom said just a little white lie so it wouldn't hurt nobody.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/067_like_so_like_ping_pong_paddle_which_everybody_knows_is_true.mp3"
+      },
+      {
+        "text": "Long run",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/068_long_run.mp3"
+      },
+      {
+        "text": "Love, sometimes it will stop raining long enough for the stars to come out. That was nice.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/069_love_sometimes_it_will_stop_raining_long_enough_for_the_star.mp3"
+      },
+      {
+        "text": "Mama always said Diane was it part of life. I sure wish it was.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/070_mama_always_said_diane_was_it_part_of_life_i_sure_wish_it_wa.mp3"
+      },
+      {
+        "text": "Mom always said there's an awful lot you could tell about a person by their shoes where they going where they've been.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/071_mom_always_said_there_s_an_awful_lot_you_could_tell_about_a.mp3"
+      },
+      {
+        "text": "Must be hard being brothers, I would know.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/072_must_be_hard_being_brothers_i_would_know.mp3"
+      },
+      {
+        "text": "Must be hard being brothers, I wouldnt know",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/073_must_be_hard_being_brothers_i_wouldnt_know.mp3"
+      },
+      {
+        "text": "My mom always said life was like a box of chocolates. You never know what you're gonna get.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/074_my_mom_always_said_life_was_like_a_box_of_chocolates_you_nev.mp3"
+      },
+      {
+        "text": "My mom always said you got to put the past behind you before you can move on, and I think that's what my running was all about.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/075_my_mom_always_said_you_got_to_put_the_past_behind_you_before.mp3"
+      },
+      {
+        "text": "My name's Forrest Gump, People call me Forrest Gump",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/076_my_name_s_forrest_gump_people_call_me_forrest_gump.mp3"
+      },
+      {
+        "text": "New legs",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/077_new_legs.mp3"
+      },
+      {
+        "text": "No, what what I'm glad we were here together in our nation's capital.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/078_no_what_what_i_m_glad_we_were_here_together_in_our_nation_s.mp3"
+      },
+      {
+        "text": "Now Mother told me everything he knew about shrimping, but you know what I found out shrimp and is tough.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/079_now_mother_told_me_everything_he_knew_about_shrimping_but_yo.mp3"
+      },
+      {
+        "text": "Okay",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/080_okay.mp3"
+      },
+      {
+        "text": "One day it started raining and it didn't quit for four months.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/081_one_day_it_started_raining_and_it_didn_t_quit_for_four_month.mp3"
+      },
+      {
+        "text": "Particular reason why are you doing this? Felt like running.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/082_particular_reason_why_are_you_doing_this_felt_like_running.mp3"
+      },
+      {
+        "text": "Peas and Carrots",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/083_peas_and_carrots.mp3"
+      },
+      {
+        "text": "Run Forrest, Run!",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/084_run_forrest_run.mp3"
+      },
+      {
+        "text": "Say now the really good thing about meeting the president of the United States is the food they put.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/085_say_now_the_really_good_thing_about_meeting_the_president_of.mp3"
+      },
+      {
+        "text": "Seat's taken",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/086_seat_s_taken.mp3"
+      },
+      {
+        "text": "She Tastes like cigarettes",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/087_she_tastes_like_cigarettes.mp3"
+      },
+      {
+        "text": "She tastes like cigarettes",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/088_she_tastes_like_cigarettes.mp3"
+      },
+      {
+        "text": "So I'm going to be on. I'm going to beat me.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/089_so_i_m_going_to_be_on_i_m_going_to_beat_me.mp3"
+      },
+      {
+        "text": "Some years later that handsome young man, who they called the cane, where his son too many sounds, add himself a heart attack or something.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/090_some_years_later_that_handsome_young_man_who_they_called_the.mp3"
+      },
+      {
+        "text": "Some years later that nice young man from England was on his way home. See his little boy, and was signing some autographs for no particular reason at all. Somebody shot, you know?",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/091_some_years_later_that_nice_young_man_from_england_was_on_his.mp3"
+      },
+      {
+        "text": "Something must be hard being a King.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/092_something_must_be_hard_being_a_king.mp3"
+      },
+      {
+        "text": "Sometimes I guess there just aren't enough rocks.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/093_sometimes_i_guess_there_just_aren_t_enough_rocks.mp3"
+      },
+      {
+        "text": "Sometimes we just sit out, wait for the stars.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/094_sometimes_we_just_sit_out_wait_for_the_stars.mp3"
+      },
+      {
+        "text": "Sorry I had a fight in the middle of your Black Panther Party.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/095_sorry_i_had_a_fight_in_the_middle_of_your_black_panther_part.mp3"
+      },
+      {
+        "text": "Stupid is as stupid does",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/096_stupid_is_as_stupid_does.mp3"
+      },
+      {
+        "text": "That's all I have to say about that",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/097_that_s_all_i_have_to_say_about_that.mp3"
+      },
+      {
+        "text": "That's all I have to say about that.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/098_that_s_all_i_have_to_say_about_that.mp3"
+      },
+      {
+        "text": "That's all I have to say about that.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/099_that_s_all_i_have_to_say_about_that.mp3"
+      },
+      {
+        "text": "That's my boat",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/100_that_s_my_boat.mp3"
+      },
+      {
+        "text": "Thats all I have to say about that",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/101_thats_all_i_have_to_say_about_that.mp3"
+      },
+      {
+        "text": "The only good thing about being Woon did in the butt talks is the ice cream that gave me all the ice cream I could heat.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/102_the_only_good_thing_about_being_woon_did_in_the_butt_talks_i.mp3"
+      },
+      {
+        "text": "This one day we was out walking like always and then, just like that somebody turned off the rain and the sun come out.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/103_this_one_day_we_was_out_walking_like_always_and_then_just_li.mp3"
+      },
+      {
+        "text": "Those must be comfortable shoes. I'll bet you could walk all day in shoes like that and not feel a thing. I wish I had shoes like that.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/104_those_must_be_comfortable_shoes_i_ll_bet_you_could_walk_all.mp3"
+      },
+      {
+        "text": "Tramp, where the hell is this God of yours?",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/105_tramp_where_the_hell_is_this_god_of_yours.mp3"
+      },
+      {
+        "text": "Wanna help me jump into? Hello man, you just ran through a big pile of dog shit. It happens. What shit sometimes?",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/106_wanna_help_me_jump_into_hello_man_you_just_ran_through_a_big.mp3"
+      },
+      {
+        "text": "Waving Forrest Gump",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/107_waving_forrest_gump.mp3"
+      },
+      {
+        "text": "We been through every kind of rain. There is little better staying gang, rain and play golf at rain, rain, Lewin, sideways.",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/108_we_been_through_every_kind_of_rain_there_is_little_better_st.mp3"
+      },
+      {
+        "text": "We don't have to worry about money no more",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/109_we_don_t_have_to_worry_about_money_no_more.mp3"
+      },
+      {
+        "text": "What do you have a cough due to cold?",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/110_what_do_you_have_a_cough_due_to_cold.mp3"
+      },
+      {
+        "text": "When I had to go, y'know, I went",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/111_when_i_had_to_go_y_know_i_went.mp3"
+      },
+      {
+        "text": "Will you marry me? I would make a good husband",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/112_will_you_marry_me_i_would_make_a_good_husband.mp3"
+      },
+      {
+        "text": "Yes drill sergeant",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/113_yes_drill_sergeant.mp3"
+      },
+      {
+        "text": "You aint got no legs Lieutenant Dan",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/114_you_aint_got_no_legs_lieutenant_dan.mp3"
+      },
+      {
+        "text": "You call this a storm",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/115_you_call_this_a_storm.mp3"
+      },
+      {
+        "text": "You Call This A Storm?",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/116_you_call_this_a_storm.mp3"
+      },
+      {
+        "text": "You're a goddamn genius",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/117_you_re_a_goddamn_genius.mp3"
+      },
+      {
+        "text": "You're my girl",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/118_you_re_my_girl.mp3"
+      },
+      {
+        "text": "Your boys..",
+        "character": "",
+        "audioUrl": "audio/forrest-gump/119_your_boys.mp3"
+      }
+    ]
+  },
+  {
+    "id": "pulp-fiction",
+    "name": "Pulp Fiction",
+    "type": "movie",
+    "theme": {
+      "primary": "#e0b020",
+      "accent": "#b02a25",
+      "bg": "#0a0805"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "And those are hash bars Yeah it breaks down like this okay. It's legal to buy it it's legal to own it. and if you're the proprietor of a hash bar it's legal to sell it",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/001_and_those_are_hash_bars_yeah_it_breaks_down_like_this_okay_i.mp3"
+      },
+      {
+        "text": "And you know what they call a quarter pounder with cheese in Paris. They don't call it a quarter pounder with cheese. Got the metric system there They wouldn't know what the fuck a quarter pounder is.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/002_and_you_know_what_they_call_a_quarter_pounder_with_cheese_in.mp3"
+      },
+      {
+        "text": "And you know what they call a quarter pounder with cheese in Paris. They don't call it a quarter pounder with cheese. Got the metric system there They wouldn't know what the fuck a quarter pounder is. What do they call it. They call it a royale with cheese. Royale with cheese That's right. What do they call a big Mac. Well big Mac's a big Mac but they call it le big Mac. Le big Mac. What do they call a whopper. I don't know I didn't go into burger king. You know what they put on French...",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/003_and_you_know_what_they_call_a_quarter_pounder_with_cheese_in.mp3"
+      },
+      {
+        "text": "And your ass ain't talking your way out of this shit No no no.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/004_and_your_ass_ain_t_talking_your_way_out_of_this_shit_no_no_n.mp3"
+      },
+      {
+        "text": "But but I never got yours My name's pitt. and your ass ain't talking your way out of this shit No no no.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/005_but_but_i_never_got_yours_my_name_s_pitt_and_your_ass_ain_t.mp3"
+      },
+      {
+        "text": "But I do love the taste of a good burger Mmm. You know what they call a quarter pounder with cheese in France.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/006_but_i_do_love_the_taste_of_a_good_burger_mmm_you_know_what_t.mp3"
+      },
+      {
+        "text": "But painful as it may be. ability don't last And your days are just about over.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/007_but_painful_as_it_may_be_ability_don_t_last_and_your_days_ar.mp3"
+      },
+      {
+        "text": "But you're saying a foot massage don't mean nothing. and I'm saying it does Now look I've given a million ladies. a million foot massages and they all meant something",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/008_but_you_re_saying_a_foot_massage_don_t_mean_nothing_and_i_m.mp3"
+      },
+      {
+        "text": "Check out the big brain on Brett. You're a smart motherfucker That's right The metric system. What's in this. Sprite Sprite good. You mind if I have some of your tasty beverage.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/009_check_out_the_big_brain_on_brett_you_re_a_smart_motherfucker.mp3"
+      },
+      {
+        "text": "Describe what marsellus Wallace looks like. What I. Say what again Say what again.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/010_describe_what_marsellus_wallace_looks_like_what_i_say_what_a.mp3"
+      },
+      {
+        "text": "Does he look like a bitch. Then why you trying to fuck him like a bitch Brett. I didn't Yes you did.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/011_does_he_look_like_a_bitch_then_why_you_trying_to_fuck_him_li.mp3"
+      },
+      {
+        "text": "Eating a bitch out and giving a bitch a foot massage. ain't even the same fucking thing It's not It's the same ballpark. Ain't no fucking ballpark neither.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/012_eating_a_bitch_out_and_giving_a_bitch_a_foot_massage_ain_t_e.mp3"
+      },
+      {
+        "text": "Example All right. well you can walk into a movie theater in Amsterdam and buy a beer And I don't mean just like in no paper cup. I'm talking about a glass of beer.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/013_example_all_right_well_you_can_walk_into_a_movie_theater_in.mp3"
+      },
+      {
+        "text": "Fuck you. You given 'em a lot. Fuck you. You know I'm kind of tired I could use a foot massage myself.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/014_fuck_you_you_given_em_a_lot_fuck_you_you_know_i_m_kind_of_ti.mp3"
+      },
+      {
+        "text": "Fucking marsellus knew it. and Antwan should've fucking better known better I mean that's his fucking wife man. This ain't a man with a sense of humor about this shit.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/015_fucking_marsellus_knew_it_and_antwan_should_ve_fucking_bette.mp3"
+      },
+      {
+        "text": "Garcon coffee. This place. Garcon means boy.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/016_garcon_coffee_this_place_garcon_means_boy.mp3"
+      },
+      {
+        "text": "Goddamn. I've seen 'em do it man. They fucking drown 'em in that shit Ugh.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/017_goddamn_i_ve_seen_em_do_it_man_they_fucking_drown_em_in_that.mp3"
+      },
+      {
+        "text": "Half black half Samoan used to call him Tony rocky horror. Yeah maybe Fat right. I wouldn't go so far as to call the brother fat.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/018_half_black_half_samoan_used_to_call_him_tony_rocky_horror_ye.mp3"
+      },
+      {
+        "text": "Have you ever given a foot massage. Don't be telling me about foot massages. I'm the foot fucking master. You given a lot of 'em. Shit yeah Got my technique down and everything.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/019_have_you_ever_given_a_foot_massage_don_t_be_telling_me_about.mp3"
+      },
+      {
+        "text": "He's he's black. Go on. He's bald. Does he look like a bitch. What. Does he look like a bitch. Then why you trying to fuck him like a bitch Brett. I didn't Yes you did. Yes you did Brett. You tried to fuck him No. Well marsellus Wallace don't like to be fucked. by anybody except Mrs Wallace You read the Bible Brett. Yes.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/020_he_s_he_s_black_go_on_he_s_bald_does_he_look_like_a_bitch_wh.mp3"
+      },
+      {
+        "text": "He's he's black. Go on. He's bald. Does he look like a bitch. What. Gunshot Brett screams groans. Does he look like a bitch. Then why you trying to fuck him like a bitch Brett. I didn't Yes you did. Yes you did Brett. You tried to fuck him No. Well marsellus Wallace don't like to be fucked. by anybody except Mrs Wallace",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/021_he_s_he_s_black_go_on_he_s_bald_does_he_look_like_a_bitch_wh.mp3"
+      },
+      {
+        "text": "Hey kids. How you boys doing. Hey keep chilling. You know who we are. We're associates of your business partner. marsellus Wallace You do remember your business partner don't you. Now let me take a wild guess here. You're Brett right. Yeah. Ithoughtso. You remember your business partner marsellus Wallace. don't you Brett Yeah I remember him Good. Looks like me and Vincent caught you boys at breakfast. Sorry about that What you having. Hamburgers. Hamburgers. The cornerstone of any...",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/022_hey_kids_how_you_boys_doing_hey_keep_chilling_you_know_who_w.mp3"
+      },
+      {
+        "text": "I didn't mean to do that Please continue. You were saying something about best intentions.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/023_i_didn_t_mean_to_do_that_please_continue_you_were_saying_som.mp3"
+      },
+      {
+        "text": "I don't know However people meet people. She used to be an actress. Oh really She do anything I'd have seen.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/024_i_don_t_know_however_people_meet_people_she_used_to_be_an_ac.mp3"
+      },
+      {
+        "text": "I don't remember asking you a goddamn thing.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/025_i_don_t_remember_asking_you_a_goddamn_thing.mp3"
+      },
+      {
+        "text": "I give my mother a foot massage. No it's laying hands in a familiar way on marsellus's new wife. I mean is it as bad as eating her pussy out. No but it's the same fucking ballpark.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/026_i_give_my_mother_a_foot_massage_no_it_s_laying_hands_in_a_fa.mp3"
+      },
+      {
+        "text": "I just want you to know how sorry we are that that things got so fucked up. with us and and Mr Wallace We got into this thing. with the best intentions really",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/027_i_just_want_you_to_know_how_sorry_we_are_that_that_things_go.mp3"
+      },
+      {
+        "text": "I love you pumpkin. I love you honey bunny. Everybody be cool This is a robbery. Any of you fucking pricks move. and I'll execute every motherfucking last one of you",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/028_i_love_you_pumpkin_i_love_you_honey_bunny_everybody_be_cool.mp3"
+      },
+      {
+        "text": "I mean the way it is now. you're taking the same risk as when you Rob a bank Taking more of a risk Banks are easier. Federal banks ain't supposed to stop you in any way during a robbery. They're insured Why should they give a fuck. You don't even need a gun in a federal bank. I heard about this one bloke he walks into a bank with a portable phone. He gives the phone to the teller. bloke on the other end of the phone says we got this guy's little girl If you don't give him all your money we're...",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/029_i_mean_the_way_it_is_now_you_re_taking_the_same_risk_as_when.mp3"
+      },
+      {
+        "text": "I mean they got the same shit over there. that they got here but it's just Just there it's a little different Example All right. well you can walk into a movie theater in Amsterdam and buy a beer",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/030_i_mean_they_got_the_same_shit_over_there_that_they_got_here.mp3"
+      },
+      {
+        "text": "I mean they want you to smoke in your home or certain designated places. And those are hash bars Yeah it breaks down like this okay.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/031_i_mean_they_want_you_to_smoke_in_your_home_or_certain_design.mp3"
+      },
+      {
+        "text": "I think her biggest deal was she starred in a pilot. Pilot What's a pilot. Well you know the shows on TV. I don't watch TV. Yeah but you are aware that there's an invention called television. and on this invention they show shows right Yeah. Well the way they pick TV shows is they make one show. That show's called a pilot. Then they show that one show to the people who pick shows. and on the strength of that one show they decide if they want to make more shows Some get chosen and become...",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/032_i_think_her_biggest_deal_was_she_starred_in_a_pilot_pilot_wh.mp3"
+      },
+      {
+        "text": "I think you're gonna find yourself one smiling motherfucker. Thing is butch.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/033_i_think_you_re_gonna_find_yourself_one_smiling_motherfucker.mp3"
+      },
+      {
+        "text": "I think you're gonna find. when all this shit is over and done I think you're gonna find yourself one smiling motherfucker. Thing is butch. right now you got ability But painful as it may be. ability don't last And your days are just about over. Now that's a hard motherfucking fact of life. but that's a fact of life your ass is gonna have to get realistic about See this business is filled to the brim with unrealistic motherfuckers. Motherfuckers who thought their ass would age like wine. If...",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/034_i_think_you_re_gonna_find_when_all_this_shit_is_over_and_don.mp3"
+      },
+      {
+        "text": "I'm fucking going I know baby You'd dig it the most. But you know what the funniest thing about Europe is.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/035_i_m_fucking_going_i_know_baby_you_d_dig_it_the_most_but_you.mp3"
+      },
+      {
+        "text": "If you get stopped by a cop in Amsterdam it's illegal for them to search you. I mean that's a right the cops in Amsterdam don't have. Oh man I'm going That's all there is to it.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/036_if_you_get_stopped_by_a_cop_in_amsterdam_it_s_illegal_for_th.mp3"
+      },
+      {
+        "text": "It's legal to buy it it's legal to own it. and if you're the proprietor of a hash bar it's legal to sell it It's legal to carry it but that doesn't matter. 'Cause get a load of this all right",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/037_it_s_legal_to_buy_it_it_s_legal_to_own_it_and_if_you_re_the.mp3"
+      },
+      {
+        "text": "It's not a date. It's definitely not a date.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/038_it_s_not_a_date_it_s_definitely_not_a_date.mp3"
+      },
+      {
+        "text": "J jungle boogie j. j jungle boogie j j get it on j j jungle boogie j j jungle boogie j j gel if on j j jungle boogie j j get up with the boogie j j jungle boogie j j get up with the get down j j jungle boogie j j gel down with the boogie j j jungle boogie j j come and shake it around j",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/039_j_jungle_boogie_j_j_jungle_boogie_j_j_get_it_on_j_j_jungle_b.mp3"
+      },
+      {
+        "text": "J let's sfa y fogez'berj. I think you're gonna find. when all this shit is over and done I think you're gonna find yourself one smiling motherfucker.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/040_j_let_s_sfa_y_fogez_berj_i_think_you_re_gonna_find_when_all.mp3"
+      },
+      {
+        "text": "Jules: I'm not giving you that money. I'm buying something from you. Wanna know what I'm buyin' Ringo? Pumpkin: What? Jules: Your life. I'm givin' you that money so I don't have to kill your ass. You read the Bible? Pumpkin: Not regularly. Jules: There's a passage I got memorized. Ezekiel 25:17. \"The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through...",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/041_jules_i_m_not_giving_you_that_money_i_m_buying_something_fro.mp3"
+      },
+      {
+        "text": "Me I can't usually get 'em. 'cause my girlfriend's a vegetarian which pretty much makes me a vegetarian But I do love the taste of a good burger Mmm.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/042_me_i_can_t_usually_get_em_cause_my_girlfriend_s_a_vegetarian.mp3"
+      },
+      {
+        "text": "Mia How did marsellus and her meet. I don't know However people meet people.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/043_mia_how_did_marsellus_and_her_meet_i_don_t_know_however_peop.mp3"
+      },
+      {
+        "text": "Motherfucker do that shit to me. he better paralyze my ass 'cause I'd kill the motherfucker You know what I'm saying I ain't saying it's right. But you're saying a foot massage don't mean nothing.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/044_motherfucker_do_that_shit_to_me_he_better_paralyze_my_ass_ca.mp3"
+      },
+      {
+        "text": "No it ain't quite time yet Come on Let's hang back.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/045_no_it_ain_t_quite_time_yet_come_on_let_s_hang_back.mp3"
+      },
+      {
+        "text": "Now look I've given a million ladies. a million foot massages and they all meant something Now we act like they don't but they do. That's what's so fucking cool about 'em.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/046_now_look_i_ve_given_a_million_ladies_a_million_foot_massages.mp3"
+      },
+      {
+        "text": "Now look just 'cause I wouldn't give no man a foot massage. don't make it right for marsellus to throw Antwan off a building into a glass motherfucking house fucking up the way the n***** talks That shit ain't right. Motherfucker do that shit to me. he better paralyze my ass 'cause I'd kill the motherfucker",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/047_now_look_just_cause_i_wouldn_t_give_no_man_a_foot_massage_do.mp3"
+      },
+      {
+        "text": "Now look just 'cause I wouldn't give no man a foot massage. don't make it right for marsellus to throw Antwan off a building into a glass motherfucking house fucking up the way the n***** talks That shit ain't right. Motherfucker do that shit to me. he better paralyze my ass 'cause I'd kill the motherfucker You know what I'm saying I ain't saying it's right. But you're saying a foot massage don't mean nothing. and I'm saying it does Now look I've given a million ladies. a million foot...",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/048_now_look_just_cause_i_wouldn_t_give_no_man_a_foot_massage_do.mp3"
+      },
+      {
+        "text": "Now look maybe your method of massage differs from mine. but you know touching his wife's feet and sticking your tongue in her holiest of holies ain't the same fucking ballpark It ain't the same league It ain't even the same fucking sport. Look foot massages don't mean shit.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/049_now_look_maybe_your_method_of_massage_differs_from_mine_but.mp3"
+      },
+      {
+        "text": "Now that's a hard motherfucking fact of life. but that's a fact of life your ass is gonna have to get realistic about",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/050_now_that_s_a_hard_motherfucking_fact_of_life_but_that_s_a_fa.mp3"
+      },
+      {
+        "text": "Okay so tell me again about the hash bars. Okay What you want to know. Hash is legal there right. Yeah it's legal but it ain't 100 legal. You just can't walk into a restaurant roll a joint and start puffing away. I mean they want you to smoke in your home or certain designated places. And those are hash bars Yeah it breaks down like this okay. It's legal to buy it it's legal to own it. and if you're the proprietor of a hash bar it's legal to sell it It's legal to carry it but that doesn't...",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/051_okay_so_tell_me_again_about_the_hash_bars_okay_what_you_want.mp3"
+      },
+      {
+        "text": "So what'd he do fuck her. No no no Nothing that bad. Well then what then.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/052_so_what_d_he_do_fuck_her_no_no_no_nothing_that_bad_well_then.mp3"
+      },
+      {
+        "text": "That hit the spot. You flock of seagulls.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/053_that_hit_the_spot_you_flock_of_seagulls.mp3"
+      },
+      {
+        "text": "That's a damn shame. But still I have to say you play with matches you get burned. What do you mean. You don't be giving marsellus Wallace's new bride a foot massage.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/054_that_s_a_damn_shame_but_still_i_have_to_say_you_play_with_ma.mp3"
+      },
+      {
+        "text": "Then they show that one show to the people who pick shows. and on the strength of that one show they decide if they want to make more shows Some get chosen and become television programs. Some don't become nothing.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/055_then_they_show_that_one_show_to_the_people_who_pick_shows_an.mp3"
+      },
+      {
+        "text": "There's a sensuous thing going on where you know. you don't talk about it but you know it and she knows it Fucking marsellus knew it. and Antwan should've fucking better known better",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/056_there_s_a_sensuous_thing_going_on_where_you_know_you_don_t_t.mp3"
+      },
+      {
+        "text": "They call it a royale with cheese. Royale with cheese That's right. What do they call a big Mac. Well big Mac's a big Mac but they call it le big Mac.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/057_they_call_it_a_royale_with_cheese_royale_with_cheese_that_s.mp3"
+      },
+      {
+        "text": "They fucking drown 'em in that shit Ugh. We should have shotguns for this kind of deal.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/058_they_fucking_drown_em_in_that_shit_ugh_we_should_have_shotgu.mp3"
+      },
+      {
+        "text": "They had a little garden down at the bottom. enclosed in glass like a greenhouse N***** fell through that. Since then he kind of developed a speech impediment.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/059_they_had_a_little_garden_down_at_the_bottom_enclosed_in_glas.mp3"
+      },
+      {
+        "text": "They took him out on his patio threw his ass over the balcony. N***** fell four stories. They had a little garden down at the bottom.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/060_they_took_him_out_on_his_patio_threw_his_ass_over_the_balcon.mp3"
+      },
+      {
+        "text": "Thing is butch. right now you got ability But painful as it may be.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/061_thing_is_butch_right_now_you_got_ability_but_painful_as_it_m.mp3"
+      },
+      {
+        "text": "This place. A coffee shop. What's wrong with that. Nobody ever robs restaurants. Why not. Bars liquor stores gas stations. You'll get your head blown off sticking up one of them. Restaurants on the other hand. you catch with their pants down They're not expecting to get robbed. Not as expecting anyway. I bet you could cut down on the hero factor in a place like this. Correct. Same as banks these places are insured. Manager He don't give a fuck. He's just trying to get you out the door...",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/062_this_place_a_coffee_shop_what_s_wrong_with_that_nobody_ever.mp3"
+      },
+      {
+        "text": "We got into this thing. with the best intentions really I never inten. Oh I'm sorry Did I break your concentration.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/063_we_got_into_this_thing_with_the_best_intentions_really_i_nev.mp3"
+      },
+      {
+        "text": "We should have shotguns for this kind of deal. How many up there. Three or four. That's counting our guy. I'm not sure. So that means it could be up to five guys up there. It's possible. We should have fucking shotguns.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/064_we_should_have_shotguns_for_this_kind_of_deal_how_many_up_th.mp3"
+      },
+      {
+        "text": "We should have shotguns for this kind of deal. How many up there. Three or four. That's counting our guy. I'm not sure. So that means it could be up to five guys up there. It's possible. We should have fucking shotguns. What's her name Mia. Mia How did marsellus and her meet.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/065_we_should_have_shotguns_for_this_kind_of_deal_how_many_up_th.mp3"
+      },
+      {
+        "text": "We're associates of your business partner. marsellus Wallace You do remember your business partner don't you.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/066_we_re_associates_of_your_business_partner_marsellus_wallace.mp3"
+      },
+      {
+        "text": "Well Antwan probably didn't expect marsellus. to react the way he did but he had to expect a reaction It was a foot massage A foot massage is nothing. I give my mother a foot massage.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/067_well_antwan_probably_didn_t_expect_marsellus_to_react_the_wa.mp3"
+      },
+      {
+        "text": "Well big Mac's a big Mac but they call it le big Mac. Le big Mac. What do they call a whopper. I don't know I didn't go into burger king. You know what they put on French fries in Holland instead of ketchup.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/068_well_big_mac_s_a_big_mac_but_they_call_it_le_big_mac_le_big.mp3"
+      },
+      {
+        "text": "Well he's going out of town Florida. and he asked me if I'd take care of her while he's gone Take care of her. No man Just take her out.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/069_well_he_s_going_out_of_town_florida_and_he_asked_me_if_i_d_t.mp3"
+      },
+      {
+        "text": "Well marsellus fucked him up good. Word around the campfire is. it was on account of marsellus Wallace's wife So what'd he do fuck her. No no no Nothing that bad. Well then what then. Gave her a foot massage. A foot massage Mm hmm. That's it Mm hmm. Then what did marsellus do. Sent a couple of cats over to his place. They took him out on his patio threw his ass over the balcony. N***** fell four stories. They had a little garden down at the bottom. enclosed in glass like a greenhouse N*****...",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/070_well_marsellus_fucked_him_up_good_word_around_the_campfire_i.mp3"
+      },
+      {
+        "text": "Well there's this passage I got memorized. Sort of fits this occasion. Ezekiel 25 17. The path of the righteous man is beset on all sides. by the inequities of the selfish and the tyranny of evil men Blessed is he who in the name of charity and good will. Shepherds the weak through the valley of darkness. for he is truly his brother's keeper and the finder of lost children And I will strike down upon thee. with great vengeance and furious anger those who attempt to poison and destroy my...",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/071_well_there_s_this_passage_i_got_memorized_sort_of_fits_this.mp3"
+      },
+      {
+        "text": "Well you know the shows on TV. I don't watch TV. Yeah but you are aware that there's an invention called television. and on this invention they show shows right Yeah. Well the way they pick TV shows is they make one show.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/072_well_you_know_the_shows_on_tv_i_don_t_watch_tv_yeah_but_you.mp3"
+      },
+      {
+        "text": "Whoa whoa whoa Stop right there. Eating a bitch out and giving a bitch a foot massage. ain't even the same fucking thing It's not It's the same ballpark. Ain't no fucking ballpark neither. Now look maybe your method of massage differs from mine. but you know touching his wife's feet and sticking your tongue in her holiest of holies ain't the same fucking ballpark It ain't the same league It ain't even the same fucking sport. Look foot massages don't mean shit. Have you ever given a foot...",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/073_whoa_whoa_whoa_stop_right_there_eating_a_bitch_out_and_givin.mp3"
+      },
+      {
+        "text": "Why you so interested in big man's wife. Well he's going out of town Florida. and he asked me if I'd take care of her while he's gone Take care of her. No man Just take her out. You know show her a good time. Make sure she don't get lonely. You're gonna be taking Mia Wallace out on a date. It is not a date. You know it's just like if you were going to take. your buddy's wife to a movie or something It's just good company that's all. It's not a date. It's definitely not a date.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/074_why_you_so_interested_in_big_man_s_wife_well_he_s_going_out.mp3"
+      },
+      {
+        "text": "Word around the campfire is. it was on account of marsellus Wallace's wife",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/075_word_around_the_campfire_is_it_was_on_account_of_marsellus_w.mp3"
+      },
+      {
+        "text": "Yeah but you are aware that there's an invention called television. and on this invention they show shows right Yeah. Well the way they pick TV shows is they make one show.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/076_yeah_but_you_are_aware_that_there_s_an_invention_called_tele.mp3"
+      },
+      {
+        "text": "You don't be giving marsellus Wallace's new bride a foot massage. You don't think he overreacted. Well Antwan probably didn't expect marsellus.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/077_you_don_t_be_giving_marsellus_wallace_s_new_bride_a_foot_mas.mp3"
+      },
+      {
+        "text": "You flock of seagulls. You know why we're here. Why don't you tell my man Vince here where you got the shit hid at. It's over there. I don't remember asking you a goddamn thing. You were saying. It's in the cupboard. No The one by your knees. We happy. Vincent. We happy Yeah we happy. Look. I'm sorry I I didn't get your name. I got yours Uh Vincent right. But but I never got yours My name's pitt. and your ass ain't talking your way out of this shit No no no. I just want you to know how. I...",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/078_you_flock_of_seagulls_you_know_why_we_re_here_why_don_t_you.mp3"
+      },
+      {
+        "text": "You just can't walk into a restaurant roll a joint and start puffing away. I mean they want you to smoke in your home or certain designated places.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/079_you_just_can_t_walk_into_a_restaurant_roll_a_joint_and_start.mp3"
+      },
+      {
+        "text": "You know it's just like if you were going to take. your buddy's wife to a movie or something It's just good company that's all.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/080_you_know_it_s_just_like_if_you_were_going_to_take_your_buddy.mp3"
+      },
+      {
+        "text": "You know what they call a quarter pounder with cheese in France. Tell him Vincent Royale with cheese. Royale with cheese. You know why they call it that. Uh because of the metric system. Check out the big brain on Brett. You're a smart motherfucker That's right The metric system.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/081_you_know_what_they_call_a_quarter_pounder_with_cheese_in_fra.mp3"
+      },
+      {
+        "text": "You know what they put on French fries in Holland instead of ketchup. What Mayonnaise. Goddamn Laughs. I've seen 'em do it man. They fucking drown 'em in that shit Ugh.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/082_you_know_what_they_put_on_french_fries_in_holland_instead_of.mp3"
+      },
+      {
+        "text": "You know what they put on French fries in Holland instead of ketchup. What Mayonnaise. Goddamn. I've seen 'em do it man. They fucking drown 'em in that shit Ugh. We should have shotguns for this kind of deal.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/083_you_know_what_they_put_on_french_fries_in_holland_instead_of.mp3"
+      },
+      {
+        "text": "You mind if I have some of your tasty beverage. to wash this down with Go right ahead.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/084_you_mind_if_i_have_some_of_your_tasty_beverage_to_wash_this.mp3"
+      },
+      {
+        "text": "You remember Antwan rockamora. Half black half Samoan used to call him Tony rocky horror. Yeah maybe Fat right. I wouldn't go so far as to call the brother fat. I mean he got a weight problem What's the n***** gonna do He's Samoan. Yeah I think I know who you mean What about him. Well marsellus fucked him up good.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/085_you_remember_antwan_rockamora_half_black_half_samoan_used_to.mp3"
+      },
+      {
+        "text": "You remember your business partner marsellus Wallace. don't you Brett Yeah I remember him Good.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/086_you_remember_your_business_partner_marsellus_wallace_don_t_y.mp3"
+      },
+      {
+        "text": "You want to Rob banks I'm not saying I want to Rob banks. I'm just illustrating if we did it'd be easier than what we been doing. And no more liquor stores. What we been talking about Yeah no more liquor stores. Besides it ain't the giggle it used to be. There's too many foreigners own liquor stores. Vietnamese Koreans they don't even speak fucking English. Tell 'em empty out the register they don't know what you're talking about. They make it too personal. We keep on one of these gook...",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/087_you_want_to_rob_banks_i_m_not_saying_i_want_to_rob_banks_i_m.mp3"
+      },
+      {
+        "text": "You were saying something about best intentions. What's the matter. Oh you were finished. Well allow me to retort.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/088_you_were_saying_something_about_best_intentions_what_s_the_m.mp3"
+      },
+      {
+        "text": "You're a smart motherfucker That's right The metric system. What's in this.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/089_you_re_a_smart_motherfucker_that_s_right_the_metric_system_w.mp3"
+      },
+      {
+        "text": "[first lines] Pumpkin: Forget it. Too risky. I'm through doing that shit. Yolanda: You always say that. That same thing every time, \"I'm through, never again, too dangerous\". Pumpkin: I know that's what I always say. I'm always right, too. Yolanda: But you forget about it in a day or two. Pumpkin: Yeah, well the days of me forgetting are over, and the days of me remembering have just begun.",
+        "character": "",
+        "audioUrl": "audio/pulp-fiction/090_first_lines_pumpkin_forget_it_too_risky_i_m_through_doing_t.mp3"
+      }
+    ]
+  },
+  {
+    "id": "devil-wears-prada",
+    "name": "The Devil Wears Prada",
+    "type": "movie",
+    "theme": {
+      "primary": "#3a3f5c",
+      "accent": "#c9a86a",
+      "bg": "#08080c"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "And it's sort of comical",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/001_and_it_s_sort_of_comical.mp3"
+      },
+      {
+        "text": "And what are you doing here?",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/002_and_what_are_you_doing_here.mp3"
+      },
+      {
+        "text": "By all means, move at a glacial pace",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/003_by_all_means_move_at_a_glacial_pace.mp3"
+      },
+      {
+        "text": "Check for bad breath",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/006_check_for_bad_breath.mp3"
+      },
+      {
+        "text": "Did you fall down and smack your little head on the pavement?",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/007_did_you_fall_down_and_smack_your_little_head_on_the_pavement.mp3"
+      },
+      {
+        "text": "Disappointed and stupid",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/008_disappointed_and_stupid.mp3"
+      },
+      {
+        "text": "Everybody wants this",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/009_everybody_wants_this.mp3"
+      },
+      {
+        "text": "Florals? For Spring? Groundbreaking",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/010_florals_for_spring_groundbreaking.mp3"
+      },
+      {
+        "text": "Gird Your Loins",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/011_gird_your_loins.mp3"
+      },
+      {
+        "text": "Gird your loins",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/012_gird_your_loins.mp3"
+      },
+      {
+        "text": "I don't know what you expect me to do",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/013_i_don_t_know_what_you_expect_me_to_do.mp3"
+      },
+      {
+        "text": "Is there some reason that my coffee isn't here?",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/014_is_there_some_reason_that_my_coffee_isn_t_here.mp3"
+      },
+      {
+        "text": "It's a tough call. They're so different",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/015_it_s_a_tough_call_they_re_so_different.mp3"
+      },
+      {
+        "text": "Make an entrance",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/016_make_an_entrance.mp3"
+      },
+      {
+        "text": "Making an entrance",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/017_making_an_entrance.mp3"
+      },
+      {
+        "text": "No no. That wasn't a question",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/021_no_no_that_wasn_t_a_question.mp3"
+      },
+      {
+        "text": "Ok I'm screwing it up",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/022_ok_i_m_screwing_it_up.mp3"
+      },
+      {
+        "text": "Please bore someone else with your questions",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/023_please_bore_someone_else_with_your_questions.mp3"
+      },
+      {
+        "text": "Rushing to get ready",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/024_rushing_to_get_ready.mp3"
+      },
+      {
+        "text": "She's on her way",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/026_she_s_on_her_way.mp3"
+      },
+      {
+        "text": "Tales of your incompetence do not interest me",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/028_tales_of_your_incompetence_do_not_interest_me.mp3"
+      },
+      {
+        "text": "That I can't even talk about",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/029_that_i_can_t_even_talk_about.mp3"
+      },
+      {
+        "text": "That wasn't a question",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/030_that_wasn_t_a_question.mp3"
+      },
+      {
+        "text": "The Chanel boots",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/032_the_chanel_boots.mp3"
+      },
+      {
+        "text": "Throws phone in the fountain",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/033_throws_phone_in_the_fountain.mp3"
+      },
+      {
+        "text": "Well, I think I could do a good job",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/034_well_i_think_i_could_do_a_good_job.mp3"
+      },
+      {
+        "text": "Who is that sad little person?",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/036_who_is_that_sad_little_person.mp3"
+      },
+      {
+        "text": "Why is no one ready?",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/037_why_is_no_one_ready.mp3"
+      },
+      {
+        "text": "You disappointed me most",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/038_you_disappointed_me_most.mp3"
+      },
+      {
+        "text": "You look good",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/039_you_look_good.mp3"
+      },
+      {
+        "text": "You think this has nothing to do with you",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/040_you_think_this_has_nothing_to_do_with_you.mp3"
+      },
+      {
+        "text": "You'll take what I give you and you'll like it",
+        "character": "",
+        "audioUrl": "audio/devil-wears-prada/041_you_ll_take_what_i_give_you_and_you_ll_like_it.mp3"
+      }
+    ]
+  },
+  {
+    "id": "mean-girls",
+    "name": "Mean Girls",
+    "type": "movie",
+    "theme": {
+      "primary": "#f2569e",
+      "accent": "#c9a0d8",
+      "bg": "#0d060c"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Aaron went to Northwestern, so I still get to see him on weekends.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/001_aaron_went_to_northwestern_so_i_still_get_to_see_him_on_week.mp3"
+      },
+      {
+        "text": "All right, have a good time, everyone",
+        "character": "",
+        "audioUrl": "audio/mean-girls/003_all_right_have_a_good_time_everyone.mp3"
+      },
+      {
+        "text": "Almost as mad as I get when I think about the fact",
+        "character": "",
+        "audioUrl": "audio/mean-girls/004_almost_as_mad_as_i_get_when_i_think_about_the_fact.mp3"
+      },
+      {
+        "text": "And how many people cried over it and stuff...",
+        "character": "",
+        "audioUrl": "audio/mean-girls/005_and_how_many_people_cried_over_it_and_stuff.mp3"
+      },
+      {
+        "text": "And I could not be happier that this school year's ending.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/006_and_i_could_not_be_happier_that_this_school_year_s_ending.mp3"
+      },
+      {
+        "text": "And I don't wanna be punished for being well liked.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/007_and_i_don_t_wanna_be_punished_for_being_well_liked.mp3"
+      },
+      {
+        "text": "And I know how mad he gets when I call him Anthony.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/008_and_i_know_how_mad_he_gets_when_i_call_him_anthony.mp3"
+      },
+      {
+        "text": "And Janis was, like, weirdly jealous of him.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/009_and_janis_was_like_weirdly_jealous_of_him.mp3"
+      },
+      {
+        "text": "And make love to your woman On the bathroom floor",
+        "character": "",
+        "audioUrl": "audio/mean-girls/010_and_make_love_to_your_woman_on_the_bathroom_floor.mp3"
+      },
+      {
+        "text": "And OK, look, I'm not saying she's a stalker,",
+        "character": "",
+        "audioUrl": "audio/mean-girls/011_and_ok_look_i_m_not_saying_she_s_a_stalker.mp3"
+      },
+      {
+        "text": "And she had some 99 cent lip gloss on her snaggletooth.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/012_and_she_had_some_99_cent_lip_gloss_on_her_snaggletooth.mp3"
+      },
+      {
+        "text": "And she said she's gonna do some kind of African voodoo with it",
+        "character": "",
+        "audioUrl": "audio/mean-girls/013_and_she_said_she_s_gonna_do_some_kind_of_african_voodoo_with.mp3"
+      },
+      {
+        "text": "And she wears it under all her clothes.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/014_and_she_wears_it_under_all_her_clothes.mp3"
+      },
+      {
+        "text": "And some form of animal ears.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/015_and_some_form_of_animal_ears.mp3"
+      },
+      {
+        "text": "And the worst. Beware of The Plastics.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/016_and_the_worst_beware_of_the_plastics.mp3"
+      },
+      {
+        "text": "And then for my Hanukkah, my parents got me this pair",
+        "character": "",
+        "audioUrl": "audio/mean-girls/017_and_then_for_my_hanukkah_my_parents_got_me_this_pair.mp3"
+      },
+      {
+        "text": "And we've spent the last 12 years in Africa.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/018_and_we_ve_spent_the_last_12_years_in_africa.mp3"
+      },
+      {
+        "text": "And who's gonna have to take care of her? Me.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/019_and_who_s_gonna_have_to_take_care_of_her_me.mp3"
+      },
+      {
+        "text": "And winner of two gift certificates",
+        "character": "",
+        "audioUrl": "audio/mean-girls/020_and_winner_of_two_gift_certificates.mp3"
+      },
+      {
+        "text": "And you're gonna get it right now.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/021_and_you_re_gonna_get_it_right_now.mp3"
+      },
+      {
+        "text": "Apparently, there's a lot of things that can be wrong on your body.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/023_apparently_there_s_a_lot_of_things_that_can_be_wrong_on_your.mp3"
+      },
+      {
+        "text": "Because being with The Plastics was like being famous.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/025_because_being_with_the_plastics_was_like_being_famous.mp3"
+      },
+      {
+        "text": "Because you have to be considerate of the rest of the group",
+        "character": "",
+        "audioUrl": "audio/mean-girls/026_because_you_have_to_be_considerate_of_the_rest_of_the_group.mp3"
+      },
+      {
+        "text": "Being at Old Orctard Mall kind of reminded me of being home in Africa.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/027_being_at_old_orctard_mall_kind_of_reminded_me_of_being_home.mp3"
+      },
+      {
+        "text": "But so far, none in Evanston.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/030_but_so_far_none_in_evanston.mp3"
+      },
+      {
+        "text": "But the thing is, I'm not really bad at math.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/031_but_the_thing_is_i_m_not_really_bad_at_math.mp3"
+      },
+      {
+        "text": "But wait. Aren't you so mad at Gretchen for telling me?",
+        "character": "",
+        "audioUrl": "audio/mean-girls/032_but_wait_aren_t_you_so_mad_at_gretchen_for_telling_me.mp3"
+      },
+      {
+        "text": "But you're totally gonna laugh when I tell you, so...",
+        "character": "",
+        "audioUrl": "audio/mean-girls/033_but_you_re_totally_gonna_laugh_when_i_tell_you_so.mp3"
+      },
+      {
+        "text": "Cady Heron, they wanna see you in the principal's office.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/034_cady_heron_they_wanna_see_you_in_the_principal_s_office.mp3"
+      },
+      {
+        "text": "Contestants, find the limit of this equation.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/035_contestants_find_the_limit_of_this_equation.mp3"
+      },
+      {
+        "text": "Did you have an awesome time?",
+        "character": "",
+        "audioUrl": "audio/mean-girls/036_did_you_have_an_awesome_time.mp3"
+      },
+      {
+        "text": "Did you see her do it?",
+        "character": "",
+        "audioUrl": "audio/mean-girls/037_did_you_see_her_do_it.mp3"
+      },
+      {
+        "text": "Do you have anything you wanna own up to?",
+        "character": "",
+        "audioUrl": "audio/mean-girls/038_do_you_have_anything_you_wanna_own_up_to.mp3"
+      },
+      {
+        "text": "Don't be fooled, because she may seem like your typical selfish, back stabbing,",
+        "character": "",
+        "audioUrl": "audio/mean-girls/039_don_t_be_fooled_because_she_may_seem_like_your_typical_selfi.mp3"
+      },
+      {
+        "text": "Don't worry, we're gonna find out who did it.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/041_don_t_worry_we_re_gonna_find_out_who_did_it.mp3"
+      },
+      {
+        "text": "Don't you bring me down today",
+        "character": "",
+        "audioUrl": "audio/mean-girls/042_don_t_you_bring_me_down_today.mp3"
+      },
+      {
+        "text": "Even though I wasn't allowed to like Aaron,",
+        "character": "",
+        "audioUrl": "audio/mean-girls/043_even_though_i_wasn_t_allowed_to_like_aaron.mp3"
+      },
+      {
+        "text": "Giddyap jingle torse Pick up your feet",
+        "character": "",
+        "audioUrl": "audio/mean-girls/045_giddyap_jingle_torse_pick_up_your_feet.mp3"
+      },
+      {
+        "text": "God, Mr. Duvall, can you wrap it up?",
+        "character": "",
+        "audioUrl": "audio/mean-girls/047_god_mr_duvall_can_you_wrap_it_up.mp3"
+      },
+      {
+        "text": "Have you ever walked up to people",
+        "character": "",
+        "audioUrl": "audio/mean-girls/048_have_you_ever_walked_up_to_people.mp3"
+      },
+      {
+        "text": "Hey, hey, hey! How are my best girlfriends?",
+        "character": "",
+        "audioUrl": "audio/mean-girls/051_hey_hey_hey_how_are_my_best_girlfriends.mp3"
+      },
+      {
+        "text": "His name was Nfume, and we were 5.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/055_his_name_was_nfume_and_we_were_5.mp3"
+      },
+      {
+        "text": "I could hear people getting bored with me.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/056_i_could_hear_people_getting_bored_with_me.mp3"
+      },
+      {
+        "text": "I gotta say, watching the police search my house",
+        "character": "",
+        "audioUrl": "audio/mean-girls/058_i_gotta_say_watching_the_police_search_my_house.mp3"
+      },
+      {
+        "text": "I had learned how to control everyone around me.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/060_i_had_learned_how_to_control_everyone_around_me.mp3"
+      },
+      {
+        "text": "I had never felt this feeling before.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/061_i_had_never_felt_this_feeling_before.mp3"
+      },
+      {
+        "text": "I have her test results. If you can have her give me a call as soon as she can.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/062_i_have_her_test_results_if_you_can_have_her_give_me_a_call_a.mp3"
+      },
+      {
+        "text": "I have to talk to you",
+        "character": "",
+        "audioUrl": "audio/mean-girls/063_i_have_to_talk_to_you.mp3"
+      },
+      {
+        "text": "I know she's kind of socially retarded and weird, but she's my friend,",
+        "character": "",
+        "audioUrl": "audio/mean-girls/065_i_know_she_s_kind_of_socially_retarded_and_weird_but_she_s_m.mp3"
+      },
+      {
+        "text": "I know what home school is. I'm not retarded.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/066_i_know_what_home_school_is_i_m_not_retarded.mp3"
+      },
+      {
+        "text": "I love seeing teachers outside of school",
+        "character": "",
+        "audioUrl": "audio/mean-girls/067_i_love_seeing_teachers_outside_of_school.mp3"
+      },
+      {
+        "text": "I mean, I guess she just likes the attention.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/068_i_mean_i_guess_she_just_likes_the_attention.mp3"
+      },
+      {
+        "text": "I need your parents to sign this so they know that you're failing",
+        "character": "",
+        "audioUrl": "audio/mean-girls/069_i_need_your_parents_to_sign_this_so_they_know_that_you_re_fa.mp3"
+      },
+      {
+        "text": "I pushed my husband into law school. That was a bust.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/070_i_pushed_my_husband_into_law_school_that_was_a_bust.mp3"
+      },
+      {
+        "text": "I think Cady's old enough to spend one night on her own.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/071_i_think_cady_s_old_enough_to_spend_one_night_on_her_own.mp3"
+      },
+      {
+        "text": "I think somebody nominated her as a joke or something.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/072_i_think_somebody_nominated_her_as_a_joke_or_something.mp3"
+      },
+      {
+        "text": "I'm sorry that people are so jealous of me.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/075_i_m_sorry_that_people_are_so_jealous_of_me.mp3"
+      },
+      {
+        "text": "I'm voting for Cady Heron because she pushed her.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/076_i_m_voting_for_cady_heron_because_she_pushed_her.mp3"
+      },
+      {
+        "text": "If I was gonna keep this going, I was gonna have to really commit.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/077_if_i_was_gonna_keep_this_going_i_was_gonna_have_to_really_co.mp3"
+      },
+      {
+        "text": "Is that your natural hair color?",
+        "character": "",
+        "audioUrl": "audio/mean-girls/079_is_that_your_natural_hair_color.mp3"
+      },
+      {
+        "text": "It was full tilt jungle madness",
+        "character": "",
+        "audioUrl": "audio/mean-girls/081_it_was_full_tilt_jungle_madness.mp3"
+      },
+      {
+        "text": "It was perfect because the jock girls weren't afraid of her.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/082_it_was_perfect_because_the_jock_girls_weren_t_afraid_of_her.mp3"
+      },
+      {
+        "text": "It's a costume party. People get pretty into it.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/083_it_s_a_costume_party_people_get_pretty_into_it.mp3"
+      },
+      {
+        "text": "Jackpot. Gretchen's secret had put the plan back in motion.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/089_jackpot_gretchen_s_secret_had_put_the_plan_back_in_motion.mp3"
+      },
+      {
+        "text": "Miss Caroline Krafft seriously needed to pluck her eyebrows.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/092_miss_caroline_krafft_seriously_needed_to_pluck_her_eyebrows.mp3"
+      },
+      {
+        "text": "My mom used to give them to the kids in Africa to help them gain weight.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/093_my_mom_used_to_give_them_to_the_kids_in_africa_to_help_them.mp3"
+      },
+      {
+        "text": "No, no, this is just how they work.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/095_no_no_this_is_just_how_they_work.mp3"
+      },
+      {
+        "text": "Not when you connect from Information.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/098_not_when_you_connect_from_information.mp3"
+      },
+      {
+        "text": "Now, I put a dollar in there so you can buy some milk.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/099_now_i_put_a_dollar_in_there_so_you_can_buy_some_milk.mp3"
+      },
+      {
+        "text": "Now, I'm not gonna do that, because we've already paid the DJ.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/100_now_i_m_not_gonna_do_that_because_we_ve_already_paid_the_dj.mp3"
+      },
+      {
+        "text": "Now, where you sit in the cafeteria is crucial",
+        "character": "",
+        "audioUrl": "audio/mean-girls/101_now_where_you_sit_in_the_cafeteria_is_crucial.mp3"
+      },
+      {
+        "text": "Of course all The Plastics are in the same gym class.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/102_of_course_all_the_plastics_are_in_the_same_gym_class.mp3"
+      },
+      {
+        "text": "Of course I'm not gonna make fun of her.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/103_of_course_i_m_not_gonna_make_fun_of_her.mp3"
+      },
+      {
+        "text": "Oh, my God, I love this song!",
+        "character": "",
+        "audioUrl": "audio/mean-girls/104_oh_my_god_i_love_this_song.mp3"
+      },
+      {
+        "text": "Oh, my God! I love your skirt.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/105_oh_my_god_i_love_your_skirt.mp3"
+      },
+      {
+        "text": "Oh, my God. Pretend you didn't hear that.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/106_oh_my_god_pretend_you_didn_t_hear_that.mp3"
+      },
+      {
+        "text": "Oh, no. It was coming up again. Word vomit. No, wait a minute...",
+        "character": "",
+        "audioUrl": "audio/mean-girls/107_oh_no_it_was_coming_up_again_word_vomit_no_wait_a_minute.mp3"
+      },
+      {
+        "text": "OK, it must be marked wrong.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/109_ok_it_must_be_marked_wrong.mp3"
+      },
+      {
+        "text": "OK, so I got enough cheese and crackers for eight people.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/110_ok_so_i_got_enough_cheese_and_crackers_for_eight_people.mp3"
+      },
+      {
+        "text": "Regina wanted me to tell you that she was trying to hook you up with Aaron,",
+        "character": "",
+        "audioUrl": "audio/mean-girls/115_regina_wanted_me_to_tell_you_that_she_was_trying_to_hook_you.mp3"
+      },
+      {
+        "text": "Regina's spine healed, and her physical therapist",
+        "character": "",
+        "audioUrl": "audio/mean-girls/117_regina_s_spine_healed_and_her_physical_therapist.mp3"
+      },
+      {
+        "text": "Same with Gretchen. The meaner Regina was to her,",
+        "character": "",
+        "audioUrl": "audio/mean-girls/118_same_with_gretchen_the_meaner_regina_was_to_her.mp3"
+      },
+      {
+        "text": "Secret? What are you saying about?",
+        "character": "",
+        "audioUrl": "audio/mean-girls/119_secret_what_are_you_saying_about.mp3"
+      },
+      {
+        "text": "She always looks fierce. She always wins Spring Fling Queen.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/120_she_always_looks_fierce_she_always_wins_spring_fling_queen.mp3"
+      },
+      {
+        "text": "She's not even that good looking if you really look at her.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/123_she_s_not_even_that_good_looking_if_you_really_look_at_her.mp3"
+      },
+      {
+        "text": "Shut up. I need to talk to you.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/124_shut_up_i_need_to_talk_to_you.mp3"
+      },
+      {
+        "text": "Snowing and blowing Up bustels of fun",
+        "character": "",
+        "audioUrl": "audio/mean-girls/125_snowing_and_blowing_up_bustels_of_fun.mp3"
+      },
+      {
+        "text": "So this is, like, a really huge deal.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/127_so_this_is_like_a_really_huge_deal.mp3"
+      },
+      {
+        "text": "So when are you gonna see Regina again?",
+        "character": "",
+        "audioUrl": "audio/mean-girls/128_so_when_are_you_gonna_see_regina_again.mp3"
+      },
+      {
+        "text": "So you can go shave your back now.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/129_so_you_can_go_shave_your_back_now.mp3"
+      },
+      {
+        "text": "Taught her to channel all her rage into sports",
+        "character": "",
+        "audioUrl": "audio/mean-girls/130_taught_her_to_channel_all_her_rage_into_sports.mp3"
+      },
+      {
+        "text": "Thanks. I feel like I'm getting through.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/135_thanks_i_feel_like_i_m_getting_through.mp3"
+      },
+      {
+        "text": "That was when there were three of us, and now the tallest go in the middle.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/137_that_was_when_there_were_three_of_us_and_now_the_tallest_go.mp3"
+      },
+      {
+        "text": "The greatest people you will ever meet",
+        "character": "",
+        "audioUrl": "audio/mean-girls/140_the_greatest_people_you_will_ever_meet.mp3"
+      },
+      {
+        "text": "The hard core girls just wear lingerie",
+        "character": "",
+        "audioUrl": "audio/mean-girls/141_the_hard_core_girls_just_wear_lingerie.mp3"
+      },
+      {
+        "text": "There's only three girls in the whole school who aren't in it.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/144_there_s_only_three_girls_in_the_whole_school_who_aren_t_in_i.mp3"
+      },
+      {
+        "text": "They wanted me to get socialized",
+        "character": "",
+        "audioUrl": "audio/mean-girls/145_they_wanted_me_to_get_socialized.mp3"
+      },
+      {
+        "text": "They went out for a year.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/146_they_went_out_for_a_year.mp3"
+      },
+      {
+        "text": "To the Walker Brothers Pancake House,",
+        "character": "",
+        "audioUrl": "audio/mean-girls/148_to_the_walker_brothers_pancake_house.mp3"
+      },
+      {
+        "text": "Wait. I have this really good skin stuff I'll bring you.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/149_wait_i_have_this_really_good_skin_stuff_i_ll_bring_you.mp3"
+      },
+      {
+        "text": "We have to talk to you.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/151_we_have_to_talk_to_you.mp3"
+      },
+      {
+        "text": "We kept our eyes open for opportunities for sabotage.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/152_we_kept_our_eyes_open_for_opportunities_for_sabotage.mp3"
+      },
+      {
+        "text": "We wanna invite you to have lunch with us",
+        "character": "",
+        "audioUrl": "audio/mean-girls/153_we_wanna_invite_you_to_have_lunch_with_us.mp3"
+      },
+      {
+        "text": "We were best friends in middle school.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/154_we_were_best_friends_in_middle_school.mp3"
+      },
+      {
+        "text": "We're gonna look so kick ass in these when we roll into Spring Fling.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/155_we_re_gonna_look_so_kick_ass_in_these_when_we_roll_into_spri.mp3"
+      },
+      {
+        "text": "Well, be careful because she has a huge crush on you.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/156_well_be_careful_because_she_has_a_huge_crush_on_you.mp3"
+      },
+      {
+        "text": "Well, maybe we just won't tell her",
+        "character": "",
+        "audioUrl": "audio/mean-girls/157_well_maybe_we_just_won_t_tell_her.mp3"
+      },
+      {
+        "text": "Well, there must be something you're good at.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/158_well_there_must_be_something_you_re_good_at.mp3"
+      },
+      {
+        "text": "What are you...? Hold on. Other line.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/159_what_are_you_hold_on_other_line.mp3"
+      },
+      {
+        "text": "What has everybody been up to?",
+        "character": "",
+        "audioUrl": "audio/mean-girls/160_what_has_everybody_been_up_to.mp3"
+      },
+      {
+        "text": "What was on the board behind Aaron's head?",
+        "character": "",
+        "audioUrl": "audio/mean-girls/161_what_was_on_the_board_behind_aaron_s_head.mp3"
+      },
+      {
+        "text": "Whoever wrote it probably didn't think anyone would ever see it?",
+        "character": "",
+        "audioUrl": "audio/mean-girls/164_whoever_wrote_it_probably_didn_t_think_anyone_would_ever_see.mp3"
+      },
+      {
+        "text": "Yeah, everyone in Africa can read Swedish.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/165_yeah_everyone_in_africa_can_read_swedish.mp3"
+      },
+      {
+        "text": "Yeah, it was pretty bitchy, but I'm not mad.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/167_yeah_it_was_pretty_bitchy_but_i_m_not_mad.mp3"
+      },
+      {
+        "text": "You cannot do that. That is social suicide.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/171_you_cannot_do_that_that_is_social_suicide.mp3"
+      },
+      {
+        "text": "You never made up a rumor about anybody?",
+        "character": "",
+        "audioUrl": "audio/mean-girls/173_you_never_made_up_a_rumor_about_anybody.mp3"
+      },
+      {
+        "text": "You're still an excellent student, right?",
+        "character": "",
+        "audioUrl": "audio/mean-girls/176_you_re_still_an_excellent_student_right.mp3"
+      },
+      {
+        "text": "Don't read ahead! No green pen!",
+        "character": "",
+        "audioUrl": "audio/mean-girls/178_don_t_read_ahead_no_green_pen.mp3"
+      },
+      {
+        "text": "Everybody done? No. Mom, I didn't do it.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/179_everybody_done_no_mom_i_didn_t_do_it.mp3"
+      },
+      {
+        "text": "I'm not taking this anymore. Good for you, Gretch.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/181_i_m_not_taking_this_anymore_good_for_you_gretch.mp3"
+      },
+      {
+        "text": "No way! Oh, come on. We could publish it,",
+        "character": "",
+        "audioUrl": "audio/mean-girls/183_no_way_oh_come_on_we_could_publish_it.mp3"
+      },
+      {
+        "text": "Nobody understands me. I understand you.",
+        "character": "",
+        "audioUrl": "audio/mean-girls/184_nobody_understands_me_i_understand_you.mp3"
+      },
+      {
+        "text": "Oh, God. You dirty little liar",
+        "character": "",
+        "audioUrl": "audio/mean-girls/185_oh_god_you_dirty_little_liar.mp3"
+      },
+      {
+        "text": "Right. So you have your cousins",
+        "character": "",
+        "audioUrl": "audio/mean-girls/187_right_so_you_have_your_cousins.mp3"
+      },
+      {
+        "text": "So, what are we doing this weekend? Yeah, what are we doing?",
+        "character": "",
+        "audioUrl": "audio/mean-girls/188_so_what_are_we_doing_this_weekend_yeah_what_are_we_doing.mp3"
+      },
+      {
+        "text": "You look awesome! You look awesome!",
+        "character": "",
+        "audioUrl": "audio/mean-girls/193_you_look_awesome_you_look_awesome.mp3"
+      },
+      {
+        "text": "You're not gonna call him, right? Do you think I'm an idiot?",
+        "character": "",
+        "audioUrl": "audio/mean-girls/194_you_re_not_gonna_call_him_right_do_you_think_i_m_an_idiot.mp3"
       }
     ]
   },
