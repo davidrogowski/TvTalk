@@ -6,15 +6,16 @@ A personal soundboard web app. Press a button → random quote from a TV show pl
 
 - ✅ Scaffolded and working
 - ✅ **43 titles — 25 TV shows + 18 movies — ~4,860 quotes total** (~650 MB on disk)
-- ✅ **Deployed live: https://tvtalk.davrogowski.workers.dev** (Cloudflare Workers + Static Assets) — see [[05 - Deployment]]
+- ✅ **Deployed live: https://tvtalk.fun** (Cloudflare Workers + Static Assets; the old `*.workers.dev` URL 301-redirects here) — see [[05 - Deployment]]
 - ✅ Mobile-responsive UI, per-show themes matched to each show's cover art
 - ✅ **Searchable picker** (custom themed combobox with type-to-filter), grouped into **TV Shows / Movies** (`type` field), with three random modes (all / shows / movies)
 - ✅ **Shareable links**: `?show=<id>` (or `random-shows` / `random-movies`) deep-links a selection; read on load, written via `history.replaceState`
+- ✅ **Save/share current clip**: subtle share glyph on the quote display → native iOS share sheet (Web Share API) with a clean `Show - Caption.mp3` filename, `<a download>` fallback on desktop. On-disk filenames untouched (rename happens at share time)
 - ✅ **Captions shown as short 1-5 word labels**, not full quotes — the audio is the payload. See the captioning section in [[03 - Workflow]]
 - Auto-trim for "ding-poisoned" legacy 101soundboards boards, applied **per board** in a merge (see [[04 - Troubleshooting]])
 - Per-show config in `shows.yaml`: `type`, `text_style`, `case_style`, `exclude_prefix`, `board_url_2`, `dedup`, `preserve_transcripts`, `censor_nword`, `min_length`/`max_length` (+`_2`) — see [[03 - Workflow]]
 
-**Open follow-ups**: attach custom domain `tvtalking.com`; wire up auto-deploy on git push (currently manual `wrangler deploy`). Details in [[05 - Deployment]].
+**Open follow-ups**: wire up auto-deploy on git push (currently manual `wrangler deploy`); disable the stray "Latest build failed" git-build trigger in the Cloudflare dashboard. Details in [[05 - Deployment]].
 
 ## Where things live
 
