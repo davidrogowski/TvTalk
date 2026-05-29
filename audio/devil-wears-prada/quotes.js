@@ -21,7 +21,7 @@ const quotes = [
     "audioUrl": "audio/devil-wears-prada/006_check_for_bad_breath.mp3"
   },
   {
-    "text": "Did you fall down and smack your little head on the pavement?",
+    "text": "Smack your little head?",
     "character": "",
     "audioUrl": "audio/devil-wears-prada/007_did_you_fall_down_and_smack_your_little_head_on_the_pavement.mp3"
   },

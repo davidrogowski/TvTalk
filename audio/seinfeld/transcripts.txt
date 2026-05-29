@@ -3,7 +3,7 @@
   CHARACTER: 
 
 002_a_new_holiday_was_born_a_festivus_for_the_rest_of_us.mp3
-  "A new holiday was born! A Festivus for the rest of us"
+  "A Festivus for the rest of us"
   CHARACTER: 
 
 004_and_i_m_assuming_i_need_it_right_away.mp3
@@ -55,7 +55,7 @@
   CHARACTER: 
 
 019_bald_men_with_no_job_and_no_money_do_no_approach_strange_wom.mp3
-  "Bald men with no job and no money do no approach strange woman"
+  "Bald men don't approach strange women"
   CHARACTER: 
 
 022_blow_it_off.mp3
@@ -87,11 +87,11 @@
   CHARACTER: 
 
 031_did_you_steal_my_car_yes_i_did_you_did_i_did_but_that_s_my_c.mp3
-  "Did you steal my car? Yes, I did. You did. I did. But that's my car. I don't know. It's yours."
+  "Did you steal my car?"
   CHARACTER: 
 
 032_didn_t_they_notice_it_no_i_could_they_not_notice_it_because.mp3
-  "Didn't they notice it? No, I could. They not notice it because it's a little mint. It's a junior mint."
+  "It's a Junior Mint"
   CHARACTER: 
 
 033_dinners_movies_talking.mp3
@@ -99,11 +99,11 @@
   CHARACTER: 
 
 034_do_you_ever_get_down_on_one_knee_and_thank_god_for_me.mp3
-  "Do You Ever Get Down On One Knee and Thank God For Me"
+  "Thank God for me"
   CHARACTER: 
 
 035_do_you_know_how_it_s_getting_telling_people_i_even_know_you.mp3
-  "Do you know how it's getting telling people I even know you?"
+  "Embarrassing to know you"
   CHARACTER: 
 
 036_do_you_want_to_have_sex_with_me_right_now.mp3
@@ -175,7 +175,7 @@
   CHARACTER: 
 
 061_goerge_is_getting_upset.mp3
-  "Goerge is Getting Upset"
+  "George is getting upset"
   CHARACTER: 
 
 062_good_let_s_keep_it_that_way.mp3
@@ -235,7 +235,7 @@
   CHARACTER: 
 
 084_how_do_you_cross_those_wires_i_didn_t_cross_any_wires_the_ke.mp3
-  "How do you cross those wires? I didn't cross any wires. The keys were in it. Sid left the keys in the car. All right. I got to go. Drive carefully."
+  "The keys were in it"
   CHARACTER: 
 
 086_how_you_doin_over_there.mp3
@@ -267,7 +267,7 @@
   CHARACTER: 
 
 093_i_don_t_understand_how_do_these_thieves_start_the_car_do_the.mp3
-  "I don't understand how do these thieves start the car? Do they cross the wires or something crossed the wires? I can't even make a pot of spaghetti."
+  "I can't even make spaghetti"
   CHARACTER: 
 
 094_i_don_t_wanna_be_remembered_i_wanna_be_forgotten.mp3
@@ -283,7 +283,7 @@
   CHARACTER: 
 
 097_i_got_a_lot_of_problems_with_you_people_now_you_re_gonna_hea.mp3
-  "I got a lot of problems with you people, now you're gonna hear about it"
+  "I got a lot of problems with you people"
   CHARACTER: 
 
 098_i_got_it.mp3
@@ -311,7 +311,7 @@
   CHARACTER: 
 
 104_i_hate_you_hate_him_i_despise_him_why_i_ll_tell_you_why_let.mp3
-  "I hate you hate him. I despise him. Why? I'll tell you why, let me tell. No, you can't tell. You always tell it. Alright, tell you. Just tell it."
+  "I despise him"
   CHARACTER: 
 
 105_i_intend_to_undertake_this.mp3
@@ -331,11 +331,11 @@
   CHARACTER: 
 
 109_i_never_know_what_to_say_to_her_about_it_is_one_of_those_pro.mp3
-  "I never know what to say to her about. It is one of those problems I hope would just go away. Well, sometimes you can't help these people till they hit rock bottom, and by then you've lost interest."
+  "They hit rock bottom"
   CHARACTER: 
 
 110_i_pinch_yourself_because_you_have_to_do_this_all_day_for_ver.mp3
-  "I pinch yourself because you have to do this all day for very little money. Hey, what's he doing? I think he's stealing our rickshaw."
+  "He's stealing our rickshaw"
   CHARACTER: 
 
 111_i_realized_there_had_to_be_another_way.mp3
@@ -391,7 +391,7 @@
   CHARACTER: 
 
 124_i_m_distrubed_i_m_depressed.mp3
-  "I'm Distrubed, I'm Depressed"
+  "I'm disturbed, I'm depressed"
   CHARACTER: 
 
 125_i_m_gonna_have_to_keep_my_eye_on_that.mp3
@@ -451,7 +451,7 @@
   CHARACTER: 
 
 140_i_ve_driven_women_to_lesbianism_before_but_never_a_mental_in.mp3
-  "I've driven women to lesbianism before but never a mental institute"
+  "Driven women to lesbianism"
   CHARACTER: 
 
 141_if_a_doctor_can_do_it_why_can_t_we.mp3
@@ -475,11 +475,11 @@
   CHARACTER: 
 
 147_it_s_a_perfect_plan_so_inspired_so_devious_yet_so_simple_thi.mp3
-  "It's a perfect plan. So inspired, so devious, yet so simple. This is what I do."
+  "It's a perfect plan"
   CHARACTER: 
 
 148_it_s_an_eyelash_make_a_wish_i_don_t_want_to_make_a_wish_didn.mp3
-  "It's an eyelash. Make a wish. I don't want to make a wish. Didn't come true."
+  "Make a wish"
   CHARACTER: 
 
 150_it_s_not_a_lie_if_you_believe_it.mp3
@@ -503,7 +503,7 @@
   CHARACTER: 
 
 155_it_s_true_you_can_t_do_the_switch_nobody_can_do_the_switch_i.mp3
-  "It's true, you can't do the switch. Nobody can do the switch. It's a stupid idea to begin with."
+  "You can't do the switch"
   CHARACTER: 
 
 156_its_like_a_sauna_in_here.mp3
@@ -511,7 +511,7 @@
   CHARACTER: 
 
 158_jerry_it_s_bo_but_the_whole_car_smells_so_someone_somebody_h.mp3
-  "Jerry, it's Bo. But the whole car smells. So someone somebody has Bo, they all usually stays with the B. Once the B leaves, the O goes with it."
+  "It's the BO"
   CHARACTER: 
 
 163_kramer_drinks_beer_and_smokes_cigarette.mp3
@@ -519,7 +519,7 @@
   CHARACTER: 
 
 176_kramer_he_s_just_a_dentist_yeah_and_you_re_an_anti_dentite_i.mp3
-  "Kramer. He's just a dentist. Yeah, and you're an anti dentite. I am not an anti dentite. You're our Robin anti dentite."
+  "You're an anti-dentite"
   CHARACTER: 
 
 179_let_s_have_a_looksy.mp3
@@ -547,7 +547,7 @@
   CHARACTER: 
 
 187_looking_at_cleavage_is_like_looking_at_the_sun_you_don_t_sta.mp3
-  "Looking at cleavage is like looking at the sun, you don't stare at it"
+  "Cleavage is like the sun"
   CHARACTER: 
 
 188_lord_of_the_idiots.mp3
@@ -571,7 +571,7 @@
   CHARACTER: 
 
 193_my_life_is_the_complete_opposite_of_everything_i_want_it_to.mp3
-  "My life is the complete opposite of everything I want it to be"
+  "My life is the opposite"
   CHARACTER: 
 
 194_my_mother_always_said_i_m_not_special.mp3
@@ -611,7 +611,7 @@
   CHARACTER: 
 
 205_no_no_see_that_s_no_good_see_you_don_t_know_how_to_act.mp3
-  "No, no, see, that's no good. See, you don't know how to act."
+  "You don't know how to act"
   CHARACTER: 
 
 206_nobody_came_up_i_hang_up.mp3
@@ -631,11 +631,11 @@
   CHARACTER: 
 
 211_now_as_festivus_rolls_on_we_come_to_the_feats_of_strength.mp3
-  "Now as Festivus rolls on, we come to the Feats of Strength"
+  "The Feats of Strength"
   CHARACTER: 
 
 212_now_why_don_t_you_give_me_your_home_number_and_i_ll_call_you.mp3
-  "Now, why don't you give me your home number and I'll call you later. I'm sorry, we're not allowed to do that. I guess you don't want people calling you at home. Well, now you know how I feel."
+  "Now you know how I feel"
   CHARACTER: 
 
 214_oh_i_m_stressed.mp3
@@ -671,7 +671,7 @@
   CHARACTER: 
 
 255_serenity_now_cantsantya.mp3
-  "Serenity Now! Cantsantya"
+  "Serenity now!"
   CHARACTER: 
 
 256_shut_up_shut_up.mp3
@@ -787,11 +787,11 @@
   CHARACTER: 
 
 291_these_pretzels_i_m_making_me_thirsty.mp3
-  "These pretzels. I'm making me thirsty."
+  "These pretzels are making me thirsty"
   CHARACTER: 
 
 292_these_pretzels_i_m_making_me_thirsty.mp3
-  "These pretzels. I'm making me thirsty."
+  "These pretzels are making me thirsty"
   CHARACTER: 
 
 293_they_re_real_and_they_re_spectacular.mp3
@@ -827,7 +827,7 @@
   CHARACTER: 
 
 302_unfortunately_we_ran_out_of_cars_but_the_reservation_keeps_t.mp3
-  "Unfortunately, we ran out of cars, but the reservation keeps the car here. That's why you have the reservations. I know why we have reservations. I don't think you do."
+  "We ran out of cars"
   CHARACTER: 
 
 303_uno_momento_por_favor.mp3
@@ -851,7 +851,7 @@
   CHARACTER: 
 
 309_we_are_living_in_a_society_act_in_a_civilized_way.mp3
-  "We are living in a society act in a civilized way!"
+  "We're living in a society!"
   CHARACTER: 
 
 310_we_want_you_to_get_well.mp3
@@ -895,7 +895,7 @@
   CHARACTER: 
 
 321_would_it_kill_you_not_to_be_so_funny_all_the_time.mp3
-  "Would it kill you not to be so funny all the time?"
+  "Would it kill you not to be funny?"
   CHARACTER: 
 
 322_would_it_kill_you_to_not_be_funny.mp3
@@ -911,7 +911,7 @@
   CHARACTER: 
 
 325_wow_that_was_fast_what_was_that_woman_across_the_street_you.mp3
-  "Wow, that was fast. What was that woman across the street? You know, you better be careful about it. She's gonna get you next."
+  "She's gonna get you next"
   CHARACTER: 
 
 326_yada_yada_yada.mp3
@@ -927,7 +927,7 @@
   CHARACTER: 
 
 330_yeah_well_he_s_in_perfect_health_he_works_out_he_s_vibrant_h.mp3
-  "Yeah, well, he's in perfect health. He works out. He's vibrant. He'd really like him. Why do people always say that? I hate everybody. Why would I like him?"
+  "I hate everybody"
   CHARACTER: 
 
 332_you_anti_dentite_bastard.mp3
@@ -939,7 +939,7 @@
   CHARACTER: 
 
 334_you_dip_the_chip_you_took_a_bite_and_you_dipped_again.mp3
-  "You dip the chip. You took a bite. And you dipped again."
+  "You double-dipped the chip"
   CHARACTER: 
 
 335_you_don_t_ask_you_tell.mp3
@@ -963,7 +963,7 @@
   CHARACTER: 
 
 340_you_think_that_dentists_are_so_different_from_me_and_you_the.mp3
-  "You think that dentists are so different from me and you? They came to this country just like everybody else in search of a tree. Well, he's from Jersey, yes, and now he's a full-fledged American."
+  "Dentists came here just like everybody"
   CHARACTER: 
 
 341_you_wanna_piece_of_me.mp3

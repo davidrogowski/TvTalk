@@ -43,7 +43,7 @@
   CHARACTER: 
 
 012_here_s_a_little_song_for_you.mp3
-  "Here's a little song for you.."
+  "Here's a little song for you"
   CHARACTER: 
 
 013_hug_me_brotha.mp3
@@ -75,7 +75,7 @@
   CHARACTER: 
 
 020_josh_laughing_from_outside_of_the_cell.mp3
-  "Josh laughing from outside of the cell"
+  "Josh laughing outside the cell"
   CHARACTER: 
 
 021_josh_peck_evil.mp3
@@ -131,5 +131,5 @@
   CHARACTER: 
 
 034_you_mucker_drake_and_josh_sound_effect.mp3
-  "You Mucker Drake And Josh Sound Effect"
+  "You mucker"
   CHARACTER: 

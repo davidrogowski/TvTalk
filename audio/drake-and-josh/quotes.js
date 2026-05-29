@@ -56,7 +56,7 @@ const quotes = [
     "audioUrl": "audio/drake-and-josh/011_happy_birthday_brother.mp3"
   },
   {
-    "text": "Here's a little song for you..",
+    "text": "Here's a little song for you",
     "character": "",
     "audioUrl": "audio/drake-and-josh/012_here_s_a_little_song_for_you.mp3"
   },
@@ -96,7 +96,7 @@ const quotes = [
     "audioUrl": "audio/drake-and-josh/019_josh_gets_a_wedgie.mp3"
   },
   {
-    "text": "Josh laughing from outside of the cell",
+    "text": "Josh laughing outside the cell",
     "character": "",
     "audioUrl": "audio/drake-and-josh/020_josh_laughing_from_outside_of_the_cell.mp3"
   },
@@ -166,7 +166,7 @@ const quotes = [
     "audioUrl": "audio/drake-and-josh/033_you_calling_me_a_liar.mp3"
   },
   {
-    "text": "You Mucker Drake And Josh Sound Effect",
+    "text": "You mucker",
     "character": "",
     "audioUrl": "audio/drake-and-josh/034_you_mucker_drake_and_josh_sound_effect.mp3"
   }

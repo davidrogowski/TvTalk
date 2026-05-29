@@ -6,7 +6,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/001_a_jesus_fish.mp3"
   },
   {
-    "text": "A new holiday was born! A Festivus for the rest of us",
+    "text": "A Festivus for the rest of us",
     "character": "",
     "audioUrl": "audio/seinfeld/002_a_new_holiday_was_born_a_festivus_for_the_rest_of_us.mp3"
   },
@@ -71,7 +71,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/018_back_it_up.mp3"
   },
   {
-    "text": "Bald men with no job and no money do no approach strange woman",
+    "text": "Bald men don't approach strange women",
     "character": "",
     "audioUrl": "audio/seinfeld/019_bald_men_with_no_job_and_no_money_do_no_approach_strange_wom.mp3"
   },
@@ -111,12 +111,12 @@ const quotes = [
     "audioUrl": "audio/seinfeld/029_del_boca_vista.mp3"
   },
   {
-    "text": "Did you steal my car? Yes, I did. You did. I did. But that's my car. I don't know. It's yours.",
+    "text": "Did you steal my car?",
     "character": "",
     "audioUrl": "audio/seinfeld/031_did_you_steal_my_car_yes_i_did_you_did_i_did_but_that_s_my_c.mp3"
   },
   {
-    "text": "Didn't they notice it? No, I could. They not notice it because it's a little mint. It's a junior mint.",
+    "text": "It's a Junior Mint",
     "character": "",
     "audioUrl": "audio/seinfeld/032_didn_t_they_notice_it_no_i_could_they_not_notice_it_because.mp3"
   },
@@ -126,12 +126,12 @@ const quotes = [
     "audioUrl": "audio/seinfeld/033_dinners_movies_talking.mp3"
   },
   {
-    "text": "Do You Ever Get Down On One Knee and Thank God For Me",
+    "text": "Thank God for me",
     "character": "",
     "audioUrl": "audio/seinfeld/034_do_you_ever_get_down_on_one_knee_and_thank_god_for_me.mp3"
   },
   {
-    "text": "Do you know how it's getting telling people I even know you?",
+    "text": "Embarrassing to know you",
     "character": "",
     "audioUrl": "audio/seinfeld/035_do_you_know_how_it_s_getting_telling_people_i_even_know_you.mp3"
   },
@@ -221,7 +221,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/060_give_me_a_big_smile.mp3"
   },
   {
-    "text": "Goerge is Getting Upset",
+    "text": "George is getting upset",
     "character": "",
     "audioUrl": "audio/seinfeld/061_goerge_is_getting_upset.mp3"
   },
@@ -296,7 +296,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/083_how_did_i_not_think_of_this_earlier.mp3"
   },
   {
-    "text": "How do you cross those wires? I didn't cross any wires. The keys were in it. Sid left the keys in the car. All right. I got to go. Drive carefully.",
+    "text": "The keys were in it",
     "character": "",
     "audioUrl": "audio/seinfeld/084_how_do_you_cross_those_wires_i_didn_t_cross_any_wires_the_ke.mp3"
   },
@@ -336,7 +336,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/092_i_don_t_even_really_work_here.mp3"
   },
   {
-    "text": "I don't understand how do these thieves start the car? Do they cross the wires or something crossed the wires? I can't even make a pot of spaghetti.",
+    "text": "I can't even make spaghetti",
     "character": "",
     "audioUrl": "audio/seinfeld/093_i_don_t_understand_how_do_these_thieves_start_the_car_do_the.mp3"
   },
@@ -356,7 +356,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/096_i_find_your_belief_system_fascinating.mp3"
   },
   {
-    "text": "I got a lot of problems with you people, now you're gonna hear about it",
+    "text": "I got a lot of problems with you people",
     "character": "",
     "audioUrl": "audio/seinfeld/097_i_got_a_lot_of_problems_with_you_people_now_you_re_gonna_hea.mp3"
   },
@@ -391,7 +391,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/103_i_hate_him.mp3"
   },
   {
-    "text": "I hate you hate him. I despise him. Why? I'll tell you why, let me tell. No, you can't tell. You always tell it. Alright, tell you. Just tell it.",
+    "text": "I despise him",
     "character": "",
     "audioUrl": "audio/seinfeld/104_i_hate_you_hate_him_i_despise_him_why_i_ll_tell_you_why_let.mp3"
   },
@@ -416,12 +416,12 @@ const quotes = [
     "audioUrl": "audio/seinfeld/108_i_loathe_you.mp3"
   },
   {
-    "text": "I never know what to say to her about. It is one of those problems I hope would just go away. Well, sometimes you can't help these people till they hit rock bottom, and by then you've lost interest.",
+    "text": "They hit rock bottom",
     "character": "",
     "audioUrl": "audio/seinfeld/109_i_never_know_what_to_say_to_her_about_it_is_one_of_those_pro.mp3"
   },
   {
-    "text": "I pinch yourself because you have to do this all day for very little money. Hey, what's he doing? I think he's stealing our rickshaw.",
+    "text": "He's stealing our rickshaw",
     "character": "",
     "audioUrl": "audio/seinfeld/110_i_pinch_yourself_because_you_have_to_do_this_all_day_for_ver.mp3"
   },
@@ -491,7 +491,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/123_i_m_back_baby_i_m_back.mp3"
   },
   {
-    "text": "I'm Distrubed, I'm Depressed",
+    "text": "I'm disturbed, I'm depressed",
     "character": "",
     "audioUrl": "audio/seinfeld/124_i_m_distrubed_i_m_depressed.mp3"
   },
@@ -566,7 +566,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/139_i_m_unemployed_and_i_live_with_my_parents.mp3"
   },
   {
-    "text": "I've driven women to lesbianism before but never a mental institute",
+    "text": "Driven women to lesbianism",
     "character": "",
     "audioUrl": "audio/seinfeld/140_i_ve_driven_women_to_lesbianism_before_but_never_a_mental_in.mp3"
   },
@@ -596,12 +596,12 @@ const quotes = [
     "audioUrl": "audio/seinfeld/146_it_s_a_festivus_miracle.mp3"
   },
   {
-    "text": "It's a perfect plan. So inspired, so devious, yet so simple. This is what I do.",
+    "text": "It's a perfect plan",
     "character": "",
     "audioUrl": "audio/seinfeld/147_it_s_a_perfect_plan_so_inspired_so_devious_yet_so_simple_thi.mp3"
   },
   {
-    "text": "It's an eyelash. Make a wish. I don't want to make a wish. Didn't come true.",
+    "text": "Make a wish",
     "character": "",
     "audioUrl": "audio/seinfeld/148_it_s_an_eyelash_make_a_wish_i_don_t_want_to_make_a_wish_didn.mp3"
   },
@@ -631,7 +631,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/154_it_s_not_you_it_s_me.mp3"
   },
   {
-    "text": "It's true, you can't do the switch. Nobody can do the switch. It's a stupid idea to begin with.",
+    "text": "You can't do the switch",
     "character": "",
     "audioUrl": "audio/seinfeld/155_it_s_true_you_can_t_do_the_switch_nobody_can_do_the_switch_i.mp3"
   },
@@ -641,7 +641,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/156_its_like_a_sauna_in_here.mp3"
   },
   {
-    "text": "Jerry, it's Bo. But the whole car smells. So someone somebody has Bo, they all usually stays with the B. Once the B leaves, the O goes with it.",
+    "text": "It's the BO",
     "character": "",
     "audioUrl": "audio/seinfeld/158_jerry_it_s_bo_but_the_whole_car_smells_so_someone_somebody_h.mp3"
   },
@@ -651,7 +651,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/163_kramer_drinks_beer_and_smokes_cigarette.mp3"
   },
   {
-    "text": "Kramer. He's just a dentist. Yeah, and you're an anti dentite. I am not an anti dentite. You're our Robin anti dentite.",
+    "text": "You're an anti-dentite",
     "character": "",
     "audioUrl": "audio/seinfeld/176_kramer_he_s_just_a_dentist_yeah_and_you_re_an_anti_dentite_i.mp3"
   },
@@ -686,7 +686,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/185_look_away_i_m_hideous.mp3"
   },
   {
-    "text": "Looking at cleavage is like looking at the sun, you don't stare at it",
+    "text": "Cleavage is like the sun",
     "character": "",
     "audioUrl": "audio/seinfeld/187_looking_at_cleavage_is_like_looking_at_the_sun_you_don_t_sta.mp3"
   },
@@ -716,7 +716,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/192_my_ex_came_over_yada_yada_yada.mp3"
   },
   {
-    "text": "My life is the complete opposite of everything I want it to be",
+    "text": "My life is the opposite",
     "character": "",
     "audioUrl": "audio/seinfeld/193_my_life_is_the_complete_opposite_of_everything_i_want_it_to.mp3"
   },
@@ -766,7 +766,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/204_no_no_i_m_working_on_it.mp3"
   },
   {
-    "text": "No, no, see, that's no good. See, you don't know how to act.",
+    "text": "You don't know how to act",
     "character": "",
     "audioUrl": "audio/seinfeld/205_no_no_see_that_s_no_good_see_you_don_t_know_how_to_act.mp3"
   },
@@ -791,12 +791,12 @@ const quotes = [
     "audioUrl": "audio/seinfeld/209_not_to_run.mp3"
   },
   {
-    "text": "Now as Festivus rolls on, we come to the Feats of Strength",
+    "text": "The Feats of Strength",
     "character": "",
     "audioUrl": "audio/seinfeld/211_now_as_festivus_rolls_on_we_come_to_the_feats_of_strength.mp3"
   },
   {
-    "text": "Now, why don't you give me your home number and I'll call you later. I'm sorry, we're not allowed to do that. I guess you don't want people calling you at home. Well, now you know how I feel.",
+    "text": "Now you know how I feel",
     "character": "",
     "audioUrl": "audio/seinfeld/212_now_why_don_t_you_give_me_your_home_number_and_i_ll_call_you.mp3"
   },
@@ -841,7 +841,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/252_serenity_now_insanity_later.mp3"
   },
   {
-    "text": "Serenity Now! Cantsantya",
+    "text": "Serenity now!",
     "character": "",
     "audioUrl": "audio/seinfeld/255_serenity_now_cantsantya.mp3"
   },
@@ -986,12 +986,12 @@ const quotes = [
     "audioUrl": "audio/seinfeld/290_these_pretzels_are_making_me_thirsty.mp3"
   },
   {
-    "text": "These pretzels. I'm making me thirsty.",
+    "text": "These pretzels are making me thirsty",
     "character": "",
     "audioUrl": "audio/seinfeld/291_these_pretzels_i_m_making_me_thirsty.mp3"
   },
   {
-    "text": "These pretzels. I'm making me thirsty.",
+    "text": "These pretzels are making me thirsty",
     "character": "",
     "audioUrl": "audio/seinfeld/292_these_pretzels_i_m_making_me_thirsty.mp3"
   },
@@ -1036,7 +1036,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/301_unfortunately_the_immutable_laws_of_physics.mp3"
   },
   {
-    "text": "Unfortunately, we ran out of cars, but the reservation keeps the car here. That's why you have the reservations. I know why we have reservations. I don't think you do.",
+    "text": "We ran out of cars",
     "character": "",
     "audioUrl": "audio/seinfeld/302_unfortunately_we_ran_out_of_cars_but_the_reservation_keeps_t.mp3"
   },
@@ -1066,7 +1066,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/308_we_are_in_a_society.mp3"
   },
   {
-    "text": "We are living in a society act in a civilized way!",
+    "text": "We're living in a society!",
     "character": "",
     "audioUrl": "audio/seinfeld/309_we_are_living_in_a_society_act_in_a_civilized_way.mp3"
   },
@@ -1121,7 +1121,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/319_who_could_love_me.mp3"
   },
   {
-    "text": "Would it kill you not to be so funny all the time?",
+    "text": "Would it kill you not to be funny?",
     "character": "",
     "audioUrl": "audio/seinfeld/321_would_it_kill_you_not_to_be_so_funny_all_the_time.mp3"
   },
@@ -1141,7 +1141,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/324_wow_that_was_fast.mp3"
   },
   {
-    "text": "Wow, that was fast. What was that woman across the street? You know, you better be careful about it. She's gonna get you next.",
+    "text": "She's gonna get you next",
     "character": "",
     "audioUrl": "audio/seinfeld/325_wow_that_was_fast_what_was_that_woman_across_the_street_you.mp3"
   },
@@ -1161,7 +1161,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/328_yadda_yadda_yadda_i_m_really_tired_today.mp3"
   },
   {
-    "text": "Yeah, well, he's in perfect health. He works out. He's vibrant. He'd really like him. Why do people always say that? I hate everybody. Why would I like him?",
+    "text": "I hate everybody",
     "character": "",
     "audioUrl": "audio/seinfeld/330_yeah_well_he_s_in_perfect_health_he_works_out_he_s_vibrant_h.mp3"
   },
@@ -1176,7 +1176,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/333_you_are_nothing_but_a_piece_of_crap.mp3"
   },
   {
-    "text": "You dip the chip. You took a bite. And you dipped again.",
+    "text": "You double-dipped the chip",
     "character": "",
     "audioUrl": "audio/seinfeld/334_you_dip_the_chip_you_took_a_bite_and_you_dipped_again.mp3"
   },
@@ -1206,7 +1206,7 @@ const quotes = [
     "audioUrl": "audio/seinfeld/339_you_just_blew_my_mind.mp3"
   },
   {
-    "text": "You think that dentists are so different from me and you? They came to this country just like everybody else in search of a tree. Well, he's from Jersey, yes, and now he's a full-fledged American.",
+    "text": "Dentists came here just like everybody",
     "character": "",
     "audioUrl": "audio/seinfeld/340_you_think_that_dentists_are_so_different_from_me_and_you_the.mp3"
   },

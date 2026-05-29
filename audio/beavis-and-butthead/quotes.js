@@ -6,27 +6,27 @@ const quotes = [
     "audioUrl": "audio/beavis-and-butthead/003_are_we_gonna_do_it.mp3"
   },
   {
-    "text": "Can you take us to Washington",
+    "text": "Take us to Washington",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/014_can_you_take_us_to_washington.mp3"
   },
   {
-    "text": "Coperate with my bumhole pt1",
+    "text": "Cooperate with my bumhole",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/019_coperate_with_my_bumhole_pt1.mp3"
   },
   {
-    "text": "Coperate with my bumhole pt2",
+    "text": "Cooperate with my bumhole",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/020_coperate_with_my_bumhole_pt2.mp3"
   },
   {
-    "text": "Could you like see her boobs",
+    "text": "Could you see her boobs",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/021_could_you_like_see_her_boobs.mp3"
   },
   {
-    "text": "Could you make an announcment",
+    "text": "Make an announcement",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/022_could_you_make_an_announcment.mp3"
   },
@@ -36,37 +36,37 @@ const quotes = [
     "audioUrl": "audio/beavis-and-butthead/023_could_you_not_stand_there.mp3"
   },
   {
-    "text": "Dammit we were supposed to get some",
+    "text": "We were supposed to get some",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/025_dammit_we_were_supposed_to_get_some.mp3"
   },
   {
-    "text": "Do these 2 sluts live in highland",
+    "text": "Do these sluts live in Highland",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/028_do_these_2_sluts_live_in_highland.mp3"
   },
   {
-    "text": "Do they have a lot of sluts in",
+    "text": "Lot of sluts",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/029_do_they_have_a_lot_of_sluts_in.mp3"
   },
   {
-    "text": "Do you know where Washington is?",
+    "text": "Where Washington is",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/030_do_you_know_where_washington_is.mp3"
   },
   {
-    "text": "Does she have big hooters",
+    "text": "Big hooters",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/031_does_she_have_big_hooters.mp3"
   },
   {
-    "text": "Does that mean we're gonna get money",
+    "text": "We're gonna get money",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/032_does_that_mean_we_re_gonna_get_money.mp3"
   },
   {
-    "text": "Err can we watch some tv first",
+    "text": "Watch some TV first",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/035_err_can_we_watch_some_tv_first.mp3"
   },
@@ -76,17 +76,17 @@ const quotes = [
     "audioUrl": "audio/beavis-and-butthead/039_greatest_day_of_our_lives.mp3"
   },
   {
-    "text": "I can't sleep without a tv",
+    "text": "Can't sleep without a TV",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/046_i_can_t_sleep_without_a_tv.mp3"
   },
   {
-    "text": "I don't know - butthead",
+    "text": "I don't know, Butt-head",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/048_i_don_t_know_butthead.mp3"
   },
   {
-    "text": "I don't wanna go to school",
+    "text": "Don't wanna go to school",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/049_i_don_t_wanna_go_to_school.mp3"
   },
@@ -96,7 +96,7 @@ const quotes = [
     "audioUrl": "audio/beavis-and-butthead/052_i_just_figured_something_out.mp3"
   },
   {
-    "text": "I want you to hit yourself",
+    "text": "Hit yourself",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/055_i_want_you_to_hit_yourself.mp3"
   },
@@ -106,17 +106,17 @@ const quotes = [
     "audioUrl": "audio/beavis-and-butthead/056_i_was_about_to_score.mp3"
   },
   {
-    "text": "Is that gonna be enough time",
+    "text": "Enough time",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/058_is_that_gonna_be_enough_time.mp3"
   },
   {
-    "text": "It's that slut from the plane",
+    "text": "That slut from the plane",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/059_it_s_that_slut_from_the_plane.mp3"
   },
   {
-    "text": "Looking for the chick with big boobs",
+    "text": "The chick with big boobs",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/062_looking_for_the_chick_with_big_boobs.mp3"
   },
@@ -126,22 +126,22 @@ const quotes = [
     "audioUrl": "audio/beavis-and-butthead/063_my_bumhole_will_not_wait.mp3"
   },
   {
-    "text": "My bunghole will not wait!",
+    "text": "My bunghole will not wait",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/064_my_bunghole_will_not_wait.mp3"
   },
   {
-    "text": "My life is flashing infront of my eyes",
+    "text": "My life is flashing",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/066_my_life_is_flashing_infront_of_my_eyes.mp3"
   },
   {
-    "text": "No I wanna watch tv",
+    "text": "No, I wanna watch TV",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/070_no_i_wanna_watch_tv.mp3"
   },
   {
-    "text": "There's gonna be sluts everywhere, it's gonna rule",
+    "text": "Sluts everywhere, gonna rule",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/087_there_s_gonna_be_sluts_everywhere_it_s_gonna_rule.mp3"
   },
@@ -151,7 +151,7 @@ const quotes = [
     "audioUrl": "audio/beavis-and-butthead/091_this_sucks_more_than_anything.mp3"
   },
   {
-    "text": "We just wanna watch tv",
+    "text": "We just wanna watch TV",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/103_we_just_wanna_watch_tv.mp3"
   },
@@ -161,17 +161,17 @@ const quotes = [
     "audioUrl": "audio/beavis-and-butthead/104_we_must_find_this_butthole.mp3"
   },
   {
-    "text": "We're gonna get paid to score",
+    "text": "Gonna get paid to score",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/108_we_re_gonna_get_paid_to_score.mp3"
   },
   {
-    "text": "We're gonna meet this chick with big hooters",
+    "text": "The chick with big hooters",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/109_we_re_gonna_meet_this_chick_with_big_hooters.mp3"
   },
   {
-    "text": "We're here to look at the tv",
+    "text": "Here to look at the TV",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/110_we_re_here_to_look_at_the_tv.mp3"
   },
@@ -186,7 +186,7 @@ const quotes = [
     "audioUrl": "audio/beavis-and-butthead/117_where_did_those_chicks_go.mp3"
   },
   {
-    "text": "Will there be teepee for my bunghole",
+    "text": "TP for my bunghole",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/121_will_there_be_teepee_for_my_bunghole.mp3"
   },

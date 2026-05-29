@@ -15,7 +15,7 @@
   CHARACTER: 
 
 007_did_you_fall_down_and_smack_your_little_head_on_the_pavement.mp3
-  "Did you fall down and smack your little head on the pavement?"
+  "Smack your little head?"
   CHARACTER: 
 
 008_disappointed_and_stupid.mp3
