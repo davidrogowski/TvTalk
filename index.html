@@ -507,6 +507,40 @@
     return sanitizeFilename(`${showName} - ${text}`) + '.mp3';
   }
 
+  function triggerDownload(url, filename) {
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+  }
+
+  async function saveCurrentQuote() {
+    if (!currentItem || !currentItem.quote.audioUrl) return;
+    const url = currentItem.quote.audioUrl;
+    const filename = buildClipFilename(currentItem.showName, currentItem.quote.text);
+
+    // Primary: native share sheet with the file (works on iOS Safari).
+    try {
+      const resp = await fetch(url);
+      if (resp.ok) {
+        const blob = await resp.blob();
+        const file = new File([blob], filename, { type: 'audio/mpeg' });
+        if (navigator.canShare && navigator.canShare({ files: [file] })) {
+          await navigator.share({ files: [file] });
+          return;
+        }
+      }
+    } catch (err) {
+      if (err && err.name === 'AbortError') return;  // user dismissed the sheet
+      // otherwise fall through to the download fallback
+    }
+
+    // Fallback: anchor download (desktop / no file-share support).
+    triggerDownload(url, filename);
+  }
+
   function showQuote(item) {
     const q = item.quote;
     currentItem = item;
@@ -564,6 +598,11 @@
     });
 
     applySelection(selectionFromUrl());   // pre-select from a shared link
+
+    els.save.addEventListener('click', (e) => {
+      e.preventDefault();          // it's an <a href="#">; never navigate
+      saveCurrentQuote();
+    });
 
     els.btn.addEventListener('click', () => {
       const pool = buildPool();
