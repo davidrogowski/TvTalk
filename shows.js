@@ -18359,21 +18359,6 @@ const shows = [
         "audioUrl": "audio/seinfeld/063_grab_a_broom_sweep_sweep_sweep.mp3"
       },
       {
-        "text": "Greg Seinfeld 1",
-        "character": "",
-        "audioUrl": "audio/seinfeld/064_greg_seinfeld_1.mp3"
-      },
-      {
-        "text": "Greg Seinfeld 2",
-        "character": "",
-        "audioUrl": "audio/seinfeld/065_greg_seinfeld_2.mp3"
-      },
-      {
-        "text": "Greg Seinfeld 3",
-        "character": "",
-        "audioUrl": "audio/seinfeld/066_greg_seinfeld_3.mp3"
-      },
-      {
         "text": "Happy Festivus, Everyone!",
         "character": "",
         "audioUrl": "audio/seinfeld/069_happy_festivus_everyone.mp3"
@@ -19452,11 +19437,6 @@ const shows = [
         "audioUrl": "audio/the-simpsons/015_at_the_risk_of_editorialising_these_women_are_guilty_and_mus.mp3"
       },
       {
-        "text": "Gibberish babble",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/016_awalululul_uwlaulw_wahlwalw_heh_uh_halalululal.mp3"
-      },
-      {
         "text": "Back to the lock",
         "character": "",
         "audioUrl": "audio/the-simpsons/019_back_to_the_lock_with_use_nisi.mp3"
@@ -19572,11 +19552,6 @@ const shows = [
         "audioUrl": "audio/the-simpsons/049_doughnuts_is_there_anything_they_can_t_do.mp3"
       },
       {
-        "text": "Rambling gibberish",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/050_drivers_license_and_drove_know_how_smells_in_martinsville_wi.mp3"
-      },
-      {
         "text": "Humming",
         "character": "",
         "audioUrl": "audio/the-simpsons/051_dum_dee_dum_dah.mp3"
@@ -19655,11 +19630,6 @@ const shows = [
         "text": "Have you started smoking?",
         "character": "",
         "audioUrl": "audio/the-simpsons/069_have_you_started_smoking.mp3"
-      },
-      {
-        "text": "Rambling gibberish",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/070_he_can_t_help_because_biggest_i_wanna_come_inside_i_ll_come.mp3"
       },
       {
         "text": "You can't handle the truth",
@@ -27937,21 +27907,6 @@ const shows = [
         "text": "Brought to you by Carl's Junior",
         "character": "",
         "audioUrl": "audio/idiocracy/042_i_m_a_secretary_of_state_brought_to_you_by_carl_s_junior_why.mp3"
-      },
-      {
-        "text": "Batin",
-        "character": "",
-        "audioUrl": "audio/idiocracy/043_idiocracy_batin.mp3"
-      },
-      {
-        "text": "Evadage",
-        "character": "",
-        "audioUrl": "audio/idiocracy/044_idiocracy_evadage.mp3"
-      },
-      {
-        "text": "Pognon",
-        "character": "",
-        "audioUrl": "audio/idiocracy/045_idiocracy_pognon.mp3"
       },
       {
         "text": "The number one movie was Ass",

@@ -186,18 +186,6 @@
   "Grab a broom! Sweep! Sweep! Sweep!"
   CHARACTER: 
 
-064_greg_seinfeld_1.mp3
-  "Greg Seinfeld 1"
-  CHARACTER: 
-
-065_greg_seinfeld_2.mp3
-  "Greg Seinfeld 2"
-  CHARACTER: 
-
-066_greg_seinfeld_3.mp3
-  "Greg Seinfeld 3"
-  CHARACTER: 
-
 069_happy_festivus_everyone.mp3
   "Happy Festivus, Everyone!"
   CHARACTER: 

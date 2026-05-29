@@ -211,21 +211,6 @@ const quotes = [
     "audioUrl": "audio/idiocracy/042_i_m_a_secretary_of_state_brought_to_you_by_carl_s_junior_why.mp3"
   },
   {
-    "text": "Batin",
-    "character": "",
-    "audioUrl": "audio/idiocracy/043_idiocracy_batin.mp3"
-  },
-  {
-    "text": "Evadage",
-    "character": "",
-    "audioUrl": "audio/idiocracy/044_idiocracy_evadage.mp3"
-  },
-  {
-    "text": "Pognon",
-    "character": "",
-    "audioUrl": "audio/idiocracy/045_idiocracy_pognon.mp3"
-  },
-  {
     "text": "The number one movie was Ass",
     "character": "",
     "audioUrl": "audio/idiocracy/046_joe_had_awakened_to_a_world_in_crisis_the_economy_was_in_a_s.mp3"

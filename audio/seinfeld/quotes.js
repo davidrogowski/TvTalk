@@ -236,21 +236,6 @@ const quotes = [
     "audioUrl": "audio/seinfeld/063_grab_a_broom_sweep_sweep_sweep.mp3"
   },
   {
-    "text": "Greg Seinfeld 1",
-    "character": "",
-    "audioUrl": "audio/seinfeld/064_greg_seinfeld_1.mp3"
-  },
-  {
-    "text": "Greg Seinfeld 2",
-    "character": "",
-    "audioUrl": "audio/seinfeld/065_greg_seinfeld_2.mp3"
-  },
-  {
-    "text": "Greg Seinfeld 3",
-    "character": "",
-    "audioUrl": "audio/seinfeld/066_greg_seinfeld_3.mp3"
-  },
-  {
     "text": "Happy Festivus, Everyone!",
     "character": "",
     "audioUrl": "audio/seinfeld/069_happy_festivus_everyone.mp3"

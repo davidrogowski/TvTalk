@@ -66,11 +66,6 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/015_at_the_risk_of_editorialising_these_women_are_guilty_and_mus.mp3"
   },
   {
-    "text": "Gibberish babble",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/016_awalululul_uwlaulw_wahlwalw_heh_uh_halalululal.mp3"
-  },
-  {
     "text": "Back to the lock",
     "character": "",
     "audioUrl": "audio/the-simpsons/019_back_to_the_lock_with_use_nisi.mp3"
@@ -186,11 +181,6 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/049_doughnuts_is_there_anything_they_can_t_do.mp3"
   },
   {
-    "text": "Rambling gibberish",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/050_drivers_license_and_drove_know_how_smells_in_martinsville_wi.mp3"
-  },
-  {
     "text": "Humming",
     "character": "",
     "audioUrl": "audio/the-simpsons/051_dum_dee_dum_dah.mp3"
@@ -269,11 +259,6 @@ const quotes = [
     "text": "Have you started smoking?",
     "character": "",
     "audioUrl": "audio/the-simpsons/069_have_you_started_smoking.mp3"
-  },
-  {
-    "text": "Rambling gibberish",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/070_he_can_t_help_because_biggest_i_wanna_come_inside_i_ll_come.mp3"
   },
   {
     "text": "You can't handle the truth",
