@@ -203,6 +203,17 @@
     margin-top: 0.5rem; font-size: 0.75rem; letter-spacing: 0.2em; color: var(--muted);
     opacity: 0; transition: opacity 0.35s;
   }
+  .quote-save {
+    display: inline-flex; align-items: center; justify-content: center;
+    margin-top: 1.25rem; padding: 0.4rem;
+    color: var(--muted); line-height: 0;
+    opacity: 0; pointer-events: none;
+    transition: opacity 0.35s, color 0.2s;
+    cursor: pointer;
+  }
+  .quote-save.visible { opacity: 0.6; pointer-events: auto; }
+  .quote-save:hover  { color: var(--accent); opacity: 1; }
+  .quote-save:focus-visible { outline: 1px solid var(--accent); outline-offset: 4px; }
   .visible { opacity: 1 !important; }
 
   .empty-hint {
@@ -259,6 +270,16 @@
     <p class="quote-text"      id="quoteText"></p>
     <p class="quote-character" id="quoteChar"></p>
     <p class="quote-source"    id="quoteSource"></p>
+    <a class="quote-save" id="quoteSave" href="#" role="button"
+       aria-label="Save or share this clip" title="Save or share this clip">
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none"
+           stroke="currentColor" stroke-width="1.6"
+           stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M12 15V3"/>
+        <path d="M8 7l4-4 4 4"/>
+        <path d="M5 12v7a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-7"/>
+      </svg>
+    </a>
   </div>
 
 <script src="shows.js"></script>
@@ -278,6 +299,7 @@
     text:    document.getElementById('quoteText'),
     char:    document.getElementById('quoteChar'),
     source:  document.getElementById('quoteSource'),
+    save:    document.getElementById('quoteSave'),
   };
 
   const RANDOM_ALL = '__random_all__';
@@ -288,6 +310,7 @@
   let currentSelection = RANDOM_ALL;
   let lastKey = null;
   let currentAudio = null;
+  let currentItem = null;   // the quote currently on screen, for save/share
   let comboVisible = [];   // flat list of rendered <li> options, for keyboard nav
   let activeIndex = 0;
 
@@ -441,6 +464,7 @@
     els.text.classList.remove('visible');
     els.char.classList.remove('visible');
     els.source.classList.remove('visible');
+    els.save.classList.remove('visible');
   }
 
   function buildPool() {
@@ -471,8 +495,57 @@
     return chosen;
   }
 
+  function sanitizeFilename(text) {
+    const cleaned = (text || '')
+      .replace(/[\/\\:*?"<>|]/g, ' ')   // chars illegal in filenames -> space
+      .replace(/\s+/g, ' ')
+      .trim();
+    return cleaned || 'clip';
+  }
+
+  function buildClipFilename(showName, text) {
+    return sanitizeFilename(`${showName} - ${text}`) + '.mp3';
+  }
+
+  function triggerDownload(url, filename) {
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+  }
+
+  async function saveCurrentQuote() {
+    if (!currentItem || !currentItem.quote.audioUrl) return;
+    const url = currentItem.quote.audioUrl;
+    const filename = buildClipFilename(currentItem.showName, currentItem.quote.text);
+
+    // Primary: native share sheet with the file (works on iOS Safari).
+    if (navigator.canShare) {
+      try {
+        const resp = await fetch(url);
+        if (resp.ok) {
+          const blob = await resp.blob();
+          const file = new File([blob], filename, { type: 'audio/mpeg' });
+          if (navigator.canShare({ files: [file] })) {
+            await navigator.share({ files: [file] });
+            return;
+          }
+        }
+      } catch (err) {
+        if (err.name === 'AbortError') return;  // user dismissed the sheet
+        // otherwise fall through to the download fallback
+      }
+    }
+
+    // Fallback: anchor download (desktop / no file-share support).
+    triggerDownload(url, filename);
+  }
+
   function showQuote(item) {
     const q = item.quote;
+    currentItem = item;
     const show = SHOWS.find(s => s.id === item.showId);
     const textStyle = show?.text_style || 'caption';
     clearQuote();
@@ -481,6 +554,7 @@
       els.char.textContent   = q.character ? `— ${q.character}` : '';
       els.source.textContent = (currentSelection in RANDOM_MODES) ? item.showName : '';
       els.text.classList.add('visible');
+      if (q.audioUrl) els.save.classList.add('visible');
       if (q.character)                       els.char.classList.add('visible');
       if (currentSelection in RANDOM_MODES)  els.source.classList.add('visible');
     }, 80);
@@ -526,6 +600,11 @@
     });
 
     applySelection(selectionFromUrl());   // pre-select from a shared link
+
+    els.save.addEventListener('click', (e) => {
+      e.preventDefault();          // it's an <a href="#">; never navigate
+      saveCurrentQuote();
+    });
 
     els.btn.addEventListener('click', () => {
       const pool = buildPool();
