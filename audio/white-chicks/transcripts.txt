@@ -78,10 +78,6 @@
   "My tongue is kind of big."
   CHARACTER: 
 
-021_my_tongue_s_kinda_big.mp3
-  "My Tongue's Kinda Big"
-  CHARACTER: 
-
 022_oopsy_i_had_a_poopsy.mp3
   "Oopsy I had a poopsy"
   CHARACTER: 
@@ -128,10 +124,6 @@
 
 033_we_all_got_secrets.mp3
   "We all got secrets"
-  CHARACTER: 
-
-034_we_all_got_secrets.mp3
-  "We all got secrets."
   CHARACTER: 
 
 035_we_re_gonna_get_along_just_fine.mp3

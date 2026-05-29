@@ -101,11 +101,6 @@ const quotes = [
     "audioUrl": "audio/white-chicks/020_my_tongue_is_kind_of_big.mp3"
   },
   {
-    "text": "My Tongue's Kinda Big",
-    "character": "",
-    "audioUrl": "audio/white-chicks/021_my_tongue_s_kinda_big.mp3"
-  },
-  {
     "text": "Oopsy I had a poopsy",
     "character": "",
     "audioUrl": "audio/white-chicks/022_oopsy_i_had_a_poopsy.mp3"
@@ -164,11 +159,6 @@ const quotes = [
     "text": "We all got secrets",
     "character": "",
     "audioUrl": "audio/white-chicks/033_we_all_got_secrets.mp3"
-  },
-  {
-    "text": "We all got secrets.",
-    "character": "",
-    "audioUrl": "audio/white-chicks/034_we_all_got_secrets.mp3"
   },
   {
     "text": "We're gonna get along just fine.",
