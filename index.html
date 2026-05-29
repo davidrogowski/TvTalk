@@ -471,6 +471,18 @@
     return chosen;
   }
 
+  function sanitizeFilename(text) {
+    const cleaned = (text || '')
+      .replace(/[\/\\:*?"<>|]/g, ' ')   // chars illegal in filenames -> space
+      .replace(/\s+/g, ' ')
+      .trim();
+    return cleaned || 'clip';
+  }
+
+  function buildClipFilename(showName, text) {
+    return sanitizeFilename(`${showName} - ${text}`) + '.mp3';
+  }
+
   function showQuote(item) {
     const q = item.quote;
     const show = SHOWS.find(s => s.id === item.showId);
