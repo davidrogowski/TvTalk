@@ -24235,6 +24235,16 @@ const shows = [
         "text": "Like a baby, miss Mammy's titty",
         "character": "",
         "audioUrl": "audio/django-unchained/like_a_baby_miss_mammys_titty.mp3"
+      },
+      {
+        "text": "In other words, Marshal, you owe me $200",
+        "character": "",
+        "audioUrl": "audio/django-unchained/in_other_words_marshal_you_owe_me_200.mp3"
+      },
+      {
+        "text": "In other words, Marshal, you owe me $200",
+        "character": "",
+        "audioUrl": "audio/django-unchained/in_other_words_marshal_you_owe_me_200.mp3"
       }
     ]
   },
