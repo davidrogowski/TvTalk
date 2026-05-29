@@ -203,6 +203,17 @@
     margin-top: 0.5rem; font-size: 0.75rem; letter-spacing: 0.2em; color: var(--muted);
     opacity: 0; transition: opacity 0.35s;
   }
+  .quote-save {
+    display: inline-flex; align-items: center; justify-content: center;
+    margin-top: 1.25rem; padding: 0.4rem;
+    color: var(--muted); line-height: 0;
+    opacity: 0; pointer-events: none;
+    transition: opacity 0.35s, color 0.2s;
+    cursor: pointer;
+  }
+  .quote-save.visible { opacity: 0.6; pointer-events: auto; }
+  .quote-save:hover  { color: var(--accent); opacity: 1; }
+  .quote-save:focus-visible { outline: 1px solid var(--accent); outline-offset: 4px; }
   .visible { opacity: 1 !important; }
 
   .empty-hint {
@@ -259,6 +270,16 @@
     <p class="quote-text"      id="quoteText"></p>
     <p class="quote-character" id="quoteChar"></p>
     <p class="quote-source"    id="quoteSource"></p>
+    <a class="quote-save" id="quoteSave" href="#" role="button"
+       aria-label="Save or share this clip" title="Save or share this clip">
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none"
+           stroke="currentColor" stroke-width="1.6"
+           stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M12 15V3"/>
+        <path d="M8 7l4-4 4 4"/>
+        <path d="M5 12v7a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-7"/>
+      </svg>
+    </a>
   </div>
 
 <script src="shows.js"></script>
