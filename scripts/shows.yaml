@@ -507,6 +507,19 @@ shows:
       accent:  "#e8c33a"
       bg:      "#0a0610"
 
+  - id: white-chicks
+    name: "White Chicks"
+    board_url: "https://www.101soundboards.com/boards/75873-white-chicks-soundboard"
+    status: pending
+    preserve_transcripts: true
+    type: movie
+    text_style: "title"
+    max_length: 9999          # keep all clips (a couple are song lyrics > 25 words)
+    theme:
+      primary: "#e84d8a"
+      accent:  "#d9d4e0"
+      bg:      "#0d060a"
+
   - id: entourage
     name: "Entourage"
     board_url: "https://www.101soundboards.com/boards/1388507-entourage-2004"
