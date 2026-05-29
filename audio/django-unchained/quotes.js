@@ -844,5 +844,20 @@ const quotes = [
     "text": "...normally, I would say auf Wiedersehen.",
     "character": "",
     "audioUrl": "audio/django-unchained/274_normally_i_would_say_auf_wiedersehen.mp3"
+  },
+  {
+    "text": "Like a baby, miss Mammy's titty",
+    "character": "",
+    "audioUrl": "audio/django-unchained/like_a_baby_miss_mammys_titty.mp3"
+  },
+  {
+    "text": "Like a baby, miss Mammy's titty",
+    "character": "",
+    "audioUrl": "audio/django-unchained/like_a_baby_miss_mammys_titty.mp3"
+  },
+  {
+    "text": "Like a baby, miss Mammy's titty",
+    "character": "",
+    "audioUrl": "audio/django-unchained/like_a_baby_miss_mammys_titty.mp3"
   }
 ];
