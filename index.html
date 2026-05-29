@@ -299,6 +299,7 @@
     text:    document.getElementById('quoteText'),
     char:    document.getElementById('quoteChar'),
     source:  document.getElementById('quoteSource'),
+    save:    document.getElementById('quoteSave'),
   };
 
   const RANDOM_ALL = '__random_all__';
@@ -309,6 +310,7 @@
   let currentSelection = RANDOM_ALL;
   let lastKey = null;
   let currentAudio = null;
+  let currentItem = null;   // the quote currently on screen, for save/share
   let comboVisible = [];   // flat list of rendered <li> options, for keyboard nav
   let activeIndex = 0;
 
@@ -462,6 +464,7 @@
     els.text.classList.remove('visible');
     els.char.classList.remove('visible');
     els.source.classList.remove('visible');
+    els.save.classList.remove('visible');
   }
 
   function buildPool() {
@@ -506,6 +509,7 @@
 
   function showQuote(item) {
     const q = item.quote;
+    currentItem = item;
     const show = SHOWS.find(s => s.id === item.showId);
     const textStyle = show?.text_style || 'caption';
     clearQuote();
@@ -514,6 +518,7 @@
       els.char.textContent   = q.character ? `— ${q.character}` : '';
       els.source.textContent = (currentSelection in RANDOM_MODES) ? item.showName : '';
       els.text.classList.add('visible');
+      if (q.audioUrl) els.save.classList.add('visible');
       if (q.character)                       els.char.classList.add('visible');
       if (currentSelection in RANDOM_MODES)  els.source.classList.add('visible');
     }, 80);
