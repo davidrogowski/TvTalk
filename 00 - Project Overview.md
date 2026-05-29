@@ -14,6 +14,7 @@ A personal soundboard web app. Press a button → random quote from a TV show pl
 - ✅ **Captions shown as short 1-5 word labels**, not full quotes — the audio is the payload. See the captioning section in [[03 - Workflow]]
 - Auto-trim for "ding-poisoned" legacy 101soundboards boards, applied **per board** in a merge (see [[04 - Troubleshooting]])
 - Per-show config in `shows.yaml`: `type`, `text_style`, `case_style`, `exclude_prefix`, `board_url_2`, `dedup`, `preserve_transcripts`, `censor_nword`, `min_length`/`max_length` (+`_2`) — see [[03 - Workflow]]
+- ✅ **Per-clip curation in `transcripts.txt`**: `REPEAT: N` weights a clip so it plays ~N× as often, and hand-added **local MP3s not on any board** are preserved. Both are **per-show and isolated** — a one-off clip in one show never affects another show's scrape, and re-scrapes regenerate the same result (idempotent). Covered by `scripts/test_scrape_soundboard.py`. See [[03 - Workflow]]
 
 **Open follow-ups**: wire up auto-deploy on git push (currently manual `wrangler deploy`); disable the stray "Latest build failed" git-build trigger in the Cloudflare dashboard. Details in [[05 - Deployment]].
 

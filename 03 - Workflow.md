@@ -179,6 +179,13 @@ Two durable curation features, both driven from `audio/<id>/transcripts.txt` so 
 
 On re-run (curate mode) the scraper **preserves** any clip listed in `transcripts.txt` whose MP3 exists on disk but isn't produced by a board — you'll see `Preserving N hand-added clip(s) not on any board.` Stale entries whose file is missing are skipped. (Pure helpers for both features are covered by `scripts/test_scrape_soundboard.py`.)
 
+**These one-offs never impact main scrapes.** Both features are scoped entirely to a single show's own `audio/<id>/` directory and `transcripts.txt`:
+- **No cross-show effect.** Scraping or adding *another* show (`--show <other>`, a fresh board, or a full `--all` run) reads only that show's files. A one-off clip or `REPEAT:` in one show is invisible to every other show.
+- **Idempotent on the owning show.** Re-running the scraper on the show that *has* the one-offs reproduces the exact same `quotes.js` every time — board clips and hand-added clips alike — with no duplication or drift. (Verified: re-scraping `django-unchained` with 2 weighted board clips + 2 local clips regenerates the identical 174-entry `quotes.js`.)
+- **No fragile board-matching for local clips.** Hand-added clips are kept by *file existence*, not by matching a board, so the board-drift gotcha above can't drop them.
+
+In short: one-offs live with their show, survive that show's re-scrapes, and are inert to everything else.
+
 ## 7. Rebuild the aggregated data
 
 ```sh
