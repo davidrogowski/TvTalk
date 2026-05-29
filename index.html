@@ -522,19 +522,21 @@
     const filename = buildClipFilename(currentItem.showName, currentItem.quote.text);
 
     // Primary: native share sheet with the file (works on iOS Safari).
-    try {
-      const resp = await fetch(url);
-      if (resp.ok) {
-        const blob = await resp.blob();
-        const file = new File([blob], filename, { type: 'audio/mpeg' });
-        if (navigator.canShare && navigator.canShare({ files: [file] })) {
-          await navigator.share({ files: [file] });
-          return;
+    if (navigator.canShare) {
+      try {
+        const resp = await fetch(url);
+        if (resp.ok) {
+          const blob = await resp.blob();
+          const file = new File([blob], filename, { type: 'audio/mpeg' });
+          if (navigator.canShare({ files: [file] })) {
+            await navigator.share({ files: [file] });
+            return;
+          }
         }
+      } catch (err) {
+        if (err.name === 'AbortError') return;  // user dismissed the sheet
+        // otherwise fall through to the download fallback
       }
-    } catch (err) {
-      if (err && err.name === 'AbortError') return;  // user dismissed the sheet
-      // otherwise fall through to the download fallback
     }
 
     // Fallback: anchor download (desktop / no file-share support).
