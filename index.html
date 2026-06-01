@@ -146,6 +146,12 @@
     text-align: center;
     transition: color 0.3s, text-shadow 0.3s;
   }
+  /* default "TV TALK" wears the button's silver + matte-red scheme;
+     show/movie names keep their own per-title theme */
+  h1.tvtalk {
+    color: #dfe3e6;
+    text-shadow: 3px 3px 0 #a31a1f, 6px 6px 0 #000;
+  }
 
   .button {
     background: none; border: none; padding: 0; margin: 0;
@@ -154,7 +160,7 @@
     -webkit-tap-highlight-color: transparent;
   }
   .button svg {
-    display: block; width: 300px; height: auto; overflow: visible;
+    display: block; width: 340px; height: auto; overflow: visible;
     transition: filter 0.3s;
   }
   /* red puck sinks on press; chrome base stays put */
@@ -213,7 +219,7 @@
       max-width: 55vw;
     }
     h1 { margin-top: 3rem; margin-bottom: 2rem; }
-    .button svg { width: 240px; }
+    .button svg { width: 270px; }
     .quote-display { margin-top: 2rem; min-height: 80px; }
     .quote-text      { font-size: 1.1rem; line-height: 1.4; }
     .quote-character { font-size: 1rem; margin-top: 0.75rem; }
@@ -527,11 +533,13 @@
     if (value in RANDOM_MODES) {
       applyTheme(DEFAULT_THEME);
       els.title.textContent = 'TV TALK';
+      els.title.classList.add('tvtalk');     // button-matched silver+red scheme
     } else {
       const show = SHOWS.find(s => s.id === value);
       if (show) {
         applyTheme(show.theme);
         els.title.textContent = show.name.toUpperCase();
+        els.title.classList.remove('tvtalk'); // back to the show's own theme
       }
     }
     syncUrl();
