@@ -7,3 +7,5 @@ scripts/
 *.md
 .wrangler/
 .DS_Store
+_preview_clips.html
+mockups/

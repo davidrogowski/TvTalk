@@ -35,7 +35,26 @@
 
   .picker-row {
     position: fixed; top: 1.25rem; right: 1.25rem; z-index: 3;
+    display: flex; flex-direction: column; align-items: flex-end; gap: 0.5rem;
   }
+  /* second dropdown: this title's clips */
+  #clipCombo { display: none; }
+  #clipCombo.shown { display: block; }
+  #clipCombo .combo-trigger { max-width: 240px; }
+  #clipCombo .combo-panel { width: min(340px, 88vw); }
+  .clip-option {
+    padding: 0.45rem 0.7rem 0.45rem 1.1rem;
+    font-family: 'Special Elite', monospace; font-size: 0.82rem; line-height: 1.35;
+    color: var(--text); cursor: pointer;
+    display: flex; align-items: flex-start; gap: 0.55rem;
+  }
+  .clip-option:hover, .clip-option.active { background: color-mix(in srgb, var(--primary) 32%, transparent); }
+  .clip-option.playing { color: var(--accent); box-shadow: inset 3px 0 0 var(--accent); }
+  .clip-option .clip-icon { flex: none; opacity: 0.55; margin-top: 0.1rem; }
+  .clip-option:hover .clip-icon, .clip-option.playing .clip-icon { opacity: 1; }
+  .clip-option .clip-icon svg { width: 13px; height: 13px; display: block; }
+  .clip-option .clip-text { flex: 1; }
+  .clip-option .clip-char { display: block; font-size: 0.66rem; color: var(--accent); opacity: 0.7; letter-spacing: 0.08em; margin-top: 0.12rem; }
   .combo { position: relative; }
   .combo-trigger {
     display: flex; align-items: center; gap: 0.5rem;
@@ -260,6 +279,19 @@
         <ul id="comboList" class="combo-list" role="listbox" aria-label="Shows and movies"></ul>
       </div>
     </div>
+
+    <div class="combo" id="clipCombo">
+      <button type="button" id="clipTrigger" class="combo-trigger"
+              aria-haspopup="listbox" aria-expanded="false" aria-controls="clipPanel">
+        <span id="clipLabel" class="combo-label">Browse clips</span>
+        <span class="combo-caret" aria-hidden="true">&#9662;</span>
+      </button>
+      <div id="clipPanel" class="combo-panel" role="dialog" aria-label="Browse clips in this title" hidden>
+        <input type="text" id="clipSearch" class="combo-search" placeholder="Search clips&hellip;"
+               autocomplete="off" spellcheck="false" aria-label="Search clips">
+        <ul id="clipList" class="combo-list" role="listbox" aria-label="Clips"></ul>
+      </div>
+    </div>
   </div>
 
   <h1 id="title">TV TALK</h1>
@@ -300,7 +332,14 @@
     char:    document.getElementById('quoteChar'),
     source:  document.getElementById('quoteSource'),
     save:    document.getElementById('quoteSave'),
+    clipCombo:   document.getElementById('clipCombo'),
+    clipTrigger: document.getElementById('clipTrigger'),
+    clipLabel:   document.getElementById('clipLabel'),
+    clipPanel:   document.getElementById('clipPanel'),
+    clipSearch:  document.getElementById('clipSearch'),
+    clipList:    document.getElementById('clipList'),
   };
+  let playingClipEl = null;
 
   const RANDOM_ALL = '__random_all__';
   const RANDOM_SHOWS = '__random_shows__';
@@ -458,6 +497,80 @@
     }
     syncUrl();
     clearQuote();
+    updateClipCombo(value);
+  }
+
+  // ----- second dropdown: this title's clips -----
+  const CLIP_PLAY_SVG = '<svg class="clip-icon-svg" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>';
+
+  function updateClipCombo(value) {
+    closeClipCombo();
+    if (value in RANDOM_MODES) {
+      els.clipCombo.classList.remove('shown');
+      return;
+    }
+    const show = SHOWS.find(s => s.id === value);
+    if (!show) { els.clipCombo.classList.remove('shown'); return; }
+    const n = show.quotes.length;
+    els.clipLabel.textContent = `Browse ${n} clip${n === 1 ? '' : 's'}`;
+    els.clipCombo.classList.add('shown');
+  }
+
+  function renderClipList(query) {
+    const show = SHOWS.find(s => s.id === currentSelection);
+    els.clipList.innerHTML = '';
+    if (!show) return;
+    const q = (query || '').trim().toLowerCase();
+    const matches = show.quotes
+      .map((quote, index) => ({ quote, index }))
+      .filter(o => !q || o.quote.text.toLowerCase().includes(q));
+    if (!matches.length) {
+      const li = document.createElement('li');
+      li.className = 'combo-empty';
+      li.textContent = 'No clips match';
+      els.clipList.appendChild(li);
+      return;
+    }
+    matches.forEach(({ quote, index }) => {
+      const li = document.createElement('li');
+      li.className = 'clip-option';
+      li.setAttribute('role', 'option');
+      li.dataset.index = index;
+      li.innerHTML = `<span class="clip-icon">${CLIP_PLAY_SVG}</span>`
+        + `<span class="clip-text">${escapeClip(quote.text)}`
+        + (quote.character ? `<span class="clip-char">— ${escapeClip(quote.character)}</span>` : '')
+        + `</span>`;
+      li.addEventListener('click', () => {
+        const item = { showId: show.id, showName: show.name, index, quote };
+        showQuote(item);
+        playAudio(quote);
+        els.btn.classList.remove('playing');
+        els.clipList.querySelectorAll('.clip-option.playing').forEach(el => el.classList.remove('playing'));
+        li.classList.add('playing');
+        playingClipEl = li;
+      });
+      els.clipList.appendChild(li);
+    });
+  }
+  function escapeClip(s) {
+    return String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  }
+
+  function openClipCombo() {
+    els.clipPanel.hidden = false;
+    els.clipTrigger.setAttribute('aria-expanded', 'true');
+    els.clipSearch.value = '';
+    renderClipList('');
+    els.clipSearch.focus();
+    document.addEventListener('click', onClipDocClick, true);
+  }
+  function closeClipCombo() {
+    els.clipPanel.hidden = true;
+    els.clipTrigger.setAttribute('aria-expanded', 'false');
+    document.removeEventListener('click', onClipDocClick, true);
+  }
+  function onClipDocClick(e) {
+    if (!els.clipCombo.contains(e.target)) closeClipCombo();
   }
 
   function clearQuote() {
@@ -597,6 +710,14 @@
         const li = comboVisible[activeIndex];
         if (li) { applySelection(li.dataset.value); closeCombo(); els.trigger.focus(); }
       } else if (e.key === 'Escape') { e.preventDefault(); closeCombo(); els.trigger.focus(); }
+    });
+
+    els.clipTrigger.addEventListener('click', () => {
+      if (els.clipPanel.hidden) openClipCombo(); else closeClipCombo();
+    });
+    els.clipSearch.addEventListener('input', () => renderClipList(els.clipSearch.value));
+    els.clipSearch.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') { e.preventDefault(); closeClipCombo(); els.clipTrigger.focus(); }
     });
 
     applySelection(selectionFromUrl());   // pre-select from a shared link
