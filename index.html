@@ -163,11 +163,10 @@
   .button:active .puck { transform: translateY(12px); }
   .button:focus-visible { outline: none; }
   .button:focus-visible svg { filter: drop-shadow(0 0 6px var(--accent)); }
-  /* glow while a clip is playing */
-  .button.playing svg { animation: glow-pulse 1.2s ease-in-out infinite; }
-  @keyframes glow-pulse {
-    0%, 100% { filter: drop-shadow(0 0 5px color-mix(in srgb, var(--primary) 55%, transparent)); }
-    50%      { filter: drop-shadow(0 0 20px var(--primary)); }
+  /* subtle, steady silver/white glow while a clip is playing (no flash, no colour) */
+  .button.playing svg {
+    filter: drop-shadow(0 0 6px rgba(255,255,255,0.45))
+            drop-shadow(0 0 16px rgba(225,228,232,0.28));
   }
 
   .quote-display { margin-top: 3rem; max-width: 620px; min-height: 120px; text-align: center; z-index: 2; }
