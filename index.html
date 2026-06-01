@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>TvTalk</title>
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Special+Elite&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Nunito:wght@900&family=Special+Elite&display=swap');
 
   :root {
     --primary: #c41e3a;
@@ -148,65 +148,26 @@
   }
 
   .button {
-    position: relative;
-    width: 240px; height: 240px; border-radius: 50%; border: none;
-    background: radial-gradient(circle at 50% 30%,
-      color-mix(in srgb, var(--primary) 70%, white) 0%,
-      var(--primary) 32%,
-      color-mix(in srgb, var(--primary) 60%, black) 78%,
-      color-mix(in srgb, var(--primary) 35%, black) 100%);
-    color: #fff;
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 3rem;
-    letter-spacing: 0.12em;
-    cursor: pointer;
-    box-shadow:
-      inset 0 14px 24px rgba(255,255,255,0.28),
-      inset 0 -18px 30px rgba(0,0,0,0.45),
-      0 14px 0 -2px color-mix(in srgb, var(--primary) 22%, black),
-      0 20px 28px rgba(0,0,0,0.5),
-      0 8px 14px rgba(0,0,0,0.3);
-    transition: transform 0.1s ease-out, box-shadow 0.1s ease-out, background 0.3s;
-    z-index: 2;
+    background: none; border: none; padding: 0; margin: 0;
+    cursor: pointer; display: block; line-height: 0;
+    position: relative; z-index: 2;
+    -webkit-tap-highlight-color: transparent;
   }
-  .button::after {
-    content: '';
-    position: absolute;
-    inset: -32px;
-    border-radius: 50%;
-    z-index: -1;
-    pointer-events: none;
-    background: radial-gradient(circle,
-      transparent 65%,
-      color-mix(in srgb, var(--primary) 55%, transparent) 80%,
-      transparent 100%);
-    opacity: 0;
-    transition: opacity 0.3s;
+  .button svg {
+    display: block; width: 300px; height: auto; overflow: visible;
+    transition: filter 0.3s;
   }
-  .button:hover {
-    transform: translateY(-2px);
-    box-shadow:
-      inset 0 14px 24px rgba(255,255,255,0.28),
-      inset 0 -18px 30px rgba(0,0,0,0.45),
-      0 16px 0 -2px color-mix(in srgb, var(--primary) 22%, black),
-      0 22px 32px rgba(0,0,0,0.55),
-      0 10px 16px rgba(0,0,0,0.35);
-  }
-  .button:active {
-    transform: translateY(8px);
-    box-shadow:
-      inset 0 14px 24px rgba(255,255,255,0.28),
-      inset 0 -18px 30px rgba(0,0,0,0.45),
-      0 6px 0 -2px color-mix(in srgb, var(--primary) 22%, black),
-      0 8px 10px rgba(0,0,0,0.4),
-      0 3px 6px rgba(0,0,0,0.25);
-  }
-  .button.playing::after {
-    animation: glow-pulse 1.2s ease-in-out infinite;
-  }
+  /* red puck sinks on press; chrome base stays put */
+  .button .puck { transition: transform 0.12s cubic-bezier(.3,.7,.3,1); }
+  .button:hover  .puck { transform: translateY(-2px); }
+  .button:active .puck { transform: translateY(12px); }
+  .button:focus-visible { outline: none; }
+  .button:focus-visible svg { filter: drop-shadow(0 0 6px var(--accent)); }
+  /* glow while a clip is playing */
+  .button.playing svg { animation: glow-pulse 1.2s ease-in-out infinite; }
   @keyframes glow-pulse {
-    0%, 100% { opacity: 0.4; transform: scale(1); }
-    50%      { opacity: 0.85; transform: scale(1.12); }
+    0%, 100% { filter: drop-shadow(0 0 5px color-mix(in srgb, var(--primary) 55%, transparent)); }
+    50%      { filter: drop-shadow(0 0 20px var(--primary)); }
   }
 
   .quote-display { margin-top: 3rem; max-width: 620px; min-height: 120px; text-align: center; z-index: 2; }
@@ -253,10 +214,7 @@
       max-width: 55vw;
     }
     h1 { margin-top: 3rem; margin-bottom: 2rem; }
-    .button {
-      width: 200px; height: 200px;
-      font-size: 2.5rem;
-    }
+    .button svg { width: 240px; }
     .quote-display { margin-top: 2rem; min-height: 80px; }
     .quote-text      { font-size: 1.1rem; line-height: 1.4; }
     .quote-character { font-size: 1rem; margin-top: 0.75rem; }
@@ -296,7 +254,89 @@
 
   <h1 id="title">TV TALK</h1>
 
-  <button class="button" id="quoteBtn">PRESS</button>
+  <button class="button" id="quoteBtn" aria-label="press">
+    <svg viewBox="0 0 320 312" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <radialGradient id="eb-ground" cx="50%" cy="50%" r="50%">
+          <stop offset="0%"  stop-color="#000" stop-opacity="0.55"/>
+          <stop offset="70%" stop-color="#000" stop-opacity="0"/>
+        </radialGradient>
+        <linearGradient id="eb-chromeWall" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0%"  stop-color="#5a5e62"/>
+          <stop offset="14%" stop-color="#aeb2b6"/>
+          <stop offset="33%" stop-color="#f4f7f9"/>
+          <stop offset="50%" stop-color="#cfd3d6"/>
+          <stop offset="70%" stop-color="#9a9ea2"/>
+          <stop offset="88%" stop-color="#64686c"/>
+          <stop offset="100%" stop-color="#45494d"/>
+        </linearGradient>
+        <radialGradient id="eb-chromeTop" cx="46%" cy="42%" r="62%">
+          <stop offset="0%"  stop-color="#f1f4f6"/>
+          <stop offset="55%" stop-color="#d3d7da"/>
+          <stop offset="78%" stop-color="#eef1f3"/>
+          <stop offset="100%" stop-color="#b3b7bb"/>
+        </radialGradient>
+        <linearGradient id="eb-redWall" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0%"  stop-color="#4a0709"/>
+          <stop offset="16%" stop-color="#771013"/>
+          <stop offset="38%" stop-color="#a31a1f"/>
+          <stop offset="50%" stop-color="#b22025"/>
+          <stop offset="62%" stop-color="#a31a1f"/>
+          <stop offset="84%" stop-color="#771013"/>
+          <stop offset="100%" stop-color="#4a0709"/>
+        </linearGradient>
+        <radialGradient id="eb-redDome" cx="44%" cy="36%" r="80%">
+          <stop offset="0%"  stop-color="#c62a2e"/>
+          <stop offset="50%" stop-color="#b11f24"/>
+          <stop offset="100%" stop-color="#7c1014"/>
+        </radialGradient>
+        <radialGradient id="eb-gloss" cx="50%" cy="50%" r="50%">
+          <stop offset="0%"  stop-color="#fff" stop-opacity="0.16"/>
+          <stop offset="70%" stop-color="#fff" stop-opacity="0.05"/>
+          <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+        </radialGradient>
+        <filter id="eb-soft" x="-30%" y="-30%" width="160%" height="160%">
+          <feGaussianBlur stdDeviation="2.2"/>
+        </filter>
+        <filter id="eb-softShadow" x="-30%" y="-30%" width="160%" height="160%">
+          <feGaussianBlur stdDeviation="4"/>
+        </filter>
+        <clipPath id="eb-domeClip"><ellipse cx="160" cy="150" rx="86" ry="85"/></clipPath>
+      </defs>
+
+      <!-- ground shadow -->
+      <ellipse cx="160" cy="288" rx="106" ry="15" fill="url(#eb-ground)"/>
+
+      <!-- single silver base disc (~80deg) -->
+      <ellipse cx="160" cy="166" rx="106" ry="104" fill="#9da1a5"/>
+      <rect x="54" y="158" width="212" height="8" fill="url(#eb-chromeWall)"/>
+      <ellipse cx="160" cy="158" rx="106" ry="104" fill="url(#eb-chromeTop)"/>
+      <!-- soft contact shadow seating the red on all sides -->
+      <ellipse cx="160" cy="150" rx="92" ry="90" fill="#000" opacity="0.3" filter="url(#eb-softShadow)"/>
+
+      <!-- pressable red button set into the disc -->
+      <g class="puck">
+        <ellipse cx="160" cy="154" rx="86" ry="85" fill="#5c0a0c"/>
+        <rect x="74" y="150" width="172" height="4" fill="url(#eb-redWall)"/>
+        <ellipse cx="160" cy="150" rx="86" ry="85" fill="url(#eb-redDome)"/>
+        <g clip-path="url(#eb-domeClip)">
+          <ellipse cx="142" cy="124" rx="60" ry="48" fill="url(#eb-gloss)" filter="url(#eb-soft)"/>
+        </g>
+        <!-- label: Nunito 900, engraved into the dome -->
+        <g transform="translate(160 148) scale(1 0.985)"
+           font-family="Nunito, sans-serif" font-weight="900" font-size="42"
+           text-anchor="middle" dominant-baseline="central">
+          <text x="0" y="0" dy="-1.3" fill="#3a0507" opacity="0.6">press</text>
+          <text x="0" y="0" dy="1.3"  fill="#ff9d99" opacity="0.5">press</text>
+          <text x="0" y="0"            fill="#ead2cd">press</text>
+        </g>
+      </g>
+
+      <!-- front of the same disc redrawn over the red base: red rises out of the silver -->
+      <path d="M 54 158 A 106 104 0 0 0 266 158 L 246 154 A 86 85 0 0 1 74 154 Z"
+            fill="url(#eb-chromeTop)"/>
+    </svg>
+  </button>
 
   <div class="quote-display">
     <p class="quote-text"      id="quoteText"></p>
