@@ -5,3 +5,5 @@ wrangler.jsonc
 worker.js
 scripts/
 *.md
+.wrangler/
+.DS_Store
