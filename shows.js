@@ -30857,5 +30857,1944 @@ const shows = [
         "audioUrl": "audio/entourage/090_yeah_oh_yeah_oh_yeah.mp3"
       }
     ]
+  },
+  {
+    "id": "big-lebowski",
+    "name": "The Big Lebowski",
+    "type": "movie",
+    "theme": {
+      "primary": "#7b4f9e",
+      "accent": "#d9a441",
+      "bg": "#0a0610"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "That poor slut kidnapped herself",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/001_aitz_chaim_he_dude_as_the_ex_used_to_say_what_the_fuck_is_th.mp3"
+      },
+      {
+        "text": "You're not wrong, just an asshole",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/002_am_i_wrong_no_you_re_not_wrong_am_i_wrong_you_re_not_wrong_w.mp3"
+      },
+      {
+        "text": "Pee on your fucking rug",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/003_and_then_they_come_and_they_pee_on_your_fucking_rug.mp3"
+      },
+      {
+        "text": "Some Creedence tapes",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/004_and_was_there_anything_of_value_in_the_car_oh_yeah_a_tape_de.mp3"
+      },
+      {
+        "text": "Beyond pacifism",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/005_and_you_know_he_s_got_emotional_problems_man_you_mean_beyond.mp3"
+      },
+      {
+        "text": "This aggression will not stand",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/006_are_you_employed_sir_employed_you_don_t_go_out_looking_for_a.mp3"
+      },
+      {
+        "text": "Strong men also cry",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/007_are_you_surprised_at_my_tears_sir_oh_fucking_a_strong_men_al.mp3"
+      },
+      {
+        "text": "I can't blow that far",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/008_blow_on_them_huh_go_ahead_blow_you_want_me_to_blow_on_your_t.mp3"
+      },
+      {
+        "text": "Sometimes there's a man",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/009_but_sometimes_there_s_a_man_and_i_m_talking_about_the_dude_h.mp3"
+      },
+      {
+        "text": "I'm the one who took your rug",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/010_call_when_you_get_home_and_i_ll_send_a_car_for_you_my_name_i.mp3"
+      },
+      {
+        "text": "Very un-Dude",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/011_come_on_you_re_being_very_un_dude.mp3"
+      },
+      {
+        "text": "Do you speak English sir",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/012_did_i_urinate_on_your_rug_you_mean_did_you_personally_come_a.mp3"
+      },
+      {
+        "text": "Or the Creedence",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/013_do_you_find_them_much_these_stolen_cars_sometimes_wouldn_t_h.mp3"
+      },
+      {
+        "text": "I was talking about my rug",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/014_do_you_like_sex_mr_lebowski_excuse_me_sex_the_physical_act_o.mp3"
+      },
+      {
+        "text": "Strongly vaginal",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/015_does_the_female_form_make_you_uncomfortable_mr_lebowski_is_t.mp3"
+      },
+      {
+        "text": "They're gonna kill that poor woman",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/016_dude_dude_you_just_tell_him_tell_him_we_made_the_drop_and_ev.mp3"
+      },
+      {
+        "text": "You fucked it up",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/017_dude_here_man_who_is_this_dude_the_bagman_man_where_do_you_w.mp3"
+      },
+      {
+        "text": "See what happens, Lebowski",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/018_ever_thus_to_deadbeats_lebowski_no_don_t_do_not_on_the_rug_m.mp3"
+      },
+      {
+        "text": "Let's go bowling",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/019_fuck_it_dude_let_s_go_bowling.mp3"
+      },
+      {
+        "text": "You're a goddamn moron",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/020_fuck_that_walter_i_love_you_but_sooner_or_later_you_re_gonna.mp3"
+      },
+      {
+        "text": "That creep can roll",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/021_fucking_quintana_that_creep_can_roll_man_yeah_but_he_s_a_per.mp3"
+      },
+      {
+        "text": "He's very fragile",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/022_he_s_fragile_he_s_very_fragile_i_did_not_know_that.mp3"
+      },
+      {
+        "text": "Nothing is fucked here",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/023_her_life_was_in_your_hands_this_is_our_concern_dude_no_man_n.mp3"
+      },
+      {
+        "text": "Her life is in your hands",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/024_here_s_the_money_and_the_phone_please_dude_follow_whatever_i.mp3"
+      },
+      {
+        "text": "At least I'm housebroken",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/025_hey_at_least_i_m_housebroken.mp3"
+      },
+      {
+        "text": "There's a beverage here",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/026_hey_hey_careful_man_there_s_a_beverage_here.mp3"
+      },
+      {
+        "text": "You didn't think I was rolling out naked",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/027_hey_man_what_the_fuck_at_15_mph_i_roll_out_i_double_back_gra.mp3"
+      },
+      {
+        "text": "A world of pain",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/028_hey_walter_come_on_hey_man_it_s_smokey_so_his_toe_slipped_ov.mp3"
+      },
+      {
+        "text": "Took them from me in Korea",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/029_i_didn_t_blame_anyone_for_the_loss_of_my_legs_some_chinaman.mp3"
+      },
+      {
+        "text": "Every time a rug is micturated upon",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/030_i_just_want_to_understand_this_sir_every_time_a_rug_is_mictu.mp3"
+      },
+      {
+        "text": "Just like your opinion man",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/031_i_see_you_rolled_your_way_into_the_semis_dios_m_o_man_liam_a.mp3"
+      },
+      {
+        "text": "I don't roll on Shabbos",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/032_i_told_that_kraut_a_fucking_thousand_times_i_don_t_roll_on_s.mp3"
+      },
+      {
+        "text": "Suck your cock for a thousand",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/033_i_ll_suck_your_cock_for_1_000_wonderful_woman_we_re_all_very.mp3"
+      },
+      {
+        "text": "Sorry if your stepmother is a nympho",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/034_i_m_sorry_if_your_stepmother_is_a_nympho.mp3"
+      },
+      {
+        "text": "I'm throwing rocks tonight",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/035_i_m_throwing_rocks_tonight_mark_it_dude.mp3"
+      },
+      {
+        "text": "Really tied the room together",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/036_it_really_tied_the_room_together_you_told_brandt_on_the_phon.mp3"
+      },
+      {
+        "text": "A natural zesty enterprise",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/037_it_s_a_male_myth_about_feminists_that_we_hate_sex_it_can_be.mp3"
+      },
+      {
+        "text": "Calmer than you are",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/038_just_take_it_easy_man_i_m_perfectly_calm_dude_yeah_waving_th.mp3"
+      },
+      {
+        "text": "Stinks to high heaven",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/039_let_me_tell_you_something_the_whole_thing_stinks_to_high_hea.mp3"
+      },
+      {
+        "text": "If you will it, it is no dream",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/040_lf_you_will_it_it_is_no_dream.mp3"
+      },
+      {
+        "text": "You miserable piece of shit",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/041_life_does_not_stop_and_start_at_your_convenience_you_miserab.mp3"
+      },
+      {
+        "text": "That camel fucker in Iraq",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/042_look_at_our_current_situation_with_that_camel_fucker_in_iraq.mp3"
+      },
+      {
+        "text": "Stay out of Malibu, Deadbeat",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/043_malibu_police_chief_lions_club_award_on_his_wall_stay_out_of.mp3"
+      },
+      {
+        "text": "She kidnapped herself",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/044_man_i_said_i_thought_she_kidnapped_herself_you_re_the_one_wh.mp3"
+      },
+      {
+        "text": "The carpet pissers did this",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/045_mr_lebowski_is_prepared_to_make_a_generous_offer_to_you_to_a.mp3"
+      },
+      {
+        "text": "Bones or clams or whatever",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/046_my_father_and_i_don_t_get_along_he_doesn_t_approve_of_my_lif.mp3"
+      },
+      {
+        "text": "Ze lingonberry pancake",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/047_nihilist_ordering_at_stacks_house_of_pancakes_ze_lingonberry.mp3"
+      },
+      {
+        "text": "I'm the Dude, man",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/048_nobody_calls_me_lebowski_you_got_the_wrong_guy_i_m_the_dude.mp3"
+      },
+      {
+        "text": "Nobody fucks with the Jesus",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/049_nobody_fucks_with_the_jesus.mp3"
+      },
+      {
+        "text": "Little Lebowski Urban Achievers",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/050_oh_those_are_mr_lebowski_s_children_so_to_speak_different_mo.mp3"
+      },
+      {
+        "text": "Mark it zero",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/051_over_the_line_huh_i_m_sorry_smokey_you_were_over_the_line_th.mp3"
+      },
+      {
+        "text": "Phone's ringing, Dude",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/052_phone_s_ringing_dude_thank_you_donny.mp3"
+      },
+      {
+        "text": "Bunch of fucking amateurs",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/053_really_dude_you_surprise_me_they_re_not_gonna_kill_shit_they.mp3"
+      },
+      {
+        "text": "Shut the fuck up, Donny",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/054_shut_the_fuck_up_donny.mp3"
+      },
+      {
+        "text": "I got a rash, man",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/055_so_he_says_my_wife_s_a_pain_in_the_ass_she_s_always_busting.mp3"
+      },
+      {
+        "text": "Where is my goddamn money",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/056_start_talking_and_talk_fast_you_lousy_bum_we_ve_been_frantic.mp3"
+      },
+      {
+        "text": "Tied the room together",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/057_that_rug_really_tied_the_room_together_did_it_not_fucking_a.mp3"
+      },
+      {
+        "text": "The beauty is its simplicity",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/058_that_s_right_dude_the_beauty_of_this_is_its_simplicity_once.mp3"
+      },
+      {
+        "text": "He's a good man and thorough",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/059_that_s_thoughtful_but_please_see_him_jeffrey_he_s_a_good_man.mp3"
+      },
+      {
+        "text": "Brought a fucking Pomeranian bowling",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/060_the_carrier_what_s_in_the_fucking_carrier_huh_oh_cynthia_s_d.mp3"
+      },
+      {
+        "text": "Really tied the room together",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/061_the_dude_repeated_line_by_the_dude_and_others_that_rug_reall.mp3"
+      },
+      {
+        "text": "You're out of your element",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/062_the_dude_walter_what_is_the_point_look_we_all_know_who_is_at.mp3"
+      },
+      {
+        "text": "The story is ludicrous",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/063_the_story_is_ludicrous.mp3"
+      },
+      {
+        "text": "You nitwit",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/064_they_did_not_receive_the_money_you_nitwit_they_did_not_recei.mp3"
+      },
+      {
+        "text": "Gonna kill that poor woman",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/065_they_re_gonna_kill_that_poor_woman.mp3"
+      },
+      {
+        "text": "Watch my buddies die face down",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/066_this_whole_fucking_thing_i_did_not_watch_my_buddies_die_face.mp3"
+      },
+      {
+        "text": "El Duderino",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/067_wait_let_me_explain_something_to_you_i_am_not_mr_lebowski_yo.mp3"
+      },
+      {
+        "text": "Let's take that hill",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/068_walter_please_fifteen_dude_this_is_it_let_s_take_that_hill.mp3"
+      },
+      {
+        "text": "I don't roll on shabbos",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/069_walter_what_am_i_gonna_tell_lebowski_i_told_that_fuck_down_a.mp3"
+      },
+      {
+        "text": "We have it",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/070_we_have_it_we_have_it_we_have_it.mp3"
+      },
+      {
+        "text": "It's a Swiss fucking watch",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/071_we_make_the_hand_off_i_grab_one_of_them_and_beat_it_out_of_h.mp3"
+      },
+      {
+        "text": "Seclusion in the west wing",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/072_we_ve_had_some_terrible_news_mr_lebowski_s_in_seclusion_in_t.mp3"
+      },
+      {
+        "text": "If I'm in the neighborhood",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/073_well_enjoy_and_perhaps_we_ll_see_you_again_sometime_dude_yea.mp3"
+      },
+      {
+        "text": "Water under the bridge",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/074_well_it_s_all_water_under_the_bridge.mp3"
+      },
+      {
+        "text": "You're like a child",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/075_were_you_listening_to_the_dude_s_story_donny_what_walter_wer.mp3"
+      },
+      {
+        "text": "I am the Walrus",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/076_what_do_you_mean_dude_rug_peers_did_not_do_this_look_at_it_a.mp3"
+      },
+      {
+        "text": "A pair of testicles",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/077_what_makes_a_man_mr_lebowski_dude_huh_oh_i_don_t_know_sir_is.mp3"
+      },
+      {
+        "text": "What the fuck are you talking about",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/078_what_the_fuck_are_you_talking_about.mp3"
+      },
+      {
+        "text": "You're not a golfer",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/079_what_the_fuck_is_this_obviously_you_re_not_a_golfer.mp3"
+      },
+      {
+        "text": "Take the ringer",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/080_where_the_fuck_are_you_going_man_take_the_ringer_i_ll_drive.mp3"
+      },
+      {
+        "text": "Where's the money Lebowski",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/081_where_s_the_money_lebowski_where_s_the_fucking_money_shithea.mp3"
+      },
+      {
+        "text": "Tattoo it on your forehead",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/082_yes_that_s_your_answer_that_s_your_answer_to_everything_tatt.mp3"
+      },
+      {
+        "text": "Dabbled in pacifism",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/083_you_know_dude_i_myself_dabbled_in_pacifism_at_one_point_not.mp3"
+      },
+      {
+        "text": "That's your name Dude",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/084_you_know_this_is_the_fucking_guy_i_could_find_this_fucking_l.mp3"
+      },
+      {
+        "text": "Mind if I do a jay",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/085_you_mind_if_i_do_a_jay.mp3"
+      },
+      {
+        "text": "Don't be fatuous Jeffrey",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/086_you_must_be_here_to_fix_the_cable_lord_you_can_imagine_where.mp3"
+      },
+      {
+        "text": "Don't remember most of it",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/087_you_never_went_to_college_please_don_t_touch_that_oh_yeah_ye.mp3"
+      },
+      {
+        "text": "Nothing is fucked here Dude",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/088_you_see_nothing_s_fucked_here_dude_nothing_is_fucked_they_re.mp3"
+      },
+      {
+        "text": "He's a nihilist",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/089_you_want_me_to_blow_on_your_toes_uh_huh_i_can_t_blow_that_fa.mp3"
+      },
+      {
+        "text": "The bums will always lose",
+        "character": "",
+        "audioUrl": "audio/big-lebowski/090_your_revolution_is_over_mr_lebowski_condolences_the_bums_los.mp3"
+      }
+    ]
+  },
+  {
+    "id": "bridesmaids",
+    "name": "Bridesmaids",
+    "type": "movie",
+    "theme": {
+      "primary": "#3a9ca0",
+      "accent": "#e07a8a",
+      "bg": "#06090a"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Anybody else have anything they want to share?!",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/001_anybody_else_have_anything_they_want_to_share.mp3"
+      },
+      {
+        "text": "Are you fucking kidding me?",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/002_are_you_fucking_kidding_me.mp3"
+      },
+      {
+        "text": "Asshole",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/003_asshole.mp3"
+      },
+      {
+        "text": "Ayee shut my mouth",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/004_ayee_shut_my_mouth.mp3"
+      },
+      {
+        "text": "Boob hit",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/005_boob_hit.mp3"
+      },
+      {
+        "text": "But I don't want to",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/006_but_i_don_t_want_to.mp3"
+      },
+      {
+        "text": "Bye",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/007_bye.mp3"
+      },
+      {
+        "text": "Celebrate",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/008_celebrate.mp3"
+      },
+      {
+        "text": "Chocolate meltdown",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/009_chocolate_meltdown.mp3"
+      },
+      {
+        "text": "Climb that like a tree",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/010_climb_that_like_a_tree.mp3"
+      },
+      {
+        "text": "Cookie meltdown",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/011_cookie_meltdown.mp3"
+      },
+      {
+        "text": "Could I Have a Glass of Alcohol",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/012_could_i_have_a_glass_of_alcohol.mp3"
+      },
+      {
+        "text": "Did you forgot to take you xanax this morning?",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/013_did_you_forgot_to_take_you_xanax_this_morning.mp3"
+      },
+      {
+        "text": "Don't repeat that!",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/014_don_t_repeat_that.mp3"
+      },
+      {
+        "text": "Everybody Has the Flu",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/015_everybody_has_the_flu.mp3"
+      },
+      {
+        "text": "Food poisoning",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/016_food_poisoning.mp3"
+      },
+      {
+        "text": "Fuck",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/017_fuck.mp3"
+      },
+      {
+        "text": "Gulp",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/018_gulp.mp3"
+      },
+      {
+        "text": "Hair flip",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/019_hair_flip.mp3"
+      },
+      {
+        "text": "Help me I'm poor",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/020_help_me_i_m_poor.mp3"
+      },
+      {
+        "text": "Help Me I'm Poor",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/021_help_me_i_m_poor.mp3"
+      },
+      {
+        "text": "Holy shit you look amazing",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/022_holy_shit_you_look_amazing.mp3"
+      },
+      {
+        "text": "I feel bad for your parents",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/023_i_feel_bad_for_your_parents.mp3"
+      },
+      {
+        "text": "I feel fine",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/024_i_feel_fine.mp3"
+      },
+      {
+        "text": "I need the toilet",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/025_i_need_the_toilet.mp3"
+      },
+      {
+        "text": "I promise I will thank you!",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/026_i_promise_i_will_thank_you.mp3"
+      },
+      {
+        "text": "I promise! Please!",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/027_i_promise_please.mp3"
+      },
+      {
+        "text": "I want balls in my face",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/028_i_want_balls_in_my_face.mp3"
+      },
+      {
+        "text": "I want you to leave",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/029_i_want_you_to_leave.mp3"
+      },
+      {
+        "text": "I'm life and I'm gonna bite you in the ass",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/030_i_m_life_and_i_m_gonna_bite_you_in_the_ass.mp3"
+      },
+      {
+        "text": "I'm not weird",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/031_i_m_not_weird.mp3"
+      },
+      {
+        "text": "I'm sure you are very popular",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/032_i_m_sure_you_are_very_popular.mp3"
+      },
+      {
+        "text": "I've seen better tennis playing in a tampon commercial",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/033_i_ve_seen_better_tennis_playing_in_a_tampon_commercial.mp3"
+      },
+      {
+        "text": "If I was drunk, would I be able to do this?",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/034_if_i_was_drunk_would_i_be_able_to_do_this.mp3"
+      },
+      {
+        "text": "Jesus Megan",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/035_jesus_megan.mp3"
+      },
+      {
+        "text": "Look away!",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/036_look_away.mp3"
+      },
+      {
+        "text": "Pity party",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/037_pity_party.mp3"
+      },
+      {
+        "text": "Pulled over",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/038_pulled_over.mp3"
+      },
+      {
+        "text": "Ready to Party",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/039_ready_to_party.mp3"
+      },
+      {
+        "text": "Ready to Party!",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/040_ready_to_party.mp3"
+      },
+      {
+        "text": "Shitting in the street",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/041_shitting_in_the_street.mp3"
+      },
+      {
+        "text": "Stove Bridesmaids",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/042_stove_bridesmaids.mp3"
+      },
+      {
+        "text": "Taking a dump in the street",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/043_taking_a_dump_in_the_street.mp3"
+      },
+      {
+        "text": "Undercover",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/044_undercover.mp3"
+      },
+      {
+        "text": "What did we eat!?",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/045_what_did_we_eat.mp3"
+      },
+      {
+        "text": "What? Why??",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/046_what_why.mp3"
+      },
+      {
+        "text": "What's Wrong With Me",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/047_what_s_wrong_with_me.mp3"
+      },
+      {
+        "text": "When You Gotta Go, You Gotta Go",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/048_when_you_gotta_go_you_gotta_go.mp3"
+      },
+      {
+        "text": "Why can't you just be happy for me?!",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/049_why_can_t_you_just_be_happy_for_me.mp3"
+      },
+      {
+        "text": "Yeah oh shit",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/050_yeah_oh_shit.mp3"
+      },
+      {
+        "text": "You would be amazed",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/051_you_would_be_amazed.mp3"
+      },
+      {
+        "text": "You're a little cunt",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/052_you_re_a_little_cunt.mp3"
+      },
+      {
+        "text": "You're your problem Annie",
+        "character": "",
+        "audioUrl": "audio/bridesmaids/053_you_re_your_problem_annie.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ferris-bueller",
+    "name": "Ferris Bueller's Day Off",
+    "type": "movie",
+    "theme": {
+      "primary": "#c43a30",
+      "accent": "#3a7dc0",
+      "bg": "#0a0706"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Bueller. Bueller",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/001_bueller_bueller.mp3"
+      },
+      {
+        "text": "Call if you need anything",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/002_call_if_you_need_anything.mp3"
+      },
+      {
+        "text": "Cameron 'I'm Dying'",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/003_cameron_i_m_dying.mp3"
+      },
+      {
+        "text": "City Celebration Parade",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/004_city_celebration_parade.mp3"
+      },
+      {
+        "text": "Come pick me up!",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/005_come_pick_me_up.mp3"
+      },
+      {
+        "text": "How could I possibly be expected to handle school on a day like this?",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/006_how_could_i_possibly_be_expected_to_handle_school_on_a_day_l.mp3"
+      },
+      {
+        "text": "I am very protective of my body",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/007_i_am_very_protective_of_my_body.mp3"
+      },
+      {
+        "text": "I knew it!",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/008_i_knew_it.mp3"
+      },
+      {
+        "text": "I need help!",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/009_i_need_help.mp3"
+      },
+      {
+        "text": "I Weep For The Future",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/010_i_weep_for_the_future.mp3"
+      },
+      {
+        "text": "I'll Go I'll Go I'll Go I'll Go",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/011_i_ll_go_i_ll_go_i_ll_go_i_ll_go.mp3"
+      },
+      {
+        "text": "Life moves pretty fast",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/012_life_moves_pretty_fast.mp3"
+      },
+      {
+        "text": "No! Apparently you don't understand",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/013_no_apparently_you_don_t_understand.mp3"
+      },
+      {
+        "text": "Ok, I'll go",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/014_ok_i_ll_go.mp3"
+      },
+      {
+        "text": "Pardon My French, But You're An Asshole",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/015_pardon_my_french_but_you_re_an_asshole.mp3"
+      },
+      {
+        "text": "Que Bella",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/016_que_bella.mp3"
+      },
+      {
+        "text": "Relax, I'm a professional",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/017_relax_i_m_a_professional.mp3"
+      },
+      {
+        "text": "Rooney, calm down",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/018_rooney_calm_down.mp3"
+      },
+      {
+        "text": "They Think He's A Righteous Dude",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/019_they_think_he_s_a_righteous_dude.mp3"
+      },
+      {
+        "text": "Twist and Shout",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/020_twist_and_shout.mp3"
+      },
+      {
+        "text": "USA",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/021_usa.mp3"
+      },
+      {
+        "text": "Worst Performances",
+        "character": "",
+        "audioUrl": "audio/ferris-bueller/022_worst_performances.mp3"
+      }
+    ]
+  },
+  {
+    "id": "caddyshack",
+    "name": "Caddyshack",
+    "type": "movie",
+    "theme": {
+      "primary": "#4a7d3a",
+      "accent": "#d9b84a",
+      "bg": "#070a05"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "A former greenskeeper now about to become the Master's champion.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/001_a_former_greenskeeper_now_about_to_become_the_master_s_champ.mp3"
+      },
+      {
+        "text": "A pool and a pond. A pond would be good for you.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/003_a_pool_and_a_pond_a_pond_would_be_good_for_you.mp3"
+      },
+      {
+        "text": "And put your clothes back on, my dear!",
+        "character": "",
+        "audioUrl": "audio/caddyshack/007_and_put_your_clothes_back_on_my_dear.mp3"
+      },
+      {
+        "text": "And you guys... take some more lessons!",
+        "character": "",
+        "audioUrl": "audio/caddyshack/008_and_you_guys_take_some_more_lessons.mp3"
+      },
+      {
+        "text": "Are you kidding? You think I'd join this crummy snobatorium?",
+        "character": "",
+        "audioUrl": "audio/caddyshack/009_are_you_kidding_you_think_i_d_join_this_crummy_snobatorium.mp3"
+      },
+      {
+        "text": "Be the ball, Danny. You're not being the ball, Danny",
+        "character": "",
+        "audioUrl": "audio/caddyshack/011_be_the_ball_danny_you_re_not_being_the_ball_danny.mp3"
+      },
+      {
+        "text": "Careful. I'm going to move right down the Ticonic Parkway...",
+        "character": "",
+        "audioUrl": "audio/caddyshack/013_careful_i_m_going_to_move_right_down_the_ticonic_parkway.mp3"
+      },
+      {
+        "text": "Come along, children. You can shake your booties down on the dock.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/014_come_along_children_you_can_shake_your_booties_down_on_the_d.mp3"
+      },
+      {
+        "text": "Come here, honey! And hey, loosen up! You're a lot of woman, you know?",
+        "character": "",
+        "audioUrl": "audio/caddyshack/015_come_here_honey_and_hey_loosen_up_you_re_a_lot_of_woman_you.mp3"
+      },
+      {
+        "text": "Come on, bark like a dog for me.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/016_come_on_bark_like_a_dog_for_me.mp3"
+      },
+      {
+        "text": "Did you understand what I said? Out!",
+        "character": "",
+        "audioUrl": "audio/caddyshack/020_did_you_understand_what_i_said_out.mp3"
+      },
+      {
+        "text": "Don't sell yourself short, Judge. You're a tremendous slouch.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/021_don_t_sell_yourself_short_judge_you_re_a_tremendous_slouch.mp3"
+      },
+      {
+        "text": "He was night putting. Just putting at night..",
+        "character": "",
+        "audioUrl": "audio/caddyshack/026_he_was_night_putting_just_putting_at_night.mp3"
+      },
+      {
+        "text": "Hey, fellows. Don't include me in on it. I don't have time.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/029_hey_fellows_don_t_include_me_in_on_it_i_don_t_have_time.mp3"
+      },
+      {
+        "text": "How about a nice, cool drink, varmints?",
+        "character": "",
+        "audioUrl": "audio/caddyshack/030_how_about_a_nice_cool_drink_varmints.mp3"
+      },
+      {
+        "text": "I christen thee The Flying Wasp",
+        "character": "",
+        "audioUrl": "audio/caddyshack/031_i_christen_thee_the_flying_wasp.mp3"
+      },
+      {
+        "text": "I feel like a 100 dollars.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/032_i_feel_like_a_100_dollars.mp3"
+      },
+      {
+        "text": "I have a number of tees in my hand. Your Honor, odd or even?",
+        "character": "",
+        "audioUrl": "audio/caddyshack/033_i_have_a_number_of_tees_in_my_hand_your_honor_odd_or_even.mp3"
+      },
+      {
+        "text": "I heard he swallowed his vomit during a test.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/035_i_heard_he_swallowed_his_vomit_during_a_test.mp3"
+      },
+      {
+        "text": "I know how hard it is for young people today and I want to help",
+        "character": "",
+        "audioUrl": "audio/caddyshack/036_i_know_how_hard_it_is_for_young_people_today_and_i_want_to_h.mp3"
+      },
+      {
+        "text": "I know you're just making this up about the other guys..",
+        "character": "",
+        "audioUrl": "audio/caddyshack/037_i_know_you_re_just_making_this_up_about_the_other_guys.mp3"
+      },
+      {
+        "text": "I think you know why you're here.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/038_i_think_you_know_why_you_re_here.mp3"
+      },
+      {
+        "text": "I told you never to call me on the golf course! What's that? Then sell!",
+        "character": "",
+        "audioUrl": "audio/caddyshack/039_i_told_you_never_to_call_me_on_the_golf_course_what_s_that_t.mp3"
+      },
+      {
+        "text": "I'll end up working in a lumber yard the rest of my life",
+        "character": "",
+        "audioUrl": "audio/caddyshack/040_i_ll_end_up_working_in_a_lumber_yard_the_rest_of_my_life.mp3"
+      },
+      {
+        "text": "I've been a little under strain. I have to play with Smails tomorrow...",
+        "character": "",
+        "audioUrl": "audio/caddyshack/042_i_ve_been_a_little_under_strain_i_have_to_play_with_smails_t.mp3"
+      },
+      {
+        "text": "Into a 10,000 foot crevice right at the base of this glacier!",
+        "character": "",
+        "audioUrl": "audio/caddyshack/043_into_a_10_000_foot_crevice_right_at_the_base_of_this_glacier.mp3"
+      },
+      {
+        "text": "It's like reaching under the rug, isn't it?",
+        "character": "",
+        "audioUrl": "audio/caddyshack/045_it_s_like_reaching_under_the_rug_isn_t_it.mp3"
+      },
+      {
+        "text": "Just hold on to your choppers.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/046_just_hold_on_to_your_choppers.mp3"
+      },
+      {
+        "text": "Let's pretend... we're real human beings.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/048_let_s_pretend_we_re_real_human_beings.mp3"
+      },
+      {
+        "text": "Look at it. That's the gopher.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/049_look_at_it_that_s_the_gopher.mp3"
+      },
+      {
+        "text": "Man... free to kill gophers at will",
+        "character": "",
+        "audioUrl": "audio/caddyshack/050_man_free_to_kill_gophers_at_will.mp3"
+      },
+      {
+        "text": "People say I'm an idiot or something...",
+        "character": "",
+        "audioUrl": "audio/caddyshack/055_people_say_i_m_an_idiot_or_something.mp3"
+      },
+      {
+        "text": "She's been plucked more times than the rose of Tralee.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/057_she_s_been_plucked_more_times_than_the_rose_of_tralee.mp3"
+      },
+      {
+        "text": "Sonja Henie is out. We'll take Danny Noonan",
+        "character": "",
+        "audioUrl": "audio/caddyshack/060_sonja_henie_is_out_we_ll_take_danny_noonan.mp3"
+      },
+      {
+        "text": "Stop that, you two! All of you!",
+        "character": "",
+        "audioUrl": "audio/caddyshack/061_stop_that_you_two_all_of_you.mp3"
+      },
+      {
+        "text": "Take your hands off her, young man!",
+        "character": "",
+        "audioUrl": "audio/caddyshack/062_take_your_hands_off_her_young_man.mp3"
+      },
+      {
+        "text": "The Judge and Mr. Czervik have a $100,000 match going on!",
+        "character": "",
+        "audioUrl": "audio/caddyshack/064_the_judge_and_mr_czervik_have_a_100_000_match_going_on.mp3"
+      },
+      {
+        "text": "The slightest prick and you wouldn't even know...",
+        "character": "",
+        "audioUrl": "audio/caddyshack/065_the_slightest_prick_and_you_wouldn_t_even_know.mp3"
+      },
+      {
+        "text": "There are more important things than grades.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/066_there_are_more_important_things_than_grades.mp3"
+      },
+      {
+        "text": "There's a bunch of them! And a summons.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/067_there_s_a_bunch_of_them_and_a_summons.mp3"
+      },
+      {
+        "text": "There's a force in the universe..",
+        "character": "",
+        "audioUrl": "audio/caddyshack/068_there_s_a_force_in_the_universe.mp3"
+      },
+      {
+        "text": "Well, if you've been a good caddy, I think they're kind of lenient.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/070_well_if_you_ve_been_a_good_caddy_i_think_they_re_kind_of_len.mp3"
+      },
+      {
+        "text": "What are we running, a restaurant?",
+        "character": "",
+        "audioUrl": "audio/caddyshack/072_what_are_we_running_a_restaurant.mp3"
+      },
+      {
+        "text": "What people here! Look at that one.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/074_what_people_here_look_at_that_one.mp3"
+      },
+      {
+        "text": "What's your address? You're on Briar, right?",
+        "character": "",
+        "audioUrl": "audio/caddyshack/075_what_s_your_address_you_re_on_briar_right.mp3"
+      },
+      {
+        "text": "Why, I could beat you with one arm.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/079_why_i_could_beat_you_with_one_arm.mp3"
+      },
+      {
+        "text": "Would you like to wrap your spikes around my head?",
+        "character": "",
+        "audioUrl": "audio/caddyshack/080_would_you_like_to_wrap_your_spikes_around_my_head.mp3"
+      },
+      {
+        "text": "Wrong! You're drinking too much, Your Excellency.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/081_wrong_you_re_drinking_too_much_your_excellency.mp3"
+      },
+      {
+        "text": "You better come in until this blows over.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/084_you_better_come_in_until_this_blows_over.mp3"
+      },
+      {
+        "text": "You don't want that scholarship, do you?",
+        "character": "",
+        "audioUrl": "audio/caddyshack/086_you_don_t_want_that_scholarship_do_you.mp3"
+      },
+      {
+        "text": "You go ahead. It looks fine to me.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/087_you_go_ahead_it_looks_fine_to_me.mp3"
+      },
+      {
+        "text": "You're a little monkey woman. You're lean...",
+        "character": "",
+        "audioUrl": "audio/caddyshack/090_you_re_a_little_monkey_woman_you_re_lean.mp3"
+      },
+      {
+        "text": "You're like a three year old!",
+        "character": "",
+        "audioUrl": "audio/caddyshack/091_you_re_like_a_three_year_old.mp3"
+      },
+      {
+        "text": "...about your ball landing in the road.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/092_about_your_ball_landing_in_the_road.mp3"
+      },
+      {
+        "text": "...and all you have to do is get in touch with it",
+        "character": "",
+        "audioUrl": "audio/caddyshack/093_and_all_you_have_to_do_is_get_in_touch_with_it.mp3"
+      },
+      {
+        "text": "...and I'd like to ask at this time...",
+        "character": "",
+        "audioUrl": "audio/caddyshack/094_and_i_d_like_to_ask_at_this_time.mp3"
+      },
+      {
+        "text": "...and you'll probably be replaced by the rat.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/096_and_you_ll_probably_be_replaced_by_the_rat.mp3"
+      },
+      {
+        "text": "...and you're mean and you're not too far between either...",
+        "character": "",
+        "audioUrl": "audio/caddyshack/097_and_you_re_mean_and_you_re_not_too_far_between_either.mp3"
+      },
+      {
+        "text": "...he's got about 350 yards left. He's going to get about a 500...",
+        "character": "",
+        "audioUrl": "audio/caddyshack/099_he_s_got_about_350_yards_left_he_s_going_to_get_about_a_500.mp3"
+      },
+      {
+        "text": "...manganese. A lot of people don't even know what that is.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/100_manganese_a_lot_of_people_don_t_even_know_what_that_is.mp3"
+      },
+      {
+        "text": "...or anything that might get me fired.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/101_or_anything_that_might_get_me_fired.mp3"
+      },
+      {
+        "text": "...to come down for quite a while.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/102_to_come_down_for_quite_a_while.mp3"
+      },
+      {
+        "text": "...why don't you drop by the Yacht Club?",
+        "character": "",
+        "audioUrl": "audio/caddyshack/103_why_don_t_you_drop_by_the_yacht_club.mp3"
+      },
+      {
+        "text": "...without the L as we do.",
+        "character": "",
+        "audioUrl": "audio/caddyshack/104_without_the_l_as_we_do.mp3"
+      }
+    ]
+  },
+  {
+    "id": "breakfast-club",
+    "name": "The Breakfast Club",
+    "type": "movie",
+    "theme": {
+      "primary": "#5a7a9c",
+      "accent": "#d4a23a",
+      "bg": "#080a0d"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Blows hair out of face",
+        "character": "",
+        "audioUrl": "audio/breakfast-club/003_blows_hair_out_of_face.mp3"
+      },
+      {
+        "text": "Demented and sad, but social",
+        "character": "",
+        "audioUrl": "audio/breakfast-club/011_demented_and_sad_but_social.mp3"
+      },
+      {
+        "text": "Does Barry Manilow Know You Raid His Wardrobe?",
+        "character": "",
+        "audioUrl": "audio/breakfast-club/013_does_barry_manilow_know_you_raid_his_wardrobe.mp3"
+      },
+      {
+        "text": "Don't mess with the bull, you'll get the horns",
+        "character": "",
+        "audioUrl": "audio/breakfast-club/014_don_t_mess_with_the_bull_you_ll_get_the_horns.mp3"
+      },
+      {
+        "text": "Fear God and the FBI",
+        "character": "",
+        "audioUrl": "audio/breakfast-club/016_fear_god_and_the_fbi.mp3"
+      },
+      {
+        "text": "I can answer that right now. No",
+        "character": "",
+        "audioUrl": "audio/breakfast-club/020_i_can_answer_that_right_now_no.mp3"
+      },
+      {
+        "text": "I have just as many feelings as you do",
+        "character": "",
+        "audioUrl": "audio/breakfast-club/022_i_have_just_as_many_feelings_as_you_do.mp3"
+      },
+      {
+        "text": "I hope so (Kodak Black)",
+        "character": "",
+        "audioUrl": "audio/breakfast-club/023_i_hope_so_kodak_black.mp3"
+      },
+      {
+        "text": "What can I say? I'm thrilled",
+        "character": "",
+        "audioUrl": "audio/breakfast-club/044_what_can_i_say_i_m_thrilled.mp3"
+      },
+      {
+        "text": "What do you care what I think?",
+        "character": "",
+        "audioUrl": "audio/breakfast-club/045_what_do_you_care_what_i_think.mp3"
+      },
+      {
+        "text": "When you grow up your heart dies",
+        "character": "",
+        "audioUrl": "audio/breakfast-club/046_when_you_grow_up_your_heart_dies.mp3"
+      },
+      {
+        "text": "You couldn't ignore me if you tried",
+        "character": "",
+        "audioUrl": "audio/breakfast-club/048_you_couldn_t_ignore_me_if_you_tried.mp3"
+      },
+      {
+        "text": "You really think I give a shit?",
+        "character": "",
+        "audioUrl": "audio/breakfast-club/050_you_really_think_i_give_a_shit.mp3"
+      },
+      {
+        "text": "You want to blow your scholarship?",
+        "character": "",
+        "audioUrl": "audio/breakfast-club/051_you_want_to_blow_your_scholarship.mp3"
+      },
+      {
+        "text": "You're a neo maxi zoom dweebie",
+        "character": "",
+        "audioUrl": "audio/breakfast-club/052_you_re_a_neo_maxi_zoom_dweebie.mp3"
+      }
+    ]
+  },
+  {
+    "id": "big-daddy",
+    "name": "Big Daddy",
+    "type": "movie",
+    "theme": {
+      "primary": "#e08a2a",
+      "accent": "#3a7d9c",
+      "bg": "#0a0805"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "ALRIGHT!",
+        "character": "",
+        "audioUrl": "audio/big-daddy/001_alright.mp3"
+      },
+      {
+        "text": "Bring it on woman",
+        "character": "",
+        "audioUrl": "audio/big-daddy/002_bring_it_on_woman.mp3"
+      },
+      {
+        "text": "Doing the Hibbity Dibbity",
+        "character": "",
+        "audioUrl": "audio/big-daddy/003_doing_the_hibbity_dibbity.mp3"
+      },
+      {
+        "text": "Hell yes",
+        "character": "",
+        "audioUrl": "audio/big-daddy/004_hell_yes.mp3"
+      },
+      {
+        "text": "Hey, I love you",
+        "character": "",
+        "audioUrl": "audio/big-daddy/005_hey_i_love_you.mp3"
+      },
+      {
+        "text": "Hip Hop Anonymous",
+        "character": "",
+        "audioUrl": "audio/big-daddy/006_hip_hop_anonymous.mp3"
+      },
+      {
+        "text": "I don't want to study",
+        "character": "",
+        "audioUrl": "audio/big-daddy/007_i_don_t_want_to_study.mp3"
+      },
+      {
+        "text": "I wipe my own ass",
+        "character": "",
+        "audioUrl": "audio/big-daddy/008_i_wipe_my_own_ass.mp3"
+      },
+      {
+        "text": "Loose skin and old balls. Gross",
+        "character": "",
+        "audioUrl": "audio/big-daddy/009_loose_skin_and_old_balls_gross.mp3"
+      },
+      {
+        "text": "Not proposing are you?",
+        "character": "",
+        "audioUrl": "audio/big-daddy/010_not_proposing_are_you.mp3"
+      },
+      {
+        "text": "Old Man River, zip it or I'll break your hip",
+        "character": "",
+        "audioUrl": "audio/big-daddy/011_old_man_river_zip_it_or_i_ll_break_your_hip.mp3"
+      },
+      {
+        "text": "Please Don't Do This To Me",
+        "character": "",
+        "audioUrl": "audio/big-daddy/012_please_don_t_do_this_to_me.mp3"
+      },
+      {
+        "text": "Prove it!",
+        "character": "",
+        "audioUrl": "audio/big-daddy/013_prove_it.mp3"
+      },
+      {
+        "text": "Sausage McMuffin",
+        "character": "",
+        "audioUrl": "audio/big-daddy/014_sausage_mcmuffin.mp3"
+      },
+      {
+        "text": "Scuba Steve, Damn You!",
+        "character": "",
+        "audioUrl": "audio/big-daddy/015_scuba_steve_damn_you.mp3"
+      },
+      {
+        "text": "Stop yelling at me",
+        "character": "",
+        "audioUrl": "audio/big-daddy/016_stop_yelling_at_me.mp3"
+      },
+      {
+        "text": "The Goddamn Jets",
+        "character": "",
+        "audioUrl": "audio/big-daddy/017_the_goddamn_jets.mp3"
+      },
+      {
+        "text": "We wasted the good surprise on you",
+        "character": "",
+        "audioUrl": "audio/big-daddy/018_we_wasted_the_good_surprise_on_you.mp3"
+      },
+      {
+        "text": "We're both losing weight",
+        "character": "",
+        "audioUrl": "audio/big-daddy/019_we_re_both_losing_weight.mp3"
+      },
+      {
+        "text": "You gave him the easy ones",
+        "character": "",
+        "audioUrl": "audio/big-daddy/020_you_gave_him_the_easy_ones.mp3"
+      },
+      {
+        "text": "You Give Him the Easy Ones",
+        "character": "",
+        "audioUrl": "audio/big-daddy/021_you_give_him_the_easy_ones.mp3"
+      },
+      {
+        "text": "5 Year Plan: Don't Die",
+        "character": "",
+        "audioUrl": "audio/big-daddy/022_5_year_plan_don_t_die.mp3"
+      }
+    ]
+  },
+  {
+    "id": "rush-hour-2",
+    "name": "Rush Hour 2",
+    "type": "movie",
+    "theme": {
+      "primary": "#d4922a",
+      "accent": "#b83a2a",
+      "bg": "#0a0705"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Cut off our egg rolls",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/001_ain_t_no_use_man_just_tell_me_how_the_triads_are_gonna_kill.mp3"
+      },
+      {
+        "text": "Looking for a guy named Zing",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/002_all_right_excuse_me_l_a_p_d_we_re_looking_for_a_guy_named_zi.mp3"
+      },
+      {
+        "text": "Aw hell no",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/003_aw_hell_no_uh_uh.mp3"
+      },
+      {
+        "text": "You third world ugly",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/004_because_i_m_tall_dark_and_handsome_and_you_third_world_ugly.mp3"
+      },
+      {
+        "text": "Words coming out of my mouth",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/005_carter_who_died_lee_you_detective_yu_not_yu_you_who_you_who.mp3"
+      },
+      {
+        "text": "You held out on me",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/006_carter_you_don_t_understand_oh_i_understand_all_right_i_got.mp3"
+      },
+      {
+        "text": "Cheap suits",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/007_carter_carter_heaven_on_earth_massage_parlor_heaven_on_earth.mp3"
+      },
+      {
+        "text": "Watch out behind you",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/008_carter_over_here_lee_help_me_how_you_get_down_there_hurry_up.mp3"
+      },
+      {
+        "text": "How cheap",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/009_cheap_suits_cheap_suits_how_cheap_cheap_suits.mp3"
+      },
+      {
+        "text": "He will report to me",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/010_chief_inspector_lee_will_supervise_your_people_no_he_will_re.mp3"
+      },
+      {
+        "text": "You better chill out boy",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/011_come_on_you_better_chill_out_boy.mp3"
+      },
+      {
+        "text": "Get the hell outta here",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/012_don_t_worry_it_s_okay_you_better_get_the_hell_outta_here.mp3"
+      },
+      {
+        "text": "Get your hands off",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/013_escort_detective_carter_to_the_airport_no_i_ll_take_him_get.mp3"
+      },
+      {
+        "text": "You little rascal",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/014_excuse_me_l_a_p_d_we_re_lookin_for_a_guy_named_zing_you_come.mp3"
+      },
+      {
+        "text": "Goes out to everyone",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/015_get_the_hell_on_then_come_on_let_s_go_this_right_here_tell_y.mp3"
+      },
+      {
+        "text": "Takin this for evidence",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/016_hello_benjamin_what_are_you_doing_i_m_takin_this_for_evidenc.mp3"
+      },
+      {
+        "text": "Don't be talking about me",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/017_hey_i_heard_that_i_heard_that_don_t_be_talking_about_me_man.mp3"
+      },
+      {
+        "text": "Hell is wrong with you",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/018_hey_slow_down_chen_hell_is_wrong_with_you.mp3"
+      },
+      {
+        "text": "L.A.P.D. ass kickin",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/019_hey_lady_what_are_you_doin_get_down_i_m_l_a_p_d_you_just_kic.mp3"
+      },
+      {
+        "text": "You embarrass yourself",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/020_how_you_gonna_come_up_here_and_jam_me_up_like_this_james_huh.mp3"
+      },
+      {
+        "text": "Flew 10,000 miles for this shit",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/021_i_can_t_believe_i_flew_10_000_miles_for_this_shit.mp3"
+      },
+      {
+        "text": "Chopsticks stuck up my ass",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/022_i_can_t_believe_you_lied_to_me_man_i_m_sorry_you_sorry_i_got.mp3"
+      },
+      {
+        "text": "Speak English to me",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/023_i_did_what_you_said_i_did_this_what_do_this_mean_man_speak_e.mp3"
+      },
+      {
+        "text": "I like my chickens dead and deep fried",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/024_i_don_t_like_my_chickens_live_okay_i_like_them_dead_and_deep.mp3"
+      },
+      {
+        "text": "Many times on my private plane",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/025_i_know_san_juan_i_ve_traveled_there_many_times_on_my_private.mp3"
+      },
+      {
+        "text": "I laced the track you locked the flow",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/026_i_laced_the_track_you_locked_the_flow.mp3"
+      },
+      {
+        "text": "Ain't got time for games",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/027_i_see_what_s_goin_on_here_okay_i_ain_t_got_time_to_be_playin.mp3"
+      },
+      {
+        "text": "California girls",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/028_i_wish_they_all_could_be_california_girls_the_beach_boys_are.mp3"
+      },
+      {
+        "text": "Bitch slap you back to Africa",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/029_i_ll_bitch_slap_you_back_to_africa_oh_you_will.mp3"
+      },
+      {
+        "text": "Let the bird go right now",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/030_i_m_a_police_officer_put_the_blade_down_and_let_the_bird_go.mp3"
+      },
+      {
+        "text": "An LAPD ass kicking",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/031_i_m_gonna_give_you_an_l_a_p_d_ass_kicking.mp3"
+      },
+      {
+        "text": "Cute like Snoopy",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/032_i_m_not_third_world_ugly_women_like_me_they_think_i_m_cute_l.mp3"
+      },
+      {
+        "text": "I'm sick of your bullshit",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/033_i_m_sick_of_your_bullshit_i_m_sick_of_you_i_m_not_the_one_ru.mp3"
+      },
+      {
+        "text": "Chopsticks stuck up my ass",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/034_i_m_sorry_you_re_sorry_i_got_somebody_s_old_chopsticks_stuck.mp3"
+      },
+      {
+        "text": "It's fake, he got you",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/035_it_s_fake_he_got_you_who_you_say_gave_that_to_you_cat_named.mp3"
+      },
+      {
+        "text": "Who the hell was that",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/036_james_carter_who_the_hell_was_that.mp3"
+      },
+      {
+        "text": "I am a tourist fool",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/037_just_follow_my_lead_act_like_a_tourist_i_am_a_tourist_fool.mp3"
+      },
+      {
+        "text": "Cut off our egg rolls",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/038_just_tell_me_how_the_triads_are_gonna_kill_us_they_will_tort.mp3"
+      },
+      {
+        "text": "Damn you fine Carter",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/039_kick_the_door_what_the_he_no_no_no_damn_you_fine_carter.mp3"
+      },
+      {
+        "text": "Follow the rich white man",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/040_lee_let_me_introduce_you_to_carter_s_theory_of_criminal_inve.mp3"
+      },
+      {
+        "text": "A midget in a bathrobe",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/041_lee_what_s_wrong_that_s_ricky_tan_that_s_ricky_tan_that_s_a.mp3"
+      },
+      {
+        "text": "This man rolls like this",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/042_lee_why_didn_t_you_tell_me_this_man_rolls_like_this.mp3"
+      },
+      {
+        "text": "All he wanted was some Mushu",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/043_lee_all_he_wanted_was_some_mushu.mp3"
+      },
+      {
+        "text": "I want some Mu shu",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/044_lee_you_owe_me_a_copy_of_the_beach_boy_s_greatest_hits_james.mp3"
+      },
+      {
+        "text": "Flew 10,000 miles for this shit",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/045_let_go_let_go_i_can_t_believe_i_flew_10_000_miles_for_this_s.mp3"
+      },
+      {
+        "text": "Lord Jesus I don't wanna die",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/046_lord_jesus_i_don_t_wanna_die.mp3"
+      },
+      {
+        "text": "Buffet line",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/047_man_you_don_t_jump_in_front_of_a_black_man_in_a_buffet_line.mp3"
+      },
+      {
+        "text": "Lee's new muscle",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/048_no_i_m_lee_s_new_muscle_and_don_t_let_this_robe_fool_you_thi.mp3"
+      },
+      {
+        "text": "She was the bomb",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/049_now_why_did_you_say_it_was_a_bomb_no_you_said_that_no_you_sa.mp3"
+      },
+      {
+        "text": "I see what I'm thinking",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/050_oh_i_know_i_don_t_think_i_see_what_i_see_what_i_m_thinking.mp3"
+      },
+      {
+        "text": "No wonder you mad",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/051_oh_no_wonder_you_mad.mp3"
+      },
+      {
+        "text": "Who know Ricky Tan",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/052_okay_y_all_gonna_act_like_y_all_don_t_hear_what_i_m_sayin_wh.mp3"
+      },
+      {
+        "text": "No quiet room no more",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/053_please_follow_her_upstairs_into_the_quiet_room_it_ain_t_gonn.mp3"
+      },
+      {
+        "text": "They don't know that",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/054_secret_service_agent_james_carter_aw_that_sounds_good_it_s_g.mp3"
+      },
+      {
+        "text": "Cute like Snoopy",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/055_seeing_the_way_she_was_staring_at_a_brother_she_never_even_l.mp3"
+      },
+      {
+        "text": "She was the bomb",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/056_she_was_the_bomb.mp3"
+      },
+      {
+        "text": "So you comin or what",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/057_so_you_gettin_on_the_plane_with_me_or_not_what_you_know_my_d.mp3"
+      },
+      {
+        "text": "Put that knife away bitch",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/058_some_apple_i_d_put_that_knife_away_bitch_before_you_have_an.mp3"
+      },
+      {
+        "text": "When Godzilla's coming",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/059_tell_you_something_about_black_people_when_stuff_goes_down_w.mp3"
+      },
+      {
+        "text": "Bite it like a little monkey",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/060_that_s_it_bite_that_thing_bite_it_bite_it_like_a_little_monk.mp3"
+      },
+      {
+        "text": "Two billion Chinese people",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/061_there_s_two_billion_chinese_people_here_let_one_of_them_be_y.mp3"
+      },
+      {
+        "text": "7-Eleven",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/062_they_re_brothers_oh_all_right_all_right_7_11_hey_i_heard_tha.mp3"
+      },
+      {
+        "text": "Pretty good ribs here",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/063_this_is_my_informant_s_place_they_got_pretty_good_ribs_here.mp3"
+      },
+      {
+        "text": "Throw the bomb over the edge",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/064_throw_it_lee_where_throw_it_where_throw_the_bomb_over_the_ed.mp3"
+      },
+      {
+        "text": "All y'all look alike",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/065_unh_sorry_man_carter_all_y_all_look_alike.mp3"
+      },
+      {
+        "text": "Don't eat my chicken",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/066_wait_right_here_i_ll_be_right_back_you_understand_yes_i_unde.mp3"
+      },
+      {
+        "text": "Taking this for evidence",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/067_what_are_you_doing_i_m_taking_this_for_evidence_carter.mp3"
+      },
+      {
+        "text": "Ricky Tan was his partner",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/068_what_the_hell_is_going_on_here_lee_remember_i_told_you_my_fa.mp3"
+      },
+      {
+        "text": "Your ass is pushin it",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/069_what_d_you_do_that_for_that_was_unnecessary_you_done_knocked.mp3"
+      },
+      {
+        "text": "It's just so boring",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/070_what_s_she_doing_what_s_she_doin_man_she_s_just_standing_aro.mp3"
+      },
+      {
+        "text": "White people ain't that cool",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/071_when_the_shooting_started_he_was_way_too_cool_when_people_st.mp3"
+      },
+      {
+        "text": "Chinese bamboo is very strong",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/072_who_the_hell_was_that_lord_jesus_i_don_t_wanna_die_lee_help.mp3"
+      },
+      {
+        "text": "Use them tiger teeth",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/073_yank_it_use_them_tiger_teeth.mp3"
+      },
+      {
+        "text": "You Asians don't hear that well",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/074_you_american_are_so_funny_and_you_asians_don_t_hear_that_wel.mp3"
+      },
+      {
+        "text": "I heard it was the bomb",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/075_you_get_massage_from_chinese_girl_before_no_but_i_heard_it_w.mp3"
+      },
+      {
+        "text": "This is our investigation",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/076_you_have_information_it_belongs_to_us_this_is_still_hong_kon.mp3"
+      },
+      {
+        "text": "I ain't even Chinese",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/077_you_know_what_i_don_t_even_know_why_the_hell_i_m_here_i_ain.mp3"
+      },
+      {
+        "text": "All he wanted was mu shu",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/078_you_okay_lee_all_he_wanted_was_some_mu_shu.mp3"
+      },
+      {
+        "text": "Lunch money from third grade",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/079_you_still_have_the_bills_still_got_my_lunch_money_from_the_t.mp3"
+      },
+      {
+        "text": "You'll never understand me",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/080_you_will_never_understand_me_you_right_i_didn_t_even_underst.mp3"
+      },
+      {
+        "text": "You're messing up my vacation",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/081_you_re_messing_up_my_vacation_now_i_told_you_to_get_up_didn.mp3"
+      },
+      {
+        "text": "No wonder you mad",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/082_carter_lee_no_wonder_you_mad.mp3"
+      },
+      {
+        "text": "Give me your left leg",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/083_i_don_t_wanna_die_be_quiet_okay_give_me_your_left_leg_what.mp3"
+      },
+      {
+        "text": "Words coming out of my mouth",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/084_ricky_tan_where_is_he_i_don_t_know_he_killed_a_detective_to.mp3"
+      },
+      {
+        "text": "I said nothing",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/085_slow_down_baby_what_nothing_i_said_nothing_you_said_somethi.mp3"
+      },
+      {
+        "text": "All y'all look alike",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/086_sorry_man_carter_all_y_all_look_alike_watch_out.mp3"
+      },
+      {
+        "text": "Heaven on earth",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/087_where_the_hell_we_at_now_massage_parlor_heaven_on_earth_now.mp3"
+      },
+      {
+        "text": "Am I bleedin'",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/088_you_okay_yeah_i_slipped_and_i_fell_hey_what_am_i_bleedin.mp3"
+      },
+      {
+        "text": "You bring American money",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/089_girl_yeah_my_american_friend_is_on_vacation_i_want_to_show.mp3"
+      },
+      {
+        "text": "They're brothers",
+        "character": "",
+        "audioUrl": "audio/rush-hour-2/090_in_cantonese_lee_where_did_you_learn_that_kenny_master_chin.mp3"
+      }
+    ]
+  },
+  {
+    "id": "scarface",
+    "name": "Scarface",
+    "type": "movie",
+    "theme": {
+      "primary": "#9c2b2b",
+      "accent": "#d9b84a",
+      "bg": "#0a0606"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Bad guy",
+        "character": "",
+        "audioUrl": "audio/scarface/001_badguy.mp3"
+      },
+      {
+        "text": "Balls",
+        "character": "",
+        "audioUrl": "audio/scarface/002_balls1.mp3"
+      },
+      {
+        "text": "Can't you stop saying fuck all the time?",
+        "character": "",
+        "audioUrl": "audio/scarface/003_can_t_you_stop_saying_fuck_all_the_time.mp3"
+      },
+      {
+        "text": "Cockroach",
+        "character": "",
+        "audioUrl": "audio/scarface/004_cockroach.mp3"
+      },
+      {
+        "text": "Die",
+        "character": "",
+        "audioUrl": "audio/scarface/005_die.mp3"
+      },
+      {
+        "text": "Hello, pussy",
+        "character": "",
+        "audioUrl": "audio/scarface/006_hlpussy.mp3"
+      },
+      {
+        "text": "Me",
+        "character": "",
+        "audioUrl": "audio/scarface/007_me.mp3"
+      },
+      {
+        "text": "Pig",
+        "character": "",
+        "audioUrl": "audio/scarface/008_pig.mp3"
+      },
+      {
+        "text": "Power",
+        "character": "",
+        "audioUrl": "audio/scarface/009_power.mp3"
+      },
+      {
+        "text": "Stupid",
+        "character": "",
+        "audioUrl": "audio/scarface/010_stupid.mp3"
+      },
+      {
+        "text": "Time",
+        "character": "",
+        "audioUrl": "audio/scarface/011_time.mp3"
+      }
+    ]
   }
 ];

@@ -1,0 +1,43 @@
+001_badguy.mp3
+  "Bad guy"
+  CHARACTER: 
+
+002_balls1.mp3
+  "Balls"
+  CHARACTER: 
+
+003_can_t_you_stop_saying_fuck_all_the_time.mp3
+  "Can't you stop saying fuck all the time?"
+  CHARACTER: 
+
+004_cockroach.mp3
+  "Cockroach"
+  CHARACTER: 
+
+005_die.mp3
+  "Die"
+  CHARACTER: 
+
+006_hlpussy.mp3
+  "Hello, pussy"
+  CHARACTER: 
+
+007_me.mp3
+  "Me"
+  CHARACTER: 
+
+008_pig.mp3
+  "Pig"
+  CHARACTER: 
+
+009_power.mp3
+  "Power"
+  CHARACTER: 
+
+010_stupid.mp3
+  "Stupid"
+  CHARACTER: 
+
+011_time.mp3
+  "Time"
+  CHARACTER: 

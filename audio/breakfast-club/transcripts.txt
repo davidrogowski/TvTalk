@@ -1,0 +1,59 @@
+003_blows_hair_out_of_face.mp3
+  "Blows hair out of face"
+  CHARACTER: 
+
+011_demented_and_sad_but_social.mp3
+  "Demented and sad, but social"
+  CHARACTER: 
+
+013_does_barry_manilow_know_you_raid_his_wardrobe.mp3
+  "Does Barry Manilow Know You Raid His Wardrobe?"
+  CHARACTER: 
+
+014_don_t_mess_with_the_bull_you_ll_get_the_horns.mp3
+  "Don't mess with the bull, you'll get the horns"
+  CHARACTER: 
+
+016_fear_god_and_the_fbi.mp3
+  "Fear God and the FBI"
+  CHARACTER: 
+
+020_i_can_answer_that_right_now_no.mp3
+  "I can answer that right now. No"
+  CHARACTER: 
+
+022_i_have_just_as_many_feelings_as_you_do.mp3
+  "I have just as many feelings as you do"
+  CHARACTER: 
+
+023_i_hope_so_kodak_black.mp3
+  "I hope so (Kodak Black)"
+  CHARACTER: 
+
+044_what_can_i_say_i_m_thrilled.mp3
+  "What can I say? I'm thrilled"
+  CHARACTER: 
+
+045_what_do_you_care_what_i_think.mp3
+  "What do you care what I think?"
+  CHARACTER: 
+
+046_when_you_grow_up_your_heart_dies.mp3
+  "When you grow up your heart dies"
+  CHARACTER: 
+
+048_you_couldn_t_ignore_me_if_you_tried.mp3
+  "You couldn't ignore me if you tried"
+  CHARACTER: 
+
+050_you_really_think_i_give_a_shit.mp3
+  "You really think I give a shit?"
+  CHARACTER: 
+
+051_you_want_to_blow_your_scholarship.mp3
+  "You want to blow your scholarship?"
+  CHARACTER: 
+
+052_you_re_a_neo_maxi_zoom_dweebie.mp3
+  "You're a neo maxi zoom dweebie"
+  CHARACTER: 

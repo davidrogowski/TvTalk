@@ -1,0 +1,87 @@
+001_alright.mp3
+  "ALRIGHT!"
+  CHARACTER: 
+
+002_bring_it_on_woman.mp3
+  "Bring it on woman"
+  CHARACTER: 
+
+003_doing_the_hibbity_dibbity.mp3
+  "Doing the Hibbity Dibbity"
+  CHARACTER: 
+
+004_hell_yes.mp3
+  "Hell yes"
+  CHARACTER: 
+
+005_hey_i_love_you.mp3
+  "Hey, I love you"
+  CHARACTER: 
+
+006_hip_hop_anonymous.mp3
+  "Hip Hop Anonymous"
+  CHARACTER: 
+
+007_i_don_t_want_to_study.mp3
+  "I don't want to study"
+  CHARACTER: 
+
+008_i_wipe_my_own_ass.mp3
+  "I wipe my own ass"
+  CHARACTER: 
+
+009_loose_skin_and_old_balls_gross.mp3
+  "Loose skin and old balls. Gross"
+  CHARACTER: 
+
+010_not_proposing_are_you.mp3
+  "Not proposing are you?"
+  CHARACTER: 
+
+011_old_man_river_zip_it_or_i_ll_break_your_hip.mp3
+  "Old Man River, zip it or I'll break your hip"
+  CHARACTER: 
+
+012_please_don_t_do_this_to_me.mp3
+  "Please Don't Do This To Me"
+  CHARACTER: 
+
+013_prove_it.mp3
+  "Prove it!"
+  CHARACTER: 
+
+014_sausage_mcmuffin.mp3
+  "Sausage McMuffin"
+  CHARACTER: 
+
+015_scuba_steve_damn_you.mp3
+  "Scuba Steve, Damn You!"
+  CHARACTER: 
+
+016_stop_yelling_at_me.mp3
+  "Stop yelling at me"
+  CHARACTER: 
+
+017_the_goddamn_jets.mp3
+  "The Goddamn Jets"
+  CHARACTER: 
+
+018_we_wasted_the_good_surprise_on_you.mp3
+  "We wasted the good surprise on you"
+  CHARACTER: 
+
+019_we_re_both_losing_weight.mp3
+  "We're both losing weight"
+  CHARACTER: 
+
+020_you_gave_him_the_easy_ones.mp3
+  "You gave him the easy ones"
+  CHARACTER: 
+
+021_you_give_him_the_easy_ones.mp3
+  "You Give Him the Easy Ones"
+  CHARACTER: 
+
+022_5_year_plan_don_t_die.mp3
+  "5 Year Plan: Don't Die"
+  CHARACTER: 

@@ -1,0 +1,359 @@
+001_ain_t_no_use_man_just_tell_me_how_the_triads_are_gonna_kill.mp3
+  "Cut off our egg rolls"
+  CHARACTER: 
+
+002_all_right_excuse_me_l_a_p_d_we_re_looking_for_a_guy_named_zi.mp3
+  "Looking for a guy named Zing"
+  CHARACTER: 
+
+003_aw_hell_no_uh_uh.mp3
+  "Aw hell no"
+  CHARACTER: 
+
+004_because_i_m_tall_dark_and_handsome_and_you_third_world_ugly.mp3
+  "You third world ugly"
+  CHARACTER: 
+
+005_carter_who_died_lee_you_detective_yu_not_yu_you_who_you_who.mp3
+  "Words coming out of my mouth"
+  CHARACTER: 
+
+006_carter_you_don_t_understand_oh_i_understand_all_right_i_got.mp3
+  "You held out on me"
+  CHARACTER: 
+
+007_carter_carter_heaven_on_earth_massage_parlor_heaven_on_earth.mp3
+  "Cheap suits"
+  CHARACTER: 
+
+008_carter_over_here_lee_help_me_how_you_get_down_there_hurry_up.mp3
+  "Watch out behind you"
+  CHARACTER: 
+
+009_cheap_suits_cheap_suits_how_cheap_cheap_suits.mp3
+  "How cheap"
+  CHARACTER: 
+
+010_chief_inspector_lee_will_supervise_your_people_no_he_will_re.mp3
+  "He will report to me"
+  CHARACTER: 
+
+011_come_on_you_better_chill_out_boy.mp3
+  "You better chill out boy"
+  CHARACTER: 
+
+012_don_t_worry_it_s_okay_you_better_get_the_hell_outta_here.mp3
+  "Get the hell outta here"
+  CHARACTER: 
+
+013_escort_detective_carter_to_the_airport_no_i_ll_take_him_get.mp3
+  "Get your hands off"
+  CHARACTER: 
+
+014_excuse_me_l_a_p_d_we_re_lookin_for_a_guy_named_zing_you_come.mp3
+  "You little rascal"
+  CHARACTER: 
+
+015_get_the_hell_on_then_come_on_let_s_go_this_right_here_tell_y.mp3
+  "Goes out to everyone"
+  CHARACTER: 
+
+016_hello_benjamin_what_are_you_doing_i_m_takin_this_for_evidenc.mp3
+  "Takin this for evidence"
+  CHARACTER: 
+
+017_hey_i_heard_that_i_heard_that_don_t_be_talking_about_me_man.mp3
+  "Don't be talking about me"
+  CHARACTER: 
+
+018_hey_slow_down_chen_hell_is_wrong_with_you.mp3
+  "Hell is wrong with you"
+  CHARACTER: 
+
+019_hey_lady_what_are_you_doin_get_down_i_m_l_a_p_d_you_just_kic.mp3
+  "L.A.P.D. ass kickin"
+  CHARACTER: 
+
+020_how_you_gonna_come_up_here_and_jam_me_up_like_this_james_huh.mp3
+  "You embarrass yourself"
+  CHARACTER: 
+
+021_i_can_t_believe_i_flew_10_000_miles_for_this_shit.mp3
+  "Flew 10,000 miles for this shit"
+  CHARACTER: 
+
+022_i_can_t_believe_you_lied_to_me_man_i_m_sorry_you_sorry_i_got.mp3
+  "Chopsticks stuck up my ass"
+  CHARACTER: 
+
+023_i_did_what_you_said_i_did_this_what_do_this_mean_man_speak_e.mp3
+  "Speak English to me"
+  CHARACTER: 
+
+024_i_don_t_like_my_chickens_live_okay_i_like_them_dead_and_deep.mp3
+  "I like my chickens dead and deep fried"
+  CHARACTER: 
+
+025_i_know_san_juan_i_ve_traveled_there_many_times_on_my_private.mp3
+  "Many times on my private plane"
+  CHARACTER: 
+
+026_i_laced_the_track_you_locked_the_flow.mp3
+  "I laced the track you locked the flow"
+  CHARACTER: 
+
+027_i_see_what_s_goin_on_here_okay_i_ain_t_got_time_to_be_playin.mp3
+  "Ain't got time for games"
+  CHARACTER: 
+
+028_i_wish_they_all_could_be_california_girls_the_beach_boys_are.mp3
+  "California girls"
+  CHARACTER: 
+
+029_i_ll_bitch_slap_you_back_to_africa_oh_you_will.mp3
+  "Bitch slap you back to Africa"
+  CHARACTER: 
+
+030_i_m_a_police_officer_put_the_blade_down_and_let_the_bird_go.mp3
+  "Let the bird go right now"
+  CHARACTER: 
+
+031_i_m_gonna_give_you_an_l_a_p_d_ass_kicking.mp3
+  "An LAPD ass kicking"
+  CHARACTER: 
+
+032_i_m_not_third_world_ugly_women_like_me_they_think_i_m_cute_l.mp3
+  "Cute like Snoopy"
+  CHARACTER: 
+
+033_i_m_sick_of_your_bullshit_i_m_sick_of_you_i_m_not_the_one_ru.mp3
+  "I'm sick of your bullshit"
+  CHARACTER: 
+
+034_i_m_sorry_you_re_sorry_i_got_somebody_s_old_chopsticks_stuck.mp3
+  "Chopsticks stuck up my ass"
+  CHARACTER: 
+
+035_it_s_fake_he_got_you_who_you_say_gave_that_to_you_cat_named.mp3
+  "It's fake, he got you"
+  CHARACTER: 
+
+036_james_carter_who_the_hell_was_that.mp3
+  "Who the hell was that"
+  CHARACTER: 
+
+037_just_follow_my_lead_act_like_a_tourist_i_am_a_tourist_fool.mp3
+  "I am a tourist fool"
+  CHARACTER: 
+
+038_just_tell_me_how_the_triads_are_gonna_kill_us_they_will_tort.mp3
+  "Cut off our egg rolls"
+  CHARACTER: 
+
+039_kick_the_door_what_the_he_no_no_no_damn_you_fine_carter.mp3
+  "Damn you fine Carter"
+  CHARACTER: 
+
+040_lee_let_me_introduce_you_to_carter_s_theory_of_criminal_inve.mp3
+  "Follow the rich white man"
+  CHARACTER: 
+
+041_lee_what_s_wrong_that_s_ricky_tan_that_s_ricky_tan_that_s_a.mp3
+  "A midget in a bathrobe"
+  CHARACTER: 
+
+042_lee_why_didn_t_you_tell_me_this_man_rolls_like_this.mp3
+  "This man rolls like this"
+  CHARACTER: 
+
+043_lee_all_he_wanted_was_some_mushu.mp3
+  "All he wanted was some Mushu"
+  CHARACTER: 
+
+044_lee_you_owe_me_a_copy_of_the_beach_boy_s_greatest_hits_james.mp3
+  "I want some Mu shu"
+  CHARACTER: 
+
+045_let_go_let_go_i_can_t_believe_i_flew_10_000_miles_for_this_s.mp3
+  "Flew 10,000 miles for this shit"
+  CHARACTER: 
+
+046_lord_jesus_i_don_t_wanna_die.mp3
+  "Lord Jesus I don't wanna die"
+  CHARACTER: 
+
+047_man_you_don_t_jump_in_front_of_a_black_man_in_a_buffet_line.mp3
+  "Buffet line"
+  CHARACTER: 
+
+048_no_i_m_lee_s_new_muscle_and_don_t_let_this_robe_fool_you_thi.mp3
+  "Lee's new muscle"
+  CHARACTER: 
+
+049_now_why_did_you_say_it_was_a_bomb_no_you_said_that_no_you_sa.mp3
+  "She was the bomb"
+  CHARACTER: 
+
+050_oh_i_know_i_don_t_think_i_see_what_i_see_what_i_m_thinking.mp3
+  "I see what I'm thinking"
+  CHARACTER: 
+
+051_oh_no_wonder_you_mad.mp3
+  "No wonder you mad"
+  CHARACTER: 
+
+052_okay_y_all_gonna_act_like_y_all_don_t_hear_what_i_m_sayin_wh.mp3
+  "Who know Ricky Tan"
+  CHARACTER: 
+
+053_please_follow_her_upstairs_into_the_quiet_room_it_ain_t_gonn.mp3
+  "No quiet room no more"
+  CHARACTER: 
+
+054_secret_service_agent_james_carter_aw_that_sounds_good_it_s_g.mp3
+  "They don't know that"
+  CHARACTER: 
+
+055_seeing_the_way_she_was_staring_at_a_brother_she_never_even_l.mp3
+  "Cute like Snoopy"
+  CHARACTER: 
+
+056_she_was_the_bomb.mp3
+  "She was the bomb"
+  CHARACTER: 
+
+057_so_you_gettin_on_the_plane_with_me_or_not_what_you_know_my_d.mp3
+  "So you comin or what"
+  CHARACTER: 
+
+058_some_apple_i_d_put_that_knife_away_bitch_before_you_have_an.mp3
+  "Put that knife away bitch"
+  CHARACTER: 
+
+059_tell_you_something_about_black_people_when_stuff_goes_down_w.mp3
+  "When Godzilla's coming"
+  CHARACTER: 
+
+060_that_s_it_bite_that_thing_bite_it_bite_it_like_a_little_monk.mp3
+  "Bite it like a little monkey"
+  CHARACTER: 
+
+061_there_s_two_billion_chinese_people_here_let_one_of_them_be_y.mp3
+  "Two billion Chinese people"
+  CHARACTER: 
+
+062_they_re_brothers_oh_all_right_all_right_7_11_hey_i_heard_tha.mp3
+  "7-Eleven"
+  CHARACTER: 
+
+063_this_is_my_informant_s_place_they_got_pretty_good_ribs_here.mp3
+  "Pretty good ribs here"
+  CHARACTER: 
+
+064_throw_it_lee_where_throw_it_where_throw_the_bomb_over_the_ed.mp3
+  "Throw the bomb over the edge"
+  CHARACTER: 
+
+065_unh_sorry_man_carter_all_y_all_look_alike.mp3
+  "All y'all look alike"
+  CHARACTER: 
+
+066_wait_right_here_i_ll_be_right_back_you_understand_yes_i_unde.mp3
+  "Don't eat my chicken"
+  CHARACTER: 
+
+067_what_are_you_doing_i_m_taking_this_for_evidence_carter.mp3
+  "Taking this for evidence"
+  CHARACTER: 
+
+068_what_the_hell_is_going_on_here_lee_remember_i_told_you_my_fa.mp3
+  "Ricky Tan was his partner"
+  CHARACTER: 
+
+069_what_d_you_do_that_for_that_was_unnecessary_you_done_knocked.mp3
+  "Your ass is pushin it"
+  CHARACTER: 
+
+070_what_s_she_doing_what_s_she_doin_man_she_s_just_standing_aro.mp3
+  "It's just so boring"
+  CHARACTER: 
+
+071_when_the_shooting_started_he_was_way_too_cool_when_people_st.mp3
+  "White people ain't that cool"
+  CHARACTER: 
+
+072_who_the_hell_was_that_lord_jesus_i_don_t_wanna_die_lee_help.mp3
+  "Chinese bamboo is very strong"
+  CHARACTER: 
+
+073_yank_it_use_them_tiger_teeth.mp3
+  "Use them tiger teeth"
+  CHARACTER: 
+
+074_you_american_are_so_funny_and_you_asians_don_t_hear_that_wel.mp3
+  "You Asians don't hear that well"
+  CHARACTER: 
+
+075_you_get_massage_from_chinese_girl_before_no_but_i_heard_it_w.mp3
+  "I heard it was the bomb"
+  CHARACTER: 
+
+076_you_have_information_it_belongs_to_us_this_is_still_hong_kon.mp3
+  "This is our investigation"
+  CHARACTER: 
+
+077_you_know_what_i_don_t_even_know_why_the_hell_i_m_here_i_ain.mp3
+  "I ain't even Chinese"
+  CHARACTER: 
+
+078_you_okay_lee_all_he_wanted_was_some_mu_shu.mp3
+  "All he wanted was mu shu"
+  CHARACTER: 
+
+079_you_still_have_the_bills_still_got_my_lunch_money_from_the_t.mp3
+  "Lunch money from third grade"
+  CHARACTER: 
+
+080_you_will_never_understand_me_you_right_i_didn_t_even_underst.mp3
+  "You'll never understand me"
+  CHARACTER: 
+
+081_you_re_messing_up_my_vacation_now_i_told_you_to_get_up_didn.mp3
+  "You're messing up my vacation"
+  CHARACTER: 
+
+082_carter_lee_no_wonder_you_mad.mp3
+  "No wonder you mad"
+  CHARACTER: 
+
+083_i_don_t_wanna_die_be_quiet_okay_give_me_your_left_leg_what.mp3
+  "Give me your left leg"
+  CHARACTER: 
+
+084_ricky_tan_where_is_he_i_don_t_know_he_killed_a_detective_to.mp3
+  "Words coming out of my mouth"
+  CHARACTER: 
+
+085_slow_down_baby_what_nothing_i_said_nothing_you_said_somethi.mp3
+  "I said nothing"
+  CHARACTER: 
+
+086_sorry_man_carter_all_y_all_look_alike_watch_out.mp3
+  "All y'all look alike"
+  CHARACTER: 
+
+087_where_the_hell_we_at_now_massage_parlor_heaven_on_earth_now.mp3
+  "Heaven on earth"
+  CHARACTER: 
+
+088_you_okay_yeah_i_slipped_and_i_fell_hey_what_am_i_bleedin.mp3
+  "Am I bleedin'"
+  CHARACTER: 
+
+089_girl_yeah_my_american_friend_is_on_vacation_i_want_to_show.mp3
+  "You bring American money"
+  CHARACTER: 
+
+090_in_cantonese_lee_where_did_you_learn_that_kenny_master_chin.mp3
+  "They're brothers"
+  CHARACTER: 

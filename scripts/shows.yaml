@@ -694,3 +694,108 @@ shows:
       primary: "#c8a24a"
       accent:  "#3a7d9c"
       bg:      "#0a0906"
+
+  - id: big-lebowski
+    name: "The Big Lebowski"
+    board_url: "https://www.101soundboards.com/boards/1373833-the-big-lebowski-1998"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true
+    min_length: 3             # omit clips of 2 words or fewer
+    max_length: 9999          # keep the long monologues (transcripts are full multi-sentence dialogue)
+    theme:
+      primary: "#7b4f9e"      # psychedelic-purple poster hue
+      accent:  "#d9a441"
+      bg:      "#0a0610"
+
+  - id: bridesmaids
+    name: "Bridesmaids"
+    board_url: "https://www.101soundboards.com/boards/86453-bridesmaids-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true
+    theme:
+      primary: "#3a9ca0"      # teal of the dresses / poster
+      accent:  "#e07a8a"
+      bg:      "#06090a"
+
+  - id: ferris-bueller
+    name: "Ferris Bueller's Day Off"
+    board_url: "https://www.101soundboards.com/boards/83961-ferris-buellers-day-off-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true
+    theme:
+      primary: "#c43a30"      # Ferrari red
+      accent:  "#3a7dc0"
+      bg:      "#0a0706"
+
+  - id: caddyshack
+    name: "Caddyshack"
+    board_url: "https://www.101soundboards.com/boards/101209-caddyshack-1980-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true
+    min_length: 6             # omit clips of 5 words or fewer
+    max_length: 9999          # keep the long ones
+    theme:
+      primary: "#4a7d3a"      # golf-course green
+      accent:  "#d9b84a"
+      bg:      "#070a05"
+
+  - id: breakfast-club
+    name: "The Breakfast Club"
+    board_url: "https://www.101soundboards.com/boards/84072-the-breakfast-club-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true
+    min_length: 5             # omit clips of 4 words or fewer (hashtags already stripped first)
+    max_length: 9999          # keep the long ones
+    theme:
+      primary: "#5a7a9c"      # denim blue
+      accent:  "#d4a23a"
+      bg:      "#080a0d"
+
+  - id: big-daddy
+    name: "Big Daddy"
+    board_url: "https://www.101soundboards.com/boards/84277-big-daddy-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true
+    exclude_prefix: "Anh Khong Giu"   # drop the stray foreign-language clip
+    theme:
+      primary: "#e08a2a"
+      accent:  "#3a7d9c"
+      bg:      "#0a0805"
+
+  - id: rush-hour-2
+    name: "Rush Hour 2"
+    board_url: "https://www.101soundboards.com/boards/1377346-rush-hour-2-2001"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true
+    min_length: 3             # omit clips of 2 words or fewer
+    max_length: 9999          # keep the long monologues (full multi-sentence dialogue)
+    theme:
+      primary: "#d4922a"
+      accent:  "#b83a2a"
+      bg:      "#0a0705"
+
+  - id: scarface
+    name: "Scarface"
+    board_url: "https://www.101soundboards.com/boards/25088-scarface-movie-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # labels hand-cleaned from the board's garbled one-word captions
+    theme:
+      primary: "#9c2b2b"
+      accent:  "#d9b84a"
+      bg:      "#0a0606"

@@ -1,0 +1,87 @@
+001_bueller_bueller.mp3
+  "Bueller. Bueller"
+  CHARACTER: 
+
+002_call_if_you_need_anything.mp3
+  "Call if you need anything"
+  CHARACTER: 
+
+003_cameron_i_m_dying.mp3
+  "Cameron 'I'm Dying'"
+  CHARACTER: 
+
+004_city_celebration_parade.mp3
+  "City Celebration Parade"
+  CHARACTER: 
+
+005_come_pick_me_up.mp3
+  "Come pick me up!"
+  CHARACTER: 
+
+006_how_could_i_possibly_be_expected_to_handle_school_on_a_day_l.mp3
+  "How could I possibly be expected to handle school on a day like this?"
+  CHARACTER: 
+
+007_i_am_very_protective_of_my_body.mp3
+  "I am very protective of my body"
+  CHARACTER: 
+
+008_i_knew_it.mp3
+  "I knew it!"
+  CHARACTER: 
+
+009_i_need_help.mp3
+  "I need help!"
+  CHARACTER: 
+
+010_i_weep_for_the_future.mp3
+  "I Weep For The Future"
+  CHARACTER: 
+
+011_i_ll_go_i_ll_go_i_ll_go_i_ll_go.mp3
+  "I'll Go I'll Go I'll Go I'll Go"
+  CHARACTER: 
+
+012_life_moves_pretty_fast.mp3
+  "Life moves pretty fast"
+  CHARACTER: 
+
+013_no_apparently_you_don_t_understand.mp3
+  "No! Apparently you don't understand"
+  CHARACTER: 
+
+014_ok_i_ll_go.mp3
+  "Ok, I'll go"
+  CHARACTER: 
+
+015_pardon_my_french_but_you_re_an_asshole.mp3
+  "Pardon My French, But You're An Asshole"
+  CHARACTER: 
+
+016_que_bella.mp3
+  "Que Bella"
+  CHARACTER: 
+
+017_relax_i_m_a_professional.mp3
+  "Relax, I'm a professional"
+  CHARACTER: 
+
+018_rooney_calm_down.mp3
+  "Rooney, calm down"
+  CHARACTER: 
+
+019_they_think_he_s_a_righteous_dude.mp3
+  "They Think He's A Righteous Dude"
+  CHARACTER: 
+
+020_twist_and_shout.mp3
+  "Twist and Shout"
+  CHARACTER: 
+
+021_usa.mp3
+  "USA"
+  CHARACTER: 
+
+022_worst_performances.mp3
+  "Worst Performances"
+  CHARACTER: 
