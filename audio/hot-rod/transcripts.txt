@@ -1,0 +1,247 @@
+001_amradio.mp3
+  "AM Radio"
+  CHARACTER: 
+
+002_ancestors.mp3
+  "Ancestors"
+  CHARACTER: 
+
+003_animalkingdom.mp3
+  "Animal Kingdom"
+  CHARACTER: 
+
+004_awesome.mp3
+  "Awesome"
+  CHARACTER: 
+
+005_bathroom.mp3
+  "Bathroom"
+  CHARACTER: 
+
+006_bigassstunt.mp3
+  "Big Ass Stunt"
+  CHARACTER: 
+
+007_breakup.mp3
+  "Break Up"
+  CHARACTER: 
+
+008_cantwait.mp3
+  "Can't Wait"
+  CHARACTER: 
+
+009_coolbeans.mp3
+  "Cool Beans"
+  CHARACTER: 
+
+010_coolerheads.mp3
+  "Cooler Heads"
+  CHARACTER: 
+
+011_dazzled.mp3
+  "Dazzled"
+  CHARACTER: 
+
+012_fightme.mp3
+  "Fight Me"
+  CHARACTER: 
+
+013_getyoubetter.mp3
+  "Get You Better"
+  CHARACTER: 
+
+014_godsofwar.mp3
+  "Gods of War"
+  CHARACTER: 
+
+015_greentea.mp3
+  "Green Tea"
+  CHARACTER: 
+
+016_havefun.mp3
+  "Have Fun"
+  CHARACTER: 
+
+017_howitsdone.mp3
+  "How It's Done"
+  CHARACTER: 
+
+018_jackhammer.mp3
+  "Jackhammer"
+  CHARACTER: 
+
+019_jealousrage.mp3
+  "Jealous Rage"
+  CHARACTER: 
+
+020_justbringit.mp3
+  "Just Bring It"
+  CHARACTER: 
+
+021_kisswashot.mp3
+  "Kiss Was Hot"
+  CHARACTER: 
+
+022_letsjump.mp3
+  "Let's Jump"
+  CHARACTER: 
+
+023_letsparty.mp3
+  "Let's Party"
+  CHARACTER: 
+
+024_lightthemoff.mp3
+  "Light 'Em Off"
+  CHARACTER: 
+
+025_lookpretty.mp3
+  "Look Pretty"
+  CHARACTER: 
+
+026_mountainface.mp3
+  "Mountain Face"
+  CHARACTER: 
+
+027_mouthtomouth.mp3
+  "Mouth to Mouth"
+  CHARACTER: 
+
+028_murderhim.mp3
+  "Murder Him"
+  CHARACTER: 
+
+029_myhatnow.mp3
+  "My Hat Now"
+  CHARACTER: 
+
+030_nervous.mp3
+  "Nervous"
+  CHARACTER: 
+
+031_ohshit.mp3
+  "Oh Shit"
+  CHARACTER: 
+
+032_party.mp3
+  "Party"
+  CHARACTER: 
+
+033_prisonrules.mp3
+  "Prison Rules"
+  CHARACTER: 
+
+034_quietplace.mp3
+  "Quiet Place"
+  CHARACTER: 
+
+035_raccoon.mp3
+  "Raccoon"
+  CHARACTER: 
+
+036_ratherdie.mp3
+  "Rather Die"
+  CHARACTER: 
+
+037_reignking.mp3
+  "Reign King"
+  CHARACTER: 
+
+038_reinforce.mp3
+  "Reinforce"
+  CHARACTER: 
+
+039_respectme.mp3
+  "Respect Me"
+  CHARACTER: 
+
+040_socoolbeans.mp3
+  "So Cool Beans"
+  CHARACTER: 
+
+041_started.mp3
+  "Started"
+  CHARACTER: 
+
+042_superdead.mp3
+  "Super Dead"
+  CHARACTER: 
+
+043_talking.mp3
+  "Talking"
+  CHARACTER: 
+
+044_tears.mp3
+  "Tears"
+  CHARACTER: 
+
+045_thatsenough.mp3
+  "That's Enough"
+  CHARACTER: 
+
+046_theflavor.mp3
+  "The Flavor"
+  CHARACTER: 
+
+047_thevictim.mp3
+  "The Victim"
+  CHARACTER: 
+
+048_throwingstar.mp3
+  "Throwing Star"
+  CHARACTER: 
+
+049_toolate.mp3
+  "Too Late"
+  CHARACTER: 
+
+050_trippinballs.mp3
+  "Trippin Balls"
+  CHARACTER: 
+
+051_ultimatepunch.mp3
+  "Ultimate Punch"
+  CHARACTER: 
+
+052_universe.mp3
+  "Universe"
+  CHARACTER: 
+
+053_whatthehell.mp3
+  "What the Hell"
+  CHARACTER: 
+
+054_whiskey.mp3
+  "Whiskey"
+  CHARACTER: 
+
+055_whoswithme.mp3
+  "Who's With Me"
+  CHARACTER: 
+
+056_wizards.mp3
+  "Wizards"
+  CHARACTER: 
+
+057_yoo_hoo.mp3
+  "Yoo-hoo"
+  CHARACTER: 
+
+058_you_reakid.mp3
+  "You're a Kid"
+  CHARACTER: 
+
+059_you_rethevoice.mp3
+  "You're the Voice"
+  CHARACTER: 
+
+060_you_rewierd.mp3
+  "You're Weird"
+  CHARACTER: 
+
+061_youarepathetic.mp3
+  "You Are Pathetic"
+  CHARACTER: 
+
+062_2legit2quit.mp3
+  "2 Legit 2 Quit"
+  CHARACTER: 

@@ -799,3 +799,15 @@ shows:
       primary: "#9c2b2b"
       accent:  "#d9b84a"
       bg:      "#0a0606"
+
+  - id: hot-rod
+    name: "Hot Rod"
+    board_url: "https://www.101soundboards.com/boards/24869-hot-rod-movie-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # board captions are run-together (no spaces); labels hand-spaced/cleaned
+    theme:
+      primary: "#d44a2a"         # flame orange-red (jumpsuit / stunt fire)
+      accent:  "#3a6db0"         # denim blue
+      bg:      "#0a0605"
