@@ -6,7 +6,7 @@ const quotes = [
     "audioUrl": "audio/wolf-of-wall-street/001_a_benchmark_for_future_business_kevin.mp3"
   },
   {
-    "text": "A firm whose roots are so deeply embedded into Wall Street",
+    "text": "Roots embedded in Wall Street",
     "character": "",
     "audioUrl": "audio/wolf-of-wall-street/002_a_firm_whose_roots_are_so_deeply_embedded_into_wall_street.mp3"
   },
@@ -21,7 +21,7 @@ const quotes = [
     "audioUrl": "audio/wolf-of-wall-street/010_all_day_long_decimal_points_high_frequencies.mp3"
   },
   {
-    "text": "As to choose a chain of fucking hibachi restaurants",
+    "text": "A chain of hibachi restaurants",
     "character": "",
     "audioUrl": "audio/wolf-of-wall-street/035_as_to_choose_a_chain_of_fucking_hibachi_restaurants.mp3"
   },
@@ -76,17 +76,17 @@ const quotes = [
     "audioUrl": "audio/wolf-of-wall-street/332_we_think_they_need_to_see_their_day_in_court_as_well.mp3"
   },
   {
-    "text": "You show me a pay stub for $72,000 on it,",
+    "text": "Show me a $72,000 pay stub",
     "character": "",
     "audioUrl": "audio/wolf-of-wall-street/401_you_show_me_a_pay_stub_for_72_000_on_it.mp3"
   },
   {
-    "text": "(CHANTING) One of us. Gooble gobble, one of us.",
+    "text": "(Chanting) One of us",
     "character": "",
     "audioUrl": "audio/wolf-of-wall-street/458_chanting_one_of_us_gooble_gobble_one_of_us.mp3"
   },
   {
-    "text": "(SCREAMS) God damn it!",
+    "text": "(Screams) God damn it!",
     "character": "",
     "audioUrl": "audio/wolf-of-wall-street/478_screams_god_damn_it.mp3"
   }

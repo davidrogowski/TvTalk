@@ -4,17 +4,19 @@
 
 When Dave says **"run the playbook"** for a show (usually with a 101soundboards link, sometimes two), it means: do this end-to-end, reporting concisely, without stopping for confirmation between steps.
 
-1. **Inspect the board** via the JSON API (`/api/v1/boards/{id}?limit=2000`) to decide config. Two of the three "usual" behaviors are automatic and need no decision: **hashtag removal** (always) and the **1s ding-trim** (auto, when board ID < 1M). The judgment calls are:
+1. **Inspect the board** via the JSON API (`/api/v1/boards/{id}?limit=2000`) to decide config. **hashtag removal** is always automatic. The **1s ding-trim** is automatic for *poisoned* boards — defined as **board ID < 1M AND slug ending in `-soundboard`** (legacy community boards). For clean boards (ID ≥ 1M, or a low-ID board with a `-YYYY` slug like `-2012`) set `no_trim: true` so the scraper doesn't chop 1s of real audio. ⚠️ **Do NOT** judge poisoning by comparing the downloaded file's duration to the API `sound_duration` — they match even when poisoned (the API reports the *with-ding* length). The slug rule is authoritative; if you want to eyeball it, a poisoned clip has leading near-silence then a burst in the first ~0.6s, a clean one starts loud immediately. The judgment calls are:
    - **Quotes or not?** Read the transcripts. If they're user-supplied *titles/labels* (`"April Ludgate Wine Tasting"`, `"Pickle Rick"`, `"AHHHH!"`) → set `text_style: "title"` (no quote marks). If they're real *spoken dialogue* (`"A strong force of attraction"`) → leave default (quotes). NOTE: this is about content, not board age — Breaking Bad and Peaky Blinders are legacy boards but real captions, so they kept quotes. Most community `-soundboard` boards are title-style; most modern `-YYYY` boards are captions.
    - **ALL-CAPS?** → `case_style: "fix_all_caps"`.
    - **Paren stage-directions / disclaimers?** → `exclude_prefix: "("` or `exclude_prefix: "CAPTIONING MADE POSSIBLE BY"` etc.
    - **Long monologues?** → scrape with `--max-length 50`.
-   - (Optionally pull one clip to a temp file so Dave can confirm the ding, but auto-trim handles it regardless.)
-2. **Add to `scripts/shows.yaml`**: `id`, `name`, `board_url`, a `theme` matched to the show's cover-art hue, plus any flags the board needs — `text_style: "title"` (no quote marks for title-style boards), `case_style: "fix_all_caps"`, `exclude_prefix: "..."`, `board_url_2` (merge a second board), `dedup: true` (drop repeated transcripts, e.g. when a board lists the same line twice under different audio files).
-3. **Scrape**: `python3 scripts/scrape_soundboard.py --show <id>` (auto-strips hashtags; auto-trims the 1s ding if board ID < 1M). Add `--max-length 50` for long-dialogue prestige dramas.
-4. **Rebuild**: `python3 scripts/build_shows.py`.
-5. **Deploy**: `npm_config_cache=/tmp/npm-cache npx wrangler deploy` (see [[05 - Deployment]]).
-6. **Commit + push**: `git add -A && git commit -m "..." && git push` (env-var author identity — see [[05 - Deployment]]).
+2. **Add to `scripts/shows.yaml`**: `id`, `name`, `board_url`, a `theme` matched to the show's cover-art hue, plus any flags the board needs — `text_style: "title"` (no quote marks for title-style boards), `case_style: "fix_all_caps"`, `exclude_prefix: "..."`, `board_url_2` (merge a second board), `dedup: true` (drop repeated transcripts, e.g. when a board lists the same line twice under different audio files), `no_trim: true` (clean board — see step 1), and `preserve_transcripts: true` (**always set this when you'll clean captions in step 4**, so your labels survive re-scrapes).
+3. **Scrape**: `python3 scripts/scrape_soundboard.py --show <id>` (auto-strips hashtags; auto-trims the 1s ding on poisoned `-soundboard` boards). Add `--max-length 50` for long-dialogue prestige dramas.
+4. **Clean the captions (MANDATORY — do not skip).** Every clip's on-screen text must be a short **1–5 word label**, not the full transcript. Edit the quoted label lines in `audio/<id>/transcripts.txt` per the rule in [Captions are short labels](#captions-are-short-labels-not-full-quotes-the-labeling-pass), then regenerate (re-run the scraper, or rebuild `quotes.js` from `transcripts.txt`). Boards whose captions are *already* short scannable labels (most `-soundboard` community boards) need no work here — but **duration-filtered / caption-style boards always do**. This step is the one most easily forgotten; it is not optional.
+5. **Rebuild**: `python3 scripts/build_shows.py`.
+6. **Deploy**: `npm_config_cache=/tmp/npm-cache npx wrangler deploy` (see [[05 - Deployment]]).
+7. **Commit + push**: `git add -A && git commit -m "..." && git push` (env-var author identity — see [[05 - Deployment]]).
+
+> **The two standing rules that keep getting missed:** (a) **trim the ding** on poisoned `-soundboard` boards (and *only* those — set `no_trim` elsewhere), and (b) **clean the captions** into short labels. Both are part of *every* add, not optional polish.
 
 The numbered sections below are the detailed version of each step.
 
@@ -28,9 +30,9 @@ https://www.101soundboards.com/boards/1234567-show-name-year
 
 The board ID (the number) matters; the slug after it isn't load-bearing for scraping.
 
-**Heads up — ding poisoning**: 101soundboards serves a poisoned MP3 (1-second notification chime at the start) to non-browser scrapers on **legacy community boards** (board ID < 1,000,000, slug ends in `-soundboard`). Modern official boards (board ID >= 1,000,000, slug ends in a year like `-2019`) are clean.
+**Heads up — ding poisoning**: 101soundboards serves a poisoned MP3 (1-second notification chime at the start) to non-browser scrapers on **legacy community boards** — the precise rule is **board ID < 1,000,000 AND the slug ends in `-soundboard`**. Modern boards are clean: ID >= 1,000,000 (e.g. `-2013`), *or* a low ID with a `-YYYY`/`-season-N` slug (e.g. `119606-21-jump-street-2012`, `99562-...-2019-season-1`) — low IDs are NOT enough on their own.
 
-The scraper auto-detects this from the URL and trims the ding. But if you want to confirm before committing to a full scrape, do a quick poison test (step 2 below).
+`scrape_soundboard.should_trim_board()` encodes exactly this (ID < 1M **and** `-soundboard` slug), and the scraper auto-trims those boards. For a clean board set `no_trim: true` in `shows.yaml`. ⚠️ **The trap that bit us:** do **not** verify cleanliness by comparing the downloaded file's duration to the API `sound_duration` — they match even when poisoned, because the API reports the *with-ding* length. Trust the slug rule. (If you must inspect audio: a poisoned clip has leading near-silence then a tone burst in the first ~0.6s; a clean clip starts loud immediately.)
 
 ## 2. (Optional) Poison test — one clip
 
@@ -142,7 +144,9 @@ Reads your edited `transcripts.txt`, preserves the `CHARACTER:` values, regenera
 
 ## Captions are short labels, not full quotes (the labeling pass)
 
-Every clip's on-screen text is a **short 1-5 word label**, not the full transcript — the *audio* is the payload, the button is just a scannable handle (think Borat: "Great success", "My name-a Borat"). All shows use `text_style: "title"` (no quote marks). This was a deliberate cleanup pass over the whole catalog.
+**This is playbook step 4 and is MANDATORY for every add** (it is not a one-time historical pass). Every clip's on-screen text is a **short 1-5 word label**, not the full transcript — the *audio* is the payload, the button is just a scannable handle (think Borat: "Great success", "My name-a Borat"). All shows use `text_style: "title"` (no quote marks).
+
+For the labeling work itself, **dispatching one agent per show in parallel** (each rewriting only the quoted lines in that show's `audio/<id>/transcripts.txt`, leaving `.mp3`/`CHARACTER:`/`REPEAT:` lines and entry order untouched) is the fast path for a batch; split very large files (e.g. 300+ clips) into chunks so a single agent's write doesn't blow up. Always set `preserve_transcripts: true` first so the labels survive re-scrapes, then regenerate `quotes.js` from the edited file.
 
 **The rule for writing a label:**
 - Lines **≤10 words** that are already clean → **keep verbatim** (preserves iconic phrasing like "Say my name", "You're God damn right", "I am the one who knocks").

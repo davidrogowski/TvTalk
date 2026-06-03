@@ -46,7 +46,7 @@ const quotes = [
     "audioUrl": "audio/the-departed/009_i_can_get_you_your_money_just_ask.mp3"
   },
   {
-    "text": "I don't give a fuck. I'd rather hand in my papers first.",
+    "text": "I'd rather hand in my papers",
     "character": "",
     "audioUrl": "audio/the-departed/010_i_don_t_give_a_fuck_i_d_rather_hand_in_my_papers_first.mp3"
   },
@@ -111,7 +111,7 @@ const quotes = [
     "audioUrl": "audio/the-departed/022_it_ll_put_hate_in_your_heart.mp3"
   },
   {
-    "text": "Let's say you have no idea and leave it at that, OK?",
+    "text": "You have no idea",
     "character": "",
     "audioUrl": "audio/the-departed/023_let_s_say_you_have_no_idea_and_leave_it_at_that_ok.mp3"
   },
@@ -136,7 +136,7 @@ const quotes = [
     "audioUrl": "audio/the-departed/027_no_ticky_no_laundry.mp3"
   },
   {
-    "text": "The only gas leak is the one coming out of your mouth right now.",
+    "text": "The only gas leak",
     "character": "",
     "audioUrl": "audio/the-departed/028_the_only_gas_leak_is_the_one_coming_out_of_your_mouth_right.mp3"
   },

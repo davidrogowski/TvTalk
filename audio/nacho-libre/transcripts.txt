@@ -1,85 +1,85 @@
 003_and_beneath_the_man.mp3
-  "And Beneath the Man.."
+  "Beneath the man"
   CHARACTER: 
 
 006_be_grateful.mp3
-  "Be Grateful"
+  "Be grateful"
   CHARACTER: 
 
 040_encarnacion_encarnacion_encarnacion_encarnacion.mp3
-  "Encarnacion encarnacion encarnacion encarnacion"
+  "Encarnacion!"
   CHARACTER: 
 
 041_forced_baptism.mp3
-  "Forced Baptism"
+  "Forced baptism"
   CHARACTER: 
 
 058_hello_i_m_talking_to_you_i_will_come_save_me_a_piece_of_that.mp3
-  "Hello! i'm talking to you I will come save me a piece of that corn save me a piece of that corn for later"
+  "Save me a piece of that corn"
   CHARACTER: 
 
 077_hug_hug_kiss_kiss_hug_hug_big_kiss_little_hug_kiss_kiss_litt.mp3
-  "Hug hug kiss kiss hug hug big kiss little hug kiss kiss little kiss"
+  "Hug hug kiss kiss"
   CHARACTER: 
 
 078_hug_hug_kiss_kiss.mp3
-  "Hug, hug, kiss, kiss.."
+  "Hug, hug, kiss, kiss"
   CHARACTER: 
 
 081_i_am_singing_at_the_party_i_am_singing_it_s_my_turn_to_sing.mp3
-  "I am singing at the party I am singing it's my turn to sing at the party"
+  "My turn to sing"
   CHARACTER: 
 
 082_i_am_the_gatekeeper_of_my_own_destiny_and_i_will_have_my_glo.mp3
-  "I am the gatekeeper of my own destiny and I will have my glory day in the hot sun okay"
+  "Gatekeeper of my destiny"
   CHARACTER: 
 
 086_i_don_t_belong_out_there_and_i_don_t_belong_in_here_so_i_m_g.mp3
-  "I don't belong out there and I don't belong in here so i'm going into the wilderness probably to die"
+  "Going into the wilderness"
   CHARACTER: 
 
 089_i_get_to_wake_up_every_morning_at_5_a_m.mp3
-  "I get to wake up every morning at 5 a.m"
+  "Wake up at 5 a.m."
   CHARACTER: 
 
 091_i_hate_orphans.mp3
-  "I Hate Orphans"
+  "I hate orphans"
   CHARACTER: 
 
 100_i_know_it_is_fun_to_wrestle_a_nice_pile_drive_to_the_face_or.mp3
-  "I know it is fun to wrestle a nice pile drive to the face or a punch to the face but you cannot do it because it is in the bible not to wrestle your neighbor"
+  "Pile drive to the face"
   CHARACTER: 
 
 107_i_mean_yes_they_may_have_the_appearance_of_riches_but_beneat.mp3
-  "I mean yes they may have the appearance of riches but beneath the clothes we find a man and beneath a man we find his nucleus"
+  "Beneath a man, his nucleus"
   CHARACTER: 
 
 111_i_was_wondering_if_the_children_could_get_a_signature_from_y.mp3
-  "I was wondering if the children could get a signature from you and maybe a picture"
+  "A signature and a picture"
   CHARACTER: 
 
 127_in_order_for_you_to_become_empowered_by_the_eagle_you_must_c.mp3
-  "In order for you to become empowered by the eagle you must climb that cliff find the egg crack open one of them and then swallow the yolk"
+  "Swallow the eagle's yolk"
   CHARACTER: 
 
 134_know_that_i_ve_always_loved_you_as_a_brother_in_god.mp3
-  "Know that I've always loved you, as a brother in God"
+  "Loved you as a brother"
   CHARACTER: 
 
 140_listen_i_know_the_wrestlers_get_all_the_fancy_ladies_and_the.mp3
-  "Listen I know the wrestlers get all the fancy ladies and the clothes and the free creams and lotions but my life is good really good"
+  "Free creams and lotions"
   CHARACTER: 
 
 148_may_he_rest_in_peace.mp3
-  "May He Rest in Peace"
+  "May he rest in peace"
   CHARACTER: 
 
 152_my_turn_to_sing_at_the_party.mp3
-  "My turn to sing at the party"
+  "My turn to sing"
   CHARACTER: 
 
 153_my_turn_to_sing_at_the_party.mp3
-  "My turn to sing at the party"
+  "My turn to sing"
   CHARACTER: 
 
 156_nacho_libre.mp3
@@ -87,7 +87,7 @@
   CHARACTER: 
 
 158_nacho_libre_stretchy.mp3
-  "Nacho Libre Stretchy"
+  "Nacho Libre stretchy"
   CHARACTER: 
 
 165_nachoooooo.mp3
@@ -95,15 +95,15 @@
   CHARACTER: 
 
 167_no_if_you_fight_for_something_noble_or_for_someone_who_needs.mp3
-  "No if you fight for something noble or for someone who needs your help only then will god bless you in battle"
+  "Fight for something noble"
   CHARACTER: 
 
 172_okay_if_i_win_tonight_at_the_battle_jam_i_will_know_that_you.mp3
-  "Okay if I win tonight at the battle jam I will know that you bless my mission and that you want me to be a wrestling servant of you"
+  "Wrestling servant of you"
   CHARACTER: 
 
 174_okay_maybe_i_am_not_meant_for_these_duties_cooking_duty_dead.mp3
-  "Okay maybe I am not meant for these duties cooking duty dead guy duty"
+  "Cooking duty, dead guy duty"
   CHARACTER: 
 
 180_okay_orphans.mp3
@@ -111,39 +111,39 @@
   CHARACTER: 
 
 182_precious_father_why_have_you_given_me_this_desire_to_wrestle.mp3
-  "Precious father why have you given me this desire to wrestle and then made me such a stinky warrior"
+  "Such a stinky warrior"
   CHARACTER: 
 
 195_she_hails_from_the_oaxaca_parish_convent_of_the_immaculate_h.mp3
-  "She hails from the oaxaca parish convent of the immaculate heart sisters lady mountains of guadalupe"
+  "She hails from the convent"
   CHARACTER: 
 
 198_so_now_you_got_a_little_taste_of_what_i_do_it_s_pretty_dang.mp3
-  "So now you got a little taste of what I do it's pretty dang exciting huh"
+  "Pretty dang exciting, huh"
   CHARACTER: 
 
 199_so_what_you_re_saying_to_me_is_if_i_can_eat_this_yolk_my_mov.mp3
-  "So what you're saying to me is if I can eat this yolk my moves will become the best in the whole world"
+  "The best in the whole world"
   CHARACTER: 
 
 205_sometimes_you_wear_stretchy_pants.mp3
-  "Sometimes You Wear Stretchy Pants"
+  "Stretchy pants"
   CHARACTER: 
 
 225_those_eggs_were_a_lie_steven_a_lie_they_gave_me_no_eagle_pow.mp3
-  "Those eggs were a lie steven a lie! they gave me no eagle powers! they gave me no nutrients!"
+  "Those eggs were a lie!"
   CHARACTER: 
 
 228_to_kiss_your_mouth_i_d_break_my_vow_no_no_no.mp3
-  "To kiss your mouth, I'd break my vow, no, no, no!"
+  "I'd break my vow"
   CHARACTER: 
 
 230_today_i_saw_a_man_in_town_people_were_throwing_daisies_at_hi.mp3
-  "Today I saw a man in town people were throwing daisies at him and giving him goodies sometimes I would like that kind of respect"
+  "Throwing daisies at him"
   CHARACTER: 
 
 233_tonight_i_will_fight_the_seven_strongest_men_in_town_maybe_t.mp3
-  "Tonight I will fight the seven strongest men in town maybe the world and I will win because our heavenly father will be in the ring with me"
+  "Fight the seven strongest men"
   CHARACTER: 
 
 248_whatever.mp3
@@ -151,9 +151,9 @@
   CHARACTER: 
 
 250_when_you_are_a_man_sometimes_you_wear_stretchy_pants_in_your.mp3
-  "When you are a man sometimes you wear stretchy pants in your room it's for fun"
+  "Sometimes you wear stretchy pants"
   CHARACTER: 
 
 264_your_only_job_is_to_cook_do_you_not_realize_i_have_had_diarr.mp3
-  "Your only job is to cook do you not realize I have had diarrhea since easters"
+  "Diarrhea since Easters"
   CHARACTER: 

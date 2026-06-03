@@ -3,7 +3,7 @@
   CHARACTER: 
 
 002_a_firm_whose_roots_are_so_deeply_embedded_into_wall_street.mp3
-  "A firm whose roots are so deeply embedded into Wall Street"
+  "Roots embedded in Wall Street"
   CHARACTER: 
 
 009_all_cash_none_of_it_s_on_the_books.mp3
@@ -15,7 +15,7 @@
   CHARACTER: 
 
 035_as_to_choose_a_chain_of_fucking_hibachi_restaurants.mp3
-  "As to choose a chain of fucking hibachi restaurants"
+  "A chain of hibachi restaurants"
   CHARACTER: 
 
 083_fuck_the_kid_makes_it_look_so_goddamn_easy.mp3
@@ -59,13 +59,13 @@
   CHARACTER: 
 
 401_you_show_me_a_pay_stub_for_72_000_on_it.mp3
-  "You show me a pay stub for $72,000 on it,"
+  "Show me a $72,000 pay stub"
   CHARACTER: 
 
 458_chanting_one_of_us_gooble_gobble_one_of_us.mp3
-  "(CHANTING) One of us. Gooble gobble, one of us."
+  "(Chanting) One of us"
   CHARACTER: 
 
 478_screams_god_damn_it.mp3
-  "(SCREAMS) God damn it!"
+  "(Screams) God damn it!"
   CHARACTER: 

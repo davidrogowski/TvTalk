@@ -841,6 +841,7 @@ shows:
     status: pending
     type: movie
     text_style: "title"
+    preserve_transcripts: true   # caption labels hand-cleaned to short handles; keep across re-scrapes
     max_length: 9999             # keep the long multi-sentence dialogue clips
     theme:
       primary: "#2e86c1"         # sky blue
@@ -865,6 +866,7 @@ shows:
     status: pending
     type: movie
     text_style: "title"
+    preserve_transcripts: true   # caption labels hand-cleaned to short handles; keep across re-scrapes
     max_length: 9999             # keep the long multi-sentence dialogue clips
     theme:
       primary: "#3a9d5d"         # RV / road-trip green
@@ -939,6 +941,7 @@ shows:
     status: pending
     type: movie
     text_style: "title"
+    preserve_transcripts: true   # caption labels hand-cleaned to short handles; keep across re-scrapes
     exclude_prefix: "Mr"         # omit the 3 placeholder clips titled just "Mr" (nothing else starts with "Mr")
     theme:
       primary: "#2f6f43"         # Boston green
