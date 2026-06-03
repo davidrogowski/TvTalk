@@ -124,13 +124,13 @@
 const AUDIO_BASE = "/"; // served at /clockthequote; clips live at /audio/
 const GAME_NAME = "Clock The Quote";
 const PLAY_URL  = "https://tvtalk.fun/clockthequote";
-// Movies-only test set (5), in chosen order. Caddyshack has no >=8s clip; using its longest (5.4s).
+// Movies-only test set (5), in order — fresh clips; Caddyshack swapped for Pulp Fiction.
 const CLIPS = [
-  {show:"Anchorman", text:"Boy, that escalated quickly", url:"audio/anchorman/013_boy_that_escalated_quickly.mp3"},
-  {show:"Caddyshack", text:"I christen thee The Flying Wasp", url:"audio/caddyshack/031_i_christen_thee_the_flying_wasp.mp3"},
-  {show:"Office Space", text:"I have people skills", url:"audio/office-space/025_for_the_one_i_already_told_you_if_i_deal_with_the_god_damn_c.mp3"},
-  {show:"The Other Guys", text:"Aim for the bushes", url:"audio/the-other-guys/001_aim_for_the_bushes.mp3"},
-  {show:"Tropic Thunder", text:"I will massacre you", url:"audio/tropic-thunder/009_i_will_massacre_you.mp3"},
+  {show:"Anchorman", text:"Don't act like you're not impressed", url:"audio/anchorman/027_don_t_act_like_you_re_not_impressed.mp3"},
+  {show:"Office Space", text:"And here's something else bob", url:"audio/office-space/002_and_here_s_something_else_bob.mp3"},
+  {show:"The Other Guys", text:"Pimps don't cry", url:"audio/the-other-guys/057_pimps_don_t_cry.mp3"},
+  {show:"Tropic Thunder", text:"Big Dick Playa", url:"audio/tropic-thunder/002_big_dick_playa.mp3"},
+  {show:"Pulp Fiction", text:"A Royale with cheese", url:"audio/pulp-fiction/003_and_you_know_what_they_call_a_quarter_pounder_with_cheese_in.mp3"},
 ];
 const TITLES = ["The Boys","Invincible","Breaking Bad","Family Guy","That '70s Show","Narcos","Succession","Peaky Blinders","It's Always Sunny in Philadelphia","Ozark","The Sopranos","The Wire","Rick and Morty","Silicon Valley","Arrested Development","Parks and Recreation","Atlanta","How I Met Your Mother","The Office","Game of Thrones","Friends","American Dad!","Blue Mountain State","Nathan For You","Seinfeld","The Simpsons","Drake & Josh","Beavis and Butt-Head","King of the Hill","Tropic Thunder","Step Brothers","Talladega Nights","Wedding Crashers","Superbad","This Is The End","The 40 Year Old Virgin","Anchorman","Office Space","Pineapple Express","Austin Powers: Goldmember","Strange Wilderness","The Hangover","The Other Guys","Zoolander","Borat","Django Unchained","Dodgeball","White Chicks","Dazed and Confused","Idiocracy","Pirates of the Caribbean","Forrest Gump","Pulp Fiction","The Devil Wears Prada","Mean Girls","Entourage","The Big Lebowski","Bridesmaids","Ferris Bueller's Day Off","Caddyshack","The Breakfast Club","Big Daddy","Rush Hour 2","Scarface"];
 const TYPE = {}; // movie/show flag for the dropdown tag
