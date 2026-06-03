@@ -45,30 +45,41 @@ game draws from a **curated pool**, not all ~6,400 clips.
 - **5 guesses.** Each guess is typed into an **autocomplete box that only accepts
   one of the 64 real titles** (Pinpoint-style — no free-text misfires).
 
-### Clue ladder (audio-first, words revealed gradually)
+### Clue ladder (decided 2026-06-02, refined after studying real Pinpoint)
 
-Revealed as the player guesses wrong / skips:
+5 clues, hardest → easiest, revealed one per wrong guess (Pinpoint structure).
+Guess at any stage from an autocomplete list of the 64 titles.
 
-1. **Audio only** — hear it, name it. A clue-1 solve is the flex.
-2. Audio + **~⅓ of the quote words**
-3. Audio + **~⅔ of the quote words**
-4. Audio + **full quote text**
-5. **Title hint** — show-vs-movie + character (where present)
+1. **2–3 second snippet** of the clip (audio only; the snippet is replayable).
+2. **Full clip unlocked** — and replayable at any time from here on.
+3. **The clip's caption text** ("title of the clip" — the quote line itself,
+   e.g. "Stabs you in the back"; this is the existing `text` field).
+4. **Masked answer title** — the show/movie name with only the **first & last
+   letter of each word** shown, the rest as blanks (e.g. The Office →
+   `T__ O____e`). Spaces/punctuation stay visible.
+5. **More letters filled in** of the answer title (near-giveaway, like Pinpoint's
+   easy final clue).
 
 Then: solve, or exhaust 5 guesses → **reveal screen** (title, clip still playable,
-full quote, result strip).
+caption, result strip).
 
-- **Reveals scale by *fraction* of the caption, not fixed word counts**, because
-  many captions are very short ("Stabs you in the back" = 4 words). A fixed
-  "1–2 then 3–5 words" ladder would dump the whole line by clue 2; fractional
-  reveals degrade gracefully (min 1 word per step).
+Notes:
+- This resolves the earlier Model A/B fork toward **one clip** (no per-title quote
+  ranking needed), but with a richer ladder than plain word-reveal: audio
+  escalates (snippet → full), then the caption text, then a masked-name letter
+  reveal.
+- **Masking rule (tunable):** clue 4 = first+last letter per word; clue 5 reveals
+  roughly half the remaining letters (or all vowels). Exact rule decided in build.
+- Edge case: a caption occasionally contains a character/show name and could
+  partly spoil at clue 3 — acceptable; flag such clips during pool curation.
 
 ## Scoring & sharing
 
-- **Score = the clue you solved on** (1 best → 5), or ✗ if missed.
-- **Spoiler-free share string**, e.g. solved on clue 3:
-  `Clock The Quote #42 ⬛⬛🟩`
-  One-tap **Copy results** button. No title or quote text leaks.
+- **Score runs 5 → 1 by the clue you solved on** (clue 1 = 5/5 best, clue 5 =
+  1/5), matching Pinpoint; a miss = 0.
+- **Spoiler-free share string**, e.g. solved on clue 2:
+  `Clock The Quote #42 — 4/5  🟩⬛⬛⬛⬛` (🟩 = the clue you solved on; glyphs TBD).
+  One-tap **Copy results** button. No title or caption text leaks.
 
 ## Stats (localStorage)
 
@@ -77,11 +88,12 @@ full quote, result strip).
 - **Today's progress is persisted** — a refresh resumes mid-puzzle; once finished
   you see your result, not a replay. One-and-done, like Pinpoint.
 
-## Title-hint data (clue 5)
+## Hint data — none needed 🎉
 
-- **v1 uses existing data:** `type` (show/movie) + `character` where present.
-- **Optional follow-up (not v1):** add a one-word `genre` and/or `year` per title
-  in `shows.yaml` (64 entries) for a richer clue 5. Skippable.
+The new ladder's late hints (clues 4–5) are derived purely from the **answer
+title string** (masking, then revealing letters), so we need **no extra
+metadata** — the earlier genre/year idea is dropped. Clue 3 reuses the existing
+`text` caption. This removes a whole curation chore.
 
 ## Known limitation (carried forward)
 
