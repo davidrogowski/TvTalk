@@ -207,7 +207,7 @@ function flashBtn(btn, msg){
 }
 
 /* ---------- game state ---------- */
-let clip, stage, guesses, solvedStage, finished, roundNo=0, audio=null, snippetTimer=null, playsUsed=0;
+let clip, stage, guesses, solvedStage, finished, roundNo=0, audio=null, snippetTimer=null, playsUsed=0, clipObjUrl=null;
 
 /* win streak (persisted; real game keys this to calendar days, prototype counts consecutive wins) */
 let streak = +(localStorage.getItem("ctq_proto_streak")||0);
@@ -229,9 +229,16 @@ function startRound(){
   clip = pickClip();
   stage=0; guesses=0; solvedStage=null; finished=false; playsUsed=0;
   if(audio){ audio.pause(); }
-  audio = new Audio(AUDIO_BASE + clip.url);
-  audio.preload = "auto";            // buffer early so the midpoint seek is ready on first click
-  audio.load();
+  if(clipObjUrl){ URL.revokeObjectURL(clipObjUrl); clipObjUrl=null; }
+  const a = new Audio();
+  a.preload = "auto";
+  audio = a;
+  // The host serves audio without HTTP range support (200, not 206), so a streamed
+  // <audio> can't seek to the midpoint for the snippet clues. Fetch the whole clip into
+  // memory — an in-memory blob URL is always seekable.
+  fetch(AUDIO_BASE + clip.url).then(r => r.ok ? r.blob() : Promise.reject())
+    .then(b => { if(audio!==a) return; clipObjUrl = URL.createObjectURL(b); a.src = clipObjUrl; })
+    .catch(() => { if(audio===a) a.src = AUDIO_BASE + clip.url; }); // fallback: may start at 0
   render();
 }
 function advanceClue(){ // wrong guess or skip
