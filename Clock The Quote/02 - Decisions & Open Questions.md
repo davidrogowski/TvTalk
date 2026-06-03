@@ -55,9 +55,17 @@ as-built state (2026-06-02).
 picked from 3 mockups); score = clue-solved-on, **lower better** (1/5 best);
 spoiler-free share with clickable `https://` link (no streak line); deployed at
 **tvtalk.fun/clockthequote** via **`wrangler@4.40.0`** (4.97 hangs). Current beta
-pool: 5 hard-coded **movies-only** clips for testing (Anchorman, Caddyshack,
-Office Space, The Other Guys, Tropic Thunder) — movies-only is a temporary test
-choice, not a design decision.
+pool: 5 hard-coded **movies-only** clips for testing (Anchorman, Office Space, The
+Other Guys, Tropic Thunder, Pulp Fiction) — movies-only is a temporary test choice,
+not a design decision.
+
+**Audio = Web Audio (decided after a long mobile debug — don't regress).** Snippets
+play an exact slice from the midpoint; Cloudflare has no HTTP range support so a
+plain `<audio>` can't seek. iOS needs two unlocks, both inside the play tap: resume
+the AudioContext + a 1-sample silent buffer, **and** a looping silent `<audio>`
+media element to flip iOS into the "playback" session so Web Audio plays through the
+**mute/ringer switch** (silenced otherwise — and most people keep the ringer off).
+Full detail in `01 - Design Spec.md` → "Audio playback".
 
 ## Open questions
 

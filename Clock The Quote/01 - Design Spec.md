@@ -94,10 +94,29 @@ the soundboard's save/share), and the share strip.
 Notes:
 - Per-stage listen limits are enforced — when a stage's listens are spent the play
   button greys out until you advance.
-- The midpoint snippet seeks via **HTTP range requests** (Cloudflare supports them;
-  the local Python dev server needed a small range-capable shim to test it).
 - Clips should be **≥ 8s** so the centered snippet has audio either side of the
   midpoint; we eyeball bad midpoints (landing on a pause) during curation.
+
+### Audio playback — Web Audio (don't regress this)
+
+Snippets play an **exact slice** from the clip's midpoint, which forced a specific
+implementation (the path here was hard-won — see the history below before changing it):
+
+- **Why not a plain `<audio>` element:** Cloudflare static assets serve audio as
+  `200` with **no HTTP range support**, so an `<audio>` element can't seek mid-clip
+  — it just plays from the start. (A blob URL is seekable but hits the iOS issues
+  below anyway.)
+- **What we do:** fetch each clip → `decodeAudioData` into an AudioBuffer → play a
+  slice with `bufferSource.start(0, offset, windowSeconds)`. No seeking at all;
+  frame-accurate snippet windows.
+- **iOS gotcha 1 — gesture:** iOS keeps the AudioContext muted until a node starts
+  inside a user tap. `unlockAudio()` (called in the play tap) resumes the context
+  and starts a 1-sample silent buffer to wake it.
+- **iOS gotcha 2 — the mute/ringer switch:** iOS silences *Web Audio* when the ring
+  switch is off (most people's default), even though it lets `<audio>` media play.
+  Fix: `unlockAudio()` also plays a **looping silent `<audio>` MEDIA element** (an
+  inline base64 data URI), which flips iOS into the "playback" audio session so Web
+  Audio plays through the switch. Verified on iOS with the ringer off.
 
 ## Scoring & sharing (AS BUILT)
 
@@ -138,16 +157,22 @@ metadata** — the earlier genre/year idea is dropped. Clue 3 reuses the existin
   friends-casual play we **accept this in v1**. If it ever matters, the fix is
   opaque/renamed paths for the daily clip. Logged, not solved.
 
-## Testing
+## Testing & verification
 
-- Extract the deterministic core into **pure, unit-tested functions**:
-  - `dayIndex(date)` — calendar-date → integer day index
-  - `seededPick(pool, dayIndex)` — deterministic daily clip
-  - `revealFraction(text, stage)` — fractional word reveal (handles short captions)
-  - `resultToShareString(result)` — the emoji strip
-  - the stats reducer (streak/histogram update)
-- **No framework** — a tiny no-build test runner, in keeping with the project.
-- Manual/visual checks via **headless screenshots** (refresh-in-place workflow).
+How the beta was verified (useful patterns for next time):
+
+- **Headless screenshots** of each screen (refresh-in-place), plus `node --check` on
+  the inlined `<script>` after every change.
+- **Audio verified via a beacon-to-server-log trick:** headless browsers have no
+  audio clock and can't be screenshotted mid-async, so the test page `fetch()`es a
+  result string (e.g. the seeked position) that the local dev server logs — read the
+  log to confirm. This is how the midpoint seek was proven (29s clip → 13.26s).
+- **Mobile audio can only be verified on a real device** — headless can't reproduce
+  iOS (gesture rules, the mute switch). Dave tested on his phone; that's the loop.
+
+Planned for the daily build: extract the deterministic core into **pure, unit-tested
+functions** — `dayIndex(date)`, `seededPick(pool, dayIndex)`, the masking helper, the
+share-string builder, the stats reducer — with a tiny no-build runner (no framework).
 
 ## Build-pipeline changes _(PLANNED — for the curated pool; additive, safe — do NOT disturb the soundboard)_
 
