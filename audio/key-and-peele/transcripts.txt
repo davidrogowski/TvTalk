@@ -1,0 +1,235 @@
+001_a_aron_where_are_you.mp3
+  "A Aron, Where Are You?"
+  CHARACTER: 
+
+003_a_delight_to_the_senses.mp3
+  "A Delight to the Senses"
+  CHARACTER: 
+
+004_alright.mp3
+  "Alright"
+  CHARACTER: 
+
+006_are_you_out_of_your_goddamn_mind.mp3
+  "Are you out of your goddamn mind?"
+  CHARACTER: 
+
+008_army_sound_off.mp3
+  "Army Sound Off"
+  CHARACTER: 
+
+010_but_why_though.mp3
+  "But why though?"
+  CHARACTER: 
+
+012_class_laughing.mp3
+  "Class laughing"
+  CHARACTER: 
+
+013_come_on_come_on_come_on.mp3
+  "Come on, come on, come on"
+  CHARACTER: 
+
+015_cool.mp3
+  "Cool"
+  CHARACTER: 
+
+017_dick.mp3
+  "Dick!"
+  CHARACTER: 
+
+019_girlfriend.mp3
+  "Girlfriend"
+  CHARACTER: 
+
+021_groin_kick.mp3
+  "Groin Kick"
+  CHARACTER: 
+
+023_haha.mp3
+  "HAHA"
+  CHARACTER: 
+
+024_i_love_you.mp3
+  "I love you"
+  CHARACTER: 
+
+026_i_said_bitch.mp3
+  "I said bitch"
+  CHARACTER: 
+
+027_i_said_b.mp3
+  "I said: b****"
+  CHARACTER: 
+
+028_i_wanna_talk_about_it.mp3
+  "I wanna talk about it"
+  CHARACTER: 
+
+029_i_ll_do_it.mp3
+  "I'll do it"
+  CHARACTER: 
+
+030_i_ll_have_what_i_m_having.mp3
+  "I'll Have What I'm Having"
+  CHARACTER: 
+
+031_i_m_a_baseball_player.mp3
+  "I'm a Baseball Player"
+  CHARACTER: 
+
+032_i_m_actually_very_glad_that_you_said_that.mp3
+  "I'm actually very glad that you said that"
+  CHARACTER: 
+
+033_i_m_blessed_and_thankful.mp3
+  "I'm Blessed and Thankful"
+  CHARACTER: 
+
+035_i_m_for_real.mp3
+  "I'm for real"
+  CHARACTER: 
+
+036_it_hurts.mp3
+  "It hurts"
+  CHARACTER: 
+
+038_it_s_so_good.mp3
+  "It's so good"
+  CHARACTER: 
+
+040_laugh.mp3
+  "Laugh"
+  CHARACTER: 
+
+041_let_it_out.mp3
+  "Let It Out"
+  CHARACTER: 
+
+043_love_it_love_it_love_it.mp3
+  "Love it, love it, love it"
+  CHARACTER: 
+
+045_mhhm.mp3
+  "Mhhm"
+  CHARACTER: 
+
+047_more_power_to_you.mp3
+  "More Power To You"
+  CHARACTER: 
+
+048_no_i_m_totally_fine.mp3
+  "No I'm Totally Fine"
+  CHARACTER: 
+
+050_nooice.mp3
+  "Nooice"
+  CHARACTER: 
+
+054_noooooooooooooooooo.mp3
+  "Noooooooooooooooooo!"
+  CHARACTER: 
+
+056_oh_no.mp3
+  "Oh No"
+  CHARACTER: 
+
+058_oh_that_s_fun.mp3
+  "Oh, That's Fun"
+  CHARACTER: 
+
+060_ohhhh_snap.mp3
+  "Ohhhh snap"
+  CHARACTER: 
+
+062_ohhhhh.mp3
+  "OHHHHH!!!"
+  CHARACTER: 
+
+064_okay.mp3
+  "Okay"
+  CHARACTER: 
+
+066_ookaaaay.mp3
+  "Ookaaaay"
+  CHARACTER: 
+
+068_ooookkkaaayyy.mp3
+  "Ooookkkaaayyy"
+  CHARACTER: 
+
+070_oooooh.mp3
+  "Oooooh"
+  CHARACTER: 
+
+071_outrageous.mp3
+  "Outrageous"
+  CHARACTER: 
+
+073_party_dont_stop_shots.mp3
+  "Party dont stop SHOTS"
+  CHARACTER: 
+
+074_requesting_permission_to_come_onboard.mp3
+  "Requesting Permission to Come Onboard"
+  CHARACTER: 
+
+075_smoking_reefer_and_doing_the_hanky_panky.mp3
+  "Smoking Reefer and Doing The Hanky Panky"
+  CHARACTER: 
+
+077_son_of_a_bitch.mp3
+  "Son of a Bitch!"
+  CHARACTER: 
+
+079_sweating.mp3
+  "Sweating"
+  CHARACTER: 
+
+081_sweating_under_pressure.mp3
+  "Sweating under pressure"
+  CHARACTER: 
+
+083_thank_you_and_may_god_bless_america.mp3
+  "Thank you, and may God bless America"
+  CHARACTER: 
+
+085_that_was_my_joke.mp3
+  "That was my joke"
+  CHARACTER: 
+
+086_totally_not_angry.mp3
+  "Totally Not Angry"
+  CHARACTER: 
+
+088_what.mp3
+  "WHAT"
+  CHARACTER: 
+
+090_where_is_a_a_ron.mp3
+  "Where is A A Ron ?"
+  CHARACTER: 
+
+092_wild_laughter.mp3
+  "Wild laughter"
+  CHARACTER: 
+
+093_yes.mp3
+  "Yes!"
+  CHARACTER: 
+
+094_you_are_an_idiot.mp3
+  "You are an idiot!"
+  CHARACTER: 
+
+096_you_can_do_anything.mp3
+  "You Can Do Anything"
+  CHARACTER: 
+
+098_you_can_fly.mp3
+  "You Can Fly"
+  CHARACTER: 
+
+100_you_done_messed_up_a_aron.mp3
+  "You Done Messed Up A Aron"
+  CHARACTER: 

@@ -1,0 +1,127 @@
+001_barf.mp3
+  "Barf!"
+  CHARACTER: 
+
+002_combing_the_desert.mp3
+  "Combing the Desert"
+  CHARACTER: 
+
+003_dink_short.mp3
+  "Dink Short"
+  CHARACTER: 
+
+004_fooled_you.mp3
+  "Fooled you!"
+  CHARACTER: 
+
+005_he_shot_my_hair.mp3
+  "He Shot My Hair"
+  CHARACTER: 
+
+006_he_s_an_asshole_sir.mp3
+  "He's an asshole, sir"
+  CHARACTER: 
+
+007_hello_ma_baby.mp3
+  "Hello Ma Baby"
+  CHARACTER: 
+
+008_just_stop_this_thing_i_order_you.mp3
+  "Just stop this thing, I order you"
+  CHARACTER: 
+
+009_knock_next_time.mp3
+  "Knock Next Time"
+  CHARACTER: 
+
+010_ludicrous_speed.mp3
+  "Ludicrous Speed"
+  CHARACTER: 
+
+011_ludicrous_speed.mp3
+  "Ludicrous speed"
+  CHARACTER: 
+
+012_ludicrous_speed_activated.mp3
+  "Ludicrous speed activated"
+  CHARACTER: 
+
+013_meet_first_time_last_time.mp3
+  "Meet First Time Last Time"
+  CHARACTER: 
+
+014_merchandising.mp3
+  "Merchandising"
+  CHARACTER: 
+
+015_nobody_knows.mp3
+  "Nobody Knows"
+  CHARACTER: 
+
+016_oh_shit.mp3
+  "Oh shit"
+  CHARACTER: 
+
+017_oldest_trick_in_the_book.mp3
+  "Oldest trick in the book"
+  CHARACTER: 
+
+018_order.mp3
+  "Order"
+  CHARACTER: 
+
+019_pizza_the_hut.mp3
+  "Pizza the Hut"
+  CHARACTER: 
+
+020_sorry_sir_doing_my_best.mp3
+  "Sorry sir. Doing my best"
+  CHARACTER: 
+
+021_spaceballs.mp3
+  "Spaceballs"
+  CHARACTER: 
+
+022_spaceballs_shit.mp3
+  "Spaceballs shit"
+  CHARACTER: 
+
+023_surrounded_by_assholes.mp3
+  "Surrounded by Assholes"
+  CHARACTER: 
+
+024_the_radar_is_jammed.mp3
+  "The Radar Is Jammed"
+  CHARACTER: 
+
+025_the_shwartz.mp3
+  "The Shwartz"
+  CHARACTER: 
+
+026_they_ve_gone_to_plaid.mp3
+  "They've gone to plaid"
+  CHARACTER: 
+
+027_we_ain_t_found_shit.mp3
+  "We Ain't Found Shit"
+  CHARACTER: 
+
+028_we_re_in_the_now_now.mp3
+  "We're in the Now Now"
+  CHARACTER: 
+
+029_weaintfoundsh.mp3
+  "WeAintFoundSh"
+  CHARACTER: 
+
+030_what_the_hell.mp3
+  "What the Hell"
+  CHARACTER: 
+
+031_why_didn_t_anyone_tell_me.mp3
+  "Why Didn't Anyone Tell Me"
+  CHARACTER: 
+
+032_your_schwartz_is_as_big_as_mine.mp3
+  "Your Schwartz Is as Big as Mine"
+  CHARACTER: 

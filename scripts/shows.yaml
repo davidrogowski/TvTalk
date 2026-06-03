@@ -811,3 +811,181 @@ shows:
       primary: "#d44a2a"         # flame orange-red (jumpsuit / stunt fire)
       accent:  "#3a6db0"         # denim blue
       bg:      "#0a0605"
+
+  - id: nacho-libre
+    name: "Nacho Libre"
+    board_url: "https://www.101soundboards.com/boards/26259-nacho-libre-soundboard"
+    no_trim: true                # board verified clean (no ding) — earlier trim was wrong; re-scraped untrimmed
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # curated to clips >=10s (>=11s raw, before the 1s ding-trim); transcripts.txt is the authoritative set
+    theme:
+      primary: "#c0392b"         # luchador red (Nacho's cape/mask)
+      accent:  "#e6b422"         # gold (trim / sombrero)
+      bg:      "#0a0604"         # dark brown
+
+  - id: spaceballs
+    name: "Spaceballs"
+    board_url: "https://www.101soundboards.com/boards/86101-spaceballs-soundboard"
+    no_trim: true                # board verified clean (no ding) — earlier trim was wrong; re-scraped untrimmed
+    status: pending
+    type: movie
+    text_style: "title"          # board captions are already short labels
+    theme:
+      primary: "#6c5ce7"         # sci-fi purple (space parody)
+      accent:  "#e6b422"         # Yogurt gold
+      bg:      "#06060a"         # near-black space
+
+  - id: airplane
+    name: "Airplane!"
+    board_url: "https://www.101soundboards.com/boards/21219-airplane-movie-soundboard"
+    no_trim: true                # board verified clean (no ding) — earlier trim was wrong; re-scraped untrimmed
+    status: pending
+    type: movie
+    text_style: "title"
+    max_length: 9999             # keep the long multi-sentence dialogue clips
+    theme:
+      primary: "#2e86c1"         # sky blue
+      accent:  "#d64541"         # airline red
+      bg:      "#05070a"         # dark navy
+
+  - id: deadpool
+    name: "Deadpool"
+    board_url: "https://www.101soundboards.com/boards/24730-deadpool-movie-soundboard"
+    no_trim: true                # board verified clean (no ding) — earlier trim was wrong; re-scraped untrimmed
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # curated to clips >=3s (>=4s raw, before the 1s ding-trim); transcripts.txt is the authoritative set
+    theme:
+      primary: "#b81d24"         # Deadpool red
+      accent:  "#cfcfcf"         # katana silver
+      bg:      "#0a0606"         # near-black
+
+  - id: were-the-millers
+    name: "We're The Millers"
+    board_url: "https://www.101soundboards.com/boards/1388968-were-the-millers-2013"
+    status: pending
+    type: movie
+    text_style: "title"
+    max_length: 9999             # keep the long multi-sentence dialogue clips
+    theme:
+      primary: "#3a9d5d"         # RV / road-trip green
+      accent:  "#d99a2b"         # desert gold
+      bg:      "#06080a"         # dark
+
+  - id: popstar
+    name: "Popstar: Never Stop Never Stopping"
+    board_url: "https://www.101soundboards.com/boards/1366743-popstar-never-stop-never-stopping-2016"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # board captions are messy run-ons w/ speaker tags; labels hand-cleaned to short handles
+    theme:
+      primary: "#e91e8c"         # pop hot-pink
+      accent:  "#ffd23f"         # stage yellow
+      bg:      "#0a0410"         # dark purple
+
+  - id: 21-jump-street
+    name: "21 Jump Street"
+    board_url: "https://www.101soundboards.com/boards/119606-21-jump-street-2012"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # curated to clips >=5s; transcripts.txt is the authoritative set
+    no_trim: true                # sub-1M ID but serves clean audio (verified) — don't chop 1s off
+    theme:
+      primary: "#2b6cb0"         # badge blue
+      accent:  "#e8b53a"         # gold
+      bg:      "#05070a"         # dark
+
+  - id: itysl-s1
+    name: "I Think You Should Leave (S1)"
+    board_url: "https://www.101soundboards.com/boards/99562-i-think-you-should-leave-with-tim-robinson-2019-season-1"
+    status: pending
+    type: show
+    text_style: "title"
+    preserve_transcripts: true   # curated to clips >=4s; transcripts.txt is the authoritative set
+    no_trim: true                # sub-1M ID but serves clean audio (verified) — don't chop 1s off
+    theme:
+      primary: "#d4a017"         # hot-dog-suit mustard
+      accent:  "#c0392b"         # ketchup red
+      bg:      "#0a0805"         # dark
+
+  - id: zombieland
+    name: "Zombieland"
+    board_url: "https://www.101soundboards.com/boards/86464-zombieland-soundboard"
+    no_trim: true                # board verified clean (no ding) — earlier trim was wrong; re-scraped untrimmed
+    status: pending
+    type: movie
+    text_style: "title"          # board captions are already short labels
+    theme:
+      primary: "#a01818"         # blood red
+      accent:  "#8ba63a"         # sickly green
+      bg:      "#080605"         # dark
+
+  - id: gladiator
+    name: "Gladiator"
+    board_url: "https://www.101soundboards.com/boards/114351-gladiator-2000"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # curated to clips >=6s; transcripts.txt is the authoritative set
+    no_trim: true                # sub-1M ID but serves clean audio (verified) — don't chop 1s off
+    theme:
+      primary: "#9c6b1f"         # bronze / amber (arena sand, armor)
+      accent:  "#8b1a1a"         # blood red
+      bg:      "#0a0705"         # dark
+
+  - id: the-departed
+    name: "The Departed"
+    board_url: "https://www.101soundboards.com/boards/75908-the-departed-soundboard"
+    no_trim: true                # board verified clean (no ding) — earlier trim was wrong; re-scraped untrimmed
+    status: pending
+    type: movie
+    text_style: "title"
+    exclude_prefix: "Mr"         # omit the 3 placeholder clips titled just "Mr" (nothing else starts with "Mr")
+    theme:
+      primary: "#2f6f43"         # Boston green
+      accent:  "#a8a8a8"         # gunmetal
+      bg:      "#060705"         # dark
+
+  - id: key-and-peele
+    name: "Key & Peele"
+    board_url: "https://www.101soundboards.com/boards/31002-key-and-peele-soundboard"
+    no_trim: true                # board verified clean (no ding) — earlier trim was wrong; re-scraped untrimmed
+    status: pending
+    type: show
+    text_style: "title"
+    preserve_transcripts: true   # board has 101 clips but only 59 unique; transcripts.txt is the deduped authoritative set (dupes incl. hashtag-only + punctuation-only variants removed)
+    theme:
+      primary: "#e07b39"         # warm orange
+      accent:  "#2a9d8f"         # teal
+      bg:      "#0a0706"         # dark
+
+  - id: wolf-of-wall-street
+    name: "The Wolf of Wall Street"
+    board_url: "https://www.101soundboards.com/boards/100442-the-wolf-of-wall-street-2013-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # curated to clips >=4s; transcripts.txt is the authoritative set
+    no_trim: true                # board verified clean (no ding) despite -soundboard slug — don't trim
+    theme:
+      primary: "#c9a227"         # money gold
+      accent:  "#1e6f4a"         # cash green
+      bg:      "#080706"         # dark
+
+  - id: ted-lasso-s1
+    name: "Ted Lasso (S1)"
+    board_url: "https://www.101soundboards.com/boards/104413-ted-lasso-2020-season-1"
+    status: pending
+    type: show
+    text_style: "title"
+    preserve_transcripts: true   # curated to clips >=4s; transcripts.txt is the authoritative set
+    no_trim: true                # board verified clean (no ding) — don't trim
+    theme:
+      primary: "#1c6fb8"         # AFC Richmond blue
+      accent:  "#e8413a"         # Richmond red
+      bg:      "#05070a"         # dark

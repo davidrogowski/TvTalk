@@ -1,0 +1,123 @@
+001_all_right_only_one_of_us_is_a_copy_of_bill.mp3
+  "All right, only one of us is a copy of Bill."
+  CHARACTER: 
+
+002_and_i_ll_forget_your_grandmother_was_so_nice_to_me.mp3
+  "And I'll forget your grandmother was so nice to me."
+  CHARACTER: 
+
+003_bartenders.mp3
+  "Bartenders"
+  CHARACTER: 
+
+004_billy_costigan_orders_a_cranberry_juice.mp3
+  "Billy Costigan orders a cranberry juice"
+  CHARACTER: 
+
+005_bottle_of_scotch_and_a_hand_gun.mp3
+  "Bottle of scotch and a hand gun"
+  CHARACTER: 
+
+006_business_transaction.mp3
+  "Business transaction"
+  CHARACTER: 
+
+007_cocksucker.mp3
+  "Cocksucker"
+  CHARACTER: 
+
+008_go_fuck_yourself.mp3
+  "Go Fuck Yourself"
+  CHARACTER: 
+
+009_i_can_get_you_your_money_just_ask.mp3
+  "I can get you your money. Just ask."
+  CHARACTER: 
+
+010_i_don_t_give_a_fuck_i_d_rather_hand_in_my_papers_first.mp3
+  "I don't give a fuck. I'd rather hand in my papers first."
+  CHARACTER: 
+
+011_i_got_a_question.mp3
+  "I got a question."
+  CHARACTER: 
+
+012_i_know_what_you_are_ok.mp3
+  "I know what you are, OK."
+  CHARACTER: 
+
+013_i_ll_cut_your_fucking_nuts_off_you_understand_that.mp3
+  "I'll cut your fucking nuts off, you understand that?"
+  CHARACTER: 
+
+014_i_m_concerned_about_it_china_and_who_thinks_it_s_wise.mp3
+  "I'm concerned about it China, and who thinks it's wise?"
+  CHARACTER: 
+
+015_i_m_the_guy_who_does_his_job.mp3
+  "I'm the Guy Who Does His Job"
+  CHARACTER: 
+
+016_i_m_the_guy_who_does_his_job.mp3
+  "I'm The Guy Who Does His Job"
+  CHARACTER: 
+
+017_i_ve_got_this_rat.mp3
+  "I've got this rat"
+  CHARACTER: 
+
+018_is_there_something_you_want_to_ask_me.mp3
+  "Is there something you want to ask me?"
+  CHARACTER: 
+
+019_it_don_t_add_inches_to_your_dick.mp3
+  "It don’t add inches to your dick"
+  CHARACTER: 
+
+020_it_s_an_honest_question.mp3
+  "It's an honest question."
+  CHARACTER: 
+
+021_it_s_fantastic.mp3
+  "It's fantastic."
+  CHARACTER: 
+
+022_it_ll_put_hate_in_your_heart.mp3
+  "It’ll put hate in your heart"
+  CHARACTER: 
+
+023_let_s_say_you_have_no_idea_and_leave_it_at_that_ok.mp3
+  "Let's say you have no idea and leave it at that, OK?"
+  CHARACTER: 
+
+024_life_sentence.mp3
+  "Life sentence"
+  CHARACTER: 
+
+025_maybe_maybe_not_maybe_fuck_yourself.mp3
+  "Maybe, maybe not, maybe fuck yourself"
+  CHARACTER: 
+
+026_my_theory_on_feds_is_they_re_like_mushrooms.mp3
+  "My theory on Feds is they're like mushrooms"
+  CHARACTER: 
+
+027_no_ticky_no_laundry.mp3
+  "No ticky no laundry"
+  CHARACTER: 
+
+028_the_only_gas_leak_is_the_one_coming_out_of_your_mouth_right.mp3
+  "The only gas leak is the one coming out of your mouth right now."
+  CHARACTER: 
+
+029_this_is_going_to_be_fucking_fun.mp3
+  "This is going to be fucking fun."
+  CHARACTER: 
+
+030_yep_you_have_different_accents.mp3
+  "Yep, you have different accents."
+  CHARACTER: 
+
+031_you_wanna_smoke.mp3
+  "You wanna smoke"
+  CHARACTER: 

@@ -1,0 +1,167 @@
+001_a_little_ditty.mp3
+  "A little ditty"
+  CHARACTER: 
+
+002_anybody_hungry.mp3
+  "Anybody hungry"
+  CHARACTER: 
+
+003_are_you_okay.mp3
+  "Are you okay"
+  CHARACTER: 
+
+004_are_you_okay_extended.mp3
+  "Are You Okay? (extended)"
+  CHARACTER: 
+
+005_believe_it_or_not_twinkies_have_an_expiration_date.mp3
+  "Believe it or not Twinkies have an expiration date"
+  CHARACTER: 
+
+006_big_trucks_big_guns.mp3
+  "Big Trucks Big Guns"
+  CHARACTER: 
+
+007_bummer.mp3
+  "Bummer"
+  CHARACTER: 
+
+008_can_t_trust_anyone.mp3
+  "Can't trust anyone"
+  CHARACTER: 
+
+009_celebration.mp3
+  "Celebration!"
+  CHARACTER: 
+
+010_do_you_have_any_regrets.mp3
+  "Do you have any regrets?"
+  CHARACTER: 
+
+011_don_t_be_a_hero.mp3
+  "Don't be a hero"
+  CHARACTER: 
+
+012_don_t_swing.mp3
+  "Don't Swing!"
+  CHARACTER: 
+
+013_don_t_worry_he_grows_on_you.mp3
+  "Don't worry he grows on you"
+  CHARACTER: 
+
+014_drying_eyes_with_money.mp3
+  "Drying eyes with money"
+  CHARACTER: 
+
+015_emma_stone_laughing.mp3
+  "Emma Stone Laughing"
+  CHARACTER: 
+
+016_first_impression.mp3
+  "First impression"
+  CHARACTER: 
+
+017_first_time_i_let_a_girl_in.mp3
+  "First time I let a girl in"
+  CHARACTER: 
+
+018_focus_on_survival.mp3
+  "Focus on survival"
+  CHARACTER: 
+
+019_girls_mature_faster_than_boys.mp3
+  "Girls mature faster than boys"
+  CHARACTER: 
+
+020_hand_sanitizer.mp3
+  "Hand Sanitizer?"
+  CHARACTER: 
+
+021_haven_t_cried_like_that_since_titanic.mp3
+  "Haven't cried like that since Titanic"
+  CHARACTER: 
+
+022_i_can_t_believe_i_shot_bill_murray.mp3
+  "I can't believe I shot Bill Murray"
+  CHARACTER: 
+
+023_i_could_use_a_twinkie.mp3
+  "I could use a Twinkie"
+  CHARACTER: 
+
+024_is_it_better_to_be_smart_or_lucky.mp3
+  "Is it better to be smart or lucky"
+  CHARACTER: 
+
+025_is_that_how_you_say_hello.mp3
+  "Is that how you say hello?"
+  CHARACTER: 
+
+026_is_that_perfume.mp3
+  "Is that perfume"
+  CHARACTER: 
+
+027_let_themselves_go.mp3
+  "Let themselves go"
+  CHARACTER: 
+
+028_let_s_play_the_quiet_game.mp3
+  "Let's play the quiet game"
+  CHARACTER: 
+
+029_nut_up_or_shut_up.mp3
+  "Nut up or shut up"
+  CHARACTER: 
+
+030_one_and_done.mp3
+  "One and done"
+  CHARACTER: 
+
+031_pretty_mouth.mp3
+  "Pretty mouth"
+  CHARACTER: 
+
+032_risk_our_lives.mp3
+  "Risk our lives"
+  CHARACTER: 
+
+033_rule.mp3
+  "Rule"
+  CHARACTER: 
+
+034_thank_god_for_rednecks.mp3
+  "Thank God for Rednecks"
+  CHARACTER: 
+
+035_that_place_sucks.mp3
+  "That place sucks"
+  CHARACTER: 
+
+036_the_best_thing_about_z_land.mp3
+  "The best thing about Z Land"
+  CHARACTER: 
+
+037_the_bird.mp3
+  "The Bird"
+  CHARACTER: 
+
+038_travel_light.mp3
+  "Travel Light"
+  CHARACTER: 
+
+039_you_have_royally_pissed_me_off.mp3
+  "You have royally pissed me off"
+  CHARACTER: 
+
+040_you_owe_me.mp3
+  "You owe me"
+  CHARACTER: 
+
+041_you_prospecting.mp3
+  "You Prospecting?"
+  CHARACTER: 
+
+042_you_re_incredible.mp3
+  "You're Incredible"
+  CHARACTER: 

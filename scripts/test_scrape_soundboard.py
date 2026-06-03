@@ -94,9 +94,46 @@ def test_manual_entries_keeps_present_nonboard_clips():
     print("ok  manual_entries_keeps_present_nonboard_clips")
 
 
+def test_should_trim_board_legacy_vs_modern():
+    legacy = "https://www.101soundboards.com/boards/26259-nacho-libre-soundboard"
+    modern = "https://www.101soundboards.com/boards/1388968-were-the-millers-2013"
+    # Default: legacy boards (ID < 1M) get the ding-trim; modern ones don't.
+    assert s.should_trim_board(legacy) is True
+    assert s.should_trim_board(modern) is False
+    print("ok  should_trim_board_legacy_vs_modern")
+
+
+def test_should_trim_board_no_trim_override():
+    # Some sub-1M boards (e.g. 21 Jump Street, ID 119606, slug -2012) serve clean
+    # audio despite a legacy-range ID; no_trim=True suppresses the trim so we don't
+    # chop 1s of real audio off every clip.
+    clean = "https://www.101soundboards.com/boards/119606-21-jump-street-2012"
+    assert s.should_trim_board(clean) is True            # would trim by ID alone
+    assert s.should_trim_board(clean, no_trim=True) is False
+    print("ok  should_trim_board_no_trim_override")
+
+
+def test_merge_sound_pages_dedups_by_id_preserving_order():
+    page1 = [{"id": 1, "x": "a"}, {"id": 2, "x": "b"}]
+    page2 = [{"id": 2, "x": "b"}, {"id": 3, "x": "c"}]  # id 2 overlaps
+    merged = s.merge_sound_pages([page1, page2])
+    assert [m["id"] for m in merged] == [1, 2, 3], merged
+    print("ok  merge_sound_pages_dedups_by_id_preserving_order")
+
+
+def test_merge_sound_pages_single_page_unchanged():
+    page = [{"id": 5}, {"id": 6}]
+    assert s.merge_sound_pages([page]) == page
+    print("ok  merge_sound_pages_single_page_unchanged")
+
+
 if __name__ == "__main__":
     test_read_existing_repeats_parses_repeat_lines()
     test_write_quotes_js_expands_repeat()
     test_write_transcripts_round_trips_repeat()
     test_manual_entries_keeps_present_nonboard_clips()
+    test_should_trim_board_legacy_vs_modern()
+    test_should_trim_board_no_trim_override()
+    test_merge_sound_pages_dedups_by_id_preserving_order()
+    test_merge_sound_pages_single_page_unchanged()
     print("\nAll tests passed.")

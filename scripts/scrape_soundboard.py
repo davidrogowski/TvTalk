@@ -151,6 +151,12 @@ def download(url: str, dest: Path) -> None:
 _API_URL = "https://www.101soundboards.com/api/v1/boards/{board_id}?limit=2000"
 _ASSET_HOST = "https://www.101soundboards.com"
 _BOARD_ID_RE = re.compile(r"/boards/(\d+)")
+# The API hard-caps a single request at 2000 sounds and ignores offset/page. A
+# board with more clips (e.g. 21 Jump Street, 2135) is silently truncated to the
+# first 2000 in its default (alpha) sort. Re-querying with sort=id surfaces a
+# different 2000-slice; merging the two recovers nearly all clips on such boards.
+_API_PAGE_LIMIT = 2000
+_API_ALT_SORT_URL = "https://www.101soundboards.com/api/v1/boards/{board_id}?limit=2000&sort=id"
 
 # Legacy community-uploaded boards (board_id < 1M, slug ends in -soundboard) serve a
 # notification-ding-poisoned audio file to non-browser User-Agents. Modern official
@@ -163,6 +169,16 @@ TRIM_SECONDS = 1.0
 def is_legacy_board(board_url: str) -> bool:
     m = _BOARD_ID_RE.search(board_url)
     return bool(m) and int(m.group(1)) < _LEGACY_ID_THRESHOLD
+
+
+def should_trim_board(board_url: str, no_trim: bool = False) -> bool:
+    """
+    Whether to ding-trim clips from this board. Legacy boards (ID < 1M) are
+    trimmed by default, but a few sub-1M boards (e.g. 21 Jump Street, ID 119606,
+    slug -2012) actually serve clean audio; set no_trim to suppress the trim so
+    we don't chop 1s of real audio off every clip.
+    """
+    return is_legacy_board(board_url) and not no_trim
 
 
 def trim_mp3_inplace(path: Path, seconds: float) -> bool:
@@ -202,6 +218,24 @@ def _censor_nword(text: str) -> str:
     return _NWORD_RE.sub(lambda m: m.group(0)[0] + "*" * (len(m.group(0)) - 1), text)
 
 
+def merge_sound_pages(pages: list[list[dict]]) -> list[dict]:
+    """
+    Merge multiple API 'sounds' pages into one list, deduping by sound id and
+    preserving first-seen order. Used to recover clips from boards larger than
+    the API's 2000-sound page cap by combining differently-sorted pages.
+    """
+    seen: set = set()
+    merged: list[dict] = []
+    for page in pages:
+        for sound in page:
+            sid = sound.get("id")
+            if sid in seen:
+                continue
+            seen.add(sid)
+            merged.append(sound)
+    return merged
+
+
 def fetch_sounds(
     board_url: str,
     *,
@@ -213,8 +247,14 @@ def fetch_sounds(
     m = _BOARD_ID_RE.search(board_url)
     if not m:
         raise ValueError(f"Could not extract board id from URL: {board_url}")
-    payload = json.loads(fetch(_API_URL.format(board_id=m.group(1))))
+    board_id = m.group(1)
+    payload = json.loads(fetch(_API_URL.format(board_id=board_id)))
     sounds = payload.get("data", {}).get("sounds", [])
+    # If the first (alpha-sorted) page is full, the board may exceed the 2000 cap;
+    # pull the sort=id page too and merge to recover the truncated tail.
+    if len(sounds) >= _API_PAGE_LIMIT:
+        alt = json.loads(fetch(_API_ALT_SORT_URL.format(board_id=board_id)))
+        sounds = merge_sound_pages([sounds, alt.get("data", {}).get("sounds", [])])
 
     exclude_prefix_lower = exclude_prefix.strip().lower()
 
@@ -428,6 +468,7 @@ def scrape_board(
     dedup_transcripts: bool = False,
     preserve_transcripts: bool = False,
     censor_nword: bool = False,
+    no_trim: bool = False,
 ) -> dict:
     """
     Scrape one or more boards into out_dir. Returns a stats dict.
@@ -450,7 +491,7 @@ def scrape_board(
     dropped_dupes = 0
     for url, bmin, bmax in board_specs:
         print(f"Fetching {url}")
-        url_is_legacy = is_legacy_board(url)
+        url_is_legacy = should_trim_board(url, no_trim=no_trim)
         for mp3_url, transcript in fetch_sounds(
             url, exclude_prefix=exclude_prefix, case_style=case_style, censor_nword=censor_nword
         ):
@@ -658,6 +699,7 @@ def main() -> None:
             dedup_transcripts=_flag("dedup"),
             preserve_transcripts=_flag("preserve_transcripts"),
             censor_nword=_flag("censor_nword"),
+            no_trim=_flag("no_trim"),
         )
 
 
