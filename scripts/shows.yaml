@@ -815,7 +815,6 @@ shows:
   - id: nacho-libre
     name: "Nacho Libre"
     board_url: "https://www.101soundboards.com/boards/26259-nacho-libre-soundboard"
-    no_trim: true                # board verified clean (no ding) — earlier trim was wrong; re-scraped untrimmed
     status: pending
     type: movie
     text_style: "title"
@@ -828,7 +827,6 @@ shows:
   - id: spaceballs
     name: "Spaceballs"
     board_url: "https://www.101soundboards.com/boards/86101-spaceballs-soundboard"
-    no_trim: true                # board verified clean (no ding) — earlier trim was wrong; re-scraped untrimmed
     status: pending
     type: movie
     text_style: "title"          # board captions are already short labels
@@ -840,7 +838,6 @@ shows:
   - id: airplane
     name: "Airplane!"
     board_url: "https://www.101soundboards.com/boards/21219-airplane-movie-soundboard"
-    no_trim: true                # board verified clean (no ding) — earlier trim was wrong; re-scraped untrimmed
     status: pending
     type: movie
     text_style: "title"
@@ -853,7 +850,6 @@ shows:
   - id: deadpool
     name: "Deadpool"
     board_url: "https://www.101soundboards.com/boards/24730-deadpool-movie-soundboard"
-    no_trim: true                # board verified clean (no ding) — earlier trim was wrong; re-scraped untrimmed
     status: pending
     type: movie
     text_style: "title"
@@ -916,7 +912,6 @@ shows:
   - id: zombieland
     name: "Zombieland"
     board_url: "https://www.101soundboards.com/boards/86464-zombieland-soundboard"
-    no_trim: true                # board verified clean (no ding) — earlier trim was wrong; re-scraped untrimmed
     status: pending
     type: movie
     text_style: "title"          # board captions are already short labels
@@ -941,7 +936,6 @@ shows:
   - id: the-departed
     name: "The Departed"
     board_url: "https://www.101soundboards.com/boards/75908-the-departed-soundboard"
-    no_trim: true                # board verified clean (no ding) — earlier trim was wrong; re-scraped untrimmed
     status: pending
     type: movie
     text_style: "title"
@@ -954,7 +948,6 @@ shows:
   - id: key-and-peele
     name: "Key & Peele"
     board_url: "https://www.101soundboards.com/boards/31002-key-and-peele-soundboard"
-    no_trim: true                # board verified clean (no ding) — earlier trim was wrong; re-scraped untrimmed
     status: pending
     type: show
     text_style: "title"
@@ -971,7 +964,6 @@ shows:
     type: movie
     text_style: "title"
     preserve_transcripts: true   # curated to clips >=4s; transcripts.txt is the authoritative set
-    no_trim: true                # board verified clean (no ding) despite -soundboard slug — don't trim
     theme:
       primary: "#c9a227"         # money gold
       accent:  "#1e6f4a"         # cash green

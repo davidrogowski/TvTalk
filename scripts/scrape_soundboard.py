@@ -173,12 +173,22 @@ def is_legacy_board(board_url: str) -> bool:
 
 def should_trim_board(board_url: str, no_trim: bool = False) -> bool:
     """
-    Whether to ding-trim clips from this board. Legacy boards (ID < 1M) are
-    trimmed by default, but a few sub-1M boards (e.g. 21 Jump Street, ID 119606,
-    slug -2012) actually serve clean audio; set no_trim to suppress the trim so
-    we don't chop 1s of real audio off every clip.
+    Whether to ding-trim clips from this board.
+
+    A board is ding-poisoned (≈1s notification chime prepended) only when it's a
+    legacy community board: board ID < 1M AND the slug ends in `-soundboard`.
+    Low-ID boards with a modern `-YYYY` slug (e.g. 21 Jump Street, ID 119606,
+    slug -2012) serve clean audio — trimming them would chop 1s of real audio.
+    `no_trim` is an explicit escape hatch that suppresses the trim regardless.
+
+    NOTE: do not try to detect poisoning by comparing the downloaded file's
+    duration to the API's sound_duration — they match even when poisoned, because
+    the API reports the with-ding length.
     """
-    return is_legacy_board(board_url) and not no_trim
+    # The slug (not the 101soundboards.com domain, which always contains the word)
+    # must END in -soundboard. Tolerate a trailing slash / query string.
+    slug_is_soundboard = bool(re.search(r"-soundboard/?(\?|$)", board_url.lower()))
+    return is_legacy_board(board_url) and slug_is_soundboard and not no_trim
 
 
 def trim_mp3_inplace(path: Path, seconds: float) -> bool:

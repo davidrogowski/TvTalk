@@ -94,22 +94,23 @@ def test_manual_entries_keeps_present_nonboard_clips():
     print("ok  manual_entries_keeps_present_nonboard_clips")
 
 
-def test_should_trim_board_legacy_vs_modern():
-    legacy = "https://www.101soundboards.com/boards/26259-nacho-libre-soundboard"
+def test_should_trim_board_poisoned_vs_clean():
+    # Poisoned = ID < 1M AND slug ends in -soundboard (legacy community boards).
+    poisoned = "https://www.101soundboards.com/boards/26259-nacho-libre-soundboard"
     modern = "https://www.101soundboards.com/boards/1388968-were-the-millers-2013"
-    # Default: legacy boards (ID < 1M) get the ding-trim; modern ones don't.
-    assert s.should_trim_board(legacy) is True
+    # Low ID but a -YYYY slug (not -soundboard) is a modern board → clean, no trim.
+    low_id_modern = "https://www.101soundboards.com/boards/119606-21-jump-street-2012"
+    assert s.should_trim_board(poisoned) is True
     assert s.should_trim_board(modern) is False
-    print("ok  should_trim_board_legacy_vs_modern")
+    assert s.should_trim_board(low_id_modern) is False
+    print("ok  should_trim_board_poisoned_vs_clean")
 
 
 def test_should_trim_board_no_trim_override():
-    # Some sub-1M boards (e.g. 21 Jump Street, ID 119606, slug -2012) serve clean
-    # audio despite a legacy-range ID; no_trim=True suppresses the trim so we don't
-    # chop 1s of real audio off every clip.
-    clean = "https://www.101soundboards.com/boards/119606-21-jump-street-2012"
-    assert s.should_trim_board(clean) is True            # would trim by ID alone
-    assert s.should_trim_board(clean, no_trim=True) is False
+    # no_trim=True suppresses the trim even on a poisoned board (escape hatch).
+    poisoned = "https://www.101soundboards.com/boards/75908-the-departed-soundboard"
+    assert s.should_trim_board(poisoned) is True
+    assert s.should_trim_board(poisoned, no_trim=True) is False
     print("ok  should_trim_board_no_trim_override")
 
 
@@ -132,7 +133,7 @@ if __name__ == "__main__":
     test_write_quotes_js_expands_repeat()
     test_write_transcripts_round_trips_repeat()
     test_manual_entries_keeps_present_nonboard_clips()
-    test_should_trim_board_legacy_vs_modern()
+    test_should_trim_board_poisoned_vs_clean()
     test_should_trim_board_no_trim_override()
     test_merge_sound_pages_dedups_by_id_preserving_order()
     test_merge_sound_pages_single_page_unchanged()
