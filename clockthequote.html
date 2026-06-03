@@ -207,7 +207,10 @@ function flashBtn(btn, msg){
 }
 
 /* ---------- game state ---------- */
-let clip, stage, guesses, solvedStage, finished, roundNo=0, audio=null, snippetTimer=null, playsUsed=0, clipObjUrl=null;
+let clip, stage, guesses, solvedStage, finished, roundNo=0, playsUsed=0;
+// Web Audio: decode each clip once, then play an exact slice (snippet = midpoint + window).
+// Avoids the <audio> seek + gesture bugs that broke mobile (iOS).
+let audioCtx=null, clipBuffer=null, bufferReady=false, curSource=null, pendingPlay=null, audioUnlocked=false;
 
 /* win streak (persisted; real game keys this to calendar days, prototype counts consecutive wins) */
 let streak = +(localStorage.getItem("ctq_proto_streak")||0);
@@ -228,17 +231,7 @@ function startRound(){
   roundNo++;
   clip = pickClip();
   stage=0; guesses=0; solvedStage=null; finished=false; playsUsed=0;
-  if(audio){ audio.pause(); }
-  if(clipObjUrl){ URL.revokeObjectURL(clipObjUrl); clipObjUrl=null; }
-  const a = new Audio();
-  a.preload = "auto";
-  audio = a;
-  // The host serves audio without HTTP range support (200, not 206), so a streamed
-  // <audio> can't seek to the midpoint for the snippet clues. Fetch the whole clip into
-  // memory — an in-memory blob URL is always seekable.
-  fetch(AUDIO_BASE + clip.url).then(r => r.ok ? r.blob() : Promise.reject())
-    .then(b => { if(audio!==a) return; clipObjUrl = URL.createObjectURL(b); a.src = clipObjUrl; })
-    .catch(() => { if(audio===a) a.src = AUDIO_BASE + clip.url; }); // fallback: may start at 0
+  loadClip(clip);
   render();
 }
 function advanceClue(){ // wrong guess or skip
@@ -247,42 +240,61 @@ function advanceClue(){ // wrong guess or skip
   if(guesses>=MAX_GUESSES){ finished=true; recordLoss(); }
 }
 
-/* ---------- audio (per-stage mode + play limit) ---------- */
-function stopAudio(){ if(snippetTimer){clearTimeout(snippetTimer);snippetTimer=null;} if(audio){audio.pause();} }
-function canPlay(){ return playsUsed < STAGES[stage].limit; }
-function snippetStart(){ // center this stage's snippet window on the clip's midpoint
-  const d=audio.duration, win=snipMs()/1000;
-  if(!isFinite(d) || d<=win) return 0;            // duration unknown/short → from the top
-  return Math.max(0, d/2 - win/2);
+/* ---------- audio (Web Audio: decode once, play exact slices) ---------- */
+function getCtx(){ if(!audioCtx){ const C=window.AudioContext||window.webkitAudioContext; audioCtx=new C(); } return audioCtx; }
+// iOS keeps the AudioContext muted until a node is started inside a user gesture. Call this
+// on every play tap: resume the context AND start a 1-sample silent buffer to unlock it.
+const SILENT_URI = "data:audio/mpeg;base64,SUQzBAAAAAAAI1RTU0UAAAAPAAADTGF2ZjYyLjEyLjEwMAAAAAAAAAAAAAAA//tAwAAAAAAAAAAAAAAAAAAAAAAASW5mbwAAAA8AAAARAAAHpgAlJSUlJTMzMzMzM0BAQEBAQE5OTk5OTlxcXFxcXGlpaWlpaXd3d3d3d4WFhYWFhZKSkpKSoKCgoKCgrq6urq6uu7u7u7u7ycnJycnJ19fX19fX5OTk5OTk8vLy8vLy//////8AAAAATGF2YzYyLjI4AAAAAAAAAAAAAAAAJAVYAAAAAAAAB6ZIYsygAAAAAAD/+xDEAAPAAAGkAAAAIAAANIAAAARMQU1FMy4xMDBVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMuMTAwVf/7EsQpg8AAAaQAAAAgAAA0gAAABFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMuMTAwVf/7EMRTg8AAAaQAAAAgAAA0gAAABFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVMQU1FMy4xMDBV//sSxH0DwAABpAAAACAAADSAAAAEVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVMQU1FMy4xMDBV//sQxKcDwAABpAAAACAAADSAAAAEVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVUxBTUUzLjEwMFX/+xLE0IPAAAGkAAAAIAAANIAAAARVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVUxBTUUzLjEwMFX/+xDE1gPAAAGkAAAAIAAANIAAAARVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMuMTAwVf/7EsTVg8AAAaQAAAAgAAA0gAAABFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMuMTAwVf/7EMTWA8AAAaQAAAAgAAA0gAAABFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVMQU1FMy4xMDBV//sSxNWDwAABpAAAACAAADSAAAAEVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVMQU1FMy4xMDBV//sQxNYDwAABpAAAACAAADSAAAAEVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVUxBTUUzLjEwMFX/+xLE1YPAAAGkAAAAIAAANIAAAARVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVX/+xDE1gPAAAGkAAAAIAAANIAAAARVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVf/7EsTVg8AAAaQAAAAgAAA0gAAABFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVf/7EMTWA8AAAaQAAAAgAAA0gAAABFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV//sSxNWDwAABpAAAACAAADSAAAAEVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV//sQxNYDwAABpAAAACAAADSAAAAEVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVU=";
+let silentEl=null;
+function getSilent(){ if(!silentEl){ silentEl=new Audio(SILENT_URI); silentEl.loop=true; } return silentEl; }
+function unlockAudio(){
+  const ctx=getCtx();
+  if(ctx.state==="suspended") ctx.resume();
+  // iOS: a looping silent <audio> MEDIA element flips the page's audio session to "playback",
+  // which makes Web Audio play through the hardware mute/ringer switch (off by default for WA).
+  try{ getSilent().play().catch(()=>{}); }catch(e){}
+  if(!audioUnlocked){
+    try{ const b=ctx.createBuffer(1,1,22050), s=ctx.createBufferSource();
+         s.buffer=b; s.connect(ctx.destination); s.start(0); audioUnlocked=true; }catch(e){}
+  }
 }
-function playWindowed(btn){ // seek to the middle, wait for the seek to land, then play the window
-  const ms=snipMs();
-  const fire=()=>{
-    audio.play().then(()=>{
-      btn&&btn.classList.add("playing");
-      snippetTimer=setTimeout(()=>{ audio.pause(); btn&&btn.classList.remove("playing"); }, ms);
+function loadClip(c){                              // fetch + decode at round start
+  stopSource(); clipBuffer=null; bufferReady=false; pendingPlay=null;
+  const want=c;
+  fetch(AUDIO_BASE + c.url).then(r=> r.ok ? r.arrayBuffer() : Promise.reject())
+    .then(ab=> getCtx().decodeAudioData(ab))
+    .then(buf=>{
+      if(clip!==want) return;                     // round changed mid-decode → drop
+      clipBuffer=buf; bufferReady=true;
+      if(pendingPlay){ const p=pendingPlay; pendingPlay=null; startSegment(p.mode, p.snipMs); }
     }).catch(()=>{});
-  };
-  const seekThenFire=()=>{
-    const target=snippetStart();
-    if(Math.abs(audio.currentTime-target)<0.05){ fire(); return; }   // already there → seeked won't fire
-    audio.addEventListener("seeked", function s(){ audio.removeEventListener("seeked",s); fire(); }, {once:true});
-    audio.currentTime=target;
-  };
-  if(isFinite(audio.duration) && audio.duration>0){ seekThenFire(); }
-  else { audio.addEventListener("loadedmetadata", function m(){ audio.removeEventListener("loadedmetadata",m); seekThenFire(); }, {once:true}); audio.load(); }
 }
-function playCurrent(btn){
+function stopSource(){
+  if(curSource){ try{ curSource.onended=null; curSource.stop(); }catch(e){} curSource=null; }
+  const b=document.getElementById("play"); if(b) b.classList.remove("playing");
+}
+function segOffset(snipMs){                        // where the snippet window starts: centered on the midpoint
+  const d=clipBuffer?clipBuffer.duration:0, win=snipMs/1000;
+  return d<=win ? 0 : Math.max(0, d/2 - win/2);
+}
+function startSegment(mode, snipMs){               // mode "snippet" → a window; else the whole clip
+  if(!clipBuffer) return;
+  stopSource();
+  const ctx=getCtx(), src=ctx.createBufferSource();
+  src.buffer=clipBuffer; src.connect(ctx.destination); curSource=src;
+  const btn=document.getElementById("play"); if(btn) btn.classList.add("playing");
+  src.onended=()=>{ if(curSource===src) curSource=null; const b=document.getElementById("play"); if(b) b.classList.remove("playing"); };
+  if(mode==="snippet"){ src.start(0, segOffset(snipMs), snipMs/1000); } // start now, from offset, for window seconds
+  else { src.start(0, 0); }
+}
+function canPlay(){ return playsUsed < STAGES[stage].limit; }
+function playCurrent(){
   if(!canPlay()) return;
   playsUsed++;
+  unlockAudio();                                                  // resume + silent-blip unlock, inside the tap (iOS)
   const st=STAGES[stage];
-  stopAudio();
-  if(st.mode==="snippet"){ playWindowed(btn); }
-  else {
-    audio.currentTime=0;
-    audio.play().then(()=>{ btn&&btn.classList.add("playing"); }).catch(()=>{});
-    audio.onended=()=>btn&&btn.classList.remove("playing");
-  }
+  if(bufferReady) startSegment(st.mode, st.snipMs);
+  else pendingPlay={mode:st.mode, snipMs:st.snipMs};              // ctx now unlocked → playing on decode is fine
   refreshPlayUI();
 }
 function whatLabel(){
@@ -309,11 +321,11 @@ function refreshPlayUI(){
   if(hint) hint.textContent=playHint();
   if(lc) lc.textContent=listenLabel();
 }
-// result screen: always the whole clip, no snippet cap, no limit
-function playFullClip(btn){
-  stopAudio(); audio.currentTime=0;
-  audio.play().then(()=>{ btn&&btn.classList.add("playing"); }).catch(()=>{});
-  audio.onended=()=>btn&&btn.classList.remove("playing");
+// result screen: always the whole clip, unlimited
+function playFullClip(){
+  unlockAudio();
+  if(bufferReady) startSegment("full");
+  else pendingPlay={mode:"full"};
 }
 
 /* ---------- guessing ---------- */
@@ -329,6 +341,7 @@ let lastWrong="";
 /* ---------- render ---------- */
 const card=document.getElementById("card");
 function render(){
+  stopSource();                       // stop any playing clip when the clue view changes
   if(finished) return renderResult();
   const dots = Array.from({length:MAX_GUESSES},(_,i)=>{
     const cls = i<stage?"used":(i===stage?"cur":"");
@@ -377,7 +390,7 @@ const WIN_MSGS = ["Clocked it! ⏰","Nailed it! 🎯","Too easy 😎","You know 
 function winMsg(){ return WIN_MSGS[(roundNo + (solvedStage||0)) % WIN_MSGS.length]; }
 
 function renderResult(){
-  stopAudio(); playsUsed=0;            // full clip is freely replayable on the result screen
+  stopSource(); playsUsed=0;           // full clip is freely replayable on the result screen
   const won = solvedStage!=null;
   card.innerHTML = `
     <div class="result">
