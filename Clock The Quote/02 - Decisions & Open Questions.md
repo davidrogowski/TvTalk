@@ -38,33 +38,41 @@
 ### ⚠️ Ladder evolved in the prototype (Design Spec is now behind)
 
 Hands-on iteration replaced the old "reveal more words" ladder with an
-**audio-access escalation**. Current, agreed ladder:
+**audio-access escalation**. Final shipped ladder:
 
-1. Snippet (~2.5s, from middle) — **one listen**
-2. Snippet — **replay freely**
-3. Full clip — **one listen**
-4. Full clip — **replay freely**
-5. Full clip — replay freely **+ masked title** (first & last letter of each word)
+1. Short snippet (~2.5s, **from the middle**) — **2 listens** (with a counter)
+2. **5-second** snippet (from the middle) — **2 listens**
+3. Full clip — **2 listens**
+4. Full clip — **unlimited** + the **caption** (quote text) revealed
+5. Full clip — unlimited + caption **+ masked title** (first & last letter of each word)
 
 On a correct guess: success message, show name + type, the quote as description,
 a freely-replayable full clip, and a **download** button (reuses the TvTalk
-soundboard's save/share). The quote text is now **only** a post-win reveal, never
-an in-game clue. `01 - Design Spec.md` still describes the older ladder and should
-be re-synced once the prototype feel is locked.
+soundboard's save/share). `01 - Design Spec.md` has been **re-synced** to this
+as-built state (2026-06-02).
 
-## Open questions to resolve before building
+**Also shipped:** theme = **"Marquee"** (dark, amber, Anton/Newsreader/Hanken —
+picked from 3 mockups); score = clue-solved-on, **lower better** (1/5 best);
+spoiler-free share with clickable `https://` link (no streak line); deployed at
+**tvtalk.fun/clockthequote** via **`wrangler@4.40.0`** (4.97 hangs). Current beta
+pool: 5 hard-coded **movies-only** clips for testing (Anchorman, Caddyshack,
+Office Space, The Other Guys, Tropic Thunder) — movies-only is a temporary test
+choice, not a design decision.
 
-1. **Final page name** — `clock-the-quote.html` or something shorter?
-2. **`GAME:` marker convention** — confirm prefix spelling and where it sits in the
+## Open questions
+
+_Resolved:_ page name → **`clockthequote.html`** (`/clockthequote`). Masking →
+**first & last letter per word**, shown only at clue 5 (no extra letter-reveal step).
+
+_Still open (for the daily build):_
+
+1. **`GAME:` marker convention** — confirm prefix spelling and where it sits in the
    `transcripts.txt` line format (alongside `REPEAT:` / character tags).
-3. **Masking rule for clues 4–5** — exact letters revealed at each step (first+last
-   per word, then ~half remaining? vowels?). Decide by feel during build.
-4. **Daily rollover timezone** — local midnight (Wordle) vs a fixed zone like
-   Pinpoint's midnight PT (everyone on the same #N simultaneously, better for
-   shared bragging). Leaning fixed-zone.
-5. **Initial pool size** — how many clips to bless for launch so the daily doesn't
-   repeat for a long while (need enough that #N stays fresh for months).
-6. **Repo split timing** — see `00 - Overview.md`; decide at "game proven + wants
+2. **Daily rollover timezone** — local midnight (Wordle) vs a fixed zone like
+   Pinpoint's midnight PT (everyone on the same #N simultaneously). Leaning fixed-zone.
+3. **Initial pool size** — how many clips to bless so the daily stays fresh for months.
+   (Also: shows vs movies mix — the beta is movies-only only for testing.)
+4. **Repo split timing** — see `00 - Overview.md`; decide at "game proven + wants
    independent deploys."
 
 ## Process note (for whoever resumes)

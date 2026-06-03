@@ -29,14 +29,17 @@ cd /Users/dave/Desktop/Obsidian/TvTalk
 # 1. Push to GitHub (version history)
 git add -A && git commit -m "..." && git push
 
-# 2. Deploy to Cloudflare (the actual live update)
-npm_config_cache=/tmp/npm-cache npx wrangler deploy
+# 2. Deploy to Cloudflare (the actual live update) — PIN wrangler@4.40.0
+npm_config_cache=/tmp/npm-cache npx --yes wrangler@4.40.0 deploy
 ```
 
 Notes:
-- The `npm_config_cache=/tmp/npm-cache` prefix works around root-owned files in `~/.npm` (a one-time npm permission bug). To fix permanently: `sudo chown -R 501:20 ~/.npm`, then the prefix isn't needed.
-- Wrangler is already authenticated (via `wrangler login` OAuth). If it ever logs out, re-run `npx wrangler login`.
-- Re-deploys only upload changed files (delta), so they're fast (~1-10 sec for small changes).
+- **⚠️ PIN THE WRANGLER VERSION.** `wrangler@4.97.0` (current latest) **hangs forever** on the asset-upload step: it prints "Read ~8100 files from the assets directory" then sits at **0% CPU** indefinitely (confirmed on two machines, after a successful auth `200`, so it's a wrangler bug, not network/access). **`wrangler@4.40.0` works** — uploads the same site in ~2 min. So always deploy with the pinned older version (the command above). A bare `npx wrangler deploy` pulls 4.97 and hangs.
+- **The `npm_config_cache=/tmp/npm-cache` prefix is mandatory** — `~/.npm` is corrupted (a bare `npx wrangler` there fails with `npm error Invalid Version:`). `sudo chown -R 501:20 ~/.npm` fixed ownership but **not** the corruption, so keep using the `/tmp` cache. To fully fix `~/.npm` someday: `npm cache clean --force` didn't help; would need to wipe/rebuild it.
+- **Run it in a real Terminal, from the project dir.** `sudo`/`npx` need a real TTY (the Claude Code `!` prefix and the Bash sandbox lack one — `sudo` errors "a terminal is required"). And `cd ~/Desktop/Obsidian/TvTalk` first, or wrangler scans your home dir and chokes on `~/.Trash`. (Claude *can* run it via its Bash tool with the sandbox disabled — but the version pin still applies.)
+- **Verify the live URL**, not npx's exit code (`npx` reports 0 even on failure): `curl -sI https://tvtalk.fun/clockthequote`.
+- Wrangler is authenticated via `wrangler login` OAuth (account `davrogowski@gmail.com` / `b331d50040451dd56b64535ec1381a09`).
+- Only changed files upload (delta), but wrangler still **hashes all ~8,100 files / 774 MB locally every deploy** (no persistent hash cache), so even a 2-file change takes ~2 min of local hashing. That's expected, not a hang.
 - Commits use env-var author identity (`davidrogowski` / `davidrogowski@users.noreply.github.com`) since global git config is intentionally unset.
 
 ## To wire up auto-deploy on push (optional, not done)

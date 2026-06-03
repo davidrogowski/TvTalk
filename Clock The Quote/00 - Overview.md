@@ -1,6 +1,6 @@
 # Clock The Quote — Overview
 
-> **Status:** 🟡 Design captured, not yet built. No code written. This folder is docs-only and does **not** touch the live TvTalk soundboard.
+> **Status:** 🟢 **LIVE in beta** at **https://tvtalk.fun/clockthequote** (deployed 2026-06-02). The shipped game is `clockthequote.html` at the repo root + a soundboard cross-link; this folder holds the design docs and the throwaway `prototype.html`. The live beta runs an endless shuffle of a few hard-coded clips (the daily-of-1, curated pool, and stats are still to come — see `01 - Design Spec.md`). Deploy with **`wrangler@4.40.0`** (4.97 hangs — see `../05 - Deployment.md`).
 
 ## What this is
 
