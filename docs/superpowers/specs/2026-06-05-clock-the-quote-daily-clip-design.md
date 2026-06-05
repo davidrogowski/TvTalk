@@ -16,7 +16,8 @@ No server, no cron — pure client-side date math.
 
 - **One specific clip per day**, from a fixed ordered queue — NOT a pool that cycles
   `mod length`. Each day maps to one explicit schedule entry.
-- **Queue depth: 10 clips** (10 days). Refill before it runs out.
+- **Queue depth: 20 clips** (20 days; extended from 10 on 2026-06-05). Refill before
+  it runs out. Days 11–20 added in the same session — see the lineup table below.
 - **Puzzle #1 = 2026-06-05 ET** (today). #2 = 2026-06-06, etc.
 - **Timezone: America/New_York**, resolved with `Intl.DateTimeFormat` (DST-safe —
   no manual offset), so the rollover is correct for every visitor regardless of
@@ -71,6 +72,23 @@ Captions are cleaned to short labels per the add-show SOP.
 | 10 | The Office | Prison Mike | show | `the-office/261_prison_mike.mp3` | 14s |
 
 All 10 titles already exist in the 64-title autocomplete list, so each is guessable.
+
+### Days 11–20 (added 2026-06-05)
+
+| # | Title | Caption | Type | File (under `audio/`) | Len |
+|---|---|---|---|---|---|
+| 11 | Pulp Fiction | Check out the big brain on Brett | movie | `pulp-fiction/009_check_out_the_big_brain_on_brett_you_re_a_smart_motherfucker.mp3` | 12s |
+| 12 | It's Always Sunny in Philadelphia | Can I offer you an egg in this trying time? | show | `always-sunny/018_can_i_offer_you_an_egg_in_this_trying_time.mp3` | 12s |
+| 13 | Zoolander | He's almost too good looking | movie | `zoolander/022_he_s_almost_too_good_looking_hey_paco_that_would_be_my_main.mp3` | 11s |
+| 14 | Rick and Morty | Ants in my eyes Johnson | show | `rick-and-morty/008_ants_in_my_eyes_johnson.mp3` | 15s |
+| 15 | Dazed and Confused | I get older, they stay the same age | movie | `dazed-and-confused/003_i_get_older_they_stay_the_same_age.mp3` | 13s |
+| 16 | Silicon Valley | Billionaires are people too | show | `silicon-valley/020_billionaires_are_people_too.mp3` | 14s |
+| 17 | Pineapple Express | I feel like a slice of butter | movie | `pineapple-express/020_i_feel_like_a_slice_of_butter.mp3` | 14s |
+| 18 | Nathan For You | I am so sad | show | `nathan-for-you/011_i_am_so_sad.mp3` | 14s |
+| 19 | Wedding Crashers | We only use 10% of our hearts | movie | `wedding-crashers/053_we_only_use_10_percent_of_our_hearts.mp3` | 9s |
+| 20 | The Simpsons | You've got the Shining | show | `the-simpsons/026_boy_ye_read_my_thoughts_you_ve_got_the_shinin.mp3` | 8s |
+
+Queue loops after #20 → `REFILL BEFORE 2026-06-25`.
 
 ## Playback start (no change)
 
