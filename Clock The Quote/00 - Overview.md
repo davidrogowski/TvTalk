@@ -1,6 +1,6 @@
 # Clock The Quote — Overview
 
-> **Status:** 🟢 **LIVE in beta** at **https://tvtalk.fun/clockthequote** (deployed 2026-06-02). The shipped game is `clockthequote.html` at the repo root + a soundboard cross-link; this folder holds the design docs and the throwaway `prototype.html`. The live beta runs an endless shuffle of a few hard-coded clips (the daily-of-1, curated pool, and stats are still to come — see `01 - Design Spec.md`). Deploy with **`wrangler@4.40.0`** (4.97 hangs — see `../05 - Deployment.md`).
+> **Status:** 🟢 **LIVE in beta** at **https://tvtalk.fun/clockthequote** (deployed 2026-06-02; **daily-of-1 shipped 2026-06-05**). The shipped game is `clockthequote.html` at the repo root + a soundboard cross-link; this folder holds the design docs and the throwaway `prototype.html`. It now runs a **real daily-of-1**: one clip per US-Eastern day from a hand-curated **30-day queue** (#1 = 2026-06-05), rolling at midnight ET. Still to come: a **`shows.js`-filtered curated pool / per-show rotation** (replacing the finite queue) and persisted stats — see `01 - Design Spec.md`. Deploy with **`wrangler@4.40.0`** (4.97 hangs — see `../05 - Deployment.md`).
 
 ## What this is
 
@@ -45,7 +45,12 @@ We expect to eventually move this to its own repo. My recommendation on timing:
 
 ## Next steps (when we resume)
 
-1. Resolve the open questions in `02 - …` (page name, `GAME:` marker convention).
-2. Turn the design spec into an implementation plan (writing-plans skill).
-3. Build `clock-the-quote.html` + the additive pipeline flag, test the deterministic
-   core, leave the soundboard untouched.
+The game and the daily-of-1 are **built and live**. What's left:
+
+1. **Refill the daily queue before 2026-07-05** (it loops back to #1 otherwise), OR
+   build the ongoing replacement so refills stop being manual.
+2. **Ongoing daily source (parked):** a **per-show rotation** — one representative
+   clip per title, each title once per cycle, reshuffled each loop, catalog grows
+   over time. Build "mechanism now, grow over time." See `02 - …` open question 2.
+3. Later: the `shows.js` `GAME:`-filtered pool + the additive pipeline flag, and
+   persisted stats. Soundboard stays untouched throughout.

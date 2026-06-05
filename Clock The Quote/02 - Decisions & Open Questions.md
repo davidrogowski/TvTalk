@@ -54,10 +54,11 @@ as-built state (2026-06-02).
 **Also shipped:** theme = **"Marquee"** (dark, amber, Anton/Newsreader/Hanken —
 picked from 3 mockups); score = clue-solved-on, **lower better** (1/5 best);
 spoiler-free share with clickable `https://` link (no streak line); deployed at
-**tvtalk.fun/clockthequote** via **`wrangler@4.40.0`** (4.97 hangs). Current beta
-pool: 5 hard-coded **movies-only** clips for testing (Anchorman, Office Space, The
-Other Guys, Tropic Thunder, Pulp Fiction) — movies-only is a temporary test choice,
-not a design decision.
+**tvtalk.fun/clockthequote** via **`wrangler@4.40.0`** (4.97 hangs). The original
+5-clip movies-only test shuffle has been **superseded** by the daily-of-1 (shipped
+**2026-06-05**): a hand-curated **30-day `SCHEDULE`** (mix of movies + shows), one
+clip per US-Eastern day, #1 = 2026-06-05 → #30 = 2026-07-04, looping with a
+`REFILL BEFORE` cue. See `01 - Design Spec.md` → "Daily-of-1 (AS BUILT)".
 
 **Audio = Web Audio (decided after a long mobile debug — don't regress).** Snippets
 play an exact slice from the midpoint; Cloudflare has no HTTP range support so a
@@ -71,16 +72,23 @@ Full detail in `01 - Design Spec.md` → "Audio playback".
 
 _Resolved:_ page name → **`clockthequote.html`** (`/clockthequote`). Masking →
 **first & last letter per word**, shown only at clue 5 (no extra letter-reveal step).
+**Rollover timezone (2026-06-05): fixed zone — midnight US-Eastern**
+(`America/New_York` via `Intl.DateTimeFormat`, DST-safe), so everyone shares the same
+`#N`. **Shows-vs-movies mix:** the daily queue mixes both (the movies-only test set
+is gone).
 
-_Still open (for the daily build):_
+_Still open (for the curated-pool / ongoing build):_
 
 1. **`GAME:` marker convention** — confirm prefix spelling and where it sits in the
-   `transcripts.txt` line format (alongside `REPEAT:` / character tags).
-2. **Daily rollover timezone** — local midnight (Wordle) vs a fixed zone like
-   Pinpoint's midnight PT (everyone on the same #N simultaneously). Leaning fixed-zone.
-3. **Initial pool size** — how many clips to bless so the daily stays fresh for months.
-   (Also: shows vs movies mix — the beta is movies-only only for testing.)
-4. **Repo split timing** — see `00 - Overview.md`; decide at "game proven + wants
+   `transcripts.txt` line format (alongside `REPEAT:` / character tags). Only needed
+   once we move off the hand-curated `SCHEDULE` onto a `shows.js`-filtered pool.
+2. **Ongoing daily source (parked 2026-06-05)** — replace the finite hand-curated
+   queue with a **per-show rotation**: one representative clip per title, each title
+   once per cycle, reshuffled on each loop, catalog grows over time. Sub-questions
+   Dave deferred: same clip per show on loop vs. rotate among several; whether to add
+   the 15 non-guessable catalog titles to the autocomplete. Build incrementally
+   ("mechanism now, grow over time").
+3. **Repo split timing** — see `00 - Overview.md`; decide at "game proven + wants
    independent deploys."
 
 ## Process note (for whoever resumes)

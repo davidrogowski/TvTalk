@@ -11,7 +11,7 @@ A daily, Pinpoint-style audio quote-guessing game on top of the TvTalk catalog:
 hear a clip, name the show/movie, fewer clues = better score, share a spoiler-free
 result strip.
 
-## Status — LIVE in beta (2026-06-02)
+## Status — LIVE in beta (shipped 2026-06-02; daily-of-1 shipped 2026-06-05)
 
 Shipped as **`clockthequote.html`** at the repo root, live at
 **https://tvtalk.fun/clockthequote**, deployed by the same Cloudflare Worker as
@@ -20,13 +20,39 @@ prototype that drove the iteration is `Clock The Quote/prototype.html`.
 
 **Built and live:** the 5-clue audio ladder (below), guess-by-autocomplete over
 all 64 titles, scoring, the spoiler-free share (native share sheet on mobile /
-clipboard on desktop), the "Marquee" visual theme, and a shuffle-bag of clips.
-**Not yet built:** the real daily-of-1 selection, the curated `GAME:` pool, and
-persisted stats — the live beta runs an **endless shuffle of a few hard-coded
-clips** (currently a 5-movie test set: Anchorman, Caddyshack, Office Space, The
-Other Guys, Tropic Thunder). Clips are picked to be **≥ 8s** so the mid-clip
-snippet has audio on both sides (Caddyshack is the exception — its longest is
-5.4s).
+clipboard on desktop), the "Marquee" visual theme, and — as of **2026-06-05** —
+the **real daily-of-1 selection** (below). The original endless shuffle-bag of
+hard-coded test clips has been **removed**; there is no practice replay.
+**Still not built:** the curated `GAME:` pool drawn from `shows.js` (the daily
+draws from a hand-curated in-page queue instead), and persisted stats.
+
+## Daily-of-1 (AS BUILT — 2026-06-05)
+
+One clip per calendar day, the same for every player, rolling over at **midnight ET**.
+
+- A hand-curated **`SCHEDULE`** array inline in the page — one entry
+  `{show, text, url}` per day, in order. **30 days queued** (#1 = 2026-06-05 …
+  #30 = 2026-07-04, Sat).
+- **Selection is pure client-side date math, no server/cron.** `dailyNumber()` =
+  `daysBetween("2026-06-05", todayET) + 1`, where `todayET` is the calendar date in
+  `America/New_York` via `Intl.DateTimeFormat('en-CA', {timeZone:'America/New_York'})`
+  — **DST-safe**, and correct regardless of the visitor's own timezone. Today's
+  clip = `SCHEDULE[(n-1) % len]`; the share `#N` is this real daily number.
+- **Loops** past the end (`% len`) so it never dead-ends — a `REFILL BEFORE <date>`
+  comment on the last entry marks the cue (currently **2026-07-05**). A **`?day=N`**
+  query param force-previews any day for testing.
+- Clips are all **≥ 8s**, captions cleaned to short labels, every title in the
+  64-title guess list. The result screen shows **"come back tomorrow for #N+1"**
+  (no next-clip button; a tab left open across midnight needs a reload).
+- **Caveat (intentional):** intra-day consistency is the only hard guarantee
+  (same clip for everyone today). Historical day→clip is *not* pinned forever — when
+  the queue changes/grows, future picks may shift, which is fine because the share
+  strip is spoiler-free.
+- **Ongoing plan (parked):** replace the finite hand-curated queue with a
+  **per-show rotation** — one representative clip per title, each title once per
+  cycle, reshuffled on each loop, catalog grows over time. See
+  `02 - Decisions & Open Questions.md`. Design doc:
+  `docs/superpowers/specs/2026-06-05-clock-the-quote-daily-clip-design.md`.
 
 ## Theme — "Marquee" (chosen from 3 mockups)
 
@@ -39,9 +65,9 @@ light "Newsprint/NYT" option and a light "Pinpoint card" option.
 
 - Page **`clockthequote.html`** at the repo root, sibling to `index.html`, served
   at **`tvtalk.fun/clockthequote`** (Cloudflare serves `.html` without the extension).
-- The beta currently **hard-codes a few clips** inline. The intended end state
-  loads the **same** `shows.js` and `audio/` and filters the curated pool — zero
-  data duplication, fed automatically by the add-a-show playbook.
+- The daily currently reads a **hand-curated `SCHEDULE`** (one clip/day) inline.
+  The intended end state loads the **same** `shows.js` and `audio/` and filters the
+  curated pool — zero data duplication, fed automatically by the add-a-show playbook.
 - **Pure client-side, no build step, no backend.** Deploys identically through
   wrangler (just another static file).
 - **The soundboard (`index.html`) is never touched.**
@@ -63,14 +89,12 @@ a hand-picked few instead.)
   not a new file) and keeps one-offs isolated, consistent with how curation is
   already kept from leaking into the main scrapes.
 
-## The daily puzzle _(PLANNED — not yet built)_
+## The daily puzzle — BUILT 2026-06-05
 
-- One mystery title per day, chosen **deterministically** (date seed → pick from
-  the curated pool), rollover keyed to the calendar date so the shared `#N` lines
-  up with friends.
-- The live beta instead runs an **endless shuffle** of the hard-coded clips — a
-  "shuffle bag" cycles through every clip before any repeat, with no back-to-back
-  repeats. `#N` in the share is the round number for now.
+The deterministic daily-of-1 is **live** — see the **Daily-of-1 (AS BUILT)** section
+above. The one remaining _(PLANNED)_ piece is that it draws from a hand-curated
+in-page `SCHEDULE` rather than a `GAME:`-filtered pool of `shows.js`; the per-show
+rotation that replaces the finite queue is parked (see `02 - Decisions`).
 
 ## Clue ladder (AS BUILT)
 
@@ -141,8 +165,8 @@ implementation (the path here was hard-won — see the history below before chan
 
 Streak, max streak, games played, win %, guess-distribution histogram, and
 persisted today's-progress (resume mid-puzzle; once finished show the result, not
-a replay) — all part of the daily build, **not yet in the beta** (which is
-endless/replayable).
+a replay) — **still not built**. The daily-of-1 shipped without stats; there's no
+"already played today" lockout yet, so reloading replays the same day's clip fresh.
 
 ## Hint data — none needed 🎉
 
@@ -170,9 +194,11 @@ How the beta was verified (useful patterns for next time):
 - **Mobile audio can only be verified on a real device** — headless can't reproduce
   iOS (gesture rules, the mute switch). Dave tested on his phone; that's the loop.
 
-Planned for the daily build: extract the deterministic core into **pure, unit-tested
-functions** — `dayIndex(date)`, `seededPick(pool, dayIndex)`, the masking helper, the
-share-string builder, the stats reducer — with a tiny no-build runner (no framework).
+The daily-of-1's deterministic core is small inline helpers — `etDateKey()`,
+`daysBetween()`, `dailyNumber()`, `clipForNumber()`. They were verified by running
+the extracted logic under `node` (e.g. today → #1, tomorrow → #2, loop at the queue
+end) plus headless screenshots of `?day=N` result screens, rather than a unit-test
+harness. A future stats build could still extract these into a tested module.
 
 ## Build-pipeline changes _(PLANNED — for the curated pool; additive, safe — do NOT disturb the soundboard)_
 
