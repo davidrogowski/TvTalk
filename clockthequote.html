@@ -115,8 +115,7 @@
   </div>
 
   <div class="card" id="card"></div>
-  <p class="small">Beta · 5 clips for now (one-a-day coming soon).<br>
-     <a href="#" id="newRound" class="replaybtn">↻ New clip</a> &nbsp;·&nbsp;
+  <p class="small">Beta · A new quote every day at midnight ET.<br>
      <a href="/" class="replaybtn">← TV TALK soundboard</a></p>
 
 <script>
@@ -124,13 +123,20 @@
 const AUDIO_BASE = "/"; // served at /clockthequote; clips live at /audio/
 const GAME_NAME = "Clock The Quote";
 const PLAY_URL  = "https://tvtalk.fun/clockthequote";
-// Movies-only test set (5), in order — fresh clips; Caddyshack swapped for Pulp Fiction.
-const CLIPS = [
-  {show:"Anchorman", text:"Don't act like you're not impressed", url:"audio/anchorman/027_don_t_act_like_you_re_not_impressed.mp3"},
-  {show:"Office Space", text:"And here's something else bob", url:"audio/office-space/002_and_here_s_something_else_bob.mp3"},
-  {show:"The Other Guys", text:"Pimps don't cry", url:"audio/the-other-guys/057_pimps_don_t_cry.mp3"},
-  {show:"Tropic Thunder", text:"Big Dick Playa", url:"audio/tropic-thunder/002_big_dick_playa.mp3"},
-  {show:"Pulp Fiction", text:"A Royale with cheese", url:"audio/pulp-fiction/003_and_you_know_what_they_call_a_quarter_pounder_with_cheese_in.mp3"},
+// Daily queue: one specific clip per ET calendar day, in order. #1 = DAILY_START.
+// All clips ≥8s so the centered snippet has audio on both sides; titles are in TITLES (guessable).
+const DAILY_START = "2026-06-05"; // ET date of puzzle #1
+const SCHEDULE = [
+  {show:"Superbad",         text:"McLovin",                                        url:"audio/superbad/030_mclovin.mp3"},
+  {show:"The Office",       text:"Bears. Beets. Battlestar Galactica",             url:"audio/the-office/019_bears_beets_battlestar_galactica.mp3"},
+  {show:"Anchorman",        text:"I love lamp",                                    url:"audio/anchorman/055_i_love_lamp.mp3"},
+  {show:"The Hangover",     text:"One man wolf pack",                              url:"audio/the-hangover/028_one_man_wolf_pack.mp3"},
+  {show:"Forrest Gump",     text:"Life is like a box of chocolates",              url:"audio/forrest-gump/074_my_mom_always_said_life_was_like_a_box_of_chocolates_you_nev.mp3"},
+  {show:"The Big Lebowski", text:"That rug really tied the room together",         url:"audio/big-lebowski/057_that_rug_really_tied_the_room_together_did_it_not_fucking_a.mp3"},
+  {show:"Dodgeball",        text:"If you can dodge a wrench, you can dodge a ball", url:"audio/dodgeball/017_if_you_can_dodge_a_wrench_you_can_dodge_a_ball.mp3"},
+  {show:"Talladega Nights", text:"Thank you sweet baby Jesus",                     url:"audio/talladega-nights/037_thank_you_sweet_baby_jesus.mp3"},
+  {show:"Step Brothers",    text:"I didn't touch the drum set",                    url:"audio/step-brothers/043_look_i_didn_t_touch_a_drum_set_ok_i_witnessed_with_my_eyes_y.mp3"},
+  {show:"The Office",       text:"Prison Mike",                                     url:"audio/the-office/261_prison_mike.mp3"}, // REFILL BEFORE 2026-06-15 — queue loops past here
 ];
 const TITLES = ["The Boys","Invincible","Breaking Bad","Family Guy","That '70s Show","Narcos","Succession","Peaky Blinders","It's Always Sunny in Philadelphia","Ozark","The Sopranos","The Wire","Rick and Morty","Silicon Valley","Arrested Development","Parks and Recreation","Atlanta","How I Met Your Mother","The Office","Game of Thrones","Friends","American Dad!","Blue Mountain State","Nathan For You","Seinfeld","The Simpsons","Drake & Josh","Beavis and Butt-Head","King of the Hill","Tropic Thunder","Step Brothers","Talladega Nights","Wedding Crashers","Superbad","This Is The End","The 40 Year Old Virgin","Anchorman","Office Space","Pineapple Express","Austin Powers: Goldmember","Strange Wilderness","The Hangover","The Other Guys","Zoolander","Borat","Django Unchained","Dodgeball","White Chicks","Dazed and Confused","Idiocracy","Pirates of the Caribbean","Forrest Gump","Pulp Fiction","The Devil Wears Prada","Mean Girls","Entourage","The Big Lebowski","Bridesmaids","Ferris Bueller's Day Off","Caddyshack","The Breakfast Club","Big Daddy","Rush Hour 2","Scarface"];
 const TYPE = {}; // movie/show flag for the dropdown tag
@@ -217,19 +223,25 @@ let streak = +(localStorage.getItem("ctq_proto_streak")||0);
 function recordWin(){  streak++;   try{ localStorage.setItem("ctq_proto_streak", streak); }catch{} }
 function recordLoss(){ streak=0;    try{ localStorage.setItem("ctq_proto_streak", streak); }catch{} }
 
-// shuffle "bag": cycle through every clip once (random order) before any repeats
-let clipBag=[];
-function pickClip(){
-  if(clipBag.length===0){
-    clipBag = CLIPS.map((_,i)=>i);
-    for(let i=clipBag.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [clipBag[i],clipBag[j]]=[clipBag[j],clipBag[i]]; }
-    if(clip && CLIPS[clipBag[clipBag.length-1]]===clip && clipBag.length>1){ [clipBag[0],clipBag[clipBag.length-1]]=[clipBag[clipBag.length-1],clipBag[0]]; } // avoid back-to-back repeat across bags
-  }
-  return CLIPS[clipBag.pop()];
+// daily selection: which puzzle number is "today" in US Eastern time (DST-safe).
+function etDateKey(){ // "YYYY-MM-DD" for now in America/New_York, regardless of the viewer's tz
+  return new Intl.DateTimeFormat("en-CA",{timeZone:"America/New_York",year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date());
 }
+function daysBetween(a,b){ // whole days from ISO date a -> ISO date b
+  const [ya,ma,da]=a.split("-").map(Number), [yb,mb,db]=b.split("-").map(Number);
+  return Math.round((Date.UTC(yb,mb-1,db)-Date.UTC(ya,ma-1,da))/86400000);
+}
+// puzzle number for today (or a ?day=N override for previewing the queue). 1-based.
+function dailyNumber(){
+  const q=new URLSearchParams(location.search).get("day");
+  if(q!==null && /^\d+$/.test(q)) return Math.max(1,+q);
+  return daysBetween(DAILY_START, etDateKey()) + 1;
+}
+// clip for a puzzle number; loops past the queue end so it never dead-ends (refill before then).
+function clipForNumber(n){ const i=((n-1)%SCHEDULE.length+SCHEDULE.length)%SCHEDULE.length; return SCHEDULE[i]; }
 function startRound(){
-  roundNo++;
-  clip = pickClip();
+  roundNo = dailyNumber();
+  clip = clipForNumber(roundNo);
   stage=0; guesses=0; solvedStage=null; finished=false; playsUsed=0;
   loadClip(clip);
   render();
@@ -407,13 +419,10 @@ function renderResult(){
       </div>
       <button class="act dl" id="dl">⬇  Download clip</button>
       <div class="share" id="share">${buildShareText(roundNo, solvedStage).replace(PLAY_URL, `<a href="${PLAY_URL}" target="_blank" rel="noopener">${PLAY_URL}</a>`)}</div>
-      <div class="btnrow">
-        <button class="act primary" id="share-btn">Share result</button>
-        <button class="act" id="again">Next clip ↻</button>
-      </div>
+      <button class="act primary" id="share-btn" style="width:100%">Share result</button>
+      <p class="small" style="margin-top:16px">🎬 That's today's quote. Come back tomorrow for #${roundNo+1}.</p>
     </div>`;
   document.getElementById("play").onclick = e=>playFullClip(e.currentTarget);
-  document.getElementById("again").onclick = startRound;
   document.getElementById("dl").onclick = ()=>saveClip(clip);
   document.getElementById("share-btn").onclick = e=>shareResult(e.currentTarget);
 }
@@ -473,7 +482,6 @@ function wireAutocomplete(){
   input.focus();
 }
 
-document.getElementById("newRound").onclick=e=>{e.preventDefault();startRound();};
 startRound();
 </script>
 </body>

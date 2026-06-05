@@ -72,6 +72,13 @@ Captions are cleaned to short labels per the add-show SOP.
 
 All 10 titles already exist in the 64-title autocomplete list, so each is guessable.
 
+## Playback start (no change)
+
+Confirmed 2026-06-05: the snippet clues (1 & 2) must start from the **middle** of
+the clip — which the as-built `segOffset()` already does (centered window on the
+midpoint). The full-clip stages (clues 3–5) and result replay keep playing from
+the start so players hear the whole clip. **No audio-playback change is required.**
+
 ## Out of scope (beta)
 
 - Per-day "you already played today" lockout / persistence.
