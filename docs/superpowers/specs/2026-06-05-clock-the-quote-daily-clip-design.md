@@ -16,8 +16,9 @@ No server, no cron — pure client-side date math.
 
 - **One specific clip per day**, from a fixed ordered queue — NOT a pool that cycles
   `mod length`. Each day maps to one explicit schedule entry.
-- **Queue depth: 20 clips** (20 days; extended from 10 on 2026-06-05). Refill before
-  it runs out. Days 11–20 added in the same session — see the lineup table below.
+- **Queue depth: 30 clips** (30 days; grown 10→20→30 on 2026-06-05). Refill before
+  it runs out. Days 11–30 added the same session — see the lineup tables below.
+  Every title across the 30 is distinct except The Office (days 2 & 10).
 - **Puzzle #1 = 2026-06-05 ET** (today). #2 = 2026-06-06, etc.
 - **Timezone: America/New_York**, resolved with `Intl.DateTimeFormat` (DST-safe —
   no manual offset), so the rollover is correct for every visitor regardless of
@@ -88,7 +89,22 @@ All 10 titles already exist in the 64-title autocomplete list, so each is guessa
 | 19 | Wedding Crashers | We only use 10% of our hearts | movie | `wedding-crashers/053_we_only_use_10_percent_of_our_hearts.mp3` | 9s |
 | 20 | The Simpsons | You've got the Shining | show | `the-simpsons/026_boy_ye_read_my_thoughts_you_ve_got_the_shinin.mp3` | 8s |
 
-Queue loops after #20 → `REFILL BEFORE 2026-06-25`.
+### Days 21–30 (added 2026-06-05)
+
+| # | Title | Caption | Type | File (under `audio/`) | Len |
+|---|---|---|---|---|---|
+| 21 | Game of Thrones | Chaos is a ladder | show | `game-of-thrones/026_chaos_is_a_ladder.mp3` | 16s |
+| 22 | The Other Guys | Aim for the bushes | movie | `the-other-guys/001_aim_for_the_bushes.mp3` | 10s |
+| 23 | Office Space | The jump-to-conclusions mat | movie | `office-space/066_jump_to_conclusions.mp3` | 15s |
+| 24 | Parks and Recreation | Galentine's Day | show | `parks-and-rec/011_galentine_s_day.mp3` | 13s |
+| 25 | Bridesmaids | Everybody has the flu | movie | `bridesmaids/015_everybody_has_the_flu.mp3` | 14s |
+| 26 | Friends | Are you in there, little fetus? | show | `friends/009_are_you_in_there_little_fetus_in_nine_months_will_you_come_g.mp3` | 13s |
+| 27 | Pirates of the Caribbean | You can always trust a dishonest man | movie | `pirates-of-the-caribbean/011_dishonestman.mp3` | 16s |
+| 28 | That '70s Show | It's Star Wars! | show | `that-70s-show/023_i_am_so_excited_about_star_whores_fezzie_man_it_s_star_wars.mp3` | 14s |
+| 29 | The Breakfast Club | You want to blow your scholarship? | movie | `breakfast-club/051_you_want_to_blow_your_scholarship.mp3` | 15s |
+| 30 | This Is The End | Something not that chill happened | movie | `this-is-the-end/030_something_not_that_chill_happened_last_night.mp3` | 14s |
+
+Queue loops after #30 → `REFILL BEFORE 2026-07-05`.
 
 ## Playback start (no change)
 
