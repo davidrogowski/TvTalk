@@ -478,7 +478,7 @@ function renderResult(){
       <button class="act dl" id="dl">⬇  Download clip</button>
       <div class="share" id="share">${buildShareText(roundNo, solvedStage).replace(PLAY_URL, `<a href="${PLAY_URL}" target="_blank" rel="noopener">${PLAY_URL}</a>`)}</div>
       <button class="act primary" id="share-btn" style="width:100%">Share result</button>
-      <p class="small" style="margin-top:16px">🎬 That's today's quote. Come back tomorrow for #${roundNo+1}.</p>
+      <p class="small" style="margin-top:16px">Come back tomorrow for #${roundNo+1}.</p>
     </div>
     ${ticketBot()}`;
   document.getElementById("play").onclick = e=>playFullClip(e.currentTarget);
