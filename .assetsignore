@@ -8,3 +8,6 @@ scripts/
 Clock The Quote/
 .wrangler/
 .DS_Store
+node_modules/
+.superpowers/
+.claude/
