@@ -82,6 +82,10 @@
   .caption{font-family:"Newsreader",Georgia,serif;font-style:italic;font-size:21px;line-height:1.35;color:var(--ink)}
   .masked{font-family:"Newsreader",Georgia,serif;font-weight:500;font-size:26px;letter-spacing:.14em;color:var(--red)}
   .masked .b{color:#c3b290}
+  .blurtitle{font-family:"Newsreader",Georgia,serif;font-weight:500;font-size:26px;letter-spacing:.14em;color:var(--ink);
+             filter:blur(8px);user-select:none;pointer-events:none}
+  .kindtag{font-family:ui-monospace,Menlo,monospace;font-size:10px;letter-spacing:.1em;text-transform:uppercase;
+           color:var(--red);border:1px solid var(--pline);border-radius:999px;padding:1px 7px;margin-left:6px;vertical-align:middle}
 
   /* guess box */
   .guesswrap{position:relative;margin-top:20px}
@@ -194,8 +198,8 @@ const STAGES = [
   {label:"Clue 1 — short snippet",        mode:"snippet", snipMs:2500, limit:2,        caption:false, masked:false},
   {label:"Clue 2 — 5-second snippet",     mode:"snippet", snipMs:5000, limit:2,        caption:false, masked:false},
   {label:"Clue 3 — full clip",            mode:"full",                 limit:2,        caption:false, masked:false},
-  {label:"Clue 4 — full clip + caption",  mode:"full",                 limit:Infinity, caption:true,  masked:false},
-  {label:"Clue 5 — caption + masked title",mode:"full",                limit:Infinity, caption:true,  masked:true},
+  {label:"Clue 4 — quote + blurred title", mode:"full",                limit:Infinity, caption:true,  blurTitle:true},
+  {label:"Clue 5 — quote + title initials",mode:"full",                limit:Infinity, caption:true,  firstLetters:true},
 ];
 function snipMs(){ return STAGES[stage].snipMs || 2500; }
 
@@ -207,7 +211,7 @@ function maskTitle(title, level){
     const chars=[...word];
     const alphaIdx=chars.map((c,i)=>isAlpha(c)?i:-1).filter(i=>i>=0);
     const show=new Set();
-    if(alphaIdx.length){ show.add(alphaIdx[0]); show.add(alphaIdx[alphaIdx.length-1]); }
+    if(alphaIdx.length){ show.add(alphaIdx[0]); if(level>=1) show.add(alphaIdx[alphaIdx.length-1]); }
     if(level>=2){ // reveal every other interior hidden letter
       const interior=alphaIdx.slice(1,-1);
       interior.forEach((idx,k)=>{ if(k%2===0) show.add(idx); });
@@ -415,13 +419,17 @@ function render(){
     return `<span class="d ${cls}"></span>`;
   }).join("");
 
-  // reveals: caption from clue 4, masked title at clue 5
+  // reveals: quote from clue 4; blurred full title at clue 4; first-letter initials + type at clue 5
   let reveals="";
   if(STAGES[stage].caption){
     reveals += `<div class="reveal"><span class="k">The quote</span><span class="caption">“${clip.text}”</span></div>`;
   }
-  if(STAGES[stage].masked){
-    reveals += `<div class="reveal"><span class="k">${TYPE[clip.show]==="movie"?"Movie":"Show"} title</span><span class="masked">${maskTitle(clip.show,1)}</span></div>`;
+  if(STAGES[stage].blurTitle){
+    reveals += `<div class="reveal"><span class="k">The title</span><span class="blurtitle" aria-hidden="true">${clip.show}</span></div>`;
+  }
+  if(STAGES[stage].firstLetters){
+    const kind = TYPE[clip.show]==="movie"?"Movie":"Show";
+    reveals += `<div class="reveal"><span class="k">The title <span class="kindtag">${kind}</span></span><span class="masked">${maskTitle(clip.show,0)}</span></div>`;
   }
 
   const ok=canPlay();
