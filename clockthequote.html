@@ -9,100 +9,121 @@
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400;1,6..72,500&family=Hanken+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg:#121016; --panel:#1b1820; --panel2:#211d28; --line:#2e2a34;
-    --ink:#f3ece0; --muted:#9a9088; --amber:#e7b24c; --amber-d:#c8942f; --red:#d6453f;
+    /* dark theater backdrop */
+    --bg:#15110d; --muted:#a59a86;
+    /* cream ticket + ink */
+    --paper:#f3ead4; --paper2:#ece0c4; --pline:#d8c7a2;
+    --ink:#221c14; --ink-m:#6f6450;
+    --red:#b23222; --red-2:#c63c2a; --gold:#e7b24c;
   }
   *{box-sizing:border-box}
-  body{margin:0;color:var(--ink);font-family:"Hanken Grotesk",-apple-system,BlinkMacSystemFont,sans-serif;
-       background:radial-gradient(900px 520px at 50% -120px,#241b16,var(--bg));
+  body{margin:0;color:var(--muted);font-family:"Hanken Grotesk",-apple-system,BlinkMacSystemFont,sans-serif;
+       background:var(--bg);
        min-height:100vh;display:flex;flex-direction:column;align-items:center;padding:30px 16px 60px}
 
-  /* marquee masthead */
-  .mast{text-align:center;margin-bottom:22px}
-  .bulbs{display:flex;gap:9px;justify-content:center;margin-bottom:12px}
-  .bulb{width:7px;height:7px;border-radius:50%;background:var(--amber);box-shadow:0 0 8px 1px rgba(231,178,76,.6)}
+  /* marquee strip above the ticket */
+  .mast{text-align:center;margin-bottom:18px}
+  .bulbs{display:flex;gap:9px;justify-content:center;margin-bottom:11px}
+  .bulb{width:7px;height:7px;border-radius:50%;background:var(--gold);box-shadow:0 0 6px 0 rgba(231,178,76,.5)}
   .bulb.off{background:#4a4038;box-shadow:none}
-  .mast h1{font-family:"Anton",sans-serif;font-weight:400;font-size:50px;letter-spacing:.02em;
-           line-height:.9;margin:0;text-transform:uppercase}
-  .mast h1 em{font-style:normal;color:var(--amber)}
-  .mast .sub{font-size:11px;letter-spacing:.3em;text-transform:uppercase;color:var(--muted);margin-top:11px}
+  .mast .sub{font-size:11px;letter-spacing:.34em;text-transform:uppercase;color:var(--muted)}
 
-  .card{width:100%;max-width:480px;background:linear-gradient(180deg,var(--panel),#161319);
-        border:1px solid var(--line);border-radius:16px;padding:24px;box-shadow:0 24px 60px -24px #000}
+  /* the ticket */
+  .card{width:100%;max-width:460px;background:var(--paper);color:var(--ink);
+        border-radius:8px;padding:0 26px 24px;position:relative;
+        box-shadow:0 18px 40px -16px rgba(0,0,0,.75);
+        background-image:radial-gradient(circle at 18px 50%, var(--bg) 0 7px, transparent 7.5px),
+                         radial-gradient(circle at calc(100% - 18px) 50%, var(--bg) 0 7px, transparent 7.5px);
+        background-repeat:no-repeat}
+
+  /* ticket stub bars (ADMIT ONE / serial) */
+  .stub{display:flex;justify-content:space-between;align-items:center;
+        font-family:ui-monospace,Menlo,monospace;font-size:11px;letter-spacing:.14em;color:var(--red);
+        padding:15px 0 13px}
+  .stub.bot{color:var(--ink-m);justify-content:center;gap:7px;padding:16px 0 4px}
+  .perf{border:0;border-top:1.5px dashed var(--pline);margin:0}
+
+  /* wordmark on the ticket */
+  .brand{text-align:center;padding:16px 0 6px}
+  .brand h1{font-family:"Anton",sans-serif;font-weight:400;font-size:42px;letter-spacing:.01em;
+            line-height:.86;margin:0;text-transform:uppercase;color:var(--ink)}
+  .brand h1 em{font-style:normal;color:var(--red)}
 
   /* progress */
-  .rung{display:flex;gap:8px;justify-content:center;margin:0 0 18px}
-  .rung .d{width:30px;height:5px;border-radius:99px;background:#332e3a;transition:.25s}
-  .rung .d.used{background:var(--amber)}
-  .rung .d.cur{background:var(--amber);opacity:.45}
-  .rung .d.solved{background:var(--amber)}
+  .rung{display:flex;gap:8px;justify-content:center;margin:18px 0 16px}
+  .rung .d{width:30px;height:5px;border-radius:99px;background:#decda7;transition:.25s}
+  .rung .d.used{background:var(--red)}
+  .rung .d.cur{background:var(--red);opacity:.4}
+  .rung .d.solved{background:var(--red)}
 
-  .stagelabel{text-align:center;color:var(--muted);font-size:11px;letter-spacing:.22em;
-              text-transform:uppercase;margin-bottom:20px}
+  .stagelabel{text-align:center;color:var(--ink-m);font-size:11px;letter-spacing:.16em;
+              text-transform:uppercase;font-family:ui-monospace,Menlo,monospace;margin-bottom:18px}
 
   /* play button */
-  .play{display:flex;flex-direction:column;align-items:center;gap:13px;margin:6px 0 20px}
-  .pbtn{width:104px;height:104px;border-radius:50%;border:2px solid var(--amber);background:transparent;
+  .play{display:flex;flex-direction:column;align-items:center;gap:13px;margin:6px 0 18px}
+  .pbtn{width:100px;height:100px;border-radius:50%;border:2px solid var(--red);background:transparent;
         cursor:pointer;display:flex;align-items:center;justify-content:center;transition:.15s}
-  .pbtn:hover{background:var(--amber)} .pbtn:hover svg{fill:#1a140a}
-  .pbtn svg{width:38px;height:38px;fill:var(--amber);margin-left:5px;transition:fill .15s}
+  .pbtn:hover{background:var(--red)} .pbtn:hover svg{fill:var(--paper)}
+  .pbtn svg{width:36px;height:36px;fill:var(--red);margin-left:5px;transition:fill .15s}
   .pbtn.playing{animation:pulse 1.1s ease-in-out infinite}
-  .pbtn.disabled{border-color:#403a34;cursor:not-allowed}
-  .pbtn.disabled svg{fill:#5b5249}
+  .pbtn.disabled{border-color:#cdbc97;cursor:not-allowed}
+  .pbtn.disabled svg{fill:#bcab86}
   .pbtn.disabled:hover{background:transparent}
-  @keyframes pulse{50%{box-shadow:0 0 0 7px rgba(231,178,76,.12)}}
-  .phint{font-size:13px;color:var(--muted)}
-  .listens{font-size:11px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#d8cdba;
-           background:#100d14;border:1px solid var(--line);border-radius:999px;padding:5px 14px}
+  @keyframes pulse{50%{box-shadow:0 0 0 7px rgba(178,50,34,.14)}}
+  .phint{font-size:13px;color:var(--ink-m)}
+  .listens{font-size:12px;font-weight:600;letter-spacing:.02em;color:var(--ink-m);
+           background:var(--paper2);border:1px solid var(--pline);border-radius:999px;padding:5px 14px}
 
   /* clue reveals */
   .reveals{min-height:6px;margin:2px 0 6px}
-  .reveal{border-top:1px solid var(--line);padding:14px 2px}
-  .reveal .k{display:block;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--amber-d);margin-bottom:7px}
-  .caption{font-family:"Newsreader",Georgia,serif;font-style:italic;font-size:21px;line-height:1.35;color:#efe7da}
-  .masked{font-family:"Newsreader",Georgia,serif;font-weight:500;font-size:26px;letter-spacing:.14em;color:var(--amber)}
-  .masked .b{color:#5b5048}
+  .reveal{border-top:1.5px dashed var(--pline);padding:14px 2px}
+  .reveal .k{display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;
+             font-family:ui-monospace,Menlo,monospace;color:var(--red);margin-bottom:7px}
+  .caption{font-family:"Newsreader",Georgia,serif;font-style:italic;font-size:21px;line-height:1.35;color:var(--ink)}
+  .masked{font-family:"Newsreader",Georgia,serif;font-weight:500;font-size:26px;letter-spacing:.14em;color:var(--red)}
+  .masked .b{color:#c3b290}
 
   /* guess box */
   .guesswrap{position:relative;margin-top:20px}
-  .ginput{width:100%;background:#100d14;border:1px solid var(--line);color:var(--ink);font-family:inherit;
-          border-radius:10px;padding:13px 15px;font-size:16px;outline:none}
-  .ginput:focus{border-color:var(--amber)}
-  .ginput::placeholder{color:#6c6258}
-  .drop{position:absolute;left:0;right:0;top:54px;background:#100d14;border:1px solid var(--line);
-        border-radius:10px;max-height:230px;overflow:auto;z-index:5;display:none}
+  .ginput{width:100%;background:#fffaf0;border:1px solid var(--pline);color:var(--ink);font-family:inherit;
+          border-radius:7px;padding:13px 15px;font-size:16px;outline:none}
+  .ginput:focus{border-color:var(--red)}
+  .ginput::placeholder{color:#a89c84}
+  .drop{position:absolute;left:0;right:0;top:54px;background:#fffaf0;border:1px solid var(--pline);
+        border-radius:7px;max-height:230px;overflow:auto;z-index:5;display:none;box-shadow:0 12px 26px -14px rgba(0,0,0,.4)}
   .drop.show{display:block}
   .opt{padding:11px 15px;cursor:pointer;display:flex;justify-content:space-between;gap:10px}
-  .opt.active,.opt:hover{background:#221d28}
-  .opt .t{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+  .opt.active,.opt:hover{background:var(--paper2)}
+  .opt .t{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-m)}
   .btnrow{display:flex;gap:11px;margin-top:14px}
-  button.act{flex:1;border-radius:10px;border:1px solid var(--line);background:transparent;color:var(--ink);
-             padding:14px;font-size:13px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;
+  button.act{flex:1;border-radius:7px;border:1px solid var(--pline);background:transparent;color:var(--ink);
+             padding:14px;font-size:15px;font-weight:600;letter-spacing:.01em;
              cursor:pointer;font-family:inherit;transition:.12s}
-  button.act:hover{border-color:#4a4350}
-  button.primary{background:var(--amber);border-color:var(--amber);color:#1a140a}
-  button.primary:hover{background:#f0bd5a}
+  button.act:hover{border-color:#b7a47e;background:rgba(178,50,34,.04)}
+  button.primary{background:var(--red);border-color:var(--red);color:var(--paper)}
+  button.primary:hover{background:var(--red-2)}
 
   /* result */
   .result{text-align:center}
   .result h2{margin:6px 0 6px;font-family:"Anton",sans-serif;font-weight:400;font-size:30px;
-             text-transform:uppercase;letter-spacing:.02em}
-  .result h2.win{color:var(--amber)}
+             text-transform:uppercase;letter-spacing:.02em;color:var(--ink)}
+  .result h2.win{color:var(--red)}
   .result .showname{font-family:"Anton",sans-serif;font-weight:400;font-size:30px;text-transform:uppercase;
-                    letter-spacing:.01em;margin:6px 0 0;line-height:1}
-  .result .ans{color:var(--amber)}
+                    letter-spacing:.01em;margin:6px 0 0;line-height:1;color:var(--ink)}
+  .result .ans{color:var(--red)}
   .result .miss{color:var(--red)}
-  .typetag{font-size:10px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);
-           border:1px solid var(--line);border-radius:999px;padding:3px 9px;vertical-align:middle;margin-left:10px;
-           font-family:"Hanken Grotesk",sans-serif}
-  .result .desc{font-family:"Newsreader",Georgia,serif;font-style:italic;font-size:18px;color:#d8cdba;margin:10px 0 0}
-  .result .streak{color:var(--amber);font-weight:700;font-size:14px;margin:6px 0 0;letter-spacing:.02em}
-  .share a{color:var(--amber);text-decoration:underline}
-  .act.dl{width:100%;margin-top:16px;background:#19140e;border-color:var(--amber-d);color:var(--amber)}
-  .act.dl:hover{background:var(--amber);color:#1a140a;border-color:var(--amber)}
-  .share{font-family:ui-monospace,Menlo,monospace;background:#100d14;border:1px solid var(--line);
-         border-radius:10px;padding:14px;margin:16px 0;font-size:15px;white-space:pre-wrap;letter-spacing:.04em}
+  .typetag{font-size:11px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-m);
+           border:1px solid var(--pline);border-radius:999px;padding:3px 10px;vertical-align:middle;margin-left:10px;
+           font-family:ui-monospace,Menlo,monospace}
+  .result .desc{font-family:"Newsreader",Georgia,serif;font-style:italic;font-size:18px;color:var(--ink-m);margin:10px 0 0}
+  .result .streak{color:var(--red);font-weight:700;font-size:14px;margin:6px 0 0;letter-spacing:.02em}
+  .share a{color:var(--red);text-decoration:underline}
+  .act.dl{width:100%;margin-top:16px;background:transparent;border-color:var(--red);color:var(--red)}
+  .act.dl:hover{background:var(--red);color:var(--paper);border-color:var(--red)}
+  .share{font-family:ui-monospace,Menlo,monospace;background:var(--paper2);border:1px dashed var(--pline);
+         border-radius:7px;padding:14px;margin:16px 0;font-size:15px;white-space:pre-wrap;letter-spacing:.04em;color:var(--ink)}
   .small{color:var(--muted);font-size:12px;text-align:center;margin-top:20px;letter-spacing:.02em}
+  .result .small{color:var(--ink-m)}
   .wrongs{font-size:12px;color:var(--red);min-height:16px;text-align:center;margin-top:10px;letter-spacing:.04em}
   a.replaybtn{color:var(--muted);font-size:13px;text-decoration:none;border-bottom:1px dotted var(--muted)}
 </style>
@@ -110,8 +131,7 @@
 <body>
   <div class="mast">
     <div class="bulbs"><span class="bulb"></span><span class="bulb"></span><span class="bulb off"></span><span class="bulb"></span><span class="bulb"></span></div>
-    <h1>Clock<br>the <em>Quote</em></h1>
-    <div class="sub">Now Showing · Beta</div>
+    <div class="sub">Now Showing</div>
   </div>
 
   <div class="card" id="card"></div>
@@ -374,6 +394,17 @@ let lastWrong="";
 
 /* ---------- render ---------- */
 const card=document.getElementById("card");
+// ticket chrome: ADMIT ONE stub + serial, wordmark, perforations
+function serial(){ return "No. "+String(roundNo).padStart(3,"0"); }
+function ticketTop(){
+  return `<div class="stub"><span>ADMIT ONE</span><span>${serial()}</span></div>
+    <hr class="perf">
+    <div class="brand"><h1>Clock the <em>Quote</em></h1></div>
+    <hr class="perf">`;
+}
+function ticketBot(){
+  return `<hr class="perf"><div class="stub bot"><span>★</span><span>tvtalk.fun</span><span>★</span></div>`;
+}
 function render(){
   stopSource();                       // stop any playing clip when the clue view changes
   if(finished) return renderResult();
@@ -393,6 +424,7 @@ function render(){
 
   const ok=canPlay();
   card.innerHTML = `
+    ${ticketTop()}
     <div class="rung">${dots}</div>
     <div class="stagelabel">${STAGES[stage].label}</div>
     <div class="play">
@@ -412,6 +444,7 @@ function render(){
       <button class="act primary" id="go">Guess</button>
     </div>
     <div class="wrongs" id="wrongs">${lastWrong?("✗ Not “"+lastWrong+"”"):""}</div>
+    ${ticketBot()}
   `;
   lastWrong="";
 
@@ -427,6 +460,7 @@ function renderResult(){
   stopSource(); playsUsed=0;           // full clip is freely replayable on the result screen
   const won = solvedStage!=null;
   card.innerHTML = `
+    ${ticketTop()}
     <div class="result">
       <h2 class="${won?'win':''}">${won?winMsg():"Out of guesses 😬"}</h2>
       <p>${won?("Solved on clue "+(solvedStage+1)+" of 5"):"The answer was"}</p>
@@ -443,7 +477,8 @@ function renderResult(){
       <div class="share" id="share">${buildShareText(roundNo, solvedStage).replace(PLAY_URL, `<a href="${PLAY_URL}" target="_blank" rel="noopener">${PLAY_URL}</a>`)}</div>
       <button class="act primary" id="share-btn" style="width:100%">Share result</button>
       <p class="small" style="margin-top:16px">🎬 That's today's quote. Come back tomorrow for #${roundNo+1}.</p>
-    </div>`;
+    </div>
+    ${ticketBot()}`;
   document.getElementById("play").onclick = e=>playFullClip(e.currentTarget);
   document.getElementById("dl").onclick = ()=>saveClip(clip);
   document.getElementById("share-btn").onclick = e=>shareResult(e.currentTarget);

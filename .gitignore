@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc
 .wrangler/
+
+.superpowers/
+node_modules/
