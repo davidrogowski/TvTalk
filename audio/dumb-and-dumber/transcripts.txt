@@ -1,0 +1,475 @@
+001_a_little_place.mp3
+  "A little place"
+  CHARACTER: 
+
+002_annoying_sound.mp3
+  "Most annoying sound"
+  CHARACTER: 
+
+003_bare_essentials.mp3
+  "Bare essentials"
+  CHARACTER: 
+
+004_bathroom_scene.mp3
+  "Toilet explosion"
+  CHARACTER: 
+
+005_be_strong.mp3
+  "Be strong"
+  CHARACTER: 
+
+006_big_gulps_huh.mp3
+  "Big gulps, huh?"
+  CHARACTER: 
+
+007_big_gulps_huh.mp3
+  "Big gulps, huh?"
+  CHARACTER: 
+
+008_calm_down.mp3
+  "Calm down"
+  CHARACTER: 
+
+009_check_please.mp3
+  "Check, please!"
+  CHARACTER: 
+
+010_crossed_my_mind.mp3
+  "Crossed my mind"
+  CHARACTER: 
+
+011_crying_in_money.mp3
+  "Crying in money"
+  CHARACTER: 
+
+012_did_you_pay_the_gas_bill.mp3
+  "Did you pay the gas bill?"
+  CHARACTER: 
+
+013_did_you_see_what_he_did.mp3
+  "Did you see what he did?!"
+  CHARACTER: 
+
+014_don_t_you_go_dying_on_me.mp3
+  "Don't you go dying on me!"
+  CHARACTER: 
+
+015_dont_you_go_dying_on_me.mp3
+  "Don't you go dying on me"
+  CHARACTER: 
+
+016_dumb_and_dumber.mp3
+  "Dumb and dumber"
+  CHARACTER: 
+
+017_dumb_and_dumber_toilet.mp3
+  "Toilet doesn't flush"
+  CHARACTER: 
+
+018_dumb_and_dumber_total_redemption.mp3
+  "Total redemption"
+  CHARACTER: 
+
+019_dumb_dumber_pathetic.mp3
+  "Pathetic loser"
+  CHARACTER: 
+
+020_dusty.mp3
+  "Dusty"
+  CHARACTER: 
+
+021_for_fast_effective_relief.mp3
+  "For fast, effective relief"
+  CHARACTER: 
+
+022_for_god_sakes_just_give_me_the_damn_number.mp3
+  "Just give me the damn number"
+  CHARACTER: 
+
+023_freezing_on_bike.mp3
+  "Freezing on the bike"
+  CHARACTER: 
+
+024_freezing_on_motorbike.mp3
+  "Freezing on the motorbike"
+  CHARACTER: 
+
+025_freezing_on_motorcycle.mp3
+  "Freezing on the motorcycle"
+  CHARACTER: 
+
+026_frozen_boogers.mp3
+  "Frozen boogers"
+  CHARACTER: 
+
+027_g_day_mate.mp3
+  "G'day mate!"
+  CHARACTER: 
+
+028_get_off_the_phone.mp3
+  "Get off the phone"
+  CHARACTER: 
+
+029_get_the_hell_out_of_here.mp3
+  "Get the hell out of here"
+  CHARACTER: 
+
+030_goodbye_my_love.mp3
+  "Goodbye my love"
+  CHARACTER: 
+
+031_he_must_work_out.mp3
+  "He must work out"
+  CHARACTER: 
+
+032_he_s_a_little_slow.mp3
+  "He's a little slow"
+  CHARACTER: 
+
+033_high_five.mp3
+  "High five"
+  CHARACTER: 
+
+034_his_head_fell_off.mp3
+  "His head fell off"
+  CHARACTER: 
+
+035_hit_me_with_it_just_give_it_to_me_straight.mp3
+  "Give it to me straight"
+  CHARACTER: 
+
+036_how_about_a_hug.mp3
+  "How about a hug?"
+  CHARACTER: 
+
+037_how_much_you_wanna_bet.mp3
+  "How much you wanna bet?"
+  CHARACTER: 
+
+038_hug.mp3
+  "Hug"
+  CHARACTER: 
+
+039_i_am_going_to_kill_you.mp3
+  "I am going to kill you"
+  CHARACTER: 
+
+040_i_can_t_feel_my_fingers_anymore.mp3
+  "I can't feel my fingers"
+  CHARACTER: 
+
+041_i_don_t_bet.mp3
+  "I don't bet"
+  CHARACTER: 
+
+042_i_hate_goodbyes.mp3
+  "I hate goodbyes"
+  CHARACTER: 
+
+043_i_knew_it_started_with_an_s_though.mp3
+  "It started with an S, though"
+  CHARACTER: 
+
+044_i_like_it_a_lot.mp3
+  "I like it a lot"
+  CHARACTER: 
+
+045_i_like_you_a_lot.mp3
+  "I like you a lot"
+  CHARACTER: 
+
+046_i_think_we_might_have_a_hustler_here.mp3
+  "We might have a hustler here"
+  CHARACTER: 
+
+047_i_took_care_of_it.mp3
+  "I took care of it"
+  CHARACTER: 
+
+048_i_was_way_off.mp3
+  "I was way off"
+  CHARACTER: 
+
+049_i_d_do_anything_to_bone_her.mp3
+  "I'd do anything to bone her"
+  CHARACTER: 
+
+050_just_when_i_think_you_can_t_do_anything_dumber.mp3
+  "Just when I think you can't do anything dumber"
+  CHARACTER: 
+
+051_just_when_i_think_you_couldn_t_be_any_dumber.mp3
+  "Just when I think you couldn't be any dumber"
+  CHARACTER: 
+
+052_kiss_my_ass.mp3
+  "Kiss my ass"
+  CHARACTER: 
+
+053_landed_on_the_moon.mp3
+  "Landed on the moon"
+  CHARACTER: 
+
+054_laxative.mp3
+  "Laxative"
+  CHARACTER: 
+
+055_lloyd_gags.mp3
+  "Lloyd gags"
+  CHARACTER: 
+
+056_look_at_the_butt_on_that.mp3
+  "Look at the butt on that"
+  CHARACTER: 
+
+057_loyd_s_revenge.mp3
+  "Lloyd's revenge"
+  CHARACTER: 
+
+058_man_you_are_one_pathetic_loser.mp3
+  "You are one pathetic loser"
+  CHARACTER: 
+
+059_medical_school_pickup_line.mp3
+  "Medical school pickup line"
+  CHARACTER: 
+
+060_most_annoying_sound.mp3
+  "Most annoying sound"
+  CHARACTER: 
+
+061_most_annoying_sound_in_the_world.mp3
+  "Most annoying sound in the world"
+  CHARACTER: 
+
+062_motorcycle_ride.mp3
+  "Motorcycle ride"
+  CHARACTER: 
+
+063_mr_perfect.mp3
+  "Mr. Perfect"
+  CHARACTER: 
+
+064_nice_set_of_hooters.mp3
+  "Nice set of hooters"
+  CHARACTER: 
+
+065_no_fart_games_while_in_car.mp3
+  "No fart games in the car"
+  CHARACTER: 
+
+066_no_food_no_jobs.mp3
+  "No food, no jobs"
+  CHARACTER: 
+
+067_no_way.mp3
+  "No way!"
+  CHARACTER: 
+
+068_oh_look_frost.mp3
+  "Oh look, frost"
+  CHARACTER: 
+
+069_ok_kill_him.mp3
+  "Okay, kill him"
+  CHARACTER: 
+
+070_pathetic_loser.mp3
+  "Pathetic loser"
+  CHARACTER: 
+
+071_pills_are_good.mp3
+  "Pills are good"
+  CHARACTER: 
+
+072_pretty_bird.mp3
+  "Pretty bird"
+  CHARACTER: 
+
+073_pull_over.mp3
+  "Pull over"
+  CHARACTER: 
+
+074_pumpkin_pie_haircut.mp3
+  "Pumpkin pie haircut"
+  CHARACTER: 
+
+075_put_out_the_vibe.mp3
+  "Put out the vibe"
+  CHARACTER: 
+
+076_reading_the_newspaper.mp3
+  "Reading the newspaper"
+  CHARACTER: 
+
+077_redeem_yourself.mp3
+  "Redeem yourself"
+  CHARACTER: 
+
+078_rough_day.mp3
+  "Rough day"
+  CHARACTER: 
+
+079_round_of_beers.mp3
+  "Round of beers"
+  CHARACTER: 
+
+080_running_at_an_incredible_rate.mp3
+  "Running at an incredible rate"
+  CHARACTER: 
+
+081_senior_citizens.mp3
+  "Senior citizens"
+  CHARACTER: 
+
+082_senior_citizens_can_still_serve_a_purpose.mp3
+  "Senior citizens can still serve a purpose"
+  CHARACTER: 
+
+083_shh_just_go.mp3
+  "Shh, just go"
+  CHARACTER: 
+
+084_shhh.mp3
+  "Shhh"
+  CHARACTER: 
+
+085_shrimp_on_the_barbie.mp3
+  "Shrimp on the barbie"
+  CHARACTER: 
+
+086_sick_and_tired.mp3
+  "Sick and tired"
+  CHARACTER: 
+
+087_so_you_re_telling_me_there_s_a_chance.mp3
+  "So you're telling me there's a chance"
+  CHARACTER: 
+
+088_spilling_the_salt_is_bad_luck.mp3
+  "Spilling the salt is bad luck"
+  CHARACTER: 
+
+089_suckin_back_on_grandpa_s_old_cough_medicine.mp3
+  "Grandpa's old cough medicine?"
+  CHARACTER: 
+
+090_suit_dance.mp3
+  "Suit dance"
+  CHARACTER: 
+
+091_that_john_denver_is_full_of_shit_man.mp3
+  "John Denver's full of shit, man"
+  CHARACTER: 
+
+092_that_sounds_good_i_ll_have_that.mp3
+  "That sounds good, I'll have that"
+  CHARACTER: 
+
+093_that_s_a_lovely_accent_you_have.mp3
+  "That's a lovely accent you have"
+  CHARACTER: 
+
+094_that_s_a_special_feeling_lloyd.mp3
+  "That's a special feeling, Lloyd"
+  CHARACTER: 
+
+095_that_s_as_good_as_money_sir.mp3
+  "That's as good as money, sir"
+  CHARACTER: 
+
+096_the_most_annoying_sound_in_the_world.mp3
+  "The most annoying sound in the world"
+  CHARACTER: 
+
+097_there_s_a_chance.mp3
+  "There's a chance"
+  CHARACTER: 
+
+098_this_party_really_died.mp3
+  "This party really died"
+  CHARACTER: 
+
+099_toenails.mp3
+  "Toenails"
+  CHARACTER: 
+
+100_toilet_explosion.mp3
+  "Toilet explosion"
+  CHARACTER: 
+
+101_totally_redeemed_yourself.mp3
+  "Totally redeemed yourself"
+  CHARACTER: 
+
+102_turbo_lax.mp3
+  "Turbo Lax"
+  CHARACTER: 
+
+103_uh_huh.mp3
+  "Uh huh!"
+  CHARACTER: 
+
+104_wanna_hear_the_most_annoying_sound_in_the_world.mp3
+  "Wanna hear the most annoying sound in the world?"
+  CHARACTER: 
+
+105_we_landed_on_the_moon.mp3
+  "We landed on the moon!"
+  CHARACTER: 
+
+106_we_re_really_doing_it.mp3
+  "We're really doing it!"
+  CHARACTER: 
+
+107_we_re_there.mp3
+  "We're there"
+  CHARACTER: 
+
+108_welp_see_ya_l8r.mp3
+  "Welp, see ya later"
+  CHARACTER: 
+
+109_what_do_you_think_the_chances_are_of_a_guy_like_you_and_a_gi.mp3
+  "What do you think the chances are of a guy like you and a girl like me"
+  CHARACTER: 
+
+110_what.mp3
+  "What?"
+  CHARACTER: 
+
+111_where_s_the_booze.mp3
+  "Where's the booze?"
+  CHARACTER: 
+
+112_why_you_going_to_the_airport_flying_somewhere.mp3
+  "Flying somewhere?"
+  CHARACTER: 
+
+113_will_you_join_me_in_a_good_luck_toast.mp3
+  "Will you join me in a good luck toast?"
+  CHARACTER: 
+
+114_ya_clapping.mp3
+  "Yeah, clapping"
+  CHARACTER: 
+
+115_yeah.mp3
+  "Yeah"
+  CHARACTER: 
+
+116_you_couldn_t_be_any_dumber.mp3
+  "You couldn't be any dumber"
+  CHARACTER: 
+
+117_you_have_had_this_pair_of_extra_gloves_this_whole_time.mp3
+  "Extra gloves this whole time?"
+  CHARACTER: 
+
+118_you_just_tell_me_where_to_sign_bud.mp3
+  "Tell me where to sign, bud"
+  CHARACTER: 
+
+119_you_re_a_horrible_shot.mp3
+  "You're a horrible shot"
+  CHARACTER: 

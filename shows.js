@@ -37911,5 +37911,2352 @@ const shows = [
         "audioUrl": "audio/ted-lasso-s1/558_cause_look_it_s_just_not_something_i_ve_ever_done_before_ok.mp3"
       }
     ]
+  },
+  {
+    "id": "old-school",
+    "name": "Old School",
+    "type": "movie",
+    "theme": {
+      "primary": "#c8842f",
+      "accent": "#8c2f2f",
+      "bg": "#0a0705"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "A professor lived here and died",
+        "character": "",
+        "audioUrl": "audio/old-school/004_a_professor_lived_here_for_like_30_years_and_then_he_died.mp3"
+      },
+      {
+        "text": "Look at the baby",
+        "character": "",
+        "audioUrl": "audio/old-school/025_always_smiling_hi_honey_judging_watching_look_at_the_baby.mp3"
+      },
+      {
+        "text": "The vault competition",
+        "character": "",
+        "audioUrl": "audio/old-school/035_and_for_the_vault_competition_oh_i_don_t_know.mp3"
+      },
+      {
+        "text": "What color her underpants might be",
+        "character": "",
+        "audioUrl": "audio/old-school/040_and_i_found_myself_wondering_what_color_her_underpants_might.mp3"
+      },
+      {
+        "text": "A little something called herpes",
+        "character": "",
+        "audioUrl": "audio/old-school/078_barry_oral_sex_instructor_he_left_me_with_a_little_something.mp3"
+      },
+      {
+        "text": "Grab your vegetables!",
+        "character": "",
+        "audioUrl": "audio/old-school/079_barry_oral_sex_instructor_the_secret_to_a_good_bj_is_focus_i.mp3"
+      },
+      {
+        "text": "Whose lives are ruined?",
+        "character": "",
+        "audioUrl": "audio/old-school/082_beanie_after_finding_out_that_it_s_in_the_bylaw_that_the_onl.mp3"
+      },
+      {
+        "text": "It takes a man to give away an angel",
+        "character": "",
+        "audioUrl": "audio/old-school/083_beanie_to_frank_s_father_in_law_it_takes_a_man_to_give_away.mp3"
+      },
+      {
+        "text": "A very big idea",
+        "character": "",
+        "audioUrl": "audio/old-school/084_beanie_because_this_is_a_very_big_idea_my_friends_we_re_talk.mp3"
+      },
+      {
+        "text": "Blue was old",
+        "character": "",
+        "audioUrl": "audio/old-school/085_beanie_don_t_beat_yourself_up_over_this_mitch_it_s_not_your.mp3"
+      },
+      {
+        "text": "Say it to the baby",
+        "character": "",
+        "audioUrl": "audio/old-school/086_beanie_don_t_say_sorry_to_me_frank_say_it_to_the_baby_frank.mp3"
+      },
+      {
+        "text": "Earmuff it for me",
+        "character": "",
+        "audioUrl": "audio/old-school/087_beanie_don_t_say_sorry_to_me_you_let_down_frank_you_let_down.mp3"
+      },
+      {
+        "text": "You're on the rebound",
+        "character": "",
+        "audioUrl": "audio/old-school/088_beanie_girls_love_a_guy_who_s_in_your_situation_mitch_what_s.mp3"
+      },
+      {
+        "text": "See you around campus",
+        "character": "",
+        "audioUrl": "audio/old-school/089_beanie_good_luck_to_everybody_nice_to_know_you_all_and_i_ll.mp3"
+      },
+      {
+        "text": "The Godfather himself",
+        "character": "",
+        "audioUrl": "audio/old-school/090_beanie_guys_this_is_a_very_special_occasion_the_godfather_hi.mp3"
+      },
+      {
+        "text": "Do I seem like a happy guy?",
+        "character": "",
+        "audioUrl": "audio/old-school/091_beanie_i_have_a_wife_and_kids_do_i_seem_like_a_happy_guy_to.mp3"
+      },
+      {
+        "text": "Mitch Martin Freedom Festival",
+        "character": "",
+        "audioUrl": "audio/old-school/092_beanie_i_d_like_to_welcome_you_all_to_the_mitch_martin_freed.mp3"
+      },
+      {
+        "text": "Crazy boy band ass",
+        "character": "",
+        "audioUrl": "audio/old-school/093_beanie_max_can_you_earmuff_for_me_we_are_going_to_get_so_muc.mp3"
+      },
+      {
+        "text": "Mitch is a lawyer",
+        "character": "",
+        "audioUrl": "audio/old-school/094_beanie_mitch_is_a_lawyer_buddy_he_ll_find_a_way_out_for_us.mp3"
+      },
+      {
+        "text": "That's a piece of crap",
+        "character": "",
+        "audioUrl": "audio/old-school/095_beanie_no_that_s_a_piece_of_crap_we_stopped_selling_that_six.mp3"
+      },
+      {
+        "text": "Put your head back on",
+        "character": "",
+        "audioUrl": "audio/old-school/096_beanie_spanish_what_the_hell_are_you_doing_spanish_i_m_just.mp3"
+      },
+      {
+        "text": "A lot of street cred",
+        "character": "",
+        "audioUrl": "audio/old-school/097_beanie_that_party_that_we_had_last_night_has_given_us_a_lot.mp3"
+      },
+      {
+        "text": "Whose life is ruined?",
+        "character": "",
+        "audioUrl": "audio/old-school/098_beanie_whose_life_is_ruined_mitch_let_s_see_blue_s_dead_fran.mp3"
+      },
+      {
+        "text": "The guy who won't get in",
+        "character": "",
+        "audioUrl": "audio/old-school/099_beanie_yeah_from_the_guy_who_probably_won_t_get_in_jerry_i_g.mp3"
+      },
+      {
+        "text": "I own six Speaker Cities",
+        "character": "",
+        "audioUrl": "audio/old-school/100_beanie_yeah_that_s_it_i_got_a_student_alt_rock_band_coming_o.mp3"
+      },
+      {
+        "text": "Avoiding my wife and kids",
+        "character": "",
+        "audioUrl": "audio/old-school/101_beanie_you_think_i_like_avoiding_my_wife_and_kids_to_hangout.mp3"
+      },
+      {
+        "text": "You're the lady, Marissa",
+        "character": "",
+        "audioUrl": "audio/old-school/102_beanie_you_re_the_lady_marissa_high_five.mp3"
+      },
+      {
+        "text": "True love is blind",
+        "character": "",
+        "audioUrl": "audio/old-school/104_because_i_think_what_mitch_is_trying_to_say_is_that_true_lov.mp3"
+      },
+      {
+        "text": "Waiting all semester",
+        "character": "",
+        "audioUrl": "audio/old-school/116_booker_we_ve_been_waiting_all_semester_for_you_to_ask_us.mp3"
+      },
+      {
+        "text": "Put a hot tub anywhere",
+        "character": "",
+        "audioUrl": "audio/old-school/174_couple_la_z_boys_to_fill_it_out_a_smarter_couch_you_could_pu.mp3"
+      },
+      {
+        "text": "This is me leaving",
+        "character": "",
+        "audioUrl": "audio/old-school/182_dean_pritchard_are_you_a_comedian_now_this_is_me_leaving_thi.mp3"
+      },
+      {
+        "text": "Please welcome James Carville",
+        "character": "",
+        "audioUrl": "audio/old-school/183_dean_pritchard_ladies_and_gentleman_please_welcome_the_co_ho.mp3"
+      },
+      {
+        "text": "Once it hits your lips, it's so good!",
+        "character": "",
+        "audioUrl": "audio/old-school/236_frank_after_funneling_a_beer_fill_it_up_again_fill_it_up_aga.mp3"
+      },
+      {
+        "text": "It's got three speeds",
+        "character": "",
+        "audioUrl": "audio/old-school/237_frank_offering_a_bread_maker_as_a_gift_what_do_you_think_max.mp3"
+      },
+      {
+        "text": "Blue, you're my boy!",
+        "character": "",
+        "audioUrl": "audio/old-school/238_frank_spanish_do_you_trust_that_we_have_provided_you_with_en.mp3"
+      },
+      {
+        "text": "A little housewarming gift",
+        "character": "",
+        "audioUrl": "audio/old-school/239_frank_a_little_housewarming_gift_mitch_i_actually_gave_this.mp3"
+      },
+      {
+        "text": "Have at it, hoss",
+        "character": "",
+        "audioUrl": "audio/old-school/240_frank_actually_i_d_like_to_jump_in_and_take_that_one_jimmy_i.mp3"
+      },
+      {
+        "text": "Dust in the wind",
+        "character": "",
+        "audioUrl": "audio/old-school/241_frank_all_we_are_is_dust_in_the_wind.mp3"
+      },
+      {
+        "text": "Drop and give me ten",
+        "character": "",
+        "audioUrl": "audio/old-school/242_frank_blue_how_come_there_s_no_ice_in_my_lemonade_throws_the.mp3"
+      },
+      {
+        "text": "Dear Mitch, the house has been boarded up",
+        "character": "",
+        "audioUrl": "audio/old-school/243_frank_dear_mitch_if_you_re_holding_this_letter_you_already_k.mp3"
+      },
+      {
+        "text": "Is KFC still open?",
+        "character": "",
+        "audioUrl": "audio/old-school/244_frank_honey_you_think_kfc_is_still_open.mp3"
+      },
+      {
+        "text": "I see Blue, he looks glorious",
+        "character": "",
+        "audioUrl": "audio/old-school/245_frank_i_see_blue_he_looks_glorious.mp3"
+      },
+      {
+        "text": "A pretty nice little Saturday",
+        "character": "",
+        "audioUrl": "audio/old-school/246_frank_i_told_my_wife_i_wouldn_t_drink_tonight_besides_i_got.mp3"
+      },
+      {
+        "text": "A whole meal of food",
+        "character": "",
+        "audioUrl": "audio/old-school/247_frank_i_ll_be_in_the_neighborhood_later_on_and_i_was_wonderi.mp3"
+      },
+      {
+        "text": "Now I look like a jackass",
+        "character": "",
+        "audioUrl": "audio/old-school/248_frank_jerry_are_you_a_statistics_major_or_something_jerry_ac.mp3"
+      },
+      {
+        "text": "Bring your green hat!",
+        "character": "",
+        "audioUrl": "audio/old-school/249_frank_no_it_s_cool_man_bring_your_green_hat.mp3"
+      },
+      {
+        "text": "Nurse or cheerleader?",
+        "character": "",
+        "audioUrl": "audio/old-school/250_frank_so_what_do_you_guys_like_better_nurse_or_cheerleader_o.mp3"
+      },
+      {
+        "text": "That's how you debate",
+        "character": "",
+        "audioUrl": "audio/old-school/251_frank_that_s_how_you_do_it_that_s_how_you_debate.mp3"
+      },
+      {
+        "text": "I have to run it by Marissa",
+        "character": "",
+        "audioUrl": "audio/old-school/252_frank_yea_i_m_cool_either_way_i_just_have_to_run_it_by_maris.mp3"
+      },
+      {
+        "text": "I'm here for the gangbang",
+        "character": "",
+        "audioUrl": "audio/old-school/261_gang_bang_guy_hello_mitch_yeah_gang_bang_guy_i_m_here_for_th.mp3"
+      },
+      {
+        "text": "Why I have a lazy eye",
+        "character": "",
+        "audioUrl": "audio/old-school/262_garry_oh_that_s_funny_to_you_you_won_t_be_laughing_when_some.mp3"
+      },
+      {
+        "text": "I saw a waitress taking an order",
+        "character": "",
+        "audioUrl": "audio/old-school/435_i_happened_to_look_over_during_the_meal_and_see_a_waitress_t.mp3"
+      },
+      {
+        "text": "Still think I'm cool?",
+        "character": "",
+        "audioUrl": "audio/old-school/441_i_hope_you_ll_still_think_i_m_cool_even_without_all_this.mp3"
+      },
+      {
+        "text": "Forget all the normal rules",
+        "character": "",
+        "audioUrl": "audio/old-school/542_in_other_words_forget_all_the_normal_rules_that_apply_to_bot.mp3"
+      },
+      {
+        "text": "So we're screwed",
+        "character": "",
+        "audioUrl": "audio/old-school/546_industrial_size_cans_will_take_up_to_3_to_4_business_days_so.mp3"
+      },
+      {
+        "text": "A loose affiliation",
+        "character": "",
+        "audioUrl": "audio/old-school/592_jerry_what_sort_of_actual_association_will_you_have_with_the.mp3"
+      },
+      {
+        "text": "We're going streaking!",
+        "character": "",
+        "audioUrl": "audio/old-school/647_marissa_after_seeing_frank_running_naked_along_the_streets_s.mp3"
+      },
+      {
+        "text": "You forgot your own birthday",
+        "character": "",
+        "audioUrl": "audio/old-school/648_marissa_listen_i_m_sorry_i_didn_t_call_you_on_your_birthday.mp3"
+      },
+      {
+        "text": "Took the restrictor plate off",
+        "character": "",
+        "audioUrl": "audio/old-school/649_marissa_that_s_really_loud_frank_yeah_thanks_took_the_restri.mp3"
+      },
+      {
+        "text": "It's guy code",
+        "character": "",
+        "audioUrl": "audio/old-school/650_mark_what_are_you_gonna_do_tell_on_me_you_know_you_can_t_bud.mp3"
+      },
+      {
+        "text": "The answer, ladies, is trust",
+        "character": "",
+        "audioUrl": "audio/old-school/664_mitch_martin_at_this_point_you_may_be_asking_yourself_why_am.mp3"
+      },
+      {
+        "text": "Denver, the sunshine state",
+        "character": "",
+        "audioUrl": "audio/old-school/665_mitch_martin_denver_the_sunshine_state_gorgeous.mp3"
+      },
+      {
+        "text": "True love is hard to find",
+        "character": "",
+        "audioUrl": "audio/old-school/666_mitch_martin_true_love_is_hard_to_find_sometimes_you_think_y.mp3"
+      },
+      {
+        "text": "I just want some sleep",
+        "character": "",
+        "audioUrl": "audio/old-school/673_mitch_all_i_want_to_do_is_get_some_fucking_sleep.mp3"
+      },
+      {
+        "text": "Locked you in the dumpster",
+        "character": "",
+        "audioUrl": "audio/old-school/674_mitch_beanie_you_remember_cheese_beanie_oh_yeah_cheeeeese_di.mp3"
+      },
+      {
+        "text": "Columbus wasn't looking for America",
+        "character": "",
+        "audioUrl": "audio/old-school/675_mitch_i_wasn_t_looking_for_a_girl_like_that_beanie_well_colu.mp3"
+      },
+      {
+        "text": "Just say earmuffs",
+        "character": "",
+        "audioUrl": "audio/old-school/676_mitch_i_ve_had_a_hell_of_a_day_and_even_worse_week_and_all_i.mp3"
+      },
+      {
+        "text": "Is this the first time?",
+        "character": "",
+        "audioUrl": "audio/old-school/677_mitch_please_be_honest_with_me_tell_me_this_is_the_first_tim.mp3"
+      },
+      {
+        "text": "I'm the Dean",
+        "character": "",
+        "audioUrl": "audio/old-school/678_mitch_so_what_are_you_campus_security_dean_pritchard_try_aga.mp3"
+      },
+      {
+        "text": "I'm 30 years old",
+        "character": "",
+        "audioUrl": "audio/old-school/679_mitch_this_is_my_house_i_live_here_beanie_i_m_30_years_old_n.mp3"
+      },
+      {
+        "text": "That's Blue",
+        "character": "",
+        "audioUrl": "audio/old-school/680_mitch_who_s_this_guy_beanie_oh_that_s_blue_an_old_navy_vet_w.mp3"
+      },
+      {
+        "text": "Cheese, is that you?",
+        "character": "",
+        "audioUrl": "audio/old-school/681_mitch_wow_cheese_is_that_you_dean_pritchard_hello_mitch_bern.mp3"
+      },
+      {
+        "text": "Some hot sailor from TGI Friday's",
+        "character": "",
+        "audioUrl": "audio/old-school/767_or_some_hot_sailor_you_met_at_tgi_friday_s_a_couple_months_a.mp3"
+      },
+      {
+        "text": "Teach a blow job class",
+        "character": "",
+        "audioUrl": "audio/old-school/769_our_friend_ashley_had_this_guy_come_over_and_teach_a_blow_jo.mp3"
+      },
+      {
+        "text": "The most powerful tranq gun",
+        "character": "",
+        "audioUrl": "audio/old-school/774_peppers_she_s_a_beauty_ain_t_she_frank_yeah_what_kind_of_gun.mp3"
+      },
+      {
+        "text": "You got a dart in your neck",
+        "character": "",
+        "audioUrl": "audio/old-school/775_peppers_you_should_pull_that_out_frank_wait_pull_what_out_pe.mp3"
+      },
+      {
+        "text": "End up workin' at Red Lobster",
+        "character": "",
+        "audioUrl": "audio/old-school/846_spanish_damn_i_gonna_end_up_workin_at_red_lobster_frat_broth.mp3"
+      },
+      {
+        "text": "Can't have anyone freak out",
+        "character": "",
+        "audioUrl": "audio/old-school/889_that_s_right_we_can_t_have_anyone_freak_out_out_there_okay.mp3"
+      },
+      {
+        "text": "A great shock to me",
+        "character": "",
+        "audioUrl": "audio/old-school/897_the_actions_taken_by_the_student_council_have_come_as_a_grea.mp3"
+      },
+      {
+        "text": "Last I heard, you'd moved",
+        "character": "",
+        "audioUrl": "audio/old-school/908_the_last_time_that_i_had_heard_you_had_moved_to.mp3"
+      },
+      {
+        "text": "A nest in a tree of trust",
+        "character": "",
+        "audioUrl": "audio/old-school/917_therapist_frank_this_is_a_safe_place_a_place_where_we_can_fe.mp3"
+      },
+      {
+        "text": "For the Godfather, it's on the house",
+        "character": "",
+        "audioUrl": "audio/old-school/985_waiter_and_don_t_worry_for_the_godfather_it_s_always_on_the.mp3"
+      },
+      {
+        "text": "Love, it's a motherfucker, huh?",
+        "character": "",
+        "audioUrl": "audio/old-school/986_waiter_love_it_s_a_motherfucker_huh.mp3"
+      },
+      {
+        "text": "Pie and coffee with a living legend",
+        "character": "",
+        "audioUrl": "audio/old-school/987_waiter_you_are_beautiful_but_no_offense_he_he_is_the_king_yo.mp3"
+      },
+      {
+        "text": "This prom committee thing",
+        "character": "",
+        "audioUrl": "audio/old-school/1001_we_gotta_run_cause_we_got_this_prom_committee_thing_so_i_ll.mp3"
+      },
+      {
+        "text": "Streaking through the quad",
+        "character": "",
+        "audioUrl": "audio/old-school/1016_we_re_going_streaking_through_the_quad_and_into_the_gymnasiu.mp3"
+      },
+      {
+        "text": "Every now and then I fall apart",
+        "character": "",
+        "audioUrl": "audio/old-school/1030_wedding_singer_singing_fuckin_every_now_and_then_i_fall_apar.mp3"
+      },
+      {
+        "text": "My mom's gonna kill me",
+        "character": "",
+        "audioUrl": "audio/old-school/1031_weensie_after_learning_he_s_going_to_be_expelled_listen_this.mp3"
+      },
+      {
+        "text": "Feeling a little confused",
+        "character": "",
+        "audioUrl": "audio/old-school/1039_well_i_guess_i_deep_down_i_m_feeling_a_little_confused.mp3"
+      },
+      {
+        "text": "She showed me the knife",
+        "character": "",
+        "audioUrl": "audio/old-school/1088_when_i_left_she_said_weensie_if_you_screw_this_up_i_ll_kill.mp3"
+      },
+      {
+        "text": "Why does the cinderblock have a string?",
+        "character": "",
+        "audioUrl": "audio/old-school/1109_why_does_this_cinderblock_have_a_long_piece_of_string.mp3"
+      },
+      {
+        "text": "I'll fucking kill you. I'm kidding",
+        "character": "",
+        "audioUrl": "audio/old-school/1118_woman_holding_a_grocery_bag_what_s_going_on_frank_you_tell_a.mp3"
+      },
+      {
+        "text": "Intense mental and physical strain",
+        "character": "",
+        "audioUrl": "audio/old-school/1220_you_re_all_going_to_experience_intense_mental_and_physical_s.mp3"
+      },
+      {
+        "text": "See you tomorrow night",
+        "character": "",
+        "audioUrl": "audio/old-school/1330_that_sounds_awesome_see_you_tomorrow_night.mp3"
+      },
+      {
+        "text": "Keeping busy",
+        "character": "",
+        "audioUrl": "audio/old-school/1343_what_have_you_been_doing_i_ve_been_keeping_busy.mp3"
+      },
+      {
+        "text": "Just ring the bell, you pansy",
+        "character": "",
+        "audioUrl": "audio/old-school/1365_two_girls_are_topless_in_the_pool_of_ky_jelly_frank_are_you.mp3"
+      },
+      {
+        "text": "Ah ah ah!",
+        "character": "",
+        "audioUrl": "audio/old-school/1367_ah_ah_ah.mp3"
+      },
+      {
+        "text": "And the moment's gone",
+        "character": "",
+        "audioUrl": "audio/old-school/1408_only_for_a_moment_and_the_moment_s_gone.mp3"
+      },
+      {
+        "text": "Sparkling, clear and lovely",
+        "character": "",
+        "audioUrl": "audio/old-school/1413_sparkling_clear_and_lovely.mp3"
+      },
+      {
+        "text": "Within the sound of silence",
+        "character": "",
+        "audioUrl": "audio/old-school/1417_within_the_sound_of_silence.mp3"
+      }
+    ]
+  },
+  {
+    "id": "happy-gilmore",
+    "name": "Happy Gilmore",
+    "type": "movie",
+    "theme": {
+      "primary": "#2f8f3e",
+      "accent": "#d9b04a",
+      "bg": "#050a06"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "He could draw a crowd",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/002_a_guy_who_can_drive_the_ball_that_far_he_could_really_draw_a.mp3"
+      },
+      {
+        "text": "Why not play football?",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/003_a_guy_your_size_why_not_play_a_real_sport_like_football_my_m.mp3"
+      },
+      {
+        "text": "Why not play a real sport?",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/004_a_guy_your_size_why_not_play_a_real_sport_like_football.mp3"
+      },
+      {
+        "text": "Economically diverse crowd",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/007_a_large_and_economically_diverse_crowd_here_at_the_michelob.mp3"
+      },
+      {
+        "text": "Six inches in front of the hole",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/012_aim_for_a_spot_six_inches_in_front_of_the_hole_line_up_with.mp3"
+      },
+      {
+        "text": "Anyone tapped the keg?",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/034_anyone_tapped_the_keg_yet_i_ll_pump_i_m_happy_gilmore.mp3"
+      },
+      {
+        "text": "An alligator bit my hand off",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/041_back_in_1965_sports_illustrated_said_i_would_be_the_next_arn.mp3"
+      },
+      {
+        "text": "I'll have to explain to the papers",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/055_but_if_you_beat_him_up_i_ll_have_to_explain_to_the_papers.mp3"
+      },
+      {
+        "text": "A lot of that was luck",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/059_but_not_that_great_a_lot_of_that_was_luck.mp3"
+      },
+      {
+        "text": "I eat pieces of shit like you for breakfast",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/067_but_you_re_in_trouble_i_eat_pieces_of_shit_like_you_for_brea.mp3"
+      },
+      {
+        "text": "I got my hand back, see",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/076_chin_up_happy_don_t_feel_bad_about_me_i_got_my_hand_back_see.mp3"
+      },
+      {
+        "text": "Is that Gilmore again?",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/081_coach_number_18_is_that_gilmore_again_how_many_times_has_thi.mp3"
+      },
+      {
+        "text": "Go back to your shanties",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/096_damn_you_people_go_back_to_your_shanties.mp3"
+      },
+      {
+        "text": "This is golf, not a rock concert",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/097_damn_you_people_this_is_golf_not_a_rock_concert.mp3"
+      },
+      {
+        "text": "Doing the bull dance",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/105_doing_the_bull_dance_feeling_the_flow_working_it.mp3"
+      },
+      {
+        "text": "I just want you to be happy",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/139_forget_him_i_just_want_you_to_be_happy_darling.mp3"
+      },
+      {
+        "text": "You'll never get off that beach",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/145_get_a_blanket_and_suntan_lotion_cause_you_ll_never_get_off_t.mp3"
+      },
+      {
+        "text": "I think I killed her",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/151_get_this_off_of_me_mister_i_ll_be_right_down_you_know_that_m.mp3"
+      },
+      {
+        "text": "You have one eye!",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/156_give_me_give_me_the_ball_you_have_one_eye.mp3"
+      },
+      {
+        "text": "Goofy pants and a fat ass",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/165_golf_is_no_different_requires_talent_self_discipline_golf_re.mp3"
+      },
+      {
+        "text": "Anyone else's fingers hurt?",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/175_good_news_arts_and_crafts_time_is_extended_4_hours_my_finger.mp3"
+      },
+      {
+        "text": "Get the hell out of my life!",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/181_good_get_the_hell_out_of_my_life_who_needs_you_beat_it.mp3"
+      },
+      {
+        "text": "I could be anything",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/195_handsome_fellow_huh_he_said_when_i_grew_up_i_could_be_anythi.mp3"
+      },
+      {
+        "text": "Happy did it an hour ago",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/198_happy_gilmore_accomplished_that_feat_no_more_than_an_hour_ag.mp3"
+      },
+      {
+        "text": "Trouble if he can't hit long",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/203_happy_gilmore_is_in_trouble_if_he_can_t_hit_the_long_ball.mp3"
+      },
+      {
+        "text": "I meant on a golf course!",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/206_happy_gilmore_in_a_bar_i_got_into_this_tournament_for_one_re.mp3"
+      },
+      {
+        "text": "Her stuff is now our stuff",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/207_happy_gilmore_but_she_s_an_old_lady_i_mean_look_at_her_she_s.mp3"
+      },
+      {
+        "text": "You only have one shoe on",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/208_happy_gilmore_this_is_a_biggie_time_s_ticking_i_gotta_make_s.mp3"
+      },
+      {
+        "text": "Happy learned how to putt",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/212_happy_learned_how_to_putt_uh_oh.mp3"
+      },
+      {
+        "text": "Volkswagen. Jackass.",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/214_happy_look_out_are_you_okay_volkswagen_jackass.mp3"
+      },
+      {
+        "text": "The gold jacket's yours",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/217_happy_the_gold_jacket_s_yours_shooter_will_choke.mp3"
+      },
+      {
+        "text": "He shoots, he scores",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/241_he_shoots_he_scores_that_was_much_easier_than_putting_i_shou.mp3"
+      },
+      {
+        "text": "He's going on the Tour. Cute.",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/247_he_s_going_to_be_on_the_tour_super_that_s_cute.mp3"
+      },
+      {
+        "text": "I'm Bob Barker",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/256_hello_happy_i_m_bob_barker_what_an_honor_nice_to_meet_you_we.mp3"
+      },
+      {
+        "text": "Gilmore, you suck!",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/267_hey_gilmore_you_suck_you_jackass_shut_the_hell_up.mp3"
+      },
+      {
+        "text": "You forgot your nine iron",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/268_hey_shooter_you_forgot_your_nine_iron.mp3"
+      },
+      {
+        "text": "I'd have to kick my own ass",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/269_hey_thanks_for_dressing_up_if_i_wore_clothes_like_those_i_d.mp3"
+      },
+      {
+        "text": "Sink it for sudden death",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/280_hit_it_around_the_tower_sink_your_putt_and_we_ll_go_to_sudde.mp3"
+      },
+      {
+        "text": "I believe that's Mr. Gilmore's",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/294_i_believe_that_s_mr_gilmore_s.mp3"
+      },
+      {
+        "text": "Bet you can't do it again",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/296_i_bet_20_you_can_t_do_it_again_bring_it_on_you_boys_are_goin.mp3"
+      },
+      {
+        "text": "Make things out of clay",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/303_i_could_make_things_out_of_clay_and_lay_by_the_bay.mp3"
+      },
+      {
+        "text": "To get Grandma's house back",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/304_i_did_this_to_get_grandma_s_house_back_now_i_can_no_regrets.mp3"
+      },
+      {
+        "text": "I know what you're doing",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/339_i_know_what_you_re_doing_right_now.mp3"
+      },
+      {
+        "text": "Hole in one on a par four",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/350_i_saw_that_hole_in_one_on_a_par_four_that_must_be_a_record.mp3"
+      },
+      {
+        "text": "Friends listen to Endless Love",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/356_i_thought_we_were_going_to_be_just_friends_what_friends_list.mp3"
+      },
+      {
+        "text": "I tried to stab someone with my skate",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/359_i_tried_to_stab_someone_with_my_skate_nobody_else_ever_did_t.mp3"
+      },
+      {
+        "text": "Talk about your all-time backfires",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/391_i_ll_make_you_a_bet_do_you_always_carry_a_puck_yeah_now_if_y.mp3"
+      },
+      {
+        "text": "Dedicating this to Chubbs",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/397_i_m_dedicating_my_performance_at_the_tour_championship_to_ch.mp3"
+      },
+      {
+        "text": "I'm stupid, you're smart",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/410_i_m_stupid_you_re_smart_i_was_wrong_you_were_right_you_re_th.mp3"
+      },
+      {
+        "text": "None of this would have happened",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/426_if_not_for_you_none_of_this_would_have_happened.mp3"
+      },
+      {
+        "text": "Happy wins the gold jacket",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/433_incredible_happy_gilmore_wins_the_gold_jacket_i_love_you_i_l.mp3"
+      },
+      {
+        "text": "It ain't over yet, McGavin",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/444_it_ain_t_over_yet_mcgavin_the_way_i_see_it_we_ve_only_just_b.mp3"
+      },
+      {
+        "text": "Couldn't get the ball in the hole",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/454_it_s_about_time_true_i_just_couldn_t_get_the_ball_in_the_hol.mp3"
+      },
+      {
+        "text": "It's all in the hips",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/455_it_s_all_in_the_hips_all_in_the_hips_it_s_all_in_the_hips_ge.mp3"
+      },
+      {
+        "text": "It just slipped",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/462_it_s_just_that_it_s_rainy_and_that_guy_it_just_slipped.mp3"
+      },
+      {
+        "text": "Stay out of my way or you'll pay",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/481_just_stay_out_of_my_way_or_you_ll_pay_listen_to_what_i_say_w.mp3"
+      },
+      {
+        "text": "Working construction",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/488_lately_i_ve_been_working_construction_it_s_not_bad.mp3"
+      },
+      {
+        "text": "This tasty Cold Cut Combo",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/490_let_me_just_enjoy_the_one_thing_that_makes_me_a_bit_happy_th.mp3"
+      },
+      {
+        "text": "There's no goalie to block it",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/518_mr_gilmore_you_re_up_damn_it_time_relax_do_what_we_discussed.mp3"
+      },
+      {
+        "text": "Time to play golf",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/525_must_be_something_in_the_water_well_time_to_play_golf.mp3"
+      },
+      {
+        "text": "She fell off a cliff",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/532_my_girlfriend_s_dead_she_fell_off_a_cliff_and_died_on_impact.mp3"
+      },
+      {
+        "text": "Next up: Gilmore, Happy",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/545_next_up_lafferty_daniel_and_gilmore_happy.mp3"
+      },
+      {
+        "text": "Nice shot! Fifteen feet short.",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/549_nice_shot_fifteen_feet_short_of_the_hole.mp3"
+      },
+      {
+        "text": "More time in the sand than Hasselhoff",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/569_norman_spends_more_time_in_the_sand_than_david_hasselhoff.mp3"
+      },
+      {
+        "text": "I was testing its durability",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/583_oh_i_hear_you_broke_a_rake_and_threw_it_in_the_woods_i_didn.mp3"
+      },
+      {
+        "text": "As long as you admit that",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/603_okay_as_long_as_you_re_willing_to_admit_that_now.mp3"
+      },
+      {
+        "text": "Improvement in his short game",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/614_one_has_to_be_impressed_with_the_vast_improvement_in_his_sho.mp3"
+      },
+      {
+        "text": "I got the gator's head",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/638_remember_the_gator_that_got_your_hand_i_got_his_head.mp3"
+      },
+      {
+        "text": "Wanna go to Sizzler?",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/654_shooter_it_s_great_to_hear_from_you_want_to_go_to_sizzler_an.mp3"
+      },
+      {
+        "text": "A warm glass of shut the hell up",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/665_sir_could_i_trouble_you_for_a_glass_of_warm_milk_it_helps_pu.mp3"
+      },
+      {
+        "text": "Could I trouble you for warm milk?",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/666_sir_could_i_trouble_you_for_a_glass_of_warm_milk_it_helps_pu.mp3"
+      },
+      {
+        "text": "Give up hockey, focus on golf",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/678_so_you_re_a_hockey_player_you_got_to_give_that_up_and_concen.mp3"
+      },
+      {
+        "text": "Somebody's closer",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/683_somebody_s_closer.mp3"
+      },
+      {
+        "text": "Why didn't you go home, ball?",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/684_son_of_a_bitch_ball_why_didn_t_you_go_home_that_s_your_home.mp3"
+      },
+      {
+        "text": "The amazing Golf Ball Whacker Guy",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/689_step_right_up_folks_see_if_you_can_outdrive_the_amazing_golf.mp3"
+      },
+      {
+        "text": "Stop fraternizing with the help",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/691_stop_fraternizing_with_the_help_gilmore_just_hit_your_ball_i.mp3"
+      },
+      {
+        "text": "Your finger paintings SUCK",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/704_terry_over_the_apartment_intercom_all_you_ever_talk_about_is.mp3"
+      },
+      {
+        "text": "Don't push me, Bob",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/718_that_guy_is_driving_me_crazy_what_s_driving_me_crazy_is_you.mp3"
+      },
+      {
+        "text": "Cough it up, you dirty bastard",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/726_that_son_of_a_bitch_give_me_my_ball_give_it_here_cough_it_up.mp3"
+      },
+      {
+        "text": "He stole my jacket!",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/741_that_s_my_jacket_it_s_mine_he_stole_my_jacket.mp3"
+      },
+      {
+        "text": "I'll be waiting in the parking lot",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/747_that_s_two_so_far_shooter_you_can_count_good_for_you_and_you.mp3"
+      },
+      {
+        "text": "Are you too good for your home?!",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/752_that_s_your_home_are_you_too_good_for_your_home_answer_me.mp3"
+      },
+      {
+        "text": "Must be something in the water",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/762_the_real_favorite_is_portland_every_time_i_visit_it_s_harder.mp3"
+      },
+      {
+        "text": "You head-butted Bob Barker",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/774_there_you_are_happy_gilmore_come_on_down_thank_you_shooter_s.mp3"
+      },
+      {
+        "text": "HAPPY written on his ass",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/802_today_one_of_his_fans_mooned_me_he_had_happy_written_on_his.mp3"
+      },
+      {
+        "text": "I beg to differ",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/807_trying_to_reach_the_green_from_here_that_s_not_possible_sir.mp3"
+      },
+      {
+        "text": "Maybe a new Happy Gilmore",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/815_wait_he_s_restrained_himself_maybe_this_is_a_new_happy_gilmo.mp3"
+      },
+      {
+        "text": "Let's make a little noise",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/827_well_you_hardly_even_notice_it_let_s_make_a_little_noise_her.mp3"
+      },
+      {
+        "text": "Who the hell is Happy Gilmore?",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/837_what_a_shot_by_happy_gilmore_who_the_hell_is_happy_gilmore.mp3"
+      },
+      {
+        "text": "You're acting like a damn fool",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/840_what_are_you_doing_happy_riding_a_bull_you_re_acting_like_a.mp3"
+      },
+      {
+        "text": "364 days till hockey tryouts",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/853_what_the_hell_are_you_doing_just_364_more_days_till_the_next.mp3"
+      },
+      {
+        "text": "Burn the house down, piss on the ashes",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/855_what_the_hell_is_wrong_with_you_i_enjoy_real_estate_speculat.mp3"
+      },
+      {
+        "text": "You're not getting the ball in the hole",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/858_what_s_driving_me_crazy_is_you_not_getting_the_ball_in_the_h.mp3"
+      },
+      {
+        "text": "Mr. Gilmore, I'm your caddy",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/865_where_you_taking_those_clubs_punk_mr_gilmore_i_m_your_caddy.mp3"
+      },
+      {
+        "text": "Must be Burt Reynolds or something",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/872_whoa_must_be_burt_reynolds_or_something.mp3"
+      },
+      {
+        "text": "Go to your happy place",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/884_yeah_a_lot_of_pressure_rise_above_it_harness_in_the_good_ene.mp3"
+      },
+      {
+        "text": "You eat pieces of shit for breakfast?",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/909_you_eat_pieces_of_shit_for_breakfast.mp3"
+      },
+      {
+        "text": "What do I know, I'm just a doctor",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/918_you_have_no_serious_injuries_just_keep_off_your_feet_for_a_f.mp3"
+      },
+      {
+        "text": "You've played golf all your life",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/928_you_know_what_s_pathetic_you_ve_been_playing_golf_all_your_l.mp3"
+      },
+      {
+        "text": "I want the whole thing",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/932_you_like_that_old_man_you_want_a_piece_of_me_i_don_t_want_a.mp3"
+      },
+      {
+        "text": "Grizzly Adams did have a beard",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/949_you_want_to_beat_him_beat_him_on_the_course_yeah_i_m_gonna_b.mp3"
+      },
+      {
+        "text": "You will not make this putt",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/952_you_will_not_make_this_putt_you_jackass.mp3"
+      },
+      {
+        "text": "You're gonna die, clown",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/959_you_re_gonna_die_clown.mp3"
+      },
+      {
+        "text": "More work for me",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/1046_why_the_new_guy_beat_up_shooter_mcgavin_more_work_for_me.mp3"
+      },
+      {
+        "text": "More time in the sand than Hasselhoff",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/1055_shooter_mcgavin_is_holding_a_speech_for_other_golf_players.mp3"
+      },
+      {
+        "text": "It's The Price Is Right, Happy",
+        "character": "",
+        "audioUrl": "audio/happy-gilmore/1056_to_bob_barker_after_donald_insults_happy_happy_gilmore_i_d.mp3"
+      }
+    ]
+  },
+  {
+    "id": "billy-madison",
+    "name": "Billy Madison",
+    "type": "movie",
+    "theme": {
+      "primary": "#e8b21e",
+      "accent": "#2f6fb0",
+      "bg": "#0a0805"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "A simple \"wrong\" would've done just fine",
+        "character": "",
+        "audioUrl": "audio/billy-madison/001_a_simple_wrong_would_ve_done_just_fine.mp3"
+      },
+      {
+        "text": "Any more brain busters?",
+        "character": "",
+        "audioUrl": "audio/billy-madison/002_any_more_brain_busters.mp3"
+      },
+      {
+        "text": "Back to school",
+        "character": "",
+        "audioUrl": "audio/billy-madison/003_back_to_school.mp3"
+      },
+      {
+        "text": "Bagged lunches",
+        "character": "",
+        "audioUrl": "audio/billy-madison/004_bagged_lunches.mp3"
+      },
+      {
+        "text": "Billy Madison",
+        "character": "",
+        "audioUrl": "audio/billy-madison/005_billy_madison.mp3"
+      },
+      {
+        "text": "Business ethics",
+        "character": "",
+        "audioUrl": "audio/billy-madison/006_billy_madison_business_ethics.mp3"
+      },
+      {
+        "text": "Goo",
+        "character": "",
+        "audioUrl": "audio/billy-madison/007_billy_madison_goo.mp3"
+      },
+      {
+        "text": "PT",
+        "character": "",
+        "audioUrl": "audio/billy-madison/008_billy_madison_pt.mp3"
+      },
+      {
+        "text": "What you just said",
+        "character": "",
+        "audioUrl": "audio/billy-madison/009_billy_madison_what_you_just_said.mp3"
+      },
+      {
+        "text": "Billy peed his pants",
+        "character": "",
+        "audioUrl": "audio/billy-madison/010_billy_peed_his_pants.mp3"
+      },
+      {
+        "text": "Boiling point",
+        "character": "",
+        "audioUrl": "audio/billy-madison/011_boiling_point.mp3"
+      },
+      {
+        "text": "Boys night out",
+        "character": "",
+        "audioUrl": "audio/billy-madison/012_boys_night_out.mp3"
+      },
+      {
+        "text": "Business ethics",
+        "character": "",
+        "audioUrl": "audio/billy-madison/013_business_ethics.mp3"
+      },
+      {
+        "text": "Can we start the story now?",
+        "character": "",
+        "audioUrl": "audio/billy-madison/014_can_we_start_the_story_now.mp3"
+      },
+      {
+        "text": "Cheering",
+        "character": "",
+        "audioUrl": "audio/billy-madison/015_cheering.mp3"
+      },
+      {
+        "text": "Cheese",
+        "character": "",
+        "audioUrl": "audio/billy-madison/016_cheese.mp3"
+      },
+      {
+        "text": "Cherish it",
+        "character": "",
+        "audioUrl": "audio/billy-madison/017_cherish_it.mp3"
+      },
+      {
+        "text": "More like bore-o-phyll",
+        "character": "",
+        "audioUrl": "audio/billy-madison/018_chlorophyll_more_like_bore_o_phyll.mp3"
+      },
+      {
+        "text": "Chris Farley and the penguin",
+        "character": "",
+        "audioUrl": "audio/billy-madison/019_chris_farley_and_the_penguin.mp3"
+      },
+      {
+        "text": "Cool",
+        "character": "",
+        "audioUrl": "audio/billy-madison/020_cool.mp3"
+      },
+      {
+        "text": "Correct",
+        "character": "",
+        "audioUrl": "audio/billy-madison/021_correct.mp3"
+      },
+      {
+        "text": "Couch",
+        "character": "",
+        "audioUrl": "audio/billy-madison/022_couch.mp3"
+      },
+      {
+        "text": "Dance",
+        "character": "",
+        "audioUrl": "audio/billy-madison/023_dance.mp3"
+      },
+      {
+        "text": "Did you fall asleep or did you pass out?",
+        "character": "",
+        "audioUrl": "audio/billy-madison/024_did_you_fall_asleep_or_did_you_pass_out.mp3"
+      },
+      {
+        "text": "Do you know where the bathroom is?",
+        "character": "",
+        "audioUrl": "audio/billy-madison/025_do_you_know_where_the_bathroom_is.mp3"
+      },
+      {
+        "text": "Stay here. Cherish it",
+        "character": "",
+        "audioUrl": "audio/billy-madison/026_don_t_say_that_stay_here_cherish_it.mp3"
+      },
+      {
+        "text": "Don't screw it up",
+        "character": "",
+        "audioUrl": "audio/billy-madison/027_don_t_screw_it_up.mp3"
+      },
+      {
+        "text": "Don't tell me my business, devil woman",
+        "character": "",
+        "audioUrl": "audio/billy-madison/028_don_t_tell_me_my_business_devil_woman.mp3"
+      },
+      {
+        "text": "Empty keg celebration",
+        "character": "",
+        "audioUrl": "audio/billy-madison/029_empty_keg_celebration.mp3"
+      },
+      {
+        "text": "Eric is pregnant",
+        "character": "",
+        "audioUrl": "audio/billy-madison/030_eric_is_pregnant.mp3"
+      },
+      {
+        "text": "Eric!",
+        "character": "",
+        "audioUrl": "audio/billy-madison/031_eric.mp3"
+      },
+      {
+        "text": "Everyone is now dumber",
+        "character": "",
+        "audioUrl": "audio/billy-madison/032_everyone_is_now_dumber_because_of_you.mp3"
+      },
+      {
+        "text": "Fart noise",
+        "character": "",
+        "audioUrl": "audio/billy-madison/033_fart_noise.mp3"
+      },
+      {
+        "text": "Frank",
+        "character": "",
+        "audioUrl": "audio/billy-madison/034_frank.mp3"
+      },
+      {
+        "text": "Goo",
+        "character": "",
+        "audioUrl": "audio/billy-madison/035_goo.mp3"
+      },
+      {
+        "text": "Goo",
+        "character": "",
+        "audioUrl": "audio/billy-madison/036_goo.mp3"
+      },
+      {
+        "text": "Good, great, grand, wonderful",
+        "character": "",
+        "audioUrl": "audio/billy-madison/037_good_great_grand_wonderful.mp3"
+      },
+      {
+        "text": "Grossest thing I've ever heard",
+        "character": "",
+        "audioUrl": "audio/billy-madison/038_grossest_thing_i_ve_ever_heard.mp3"
+      },
+      {
+        "text": "Grossest thing in my life",
+        "character": "",
+        "audioUrl": "audio/billy-madison/039_grossest_thing_in_my_life.mp3"
+      },
+      {
+        "text": "Ha ha ha, shut up",
+        "character": "",
+        "audioUrl": "audio/billy-madison/040_ha_ha_ha_shut_up.mp3"
+      },
+      {
+        "text": "OMG that is funny",
+        "character": "",
+        "audioUrl": "audio/billy-madison/041_haha_omg_that_is_funny.mp3"
+      },
+      {
+        "text": "Have some more sloppy joes",
+        "character": "",
+        "audioUrl": "audio/billy-madison/042_have_some_more_sloppy_joes.mp3"
+      },
+      {
+        "text": "He called the shit poop",
+        "character": "",
+        "audioUrl": "audio/billy-madison/043_he_called_the_shit_poop.mp3"
+      },
+      {
+        "text": "He's good",
+        "character": "",
+        "audioUrl": "audio/billy-madison/044_he_s_good.mp3"
+      },
+      {
+        "text": "Here's a nice piece of shit",
+        "character": "",
+        "audioUrl": "audio/billy-madison/045_here_s_a_nice_piece_of_shit.mp3"
+      },
+      {
+        "text": "Hey, Carl",
+        "character": "",
+        "audioUrl": "audio/billy-madison/046_hey_carl.mp3"
+      },
+      {
+        "text": "Horny Valentine",
+        "character": "",
+        "audioUrl": "audio/billy-madison/047_horny_valentine.mp3"
+      },
+      {
+        "text": "How 'bout you, sideburns?",
+        "character": "",
+        "audioUrl": "audio/billy-madison/048_how_bout_you_sideburns.mp3"
+      },
+      {
+        "text": "How's high school, Billy?",
+        "character": "",
+        "audioUrl": "audio/billy-madison/049_how_s_high_school_billy.mp3"
+      },
+      {
+        "text": "I can and I will",
+        "character": "",
+        "audioUrl": "audio/billy-madison/050_i_can_and_i_will.mp3"
+      },
+      {
+        "text": "I heard he's retarded or something",
+        "character": "",
+        "audioUrl": "audio/billy-madison/051_i_heard_he_s_retarded_or_something.mp3"
+      },
+      {
+        "text": "I know from experience dude",
+        "character": "",
+        "audioUrl": "audio/billy-madison/052_i_know_from_experience_dude.mp3"
+      },
+      {
+        "text": "I can't make out the words, I'm deaf",
+        "character": "",
+        "audioUrl": "audio/billy-madison/053_i_see_your_lips_moving_but_i_can_t_make_out_the_words_i_m_de.mp3"
+      },
+      {
+        "text": "I thank you",
+        "character": "",
+        "audioUrl": "audio/billy-madison/054_i_thank_you.mp3"
+      },
+      {
+        "text": "I thought I was your snack pack",
+        "character": "",
+        "audioUrl": "audio/billy-madison/055_i_thought_i_was_your_snack_pack.mp3"
+      },
+      {
+        "text": "I'd rather have a beer",
+        "character": "",
+        "audioUrl": "audio/billy-madison/056_i_d_rather_have_a_beer.mp3"
+      },
+      {
+        "text": "I'll turn this damn bus around",
+        "character": "",
+        "audioUrl": "audio/billy-madison/057_i_ll_turn_this_damn_bus_around.mp3"
+      },
+      {
+        "text": "I'm trying to score points with the teacher",
+        "character": "",
+        "audioUrl": "audio/billy-madison/058_i_m_trying_to_score_points_with_the_teacher.mp3"
+      },
+      {
+        "text": "If peeing your pants is cool",
+        "character": "",
+        "audioUrl": "audio/billy-madison/059_if_peeing_your_pants_is_cool.mp3"
+      },
+      {
+        "text": "It could be our milk",
+        "character": "",
+        "audioUrl": "audio/billy-madison/060_it_could_be_our_milk.mp3"
+      },
+      {
+        "text": "It's Poop Again",
+        "character": "",
+        "audioUrl": "audio/billy-madison/061_it_s_poop_again.mp3"
+      },
+      {
+        "text": "It's too damn hot for a penguin",
+        "character": "",
+        "audioUrl": "audio/billy-madison/062_it_s_too_damn_hot_for_a_penguin.mp3"
+      },
+      {
+        "text": "It's too damn hot for a penguin to be walking around here",
+        "character": "",
+        "audioUrl": "audio/billy-madison/063_it_s_too_damn_hot_for_a_penguin_to_be_walking_around_here.mp3"
+      },
+      {
+        "text": "Jackpot!",
+        "character": "",
+        "audioUrl": "audio/billy-madison/064_jackpot.mp3"
+      },
+      {
+        "text": "Kid can't even read",
+        "character": "",
+        "audioUrl": "audio/billy-madison/065_kid_can_t_even_read.mp3"
+      },
+      {
+        "text": "Knibb High Football Rules",
+        "character": "",
+        "audioUrl": "audio/billy-madison/066_knibb_high_football_rules.mp3"
+      },
+      {
+        "text": "Lady you're scaring us",
+        "character": "",
+        "audioUrl": "audio/billy-madison/067_lady_you_re_scaring_us.mp3"
+      },
+      {
+        "text": "Let's go!",
+        "character": "",
+        "audioUrl": "audio/billy-madison/068_let_s_go.mp3"
+      },
+      {
+        "text": "Lipstick",
+        "character": "",
+        "audioUrl": "audio/billy-madison/069_lipstick.mp3"
+      },
+      {
+        "text": "Little bit stuffy in here, huh?",
+        "character": "",
+        "audioUrl": "audio/billy-madison/070_little_bit_stuffy_in_here_huh.mp3"
+      },
+      {
+        "text": "May God have mercy on your soul",
+        "character": "",
+        "audioUrl": "audio/billy-madison/071_may_god_have_mercy_on_your_soul.mp3"
+      },
+      {
+        "text": "Maybe we could have some coffee?",
+        "character": "",
+        "audioUrl": "audio/billy-madison/072_maybe_we_could_have_some_coffee.mp3"
+      },
+      {
+        "text": "Miss Lippy Dancing",
+        "character": "",
+        "audioUrl": "audio/billy-madison/073_miss_lippy_dancing.mp3"
+      },
+      {
+        "text": "Mortified",
+        "character": "",
+        "audioUrl": "audio/billy-madison/074_mortified.mp3"
+      },
+      {
+        "text": "Move it or lose it",
+        "character": "",
+        "audioUrl": "audio/billy-madison/075_move_it_or_lose_it.mp3"
+      },
+      {
+        "text": "My wife, the Tramp",
+        "character": "",
+        "audioUrl": "audio/billy-madison/076_my_wife_the_tramp.mp3"
+      },
+      {
+        "text": "No I will not make out with you",
+        "character": "",
+        "audioUrl": "audio/billy-madison/077_no_i_will_not_make_out_w_you_billy_madison.mp3"
+      },
+      {
+        "text": "No I will not make out with you",
+        "character": "",
+        "audioUrl": "audio/billy-madison/078_no_i_will_not_make_out_with_you.mp3"
+      },
+      {
+        "text": "No I will not make out with you",
+        "character": "",
+        "audioUrl": "audio/billy-madison/079_no_i_will_not_make_out_with_you.mp3"
+      },
+      {
+        "text": "No milk will ever be our milk",
+        "character": "",
+        "audioUrl": "audio/billy-madison/080_no_milk_will_ever_be_our_milk.mp3"
+      },
+      {
+        "text": "No yelling on the bus",
+        "character": "",
+        "audioUrl": "audio/billy-madison/081_no_yelling_on_the_bus.mp3"
+      },
+      {
+        "text": "No!",
+        "character": "",
+        "audioUrl": "audio/billy-madison/082_no.mp3"
+      },
+      {
+        "text": "You can't do that to me",
+        "character": "",
+        "audioUrl": "audio/billy-madison/083_no_you_can_t_do_that_to_me.mp3"
+      },
+      {
+        "text": "Nothing even close to a rational thought",
+        "character": "",
+        "audioUrl": "audio/billy-madison/084_nothing_even_close_to_a_rational_thought.mp3"
+      },
+      {
+        "text": "Now you're all in big trouble",
+        "character": "",
+        "audioUrl": "audio/billy-madison/085_now_you_re_all_in_big_trouble.mp3"
+      },
+      {
+        "text": "O'Doyle rules!",
+        "character": "",
+        "audioUrl": "audio/billy-madison/086_o_doyle_rules.mp3"
+      },
+      {
+        "text": "O'Doyle rules!",
+        "character": "",
+        "audioUrl": "audio/billy-madison/087_odoyle_rules.mp3"
+      },
+      {
+        "text": "Oh",
+        "character": "",
+        "audioUrl": "audio/billy-madison/088_oh.mp3"
+      },
+      {
+        "text": "I knew ya had it in ya",
+        "character": "",
+        "audioUrl": "audio/billy-madison/089_oh_billy_i_knew_ya_had_it_in_ya.mp3"
+      },
+      {
+        "text": "One piece of ace",
+        "character": "",
+        "audioUrl": "audio/billy-madison/090_one_piece_of_ace.mp3"
+      },
+      {
+        "text": "Peace, I'm outta here",
+        "character": "",
+        "audioUrl": "audio/billy-madison/091_peace_i_m_outta_here.mp3"
+      },
+      {
+        "text": "Are you going to the mall later?",
+        "character": "",
+        "audioUrl": "audio/billy-madison/092_r_are_you_going_to_the_mall_later.mp3"
+      },
+      {
+        "text": "R",
+        "character": "",
+        "audioUrl": "audio/billy-madison/093_r.mp3"
+      },
+      {
+        "text": "Relax dude",
+        "character": "",
+        "audioUrl": "audio/billy-madison/094_relax_dude.mp3"
+      },
+      {
+        "text": "Rock on, yes",
+        "character": "",
+        "audioUrl": "audio/billy-madison/095_rock_on_yes.mp3"
+      },
+      {
+        "text": "Shakespeare performance",
+        "character": "",
+        "audioUrl": "audio/billy-madison/096_shakespeare_performance.mp3"
+      },
+      {
+        "text": "Shampoo is better",
+        "character": "",
+        "audioUrl": "audio/billy-madison/097_shampoo_is_better.mp3"
+      },
+      {
+        "text": "Shampoo is better",
+        "character": "",
+        "audioUrl": "audio/billy-madison/098_shampoo_is_better.mp3"
+      },
+      {
+        "text": "Slow down (speaking French)",
+        "character": "",
+        "audioUrl": "audio/billy-madison/099_slow_down_speaking_french.mp3"
+      },
+      {
+        "text": "Smartest man alive",
+        "character": "",
+        "audioUrl": "audio/billy-madison/100_smartest_man_alive.mp3"
+      },
+      {
+        "text": "Snacking",
+        "character": "",
+        "audioUrl": "audio/billy-madison/101_snacking.mp3"
+      },
+      {
+        "text": "So hot, want to touch the heinie",
+        "character": "",
+        "audioUrl": "audio/billy-madison/102_so_hot_want_to_touch_the_heinie.mp3"
+      },
+      {
+        "text": "So hot, want to touch the hiney",
+        "character": "",
+        "audioUrl": "audio/billy-madison/103_so_hot_want_to_touch_the_hiney.mp3"
+      },
+      {
+        "text": "So sorry to interrupt",
+        "character": "",
+        "audioUrl": "audio/billy-madison/104_so_sorry_to_interrupt.mp3"
+      },
+      {
+        "text": "Some people have no willpower, no brains, no vision",
+        "character": "",
+        "audioUrl": "audio/billy-madison/105_some_people_have_no_willpower_no_brains_no_vision.mp3"
+      },
+      {
+        "text": "Sorry, Daddy",
+        "character": "",
+        "audioUrl": "audio/billy-madison/106_sorry_daddy.mp3"
+      },
+      {
+        "text": "Speak for yourself, moron",
+        "character": "",
+        "audioUrl": "audio/billy-madison/107_speak_for_yourself_moron.mp3"
+      },
+      {
+        "text": "Stop looking at me, swan",
+        "character": "",
+        "audioUrl": "audio/billy-madison/108_stop_looking_at_me_swan.mp3"
+      },
+      {
+        "text": "T-t-today, junior",
+        "character": "",
+        "audioUrl": "audio/billy-madison/109_t_t_today_junior.mp3"
+      },
+      {
+        "text": "Tearing my ear off",
+        "character": "",
+        "audioUrl": "audio/billy-madison/110_tearing_my_ear_off.mp3"
+      },
+      {
+        "text": "Thanks",
+        "character": "",
+        "audioUrl": "audio/billy-madison/111_thanks.mp3"
+      },
+      {
+        "text": "That damn sasquatch",
+        "character": "",
+        "audioUrl": "audio/billy-madison/112_that_damn_sasquatch.mp3"
+      },
+      {
+        "text": "That is correct",
+        "character": "",
+        "audioUrl": "audio/billy-madison/113_that_is_correct.mp3"
+      },
+      {
+        "text": "That wasn't very nice",
+        "character": "",
+        "audioUrl": "audio/billy-madison/114_that_wasn_t_very_nice.mp3"
+      },
+      {
+        "text": "Just give her the trophy",
+        "character": "",
+        "audioUrl": "audio/billy-madison/115_that_s_a_little_easy_why_don_t_you_just_give_her_the_trophy.mp3"
+      },
+      {
+        "text": "That's nice (sprinkler)",
+        "character": "",
+        "audioUrl": "audio/billy-madison/116_that_s_nice_sprinkler.mp3"
+      },
+      {
+        "text": "That's quacktastic",
+        "character": "",
+        "audioUrl": "audio/billy-madison/117_that_s_quacktastic.mp3"
+      },
+      {
+        "text": "The offer is on the table",
+        "character": "",
+        "audioUrl": "audio/billy-madison/118_the_offer_is_on_the_table.mp3"
+      },
+      {
+        "text": "That's assault, brotha",
+        "character": "",
+        "audioUrl": "audio/billy-madison/119_touch_her_boobs_that_s_assault_brotha.mp3"
+      },
+      {
+        "text": "Triscuit crackers",
+        "character": "",
+        "audioUrl": "audio/billy-madison/120_triscuit_crackers.mp3"
+      },
+      {
+        "text": "Weasel laugh",
+        "character": "",
+        "audioUrl": "audio/billy-madison/121_weasel_laugh.mp3"
+      },
+      {
+        "text": "Weasel laugh",
+        "character": "",
+        "audioUrl": "audio/billy-madison/122_weasel_laugh_billy_madison.mp3"
+      },
+      {
+        "text": "What a weirdo",
+        "character": "",
+        "audioUrl": "audio/billy-madison/123_what_a_weirdo.mp3"
+      },
+      {
+        "text": "What is she talkin' about?",
+        "character": "",
+        "audioUrl": "audio/billy-madison/124_what_is_she_talkin_about.mp3"
+      },
+      {
+        "text": "Most idiotic thing I've ever heard",
+        "character": "",
+        "audioUrl": "audio/billy-madison/125_what_you_just_said_is_one_of_the_most_idiotic_things_i_ve_he.mp3"
+      },
+      {
+        "text": "What's today? October?",
+        "character": "",
+        "audioUrl": "audio/billy-madison/126_what_s_today_october.mp3"
+      },
+      {
+        "text": "What's up her butt?",
+        "character": "",
+        "audioUrl": "audio/billy-madison/127_what_s_up_her_butt.mp3"
+      },
+      {
+        "text": "Who would steal 30 bagged lunches?",
+        "character": "",
+        "audioUrl": "audio/billy-madison/128_who_would_steal_30_bagged_lunches.mp3"
+      },
+      {
+        "text": "Woo wee",
+        "character": "",
+        "audioUrl": "audio/billy-madison/129_woo_wee.mp3"
+      },
+      {
+        "text": "Yes, I will go back to school",
+        "character": "",
+        "audioUrl": "audio/billy-madison/130_yes_i_will_go_back_to_school.mp3"
+      },
+      {
+        "text": "You blew it",
+        "character": "",
+        "audioUrl": "audio/billy-madison/131_you_blew_it.mp3"
+      },
+      {
+        "text": "You have a pet. You have a responsibility",
+        "character": "",
+        "audioUrl": "audio/billy-madison/132_you_have_a_pet_you_have_a_responsibility.mp3"
+      },
+      {
+        "text": "3rd grade",
+        "character": "",
+        "audioUrl": "audio/billy-madison/133_3rd_grade.mp3"
+      },
+      {
+        "text": "69!",
+        "character": "",
+        "audioUrl": "audio/billy-madison/134_69.mp3"
+      }
+    ]
+  },
+  {
+    "id": "dumb-and-dumber",
+    "name": "Dumb and Dumber",
+    "type": "movie",
+    "theme": {
+      "primary": "#e07b1f",
+      "accent": "#3f8fb0",
+      "bg": "#080a0b"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "A little place",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/001_a_little_place.mp3"
+      },
+      {
+        "text": "Most annoying sound",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/002_annoying_sound.mp3"
+      },
+      {
+        "text": "Bare essentials",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/003_bare_essentials.mp3"
+      },
+      {
+        "text": "Toilet explosion",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/004_bathroom_scene.mp3"
+      },
+      {
+        "text": "Be strong",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/005_be_strong.mp3"
+      },
+      {
+        "text": "Big gulps, huh?",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/006_big_gulps_huh.mp3"
+      },
+      {
+        "text": "Big gulps, huh?",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/007_big_gulps_huh.mp3"
+      },
+      {
+        "text": "Calm down",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/008_calm_down.mp3"
+      },
+      {
+        "text": "Check, please!",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/009_check_please.mp3"
+      },
+      {
+        "text": "Crossed my mind",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/010_crossed_my_mind.mp3"
+      },
+      {
+        "text": "Crying in money",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/011_crying_in_money.mp3"
+      },
+      {
+        "text": "Did you pay the gas bill?",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/012_did_you_pay_the_gas_bill.mp3"
+      },
+      {
+        "text": "Did you see what he did?!",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/013_did_you_see_what_he_did.mp3"
+      },
+      {
+        "text": "Don't you go dying on me!",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/014_don_t_you_go_dying_on_me.mp3"
+      },
+      {
+        "text": "Don't you go dying on me",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/015_dont_you_go_dying_on_me.mp3"
+      },
+      {
+        "text": "Dumb and dumber",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/016_dumb_and_dumber.mp3"
+      },
+      {
+        "text": "Toilet doesn't flush",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/017_dumb_and_dumber_toilet.mp3"
+      },
+      {
+        "text": "Total redemption",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/018_dumb_and_dumber_total_redemption.mp3"
+      },
+      {
+        "text": "Pathetic loser",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/019_dumb_dumber_pathetic.mp3"
+      },
+      {
+        "text": "Dusty",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/020_dusty.mp3"
+      },
+      {
+        "text": "For fast, effective relief",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/021_for_fast_effective_relief.mp3"
+      },
+      {
+        "text": "Just give me the damn number",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/022_for_god_sakes_just_give_me_the_damn_number.mp3"
+      },
+      {
+        "text": "Freezing on the bike",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/023_freezing_on_bike.mp3"
+      },
+      {
+        "text": "Freezing on the motorbike",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/024_freezing_on_motorbike.mp3"
+      },
+      {
+        "text": "Freezing on the motorcycle",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/025_freezing_on_motorcycle.mp3"
+      },
+      {
+        "text": "Frozen boogers",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/026_frozen_boogers.mp3"
+      },
+      {
+        "text": "G'day mate!",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/027_g_day_mate.mp3"
+      },
+      {
+        "text": "Get off the phone",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/028_get_off_the_phone.mp3"
+      },
+      {
+        "text": "Get the hell out of here",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/029_get_the_hell_out_of_here.mp3"
+      },
+      {
+        "text": "Goodbye my love",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/030_goodbye_my_love.mp3"
+      },
+      {
+        "text": "He must work out",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/031_he_must_work_out.mp3"
+      },
+      {
+        "text": "He's a little slow",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/032_he_s_a_little_slow.mp3"
+      },
+      {
+        "text": "High five",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/033_high_five.mp3"
+      },
+      {
+        "text": "His head fell off",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/034_his_head_fell_off.mp3"
+      },
+      {
+        "text": "Give it to me straight",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/035_hit_me_with_it_just_give_it_to_me_straight.mp3"
+      },
+      {
+        "text": "How about a hug?",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/036_how_about_a_hug.mp3"
+      },
+      {
+        "text": "How much you wanna bet?",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/037_how_much_you_wanna_bet.mp3"
+      },
+      {
+        "text": "Hug",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/038_hug.mp3"
+      },
+      {
+        "text": "I am going to kill you",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/039_i_am_going_to_kill_you.mp3"
+      },
+      {
+        "text": "I can't feel my fingers",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/040_i_can_t_feel_my_fingers_anymore.mp3"
+      },
+      {
+        "text": "I don't bet",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/041_i_don_t_bet.mp3"
+      },
+      {
+        "text": "I hate goodbyes",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/042_i_hate_goodbyes.mp3"
+      },
+      {
+        "text": "It started with an S, though",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/043_i_knew_it_started_with_an_s_though.mp3"
+      },
+      {
+        "text": "I like it a lot",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/044_i_like_it_a_lot.mp3"
+      },
+      {
+        "text": "I like you a lot",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/045_i_like_you_a_lot.mp3"
+      },
+      {
+        "text": "We might have a hustler here",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/046_i_think_we_might_have_a_hustler_here.mp3"
+      },
+      {
+        "text": "I took care of it",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/047_i_took_care_of_it.mp3"
+      },
+      {
+        "text": "I was way off",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/048_i_was_way_off.mp3"
+      },
+      {
+        "text": "I'd do anything to bone her",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/049_i_d_do_anything_to_bone_her.mp3"
+      },
+      {
+        "text": "Just when I think you can't do anything dumber",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/050_just_when_i_think_you_can_t_do_anything_dumber.mp3"
+      },
+      {
+        "text": "Just when I think you couldn't be any dumber",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/051_just_when_i_think_you_couldn_t_be_any_dumber.mp3"
+      },
+      {
+        "text": "Kiss my ass",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/052_kiss_my_ass.mp3"
+      },
+      {
+        "text": "Landed on the moon",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/053_landed_on_the_moon.mp3"
+      },
+      {
+        "text": "Laxative",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/054_laxative.mp3"
+      },
+      {
+        "text": "Lloyd gags",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/055_lloyd_gags.mp3"
+      },
+      {
+        "text": "Look at the butt on that",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/056_look_at_the_butt_on_that.mp3"
+      },
+      {
+        "text": "Lloyd's revenge",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/057_loyd_s_revenge.mp3"
+      },
+      {
+        "text": "You are one pathetic loser",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/058_man_you_are_one_pathetic_loser.mp3"
+      },
+      {
+        "text": "Medical school pickup line",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/059_medical_school_pickup_line.mp3"
+      },
+      {
+        "text": "Most annoying sound",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/060_most_annoying_sound.mp3"
+      },
+      {
+        "text": "Most annoying sound in the world",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/061_most_annoying_sound_in_the_world.mp3"
+      },
+      {
+        "text": "Motorcycle ride",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/062_motorcycle_ride.mp3"
+      },
+      {
+        "text": "Mr. Perfect",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/063_mr_perfect.mp3"
+      },
+      {
+        "text": "Nice set of hooters",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/064_nice_set_of_hooters.mp3"
+      },
+      {
+        "text": "No fart games in the car",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/065_no_fart_games_while_in_car.mp3"
+      },
+      {
+        "text": "No food, no jobs",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/066_no_food_no_jobs.mp3"
+      },
+      {
+        "text": "No way!",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/067_no_way.mp3"
+      },
+      {
+        "text": "Oh look, frost",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/068_oh_look_frost.mp3"
+      },
+      {
+        "text": "Okay, kill him",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/069_ok_kill_him.mp3"
+      },
+      {
+        "text": "Pathetic loser",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/070_pathetic_loser.mp3"
+      },
+      {
+        "text": "Pills are good",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/071_pills_are_good.mp3"
+      },
+      {
+        "text": "Pretty bird",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/072_pretty_bird.mp3"
+      },
+      {
+        "text": "Pull over",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/073_pull_over.mp3"
+      },
+      {
+        "text": "Pumpkin pie haircut",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/074_pumpkin_pie_haircut.mp3"
+      },
+      {
+        "text": "Put out the vibe",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/075_put_out_the_vibe.mp3"
+      },
+      {
+        "text": "Reading the newspaper",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/076_reading_the_newspaper.mp3"
+      },
+      {
+        "text": "Redeem yourself",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/077_redeem_yourself.mp3"
+      },
+      {
+        "text": "Rough day",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/078_rough_day.mp3"
+      },
+      {
+        "text": "Round of beers",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/079_round_of_beers.mp3"
+      },
+      {
+        "text": "Running at an incredible rate",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/080_running_at_an_incredible_rate.mp3"
+      },
+      {
+        "text": "Senior citizens",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/081_senior_citizens.mp3"
+      },
+      {
+        "text": "Senior citizens can still serve a purpose",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/082_senior_citizens_can_still_serve_a_purpose.mp3"
+      },
+      {
+        "text": "Shh, just go",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/083_shh_just_go.mp3"
+      },
+      {
+        "text": "Shhh",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/084_shhh.mp3"
+      },
+      {
+        "text": "Shrimp on the barbie",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/085_shrimp_on_the_barbie.mp3"
+      },
+      {
+        "text": "Sick and tired",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/086_sick_and_tired.mp3"
+      },
+      {
+        "text": "So you're telling me there's a chance",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/087_so_you_re_telling_me_there_s_a_chance.mp3"
+      },
+      {
+        "text": "Spilling the salt is bad luck",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/088_spilling_the_salt_is_bad_luck.mp3"
+      },
+      {
+        "text": "Grandpa's old cough medicine?",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/089_suckin_back_on_grandpa_s_old_cough_medicine.mp3"
+      },
+      {
+        "text": "Suit dance",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/090_suit_dance.mp3"
+      },
+      {
+        "text": "John Denver's full of shit, man",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/091_that_john_denver_is_full_of_shit_man.mp3"
+      },
+      {
+        "text": "That sounds good, I'll have that",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/092_that_sounds_good_i_ll_have_that.mp3"
+      },
+      {
+        "text": "That's a lovely accent you have",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/093_that_s_a_lovely_accent_you_have.mp3"
+      },
+      {
+        "text": "That's a special feeling, Lloyd",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/094_that_s_a_special_feeling_lloyd.mp3"
+      },
+      {
+        "text": "That's as good as money, sir",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/095_that_s_as_good_as_money_sir.mp3"
+      },
+      {
+        "text": "The most annoying sound in the world",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/096_the_most_annoying_sound_in_the_world.mp3"
+      },
+      {
+        "text": "There's a chance",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/097_there_s_a_chance.mp3"
+      },
+      {
+        "text": "This party really died",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/098_this_party_really_died.mp3"
+      },
+      {
+        "text": "Toenails",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/099_toenails.mp3"
+      },
+      {
+        "text": "Toilet explosion",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/100_toilet_explosion.mp3"
+      },
+      {
+        "text": "Totally redeemed yourself",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/101_totally_redeemed_yourself.mp3"
+      },
+      {
+        "text": "Turbo Lax",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/102_turbo_lax.mp3"
+      },
+      {
+        "text": "Uh huh!",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/103_uh_huh.mp3"
+      },
+      {
+        "text": "Wanna hear the most annoying sound in the world?",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/104_wanna_hear_the_most_annoying_sound_in_the_world.mp3"
+      },
+      {
+        "text": "We landed on the moon!",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/105_we_landed_on_the_moon.mp3"
+      },
+      {
+        "text": "We're really doing it!",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/106_we_re_really_doing_it.mp3"
+      },
+      {
+        "text": "We're there",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/107_we_re_there.mp3"
+      },
+      {
+        "text": "Welp, see ya later",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/108_welp_see_ya_l8r.mp3"
+      },
+      {
+        "text": "What do you think the chances are of a guy like you and a girl like me",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/109_what_do_you_think_the_chances_are_of_a_guy_like_you_and_a_gi.mp3"
+      },
+      {
+        "text": "What?",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/110_what.mp3"
+      },
+      {
+        "text": "Where's the booze?",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/111_where_s_the_booze.mp3"
+      },
+      {
+        "text": "Flying somewhere?",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/112_why_you_going_to_the_airport_flying_somewhere.mp3"
+      },
+      {
+        "text": "Will you join me in a good luck toast?",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/113_will_you_join_me_in_a_good_luck_toast.mp3"
+      },
+      {
+        "text": "Yeah, clapping",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/114_ya_clapping.mp3"
+      },
+      {
+        "text": "Yeah",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/115_yeah.mp3"
+      },
+      {
+        "text": "You couldn't be any dumber",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/116_you_couldn_t_be_any_dumber.mp3"
+      },
+      {
+        "text": "Extra gloves this whole time?",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/117_you_have_had_this_pair_of_extra_gloves_this_whole_time.mp3"
+      },
+      {
+        "text": "Tell me where to sign, bud",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/118_you_just_tell_me_where_to_sign_bud.mp3"
+      },
+      {
+        "text": "You're a horrible shot",
+        "character": "",
+        "audioUrl": "audio/dumb-and-dumber/119_you_re_a_horrible_shot.mp3"
+      }
+    ]
   }
 ];

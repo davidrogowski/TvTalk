@@ -984,3 +984,60 @@ shows:
       primary: "#1c6fb8"         # AFC Richmond blue
       accent:  "#e8413a"         # Richmond red
       bg:      "#05070a"         # dark
+
+  - id: old-school
+    name: "Old School"
+    board_url: "https://www.101soundboards.com/boards/115390-old-school-2003"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # curated to clips >=5s; transcripts.txt is the authoritative set
+    no_trim: true                # board verified clean (no ding, -2003 slug) — don't trim
+    theme:
+      primary: "#c8842f"         # tavern amber / beer
+      accent:  "#8c2f2f"         # frat maroon
+      bg:      "#0a0705"         # dark
+
+  - id: happy-gilmore
+    name: "Happy Gilmore"
+    board_url: "https://www.101soundboards.com/boards/119588-happy-gilmore-1996"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # curated to clips >=5s; transcripts.txt is the authoritative set
+    no_trim: true                # board verified clean (no ding, -1996 slug) — don't trim
+    theme:
+      primary: "#2f8f3e"         # fairway green
+      accent:  "#d9b04a"         # gold trophy
+      bg:      "#050a06"         # dark
+
+  - id: billy-madison
+    name: "Billy Madison"
+    board_url: "https://www.101soundboards.com/boards/84440-billy-madison-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # captions cleaned to short labels; transcripts.txt is authoritative
+    dedup: true                  # drop repeated-transcript clips (6 dupes)
+    case_style: "fix_all_caps"   # 2 ALL-CAPS labels -> sentence case
+    max_length: 9999             # keep everything; cleanup done in labeling pass
+    # poisoned -soundboard board (ID<1M) -> scraper auto-trims 1s ding (no no_trim)
+    theme:
+      primary: "#e8b21e"         # school-bus yellow
+      accent:  "#2f6fb0"         # blue
+      bg:      "#0a0805"         # dark
+
+  - id: dumb-and-dumber
+    name: "Dumb and Dumber"
+    board_url: "https://www.101soundboards.com/boards/84523-dumb-and-dumber-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # captions cleaned to short labels; transcripts.txt is authoritative
+    dedup: true                  # drop repeated-transcript clips (2 dupes)
+    max_length: 9999             # keep everything; cleanup done in labeling pass
+    # poisoned -soundboard board (ID<1M) -> scraper auto-trims 1s ding (no no_trim)
+    theme:
+      primary: "#e07b1f"         # Lloyd's orange tux
+      accent:  "#3f8fb0"         # Harry's blue tux
+      bg:      "#080a0b"         # dark
