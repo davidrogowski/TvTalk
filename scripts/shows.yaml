@@ -1056,3 +1056,34 @@ shows:
       primary: "#d83a2f"         # logo banner red
       accent:  "#3aa6db"         # construction-paper sky blue
       bg:      "#0a0708"         # dark
+
+  - id: community
+    name: "Community"
+    board_url: "https://www.101soundboards.com/boards/31012-community-soundboard"
+    status: pending
+    type: show
+    text_style: "title"          # caption-style board; labels hand-cleaned to short handles
+    preserve_transcripts: true   # curated to clips >=5s + cleaned labels; transcripts.txt is authoritative
+    dedup: true                  # board repeats several transcripts
+    exclude_prefix: "Community Soundboard Sound"  # drop 23 placeholder clips ("Community theme" dropped in curation)
+    max_length: 9999             # keep everything; duration filter (not word count) does the trimming
+    # poisoned -soundboard board (ID<1M) -> scraper auto-trims 1s ding (no no_trim)
+    theme:
+      primary: "#e0a82e"         # study-group lamp gold / title-card yellow
+      accent:  "#3a8fb0"         # Greendale teal
+      bg:      "#0a0805"         # dark
+
+  - id: role-models
+    name: "Role Models"
+    board_url: "https://www.101soundboards.com/boards/98103-role-models-2008-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"          # caption-style board; labels hand-cleaned to short handles
+    preserve_transcripts: true   # curated by duration cutoff + cleaned labels; transcripts.txt is authoritative
+    dedup: true                  # board repeats a transcript
+    max_length: 9999             # keep everything; duration cutoff (not word count) does the trimming
+    no_trim: true                # slug ends -soundboard but -2008- marks a MODERN board; audio verified CLEAN (loud from t=0, no ding) -> do NOT chop 1s
+    theme:
+      primary: "#b8352c"         # Minotaur energy-drink red
+      accent:  "#c8a13a"         # LAIRE medieval gold
+      bg:      "#0a0706"         # dark
