@@ -34,10 +34,6 @@
   "All dwarves are bastards"
   CHARACTER: 
 
-010_all_men_must_hype.mp3
-  "All Men Must Hype"
-  CHARACTER: 
-
 011_almost_feels_as_if_you_are_about_to_arrive_at_the_point.mp3
   "Arrive at the point"
   CHARACTER: 

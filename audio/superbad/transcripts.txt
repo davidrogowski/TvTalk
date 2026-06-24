@@ -62,10 +62,6 @@
   "Fuck my life"
   CHARACTER: 
 
-017_ha.mp3
-  "Ha"
-  CHARACTER: 
-
 018_hi.mp3
   "Hi"
   CHARACTER: 

@@ -81,11 +81,6 @@ const quotes = [
     "audioUrl": "audio/superbad/016_fuck_my_life.mp3"
   },
   {
-    "text": "Ha",
-    "character": "",
-    "audioUrl": "audio/superbad/017_ha.mp3"
-  },
-  {
     "text": "Hi",
     "character": "",
     "audioUrl": "audio/superbad/018_hi.mp3"

@@ -14779,11 +14779,6 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/009_all_dwarves_are_bastards.mp3"
       },
       {
-        "text": "All Men Must Hype",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/010_all_men_must_hype.mp3"
-      },
-      {
         "text": "Arrive at the point",
         "character": "",
         "audioUrl": "audio/game-of-thrones/011_almost_feels_as_if_you_are_about_to_arrive_at_the_point.mp3"
@@ -22114,11 +22109,6 @@ const shows = [
         "text": "Fuck my life",
         "character": "",
         "audioUrl": "audio/superbad/016_fuck_my_life.mp3"
-      },
-      {
-        "text": "Ha",
-        "character": "",
-        "audioUrl": "audio/superbad/017_ha.mp3"
       },
       {
         "text": "Hi",

@@ -905,7 +905,8 @@ shows:
     type: show
     text_style: "title"
     preserve_transcripts: true   # curated to clips >=4s; transcripts.txt is the authoritative set
-    no_trim: true                # sub-1M ID but serves clean audio (verified) — don't chop 1s off
+    # POISONED after all (2026-06-24): the -2019-season-1 slug looked modern, but clips carry the ding
+    # (shared first-1s PCM fingerprint across clips == the SP ding). Removed no_trim; on-disk files trimmed 1s.
     theme:
       primary: "#d4a017"         # hot-dog-suit mustard
       accent:  "#c0392b"         # ketchup red
