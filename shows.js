@@ -42671,5 +42671,2315 @@ const shows = [
         "audioUrl": "audio/semi-pro/010_you_re_gone.mp3"
       }
     ]
+  },
+  {
+    "id": "napoleon-dynamite",
+    "name": "Napoleon Dynamite",
+    "type": "movie",
+    "theme": {
+      "primary": "#d98b2b",
+      "accent": "#c0392b",
+      "bg": "#0a0805"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "A frickin 12 gauge",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/001_a_frickin_12_gauge.mp3"
+      },
+      {
+        "text": "Are you serious?",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/002_are_you_serious.mp3"
+      },
+      {
+        "text": "Are you still going to give your speech tomorrow",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/003_are_you_still_going_to_give_your_speech_tomorrow.mp3"
+      },
+      {
+        "text": "Ate all the frickin chips, Kip!",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/004_ate_all_the_frickin_chips_kip.mp3"
+      },
+      {
+        "text": "Throw a pigskin a quarter mile",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/005_back_in_eighty_two_i_used_to_be_able_to_throw_a_pigskin_a_qu.mp3"
+      },
+      {
+        "text": "Bike",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/006_bike.mp3"
+      },
+      {
+        "text": "Bow to your sensei",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/007_bow_to_your_sensei.mp3"
+      },
+      {
+        "text": "Build her a cake or something",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/008_build_her_a_cake_or_something.mp3"
+      },
+      {
+        "text": "But my lips hurt real bad",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/009_but_my_lips_hurt_real_bad.mp3"
+      },
+      {
+        "text": "Can I have your tots",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/010_can_i_have_your_tots.mp3"
+      },
+      {
+        "text": "Can I try it really quick?",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/011_can_i_try_it_really_quick.mp3"
+      },
+      {
+        "text": "Can you bring me my chapstick?",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/012_can_you_bring_me_my_chapstick.mp3"
+      },
+      {
+        "text": "Pay you in change",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/013_can_t_find_my_checkbook_hope_you_don_t_mind_if_i_pay_you_in.mp3"
+      },
+      {
+        "text": "Car problem",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/014_car_problem.mp3"
+      },
+      {
+        "text": "Chap stick",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/015_chap_stick.mp3"
+      },
+      {
+        "text": "Chickens",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/016_chickens.mp3"
+      },
+      {
+        "text": "Chips kip",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/017_chips_kip.mp3"
+      },
+      {
+        "text": "Computer hacking skills",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/018_computer_hacking_skills.mp3"
+      },
+      {
+        "text": "Dance!",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/019_dance.mp3"
+      },
+      {
+        "text": "Dang",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/020_dang.mp3"
+      },
+      {
+        "text": "Did you take a dump in your bed last night",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/021_did_you_take_a_dump_in_your_bed_last_night.mp3"
+      },
+      {
+        "text": "Do the chickens have large talons",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/022_do_the_chickens_have_large_talons.mp3"
+      },
+      {
+        "text": "Do the chickens have large talons?",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/023_do_the_chickens_have_large_talons.mp3"
+      },
+      {
+        "text": "Chatting online with babes all day",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/024_don_t_be_jealous_i_ve_been_chatting_online_with_babes_all_da.mp3"
+      },
+      {
+        "text": "Dump in the bed",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/026_dump_in_the_bed.mp3"
+      },
+      {
+        "text": "Fine!",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/027_fine.mp3"
+      },
+      {
+        "text": "Freakin Idiot",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/028_freakin_idiot.mp3"
+      },
+      {
+        "text": "Get off my property I'll call the cops on you",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/029_get_off_my_property_i_ll_call_the_cops_on_you.mp3"
+      },
+      {
+        "text": "Gibberish",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/030_gibberish.mp3"
+      },
+      {
+        "text": "Girls only want boyfriends who have great skills",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/031_girls_only_want_boyfriends_have_great_skills.mp3"
+      },
+      {
+        "text": "Go for it",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/033_go_for_it.mp3"
+      },
+      {
+        "text": "Gosh",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/034_gosh.mp3"
+      },
+      {
+        "text": "Grandma said you're supposed to go home",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/035_grandma_just_called_and_said_you_re_supposed_to_go_home.mp3"
+      },
+      {
+        "text": "Gross",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/036_gross.mp3"
+      },
+      {
+        "text": "Gross!",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/037_gross.mp3"
+      },
+      {
+        "text": "Happy hands club",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/038_happy_hands_club.mp3"
+      },
+      {
+        "text": "Have you ever heard of nylon polymer",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/039_have_you_ever_heard_of_nylon_polymer.mp3"
+      },
+      {
+        "text": "Have you heard about the dance",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/040_have_you_heard_about_the_dance.mp3"
+      },
+      {
+        "text": "Heck yes I did.",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/041_heck_yes_i_did.mp3"
+      },
+      {
+        "text": "Hello",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/042_hello.mp3"
+      },
+      {
+        "text": "Hey",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/043_hey.mp3"
+      },
+      {
+        "text": "Hey can I have one of your key chains",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/044_hey_can_i_have_one_of_your_key_chains.mp3"
+      },
+      {
+        "text": "Hold on I forgot to put in the crystals",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/045_hold_on_i_forgot_to_put_in_the_crystals.mp3"
+      },
+      {
+        "text": "Throw a football over the mountains",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/046_how_much_you_wanna_make_a_bet_i_can_throw_a_football_over_th.mp3"
+      },
+      {
+        "text": "How to get my haircut at the cotton corral",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/047_how_to_get_my_haircut_at_the_cotton_corral.mp3"
+      },
+      {
+        "text": "How's it going",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/048_how_s_it_going.mp3"
+      },
+      {
+        "text": "How's your neck",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/049_how_s_your_neck.mp3"
+      },
+      {
+        "text": "Hunting wolverines",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/050_hunting_wolverines.mp3"
+      },
+      {
+        "text": "I can make that much money in 5 seconds",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/051_i_can_make_that_much_money_in_5_seconds.mp3"
+      },
+      {
+        "text": "I caught you a delicious bass",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/052_i_caught_you_a_delicious_bass.mp3"
+      },
+      {
+        "text": "I don't feel very good",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/053_i_don_t_feel_very_good.mp3"
+      },
+      {
+        "text": "I don't understand a word you just said",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/054_i_don_t_understand_a_word_you_just_said.mp3"
+      },
+      {
+        "text": "I forgot to put in the crystals",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/055_i_forgot_to_put_in_the_crystals.mp3"
+      },
+      {
+        "text": "I got sick",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/056_i_got_sick.mp3"
+      },
+      {
+        "text": "Things are getting pretty serious",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/057_i_guess_we_could_say_things_are_getting_pretty_serious.mp3"
+      },
+      {
+        "text": "I like her bangs",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/058_i_like_her_bangs.mp3"
+      },
+      {
+        "text": "I like your sleeves, they're real big",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/059_i_like_your_sleeves_they_re_real_big.mp3"
+      },
+      {
+        "text": "I need you to give me a ride in an hour",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/060_i_need_you_to_give_me_a_ride_in_an_hour.mp3"
+      },
+      {
+        "text": "I say love, it is a flower",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/061_i_say_love_it_is_a_flower.mp3"
+      },
+      {
+        "text": "I see you're drinking 1%",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/062_i_see_you_re_drinking_1.mp3"
+      },
+      {
+        "text": "I want that",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/063_i_want_that.mp3"
+      },
+      {
+        "text": "I wish you'd get out of my life and shut up",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/064_i_wish_you_get_out_my_life_and_shut_up.mp3"
+      },
+      {
+        "text": "I'm voting for Pedro Sanchez",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/066_i_m_voting_for_pedro_sanchez.mp3"
+      },
+      {
+        "text": "Idiot",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/067_idiot.mp3"
+      },
+      {
+        "text": "Idiot!",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/068_idiot.mp3"
+      },
+      {
+        "text": "Is a sledgehammer",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/069_is_a_sledgehammer.mp3"
+      },
+      {
+        "text": "Is grandma there",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/070_is_grandma_there.mp3"
+      },
+      {
+        "text": "Is pedro there",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/071_is_pedro_there.mp3"
+      },
+      {
+        "text": "Is she hot?",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/072_is_she_hot.mp3"
+      },
+      {
+        "text": "It's like a dollar an hour",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/073_it_s_like_a_dollar_an_hour.mp3"
+      },
+      {
+        "text": "It's pretty cool, I guess",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/074_it_s_pretty_cool_i_guess.mp3"
+      },
+      {
+        "text": "Just kinda TO'd",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/075_just_kinda_to_d.mp3"
+      },
+      {
+        "text": "Just listen to your heart",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/076_just_listen_to_your_heart.mp3"
+      },
+      {
+        "text": "K, bye.",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/077_k_bye.mp3"
+      },
+      {
+        "text": "Kids Screaming",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/078_kids_screaming.mp3"
+      },
+      {
+        "text": "Kip and LaFawnduh's first date",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/079_kip_and_lafawnduh_s_first_date.mp3"
+      },
+      {
+        "text": "Kip goes bowling",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/080_kip_goes_bowling.mp3"
+      },
+      {
+        "text": "Large Talons",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/081_large_tallons.mp3"
+      },
+      {
+        "text": "Detonators to blow Nessie out of the water",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/082_last_week_japanese_scientist_six_place_place_explosive_deton.mp3"
+      },
+      {
+        "text": "Looks like a medieval warrior",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/083_looks_like_a_medieval_warrior.mp3"
+      },
+      {
+        "text": "Lucky",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/084_lucky.mp3"
+      },
+      {
+        "text": "Make yourself a dang quesadilla",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/085_make_yourself_a_dang_quesadilla.mp3"
+      },
+      {
+        "text": "Making some sweet moola with Uncle Rico",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/086_making_some_sweet_moola_with_uncle_rico.mp3"
+      },
+      {
+        "text": "Maybe I did maybe I didn't",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/087_maybe_i_did_maybe_i_didn_t.mp3"
+      },
+      {
+        "text": "Me too",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/088_me_too.mp3"
+      },
+      {
+        "text": "Mole",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/089_mole.mp3"
+      },
+      {
+        "text": "My lips hurt real bad",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/090_my_lips_hurt_real_bad.mp3"
+      },
+      {
+        "text": "Napoleon Dynamite",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/091_napoleon_dynamite.mp3"
+      },
+      {
+        "text": "No",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/092_no.mp3"
+      },
+      {
+        "text": "Nunchuck skills",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/093_nunchuck_skills.mp3"
+      },
+      {
+        "text": "Oh",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/094_oh.mp3"
+      },
+      {
+        "text": "OK",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/095_ok.mp3"
+      },
+      {
+        "text": "Peace out",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/096_peace_out.mp3"
+      },
+      {
+        "text": "Pedro offers you his protection",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/097_pedro_offers_you_his_protection.mp3"
+      },
+      {
+        "text": "Pedro's feeling hot",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/098_pedro_s_feeling_hot.mp3"
+      },
+      {
+        "text": "Probably the best drawing I've ever done",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/099_probably_the_best_drawing_i_ve_ever_done.mp3"
+      },
+      {
+        "text": "Probably the best that I know of",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/100_probably_the_best_that_i_know_of.mp3"
+      },
+      {
+        "text": "Pull me in",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/101_pull_me_in.mp3"
+      },
+      {
+        "text": "Rex Kwon Do sales pitch",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/102_rex_kwon_do_sales_pitch.mp3"
+      },
+      {
+        "text": "Round house",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/103_round_house.mp3"
+      },
+      {
+        "text": "See ya",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/104_see_ya.mp3"
+      },
+      {
+        "text": "She doesn't want you here",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/105_she_said_she_doesn_t_want_you_here_when_she_gets_back_becaus.mp3"
+      },
+      {
+        "text": "She's pretty good looking",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/106_she_s_pretty_good_looking.mp3"
+      },
+      {
+        "text": "Shut up I am not",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/107_shut_up_i_am_not.mp3"
+      },
+      {
+        "text": "Slap fight",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/108_slap_fight.mp3"
+      },
+      {
+        "text": "We're pretty much friends, right?",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/109_so_me_and_you_are_pretty_much_friends_by_now_right.mp3"
+      },
+      {
+        "text": "Piece of crap doesn't work",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/110_so_piece_of_crap_doesn_t_work.mp3"
+      },
+      {
+        "text": "Soaking up the sun",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/111_soaking_up_solely.mp3"
+      },
+      {
+        "text": "Such an idiot",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/112_such_an_idiot.mp3"
+      },
+      {
+        "text": "Sweet",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/113_sweet.mp3"
+      },
+      {
+        "text": "Gonna come out really nice",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/114_that_was_the_one_i_think_that_s_gonna_come_out_really_nice.mp3"
+      },
+      {
+        "text": "That's too bad",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/115_that_s_too_bad.mp3"
+      },
+      {
+        "text": "That's what I'm talkin about",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/116_that_s_what_i_m_talkin_about.mp3"
+      },
+      {
+        "text": "That's what I'm talking about",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/117_that_s_what_i_m_talking_about.mp3"
+      },
+      {
+        "text": "The worst day of my life",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/118_the_worst_day_of_my_life.mp3"
+      },
+      {
+        "text": "What would you do in that situation?",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/119_they_kept_trying_to_attack_my_cousins_what_the_heck_would_yo.mp3"
+      },
+      {
+        "text": "This is a girl",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/120_this_is_a_girl.mp3"
+      },
+      {
+        "text": "The worst video ever made",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/121_this_is_pretty_much_the_worst_video_ever_made.mp3"
+      },
+      {
+        "text": "Pretty good with a bo staff",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/122_this_one_gang_kept_wanting_me_to_join_because_i_m_pretty_goo.mp3"
+      },
+      {
+        "text": "Three feet of air",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/123_three_feet_of_air.mp3"
+      },
+      {
+        "text": "Time machine",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/124_time_machine.mp3"
+      },
+      {
+        "text": "Tina come get some ham",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/125_tina_come_get_some_ham.mp3"
+      },
+      {
+        "text": "Tina you fat lard",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/126_tina_you_fat_lard.mp3"
+      },
+      {
+        "text": "Three hours shading your upper lip",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/127_took_me_like_three_hours_to_finish_the_shading_on_your_upper.mp3"
+      },
+      {
+        "text": "Tupperware demo fail",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/128_tupperware_demo_fail.mp3"
+      },
+      {
+        "text": "Ugh",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/129_ugh.mp3"
+      },
+      {
+        "text": "Ugh gross",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/130_ugh_gross.mp3"
+      },
+      {
+        "text": "Uncle Rico back in '82",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/131_uncle_rico_back_in_82.mp3"
+      },
+      {
+        "text": "Uncle Rico glory days",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/132_uncle_rico_glory_days.mp3"
+      },
+      {
+        "text": "Uncle Rico go back in time",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/133_uncle_rico_go_back_in_time.mp3"
+      },
+      {
+        "text": "Uncle Rico go pro",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/134_uncle_rico_go_pro.mp3"
+      },
+      {
+        "text": "Vote for Pedro",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/135_vote_for_pedro.mp3"
+      },
+      {
+        "text": "Watt",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/136_watt.mp3"
+      },
+      {
+        "text": "Nobody's going to go out with me",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/137_well_nobody_s_going_to_go_out_with_me.mp3"
+      },
+      {
+        "text": "Well what's there to eat?",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/138_well_what_s_there_to_eat.mp3"
+      },
+      {
+        "text": "What",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/139_what.mp3"
+      },
+      {
+        "text": "It's a piece of crap",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/140_what_did_you_go_eat_in_to_quote_a_piece_of_crap.mp3"
+      },
+      {
+        "text": "What kind of bike do you have",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/141_what_kind_of_bike_do_you_have.mp3"
+      },
+      {
+        "text": "Whatever I feel like I want to do",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/142_whatever_i_feel_like_i_want_to_do.mp3"
+      },
+      {
+        "text": "Whatever I feel like I want to say",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/143_whatever_i_feel_like_i_want_to_say.mp3"
+      },
+      {
+        "text": "Go tell your mom to shut up",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/144_where_did_you_go_tell_your_mom_to_shut_up.mp3"
+      },
+      {
+        "text": "Who are you",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/145_who_are_you.mp3"
+      },
+      {
+        "text": "Who are you going to ask",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/146_who_are_you_going_to_ask.mp3"
+      },
+      {
+        "text": "Illegal ninja moves from the government",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/147_who_is_the_only_one_here_knows_illegal_ninja_moves_from_the.mp3"
+      },
+      {
+        "text": "Why",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/148_why.mp3"
+      },
+      {
+        "text": "Worst video ever",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/149_worst_video_ever.mp3"
+      },
+      {
+        "text": "Yeah right",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/150_yeah_right.mp3"
+      },
+      {
+        "text": "Yes",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/151_yes.mp3"
+      },
+      {
+        "text": "Yes, I love technology",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/152_yes_i_love_technology.mp3"
+      },
+      {
+        "text": "Yes! Yes! Yes! Yes!",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/153_yes_yes_yes_yes.mp3"
+      },
+      {
+        "text": "Yessss (Kip)",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/154_yessss_kip.mp3"
+      },
+      {
+        "text": "You already know what you're going to say",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/155_you_already_know_what_you_re_going_to_say.mp3"
+      },
+      {
+        "text": "You can say that again",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/156_you_can_say_that_again.mp3"
+      },
+      {
+        "text": "We're not babies",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/158_you_don_t_have_to_stay_here_with_us_we_re_not_babies.mp3"
+      },
+      {
+        "text": "You ever take it off any sweet jumps",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/159_you_ever_take_it_off_any_sweet_jumps.mp3"
+      },
+      {
+        "text": "You gonna eat your tots?",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/160_you_gonna_eat_your_tots.mp3"
+      },
+      {
+        "text": "You guys are retarded",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/161_you_guys_are_retarded.mp3"
+      },
+      {
+        "text": "You guys have any killer time",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/162_you_guys_have_any_killer_time.mp3"
+      },
+      {
+        "text": "You guys having a killer time",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/163_you_guys_having_a_killer_time.mp3"
+      },
+      {
+        "text": "You just come get me",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/164_you_just_come_get_maine.mp3"
+      },
+      {
+        "text": "You're good at hooking up with chicks",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/165_you_re_good_at_hooking_up_with_chicks.mp3"
+      },
+      {
+        "text": "You're such an idiot",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/166_you_re_such_an_idiot.mp3"
+      },
+      {
+        "text": "Your mom goes to college",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/167_your_mom_goes_to_college.mp3"
+      },
+      {
+        "text": "1% Milk",
+        "character": "",
+        "audioUrl": "audio/napoleon-dynamite/168_1_milk.mp3"
+      }
+    ]
+  },
+  {
+    "id": "workaholics",
+    "name": "Workaholics",
+    "type": "show",
+    "theme": {
+      "primary": "#6ab04c",
+      "accent": "#e67e22",
+      "bg": "#080a06"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Adam Angry!",
+        "character": "",
+        "audioUrl": "audio/workaholics/001_adam_angry.mp3"
+      },
+      {
+        "text": "Adam gets a bellybutton ring",
+        "character": "",
+        "audioUrl": "audio/workaholics/002_adam_gets_a_bellybutton_ring.mp3"
+      },
+      {
+        "text": "Adam jumps really high",
+        "character": "",
+        "audioUrl": "audio/workaholics/003_adam_jumps_really_high.mp3"
+      },
+      {
+        "text": "Anders is Donatello",
+        "character": "",
+        "audioUrl": "audio/workaholics/004_anders_is_donatello.mp3"
+      },
+      {
+        "text": "Anders' birthday",
+        "character": "",
+        "audioUrl": "audio/workaholics/005_anders_birthday.mp3"
+      },
+      {
+        "text": "Are you pretending to be gay?",
+        "character": "",
+        "audioUrl": "audio/workaholics/006_are_you_pretending_to_be_gay.mp3"
+      },
+      {
+        "text": "Around Here It's Alice In Chains Or Nothing",
+        "character": "",
+        "audioUrl": "audio/workaholics/007_around_here_it_s_alice_in_chains_or_nothing.mp3"
+      },
+      {
+        "text": "Aw Friends",
+        "character": "",
+        "audioUrl": "audio/workaholics/008_aw_friends.mp3"
+      },
+      {
+        "text": "Baby Genius",
+        "character": "",
+        "audioUrl": "audio/workaholics/009_baby_genius.mp3"
+      },
+      {
+        "text": "Baby Shower Rave scene",
+        "character": "",
+        "audioUrl": "audio/workaholics/010_baby_shower_rave_scene.mp3"
+      },
+      {
+        "text": "Ball'n off government checks",
+        "character": "",
+        "audioUrl": "audio/workaholics/011_ball_n_off_government_checks.mp3"
+      },
+      {
+        "text": "Better Have My Honey",
+        "character": "",
+        "audioUrl": "audio/workaholics/012_better_have_my_honey.mp3"
+      },
+      {
+        "text": "Bigfat Beatbox",
+        "character": "",
+        "audioUrl": "audio/workaholics/013_bigfat_beatbox.mp3"
+      },
+      {
+        "text": "Can We Go Please",
+        "character": "",
+        "audioUrl": "audio/workaholics/014_can_we_go_please.mp3"
+      },
+      {
+        "text": "Catherine Zeta Jones",
+        "character": "",
+        "audioUrl": "audio/workaholics/015_catherine_zeta_jones.mp3"
+      },
+      {
+        "text": "Cheers!",
+        "character": "",
+        "audioUrl": "audio/workaholics/016_cheers.mp3"
+      },
+      {
+        "text": "Chicks aren't funny dudes are funny",
+        "character": "",
+        "audioUrl": "audio/workaholics/017_chicks_aren_t_funny_dudes_are_funny.mp3"
+      },
+      {
+        "text": "Christmas Caroling",
+        "character": "",
+        "audioUrl": "audio/workaholics/018_christmas_caroling.mp3"
+      },
+      {
+        "text": "Cool Awesome!",
+        "character": "",
+        "audioUrl": "audio/workaholics/019_cool_awesome.mp3"
+      },
+      {
+        "text": "Dang! What's up with all these books!",
+        "character": "",
+        "audioUrl": "audio/workaholics/020_dang_what_s_up_with_all_these_books.mp3"
+      },
+      {
+        "text": "Destroy",
+        "character": "",
+        "audioUrl": "audio/workaholics/021_destroy.mp3"
+      },
+      {
+        "text": "Destroy short stacks and fuck chicks",
+        "character": "",
+        "audioUrl": "audio/workaholics/022_destroy_short_stacks_and_fuck_chicks.mp3"
+      },
+      {
+        "text": "Do you have a card swiper?",
+        "character": "",
+        "audioUrl": "audio/workaholics/023_do_you_have_a_card_swiper.mp3"
+      },
+      {
+        "text": "Don't make me use my muscles",
+        "character": "",
+        "audioUrl": "audio/workaholics/024_don_t_make_me_use_my_muscles.mp3"
+      },
+      {
+        "text": "Don't talk to my friends that way",
+        "character": "",
+        "audioUrl": "audio/workaholics/025_don_t_talk_to_my_friends_that_way.mp3"
+      },
+      {
+        "text": "Don't worry I played a lot of Area 51",
+        "character": "",
+        "audioUrl": "audio/workaholics/026_don_t_worry_i_played_a_lot_of_area_51.mp3"
+      },
+      {
+        "text": "Dunk some fools",
+        "character": "",
+        "audioUrl": "audio/workaholics/027_dunk_some_fools.mp3"
+      },
+      {
+        "text": "Edibles? What is that?",
+        "character": "",
+        "audioUrl": "audio/workaholics/028_edibles_what_is_that.mp3"
+      },
+      {
+        "text": "Eggs Tyrone",
+        "character": "",
+        "audioUrl": "audio/workaholics/029_eggs_tyrone.mp3"
+      },
+      {
+        "text": "Everyone Takes Acid",
+        "character": "",
+        "audioUrl": "audio/workaholics/030_everyone_takes_acid.mp3"
+      },
+      {
+        "text": "Everything cool comes from Mexico",
+        "character": "",
+        "audioUrl": "audio/workaholics/031_everything_cool_comes_from_mexico.mp3"
+      },
+      {
+        "text": "Eww",
+        "character": "",
+        "audioUrl": "audio/workaholics/032_eww.mp3"
+      },
+      {
+        "text": "Fight! Fight! Fight!",
+        "character": "",
+        "audioUrl": "audio/workaholics/033_fight_fight_fight.mp3"
+      },
+      {
+        "text": "Finish these beers and celebrate at the bar?",
+        "character": "",
+        "audioUrl": "audio/workaholics/034_finish_these_beers_and_celebrate_at_the_bar.mp3"
+      },
+      {
+        "text": "For Sure",
+        "character": "",
+        "audioUrl": "audio/workaholics/035_for_sure.mp3"
+      },
+      {
+        "text": "Freak'n Hate You Dudes",
+        "character": "",
+        "audioUrl": "audio/workaholics/036_freak_n_hate_you_dudes.mp3"
+      },
+      {
+        "text": "Fur Sure",
+        "character": "",
+        "audioUrl": "audio/workaholics/037_fur_sure.mp3"
+      },
+      {
+        "text": "Fuuuuuuuck me",
+        "character": "",
+        "audioUrl": "audio/workaholics/038_fuuuuuuuck_me.mp3"
+      },
+      {
+        "text": "Gay dudes are like hot chicks",
+        "character": "",
+        "audioUrl": "audio/workaholics/039_gay_dudes_are_like_hot_chicks.mp3"
+      },
+      {
+        "text": "Get Him!",
+        "character": "",
+        "audioUrl": "audio/workaholics/040_get_him.mp3"
+      },
+      {
+        "text": "Give this guy a cigarette",
+        "character": "",
+        "audioUrl": "audio/workaholics/041_give_this_guy_a_cigarette.mp3"
+      },
+      {
+        "text": "Good Morning!",
+        "character": "",
+        "audioUrl": "audio/workaholics/042_good_morning.mp3"
+      },
+      {
+        "text": "Grass! We're calling it grass now",
+        "character": "",
+        "audioUrl": "audio/workaholics/043_grass_we_re_calling_it_grass_now.mp3"
+      },
+      {
+        "text": "Guess who I voted for in 2000?",
+        "character": "",
+        "audioUrl": "audio/workaholics/044_guess_who_i_voted_for_in_2000.mp3"
+      },
+      {
+        "text": "Happy Halloween Y'all",
+        "character": "",
+        "audioUrl": "audio/workaholics/045_happy_halloween_y_all.mp3"
+      },
+      {
+        "text": "Happy Holidaze",
+        "character": "",
+        "audioUrl": "audio/workaholics/046_happy_holidaze.mp3"
+      },
+      {
+        "text": "Happy Holidaze",
+        "character": "",
+        "audioUrl": "audio/workaholics/047_happy_holidaze.mp3"
+      },
+      {
+        "text": "Have have no idea what any of that meant",
+        "character": "",
+        "audioUrl": "audio/workaholics/048_have_have_no_idea_what_any_of_that_meant.mp3"
+      },
+      {
+        "text": "Heading to pound town?",
+        "character": "",
+        "audioUrl": "audio/workaholics/049_heading_to_pound_town.mp3"
+      },
+      {
+        "text": "Hellooooo!!",
+        "character": "",
+        "audioUrl": "audio/workaholics/050_hellooooo.mp3"
+      },
+      {
+        "text": "Hot Boxing",
+        "character": "",
+        "audioUrl": "audio/workaholics/051_hot_boxing.mp3"
+      },
+      {
+        "text": "Afford a place like this?",
+        "character": "",
+        "audioUrl": "audio/workaholics/052_how_can_you_afford_to_live_in_a_place_like_this.mp3"
+      },
+      {
+        "text": "I am back on my ninja kick",
+        "character": "",
+        "audioUrl": "audio/workaholics/053_i_am_back_on_my_ninja_kick.mp3"
+      },
+      {
+        "text": "I Am Special",
+        "character": "",
+        "audioUrl": "audio/workaholics/054_i_am_special.mp3"
+      },
+      {
+        "text": "I Am Stoned",
+        "character": "",
+        "audioUrl": "audio/workaholics/055_i_am_stoned.mp3"
+      },
+      {
+        "text": "I haven't seen Beauty And The Beast In 7 years",
+        "character": "",
+        "audioUrl": "audio/workaholics/056_i_haven_t_seen_beauty_and_the_beast_in_7_years.mp3"
+      },
+      {
+        "text": "I just charge it to the game",
+        "character": "",
+        "audioUrl": "audio/workaholics/057_i_just_charge_it_to_the_game.mp3"
+      },
+      {
+        "text": "I Like That",
+        "character": "",
+        "audioUrl": "audio/workaholics/058_i_like_that.mp3"
+      },
+      {
+        "text": "I really like your ingenuity",
+        "character": "",
+        "audioUrl": "audio/workaholics/059_i_really_like_your_ingenuity.mp3"
+      },
+      {
+        "text": "I want you to hit me so bad right now",
+        "character": "",
+        "audioUrl": "audio/workaholics/060_i_want_you_to_hit_me_so_bad_right_now.mp3"
+      },
+      {
+        "text": "I wonder if Gods a chick dude",
+        "character": "",
+        "audioUrl": "audio/workaholics/061_i_wonder_if_gods_a_chick_dude.mp3"
+      },
+      {
+        "text": "I'm gonna get a shower radio",
+        "character": "",
+        "audioUrl": "audio/workaholics/062_i_m_gonna_get_a_shower_radio.mp3"
+      },
+      {
+        "text": "I'm not funny? Me?",
+        "character": "",
+        "audioUrl": "audio/workaholics/063_i_m_not_funny_me.mp3"
+      },
+      {
+        "text": "I'm Out",
+        "character": "",
+        "audioUrl": "audio/workaholics/064_i_m_out.mp3"
+      },
+      {
+        "text": "I'm Ready",
+        "character": "",
+        "audioUrl": "audio/workaholics/065_i_m_ready.mp3"
+      },
+      {
+        "text": "I'm sorry our money is actually for beers",
+        "character": "",
+        "audioUrl": "audio/workaholics/066_i_m_sorry_our_money_is_actually_for_beers.mp3"
+      },
+      {
+        "text": "It's a cute raccoon",
+        "character": "",
+        "audioUrl": "audio/workaholics/067_it_s_a_cute_raccoon.mp3"
+      },
+      {
+        "text": "It's about time to get this party started",
+        "character": "",
+        "audioUrl": "audio/workaholics/068_it_s_about_time_to_get_this_party_started.mp3"
+      },
+      {
+        "text": "It's Kicking In",
+        "character": "",
+        "audioUrl": "audio/workaholics/069_it_s_kicking_in.mp3"
+      },
+      {
+        "text": "It's Payback Time",
+        "character": "",
+        "audioUrl": "audio/workaholics/070_it_s_payback_time.mp3"
+      },
+      {
+        "text": "Just a regular day in the office",
+        "character": "",
+        "audioUrl": "audio/workaholics/071_just_a_regular_day_in_the_office.mp3"
+      },
+      {
+        "text": "Just tell me where I need to dance",
+        "character": "",
+        "audioUrl": "audio/workaholics/072_just_tell_me_where_i_need_to_dance.mp3"
+      },
+      {
+        "text": "I throw away my STD tests",
+        "character": "",
+        "audioUrl": "audio/workaholics/073_just_throw_it_away_that_s_what_i_do_with_my_std_tests.mp3"
+      },
+      {
+        "text": "Lap hog condom",
+        "character": "",
+        "audioUrl": "audio/workaholics/074_lap_hog_condom.mp3"
+      },
+      {
+        "text": "Let's Blow Dro Bro",
+        "character": "",
+        "audioUrl": "audio/workaholics/075_let_s_blow_dro_bro.mp3"
+      },
+      {
+        "text": "Let's Get Weird!",
+        "character": "",
+        "audioUrl": "audio/workaholics/076_let_s_get_weird.mp3"
+      },
+      {
+        "text": "Let's go pound this nerd!",
+        "character": "",
+        "audioUrl": "audio/workaholics/077_let_s_go_pound_this_nerd.mp3"
+      },
+      {
+        "text": "Let's go smoke weed about it",
+        "character": "",
+        "audioUrl": "audio/workaholics/078_let_s_go_smoke_weed_about_it.mp3"
+      },
+      {
+        "text": "Lets Do Acid",
+        "character": "",
+        "audioUrl": "audio/workaholics/079_lets_do_acid.mp3"
+      },
+      {
+        "text": "Living that handicap life",
+        "character": "",
+        "audioUrl": "audio/workaholics/080_living_that_handicap_life.mp3"
+      },
+      {
+        "text": "Looking straight grizzly",
+        "character": "",
+        "audioUrl": "audio/workaholics/081_looking_straight_grizzly.mp3"
+      },
+      {
+        "text": "May I remind you, you are under oath",
+        "character": "",
+        "audioUrl": "audio/workaholics/082_may_i_remind_you_you_are_under_oath.mp3"
+      },
+      {
+        "text": "MmHmm",
+        "character": "",
+        "audioUrl": "audio/workaholics/083_mmhmm.mp3"
+      },
+      {
+        "text": "Montez",
+        "character": "",
+        "audioUrl": "audio/workaholics/084_montez.mp3"
+      },
+      {
+        "text": "Nerd!",
+        "character": "",
+        "audioUrl": "audio/workaholics/085_nerd.mp3"
+      },
+      {
+        "text": "Night at the museum of tolerance of alcohol",
+        "character": "",
+        "audioUrl": "audio/workaholics/086_night_at_the_museum_of_tolerance_of_alcohol.mp3"
+      },
+      {
+        "text": "No!",
+        "character": "",
+        "audioUrl": "audio/workaholics/087_no.mp3"
+      },
+      {
+        "text": "Not better just different",
+        "character": "",
+        "audioUrl": "audio/workaholics/088_not_better_just_different.mp3"
+      },
+      {
+        "text": "Oh I like that",
+        "character": "",
+        "audioUrl": "audio/workaholics/089_oh_i_like_that.mp3"
+      },
+      {
+        "text": "Oh you wanna yell?",
+        "character": "",
+        "audioUrl": "audio/workaholics/090_oh_you_wanna_yell.mp3"
+      },
+      {
+        "text": "OMG Pauly Shore!!",
+        "character": "",
+        "audioUrl": "audio/workaholics/091_omg_pauly_shore.mp3"
+      },
+      {
+        "text": "Ooooo",
+        "character": "",
+        "audioUrl": "audio/workaholics/092_ooooo.mp3"
+      },
+      {
+        "text": "Pointing Fingers Already?",
+        "character": "",
+        "audioUrl": "audio/workaholics/093_pointing_fingers_already.mp3"
+      },
+      {
+        "text": "Poop Dollar!",
+        "character": "",
+        "audioUrl": "audio/workaholics/094_poop_dollar.mp3"
+      },
+      {
+        "text": "Scientists better check their hypotenuses dude",
+        "character": "",
+        "audioUrl": "audio/workaholics/095_scientists_better_check_their_hypotenuses_dude.mp3"
+      },
+      {
+        "text": "Screw it",
+        "character": "",
+        "audioUrl": "audio/workaholics/096_screw_it.mp3"
+      },
+      {
+        "text": "Screw it",
+        "character": "",
+        "audioUrl": "audio/workaholics/097_screw_it.mp3"
+      },
+      {
+        "text": "Serve my man up with some of that indo",
+        "character": "",
+        "audioUrl": "audio/workaholics/098_serve_my_man_up_with_some_of_that_indo.mp3"
+      },
+      {
+        "text": "Smart Move",
+        "character": "",
+        "audioUrl": "audio/workaholics/099_smart_move.mp3"
+      },
+      {
+        "text": "Smoking That Damn Hashish",
+        "character": "",
+        "audioUrl": "audio/workaholics/100_smoking_that_damn_hashish.mp3"
+      },
+      {
+        "text": "Sock puppets",
+        "character": "",
+        "audioUrl": "audio/workaholics/101_sock_puppets.mp3"
+      },
+      {
+        "text": "Sorry Dude",
+        "character": "",
+        "audioUrl": "audio/workaholics/102_sorry_dude.mp3"
+      },
+      {
+        "text": "Take a picture it might last longer",
+        "character": "",
+        "audioUrl": "audio/workaholics/103_take_a_picture_it_might_last_longer.mp3"
+      },
+      {
+        "text": "Take A Rip",
+        "character": "",
+        "audioUrl": "audio/workaholics/104_take_a_rip.mp3"
+      },
+      {
+        "text": "Thank you for wasting my time",
+        "character": "",
+        "audioUrl": "audio/workaholics/105_thank_you_for_wasting_my_time.mp3"
+      },
+      {
+        "text": "Thanks for this apron man",
+        "character": "",
+        "audioUrl": "audio/workaholics/106_thanks_for_this_apron_man.mp3"
+      },
+      {
+        "text": "That's a character flaw, but I'll take it",
+        "character": "",
+        "audioUrl": "audio/workaholics/107_that_s_a_character_flaw_but_i_ll_take_it.mp3"
+      },
+      {
+        "text": "That's Bad @$",
+        "character": "",
+        "audioUrl": "audio/workaholics/108_that_s_bad.mp3"
+      },
+      {
+        "text": "That's Not Happening",
+        "character": "",
+        "audioUrl": "audio/workaholics/109_that_s_not_happening.mp3"
+      },
+      {
+        "text": "The snacksters are back",
+        "character": "",
+        "audioUrl": "audio/workaholics/110_the_snacksters_are_back.mp3"
+      },
+      {
+        "text": "They can smell my hog a mile away",
+        "character": "",
+        "audioUrl": "audio/workaholics/111_they_can_smell_my_hog_a_mile_away.mp3"
+      },
+      {
+        "text": "This is so dumb, I'm not gonna do this",
+        "character": "",
+        "audioUrl": "audio/workaholics/112_this_is_so_dumb_i_m_not_gonna_do_this.mp3"
+      },
+      {
+        "text": "Today is My Birthday",
+        "character": "",
+        "audioUrl": "audio/workaholics/113_today_is_my_birthday.mp3"
+      },
+      {
+        "text": "Two years of sobriety, gone",
+        "character": "",
+        "audioUrl": "audio/workaholics/114_two_years_of_sobriety_gone.mp3"
+      },
+      {
+        "text": "We are ninja turtles",
+        "character": "",
+        "audioUrl": "audio/workaholics/115_we_are_ninja_turtles.mp3"
+      },
+      {
+        "text": "We are the rat busters!",
+        "character": "",
+        "audioUrl": "audio/workaholics/116_we_are_the_rat_busters.mp3"
+      },
+      {
+        "text": "We're calling it grass now",
+        "character": "",
+        "audioUrl": "audio/workaholics/117_we_re_calling_it_grass_now.mp3"
+      },
+      {
+        "text": "We're pretty butthurt about it",
+        "character": "",
+        "audioUrl": "audio/workaholics/118_we_re_pretty_butthurt_about_it.mp3"
+      },
+      {
+        "text": "We've got to see that dick",
+        "character": "",
+        "audioUrl": "audio/workaholics/119_we_ve_got_to_see_that_dick.mp3"
+      },
+      {
+        "text": "We've Run Out of Things We Smeeoke",
+        "character": "",
+        "audioUrl": "audio/workaholics/120_we_ve_run_out_of_things_we_smeeoke.mp3"
+      },
+      {
+        "text": "What do you little boys know about butt fun? Nothin'",
+        "character": "",
+        "audioUrl": "audio/workaholics/121_what_do_you_little_boys_know_about_butt_fun_nothin.mp3"
+      },
+      {
+        "text": "What's In The Box?!",
+        "character": "",
+        "audioUrl": "audio/workaholics/122_what_s_in_the_box.mp3"
+      },
+      {
+        "text": "What's the difference between dead babies and sand?",
+        "character": "",
+        "audioUrl": "audio/workaholics/123_what_s_the_difference_between_dead_babies_and_sand.mp3"
+      },
+      {
+        "text": "Where's The Weed?",
+        "character": "",
+        "audioUrl": "audio/workaholics/124_where_s_the_weed.mp3"
+      },
+      {
+        "text": "Where's your Half Christmas spirit",
+        "character": "",
+        "audioUrl": "audio/workaholics/125_where_s_your_half_christmas_spirit.mp3"
+      },
+      {
+        "text": "Who believes in scientists?",
+        "character": "",
+        "audioUrl": "audio/workaholics/126_who_believes_in_scientists.mp3"
+      },
+      {
+        "text": "Who still wears a puka shell necklace?",
+        "character": "",
+        "audioUrl": "audio/workaholics/127_who_still_wears_a_puka_shell_necklace.mp3"
+      },
+      {
+        "text": "Whose weed is that?",
+        "character": "",
+        "audioUrl": "audio/workaholics/128_whose_weed_is_that.mp3"
+      },
+      {
+        "text": "Why are you so worried about banners dude",
+        "character": "",
+        "audioUrl": "audio/workaholics/129_why_are_you_so_worried_about_banners_dude.mp3"
+      },
+      {
+        "text": "Wizard Rap",
+        "character": "",
+        "audioUrl": "audio/workaholics/130_wizard_rap.mp3"
+      },
+      {
+        "text": "Work a holics",
+        "character": "",
+        "audioUrl": "audio/workaholics/131_work_a_holics.mp3"
+      },
+      {
+        "text": "Workaholics",
+        "character": "",
+        "audioUrl": "audio/workaholics/132_workaholics.mp3"
+      },
+      {
+        "text": "Workaholics",
+        "character": "",
+        "audioUrl": "audio/workaholics/133_workaholics.mp3"
+      },
+      {
+        "text": "Workaholics Kick It",
+        "character": "",
+        "audioUrl": "audio/workaholics/134_workaholics_kick_it.mp3"
+      },
+      {
+        "text": "Yeah right, come on man",
+        "character": "",
+        "audioUrl": "audio/workaholics/135_yeah_right_come_on_man.mp3"
+      },
+      {
+        "text": "Yeah!",
+        "character": "",
+        "audioUrl": "audio/workaholics/136_yeah.mp3"
+      },
+      {
+        "text": "You are fully torqued, bro",
+        "character": "",
+        "audioUrl": "audio/workaholics/137_you_are_fully_torqued_bro.mp3"
+      },
+      {
+        "text": "You can't be snacking on my snacks!",
+        "character": "",
+        "audioUrl": "audio/workaholics/138_you_can_t_be_snacking_on_my_snacks.mp3"
+      },
+      {
+        "text": "You don't need to be rude",
+        "character": "",
+        "audioUrl": "audio/workaholics/139_you_don_t_need_to_be_rude.mp3"
+      },
+      {
+        "text": "You don't think I'm funny?",
+        "character": "",
+        "audioUrl": "audio/workaholics/140_you_don_t_think_i_m_funny.mp3"
+      },
+      {
+        "text": "You guys ready to get weird tonight?",
+        "character": "",
+        "audioUrl": "audio/workaholics/141_you_guys_ready_to_get_weird_tonight.mp3"
+      },
+      {
+        "text": "You guys smoke way to much",
+        "character": "",
+        "audioUrl": "audio/workaholics/142_you_guys_smoke_way_to_much.mp3"
+      },
+      {
+        "text": "You know how many minutes of tinkering that took me?",
+        "character": "",
+        "audioUrl": "audio/workaholics/143_you_know_how_many_minutes_of_tinkering_that_took_me.mp3"
+      },
+      {
+        "text": "You lied to me my whole life",
+        "character": "",
+        "audioUrl": "audio/workaholics/144_you_lied_to_me_my_whole_life.mp3"
+      },
+      {
+        "text": "You Look Horrible",
+        "character": "",
+        "audioUrl": "audio/workaholics/145_you_look_horrible.mp3"
+      },
+      {
+        "text": "You make me all flustered",
+        "character": "",
+        "audioUrl": "audio/workaholics/146_you_make_me_all_flustered.mp3"
+      },
+      {
+        "text": "You play sports?",
+        "character": "",
+        "audioUrl": "audio/workaholics/147_you_play_sports.mp3"
+      },
+      {
+        "text": "You think you're God bro?",
+        "character": "",
+        "audioUrl": "audio/workaholics/148_you_think_you_re_god_bro.mp3"
+      },
+      {
+        "text": "You two are on my $%@! list",
+        "character": "",
+        "audioUrl": "audio/workaholics/149_you_two_are_on_my_list.mp3"
+      },
+      {
+        "text": "You're intruding my office space",
+        "character": "",
+        "audioUrl": "audio/workaholics/150_you_re_intruding_my_office_space.mp3"
+      },
+      {
+        "text": "You're Not Funny",
+        "character": "",
+        "audioUrl": "audio/workaholics/151_you_re_not_funny.mp3"
+      },
+      {
+        "text": "Your look is the loosest butthole",
+        "character": "",
+        "audioUrl": "audio/workaholics/152_your_look_is_the_loosest_butthole.mp3"
+      },
+      {
+        "text": "40's!!!",
+        "character": "",
+        "audioUrl": "audio/workaholics/153_40_s.mp3"
+      }
+    ]
+  },
+  {
+    "id": "chappelles-show",
+    "name": "Chappelle's Show",
+    "type": "show",
+    "theme": {
+      "primary": "#c0392b",
+      "accent": "#e0a82e",
+      "bg": "#0a0606"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Black Bush: Oil",
+        "character": "",
+        "audioUrl": "audio/chappelles-show/001_black_bush_oil.mp3"
+      },
+      {
+        "text": "Chappelle show corny",
+        "character": "",
+        "audioUrl": "audio/chappelles-show/002_chappelle_show_corny.mp3"
+      },
+      {
+        "text": "Chappelle vs Godzilla",
+        "character": "",
+        "audioUrl": "audio/chappelles-show/003_chappelle_vs_godzilla.mp3"
+      },
+      {
+        "text": "I'm rich bitch",
+        "character": "",
+        "audioUrl": "audio/chappelles-show/004_dave_chappelle.mp3"
+      },
+      {
+        "text": "Four Thumbs Down",
+        "character": "",
+        "audioUrl": "audio/chappelles-show/005_four_thumbs_down.mp3"
+      },
+      {
+        "text": "Grits N Gravy",
+        "character": "",
+        "audioUrl": "audio/chappelles-show/006_grits_n_gravy.mp3"
+      },
+      {
+        "text": "He Tried to Kill My Father",
+        "character": "",
+        "audioUrl": "audio/chappelles-show/007_he_tried_to_kill_my_father.mp3"
+      },
+      {
+        "text": "I hope all the bad things happen to you",
+        "character": "",
+        "audioUrl": "audio/chappelles-show/008_i_hope_all_the_bad_things_happen_to_you.mp3"
+      },
+      {
+        "text": "In your face, Charlie Murphy",
+        "character": "",
+        "audioUrl": "audio/chappelles-show/009_in_your_face_charlie_murphy.mp3"
+      },
+      {
+        "text": "Man you corny!",
+        "character": "",
+        "audioUrl": "audio/chappelles-show/010_man_you_corny.mp3"
+      },
+      {
+        "text": "President runs away",
+        "character": "",
+        "audioUrl": "audio/chappelles-show/011_president_runs_away.mp3"
+      },
+      {
+        "text": "See how we living",
+        "character": "",
+        "audioUrl": "audio/chappelles-show/012_see_how_we_living.mp3"
+      },
+      {
+        "text": "STFU",
+        "character": "",
+        "audioUrl": "audio/chappelles-show/013_stfu.mp3"
+      },
+      {
+        "text": "That was coldblooded",
+        "character": "",
+        "audioUrl": "audio/chappelles-show/014_that_was_coldblooded.mp3"
+      },
+      {
+        "text": "This some good ass cheese",
+        "character": "",
+        "audioUrl": "audio/chappelles-show/015_this_some_good_ass_cheese.mp3"
+      },
+      {
+        "text": "Yaddy Yaddy Yadda",
+        "character": "",
+        "audioUrl": "audio/chappelles-show/016_yaddy_yaddy_yadda.mp3"
+      },
+      {
+        "text": "Yeah Yeah",
+        "character": "",
+        "audioUrl": "audio/chappelles-show/017_yeah_yeah.mp3"
+      },
+      {
+        "text": "You better wrap that gavel up, b",
+        "character": "",
+        "audioUrl": "audio/chappelles-show/018_you_better_wrap_that_gavel_up_b.mp3"
+      },
+      {
+        "text": "You're the worst kind of scum",
+        "character": "",
+        "audioUrl": "audio/chappelles-show/019_you_re_the_worst_kind_of_scum.mp3"
+      }
+    ]
+  },
+  {
+    "id": "trailer-park-boys",
+    "name": "Trailer Park Boys",
+    "type": "show",
+    "theme": {
+      "primary": "#5a8f3a",
+      "accent": "#b5651d",
+      "bg": "#070a05"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "A little puff from time to time",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/001_a_little_puff_from_time_to_time.mp3"
+      },
+      {
+        "text": "Are you guys crying?",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/002_are_you_guys_crying.mp3"
+      },
+      {
+        "text": "Are you really this stupid?",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/003_are_you_really_this_stupid.mp3"
+      },
+      {
+        "text": "Ask me if I care",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/004_ask_me_if_i_care.mp3"
+      },
+      {
+        "text": "Ate nine cans of ravioli",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/005_ate_nine_cans_of_ravioli.mp3"
+      },
+      {
+        "text": "Blah Blah Blah",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/006_blah_blah_blah.mp3"
+      },
+      {
+        "text": "Bubbles says goodbye to Steve`",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/007_bubbles_says_goodbye_to_steve.mp3"
+      },
+      {
+        "text": "Bubbles' Breakfast Dream",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/008_bubbles_breakfast_dream.mp3"
+      },
+      {
+        "text": "Can you go fuck yourself?",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/009_can_you_go_fuck_yourself.mp3"
+      },
+      {
+        "text": "Can you read?",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/010_can_you_read.mp3"
+      },
+      {
+        "text": "Come check this shit out",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/011_come_check_this_shit_out.mp3"
+      },
+      {
+        "text": "Commander Bubbles",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/012_commander_bubbles.mp3"
+      },
+      {
+        "text": "Conky Yelling",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/013_conky_yelling.mp3"
+      },
+      {
+        "text": "Cory Gets too High",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/014_cory_gets_too_high.mp3"
+      },
+      {
+        "text": "Don't give me a rough time",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/015_don_t_give_me_a_rough_time.mp3"
+      },
+      {
+        "text": "Falling Down Stairs",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/016_falling_down_stairs.mp3"
+      },
+      {
+        "text": "For Fucks Sakes",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/017_for_fucks_sakes.mp3"
+      },
+      {
+        "text": "Frig Off Barb",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/018_frig_off_barb.mp3"
+      },
+      {
+        "text": "Fuck off",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/019_fuck_off.mp3"
+      },
+      {
+        "text": "Get off the stage!",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/020_get_off_the_stage.mp3"
+      },
+      {
+        "text": "Gimmie my cigarette back",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/021_gimmie_my_cigarette_back.mp3"
+      },
+      {
+        "text": "Give him his cat!",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/022_give_him_his_cat.mp3"
+      },
+      {
+        "text": "Give me a smoke hairdo!",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/023_give_me_a_smoke_hairdo.mp3"
+      },
+      {
+        "text": "Grammar Nazi",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/024_grammar_nazi.mp3"
+      },
+      {
+        "text": "Green Bastard",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/025_green_bastard.mp3"
+      },
+      {
+        "text": "Happy Holidays Everybody",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/026_happy_holidays_everybody.mp3"
+      },
+      {
+        "text": "Here kitty",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/027_here_kitty.mp3"
+      },
+      {
+        "text": "I know you're stressed out",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/028_i_know_you_re_stressed_out.mp3"
+      },
+      {
+        "text": "I ain't got no candy for you",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/029_i_ain_t_got_no_candy_for_you.mp3"
+      },
+      {
+        "text": "I am the Liquor",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/030_i_am_the_liquor.mp3"
+      },
+      {
+        "text": "I beg your pardon",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/031_i_beg_your_pardon.mp3"
+      },
+      {
+        "text": "I don't know you tell me",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/032_i_don_t_know_you_tell_me.mp3"
+      },
+      {
+        "text": "I don't wanna talk to you dicks right now",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/033_i_don_t_wanna_talk_to_you_dicks_right_now.mp3"
+      },
+      {
+        "text": "I found him in a storm drain",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/034_i_found_him_in_a_storm_drain.mp3"
+      },
+      {
+        "text": "I guess we're going home then",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/035_i_guess_we_re_going_home_then.mp3"
+      },
+      {
+        "text": "I love the flea market",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/036_i_love_the_flea_market.mp3"
+      },
+      {
+        "text": "I never had a phone before",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/037_i_never_had_a_phone_before.mp3"
+      },
+      {
+        "text": "I plan on getting drunk as fuck tonight!",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/038_i_plan_on_getting_drunk_as_fuck_tonight.mp3"
+      },
+      {
+        "text": "I plan to get drunk",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/039_i_plan_to_get_drunk.mp3"
+      },
+      {
+        "text": "I quit!",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/040_i_quit.mp3"
+      },
+      {
+        "text": "I'm not wanted here",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/041_i_m_not_wanted_here.mp3"
+      },
+      {
+        "text": "I'm the guy that looks after all the kitties",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/042_i_m_the_guy_that_looks_after_all_the_kitties.mp3"
+      },
+      {
+        "text": "If I cant smoke and cuss i'm fucked",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/043_if_i_cant_smoke_and_cuss_i_m_fucked.mp3"
+      },
+      {
+        "text": "If you love something let it go",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/044_if_you_love_something_let_it_go.mp3"
+      },
+      {
+        "text": "It's just not my scene",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/045_it_s_just_not_my_scene.mp3"
+      },
+      {
+        "text": "It's none of your business",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/046_it_s_none_of_your_business.mp3"
+      },
+      {
+        "text": "It's not a big deal",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/047_it_s_not_a_big_deal.mp3"
+      },
+      {
+        "text": "Jroc Notification",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/048_jroc_notification.mp3"
+      },
+      {
+        "text": "King of the carts",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/049_king_of_the_carts.mp3"
+      },
+      {
+        "text": "Knock Knock",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/050_knock_knock.mp3"
+      },
+      {
+        "text": "Know What I'm Saying (DJ Cat)",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/051_know_what_i_m_saying_dj_cat.mp3"
+      },
+      {
+        "text": "Lahey falls down stairs",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/052_lahey_falls_down_stairs.mp3"
+      },
+      {
+        "text": "Lets go smokes",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/053_lets_go_smokes.mp3"
+      },
+      {
+        "text": "Lets just go spending",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/054_lets_just_go_spending.mp3"
+      },
+      {
+        "text": "Life isn't about getting drunk",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/055_life_isn_t_about_getting_drunk.mp3"
+      },
+      {
+        "text": "Most fucked up days of my life",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/056_most_fucked_up_days_of_my_life.mp3"
+      },
+      {
+        "text": "No cat of mine is gonna live in a car",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/057_no_cat_of_mine_is_gonna_live_in_a_car.mp3"
+      },
+      {
+        "text": "No Way",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/058_no_way.mp3"
+      },
+      {
+        "text": "None of your business",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/059_none_of_your_business.mp3"
+      },
+      {
+        "text": "Obviously you don't know who I am",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/060_obviously_you_don_t_know_who_i_am.mp3"
+      },
+      {
+        "text": "On Top of the Liquor Part 1",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/061_on_top_of_the_liquor_part_1.mp3"
+      },
+      {
+        "text": "On Top of the Liquor Part 2",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/062_on_top_of_the_liquor_part_2.mp3"
+      },
+      {
+        "text": "Open For Business",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/063_open_for_business.mp3"
+      },
+      {
+        "text": "Peanut Butter and Jam",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/064_peanut_butter_and_jam.mp3"
+      },
+      {
+        "text": "People don't realize how much moneys in carts",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/065_people_don_t_realize_how_much_moneys_in_carts.mp3"
+      },
+      {
+        "text": "Pissed Bubbles and Nunchucks",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/066_pissed_bubbles_and_nunchucks.mp3"
+      },
+      {
+        "text": "Randy rides a bumpy bus",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/067_randy_rides_a_bumpy_bus.mp3"
+      },
+      {
+        "text": "Ricky throws turkey",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/068_ricky_throws_turkey.mp3"
+      },
+      {
+        "text": "Safety always off",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/069_safety_always_off.mp3"
+      },
+      {
+        "text": "See This?",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/070_see_this.mp3"
+      },
+      {
+        "text": "Shit Hawks JL",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/071_shit_hawks_jl.mp3"
+      },
+      {
+        "text": "Shit Winds",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/072_shit_winds.mp3"
+      },
+      {
+        "text": "ShitQuake",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/073_shitquake.mp3"
+      },
+      {
+        "text": "Shut the fuck up dog",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/074_shut_the_fuck_up_dog.mp3"
+      },
+      {
+        "text": "Smokes, Let’s go",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/075_smokes_let_s_go.mp3"
+      },
+      {
+        "text": "That's Greasy",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/076_that_s_greasy.mp3"
+      },
+      {
+        "text": "That's no gonna fuckin happen",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/077_that_s_no_gonna_fuckin_happen.mp3"
+      },
+      {
+        "text": "That's one fuckin nice kitty right there",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/078_that_s_one_fuckin_nice_kitty_right_there.mp3"
+      },
+      {
+        "text": "The defense rests",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/079_the_defense_rests.mp3"
+      },
+      {
+        "text": "The way she goes",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/080_the_way_she_goes.mp3"
+      },
+      {
+        "text": "These are my family show them some respect",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/081_these_are_my_family_show_them_some_respect.mp3"
+      },
+      {
+        "text": "This guys just drunk",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/082_this_guys_just_drunk.mp3"
+      },
+      {
+        "text": "This is fucked up",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/083_this_is_fucked_up.mp3"
+      },
+      {
+        "text": "TPB Hairdo",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/084_tpb_hairdo.mp3"
+      },
+      {
+        "text": "Trying not to cuss",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/085_trying_not_to_cuss.mp3"
+      },
+      {
+        "text": "U lookin at my gut?",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/086_u_lookin_at_my_gut.mp3"
+      },
+      {
+        "text": "We down with chilling, Peace",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/087_we_down_with_chilling_peace.mp3"
+      },
+      {
+        "text": "Well that depends...",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/088_well_that_depends.mp3"
+      },
+      {
+        "text": "What?",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/089_what.mp3"
+      },
+      {
+        "text": "Whats in the bag Mafawker?",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/090_whats_in_the_bag_mafawker.mp3"
+      },
+      {
+        "text": "Which maybe I shouldn't have did",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/091_which_maybe_i_shouldn_t_have_did.mp3"
+      },
+      {
+        "text": "Why are you dressed up like a bumble bee",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/092_why_are_you_dressed_up_like_a_bumble_bee.mp3"
+      },
+      {
+        "text": "Why dont you go fuck youself",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/093_why_dont_you_go_fuck_youself.mp3"
+      },
+      {
+        "text": "Why?",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/094_why.mp3"
+      },
+      {
+        "text": "You don't own space NASA does",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/095_you_don_t_own_space_nasa_does.mp3"
+      },
+      {
+        "text": "You Fuckin Want One?",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/096_you_fuckin_want_one.mp3"
+      },
+      {
+        "text": "You got any dope man?",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/097_you_got_any_dope_man.mp3"
+      },
+      {
+        "text": "You guys are so stupid",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/098_you_guys_are_so_stupid.mp3"
+      },
+      {
+        "text": "You think you're so smart",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/099_you_think_you_re_so_smart.mp3"
+      },
+      {
+        "text": "You Wouldn't Understand",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/100_you_wouldn_t_understand.mp3"
+      },
+      {
+        "text": "You're being a dick",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/101_you_re_being_a_dick.mp3"
+      },
+      {
+        "text": "You're fucked and always will be",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/102_you_re_fucked_and_always_will_be.mp3"
+      },
+      {
+        "text": "You're fucking losing it bud",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/103_you_re_fucking_losing_it_bud.mp3"
+      },
+      {
+        "text": "You're lucky I'm on probation",
+        "character": "",
+        "audioUrl": "audio/trailer-park-boys/104_you_re_lucky_i_m_on_probation.mp3"
+      }
+    ]
+  },
+  {
+    "id": "blades-of-glory",
+    "name": "Blades of Glory",
+    "type": "movie",
+    "theme": {
+      "primary": "#7b5ea7",
+      "accent": "#3aa6db",
+      "bg": "#08060d"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "I am never satisfied",
+        "character": "",
+        "audioUrl": "audio/blades-of-glory/001_i_am_never_satisfied.mp3"
+      },
+      {
+        "text": "I dont even know what that means",
+        "character": "",
+        "audioUrl": "audio/blades-of-glory/002_i_dont_even_know_what_that_means.mp3"
+      },
+      {
+        "text": "I Want You",
+        "character": "",
+        "audioUrl": "audio/blades-of-glory/003_i_want_you.mp3"
+      },
+      {
+        "text": "Looking is free, touching is gonna cost you something",
+        "character": "",
+        "audioUrl": "audio/blades-of-glory/004_looking_is_free_touching_is_gonna_cost_you_something.mp3"
+      },
+      {
+        "text": "Mind bottling, isn't it?",
+        "character": "",
+        "audioUrl": "audio/blades-of-glory/005_mind_bottling_isn_t_it.mp3"
+      },
+      {
+        "text": "No one knows what it means",
+        "character": "",
+        "audioUrl": "audio/blades-of-glory/006_no_one_knows_what_it_means.mp3"
+      },
+      {
+        "text": "Troubled",
+        "character": "",
+        "audioUrl": "audio/blades-of-glory/007_troubled.mp3"
+      },
+      {
+        "text": "We're gonna skate to one song",
+        "character": "",
+        "audioUrl": "audio/blades-of-glory/008_we_re_gonna_skate_to_one_song.mp3"
+      },
+      {
+        "text": "You have officially given me a boner",
+        "character": "",
+        "audioUrl": "audio/blades-of-glory/009_you_have_officially_given_me_a_boner.mp3"
+      }
+    ]
   }
 ];

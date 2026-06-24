@@ -1,0 +1,611 @@
+001_adam_angry.mp3
+  "Adam Angry!"
+  CHARACTER: 
+
+002_adam_gets_a_bellybutton_ring.mp3
+  "Adam gets a bellybutton ring"
+  CHARACTER: 
+
+003_adam_jumps_really_high.mp3
+  "Adam jumps really high"
+  CHARACTER: 
+
+004_anders_is_donatello.mp3
+  "Anders is Donatello"
+  CHARACTER: 
+
+005_anders_birthday.mp3
+  "Anders' birthday"
+  CHARACTER: 
+
+006_are_you_pretending_to_be_gay.mp3
+  "Are you pretending to be gay?"
+  CHARACTER: 
+
+007_around_here_it_s_alice_in_chains_or_nothing.mp3
+  "Around Here It's Alice In Chains Or Nothing"
+  CHARACTER: 
+
+008_aw_friends.mp3
+  "Aw Friends"
+  CHARACTER: 
+
+009_baby_genius.mp3
+  "Baby Genius"
+  CHARACTER: 
+
+010_baby_shower_rave_scene.mp3
+  "Baby Shower Rave scene"
+  CHARACTER: 
+
+011_ball_n_off_government_checks.mp3
+  "Ball'n off government checks"
+  CHARACTER: 
+
+012_better_have_my_honey.mp3
+  "Better Have My Honey"
+  CHARACTER: 
+
+013_bigfat_beatbox.mp3
+  "Bigfat Beatbox"
+  CHARACTER: 
+
+014_can_we_go_please.mp3
+  "Can We Go Please"
+  CHARACTER: 
+
+015_catherine_zeta_jones.mp3
+  "Catherine Zeta Jones"
+  CHARACTER: 
+
+016_cheers.mp3
+  "Cheers!"
+  CHARACTER: 
+
+017_chicks_aren_t_funny_dudes_are_funny.mp3
+  "Chicks aren't funny dudes are funny"
+  CHARACTER: 
+
+018_christmas_caroling.mp3
+  "Christmas Caroling"
+  CHARACTER: 
+
+019_cool_awesome.mp3
+  "Cool Awesome!"
+  CHARACTER: 
+
+020_dang_what_s_up_with_all_these_books.mp3
+  "Dang! What's up with all these books!"
+  CHARACTER: 
+
+021_destroy.mp3
+  "Destroy"
+  CHARACTER: 
+
+022_destroy_short_stacks_and_fuck_chicks.mp3
+  "Destroy short stacks and fuck chicks"
+  CHARACTER: 
+
+023_do_you_have_a_card_swiper.mp3
+  "Do you have a card swiper?"
+  CHARACTER: 
+
+024_don_t_make_me_use_my_muscles.mp3
+  "Don't make me use my muscles"
+  CHARACTER: 
+
+025_don_t_talk_to_my_friends_that_way.mp3
+  "Don't talk to my friends that way"
+  CHARACTER: 
+
+026_don_t_worry_i_played_a_lot_of_area_51.mp3
+  "Don't worry I played a lot of Area 51"
+  CHARACTER: 
+
+027_dunk_some_fools.mp3
+  "Dunk some fools"
+  CHARACTER: 
+
+028_edibles_what_is_that.mp3
+  "Edibles? What is that?"
+  CHARACTER: 
+
+029_eggs_tyrone.mp3
+  "Eggs Tyrone"
+  CHARACTER: 
+
+030_everyone_takes_acid.mp3
+  "Everyone Takes Acid"
+  CHARACTER: 
+
+031_everything_cool_comes_from_mexico.mp3
+  "Everything cool comes from Mexico"
+  CHARACTER: 
+
+032_eww.mp3
+  "Eww"
+  CHARACTER: 
+
+033_fight_fight_fight.mp3
+  "Fight! Fight! Fight!"
+  CHARACTER: 
+
+034_finish_these_beers_and_celebrate_at_the_bar.mp3
+  "Finish these beers and celebrate at the bar?"
+  CHARACTER: 
+
+035_for_sure.mp3
+  "For Sure"
+  CHARACTER: 
+
+036_freak_n_hate_you_dudes.mp3
+  "Freak'n Hate You Dudes"
+  CHARACTER: 
+
+037_fur_sure.mp3
+  "Fur Sure"
+  CHARACTER: 
+
+038_fuuuuuuuck_me.mp3
+  "Fuuuuuuuck me"
+  CHARACTER: 
+
+039_gay_dudes_are_like_hot_chicks.mp3
+  "Gay dudes are like hot chicks"
+  CHARACTER: 
+
+040_get_him.mp3
+  "Get Him!"
+  CHARACTER: 
+
+041_give_this_guy_a_cigarette.mp3
+  "Give this guy a cigarette"
+  CHARACTER: 
+
+042_good_morning.mp3
+  "Good Morning!"
+  CHARACTER: 
+
+043_grass_we_re_calling_it_grass_now.mp3
+  "Grass! We're calling it grass now"
+  CHARACTER: 
+
+044_guess_who_i_voted_for_in_2000.mp3
+  "Guess who I voted for in 2000?"
+  CHARACTER: 
+
+045_happy_halloween_y_all.mp3
+  "Happy Halloween Y'all"
+  CHARACTER: 
+
+046_happy_holidaze.mp3
+  "Happy Holidaze"
+  CHARACTER: 
+
+047_happy_holidaze.mp3
+  "Happy Holidaze"
+  CHARACTER: 
+
+048_have_have_no_idea_what_any_of_that_meant.mp3
+  "Have have no idea what any of that meant"
+  CHARACTER: 
+
+049_heading_to_pound_town.mp3
+  "Heading to pound town?"
+  CHARACTER: 
+
+050_hellooooo.mp3
+  "Hellooooo!!"
+  CHARACTER: 
+
+051_hot_boxing.mp3
+  "Hot Boxing"
+  CHARACTER: 
+
+052_how_can_you_afford_to_live_in_a_place_like_this.mp3
+  "Afford a place like this?"
+  CHARACTER: 
+
+053_i_am_back_on_my_ninja_kick.mp3
+  "I am back on my ninja kick"
+  CHARACTER: 
+
+054_i_am_special.mp3
+  "I Am Special"
+  CHARACTER: 
+
+055_i_am_stoned.mp3
+  "I Am Stoned"
+  CHARACTER: 
+
+056_i_haven_t_seen_beauty_and_the_beast_in_7_years.mp3
+  "I haven't seen Beauty And The Beast In 7 years"
+  CHARACTER: 
+
+057_i_just_charge_it_to_the_game.mp3
+  "I just charge it to the game"
+  CHARACTER: 
+
+058_i_like_that.mp3
+  "I Like That"
+  CHARACTER: 
+
+059_i_really_like_your_ingenuity.mp3
+  "I really like your ingenuity"
+  CHARACTER: 
+
+060_i_want_you_to_hit_me_so_bad_right_now.mp3
+  "I want you to hit me so bad right now"
+  CHARACTER: 
+
+061_i_wonder_if_gods_a_chick_dude.mp3
+  "I wonder if Gods a chick dude"
+  CHARACTER: 
+
+062_i_m_gonna_get_a_shower_radio.mp3
+  "I'm gonna get a shower radio"
+  CHARACTER: 
+
+063_i_m_not_funny_me.mp3
+  "I'm not funny? Me?"
+  CHARACTER: 
+
+064_i_m_out.mp3
+  "I'm Out"
+  CHARACTER: 
+
+065_i_m_ready.mp3
+  "I'm Ready"
+  CHARACTER: 
+
+066_i_m_sorry_our_money_is_actually_for_beers.mp3
+  "I'm sorry our money is actually for beers"
+  CHARACTER: 
+
+067_it_s_a_cute_raccoon.mp3
+  "It's a cute raccoon"
+  CHARACTER: 
+
+068_it_s_about_time_to_get_this_party_started.mp3
+  "It's about time to get this party started"
+  CHARACTER: 
+
+069_it_s_kicking_in.mp3
+  "It's Kicking In"
+  CHARACTER: 
+
+070_it_s_payback_time.mp3
+  "It's Payback Time"
+  CHARACTER: 
+
+071_just_a_regular_day_in_the_office.mp3
+  "Just a regular day in the office"
+  CHARACTER: 
+
+072_just_tell_me_where_i_need_to_dance.mp3
+  "Just tell me where I need to dance"
+  CHARACTER: 
+
+073_just_throw_it_away_that_s_what_i_do_with_my_std_tests.mp3
+  "I throw away my STD tests"
+  CHARACTER: 
+
+074_lap_hog_condom.mp3
+  "Lap hog condom"
+  CHARACTER: 
+
+075_let_s_blow_dro_bro.mp3
+  "Let's Blow Dro Bro"
+  CHARACTER: 
+
+076_let_s_get_weird.mp3
+  "Let's Get Weird!"
+  CHARACTER: 
+
+077_let_s_go_pound_this_nerd.mp3
+  "Let's go pound this nerd!"
+  CHARACTER: 
+
+078_let_s_go_smoke_weed_about_it.mp3
+  "Let's go smoke weed about it"
+  CHARACTER: 
+
+079_lets_do_acid.mp3
+  "Lets Do Acid"
+  CHARACTER: 
+
+080_living_that_handicap_life.mp3
+  "Living that handicap life"
+  CHARACTER: 
+
+081_looking_straight_grizzly.mp3
+  "Looking straight grizzly"
+  CHARACTER: 
+
+082_may_i_remind_you_you_are_under_oath.mp3
+  "May I remind you, you are under oath"
+  CHARACTER: 
+
+083_mmhmm.mp3
+  "MmHmm"
+  CHARACTER: 
+
+084_montez.mp3
+  "Montez"
+  CHARACTER: 
+
+085_nerd.mp3
+  "Nerd!"
+  CHARACTER: 
+
+086_night_at_the_museum_of_tolerance_of_alcohol.mp3
+  "Night at the museum of tolerance of alcohol"
+  CHARACTER: 
+
+087_no.mp3
+  "No!"
+  CHARACTER: 
+
+088_not_better_just_different.mp3
+  "Not better just different"
+  CHARACTER: 
+
+089_oh_i_like_that.mp3
+  "Oh I like that"
+  CHARACTER: 
+
+090_oh_you_wanna_yell.mp3
+  "Oh you wanna yell?"
+  CHARACTER: 
+
+091_omg_pauly_shore.mp3
+  "OMG Pauly Shore!!"
+  CHARACTER: 
+
+092_ooooo.mp3
+  "Ooooo"
+  CHARACTER: 
+
+093_pointing_fingers_already.mp3
+  "Pointing Fingers Already?"
+  CHARACTER: 
+
+094_poop_dollar.mp3
+  "Poop Dollar!"
+  CHARACTER: 
+
+095_scientists_better_check_their_hypotenuses_dude.mp3
+  "Scientists better check their hypotenuses dude"
+  CHARACTER: 
+
+096_screw_it.mp3
+  "Screw it"
+  CHARACTER: 
+
+097_screw_it.mp3
+  "Screw it"
+  CHARACTER: 
+
+098_serve_my_man_up_with_some_of_that_indo.mp3
+  "Serve my man up with some of that indo"
+  CHARACTER: 
+
+099_smart_move.mp3
+  "Smart Move"
+  CHARACTER: 
+
+100_smoking_that_damn_hashish.mp3
+  "Smoking That Damn Hashish"
+  CHARACTER: 
+
+101_sock_puppets.mp3
+  "Sock puppets"
+  CHARACTER: 
+
+102_sorry_dude.mp3
+  "Sorry Dude"
+  CHARACTER: 
+
+103_take_a_picture_it_might_last_longer.mp3
+  "Take a picture it might last longer"
+  CHARACTER: 
+
+104_take_a_rip.mp3
+  "Take A Rip"
+  CHARACTER: 
+
+105_thank_you_for_wasting_my_time.mp3
+  "Thank you for wasting my time"
+  CHARACTER: 
+
+106_thanks_for_this_apron_man.mp3
+  "Thanks for this apron man"
+  CHARACTER: 
+
+107_that_s_a_character_flaw_but_i_ll_take_it.mp3
+  "That's a character flaw, but I'll take it"
+  CHARACTER: 
+
+108_that_s_bad.mp3
+  "That's Bad @$"
+  CHARACTER: 
+
+109_that_s_not_happening.mp3
+  "That's Not Happening"
+  CHARACTER: 
+
+110_the_snacksters_are_back.mp3
+  "The snacksters are back"
+  CHARACTER: 
+
+111_they_can_smell_my_hog_a_mile_away.mp3
+  "They can smell my hog a mile away"
+  CHARACTER: 
+
+112_this_is_so_dumb_i_m_not_gonna_do_this.mp3
+  "This is so dumb, I'm not gonna do this"
+  CHARACTER: 
+
+113_today_is_my_birthday.mp3
+  "Today is My Birthday"
+  CHARACTER: 
+
+114_two_years_of_sobriety_gone.mp3
+  "Two years of sobriety, gone"
+  CHARACTER: 
+
+115_we_are_ninja_turtles.mp3
+  "We are ninja turtles"
+  CHARACTER: 
+
+116_we_are_the_rat_busters.mp3
+  "We are the rat busters!"
+  CHARACTER: 
+
+117_we_re_calling_it_grass_now.mp3
+  "We're calling it grass now"
+  CHARACTER: 
+
+118_we_re_pretty_butthurt_about_it.mp3
+  "We're pretty butthurt about it"
+  CHARACTER: 
+
+119_we_ve_got_to_see_that_dick.mp3
+  "We've got to see that dick"
+  CHARACTER: 
+
+120_we_ve_run_out_of_things_we_smeeoke.mp3
+  "We've Run Out of Things We Smeeoke"
+  CHARACTER: 
+
+121_what_do_you_little_boys_know_about_butt_fun_nothin.mp3
+  "What do you little boys know about butt fun? Nothin'"
+  CHARACTER: 
+
+122_what_s_in_the_box.mp3
+  "What's In The Box?!"
+  CHARACTER: 
+
+123_what_s_the_difference_between_dead_babies_and_sand.mp3
+  "What's the difference between dead babies and sand?"
+  CHARACTER: 
+
+124_where_s_the_weed.mp3
+  "Where's The Weed?"
+  CHARACTER: 
+
+125_where_s_your_half_christmas_spirit.mp3
+  "Where's your Half Christmas spirit"
+  CHARACTER: 
+
+126_who_believes_in_scientists.mp3
+  "Who believes in scientists?"
+  CHARACTER: 
+
+127_who_still_wears_a_puka_shell_necklace.mp3
+  "Who still wears a puka shell necklace?"
+  CHARACTER: 
+
+128_whose_weed_is_that.mp3
+  "Whose weed is that?"
+  CHARACTER: 
+
+129_why_are_you_so_worried_about_banners_dude.mp3
+  "Why are you so worried about banners dude"
+  CHARACTER: 
+
+130_wizard_rap.mp3
+  "Wizard Rap"
+  CHARACTER: 
+
+131_work_a_holics.mp3
+  "Work a holics"
+  CHARACTER: 
+
+132_workaholics.mp3
+  "Workaholics"
+  CHARACTER: 
+
+133_workaholics.mp3
+  "Workaholics"
+  CHARACTER: 
+
+134_workaholics_kick_it.mp3
+  "Workaholics Kick It"
+  CHARACTER: 
+
+135_yeah_right_come_on_man.mp3
+  "Yeah right, come on man"
+  CHARACTER: 
+
+136_yeah.mp3
+  "Yeah!"
+  CHARACTER: 
+
+137_you_are_fully_torqued_bro.mp3
+  "You are fully torqued, bro"
+  CHARACTER: 
+
+138_you_can_t_be_snacking_on_my_snacks.mp3
+  "You can't be snacking on my snacks!"
+  CHARACTER: 
+
+139_you_don_t_need_to_be_rude.mp3
+  "You don't need to be rude"
+  CHARACTER: 
+
+140_you_don_t_think_i_m_funny.mp3
+  "You don't think I'm funny?"
+  CHARACTER: 
+
+141_you_guys_ready_to_get_weird_tonight.mp3
+  "You guys ready to get weird tonight?"
+  CHARACTER: 
+
+142_you_guys_smoke_way_to_much.mp3
+  "You guys smoke way to much"
+  CHARACTER: 
+
+143_you_know_how_many_minutes_of_tinkering_that_took_me.mp3
+  "You know how many minutes of tinkering that took me?"
+  CHARACTER: 
+
+144_you_lied_to_me_my_whole_life.mp3
+  "You lied to me my whole life"
+  CHARACTER: 
+
+145_you_look_horrible.mp3
+  "You Look Horrible"
+  CHARACTER: 
+
+146_you_make_me_all_flustered.mp3
+  "You make me all flustered"
+  CHARACTER: 
+
+147_you_play_sports.mp3
+  "You play sports?"
+  CHARACTER: 
+
+148_you_think_you_re_god_bro.mp3
+  "You think you're God bro?"
+  CHARACTER: 
+
+149_you_two_are_on_my_list.mp3
+  "You two are on my $%@! list"
+  CHARACTER: 
+
+150_you_re_intruding_my_office_space.mp3
+  "You're intruding my office space"
+  CHARACTER: 
+
+151_you_re_not_funny.mp3
+  "You're Not Funny"
+  CHARACTER: 
+
+152_your_look_is_the_loosest_butthole.mp3
+  "Your look is the loosest butthole"
+  CHARACTER: 
+
+153_40_s.mp3
+  "40's!!!"
+  CHARACTER: 

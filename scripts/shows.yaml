@@ -1129,3 +1129,116 @@ shows:
       primary: "#16a085"         # Flint Tropics teal
       accent:  "#e67e22"         # Tropics orange
       bg:      "#05100d"         # dark
+
+  - id: napoleon-dynamite
+    name: "Napoleon Dynamite"
+    board_url: "https://www.101soundboards.com/boards/20247-napoleon-dynamite-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # labels cleaned to short handles; transcripts.txt authoritative
+    dedup: true                  # remove repeated-transcript dupes
+    max_length: 9999             # keep all (cleanup via labeling pass)
+    # poisoned -soundboard board (ID<1M, no year): ding verified -> scraper auto-trims 1s (no no_trim)
+    theme:
+      primary: "#d98b2b"         # warm orange/tan (2004 indie palette)
+      accent:  "#c0392b"         # Vote-for-Pedro red
+      bg:      "#0a0805"         # dark
+
+  - id: workaholics
+    name: "Workaholics"
+    board_url: "https://www.101soundboards.com/boards/84284-workaholics-soundboard"
+    status: pending
+    type: show
+    text_style: "title"
+    preserve_transcripts: true   # board captions already short labels; light cleanup
+    max_length: 9999             # include all
+    # poisoned -soundboard board (ID<1M, no year): ding verified via PCM fingerprint -> auto-trims 1s (no no_trim)
+    theme:
+      primary: "#6ab04c"         # weed green
+      accent:  "#e67e22"         # orange
+      bg:      "#080a06"         # dark
+
+  - id: chappelles-show
+    name: "Chappelle's Show"
+    board_url: "https://www.101soundboards.com/boards/85970-chappelle-show-soundboard"
+    status: pending
+    type: show
+    text_style: "title"          # board captions already short labels
+    preserve_transcripts: true   # light cleanup + rename "Dave Chappelle" -> "I'm rich bitch"
+    max_length: 9999             # include all
+    # poisoned -soundboard board (ID<1M, no year): ding verified via PCM fingerprint -> auto-trims 1s (no no_trim)
+    theme:
+      primary: "#c0392b"         # Comedy Central / logo red
+      accent:  "#e0a82e"         # gold
+      bg:      "#0a0606"         # dark
+
+  - id: trailer-park-boys
+    name: "Trailer Park Boys"
+    board_url: "https://www.101soundboards.com/boards/85927-trailer-park-boys-soundboard"
+    status: pending
+    type: show
+    text_style: "title"          # board captions already short labels
+    preserve_transcripts: true   # light cleanup
+    max_length: 9999             # include all
+    # poisoned -soundboard board (ID<1M, no year): ding verified via PCM fingerprint -> auto-trims 1s (no no_trim)
+    theme:
+      primary: "#5a8f3a"         # Sunnyvale grass green
+      accent:  "#b5651d"         # rum-and-coke brown
+      bg:      "#070a05"         # dark
+
+  - id: blades-of-glory
+    name: "Blades of Glory"
+    board_url: "https://www.101soundboards.com/boards/85194-blades-of-glory-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"          # board captions already short labels
+    preserve_transcripts: true   # light cleanup
+    max_length: 9999             # include all
+    # poisoned -soundboard board (ID<1M, no year): ding verified via PCM fingerprint -> auto-trims 1s (no no_trim)
+    theme:
+      primary: "#7b5ea7"         # figure-skating purple/sequins
+      accent:  "#3aa6db"         # ice blue
+      bg:      "#08060d"         # dark
+
+  - id: grown-ups
+    name: "Grown Ups"
+    board_url: "https://www.101soundboards.com/boards/1389600-grown-ups-2010"
+    status: pending
+    type: movie
+    text_style: "title"          # caption-style board; labels hand-cleaned to short handles
+    preserve_transcripts: true   # captions cleaned to short labels; transcripts.txt authoritative
+    max_length: 9999             # include all
+    no_trim: true                # MODERN board (ID>=1M, -2010 slug): audio verified CLEAN (no ding) -> do NOT trim
+    theme:
+      primary: "#3aa6db"         # summer-lake blue
+      accent:  "#e0a82e"         # sun gold
+      bg:      "#05080d"         # dark
+
+  - id: the-waterboy
+    name: "The Waterboy"
+    board_url: "https://www.101soundboards.com/boards/28502-the-waterboy-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"          # caption-style board; labels hand-cleaned to short handles
+    preserve_transcripts: true   # captions cleaned to short labels; transcripts.txt authoritative
+    max_length: 9999             # include all
+    # poisoned -soundboard board (ID<1M, no year): ding verified via PCM fingerprint -> auto-trims 1s (no no_trim)
+    theme:
+      primary: "#2b6cb0"         # Mud Dogs blue
+      accent:  "#e0a82e"         # gold
+      bg:      "#05070a"         # dark
+
+  - id: the-longest-yard
+    name: "The Longest Yard"
+    board_url: "https://www.101soundboards.com/boards/83973-the-longest-yard-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"          # board captions already short labels
+    preserve_transcripts: true   # light cleanup (fix a couple of typos)
+    max_length: 9999             # include all
+    # poisoned -soundboard board (ID<1M, no year): ding verified via PCM fingerprint -> auto-trims 1s (no no_trim)
+    theme:
+      primary: "#8c4a2f"         # prison-yard brown/orange
+      accent:  "#d9b04a"         # gold
+      bg:      "#0a0705"         # dark

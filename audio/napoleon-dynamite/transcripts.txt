@@ -1,0 +1,655 @@
+001_a_frickin_12_gauge.mp3
+  "A frickin 12 gauge"
+  CHARACTER: 
+
+002_are_you_serious.mp3
+  "Are you serious?"
+  CHARACTER: 
+
+003_are_you_still_going_to_give_your_speech_tomorrow.mp3
+  "Are you still going to give your speech tomorrow"
+  CHARACTER: 
+
+004_ate_all_the_frickin_chips_kip.mp3
+  "Ate all the frickin chips, Kip!"
+  CHARACTER: 
+
+005_back_in_eighty_two_i_used_to_be_able_to_throw_a_pigskin_a_qu.mp3
+  "Throw a pigskin a quarter mile"
+  CHARACTER: 
+
+006_bike.mp3
+  "Bike"
+  CHARACTER: 
+
+007_bow_to_your_sensei.mp3
+  "Bow to your sensei"
+  CHARACTER: 
+
+008_build_her_a_cake_or_something.mp3
+  "Build her a cake or something"
+  CHARACTER: 
+
+009_but_my_lips_hurt_real_bad.mp3
+  "But my lips hurt real bad"
+  CHARACTER: 
+
+010_can_i_have_your_tots.mp3
+  "Can I have your tots"
+  CHARACTER: 
+
+011_can_i_try_it_really_quick.mp3
+  "Can I try it really quick?"
+  CHARACTER: 
+
+012_can_you_bring_me_my_chapstick.mp3
+  "Can you bring me my chapstick?"
+  CHARACTER: 
+
+013_can_t_find_my_checkbook_hope_you_don_t_mind_if_i_pay_you_in.mp3
+  "Pay you in change"
+  CHARACTER: 
+
+014_car_problem.mp3
+  "Car problem"
+  CHARACTER: 
+
+015_chap_stick.mp3
+  "Chap stick"
+  CHARACTER: 
+
+016_chickens.mp3
+  "Chickens"
+  CHARACTER: 
+
+017_chips_kip.mp3
+  "Chips kip"
+  CHARACTER: 
+
+018_computer_hacking_skills.mp3
+  "Computer hacking skills"
+  CHARACTER: 
+
+019_dance.mp3
+  "Dance!"
+  CHARACTER: 
+
+020_dang.mp3
+  "Dang"
+  CHARACTER: 
+
+021_did_you_take_a_dump_in_your_bed_last_night.mp3
+  "Did you take a dump in your bed last night"
+  CHARACTER: 
+
+022_do_the_chickens_have_large_talons.mp3
+  "Do the chickens have large talons"
+  CHARACTER: 
+
+023_do_the_chickens_have_large_talons.mp3
+  "Do the chickens have large talons?"
+  CHARACTER: 
+
+024_don_t_be_jealous_i_ve_been_chatting_online_with_babes_all_da.mp3
+  "Chatting online with babes all day"
+  CHARACTER: 
+
+026_dump_in_the_bed.mp3
+  "Dump in the bed"
+  CHARACTER: 
+
+027_fine.mp3
+  "Fine!"
+  CHARACTER: 
+
+028_freakin_idiot.mp3
+  "Freakin Idiot"
+  CHARACTER: 
+
+029_get_off_my_property_i_ll_call_the_cops_on_you.mp3
+  "Get off my property I'll call the cops on you"
+  CHARACTER: 
+
+030_gibberish.mp3
+  "Gibberish"
+  CHARACTER: 
+
+031_girls_only_want_boyfriends_have_great_skills.mp3
+  "Girls only want boyfriends who have great skills"
+  CHARACTER: 
+
+033_go_for_it.mp3
+  "Go for it"
+  CHARACTER: 
+
+034_gosh.mp3
+  "Gosh"
+  CHARACTER: 
+
+035_grandma_just_called_and_said_you_re_supposed_to_go_home.mp3
+  "Grandma said you're supposed to go home"
+  CHARACTER: 
+
+036_gross.mp3
+  "Gross"
+  CHARACTER: 
+
+037_gross.mp3
+  "Gross!"
+  CHARACTER: 
+
+038_happy_hands_club.mp3
+  "Happy hands club"
+  CHARACTER: 
+
+039_have_you_ever_heard_of_nylon_polymer.mp3
+  "Have you ever heard of nylon polymer"
+  CHARACTER: 
+
+040_have_you_heard_about_the_dance.mp3
+  "Have you heard about the dance"
+  CHARACTER: 
+
+041_heck_yes_i_did.mp3
+  "Heck yes I did."
+  CHARACTER: 
+
+042_hello.mp3
+  "Hello"
+  CHARACTER: 
+
+043_hey.mp3
+  "Hey"
+  CHARACTER: 
+
+044_hey_can_i_have_one_of_your_key_chains.mp3
+  "Hey can I have one of your key chains"
+  CHARACTER: 
+
+045_hold_on_i_forgot_to_put_in_the_crystals.mp3
+  "Hold on I forgot to put in the crystals"
+  CHARACTER: 
+
+046_how_much_you_wanna_make_a_bet_i_can_throw_a_football_over_th.mp3
+  "Throw a football over the mountains"
+  CHARACTER: 
+
+047_how_to_get_my_haircut_at_the_cotton_corral.mp3
+  "How to get my haircut at the cotton corral"
+  CHARACTER: 
+
+048_how_s_it_going.mp3
+  "How's it going"
+  CHARACTER: 
+
+049_how_s_your_neck.mp3
+  "How's your neck"
+  CHARACTER: 
+
+050_hunting_wolverines.mp3
+  "Hunting wolverines"
+  CHARACTER: 
+
+051_i_can_make_that_much_money_in_5_seconds.mp3
+  "I can make that much money in 5 seconds"
+  CHARACTER: 
+
+052_i_caught_you_a_delicious_bass.mp3
+  "I caught you a delicious bass"
+  CHARACTER: 
+
+053_i_don_t_feel_very_good.mp3
+  "I don't feel very good"
+  CHARACTER: 
+
+054_i_don_t_understand_a_word_you_just_said.mp3
+  "I don't understand a word you just said"
+  CHARACTER: 
+
+055_i_forgot_to_put_in_the_crystals.mp3
+  "I forgot to put in the crystals"
+  CHARACTER: 
+
+056_i_got_sick.mp3
+  "I got sick"
+  CHARACTER: 
+
+057_i_guess_we_could_say_things_are_getting_pretty_serious.mp3
+  "Things are getting pretty serious"
+  CHARACTER: 
+
+058_i_like_her_bangs.mp3
+  "I like her bangs"
+  CHARACTER: 
+
+059_i_like_your_sleeves_they_re_real_big.mp3
+  "I like your sleeves, they're real big"
+  CHARACTER: 
+
+060_i_need_you_to_give_me_a_ride_in_an_hour.mp3
+  "I need you to give me a ride in an hour"
+  CHARACTER: 
+
+061_i_say_love_it_is_a_flower.mp3
+  "I say love, it is a flower"
+  CHARACTER: 
+
+062_i_see_you_re_drinking_1.mp3
+  "I see you're drinking 1%"
+  CHARACTER: 
+
+063_i_want_that.mp3
+  "I want that"
+  CHARACTER: 
+
+064_i_wish_you_get_out_my_life_and_shut_up.mp3
+  "I wish you'd get out of my life and shut up"
+  CHARACTER: 
+
+066_i_m_voting_for_pedro_sanchez.mp3
+  "I'm voting for Pedro Sanchez"
+  CHARACTER: 
+
+067_idiot.mp3
+  "Idiot"
+  CHARACTER: 
+
+068_idiot.mp3
+  "Idiot!"
+  CHARACTER: 
+
+069_is_a_sledgehammer.mp3
+  "Is a sledgehammer"
+  CHARACTER: 
+
+070_is_grandma_there.mp3
+  "Is grandma there"
+  CHARACTER: 
+
+071_is_pedro_there.mp3
+  "Is pedro there"
+  CHARACTER: 
+
+072_is_she_hot.mp3
+  "Is she hot?"
+  CHARACTER: 
+
+073_it_s_like_a_dollar_an_hour.mp3
+  "It's like a dollar an hour"
+  CHARACTER: 
+
+074_it_s_pretty_cool_i_guess.mp3
+  "It's pretty cool, I guess"
+  CHARACTER: 
+
+075_just_kinda_to_d.mp3
+  "Just kinda TO'd"
+  CHARACTER: 
+
+076_just_listen_to_your_heart.mp3
+  "Just listen to your heart"
+  CHARACTER: 
+
+077_k_bye.mp3
+  "K, bye."
+  CHARACTER: 
+
+078_kids_screaming.mp3
+  "Kids Screaming"
+  CHARACTER: 
+
+079_kip_and_lafawnduh_s_first_date.mp3
+  "Kip and LaFawnduh's first date"
+  CHARACTER: 
+
+080_kip_goes_bowling.mp3
+  "Kip goes bowling"
+  CHARACTER: 
+
+081_large_tallons.mp3
+  "Large Talons"
+  CHARACTER: 
+
+082_last_week_japanese_scientist_six_place_place_explosive_deton.mp3
+  "Detonators to blow Nessie out of the water"
+  CHARACTER: 
+
+083_looks_like_a_medieval_warrior.mp3
+  "Looks like a medieval warrior"
+  CHARACTER: 
+
+084_lucky.mp3
+  "Lucky"
+  CHARACTER: 
+
+085_make_yourself_a_dang_quesadilla.mp3
+  "Make yourself a dang quesadilla"
+  CHARACTER: 
+
+086_making_some_sweet_moola_with_uncle_rico.mp3
+  "Making some sweet moola with Uncle Rico"
+  CHARACTER: 
+
+087_maybe_i_did_maybe_i_didn_t.mp3
+  "Maybe I did maybe I didn't"
+  CHARACTER: 
+
+088_me_too.mp3
+  "Me too"
+  CHARACTER: 
+
+089_mole.mp3
+  "Mole"
+  CHARACTER: 
+
+090_my_lips_hurt_real_bad.mp3
+  "My lips hurt real bad"
+  CHARACTER: 
+
+091_napoleon_dynamite.mp3
+  "Napoleon Dynamite"
+  CHARACTER: 
+
+092_no.mp3
+  "No"
+  CHARACTER: 
+
+093_nunchuck_skills.mp3
+  "Nunchuck skills"
+  CHARACTER: 
+
+094_oh.mp3
+  "Oh"
+  CHARACTER: 
+
+095_ok.mp3
+  "OK"
+  CHARACTER: 
+
+096_peace_out.mp3
+  "Peace out"
+  CHARACTER: 
+
+097_pedro_offers_you_his_protection.mp3
+  "Pedro offers you his protection"
+  CHARACTER: 
+
+098_pedro_s_feeling_hot.mp3
+  "Pedro's feeling hot"
+  CHARACTER: 
+
+099_probably_the_best_drawing_i_ve_ever_done.mp3
+  "Probably the best drawing I've ever done"
+  CHARACTER: 
+
+100_probably_the_best_that_i_know_of.mp3
+  "Probably the best that I know of"
+  CHARACTER: 
+
+101_pull_me_in.mp3
+  "Pull me in"
+  CHARACTER: 
+
+102_rex_kwon_do_sales_pitch.mp3
+  "Rex Kwon Do sales pitch"
+  CHARACTER: 
+
+103_round_house.mp3
+  "Round house"
+  CHARACTER: 
+
+104_see_ya.mp3
+  "See ya"
+  CHARACTER: 
+
+105_she_said_she_doesn_t_want_you_here_when_she_gets_back_becaus.mp3
+  "She doesn't want you here"
+  CHARACTER: 
+
+106_she_s_pretty_good_looking.mp3
+  "She's pretty good looking"
+  CHARACTER: 
+
+107_shut_up_i_am_not.mp3
+  "Shut up I am not"
+  CHARACTER: 
+
+108_slap_fight.mp3
+  "Slap fight"
+  CHARACTER: 
+
+109_so_me_and_you_are_pretty_much_friends_by_now_right.mp3
+  "We're pretty much friends, right?"
+  CHARACTER: 
+
+110_so_piece_of_crap_doesn_t_work.mp3
+  "Piece of crap doesn't work"
+  CHARACTER: 
+
+111_soaking_up_solely.mp3
+  "Soaking up the sun"
+  CHARACTER: 
+
+112_such_an_idiot.mp3
+  "Such an idiot"
+  CHARACTER: 
+
+113_sweet.mp3
+  "Sweet"
+  CHARACTER: 
+
+114_that_was_the_one_i_think_that_s_gonna_come_out_really_nice.mp3
+  "Gonna come out really nice"
+  CHARACTER: 
+
+115_that_s_too_bad.mp3
+  "That's too bad"
+  CHARACTER: 
+
+116_that_s_what_i_m_talkin_about.mp3
+  "That's what I'm talkin about"
+  CHARACTER: 
+
+117_that_s_what_i_m_talking_about.mp3
+  "That's what I'm talking about"
+  CHARACTER: 
+
+118_the_worst_day_of_my_life.mp3
+  "The worst day of my life"
+  CHARACTER: 
+
+119_they_kept_trying_to_attack_my_cousins_what_the_heck_would_yo.mp3
+  "What would you do in that situation?"
+  CHARACTER: 
+
+120_this_is_a_girl.mp3
+  "This is a girl"
+  CHARACTER: 
+
+121_this_is_pretty_much_the_worst_video_ever_made.mp3
+  "The worst video ever made"
+  CHARACTER: 
+
+122_this_one_gang_kept_wanting_me_to_join_because_i_m_pretty_goo.mp3
+  "Pretty good with a bo staff"
+  CHARACTER: 
+
+123_three_feet_of_air.mp3
+  "Three feet of air"
+  CHARACTER: 
+
+124_time_machine.mp3
+  "Time machine"
+  CHARACTER: 
+
+125_tina_come_get_some_ham.mp3
+  "Tina come get some ham"
+  CHARACTER: 
+
+126_tina_you_fat_lard.mp3
+  "Tina you fat lard"
+  CHARACTER: 
+
+127_took_me_like_three_hours_to_finish_the_shading_on_your_upper.mp3
+  "Three hours shading your upper lip"
+  CHARACTER: 
+
+128_tupperware_demo_fail.mp3
+  "Tupperware demo fail"
+  CHARACTER: 
+
+129_ugh.mp3
+  "Ugh"
+  CHARACTER: 
+
+130_ugh_gross.mp3
+  "Ugh gross"
+  CHARACTER: 
+
+131_uncle_rico_back_in_82.mp3
+  "Uncle Rico back in '82"
+  CHARACTER: 
+
+132_uncle_rico_glory_days.mp3
+  "Uncle Rico glory days"
+  CHARACTER: 
+
+133_uncle_rico_go_back_in_time.mp3
+  "Uncle Rico go back in time"
+  CHARACTER: 
+
+134_uncle_rico_go_pro.mp3
+  "Uncle Rico go pro"
+  CHARACTER: 
+
+135_vote_for_pedro.mp3
+  "Vote for Pedro"
+  CHARACTER: 
+
+136_watt.mp3
+  "Watt"
+  CHARACTER: 
+
+137_well_nobody_s_going_to_go_out_with_me.mp3
+  "Nobody's going to go out with me"
+  CHARACTER: 
+
+138_well_what_s_there_to_eat.mp3
+  "Well what's there to eat?"
+  CHARACTER: 
+
+139_what.mp3
+  "What"
+  CHARACTER: 
+
+140_what_did_you_go_eat_in_to_quote_a_piece_of_crap.mp3
+  "It's a piece of crap"
+  CHARACTER: 
+
+141_what_kind_of_bike_do_you_have.mp3
+  "What kind of bike do you have"
+  CHARACTER: 
+
+142_whatever_i_feel_like_i_want_to_do.mp3
+  "Whatever I feel like I want to do"
+  CHARACTER: 
+
+143_whatever_i_feel_like_i_want_to_say.mp3
+  "Whatever I feel like I want to say"
+  CHARACTER: 
+
+144_where_did_you_go_tell_your_mom_to_shut_up.mp3
+  "Go tell your mom to shut up"
+  CHARACTER: 
+
+145_who_are_you.mp3
+  "Who are you"
+  CHARACTER: 
+
+146_who_are_you_going_to_ask.mp3
+  "Who are you going to ask"
+  CHARACTER: 
+
+147_who_is_the_only_one_here_knows_illegal_ninja_moves_from_the.mp3
+  "Illegal ninja moves from the government"
+  CHARACTER: 
+
+148_why.mp3
+  "Why"
+  CHARACTER: 
+
+149_worst_video_ever.mp3
+  "Worst video ever"
+  CHARACTER: 
+
+150_yeah_right.mp3
+  "Yeah right"
+  CHARACTER: 
+
+151_yes.mp3
+  "Yes"
+  CHARACTER: 
+
+152_yes_i_love_technology.mp3
+  "Yes, I love technology"
+  CHARACTER: 
+
+153_yes_yes_yes_yes.mp3
+  "Yes! Yes! Yes! Yes!"
+  CHARACTER: 
+
+154_yessss_kip.mp3
+  "Yessss (Kip)"
+  CHARACTER: 
+
+155_you_already_know_what_you_re_going_to_say.mp3
+  "You already know what you're going to say"
+  CHARACTER: 
+
+156_you_can_say_that_again.mp3
+  "You can say that again"
+  CHARACTER: 
+
+158_you_don_t_have_to_stay_here_with_us_we_re_not_babies.mp3
+  "We're not babies"
+  CHARACTER: 
+
+159_you_ever_take_it_off_any_sweet_jumps.mp3
+  "You ever take it off any sweet jumps"
+  CHARACTER: 
+
+160_you_gonna_eat_your_tots.mp3
+  "You gonna eat your tots?"
+  CHARACTER: 
+
+161_you_guys_are_retarded.mp3
+  "You guys are retarded"
+  CHARACTER: 
+
+162_you_guys_have_any_killer_time.mp3
+  "You guys have any killer time"
+  CHARACTER: 
+
+163_you_guys_having_a_killer_time.mp3
+  "You guys having a killer time"
+  CHARACTER: 
+
+164_you_just_come_get_maine.mp3
+  "You just come get me"
+  CHARACTER: 
+
+165_you_re_good_at_hooking_up_with_chicks.mp3
+  "You're good at hooking up with chicks"
+  CHARACTER: 
+
+166_you_re_such_an_idiot.mp3
+  "You're such an idiot"
+  CHARACTER: 
+
+167_your_mom_goes_to_college.mp3
+  "Your mom goes to college"
+  CHARACTER: 
+
+168_1_milk.mp3
+  "1% Milk"
+  CHARACTER: 

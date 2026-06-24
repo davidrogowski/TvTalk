@@ -1,0 +1,35 @@
+001_i_am_never_satisfied.mp3
+  "I am never satisfied"
+  CHARACTER: 
+
+002_i_dont_even_know_what_that_means.mp3
+  "I dont even know what that means"
+  CHARACTER: 
+
+003_i_want_you.mp3
+  "I Want You"
+  CHARACTER: 
+
+004_looking_is_free_touching_is_gonna_cost_you_something.mp3
+  "Looking is free, touching is gonna cost you something"
+  CHARACTER: 
+
+005_mind_bottling_isn_t_it.mp3
+  "Mind bottling, isn't it?"
+  CHARACTER: 
+
+006_no_one_knows_what_it_means.mp3
+  "No one knows what it means"
+  CHARACTER: 
+
+007_troubled.mp3
+  "Troubled"
+  CHARACTER: 
+
+008_we_re_gonna_skate_to_one_song.mp3
+  "We're gonna skate to one song"
+  CHARACTER: 
+
+009_you_have_officially_given_me_a_boner.mp3
+  "You have officially given me a boner"
+  CHARACTER: 

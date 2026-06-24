@@ -1,0 +1,415 @@
+001_a_little_puff_from_time_to_time.mp3
+  "A little puff from time to time"
+  CHARACTER: 
+
+002_are_you_guys_crying.mp3
+  "Are you guys crying?"
+  CHARACTER: 
+
+003_are_you_really_this_stupid.mp3
+  "Are you really this stupid?"
+  CHARACTER: 
+
+004_ask_me_if_i_care.mp3
+  "Ask me if I care"
+  CHARACTER: 
+
+005_ate_nine_cans_of_ravioli.mp3
+  "Ate nine cans of ravioli"
+  CHARACTER: 
+
+006_blah_blah_blah.mp3
+  "Blah Blah Blah"
+  CHARACTER: 
+
+007_bubbles_says_goodbye_to_steve.mp3
+  "Bubbles says goodbye to Steve`"
+  CHARACTER: 
+
+008_bubbles_breakfast_dream.mp3
+  "Bubbles' Breakfast Dream"
+  CHARACTER: 
+
+009_can_you_go_fuck_yourself.mp3
+  "Can you go fuck yourself?"
+  CHARACTER: 
+
+010_can_you_read.mp3
+  "Can you read?"
+  CHARACTER: 
+
+011_come_check_this_shit_out.mp3
+  "Come check this shit out"
+  CHARACTER: 
+
+012_commander_bubbles.mp3
+  "Commander Bubbles"
+  CHARACTER: 
+
+013_conky_yelling.mp3
+  "Conky Yelling"
+  CHARACTER: 
+
+014_cory_gets_too_high.mp3
+  "Cory Gets too High"
+  CHARACTER: 
+
+015_don_t_give_me_a_rough_time.mp3
+  "Don't give me a rough time"
+  CHARACTER: 
+
+016_falling_down_stairs.mp3
+  "Falling Down Stairs"
+  CHARACTER: 
+
+017_for_fucks_sakes.mp3
+  "For Fucks Sakes"
+  CHARACTER: 
+
+018_frig_off_barb.mp3
+  "Frig Off Barb"
+  CHARACTER: 
+
+019_fuck_off.mp3
+  "Fuck off"
+  CHARACTER: 
+
+020_get_off_the_stage.mp3
+  "Get off the stage!"
+  CHARACTER: 
+
+021_gimmie_my_cigarette_back.mp3
+  "Gimmie my cigarette back"
+  CHARACTER: 
+
+022_give_him_his_cat.mp3
+  "Give him his cat!"
+  CHARACTER: 
+
+023_give_me_a_smoke_hairdo.mp3
+  "Give me a smoke hairdo!"
+  CHARACTER: 
+
+024_grammar_nazi.mp3
+  "Grammar Nazi"
+  CHARACTER: 
+
+025_green_bastard.mp3
+  "Green Bastard"
+  CHARACTER: 
+
+026_happy_holidays_everybody.mp3
+  "Happy Holidays Everybody"
+  CHARACTER: 
+
+027_here_kitty.mp3
+  "Here kitty"
+  CHARACTER: 
+
+028_i_know_you_re_stressed_out.mp3
+  "I know you're stressed out"
+  CHARACTER: 
+
+029_i_ain_t_got_no_candy_for_you.mp3
+  "I ain't got no candy for you"
+  CHARACTER: 
+
+030_i_am_the_liquor.mp3
+  "I am the Liquor"
+  CHARACTER: 
+
+031_i_beg_your_pardon.mp3
+  "I beg your pardon"
+  CHARACTER: 
+
+032_i_don_t_know_you_tell_me.mp3
+  "I don't know you tell me"
+  CHARACTER: 
+
+033_i_don_t_wanna_talk_to_you_dicks_right_now.mp3
+  "I don't wanna talk to you dicks right now"
+  CHARACTER: 
+
+034_i_found_him_in_a_storm_drain.mp3
+  "I found him in a storm drain"
+  CHARACTER: 
+
+035_i_guess_we_re_going_home_then.mp3
+  "I guess we're going home then"
+  CHARACTER: 
+
+036_i_love_the_flea_market.mp3
+  "I love the flea market"
+  CHARACTER: 
+
+037_i_never_had_a_phone_before.mp3
+  "I never had a phone before"
+  CHARACTER: 
+
+038_i_plan_on_getting_drunk_as_fuck_tonight.mp3
+  "I plan on getting drunk as fuck tonight!"
+  CHARACTER: 
+
+039_i_plan_to_get_drunk.mp3
+  "I plan to get drunk"
+  CHARACTER: 
+
+040_i_quit.mp3
+  "I quit!"
+  CHARACTER: 
+
+041_i_m_not_wanted_here.mp3
+  "I'm not wanted here"
+  CHARACTER: 
+
+042_i_m_the_guy_that_looks_after_all_the_kitties.mp3
+  "I'm the guy that looks after all the kitties"
+  CHARACTER: 
+
+043_if_i_cant_smoke_and_cuss_i_m_fucked.mp3
+  "If I cant smoke and cuss i'm fucked"
+  CHARACTER: 
+
+044_if_you_love_something_let_it_go.mp3
+  "If you love something let it go"
+  CHARACTER: 
+
+045_it_s_just_not_my_scene.mp3
+  "It's just not my scene"
+  CHARACTER: 
+
+046_it_s_none_of_your_business.mp3
+  "It's none of your business"
+  CHARACTER: 
+
+047_it_s_not_a_big_deal.mp3
+  "It's not a big deal"
+  CHARACTER: 
+
+048_jroc_notification.mp3
+  "Jroc Notification"
+  CHARACTER: 
+
+049_king_of_the_carts.mp3
+  "King of the carts"
+  CHARACTER: 
+
+050_knock_knock.mp3
+  "Knock Knock"
+  CHARACTER: 
+
+051_know_what_i_m_saying_dj_cat.mp3
+  "Know What I'm Saying (DJ Cat)"
+  CHARACTER: 
+
+052_lahey_falls_down_stairs.mp3
+  "Lahey falls down stairs"
+  CHARACTER: 
+
+053_lets_go_smokes.mp3
+  "Lets go smokes"
+  CHARACTER: 
+
+054_lets_just_go_spending.mp3
+  "Lets just go spending"
+  CHARACTER: 
+
+055_life_isn_t_about_getting_drunk.mp3
+  "Life isn't about getting drunk"
+  CHARACTER: 
+
+056_most_fucked_up_days_of_my_life.mp3
+  "Most fucked up days of my life"
+  CHARACTER: 
+
+057_no_cat_of_mine_is_gonna_live_in_a_car.mp3
+  "No cat of mine is gonna live in a car"
+  CHARACTER: 
+
+058_no_way.mp3
+  "No Way"
+  CHARACTER: 
+
+059_none_of_your_business.mp3
+  "None of your business"
+  CHARACTER: 
+
+060_obviously_you_don_t_know_who_i_am.mp3
+  "Obviously you don't know who I am"
+  CHARACTER: 
+
+061_on_top_of_the_liquor_part_1.mp3
+  "On Top of the Liquor Part 1"
+  CHARACTER: 
+
+062_on_top_of_the_liquor_part_2.mp3
+  "On Top of the Liquor Part 2"
+  CHARACTER: 
+
+063_open_for_business.mp3
+  "Open For Business"
+  CHARACTER: 
+
+064_peanut_butter_and_jam.mp3
+  "Peanut Butter and Jam"
+  CHARACTER: 
+
+065_people_don_t_realize_how_much_moneys_in_carts.mp3
+  "People don't realize how much moneys in carts"
+  CHARACTER: 
+
+066_pissed_bubbles_and_nunchucks.mp3
+  "Pissed Bubbles and Nunchucks"
+  CHARACTER: 
+
+067_randy_rides_a_bumpy_bus.mp3
+  "Randy rides a bumpy bus"
+  CHARACTER: 
+
+068_ricky_throws_turkey.mp3
+  "Ricky throws turkey"
+  CHARACTER: 
+
+069_safety_always_off.mp3
+  "Safety always off"
+  CHARACTER: 
+
+070_see_this.mp3
+  "See This?"
+  CHARACTER: 
+
+071_shit_hawks_jl.mp3
+  "Shit Hawks JL"
+  CHARACTER: 
+
+072_shit_winds.mp3
+  "Shit Winds"
+  CHARACTER: 
+
+073_shitquake.mp3
+  "ShitQuake"
+  CHARACTER: 
+
+074_shut_the_fuck_up_dog.mp3
+  "Shut the fuck up dog"
+  CHARACTER: 
+
+075_smokes_let_s_go.mp3
+  "Smokes, Let’s go"
+  CHARACTER: 
+
+076_that_s_greasy.mp3
+  "That's Greasy"
+  CHARACTER: 
+
+077_that_s_no_gonna_fuckin_happen.mp3
+  "That's no gonna fuckin happen"
+  CHARACTER: 
+
+078_that_s_one_fuckin_nice_kitty_right_there.mp3
+  "That's one fuckin nice kitty right there"
+  CHARACTER: 
+
+079_the_defense_rests.mp3
+  "The defense rests"
+  CHARACTER: 
+
+080_the_way_she_goes.mp3
+  "The way she goes"
+  CHARACTER: 
+
+081_these_are_my_family_show_them_some_respect.mp3
+  "These are my family show them some respect"
+  CHARACTER: 
+
+082_this_guys_just_drunk.mp3
+  "This guys just drunk"
+  CHARACTER: 
+
+083_this_is_fucked_up.mp3
+  "This is fucked up"
+  CHARACTER: 
+
+084_tpb_hairdo.mp3
+  "TPB Hairdo"
+  CHARACTER: 
+
+085_trying_not_to_cuss.mp3
+  "Trying not to cuss"
+  CHARACTER: 
+
+086_u_lookin_at_my_gut.mp3
+  "U lookin at my gut?"
+  CHARACTER: 
+
+087_we_down_with_chilling_peace.mp3
+  "We down with chilling, Peace"
+  CHARACTER: 
+
+088_well_that_depends.mp3
+  "Well that depends..."
+  CHARACTER: 
+
+089_what.mp3
+  "What?"
+  CHARACTER: 
+
+090_whats_in_the_bag_mafawker.mp3
+  "Whats in the bag Mafawker?"
+  CHARACTER: 
+
+091_which_maybe_i_shouldn_t_have_did.mp3
+  "Which maybe I shouldn't have did"
+  CHARACTER: 
+
+092_why_are_you_dressed_up_like_a_bumble_bee.mp3
+  "Why are you dressed up like a bumble bee"
+  CHARACTER: 
+
+093_why_dont_you_go_fuck_youself.mp3
+  "Why dont you go fuck youself"
+  CHARACTER: 
+
+094_why.mp3
+  "Why?"
+  CHARACTER: 
+
+095_you_don_t_own_space_nasa_does.mp3
+  "You don't own space NASA does"
+  CHARACTER: 
+
+096_you_fuckin_want_one.mp3
+  "You Fuckin Want One?"
+  CHARACTER: 
+
+097_you_got_any_dope_man.mp3
+  "You got any dope man?"
+  CHARACTER: 
+
+098_you_guys_are_so_stupid.mp3
+  "You guys are so stupid"
+  CHARACTER: 
+
+099_you_think_you_re_so_smart.mp3
+  "You think you're so smart"
+  CHARACTER: 
+
+100_you_wouldn_t_understand.mp3
+  "You Wouldn't Understand"
+  CHARACTER: 
+
+101_you_re_being_a_dick.mp3
+  "You're being a dick"
+  CHARACTER: 
+
+102_you_re_fucked_and_always_will_be.mp3
+  "You're fucked and always will be"
+  CHARACTER: 
+
+103_you_re_fucking_losing_it_bud.mp3
+  "You're fucking losing it bud"
+  CHARACTER: 
+
+104_you_re_lucky_i_m_on_probation.mp3
+  "You're lucky I'm on probation"
+  CHARACTER: 

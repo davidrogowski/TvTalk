@@ -1,0 +1,75 @@
+001_black_bush_oil.mp3
+  "Black Bush: Oil"
+  CHARACTER: 
+
+002_chappelle_show_corny.mp3
+  "Chappelle show corny"
+  CHARACTER: 
+
+003_chappelle_vs_godzilla.mp3
+  "Chappelle vs Godzilla"
+  CHARACTER: 
+
+004_dave_chappelle.mp3
+  "I'm rich bitch"
+  CHARACTER: 
+
+005_four_thumbs_down.mp3
+  "Four Thumbs Down"
+  CHARACTER: 
+
+006_grits_n_gravy.mp3
+  "Grits N Gravy"
+  CHARACTER: 
+
+007_he_tried_to_kill_my_father.mp3
+  "He Tried to Kill My Father"
+  CHARACTER: 
+
+008_i_hope_all_the_bad_things_happen_to_you.mp3
+  "I hope all the bad things happen to you"
+  CHARACTER: 
+
+009_in_your_face_charlie_murphy.mp3
+  "In your face, Charlie Murphy"
+  CHARACTER: 
+
+010_man_you_corny.mp3
+  "Man you corny!"
+  CHARACTER: 
+
+011_president_runs_away.mp3
+  "President runs away"
+  CHARACTER: 
+
+012_see_how_we_living.mp3
+  "See how we living"
+  CHARACTER: 
+
+013_stfu.mp3
+  "STFU"
+  CHARACTER: 
+
+014_that_was_coldblooded.mp3
+  "That was coldblooded"
+  CHARACTER: 
+
+015_this_some_good_ass_cheese.mp3
+  "This some good ass cheese"
+  CHARACTER: 
+
+016_yaddy_yaddy_yadda.mp3
+  "Yaddy Yaddy Yadda"
+  CHARACTER: 
+
+017_yeah_yeah.mp3
+  "Yeah Yeah"
+  CHARACTER: 
+
+018_you_better_wrap_that_gavel_up_b.mp3
+  "You better wrap that gavel up, b"
+  CHARACTER: 
+
+019_you_re_the_worst_kind_of_scum.mp3
+  "You're the worst kind of scum"
+  CHARACTER: 
