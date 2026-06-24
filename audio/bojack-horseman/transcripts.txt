@@ -1,0 +1,171 @@
+001_all_about_you.mp3
+  "All about you"
+  CHARACTER: 
+
+003_am_i_dying.mp3
+  "Am I dying?"
+  CHARACTER: 
+
+004_are_you_drunk.mp3
+  "Are you drunk?"
+  CHARACTER: 
+
+012_breaking_and_entering.mp3
+  "Breaking and entering"
+  CHARACTER: 
+
+018_child_labor.mp3
+  "Child labor"
+  CHARACTER: 
+
+019_cookies_for_breakfast.mp3
+  "Cookies for breakfast"
+  CHARACTER: 
+
+020_could_have_gone_worse.mp3
+  "Could have gone worse"
+  CHARACTER: 
+
+025_enough_of_being_a_great_mom.mp3
+  "Enough of being a great mom"
+  CHARACTER: 
+
+028_first_day_in_prison.mp3
+  "First day in prison"
+  CHARACTER: 
+
+029_get_me_a_beer.mp3
+  "Get me a beer"
+  CHARACTER: 
+
+039_horsing_around_ring.mp3
+  "Horsing Around ring"
+  CHARACTER: 
+
+040_how_can_i_offend_alaskans.mp3
+  "How can I offend Alaskans"
+  CHARACTER: 
+
+044_i_didn_t_think_of_that.mp3
+  "I didn't think of that"
+  CHARACTER: 
+
+046_i_don_t_care.mp3
+  "I don't care"
+  CHARACTER: 
+
+048_i_don_t_remember_things.mp3
+  "I don't remember things"
+  CHARACTER: 
+
+052_i_hate_honeydew.mp3
+  "I hate honeydew"
+  CHARACTER: 
+
+055_i_need_you_to_like_me.mp3
+  "I need you to like me"
+  CHARACTER: 
+
+056_i_parked_in_a_handicap_spot.mp3
+  "I parked in a handicap spot"
+  CHARACTER: 
+
+060_i_ll_listen.mp3
+  "I'll listen"
+  CHARACTER: 
+
+065_i_m_not_a_good_person.mp3
+  "I'm not a good person"
+  CHARACTER: 
+
+071_it_s_societies_fault.mp3
+  "It's society's fault"
+  CHARACTER: 
+
+079_leave_more_quietly.mp3
+  "Leave more quietly"
+  CHARACTER: 
+
+080_love_you.mp3
+  "Love you"
+  CHARACTER: 
+
+081_mr_peanut_butter.mp3
+  "Mr. Peanutbutter"
+  CHARACTER: 
+
+083_my_addiction_didn_t_pull_a_knife_on_me_and_say_hey_bob_drink.mp3
+  "My addiction didn't pull a knife"
+  CHARACTER: 
+
+084_my_parents_gave_me_an_internalized_self_hatred_of_horses_so.mp3
+  "Internalized self-hatred of horses"
+  CHARACTER: 
+
+085_need_more_flasks.mp3
+  "Need more flasks"
+  CHARACTER: 
+
+091_now_if_you_ll_kindly_direct_me_to_my_room_i_would_like_to_be.mp3
+  "Direct me to my room, dipshit"
+  CHARACTER: 
+
+092_officer_fuzzyface.mp3
+  "Officer Fuzzyface"
+  CHARACTER: 
+
+095_pcs_ringtone.mp3
+  "PC's ringtone"
+  CHARACTER: 
+
+097_regrettable_life_choices.mp3
+  "Regrettable life choices"
+  CHARACTER: 
+
+099_see_usually_the_point_of_sayings_is_they_illustrate_complica.mp3
+  "Your sayings don't do that"
+  CHARACTER: 
+
+100_shut_the_hell_up.mp3
+  "Shut the hell up"
+  CHARACTER: 
+
+103_skip_ad_button.mp3
+  "Skip ad button"
+  CHARACTER: 
+
+105_so_the_only_way_i_can_progress_is_to_return_to_my_life_as_a.mp3
+  "Is this what therapy is?"
+  CHARACTER: 
+
+115_trying_to_make_me_vomit.mp3
+  "Trying to make me vomit"
+  CHARACTER: 
+
+116_we_are_gonna_bond.mp3
+  "We are gonna bond"
+  CHARACTER: 
+
+120_whos_that_dog.mp3
+  "Who's that dog"
+  CHARACTER: 
+
+122_why_bother_doing_anything.mp3
+  "Why bother doing anything?"
+  CHARACTER: 
+
+123_why_bother_talking.mp3
+  "Why bother talking"
+  CHARACTER: 
+
+125_you_are_my_house_guest.mp3
+  "You are my house guest"
+  CHARACTER: 
+
+126_you_get_sneak_out_the_upstairs_window_after_midnight_bed_che.mp3
+  "Is that what you really want?"
+  CHARACTER: 
+
+127_you_re_a_horrible_person.mp3
+  "You're a horrible person"
+  CHARACTER: 

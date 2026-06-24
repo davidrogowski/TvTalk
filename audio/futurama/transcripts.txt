@@ -1,0 +1,543 @@
+001_a_man_can_dream.mp3
+  "A man can dream"
+  CHARACTER: 
+
+005_all_glory_to_the_hypnotoad.mp3
+  "All glory to the hypnotoad"
+  CHARACTER: 
+
+006_all_our_modern_technology_is_useless.mp3
+  "All our modern technology is useless"
+  CHARACTER: 
+
+007_all_this_multiculturalism_is_making_my_blood_boil.mp3
+  "All this multiculturalism is making my blood boil"
+  CHARACTER: 
+
+008_and_by_devil_i_mean_robot_devil.mp3
+  "And by devil, I mean Robot Devil"
+  CHARACTER: 
+
+009_and_that_is_why_people_call_me_bender_the_magnificent.mp3
+  "Bender the Magnificent"
+  CHARACTER: 
+
+010_angry_dome.mp3
+  "Angry Dome"
+  CHARACTER: 
+
+012_are_you_coming_on_to_me.mp3
+  "Are you coming on to me?"
+  CHARACTER: 
+
+014_awww_they_re_so_cute_when_they_re_scared.mp3
+  "So cute when they're scared"
+  CHARACTER: 
+
+015_baby_love_child.mp3
+  "Baby love child"
+  CHARACTER: 
+
+017_bender.mp3
+  "Bender"
+  CHARACTER: 
+
+021_bender_eaten_by_frog.mp3
+  "Bender eaten by frog"
+  CHARACTER: 
+
+024_bender_on_parenting.mp3
+  "Bender on parenting"
+  CHARACTER: 
+
+026_bender_out_of_b_e.mp3
+  "Bender out of booze"
+  CHARACTER: 
+
+027_bender_singing.mp3
+  "Bender singing"
+  CHARACTER: 
+
+033_boogie_fever.mp3
+  "Boogie fever"
+  CHARACTER: 
+
+034_bribing_santa.mp3
+  "Bribing Santa"
+  CHARACTER: 
+
+036_but_i_would_have_robot_me_to_drink_i_don_t_need_the_drink_i.mp3
+  "I can quit anytime I want"
+  CHARACTER: 
+
+038_can_i_ask_you_question_as_long_as_it_s_not_about_my_eye_ah_i.mp3
+  "Is it about my eye?"
+  CHARACTER: 
+
+040_can_you_forgive_me_for_distrusting_you.mp3
+  "Can you forgive me for distrusting you"
+  CHARACTER: 
+
+043_christmas_eve.mp3
+  "Christmas Eve"
+  CHARACTER: 
+
+044_coffee_all_nighter.mp3
+  "Coffee all-nighter"
+  CHARACTER: 
+
+045_coffee_coffee_coffee.mp3
+  "Coffee coffee coffee"
+  CHARACTER: 
+
+046_come_on_bender_it_s_up_to_you_to_make_your_own_decisions_in.mp3
+  "Make your own decisions"
+  CHARACTER: 
+
+047_craaaaaaazy.mp3
+  "Craaaaaaazy"
+  CHARACTER: 
+
+048_crippling_pain.mp3
+  "Crippling pain"
+  CHARACTER: 
+
+049_crummy_keg_it_s_completely_tapped.mp3
+  "Crummy keg, it's completely tapped"
+  CHARACTER: 
+
+052_do_the_bender.mp3
+  "Do the Bender"
+  CHARACTER: 
+
+061_excited_faint.mp3
+  "Excited faint"
+  CHARACTER: 
+
+062_executive.mp3
+  "Executive?"
+  CHARACTER: 
+
+068_flu.mp3
+  "Flu"
+  CHARACTER: 
+
+069_free_beer.mp3
+  "Free beer"
+  CHARACTER: 
+
+071_freedom_trail_arriving_on_track_one.mp3
+  "Freedom Trail arriving on track one"
+  CHARACTER: 
+
+073_fry_cracked_corn_and_i_don_t_care.mp3
+  "Fry cracked corn, and I don't care"
+  CHARACTER: 
+
+074_fry_dance.mp3
+  "Fry dance"
+  CHARACTER: 
+
+076_funny_cuz_its_mean.mp3
+  "Funny cuz it's mean"
+  CHARACTER: 
+
+096_get_a_room.mp3
+  "Get a room"
+  CHARACTER: 
+
+098_global_countdown.mp3
+  "Global countdown"
+  CHARACTER: 
+
+100_god_you_any_court_and_and_he_did_ride_rides_blah_blah_blue_s.mp3
+  "Bender is great"
+  CHARACTER: 
+
+101_god_s_light_touch.mp3
+  "God's light touch"
+  CHARACTER: 
+
+103_good_lord_what_is_this_is_the_decaying_ruins_of_all_new_york.mp3
+  "Welcome home, pal"
+  CHARACTER: 
+
+106_good_news_i_m_a_horse_s_butt.mp3
+  "Good news, I'm a horse's butt"
+  CHARACTER: 
+
+108_guess_i_ll_do_what_i_always_do_when_i_run_out_of_booze.mp3
+  "What I do when I run out of booze"
+  CHARACTER: 
+
+112_happy_xmas.mp3
+  "Happy Xmas"
+  CHARACTER: 
+
+114_he_knows_when_you_are_sleeping_he_knows_when_you_re_on_the_s.mp3
+  "He knows when you're sleeping"
+  CHARACTER: 
+
+115_hello_pizza_delivery_for_crud_we_slide_by_this_point_in_my_l.mp3
+  "Pizza delivery"
+  CHARACTER: 
+
+116_her_mood_swings_are_getting_wilder.mp3
+  "Her mood swings are getting wilder"
+  CHARACTER: 
+
+118_here_s_to_another_lousy_millennium.mp3
+  "Here's to another lousy millennium"
+  CHARACTER: 
+
+119_hey_other_universe_bite_my_shiny_metal_ass.mp3
+  "Hey, other universe! Bite my shiny metal ass"
+  CHARACTER: 
+
+120_holding_hands_with_a_view.mp3
+  "Holding hands with a view"
+  CHARACTER: 
+
+125_how_deliciously_absurd.mp3
+  "How deliciously absurd"
+  CHARACTER: 
+
+130_i_found_money.mp3
+  "I found money"
+  CHARACTER: 
+
+135_i_know_karate.mp3
+  "I know karate"
+  CHARACTER: 
+
+139_i_think_i_am_getting_swollen_glands.mp3
+  "I think I'm getting swollen glands"
+  CHARACTER: 
+
+141_i_m_a_forest_investments_they_stole_from_that_lady_full_publ.mp3
+  "Forest investments they stole"
+  CHARACTER: 
+
+144_i_m_getting_an_idea.mp3
+  "I'm getting an idea"
+  CHARACTER: 
+
+145_i_m_great_everybody_else_sucks.mp3
+  "I'm great, everybody else sucks"
+  CHARACTER: 
+
+146_i_m_lying_to_make_her_feel_better.mp3
+  "I'm lying to make her feel better"
+  CHARACTER: 
+
+149_i_m_so_tired_of_partying.mp3
+  "I'm so tired of partying"
+  CHARACTER: 
+
+151_i_m_tired_of_your_yapping.mp3
+  "I'm tired of your yapping"
+  CHARACTER: 
+
+155_if_you_don_t_take_this_offer_right_now_i_will_lose_all_respe.mp3
+  "Take this offer or I'll punch you"
+  CHARACTER: 
+
+156_in_every_life_we_have_some_trouble_when_you_worry_you_make_i.mp3
+  "Don't worry, be happy"
+  CHARACTER: 
+
+157_in_france_it_s_called_a_guillotine.mp3
+  "In France it's called a guillotine"
+  CHARACTER: 
+
+158_intern_yahoo.mp3
+  "Intern yahoo"
+  CHARACTER: 
+
+159_irony.mp3
+  "Irony"
+  CHARACTER: 
+
+164_it_s_not_working_anymore.mp3
+  "It's not working anymore"
+  CHARACTER: 
+
+167_kissing.mp3
+  "Kissing"
+  CHARACTER: 
+
+168_kwanzaa_bot.mp3
+  "Kwanzaa Bot"
+  CHARACTER: 
+
+171_let_me_laugh_even_harder.mp3
+  "Let me laugh even harder"
+  CHARACTER: 
+
+172_let_me_show_you_around_that_s_my_lab_table_and_this_is_my_wo.mp3
+  "Let me show you around"
+  CHARACTER: 
+
+175_lick_my_frozen_metal_ass.mp3
+  "Lick My Frozen Metal Ass"
+  CHARACTER: 
+
+178_merry_xmas.mp3
+  "Merry Xmas"
+  CHARACTER: 
+
+180_michelle_baby_worry_going_it_s_not_working_out_i_put_yoursel.mp3
+  "It's not working out"
+  CHARACTER: 
+
+181_murder_hornets.mp3
+  "Murder Hornets"
+  CHARACTER: 
+
+182_name_it_and_i_m_there.mp3
+  "Name It, and I'm There"
+  CHARACTER: 
+
+185_neutrals_sicken_me.mp3
+  "Neutrals Sicken Me"
+  CHARACTER: 
+
+186_new_years_countdown.mp3
+  "New Years Countdown"
+  CHARACTER: 
+
+187_no_one_is_saying_that_but_i_m_certainly_thinking_it_loudly.mp3
+  "No One is Saying That, But I'm Certainly Thinking It Loudly"
+  CHARACTER: 
+
+188_no_you.mp3
+  "No you"
+  CHARACTER: 
+
+190_nope.mp3
+  "Nope"
+  CHARACTER: 
+
+194_now_i_m_all_you_got.mp3
+  "Now I'm All You Got"
+  CHARACTER: 
+
+196_oh_baby_yeah.mp3
+  "Oh baby, yeah"
+  CHARACTER: 
+
+197_oh_god_you_re_killing_me.mp3
+  "Oh god, you're killing me"
+  CHARACTER: 
+
+200_ok.mp3
+  "Ok"
+  CHARACTER: 
+
+205_prepare_for_the_stereo_phonic_experience.mp3
+  "Prepare for the stereophonic experience"
+  CHARACTER: 
+
+206_present_buddy_i_m_in_a_hurry_here_let_s_try_for_a_trooper_pl.mp3
+  "Select mode of death"
+  CHARACTER: 
+
+207_quarantine_squad.mp3
+  "Quarantine squad"
+  CHARACTER: 
+
+209_rain.mp3
+  "Rain"
+  CHARACTER: 
+
+210_requisition_me_a_beat.mp3
+  "Requisition me a beat"
+  CHARACTER: 
+
+211_right_it_s_saturday_night_i_have_no_date_a_two_liter_bottle.mp3
+  "No date, just Shasta and my mixtape"
+  CHARACTER: 
+
+212_robot_santa.mp3
+  "Robot Santa"
+  CHARACTER: 
+
+213_robot_scratching_post.mp3
+  "Robot Scratching Post"
+  CHARACTER: 
+
+216_santa_has_something_special.mp3
+  "Santa has something special"
+  CHARACTER: 
+
+217_santa.mp3
+  "Santa!"
+  CHARACTER: 
+
+221_she_ll_be_comin_round_the_mountain.mp3
+  "She'll Be Comin' Round the Mountain"
+  CHARACTER: 
+
+222_shovel_salute.mp3
+  "Shovel Salute"
+  CHARACTER: 
+
+224_showing_off.mp3
+  "Showing off"
+  CHARACTER: 
+
+233_so_long.mp3
+  "So long"
+  CHARACTER: 
+
+234_some_things_weren_t_meant_to_be.mp3
+  "Some things weren't meant to be"
+  CHARACTER: 
+
+236_stop_acting_so_stupid.mp3
+  "Stop acting so stupid!"
+  CHARACTER: 
+
+238_take_shifts_to_panic.mp3
+  "Take shifts to panic"
+  CHARACTER: 
+
+240_technically_in_new_jersey.mp3
+  "Technically in New Jersey"
+  CHARACTER: 
+
+241_technically_possible.mp3
+  "Technically Possible"
+  CHARACTER: 
+
+245_then_i_m_stab_it.mp3
+  "Then I'll stab it"
+  CHARACTER: 
+
+248_this_is_awesome_i_want_you_to_fly_through_space_fighting_mon.mp3
+  "Fly through space fighting monsters"
+  CHARACTER: 
+
+249_this_is_officer_one_bdi_requesting_backup_will_be_there_in_f.mp3
+  "Requesting backup"
+  CHARACTER: 
+
+250_this_is_unacceptable_lila_you_must_find_this_mister_pry_and.mp3
+  "Find this Mr. Fry and install his chip"
+  CHARACTER: 
+
+253_to_gaza_in.mp3
+  "To gaze in"
+  CHARACTER: 
+
+254_to_shreds_you_say.mp3
+  "To shreds you say"
+  CHARACTER: 
+
+255_touch_your_toes.mp3
+  "Touch Your Toes"
+  CHARACTER: 
+
+257_trying_to_hide_the_truth.mp3
+  "Trying to hide the truth"
+  CHARACTER: 
+
+258_tv_party_tonight.mp3
+  "TV party tonight"
+  CHARACTER: 
+
+261_vending_machine_coffee.mp3
+  "Vending Machine Coffee"
+  CHARACTER: 
+
+262_wait_a_second_you_re_a_bender_right_we_can_get_outta_here_if.mp3
+  "Bend the bars, you're a Bender"
+  CHARACTER: 
+
+264_want_one.mp3
+  "Want one?"
+  CHARACTER: 
+
+266_we_are_pretty_and_barely_get_over_with_so_many_guys_develop.mp3
+  "We are pretty"
+  CHARACTER: 
+
+267_we_have_to_wake_him_up.mp3
+  "We Have To Wake Him Up"
+  CHARACTER: 
+
+268_we_share_our_wisdom_with_those_who_seek_it_is_a_life_of_quie.mp3
+  "A life of quiet dignity"
+  CHARACTER: 
+
+270_we_re_doomed.mp3
+  "We're doomed"
+  CHARACTER: 
+
+271_we_ve_got_a_friendly_warning_for_you.mp3
+  "We've got a friendly warning for you"
+  CHARACTER: 
+
+273_welcome_to_the_world_of_tomorrow_why_you_always_have_to_say.mp3
+  "Welcome to the world of tomorrow"
+  CHARACTER: 
+
+275_well_ou_sooner_with_my_reagan_when_she_comes_here_go_shootin.mp3
+  "Comin' round the mountain"
+  CHARACTER: 
+
+277_what.mp3
+  "What"
+  CHARACTER: 
+
+283_when_you_come_to_think.mp3
+  "When you come to think"
+  CHARACTER: 
+
+284_where_where_we_carry.mp3
+  "Where do we carry"
+  CHARACTER: 
+
+286_who_are_the_real_live_robot_or_is_that_some_kind_of_cheesy_k.mp3
+  "Kiss my shiny metal ass"
+  CHARACTER: 
+
+287_who_are_you_and_you_dear_old_uncle_fry_i_don_t_have_an_uncle.mp3
+  "Your dear old Uncle Fry"
+  CHARACTER: 
+
+290_who_will_make_bender_waffles_just_the_way_he_likes_them_now.mp3
+  "Who Will Make Bender Waffles Now"
+  CHARACTER: 
+
+293_woopwoopwoop.mp3
+  "Woopwoopwoop"
+  CHARACTER: 
+
+294_wow_your_kid_is_great.mp3
+  "Wow, Your Kid is Great"
+  CHARACTER: 
+
+295_wreck_up_the_place.mp3
+  "Wreck Up the Place"
+  CHARACTER: 
+
+299_you_are_here_by_quarantine.mp3
+  "You are hereby quarantined"
+  CHARACTER: 
+
+300_you_are_now_dead_thank_you_for_using_stop_and_drop_america_s.mp3
+  "Thank you for using Stop-N-Drop"
+  CHARACTER: 
+
+302_you_can_crush_me_but_you_can_t_crush_my_spirit.mp3
+  "You can crush me, but you can't crush my spirit!"
+  CHARACTER: 
+
+305_you_know_it_s_funny.mp3
+  "You Know, It's Funny.."
+  CHARACTER: 
+
+306_you_lived_before_you_met_me.mp3
+  "You Lived Before You Met Me?"
+  CHARACTER: 
