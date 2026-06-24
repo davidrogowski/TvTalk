@@ -44981,5 +44981,674 @@ const shows = [
         "audioUrl": "audio/blades-of-glory/009_you_have_officially_given_me_a_boner.mp3"
       }
     ]
+  },
+  {
+    "id": "grown-ups",
+    "name": "Grown Ups",
+    "type": "movie",
+    "theme": {
+      "primary": "#3aa6db",
+      "accent": "#e0a82e",
+      "bg": "#05080d"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "And shift.",
+        "character": "",
+        "audioUrl": "audio/grown-ups/001_and_shift.mp3"
+      },
+      {
+        "text": "She'll be tying me up later",
+        "character": "",
+        "audioUrl": "audio/grown-ups/002_and_this_must_be_your_mother_my_wife_i_m_sorry_hi_i_m_gloria.mp3"
+      },
+      {
+        "text": "We should get a water buffalo",
+        "character": "",
+        "audioUrl": "audio/grown-ups/003_curly_shame_on_you_that_crazy_dog_must_have_got_into_some_of.mp3"
+      },
+      {
+        "text": "Should've married Umberto Denunzio",
+        "character": "",
+        "audioUrl": "audio/grown-ups/004_deanne_you_should_have_married_umberto_denunzio_like_i_told.mp3"
+      },
+      {
+        "text": "Princess Rita won't help",
+        "character": "",
+        "audioUrl": "audio/grown-ups/005_excuse_me_princess_rita_are_you_gonna_help_me_no_mr_feder_sa.mp3"
+      },
+      {
+        "text": "Five bucks it takes him down",
+        "character": "",
+        "audioUrl": "audio/grown-ups/006_five_bucks_it_takes_him_down_on_one_knee_you_re_on.mp3"
+      },
+      {
+        "text": "No more mommy's milk",
+        "character": "",
+        "audioUrl": "audio/grown-ups/007_he_wants_mommy_s_milk_give_him_some_mommy_s_milk_mommy_s_mil.mp3"
+      },
+      {
+        "text": "Hey guys Motion '78.",
+        "character": "",
+        "audioUrl": "audio/grown-ups/008_hey_guys_motion_78.mp3"
+      },
+      {
+        "text": "What's up ladies, eh",
+        "character": "",
+        "audioUrl": "audio/grown-ups/009_hey_what_s_up_ladies_so_you_re_from_around_these_parts_eh_ye.mp3"
+      },
+      {
+        "text": "Where's Saskatchetoon.",
+        "character": "",
+        "audioUrl": "audio/grown-ups/010_hey_where_s_saskatchetoon.mp3"
+      },
+      {
+        "text": "Hey Y Where's M C A.",
+        "character": "",
+        "audioUrl": "audio/grown-ups/011_hey_y_where_s_m_c_a.mp3"
+      },
+      {
+        "text": "I don't wear pants at my house",
+        "character": "",
+        "audioUrl": "audio/grown-ups/012_higgins_what_are_you_doing_i_don_t_wear_pants_at_my_house_i.mp3"
+      },
+      {
+        "text": "Hoochie mama, it feels right",
+        "character": "",
+        "audioUrl": "audio/grown-ups/013_hoochie_mama_what_does_that_mean_i_don_t_know_but_it_feels_r.mp3"
+      },
+      {
+        "text": "95 percent from the mother",
+        "character": "",
+        "audioUrl": "audio/grown-ups/014_how_do_you_get_that_hey_from_that_ninety_five_percent_of_tha.mp3"
+      },
+      {
+        "text": "Thursday's Grey's Anatomy",
+        "character": "",
+        "audioUrl": "audio/grown-ups/015_how_s_about_i_take_you_out_every_thursday_night_for_date_nig.mp3"
+      },
+      {
+        "text": "Confession: I'm really a man",
+        "character": "",
+        "audioUrl": "audio/grown-ups/016_i_have_a_confession_to_make_i_m_really_a_man_no_i_said_that.mp3"
+      },
+      {
+        "text": "Got a little Kardashian in there",
+        "character": "",
+        "audioUrl": "audio/grown-ups/017_i_see_that_ass_is_still_growing_got_a_little_kardashian_in_t.mp3"
+      },
+      {
+        "text": "Cookies and MILF",
+        "character": "",
+        "audioUrl": "audio/grown-ups/018_i_want_cookies_cookies_and_milf.mp3"
+      },
+      {
+        "text": "Can you kill the dog now",
+        "character": "",
+        "audioUrl": "audio/grown-ups/019_lamonsoff_it_s_5_in_the_morning_can_you_kill_the_dog_now_thi.mp3"
+      },
+      {
+        "text": "I wanna get chocolate wasted",
+        "character": "",
+        "audioUrl": "audio/grown-ups/020_lenny_remember_we_used_to_come_here_late_night_after_we_got.mp3"
+      },
+      {
+        "text": "Life can be difficult sometimes",
+        "character": "",
+        "audioUrl": "audio/grown-ups/021_life_can_be_difficult_sometimes_it_gets_bumpy_what_with_fami.mp3"
+      },
+      {
+        "text": "Elder gay Jonas brother",
+        "character": "",
+        "audioUrl": "audio/grown-ups/022_like_rob_when_he_snapped_at_me_the_other_day_that_was_scary.mp3"
+      },
+      {
+        "text": "The Elephant Man in your shoe",
+        "character": "",
+        "audioUrl": "audio/grown-ups/023_mama_i_didn_t_know_the_elephant_man_lived_in_your_shoe_how_i.mp3"
+      },
+      {
+        "text": "Mommy I want some milk",
+        "character": "",
+        "audioUrl": "audio/grown-ups/024_mommy_i_want_some_milk_oh_sure_angel_you_come_here_i_ll_give.mp3"
+      },
+      {
+        "text": "Bank's open, pick a spot",
+        "character": "",
+        "audioUrl": "audio/grown-ups/025_now_see_that_buddy_i_did_the_old_bank_shot_bank_s_open_pick.mp3"
+      },
+      {
+        "text": "I had the sexiest dream",
+        "character": "",
+        "audioUrl": "audio/grown-ups/026_oh_i_had_the_sexiest_dream_about_a_little_blond_girl_though.mp3"
+      },
+      {
+        "text": "Are you making a sissy",
+        "character": "",
+        "audioUrl": "audio/grown-ups/027_one_second_yeah_we_re_going_on_all_the_rides_we_re_doing_the.mp3"
+      },
+      {
+        "text": "You got told, you got toe",
+        "character": "",
+        "audioUrl": "audio/grown-ups/028_really_since_when_did_you_learn_to_speak_chinese_it_s_just_s.mp3"
+      },
+      {
+        "text": "Be number 26",
+        "character": "",
+        "audioUrl": "audio/grown-ups/029_roxanne_i_have_made_out_with_about_25_different_girls_in_thi.mp3"
+      },
+      {
+        "text": "Baby thinks it's a Tootsie Roll",
+        "character": "",
+        "audioUrl": "audio/grown-ups/030_that_ll_happen_you_have_sex_when_they_re_pregnant_does_that.mp3"
+      },
+      {
+        "text": "Trade you in for some cow",
+        "character": "",
+        "audioUrl": "audio/grown-ups/031_that_s_how_you_do_it_boy_becky_you_can_do_this_good_there_yo.mp3"
+      },
+      {
+        "text": "This song gets me so horny",
+        "character": "",
+        "audioUrl": "audio/grown-ups/032_this_song_is_the_best_oh_this_song_gets_me_so_horny_you_know.mp3"
+      },
+      {
+        "text": "I'm older than anyone here",
+        "character": "",
+        "audioUrl": "audio/grown-ups/033_well_after_all_i_am_older_than_anyone_here_hell_yeah_you_are.mp3"
+      },
+      {
+        "text": "Not hell, Mexico",
+        "character": "",
+        "audioUrl": "audio/grown-ups/034_where_s_it_taking_them_hell_don_t_say_that_higgins_i_m_sorry.mp3"
+      },
+      {
+        "text": "You were holding out",
+        "character": "",
+        "audioUrl": "audio/grown-ups/035_why_didn_t_you_ever_tell_us_that_she_gets_it_yeah_you_were_h.mp3"
+      },
+      {
+        "text": "That's not my baby, that's my boob",
+        "character": "",
+        "audioUrl": "audio/grown-ups/036_would_you_mind_if_i_touch_your_belly_i_love_babies_i_love_to.mp3"
+      },
+      {
+        "text": "It's actually not that bad",
+        "character": "",
+        "audioUrl": "audio/grown-ups/037_you_re_wasting_it_sorry_it_s_all_right_it_s_actually_not_tha.mp3"
+      },
+      {
+        "text": "Taking a piss, not the SATs",
+        "character": "",
+        "audioUrl": "audio/grown-ups/038_no_no_no_i_gotta_make_a_sissy_you_made_three_already_it_mus.mp3"
+      }
+    ]
+  },
+  {
+    "id": "the-waterboy",
+    "name": "The Waterboy",
+    "type": "movie",
+    "theme": {
+      "primary": "#2b6cb0",
+      "accent": "#e0a82e",
+      "bg": "#05070a"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Matters into my own hands",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/001_a_water_boy_it_s_a_girlfriend_gonna_stab_you_again_no_no_sir.mp3"
+      },
+      {
+        "text": "She showed me her boobies",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/002_and_i_like_mickey_and_she_likes_me_back_and_she_showed_me_he.mp3"
+      },
+      {
+        "text": "Open up a can of whoop ass",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/003_and_open_up_some_wood_bash.mp3"
+      },
+      {
+        "text": "Can't hold anything back now",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/004_can_t_hold_anything_back_now.mp3"
+      },
+      {
+        "text": "Captain Insano shows no mercy",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/005_captain_insano_shows_no_mercy.mp3"
+      },
+      {
+        "text": "Why do you sweat so much?",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/006_captain_latino_i_noticed_sometimes_when_you_are_wrestling_or.mp3"
+      },
+      {
+        "text": "Let me be your water boy",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/007_daddy_s_watergate_you_should_do_your_place_ah_it_is_imperati.mp3"
+      },
+      {
+        "text": "Damn these gators",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/008_damn_these_gildo.mp3"
+      },
+      {
+        "text": "Dear Helen, that's my first name",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/009_dear_helen_whose_hair_that_s_my_first_name_bobby_ohh.mp3"
+      },
+      {
+        "text": "Did you just make a joke?",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/010_did_you_just_make_a_joke.mp3"
+      },
+      {
+        "text": "Have the defense run sprints",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/011_diethylamide_so_doggy_metal_dog_yeah_ok_ah_just_have_the_def.mp3"
+      },
+      {
+        "text": "Don't smoke crack",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/012_don_t_smoke_crack.mp3"
+      },
+      {
+        "text": "Excuse me ladies",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/013_excuse_me_ladies.mp3"
+      },
+      {
+        "text": "Farmer Fran",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/014_farmer_fran.mp3"
+      },
+      {
+        "text": "Farmer Fran gibberish",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/015_farmer_fran_gibberish.mp3"
+      },
+      {
+        "text": "Foosball",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/016_foosball_bunch_of_overgrown_monsters_manhandling_each_other.mp3"
+      },
+      {
+        "text": "Water sucks, Gatorade rules",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/017_gatorade_h2o_gatorade_820_sucks_it_really_really_sucks_water.mp3"
+      },
+      {
+        "text": "Hey moron",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/018_hey_moron_go_look_at_me_border_i_gotta_wonder_ohh_god.mp3"
+      },
+      {
+        "text": "High quality H2O",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/019_high_quality_h2o.mp3"
+      },
+      {
+        "text": "You're an inspiration",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/020_i_am_not_what_you_would_call_a_handsome_man_the_good_lord_ch.mp3"
+      },
+      {
+        "text": "She's the devil",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/021_i_forbid_you_to_talk_to_that_enchantress_she_s_the_devil_she.mp3"
+      },
+      {
+        "text": "I like them boobies",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/022_i_like_them_boobies.mp3"
+      },
+      {
+        "text": "I see a lot of guys too",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/023_i_see_a_lot_of_guys_too.mp3"
+      },
+      {
+        "text": "I think that's sexy",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/024_i_think_that_s_sexy.mp3"
+      },
+      {
+        "text": "You're fat",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/025_i_want_a_boy_yes_mr_cosper_you_you_re_fat.mp3"
+      },
+      {
+        "text": "I wish you were my boyfriend",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/026_i_wish_you_were_my_boyfriend.mp3"
+      },
+      {
+        "text": "Honored if you play football",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/027_i_would_be_honored_if_you_play_football_for_this_team_me_pla.mp3"
+      },
+      {
+        "text": "Playing with your momma tonight",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/028_i_ll_be_playing_with_your_momma_tonight.mp3"
+      },
+      {
+        "text": "Whoop ass on Hercules",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/029_i_m_gonna_open_a_can_of_whoop_ass_on_hercules.mp3"
+      },
+      {
+        "text": "Well wake her ass up",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/030_i_m_sorry_to_disappoint_you_all_but_please_keep_your_voices.mp3"
+      },
+      {
+        "text": "In Japan",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/031_in_japan.mp3"
+      },
+      {
+        "text": "I bring them the water",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/032_it_s_just_that_i_m_a_water_boy_the_team_gets_thirsty_and_i_b.mp3"
+      },
+      {
+        "text": "Little girls are the devil",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/033_little_girls_are_the_devil.mp3"
+      },
+      {
+        "text": "Lock me up is not good",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/034_lock_me_up_is_not_good_fair_enough_really.mp3"
+      },
+      {
+        "text": "Astronomy is a tool of the devil",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/035_mama_vicky_is_in_astrology_i_don_t_believe_in_that_sort_of_t.mp3"
+      },
+      {
+        "text": "Needle dick!",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/036_needle_dick.mp3"
+      },
+      {
+        "text": "Now that's high quality H2O",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/037_now_that_s_what_i_call_high_quality_eight_tools.mp3"
+      },
+      {
+        "text": "Oh no, we suck again",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/038_oh_no_we_suck_again.mp3"
+      },
+      {
+        "text": "We suck again",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/040_ohh_no_we_suck_again.mp3"
+      },
+      {
+        "text": "Scotch and water, hold the Scotch",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/041_one_beer_i_take_a_scotch_and_water_hold_the_scotch_you_just.mp3"
+      },
+      {
+        "text": "Pass to the wrong team",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/042_pass_to_the_wrong_team.mp3"
+      },
+      {
+        "text": "Pinching nipples",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/043_pinching_nipples.mp3"
+      },
+      {
+        "text": "Won the Bourbon Bowl",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/044_remember_when_bobby_boucher_showed_up_at_halftime_and_my_dog.mp3"
+      },
+      {
+        "text": "I love my Mama very much",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/045_rob_gibson_look_michael_shane_after_mark_paul_i_love_my_mama.mp3"
+      },
+      {
+        "text": "School is for the devil",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/046_school_is_for_the_devil.mp3"
+      },
+      {
+        "text": "His medulla oblongata",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/047_something_wrong_with_his_medulla_oblongata.mp3"
+      },
+      {
+        "text": "Stop making fun of me",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/048_stop_making_fun_of_me.mp3"
+      },
+      {
+        "text": "What's your secret?",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/049_tell_me_what_is_your_secret_how_do_you_find_yourself_in_the.mp3"
+      },
+      {
+        "text": "Thank you for being my friends",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/050_thank_you_for_being_my_friends.mp3"
+      },
+      {
+        "text": "That snake looks delicious",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/051_that_snake_looks_delicious_what_part_do_you_think_i_m_about.mp3"
+      },
+      {
+        "text": "How are you?",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/052_the_only_downloadable_yeah_on_the_rear_how_are_you.mp3"
+      },
+      {
+        "text": "Five crawfish dinners",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/053_the_only_thing_better_than_a_crawfish_dinner_is_five_crawfis.mp3"
+      },
+      {
+        "text": "The search continues",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/054_the_search_continues.mp3"
+      },
+      {
+        "text": "Shut up, Brent",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/055_the_water_boy_just_needed_some_water_wow_dan_you_think_that.mp3"
+      },
+      {
+        "text": "Cut his head off",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/056_the_waterboys_the_cheetah_cut_his_head_off_yeah.mp3"
+      },
+      {
+        "text": "A guy and a girl at the same time",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/057_there_girl_you_re_seeing_seeing_i_see_a_lot_of_girls_i_see_a.mp3"
+      },
+      {
+        "text": "Time to find out about college football",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/058_time_for_the_retard_to_find_out_what_college_football_is_all.mp3"
+      },
+      {
+        "text": "You lack social skills",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/059_two_you_don_t_have_what_they_call_the_social_skills_my_name.mp3"
+      },
+      {
+        "text": "Water sucks",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/060_water_sucks.mp3"
+      },
+      {
+        "text": "Water sucks, Gatorade is better",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/061_water_sucks_gatorade_is_better.mp3"
+      },
+      {
+        "text": "Best since Joe Montana",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/062_waterboys_count_them_best_cat_there_i_ve_seen_since_joe_mont.mp3"
+      },
+      {
+        "text": "One family, one dream",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/063_we_are_one_family_with_one_dream_there_are_40_of_you_on_this.mp3"
+      },
+      {
+        "text": "Mama's wrong again",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/064_well_folks_mama_s_wrong_again_no_kind_of_saying_it_s_you_re.mp3"
+      },
+      {
+        "text": "My Dogs gonna win 30-27",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/065_well_let_me_ask_you_this_what_s_your_prediction_for_the_rest.mp3"
+      },
+      {
+        "text": "Welcome to your manhood",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/066_well_welcome_to_your_manhood_bobby_boucher_when_we_get_a_lit.mp3"
+      },
+      {
+        "text": "Better safe than sorry",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/067_what_is_better_coal_yes_i_agreed_that_but_to_guarantee_that.mp3"
+      },
+      {
+        "text": "Who's bad enough for the devil?",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/068_who_s_bad_enough_for_the_devil_it_s_where_my_barbie.mp3"
+      },
+      {
+        "text": "You are a bad boy",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/069_you_are_a_bad_boy.mp3"
+      },
+      {
+        "text": "You are so cute",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/070_you_are_so_cute.mp3"
+      },
+      {
+        "text": "You can do it",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/071_you_can_do_it.mp3"
+      },
+      {
+        "text": "Cut this fucking head off",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/072_you_can_do_it_cut_this_fucking_head_off.mp3"
+      },
+      {
+        "text": "You can do it all night long",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/073_you_can_do_it_you_can_do_it_all_night_long.mp3"
+      },
+      {
+        "text": "You're fired!",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/074_you_re_fired.mp3"
+      },
+      {
+        "text": "You're wrong",
+        "character": "",
+        "audioUrl": "audio/the-waterboy/075_you_re_wrong.mp3"
+      }
+    ]
+  },
+  {
+    "id": "the-longest-yard",
+    "name": "The Longest Yard",
+    "type": "movie",
+    "theme": {
+      "primary": "#8c4a2f",
+      "accent": "#d9b04a",
+      "bg": "#0a0705"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Baby back bitch",
+        "character": "",
+        "audioUrl": "audio/the-longest-yard/001_baby_back_bitch.mp3"
+      },
+      {
+        "text": "Ball dawg",
+        "character": "",
+        "audioUrl": "audio/the-longest-yard/002_ball_dawg.mp3"
+      },
+      {
+        "text": "Get ready for an ass kicking fiesta",
+        "character": "",
+        "audioUrl": "audio/the-longest-yard/003_get_ready_for_an_ass_kicking_fiesta.mp3"
+      },
+      {
+        "text": "Group hug in the shower tonight!",
+        "character": "",
+        "audioUrl": "audio/the-longest-yard/004_group_hug_in_the_shower_tonight.mp3"
+      },
+      {
+        "text": "He broke my nose",
+        "character": "",
+        "audioUrl": "audio/the-longest-yard/005_he_broked_ed_my_nose.mp3"
+      },
+      {
+        "text": "I didn’t do it",
+        "character": "",
+        "audioUrl": "audio/the-longest-yard/006_i_didn_t_do_it.mp3"
+      },
+      {
+        "text": "It ain't easy, being cheesy!",
+        "character": "",
+        "audioUrl": "audio/the-longest-yard/007_it_ain_t_easy_being_cheesy.mp3"
+      },
+      {
+        "text": "Rejected!",
+        "character": "",
+        "audioUrl": "audio/the-longest-yard/008_rejected.mp3"
+      },
+      {
+        "text": "Shit Happens",
+        "character": "",
+        "audioUrl": "audio/the-longest-yard/009_shit_happens.mp3"
+      },
+      {
+        "text": "That was a bullshit call!",
+        "character": "",
+        "audioUrl": "audio/the-longest-yard/010_that_was_a_bullshit_call.mp3"
+      },
+      {
+        "text": "Who drank all the damn Gatorade!?",
+        "character": "",
+        "audioUrl": "audio/the-longest-yard/011_who_drank_all_the_damn_gatorade.mp3"
+      },
+      {
+        "text": "You actin like a real McAsshole",
+        "character": "",
+        "audioUrl": "audio/the-longest-yard/012_you_actin_like_a_real_mcasshole.mp3"
+      },
+      {
+        "text": "You all american son of a bitch",
+        "character": "",
+        "audioUrl": "audio/the-longest-yard/013_you_all_american_son_of_a_bitch.mp3"
+      },
+      {
+        "text": "You're white, smile!",
+        "character": "",
+        "audioUrl": "audio/the-longest-yard/014_you_re_white_smile.mp3"
+      }
+    ]
   }
 ];

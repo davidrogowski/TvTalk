@@ -1,0 +1,55 @@
+001_baby_back_bitch.mp3
+  "Baby back bitch"
+  CHARACTER: 
+
+002_ball_dawg.mp3
+  "Ball dawg"
+  CHARACTER: 
+
+003_get_ready_for_an_ass_kicking_fiesta.mp3
+  "Get ready for an ass kicking fiesta"
+  CHARACTER: 
+
+004_group_hug_in_the_shower_tonight.mp3
+  "Group hug in the shower tonight!"
+  CHARACTER: 
+
+005_he_broked_ed_my_nose.mp3
+  "He broke my nose"
+  CHARACTER: 
+
+006_i_didn_t_do_it.mp3
+  "I didn’t do it"
+  CHARACTER: 
+
+007_it_ain_t_easy_being_cheesy.mp3
+  "It ain't easy, being cheesy!"
+  CHARACTER: 
+
+008_rejected.mp3
+  "Rejected!"
+  CHARACTER: 
+
+009_shit_happens.mp3
+  "Shit Happens"
+  CHARACTER: 
+
+010_that_was_a_bullshit_call.mp3
+  "That was a bullshit call!"
+  CHARACTER: 
+
+011_who_drank_all_the_damn_gatorade.mp3
+  "Who drank all the damn Gatorade!?"
+  CHARACTER: 
+
+012_you_actin_like_a_real_mcasshole.mp3
+  "You actin like a real McAsshole"
+  CHARACTER: 
+
+013_you_all_american_son_of_a_bitch.mp3
+  "You all american son of a bitch"
+  CHARACTER: 
+
+014_you_re_white_smile.mp3
+  "You're white, smile!"
+  CHARACTER: 

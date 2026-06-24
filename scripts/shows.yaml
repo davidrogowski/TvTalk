@@ -1242,3 +1242,31 @@ shows:
       primary: "#8c4a2f"         # prison-yard brown/orange
       accent:  "#d9b04a"         # gold
       bg:      "#0a0705"         # dark
+
+  - id: futurama
+    name: "Futurama"
+    board_url: "https://www.101soundboards.com/boards/25479-futurama-soundboard"
+    status: pending
+    type: show
+    text_style: "title"
+    preserve_transcripts: true   # curated: >=5s, no non-English/song/Futurama-titled clips; labels cleaned
+    max_length: 9999             # keep all (duration cutoff + content filters done in curation)
+    # poisoned -soundboard board (ID<1M): ding verified via silent-start test (7/9) -> auto-trims 1s (no no_trim)
+    theme:
+      primary: "#9b59b6"         # Leela purple
+      accent:  "#3aa6db"         # space blue
+      bg:      "#060810"         # dark space
+
+  - id: bojack-horseman
+    name: "BoJack Horseman"
+    board_url: "https://www.101soundboards.com/boards/29379-bojack-horseman-soundboard"
+    status: pending
+    type: show
+    text_style: "title"
+    preserve_transcripts: true   # curated: >=5s, no "BoJack"-titled clips; labels cleaned
+    max_length: 9999             # keep all (duration cutoff + content filter done in curation)
+    # poisoned -soundboard board (ID<1M): ding verified via PCM fingerprint -> auto-trims 1s (no no_trim)
+    theme:
+      primary: "#5bc0be"         # LA teal
+      accent:  "#e8a0bf"         # sunset pink
+      bg:      "#07090a"         # dark
