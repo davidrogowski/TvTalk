@@ -1,0 +1,655 @@
+002_alexa_add_big_hairy_balls_to_my_shopping_list.mp3
+  "Alexa, Add Big Hairy Balls to My Shopping List"
+  CHARACTER: 
+
+005_an_old_fashioned.mp3
+  "An Old Fashioned"
+  CHARACTER: 
+
+007_and_it_s_gone.mp3
+  "And it's gone!"
+  CHARACTER: 
+
+008_another_tortured_soul.mp3
+  "Another tortured soul"
+  CHARACTER: 
+
+009_apologies_from_the_privileged.mp3
+  "Apologies from the privileged"
+  CHARACTER: 
+
+010_apologize.mp3
+  "Apologize"
+  CHARACTER: 
+
+011_are_you_high_or_just_stupid.mp3
+  "Are you high or just stupid?"
+  CHARACTER: 
+
+016_bar_bura_bar_bura.mp3
+  "Bar bura! Bar bura!"
+  CHARACTER: 
+
+020_bono_yeah_yeah_yeaah.mp3
+  "Bono YEAH YEAH YEAAH!"
+  CHARACTER: 
+
+021_boo_wendy.mp3
+  "Boo Wendy"
+  CHARACTER: 
+
+022_boogers_and_cum.mp3
+  "Boogers and cum"
+  CHARACTER: 
+
+023_boomer.mp3
+  "Boomer"
+  CHARACTER: 
+
+025_briefcases_explode.mp3
+  "Briefcases explode"
+  CHARACTER: 
+
+027_buffalo_soldier.mp3
+  "Buffalo Soldier"
+  CHARACTER: 
+
+029_buying_toilet_paper.mp3
+  "Buying Toilet Paper"
+  CHARACTER: 
+
+030_cable_company_customer_service.mp3
+  "Cable Company Customer Service"
+  CHARACTER: 
+
+033_canada_on_strike.mp3
+  "Canada on Strike"
+  CHARACTER: 
+
+034_canadian_abcs.mp3
+  "Canadian ABCs"
+  CHARACTER: 
+
+037_cartman_s_cat.mp3
+  "Cartman s cat"
+  CHARACTER: 
+
+038_cartman_s_laugh.mp3
+  "Cartman's Laugh"
+  CHARACTER: 
+
+041_chewbacca_defense.mp3
+  "Chewbacca Defense"
+  CHARACTER: 
+
+042_christopher_reeves_stem_cells.mp3
+  "Christopher Reeves Stem Cells"
+  CHARACTER: 
+
+044_coding.mp3
+  "Coding"
+  CHARACTER: 
+
+045_columbus_day.mp3
+  "Columbus Day"
+  CHARACTER: 
+
+046_columbus_day_poem.mp3
+  "Columbus Day Poem"
+  CHARACTER: 
+
+048_come_on_squeal.mp3
+  "Come on, squeal!"
+  CHARACTER: 
+
+052_creme_fraiche.mp3
+  "Creme Fraiche"
+  CHARACTER: 
+
+053_cynical_asshole.mp3
+  "Cynical Asshole"
+  CHARACTER: 
+
+054_dad_poop.mp3
+  "Dad poop"
+  CHARACTER: 
+
+055_diarrhea.mp3
+  "Diarrhea"
+  CHARACTER: 
+
+058_doesn_t_look_very_fun.mp3
+  "Doesn't look very fun"
+  CHARACTER: 
+
+059_don_t_fuck_me_eric.mp3
+  "Don't fuck me Eric"
+  CHARACTER: 
+
+060_don_t_fuck_me_eric.mp3
+  "Don't fuck me, Eric"
+  CHARACTER: 
+
+062_down_like_a_clown_charlie_brown.mp3
+  "Down like a clown Charlie Brown"
+  CHARACTER: 
+
+063_dreidel_song.mp3
+  "Dreidel song"
+  CHARACTER: 
+
+065_drugs_are_bad_mkay.mp3
+  "Drugs are bad, mkay"
+  CHARACTER: 
+
+066_easter_song.mp3
+  "Easter Song"
+  CHARACTER: 
+
+067_eating_chips.mp3
+  "Eating Chips"
+  CHARACTER: 
+
+072_faith_in_christ.mp3
+  "Faith In Christ"
+  CHARACTER: 
+
+075_french_fry_when_you_should_pizza.mp3
+  "French fry when you should pizza"
+  CHARACTER: 
+
+081_gay_fish.mp3
+  "Gay Fish"
+  CHARACTER: 
+
+085_get_out_of_here_smoker.mp3
+  "Get out of here smoker"
+  CHARACTER: 
+
+086_get_out_to_vote_song.mp3
+  "Get out to vote song"
+  CHARACTER: 
+
+090_go_america_go_broncos.mp3
+  "Go America Go Broncos"
+  CHARACTER: 
+
+091_go_up_to_bed.mp3
+  "Go up to bed"
+  CHARACTER: 
+
+094_gone.mp3
+  "Gone"
+  CHARACTER: 
+
+097_happy_halloween_from_south_park.mp3
+  "Happy Halloween from South Park"
+  CHARACTER: 
+
+099_he_is_a_ginger.mp3
+  "He is a ginger!"
+  CHARACTER: 
+
+101_heat_of_the_moment.mp3
+  "Heat of the Moment"
+  CHARACTER: 
+
+102_heather_swanson.mp3
+  "Heather Swanson"
+  CHARACTER: 
+
+106_hemp_hat.mp3
+  "Hemp Hat"
+  CHARACTER: 
+
+110_hey_there_s_a_bee_in_here.mp3
+  "Hey, There's a Bee In Here"
+  CHARACTER: 
+
+114_how_s_that_filet_mignon.mp3
+  "How's that filet mignon"
+  CHARACTER: 
+
+117_i_am_not_chugging_beer.mp3
+  "I Am Not Chugging Beer"
+  CHARACTER: 
+
+118_i_brake_up.mp3
+  "I brake up"
+  CHARACTER: 
+
+121_i_don_t_care_about_forgiveness_mexican_joker.mp3
+  "I don't care about forgiveness! (Mexican Joker)"
+  CHARACTER: 
+
+123_i_feel_like_i_could_conquer_the_world.mp3
+  "I feel like I could conquer the world"
+  CHARACTER: 
+
+131_i_sure_am_excited.mp3
+  "I sure am excited"
+  CHARACTER: 
+
+132_i_thought_this_was_america.mp3
+  "I Thought This Was America"
+  CHARACTER: 
+
+133_i_thought_this_was_america.mp3
+  "I thought this was America!"
+  CHARACTER: 
+
+135_i_wasn_t_watching_food_channel.mp3
+  "I Wasn't Watching Food Channel"
+  CHARACTER: 
+
+136_i_will_bust_your_ass.mp3
+  "I will bust your ass"
+  CHARACTER: 
+
+138_i_ll_just_use_my_special_getting_high_powers.mp3
+  "I'll just use my special getting high powers"
+  CHARACTER: 
+
+139_i_m_a_bad_man.mp3
+  "I'm a bad man"
+  CHARACTER: 
+
+141_i_m_back.mp3
+  "I'm back!"
+  CHARACTER: 
+
+142_i_m_chris_hansen.mp3
+  "I'm Chris Hansen"
+  CHARACTER: 
+
+144_i_m_gonna_have_diarrhea_again.mp3
+  "I'm gonna have diarrhea again"
+  CHARACTER: 
+
+145_i_m_japanese_so_i_m_gonna_kill_myself.mp3
+  "I'm Japanese so I'm gonna kill myself"
+  CHARACTER: 
+
+148_i_m_out.mp3
+  "I'm Out"
+  CHARACTER: 
+
+149_i_m_out.mp3
+  "I'm out!"
+  CHARACTER: 
+
+150_i_m_so_high_right_now.mp3
+  "I'm so high right now"
+  CHARACTER: 
+
+153_i_m_so_startled.mp3
+  "I'm so startled"
+  CHARACTER: 
+
+154_i_m_sorry_i_thought_this_was_america.mp3
+  "I'm Sorry I Thought This Was America"
+  CHARACTER: 
+
+155_i_m_your_father_put_it_back_on.mp3
+  "I'm Your Father, Put It Back On"
+  CHARACTER: 
+
+156_i_ve_got_something_in_my_front_pocket.mp3
+  "I've Got Something In My Front Pocket"
+  CHARACTER: 
+
+158_if_you_don_t_like_america_you_can_get_out.mp3
+  "If you don't like America, you can get out"
+  CHARACTER: 
+
+160_ike_french_fries.mp3
+  "Ike French Fries"
+  CHARACTER: 
+
+161_ike_south_park.mp3
+  "Ike south park"
+  CHARACTER: 
+
+163_in_the_ghetto.mp3
+  "In The Ghetto"
+  CHARACTER: 
+
+166_it_doesn_t_matter_who_we_are.mp3
+  "It doesn't matter who we are"
+  CHARACTER: 
+
+168_it_s_all_gone.mp3
+  "It's All Gone"
+  CHARACTER: 
+
+172_it_s_wrong_it_s_wrooooong.mp3
+  "It's wrong! It's wrooooong!"
+  CHARACTER: 
+
+175_john_travolta_tells_tom_cruise_to_come_out_of_the_closet.mp3
+  "Come out of the closet"
+  CHARACTER: 
+
+176_just_get_it_man.mp3
+  "Just Get It, Man"
+  CHARACTER: 
+
+178_kyle_and_rebecca_kiss.mp3
+  "Kyle and Rebecca Kiss"
+  CHARACTER: 
+
+179_kyle_s_mom_is_a_big_fat_bitch.mp3
+  "Kyle's Mom is a Big Fat Bitch"
+  CHARACTER: 
+
+180_kyle_s_money.mp3
+  "Kyle's Money"
+  CHARACTER: 
+
+181_kyles_mom.mp3
+  "Kyles Mom"
+  CHARACTER: 
+
+182_leave_the_panda_alone.mp3
+  "Leave the panda alone!"
+  CHARACTER: 
+
+183_let_all_debts_be_forgiven_and_all_slaves_freed.mp3
+  "Let all debts be forgiven and all slaves freed"
+  CHARACTER: 
+
+184_let_me_get_high_then_i_ll_remember.mp3
+  "Let me get high, then I'll remember"
+  CHARACTER: 
+
+187_loan_me_some_lipstick.mp3
+  "Loan Me Some Lipstick"
+  CHARACTER: 
+
+188_loggers.mp3
+  "Loggers"
+  CHARACTER: 
+
+189_looks_like_you_re_about_to_get_pwned.mp3
+  "Looks like you're about to get pwned"
+  CHARACTER: 
+
+191_ma_ya_hi.mp3
+  "Ma Ya Hi"
+  CHARACTER: 
+
+195_member_when_there_weren_t_so_many_mexicans.mp3
+  "Member when there weren't so many mexicans"
+  CHARACTER: 
+
+198_mmm_no.mp3
+  "Mmm, no"
+  CHARACTER: 
+
+199_mom_bathroom.mp3
+  "Mom! Bathroom!"
+  CHARACTER: 
+
+203_my_girl_ain_t_no_hobbit.mp3
+  "My Girl Ain't No Hobbit"
+  CHARACTER: 
+
+206_nice.mp3
+  "Nice"
+  CHARACTER: 
+
+208_no_kitty_this_is_my_pot_pie.mp3
+  "No kitty this is my pot pie"
+  CHARACTER: 
+
+210_no_no_n_no_no.mp3
+  "No no no"
+  CHARACTER: 
+
+211_no_school_on_columbus_day.mp3
+  "No School On Columbus Day"
+  CHARACTER: 
+
+214_no_way_he_just_said_that.mp3
+  "No Way He Just Said That"
+  CHARACTER: 
+
+216_nooooo.mp3
+  "Nooooo"
+  CHARACTER: 
+
+221_oh_holy_night.mp3
+  "Oh Holy Night"
+  CHARACTER: 
+
+222_oh_jeez_this_doesn_t_look_very_fun.mp3
+  "Oh jeez, this doesn't look very fun"
+  CHARACTER: 
+
+233_one_of_us.mp3
+  "One of us!"
+  CHARACTER: 
+
+234_pc_bro.mp3
+  "PC Bro"
+  CHARACTER: 
+
+236_phase_3_profit.mp3
+  "Phase 3 Profit"
+  CHARACTER: 
+
+242_putting_out_fire_with_pee.mp3
+  "Putting out fire with pee"
+  CHARACTER: 
+
+243_rabble_rabble_rabble.mp3
+  "Rabble Rabble Rabble"
+  CHARACTER: 
+
+244_raging_clue.mp3
+  "Raging Clue"
+  CHARACTER: 
+
+245_randy_delivers_bad_news_grandma_died.mp3
+  "Randy delivers bad news (grandma died)"
+  CHARACTER: 
+
+247_randy_marsh_s_record_poop.mp3
+  "Randy Marsh's Record Poop"
+  CHARACTER: 
+
+249_randy_sings_easter_bonnet.mp3
+  "Randy sings Easter Bonnet"
+  CHARACTER: 
+
+251_really_nice.mp3
+  "Really Nice"
+  CHARACTER: 
+
+253_recess_is_over_back_to_class.mp3
+  "Recess is over back to class"
+  CHARACTER: 
+
+258_road_warrior_gas.mp3
+  "Road Warrior Gas"
+  CHARACTER: 
+
+259_rob_schneider.mp3
+  "Rob Schneider"
+  CHARACTER: 
+
+260_salty_balls.mp3
+  "Salty Balls"
+  CHARACTER: 
+
+261_sars_blankets.mp3
+  "Sars blankets"
+  CHARACTER: 
+
+262_sars_goes_viral.mp3
+  "Sars Goes Viral"
+  CHARACTER: 
+
+263_scooters.mp3
+  "Scooters"
+  CHARACTER: 
+
+266_screw_you_guys_i_m_goin_home.mp3
+  "Screw you guys, I'm goin home"
+  CHARACTER: 
+
+268_sexual_harassment_panda.mp3
+  "Sexual Harassment Panda"
+  CHARACTER: 
+
+276_sleeping.mp3
+  "Sleeping"
+  CHARACTER: 
+
+277_smokin_weed_right_in_front_of_a_cop.mp3
+  "Smokin' Weed Right in Front of a Cop"
+  CHARACTER: 
+
+278_snuggle.mp3
+  "Snuggle!"
+  CHARACTER: 
+
+282_sounds_like_shit.mp3
+  "Sounds like shit"
+  CHARACTER: 
+
+283_south_park.mp3
+  "South Park"
+  CHARACTER: 
+
+285_south_park_wiener_chorus.mp3
+  "South Park Wiener Chorus"
+  CHARACTER: 
+
+288_south_park_mom_song.mp3
+  "South Park Mom Song"
+  CHARACTER: 
+
+289_south_park_re_tus.mp3
+  "South Park RE TUS"
+  CHARACTER: 
+
+292_stanley_are_you_okay.mp3
+  "Stanley, Are You Okay?"
+  CHARACTER: 
+
+295_subway_commercial.mp3
+  "Subway Commercial"
+  CHARACTER: 
+
+296_sup.mp3
+  "Sup"
+  CHARACTER: 
+
+298_taco_flavored_kisses.mp3
+  "Taco Flavored Kisses"
+  CHARACTER: 
+
+303_that_didn_t_sound_cereal_at_all.mp3
+  "That didn't sound cereal at all"
+  CHARACTER: 
+
+311_that_s_so_2015.mp3
+  "That's so 2015"
+  CHARACTER: 
+
+319_they_took_our_jobs.mp3
+  "They took our jobs!"
+  CHARACTER: 
+
+321_this_is_wrestling.mp3
+  "This is Wrestling"
+  CHARACTER: 
+
+324_thrown_under_a_bus.mp3
+  "Thrown under a bus"
+  CHARACTER: 
+
+329_tom_cruise_is_a_fudge_packer.mp3
+  "Tom Cruise is a fudge packer"
+  CHARACTER: 
+
+331_treat_internet_with_respect.mp3
+  "Treat Internet with RESPECT"
+  CHARACTER: 
+
+332_tree_fiddy.mp3
+  "Tree Fiddy"
+  CHARACTER: 
+
+333_treefiddy.mp3
+  "Treefiddy"
+  CHARACTER: 
+
+335_turd_in_the_punch_bowl.mp3
+  "Turd in the punch bowl"
+  CHARACTER: 
+
+336_turn_left.mp3
+  "Turn left"
+  CHARACTER: 
+
+345_we_re_having_it_out.mp3
+  "We're Having It Out"
+  CHARACTER: 
+
+352_what_seems_to_be_the_officer_problem.mp3
+  "What seems to be the officer problem?"
+  CHARACTER: 
+
+355_what_the_fuck_is_this.mp3
+  "What the fuck is this?"
+  CHARACTER: 
+
+362_what_s_the_big_item_this_black_friday.mp3
+  "What's The Big Item This Black Friday"
+  CHARACTER: 
+
+364_white_people_renovating_houses.mp3
+  "White People Renovating Houses"
+  CHARACTER: 
+
+365_who_is_the_one_person_on_earth_free_from_slander_pt2.mp3
+  "Free from slander"
+  CHARACTER: 
+
+367_wined_and_dined.mp3
+  "Wined and dined"
+  CHARACTER: 
+
+368_wow_penis_so_big.mp3
+  "Wow, penis so big"
+  CHARACTER: 
+
+381_you_got_nothing_on_us.mp3
+  "You Got Nothing On Us"
+  CHARACTER: 
+
+384_you_just_have_to_save_me.mp3
+  "You just have to save me"
+  CHARACTER: 
+
+386_you_like_that.mp3
+  "You like that"
+  CHARACTER: 
+
+387_you_make_little_girls_pt1.mp3
+  "You make little girls pt1"
+  CHARACTER: 
+
+388_you_may_notice_some_changes_to_your_country.mp3
+  "You May Notice Some Changes To Your Country"
+  CHARACTER: 
+
+394_you_re_a_bunch_of_cockroaches.mp3
+  "You're a bunch of cockroaches"
+  CHARACTER: 
+
+395_you_re_a_continuing_source_of_inspiration.mp3
+  "You're a continuing source of inspiration"
+  CHARACTER: 

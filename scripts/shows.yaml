@@ -1041,3 +1041,18 @@ shows:
       primary: "#e07b1f"         # Lloyd's orange tux
       accent:  "#3f8fb0"         # Harry's blue tux
       bg:      "#080a0b"         # dark
+
+  - id: south-park
+    name: "South Park"
+    board_url: "https://www.101soundboards.com/boards/21886-south-park-soundboard"
+    status: pending
+    type: show
+    text_style: "title"          # board captions are already short labels
+    preserve_transcripts: true   # curated to clips >=5s; transcripts.txt is the authoritative set
+    dedup: true                  # board lists 13 transcripts twice
+    max_length: 9999             # keep everything; duration filter (not word count) does the trimming
+    # poisoned -soundboard board (ID<1M) -> scraper auto-trims 1s ding (no no_trim)
+    theme:
+      primary: "#d83a2f"         # logo banner red
+      accent:  "#3aa6db"         # construction-paper sky blue
+      bg:      "#0a0708"         # dark

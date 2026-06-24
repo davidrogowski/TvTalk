@@ -40258,5 +40258,838 @@ const shows = [
         "audioUrl": "audio/dumb-and-dumber/119_you_re_a_horrible_shot.mp3"
       }
     ]
+  },
+  {
+    "id": "south-park",
+    "name": "South Park",
+    "type": "show",
+    "theme": {
+      "primary": "#d83a2f",
+      "accent": "#3aa6db",
+      "bg": "#0a0708"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Alexa, Add Big Hairy Balls to My Shopping List",
+        "character": "",
+        "audioUrl": "audio/south-park/002_alexa_add_big_hairy_balls_to_my_shopping_list.mp3"
+      },
+      {
+        "text": "An Old Fashioned",
+        "character": "",
+        "audioUrl": "audio/south-park/005_an_old_fashioned.mp3"
+      },
+      {
+        "text": "And it's gone!",
+        "character": "",
+        "audioUrl": "audio/south-park/007_and_it_s_gone.mp3"
+      },
+      {
+        "text": "Another tortured soul",
+        "character": "",
+        "audioUrl": "audio/south-park/008_another_tortured_soul.mp3"
+      },
+      {
+        "text": "Apologies from the privileged",
+        "character": "",
+        "audioUrl": "audio/south-park/009_apologies_from_the_privileged.mp3"
+      },
+      {
+        "text": "Apologize",
+        "character": "",
+        "audioUrl": "audio/south-park/010_apologize.mp3"
+      },
+      {
+        "text": "Are you high or just stupid?",
+        "character": "",
+        "audioUrl": "audio/south-park/011_are_you_high_or_just_stupid.mp3"
+      },
+      {
+        "text": "Bar bura! Bar bura!",
+        "character": "",
+        "audioUrl": "audio/south-park/016_bar_bura_bar_bura.mp3"
+      },
+      {
+        "text": "Bono YEAH YEAH YEAAH!",
+        "character": "",
+        "audioUrl": "audio/south-park/020_bono_yeah_yeah_yeaah.mp3"
+      },
+      {
+        "text": "Boo Wendy",
+        "character": "",
+        "audioUrl": "audio/south-park/021_boo_wendy.mp3"
+      },
+      {
+        "text": "Boogers and cum",
+        "character": "",
+        "audioUrl": "audio/south-park/022_boogers_and_cum.mp3"
+      },
+      {
+        "text": "Boomer",
+        "character": "",
+        "audioUrl": "audio/south-park/023_boomer.mp3"
+      },
+      {
+        "text": "Briefcases explode",
+        "character": "",
+        "audioUrl": "audio/south-park/025_briefcases_explode.mp3"
+      },
+      {
+        "text": "Buffalo Soldier",
+        "character": "",
+        "audioUrl": "audio/south-park/027_buffalo_soldier.mp3"
+      },
+      {
+        "text": "Buying Toilet Paper",
+        "character": "",
+        "audioUrl": "audio/south-park/029_buying_toilet_paper.mp3"
+      },
+      {
+        "text": "Cable Company Customer Service",
+        "character": "",
+        "audioUrl": "audio/south-park/030_cable_company_customer_service.mp3"
+      },
+      {
+        "text": "Canada on Strike",
+        "character": "",
+        "audioUrl": "audio/south-park/033_canada_on_strike.mp3"
+      },
+      {
+        "text": "Canadian ABCs",
+        "character": "",
+        "audioUrl": "audio/south-park/034_canadian_abcs.mp3"
+      },
+      {
+        "text": "Cartman s cat",
+        "character": "",
+        "audioUrl": "audio/south-park/037_cartman_s_cat.mp3"
+      },
+      {
+        "text": "Cartman's Laugh",
+        "character": "",
+        "audioUrl": "audio/south-park/038_cartman_s_laugh.mp3"
+      },
+      {
+        "text": "Chewbacca Defense",
+        "character": "",
+        "audioUrl": "audio/south-park/041_chewbacca_defense.mp3"
+      },
+      {
+        "text": "Christopher Reeves Stem Cells",
+        "character": "",
+        "audioUrl": "audio/south-park/042_christopher_reeves_stem_cells.mp3"
+      },
+      {
+        "text": "Coding",
+        "character": "",
+        "audioUrl": "audio/south-park/044_coding.mp3"
+      },
+      {
+        "text": "Columbus Day",
+        "character": "",
+        "audioUrl": "audio/south-park/045_columbus_day.mp3"
+      },
+      {
+        "text": "Columbus Day Poem",
+        "character": "",
+        "audioUrl": "audio/south-park/046_columbus_day_poem.mp3"
+      },
+      {
+        "text": "Come on, squeal!",
+        "character": "",
+        "audioUrl": "audio/south-park/048_come_on_squeal.mp3"
+      },
+      {
+        "text": "Creme Fraiche",
+        "character": "",
+        "audioUrl": "audio/south-park/052_creme_fraiche.mp3"
+      },
+      {
+        "text": "Cynical Asshole",
+        "character": "",
+        "audioUrl": "audio/south-park/053_cynical_asshole.mp3"
+      },
+      {
+        "text": "Dad poop",
+        "character": "",
+        "audioUrl": "audio/south-park/054_dad_poop.mp3"
+      },
+      {
+        "text": "Diarrhea",
+        "character": "",
+        "audioUrl": "audio/south-park/055_diarrhea.mp3"
+      },
+      {
+        "text": "Doesn't look very fun",
+        "character": "",
+        "audioUrl": "audio/south-park/058_doesn_t_look_very_fun.mp3"
+      },
+      {
+        "text": "Don't fuck me Eric",
+        "character": "",
+        "audioUrl": "audio/south-park/059_don_t_fuck_me_eric.mp3"
+      },
+      {
+        "text": "Don't fuck me, Eric",
+        "character": "",
+        "audioUrl": "audio/south-park/060_don_t_fuck_me_eric.mp3"
+      },
+      {
+        "text": "Down like a clown Charlie Brown",
+        "character": "",
+        "audioUrl": "audio/south-park/062_down_like_a_clown_charlie_brown.mp3"
+      },
+      {
+        "text": "Dreidel song",
+        "character": "",
+        "audioUrl": "audio/south-park/063_dreidel_song.mp3"
+      },
+      {
+        "text": "Drugs are bad, mkay",
+        "character": "",
+        "audioUrl": "audio/south-park/065_drugs_are_bad_mkay.mp3"
+      },
+      {
+        "text": "Easter Song",
+        "character": "",
+        "audioUrl": "audio/south-park/066_easter_song.mp3"
+      },
+      {
+        "text": "Eating Chips",
+        "character": "",
+        "audioUrl": "audio/south-park/067_eating_chips.mp3"
+      },
+      {
+        "text": "Faith In Christ",
+        "character": "",
+        "audioUrl": "audio/south-park/072_faith_in_christ.mp3"
+      },
+      {
+        "text": "French fry when you should pizza",
+        "character": "",
+        "audioUrl": "audio/south-park/075_french_fry_when_you_should_pizza.mp3"
+      },
+      {
+        "text": "Gay Fish",
+        "character": "",
+        "audioUrl": "audio/south-park/081_gay_fish.mp3"
+      },
+      {
+        "text": "Get out of here smoker",
+        "character": "",
+        "audioUrl": "audio/south-park/085_get_out_of_here_smoker.mp3"
+      },
+      {
+        "text": "Get out to vote song",
+        "character": "",
+        "audioUrl": "audio/south-park/086_get_out_to_vote_song.mp3"
+      },
+      {
+        "text": "Go America Go Broncos",
+        "character": "",
+        "audioUrl": "audio/south-park/090_go_america_go_broncos.mp3"
+      },
+      {
+        "text": "Go up to bed",
+        "character": "",
+        "audioUrl": "audio/south-park/091_go_up_to_bed.mp3"
+      },
+      {
+        "text": "Gone",
+        "character": "",
+        "audioUrl": "audio/south-park/094_gone.mp3"
+      },
+      {
+        "text": "Happy Halloween from South Park",
+        "character": "",
+        "audioUrl": "audio/south-park/097_happy_halloween_from_south_park.mp3"
+      },
+      {
+        "text": "He is a ginger!",
+        "character": "",
+        "audioUrl": "audio/south-park/099_he_is_a_ginger.mp3"
+      },
+      {
+        "text": "Heat of the Moment",
+        "character": "",
+        "audioUrl": "audio/south-park/101_heat_of_the_moment.mp3"
+      },
+      {
+        "text": "Heather Swanson",
+        "character": "",
+        "audioUrl": "audio/south-park/102_heather_swanson.mp3"
+      },
+      {
+        "text": "Hemp Hat",
+        "character": "",
+        "audioUrl": "audio/south-park/106_hemp_hat.mp3"
+      },
+      {
+        "text": "Hey, There's a Bee In Here",
+        "character": "",
+        "audioUrl": "audio/south-park/110_hey_there_s_a_bee_in_here.mp3"
+      },
+      {
+        "text": "How's that filet mignon",
+        "character": "",
+        "audioUrl": "audio/south-park/114_how_s_that_filet_mignon.mp3"
+      },
+      {
+        "text": "I Am Not Chugging Beer",
+        "character": "",
+        "audioUrl": "audio/south-park/117_i_am_not_chugging_beer.mp3"
+      },
+      {
+        "text": "I brake up",
+        "character": "",
+        "audioUrl": "audio/south-park/118_i_brake_up.mp3"
+      },
+      {
+        "text": "I don't care about forgiveness! (Mexican Joker)",
+        "character": "",
+        "audioUrl": "audio/south-park/121_i_don_t_care_about_forgiveness_mexican_joker.mp3"
+      },
+      {
+        "text": "I feel like I could conquer the world",
+        "character": "",
+        "audioUrl": "audio/south-park/123_i_feel_like_i_could_conquer_the_world.mp3"
+      },
+      {
+        "text": "I sure am excited",
+        "character": "",
+        "audioUrl": "audio/south-park/131_i_sure_am_excited.mp3"
+      },
+      {
+        "text": "I Thought This Was America",
+        "character": "",
+        "audioUrl": "audio/south-park/132_i_thought_this_was_america.mp3"
+      },
+      {
+        "text": "I thought this was America!",
+        "character": "",
+        "audioUrl": "audio/south-park/133_i_thought_this_was_america.mp3"
+      },
+      {
+        "text": "I Wasn't Watching Food Channel",
+        "character": "",
+        "audioUrl": "audio/south-park/135_i_wasn_t_watching_food_channel.mp3"
+      },
+      {
+        "text": "I will bust your ass",
+        "character": "",
+        "audioUrl": "audio/south-park/136_i_will_bust_your_ass.mp3"
+      },
+      {
+        "text": "I'll just use my special getting high powers",
+        "character": "",
+        "audioUrl": "audio/south-park/138_i_ll_just_use_my_special_getting_high_powers.mp3"
+      },
+      {
+        "text": "I'm a bad man",
+        "character": "",
+        "audioUrl": "audio/south-park/139_i_m_a_bad_man.mp3"
+      },
+      {
+        "text": "I'm back!",
+        "character": "",
+        "audioUrl": "audio/south-park/141_i_m_back.mp3"
+      },
+      {
+        "text": "I'm Chris Hansen",
+        "character": "",
+        "audioUrl": "audio/south-park/142_i_m_chris_hansen.mp3"
+      },
+      {
+        "text": "I'm gonna have diarrhea again",
+        "character": "",
+        "audioUrl": "audio/south-park/144_i_m_gonna_have_diarrhea_again.mp3"
+      },
+      {
+        "text": "I'm Japanese so I'm gonna kill myself",
+        "character": "",
+        "audioUrl": "audio/south-park/145_i_m_japanese_so_i_m_gonna_kill_myself.mp3"
+      },
+      {
+        "text": "I'm Out",
+        "character": "",
+        "audioUrl": "audio/south-park/148_i_m_out.mp3"
+      },
+      {
+        "text": "I'm out!",
+        "character": "",
+        "audioUrl": "audio/south-park/149_i_m_out.mp3"
+      },
+      {
+        "text": "I'm so high right now",
+        "character": "",
+        "audioUrl": "audio/south-park/150_i_m_so_high_right_now.mp3"
+      },
+      {
+        "text": "I'm so startled",
+        "character": "",
+        "audioUrl": "audio/south-park/153_i_m_so_startled.mp3"
+      },
+      {
+        "text": "I'm Sorry I Thought This Was America",
+        "character": "",
+        "audioUrl": "audio/south-park/154_i_m_sorry_i_thought_this_was_america.mp3"
+      },
+      {
+        "text": "I'm Your Father, Put It Back On",
+        "character": "",
+        "audioUrl": "audio/south-park/155_i_m_your_father_put_it_back_on.mp3"
+      },
+      {
+        "text": "I've Got Something In My Front Pocket",
+        "character": "",
+        "audioUrl": "audio/south-park/156_i_ve_got_something_in_my_front_pocket.mp3"
+      },
+      {
+        "text": "If you don't like America, you can get out",
+        "character": "",
+        "audioUrl": "audio/south-park/158_if_you_don_t_like_america_you_can_get_out.mp3"
+      },
+      {
+        "text": "Ike French Fries",
+        "character": "",
+        "audioUrl": "audio/south-park/160_ike_french_fries.mp3"
+      },
+      {
+        "text": "Ike south park",
+        "character": "",
+        "audioUrl": "audio/south-park/161_ike_south_park.mp3"
+      },
+      {
+        "text": "In The Ghetto",
+        "character": "",
+        "audioUrl": "audio/south-park/163_in_the_ghetto.mp3"
+      },
+      {
+        "text": "It doesn't matter who we are",
+        "character": "",
+        "audioUrl": "audio/south-park/166_it_doesn_t_matter_who_we_are.mp3"
+      },
+      {
+        "text": "It's All Gone",
+        "character": "",
+        "audioUrl": "audio/south-park/168_it_s_all_gone.mp3"
+      },
+      {
+        "text": "It's wrong! It's wrooooong!",
+        "character": "",
+        "audioUrl": "audio/south-park/172_it_s_wrong_it_s_wrooooong.mp3"
+      },
+      {
+        "text": "Come out of the closet",
+        "character": "",
+        "audioUrl": "audio/south-park/175_john_travolta_tells_tom_cruise_to_come_out_of_the_closet.mp3"
+      },
+      {
+        "text": "Just Get It, Man",
+        "character": "",
+        "audioUrl": "audio/south-park/176_just_get_it_man.mp3"
+      },
+      {
+        "text": "Kyle and Rebecca Kiss",
+        "character": "",
+        "audioUrl": "audio/south-park/178_kyle_and_rebecca_kiss.mp3"
+      },
+      {
+        "text": "Kyle's Mom is a Big Fat Bitch",
+        "character": "",
+        "audioUrl": "audio/south-park/179_kyle_s_mom_is_a_big_fat_bitch.mp3"
+      },
+      {
+        "text": "Kyle's Money",
+        "character": "",
+        "audioUrl": "audio/south-park/180_kyle_s_money.mp3"
+      },
+      {
+        "text": "Kyles Mom",
+        "character": "",
+        "audioUrl": "audio/south-park/181_kyles_mom.mp3"
+      },
+      {
+        "text": "Leave the panda alone!",
+        "character": "",
+        "audioUrl": "audio/south-park/182_leave_the_panda_alone.mp3"
+      },
+      {
+        "text": "Let all debts be forgiven and all slaves freed",
+        "character": "",
+        "audioUrl": "audio/south-park/183_let_all_debts_be_forgiven_and_all_slaves_freed.mp3"
+      },
+      {
+        "text": "Let me get high, then I'll remember",
+        "character": "",
+        "audioUrl": "audio/south-park/184_let_me_get_high_then_i_ll_remember.mp3"
+      },
+      {
+        "text": "Loan Me Some Lipstick",
+        "character": "",
+        "audioUrl": "audio/south-park/187_loan_me_some_lipstick.mp3"
+      },
+      {
+        "text": "Loggers",
+        "character": "",
+        "audioUrl": "audio/south-park/188_loggers.mp3"
+      },
+      {
+        "text": "Looks like you're about to get pwned",
+        "character": "",
+        "audioUrl": "audio/south-park/189_looks_like_you_re_about_to_get_pwned.mp3"
+      },
+      {
+        "text": "Ma Ya Hi",
+        "character": "",
+        "audioUrl": "audio/south-park/191_ma_ya_hi.mp3"
+      },
+      {
+        "text": "Member when there weren't so many mexicans",
+        "character": "",
+        "audioUrl": "audio/south-park/195_member_when_there_weren_t_so_many_mexicans.mp3"
+      },
+      {
+        "text": "Mmm, no",
+        "character": "",
+        "audioUrl": "audio/south-park/198_mmm_no.mp3"
+      },
+      {
+        "text": "Mom! Bathroom!",
+        "character": "",
+        "audioUrl": "audio/south-park/199_mom_bathroom.mp3"
+      },
+      {
+        "text": "My Girl Ain't No Hobbit",
+        "character": "",
+        "audioUrl": "audio/south-park/203_my_girl_ain_t_no_hobbit.mp3"
+      },
+      {
+        "text": "Nice",
+        "character": "",
+        "audioUrl": "audio/south-park/206_nice.mp3"
+      },
+      {
+        "text": "No kitty this is my pot pie",
+        "character": "",
+        "audioUrl": "audio/south-park/208_no_kitty_this_is_my_pot_pie.mp3"
+      },
+      {
+        "text": "No no no",
+        "character": "",
+        "audioUrl": "audio/south-park/210_no_no_n_no_no.mp3"
+      },
+      {
+        "text": "No School On Columbus Day",
+        "character": "",
+        "audioUrl": "audio/south-park/211_no_school_on_columbus_day.mp3"
+      },
+      {
+        "text": "No Way He Just Said That",
+        "character": "",
+        "audioUrl": "audio/south-park/214_no_way_he_just_said_that.mp3"
+      },
+      {
+        "text": "Nooooo",
+        "character": "",
+        "audioUrl": "audio/south-park/216_nooooo.mp3"
+      },
+      {
+        "text": "Oh Holy Night",
+        "character": "",
+        "audioUrl": "audio/south-park/221_oh_holy_night.mp3"
+      },
+      {
+        "text": "Oh jeez, this doesn't look very fun",
+        "character": "",
+        "audioUrl": "audio/south-park/222_oh_jeez_this_doesn_t_look_very_fun.mp3"
+      },
+      {
+        "text": "One of us!",
+        "character": "",
+        "audioUrl": "audio/south-park/233_one_of_us.mp3"
+      },
+      {
+        "text": "PC Bro",
+        "character": "",
+        "audioUrl": "audio/south-park/234_pc_bro.mp3"
+      },
+      {
+        "text": "Phase 3 Profit",
+        "character": "",
+        "audioUrl": "audio/south-park/236_phase_3_profit.mp3"
+      },
+      {
+        "text": "Putting out fire with pee",
+        "character": "",
+        "audioUrl": "audio/south-park/242_putting_out_fire_with_pee.mp3"
+      },
+      {
+        "text": "Rabble Rabble Rabble",
+        "character": "",
+        "audioUrl": "audio/south-park/243_rabble_rabble_rabble.mp3"
+      },
+      {
+        "text": "Raging Clue",
+        "character": "",
+        "audioUrl": "audio/south-park/244_raging_clue.mp3"
+      },
+      {
+        "text": "Randy delivers bad news (grandma died)",
+        "character": "",
+        "audioUrl": "audio/south-park/245_randy_delivers_bad_news_grandma_died.mp3"
+      },
+      {
+        "text": "Randy Marsh's Record Poop",
+        "character": "",
+        "audioUrl": "audio/south-park/247_randy_marsh_s_record_poop.mp3"
+      },
+      {
+        "text": "Randy sings Easter Bonnet",
+        "character": "",
+        "audioUrl": "audio/south-park/249_randy_sings_easter_bonnet.mp3"
+      },
+      {
+        "text": "Really Nice",
+        "character": "",
+        "audioUrl": "audio/south-park/251_really_nice.mp3"
+      },
+      {
+        "text": "Recess is over back to class",
+        "character": "",
+        "audioUrl": "audio/south-park/253_recess_is_over_back_to_class.mp3"
+      },
+      {
+        "text": "Road Warrior Gas",
+        "character": "",
+        "audioUrl": "audio/south-park/258_road_warrior_gas.mp3"
+      },
+      {
+        "text": "Rob Schneider",
+        "character": "",
+        "audioUrl": "audio/south-park/259_rob_schneider.mp3"
+      },
+      {
+        "text": "Salty Balls",
+        "character": "",
+        "audioUrl": "audio/south-park/260_salty_balls.mp3"
+      },
+      {
+        "text": "Sars blankets",
+        "character": "",
+        "audioUrl": "audio/south-park/261_sars_blankets.mp3"
+      },
+      {
+        "text": "Sars Goes Viral",
+        "character": "",
+        "audioUrl": "audio/south-park/262_sars_goes_viral.mp3"
+      },
+      {
+        "text": "Scooters",
+        "character": "",
+        "audioUrl": "audio/south-park/263_scooters.mp3"
+      },
+      {
+        "text": "Screw you guys, I'm goin home",
+        "character": "",
+        "audioUrl": "audio/south-park/266_screw_you_guys_i_m_goin_home.mp3"
+      },
+      {
+        "text": "Sexual Harassment Panda",
+        "character": "",
+        "audioUrl": "audio/south-park/268_sexual_harassment_panda.mp3"
+      },
+      {
+        "text": "Sleeping",
+        "character": "",
+        "audioUrl": "audio/south-park/276_sleeping.mp3"
+      },
+      {
+        "text": "Smokin' Weed Right in Front of a Cop",
+        "character": "",
+        "audioUrl": "audio/south-park/277_smokin_weed_right_in_front_of_a_cop.mp3"
+      },
+      {
+        "text": "Snuggle!",
+        "character": "",
+        "audioUrl": "audio/south-park/278_snuggle.mp3"
+      },
+      {
+        "text": "Sounds like shit",
+        "character": "",
+        "audioUrl": "audio/south-park/282_sounds_like_shit.mp3"
+      },
+      {
+        "text": "South Park",
+        "character": "",
+        "audioUrl": "audio/south-park/283_south_park.mp3"
+      },
+      {
+        "text": "South Park Wiener Chorus",
+        "character": "",
+        "audioUrl": "audio/south-park/285_south_park_wiener_chorus.mp3"
+      },
+      {
+        "text": "South Park Mom Song",
+        "character": "",
+        "audioUrl": "audio/south-park/288_south_park_mom_song.mp3"
+      },
+      {
+        "text": "South Park RE TUS",
+        "character": "",
+        "audioUrl": "audio/south-park/289_south_park_re_tus.mp3"
+      },
+      {
+        "text": "Stanley, Are You Okay?",
+        "character": "",
+        "audioUrl": "audio/south-park/292_stanley_are_you_okay.mp3"
+      },
+      {
+        "text": "Subway Commercial",
+        "character": "",
+        "audioUrl": "audio/south-park/295_subway_commercial.mp3"
+      },
+      {
+        "text": "Sup",
+        "character": "",
+        "audioUrl": "audio/south-park/296_sup.mp3"
+      },
+      {
+        "text": "Taco Flavored Kisses",
+        "character": "",
+        "audioUrl": "audio/south-park/298_taco_flavored_kisses.mp3"
+      },
+      {
+        "text": "That didn't sound cereal at all",
+        "character": "",
+        "audioUrl": "audio/south-park/303_that_didn_t_sound_cereal_at_all.mp3"
+      },
+      {
+        "text": "That's so 2015",
+        "character": "",
+        "audioUrl": "audio/south-park/311_that_s_so_2015.mp3"
+      },
+      {
+        "text": "They took our jobs!",
+        "character": "",
+        "audioUrl": "audio/south-park/319_they_took_our_jobs.mp3"
+      },
+      {
+        "text": "This is Wrestling",
+        "character": "",
+        "audioUrl": "audio/south-park/321_this_is_wrestling.mp3"
+      },
+      {
+        "text": "Thrown under a bus",
+        "character": "",
+        "audioUrl": "audio/south-park/324_thrown_under_a_bus.mp3"
+      },
+      {
+        "text": "Tom Cruise is a fudge packer",
+        "character": "",
+        "audioUrl": "audio/south-park/329_tom_cruise_is_a_fudge_packer.mp3"
+      },
+      {
+        "text": "Treat Internet with RESPECT",
+        "character": "",
+        "audioUrl": "audio/south-park/331_treat_internet_with_respect.mp3"
+      },
+      {
+        "text": "Tree Fiddy",
+        "character": "",
+        "audioUrl": "audio/south-park/332_tree_fiddy.mp3"
+      },
+      {
+        "text": "Treefiddy",
+        "character": "",
+        "audioUrl": "audio/south-park/333_treefiddy.mp3"
+      },
+      {
+        "text": "Turd in the punch bowl",
+        "character": "",
+        "audioUrl": "audio/south-park/335_turd_in_the_punch_bowl.mp3"
+      },
+      {
+        "text": "Turn left",
+        "character": "",
+        "audioUrl": "audio/south-park/336_turn_left.mp3"
+      },
+      {
+        "text": "We're Having It Out",
+        "character": "",
+        "audioUrl": "audio/south-park/345_we_re_having_it_out.mp3"
+      },
+      {
+        "text": "What seems to be the officer problem?",
+        "character": "",
+        "audioUrl": "audio/south-park/352_what_seems_to_be_the_officer_problem.mp3"
+      },
+      {
+        "text": "What the fuck is this?",
+        "character": "",
+        "audioUrl": "audio/south-park/355_what_the_fuck_is_this.mp3"
+      },
+      {
+        "text": "What's The Big Item This Black Friday",
+        "character": "",
+        "audioUrl": "audio/south-park/362_what_s_the_big_item_this_black_friday.mp3"
+      },
+      {
+        "text": "White People Renovating Houses",
+        "character": "",
+        "audioUrl": "audio/south-park/364_white_people_renovating_houses.mp3"
+      },
+      {
+        "text": "Free from slander",
+        "character": "",
+        "audioUrl": "audio/south-park/365_who_is_the_one_person_on_earth_free_from_slander_pt2.mp3"
+      },
+      {
+        "text": "Wined and dined",
+        "character": "",
+        "audioUrl": "audio/south-park/367_wined_and_dined.mp3"
+      },
+      {
+        "text": "Wow, penis so big",
+        "character": "",
+        "audioUrl": "audio/south-park/368_wow_penis_so_big.mp3"
+      },
+      {
+        "text": "You Got Nothing On Us",
+        "character": "",
+        "audioUrl": "audio/south-park/381_you_got_nothing_on_us.mp3"
+      },
+      {
+        "text": "You just have to save me",
+        "character": "",
+        "audioUrl": "audio/south-park/384_you_just_have_to_save_me.mp3"
+      },
+      {
+        "text": "You like that",
+        "character": "",
+        "audioUrl": "audio/south-park/386_you_like_that.mp3"
+      },
+      {
+        "text": "You make little girls pt1",
+        "character": "",
+        "audioUrl": "audio/south-park/387_you_make_little_girls_pt1.mp3"
+      },
+      {
+        "text": "You May Notice Some Changes To Your Country",
+        "character": "",
+        "audioUrl": "audio/south-park/388_you_may_notice_some_changes_to_your_country.mp3"
+      },
+      {
+        "text": "You're a bunch of cockroaches",
+        "character": "",
+        "audioUrl": "audio/south-park/394_you_re_a_bunch_of_cockroaches.mp3"
+      },
+      {
+        "text": "You're a continuing source of inspiration",
+        "character": "",
+        "audioUrl": "audio/south-park/395_you_re_a_continuing_source_of_inspiration.mp3"
+      }
+    ]
   }
 ];
