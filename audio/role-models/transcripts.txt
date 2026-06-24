@@ -1,0 +1,259 @@
+001_all_right_gleebo_one_more.mp3
+  "All right, Gleebo"
+  CHARACTER: 
+
+002_and_every_woman_has_two_boobs_for_the_most_part.mp3
+  "Every woman has two boobs"
+  CHARACTER: 
+
+003_and_i_tell_them_i_spent_a_lot_of_time_alone_as_a_kid.mp3
+  "Alone as a kid"
+  CHARACTER: 
+
+004_and_let_s_rip_this_realm_a_new_asshole.mp3
+  "Rip this realm a new asshole"
+  CHARACTER: 
+
+006_and_this_motherfucker_tried_to_grab_on_my_hang_down.mp3
+  "Grab on my hang down"
+  CHARACTER: 
+
+009_aren_t_you_dead_yet.mp3
+  "Aren't you dead yet?"
+  CHARACTER: 
+
+012_because_he_s_the_king_and_he_rules_the_entire_realm.mp3
+  "He rules the entire realm"
+  CHARACTER: 
+
+013_beth_you_are_so_awesome.mp3
+  "Beth, you are so awesome"
+  CHARACTER: 
+
+016_but_i_can_t_come_home_right_now.mp3
+  "Can't come home right now"
+  CHARACTER: 
+
+017_but_i_don_t_care.mp3
+  "But I don't care"
+  CHARACTER: 
+
+018_cacedonia_is_to_rule_forever.mp3
+  "Cacedonia rules forever!"
+  CHARACTER: 
+
+021_come_on_man_we_re_on_pins_and_needles_give_us_a_story.mp3
+  "Give us a story"
+  CHARACTER: 
+
+025_come_on_sing_it.mp3
+  "Come on. Sing it!"
+  CHARACTER: 
+
+028_danny_you_re_not_happy.mp3
+  "Danny, you're not happy"
+  CHARACTER: 
+
+031_drugs_are_bad_energy_drinks_good.mp3
+  "Drugs bad, energy drinks good"
+  CHARACTER: 
+
+032_drugs_why_do_kids_take_drugs.mp3
+  "Why do kids take drugs?"
+  CHARACTER: 
+
+039_for_all_you_know_he_hates_his_job_as_much_as_you_do.mp3
+  "He hates his job"
+  CHARACTER: 
+
+041_fuck_my_cock_sorry.mp3
+  "Fuck my cock! Sorry"
+  CHARACTER: 
+
+045_god_this_suit_smells_like_tater_tots.mp3
+  "Smells like Tater Tots"
+  CHARACTER: 
+
+051_he_knows_not_i_m_here.mp3
+  "He knows not I'm here"
+  CHARACTER: 
+
+054_hey_man.mp3
+  "Hey, man!"
+  CHARACTER: 
+
+056_hey_or_as_little_time.mp3
+  "Or as little time"
+  CHARACTER: 
+
+057_hillary_clinton_i_m_sort_of_into_politics.mp3
+  "Sort of into politics"
+  CHARACTER: 
+
+061_how_many_hours_do_we_have_left.mp3
+  "How many hours left?"
+  CHARACTER: 
+
+064_i_can_t_take_it_anymore_with_you_yapping_away.mp3
+  "Stop yapping away"
+  CHARACTER: 
+
+070_i_have_a_question_wheeler_yes_jj.mp3
+  "I have a question, Wheeler"
+  CHARACTER: 
+
+073_i_mean_i_thought_my_life_sucked_jesus_christ_i_really_feel_f.mp3
+  "I really feel for you"
+  CHARACTER: 
+
+077_i_was_wondering_if_you_could_maybe_sign_my_hours_sheet_from.mp3
+  "Sign my hours sheet"
+  CHARACTER: 
+
+078_i_i_lost_my_temper_when_i_saw_you_last_and_that_was_regretta.mp3
+  "That was regrettable"
+  CHARACTER: 
+
+081_i_m_gonna_run_a_train_on_these_chicken_fingers.mp3
+  "Run a train on chicken fingers"
+  CHARACTER: 
+
+084_i_m_just_glad_you_re_gonna_be_getting_him_out_of_his_own_lit.mp3
+  "Out of his own world"
+  CHARACTER: 
+
+086_i_m_not_wheeler_happy_in_some_brainless_job.mp3
+  "Not happy in a brainless job"
+  CHARACTER: 
+
+096_it_s_the_ultimate_race_against_the_clock.mp3
+  "Race against the clock"
+  CHARACTER: 
+
+098_just_put_your_game_face_on.mp3
+  "Put your game face on"
+  CHARACTER: 
+
+100_kiss_are_you_kidding_no_god.mp3
+  "Kiss? Are you kidding?"
+  CHARACTER: 
+
+107_long_live_the_king.mp3
+  "Long live the king"
+  CHARACTER: 
+
+109_magic_healing_potion_wizards.mp3
+  "Magic healing potion"
+  CHARACTER: 
+
+111_maybe_they_re_trying_to_fit_in_with_a_new_group_of_friends.mp3
+  "Fit in with new friends"
+  CHARACTER: 
+
+114_my_fair_lady_esplen_goddess_of_navalore.mp3
+  "Esplen, Goddess of Navalore"
+  CHARACTER: 
+
+118_no_no_no_i_don_t_mean_to_cause_trouble.mp3
+  "Don't mean to cause trouble"
+  CHARACTER: 
+
+123_no_wait_oh_yeah_i_got_it.mp3
+  "Oh yeah, I got it"
+  CHARACTER: 
+
+126_oh_danny_boy_the_danny_boys_are_danny_boys.mp3
+  "Oh, Danny boy"
+  CHARACTER: 
+
+133_oh_i_m_sorry_augie_right_he_ll_be_out_in_a_minute.mp3
+  "He'll be out in a minute"
+  CHARACTER: 
+
+134_okay.mp3
+  "Okay!"
+  CHARACTER: 
+
+136_okay_thanks.mp3
+  "Okay. Thanks."
+  CHARACTER: 
+
+137_one_slice_to_the_king_s_chest_and_down_like_a_sack_of_elderb.mp3
+  "Down like a sack of elderberries"
+  CHARACTER: 
+
+138_ouch_ouch_oh_yeah_yeah.mp3
+  "Ouch. Oh yeah."
+  CHARACTER: 
+
+141_please_open_the_door_or_i_ll_pour_your_juice_out.mp3
+  "I'll pour your juice out"
+  CHARACTER: 
+
+151_schedule_wise_you_can_elect_to_spend.mp3
+  "Schedule wise"
+  CHARACTER: 
+
+160_stay_off_drugs.mp3
+  "Stay off drugs"
+  CHARACTER: 
+
+161_sure_great.mp3
+  "Sure. Great."
+  CHARACTER: 
+
+170_the_demon.mp3
+  "The Demon"
+  CHARACTER: 
+
+172_there_s_always_a_guy_with_an_acoustic_guitar_that_doesn_t_qu.mp3
+  "Guy with an acoustic guitar"
+  CHARACTER: 
+
+173_they_don_t_call_me_the_king_of_this_game_for_nothing.mp3
+  "King of this game"
+  CHARACTER: 
+
+180_we_are_gonna_make_some_s_mores_using_white_chocolate.mp3
+  "S'mores with white chocolate"
+  CHARACTER: 
+
+182_we_will_move_our_chip_monk_feet.mp3
+  "Chipmunk feet"
+  CHARACTER: 
+
+188_well_you_know_what_i_say_to_those_naysayers.mp3
+  "What I say to naysayers"
+  CHARACTER: 
+
+189_well_you_re_gonna_have_to_ask_him_yourself.mp3
+  "Ask him yourself"
+  CHARACTER: 
+
+196_where_am_i_gonna_find_a_girl_who_hates_all_the_same_things_i.mp3
+  "A girl who hates the same things"
+  CHARACTER: 
+
+208_yeah_oh_snap_no.mp3
+  "Oh, snap! No!"
+  CHARACTER: 
+
+209_yeah_totally.mp3
+  "Yeah. Totally."
+  CHARACTER: 
+
+214_you_can_t_kill_me_after_i_already_killed_you.mp3
+  "I already killed you"
+  CHARACTER: 
+
+216_you_guys_are_fucked.mp3
+  "You guys are fucked"
+  CHARACTER: 
+
+220_you_know_what_don_t_worry_about_it_we_ll_make_do_with_three.mp3
+  "Make do with three each"
+  CHARACTER: 
+
+229_you_re_the_man_danny.mp3
+  "You're the man, Danny!"
+  CHARACTER: 

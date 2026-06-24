@@ -1079,7 +1079,7 @@ shows:
     status: pending
     type: movie
     text_style: "title"          # caption-style board; labels hand-cleaned to short handles
-    preserve_transcripts: true   # curated by duration cutoff + cleaned labels; transcripts.txt is authoritative
+    preserve_transcripts: true   # curated to clips >=3s (board is all short one-liners, max ~7s) + cleaned labels; transcripts.txt is authoritative
     dedup: true                  # board repeats a transcript
     max_length: 9999             # keep everything; duration cutoff (not word count) does the trimming
     no_trim: true                # slug ends -soundboard but -2008- marks a MODERN board; audio verified CLEAN (loud from t=0, no ding) -> do NOT chop 1s
