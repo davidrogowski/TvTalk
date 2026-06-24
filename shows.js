@@ -42257,5 +42257,419 @@ const shows = [
         "audioUrl": "audio/role-models/229_you_re_the_man_danny.mp3"
       }
     ]
+  },
+  {
+    "id": "knocked-up",
+    "name": "Knocked Up",
+    "type": "movie",
+    "theme": {
+      "primary": "#e8a92e",
+      "accent": "#c0392b",
+      "bg": "#0a0805"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Allison should get a C-section",
+        "character": "",
+        "audioUrl": "audio/knocked-up/001_allison_should_get_a_c_section_my_mom_had_one_well_you_re_a.mp3"
+      },
+      {
+        "text": "Are your boobs tender?",
+        "character": "",
+        "audioUrl": "audio/knocked-up/002_are_your_boobs_tender_do_you_have_veins_no_do_i_you_have_vei.mp3"
+      },
+      {
+        "text": "Bubbles, bubbles, bubbles",
+        "character": "",
+        "audioUrl": "audio/knocked-up/003_bubbles_bubbles_bubbles_bubbles_bubbles_bubbles_bubbles_bubb.mp3"
+      },
+      {
+        "text": "Do you ever stare at your balls?",
+        "character": "",
+        "audioUrl": "audio/knocked-up/004_do_you_ever_get_so_bored_you_stare_at_your_balls.mp3"
+      },
+      {
+        "text": "Fuck you hormones",
+        "character": "",
+        "audioUrl": "audio/knocked-up/005_fuck_you_hormones.mp3"
+      },
+      {
+        "text": "Get out!",
+        "character": "",
+        "audioUrl": "audio/knocked-up/006_get_out.mp3"
+      },
+      {
+        "text": "He looks like Jon Favreau",
+        "character": "",
+        "audioUrl": "audio/knocked-up/007_he_looks_like_fatty_arbuckle_he_looks_like_jon_favreau.mp3"
+      },
+      {
+        "text": "He spelled coming wrong",
+        "character": "",
+        "audioUrl": "audio/knocked-up/008_he_spelled_coming_wrong_oh_it_s_come_oh_that_s_gross.mp3"
+      },
+      {
+        "text": "He's not cheating on her",
+        "character": "",
+        "audioUrl": "audio/knocked-up/009_he_s_not_cheating_on_her_how_do_you_know_i_just_know_i_m_100.mp3"
+      },
+      {
+        "text": "Don't let the door hit your vagina",
+        "character": "",
+        "audioUrl": "audio/knocked-up/010_hey_guys_don_t_let_the_door_hit_in_the_vagina_on_the_way_out.mp3"
+      },
+      {
+        "text": "Door hit you in the vagina",
+        "character": "",
+        "audioUrl": "audio/knocked-up/011_hey_pete_don_t_let_the_door_hit_you_in_the_vagina_on_the_way.mp3"
+      },
+      {
+        "text": "Good morning, 3 boyfriends",
+        "character": "",
+        "audioUrl": "audio/knocked-up/012_hey_good_morning_3_boyfriends_just_kidding_kind_of.mp3"
+      },
+      {
+        "text": "Do we have sex? Yes. Nice.",
+        "character": "",
+        "audioUrl": "audio/knocked-up/013_hi_hey_hey_i_m_naked_yeah_do_we_have_sex_yes_nice.mp3"
+      },
+      {
+        "text": "I heard you were pregnant",
+        "character": "",
+        "audioUrl": "audio/knocked-up/014_hi_hi_i_m_jody_yeah_hi_i_heard_you_were_pregnant_you_scared.mp3"
+      },
+      {
+        "text": "How you get pink eye",
+        "character": "",
+        "audioUrl": "audio/knocked-up/015_how_you_get_pink_eye.mp3"
+      },
+      {
+        "text": "He whacks off into the towels",
+        "character": "",
+        "audioUrl": "audio/knocked-up/016_i_buy_these_nice_towels_and_he_whacks_off_into_them_710_fore.mp3"
+      },
+      {
+        "text": "Lying with my shoulders",
+        "character": "",
+        "audioUrl": "audio/knocked-up/017_i_don_t_like_for_anybody_really_nobody_can_you_just_shrug_th.mp3"
+      },
+      {
+        "text": "Meeting gynecologists with Allison",
+        "character": "",
+        "audioUrl": "audio/knocked-up/018_i_gotta_go_meet_gynecologists_with_allison_she_doesn_t_like.mp3"
+      },
+      {
+        "text": "You smoked pot the whole time",
+        "character": "",
+        "audioUrl": "audio/knocked-up/019_i_mean_i_guess_it_worked_like_you_told_me_not_to_smoke_pot_a.mp3"
+      },
+      {
+        "text": "Your boobs are gonna be scary big",
+        "character": "",
+        "audioUrl": "audio/knocked-up/020_i_mean_your_boobs_are_gonna_be_big_and_then_they_re_going_to.mp3"
+      },
+      {
+        "text": "I shouldn't have gone in there",
+        "character": "",
+        "audioUrl": "audio/knocked-up/021_i_shouldn_t_have_gone_in_there.mp3"
+      },
+      {
+        "text": "He's doing the dice thing too much",
+        "character": "",
+        "audioUrl": "audio/knocked-up/022_i_think_he_s_doing_the_dice_thing_too_much.mp3"
+      },
+      {
+        "text": "Hoping for a black midget",
+        "character": "",
+        "audioUrl": "audio/knocked-up/023_i_m_only_allowed_to_let_him_5_black_people_he_said_that_5_th.mp3"
+      },
+      {
+        "text": "It's going to be tough",
+        "character": "",
+        "audioUrl": "audio/knocked-up/024_it_s_going_to_be_tough_cynical.mp3"
+      },
+      {
+        "text": "You're old as fuck for this club",
+        "character": "",
+        "audioUrl": "audio/knocked-up/025_it_s_not_because_you_re_not_hot_i_would_love_to_tap_that_ass.mp3"
+      },
+      {
+        "text": "Marriage",
+        "character": "",
+        "audioUrl": "audio/knocked-up/026_marriage.mp3"
+      },
+      {
+        "text": "Marriage is like Everybody Loves Raymond",
+        "character": "",
+        "audioUrl": "audio/knocked-up/027_marriage_is_like_an_unfunny_tense_version_of_everybody_loves.mp3"
+      },
+      {
+        "text": "Oh, I think that's bad",
+        "character": "",
+        "audioUrl": "audio/knocked-up/028_oh_good_it_oh_i_think_that_s_bad.mp3"
+      },
+      {
+        "text": "We didn't plan this",
+        "character": "",
+        "audioUrl": "audio/knocked-up/029_ok_i_know_we_didn_t_plan_this_and_you_know_neither_of_us_rea.mp3"
+      },
+      {
+        "text": "Watch Taxicab Confessions",
+        "character": "",
+        "audioUrl": "audio/knocked-up/030_peter_what_s_the_kids_yeah_we_could_watch_taxicab_confession.mp3"
+      },
+      {
+        "text": "Pink Eye",
+        "character": "",
+        "audioUrl": "audio/knocked-up/031_pink_eye.mp3"
+      },
+      {
+        "text": "Kids Go Ape Shit Over Bubbles",
+        "character": "",
+        "audioUrl": "audio/knocked-up/032_seem_to_love_bubbles_oh_god_they_go_ape_shit_over_bubbles_re.mp3"
+      },
+      {
+        "text": "She Like The Way Your Dick Taste",
+        "character": "",
+        "audioUrl": "audio/knocked-up/033_she_like_the_way_your_dick_taste.mp3"
+      },
+      {
+        "text": "Your New Boyfriend?",
+        "character": "",
+        "audioUrl": "audio/knocked-up/034_so_he_came_over_for_breakfast_because_he_s_your_new_boyfrien.mp3"
+      },
+      {
+        "text": "Come To The Gynecologist",
+        "character": "",
+        "audioUrl": "audio/knocked-up/035_so_what_happens_now_i_don_t_know_how_this_works_i_m_going_to.mp3"
+      },
+      {
+        "text": "Sex Offenders In Our Neighborhood",
+        "character": "",
+        "audioUrl": "audio/knocked-up/036_these_are_all_the_sex_offenders_in_our_neighborhood_looks_li.mp3"
+      },
+      {
+        "text": "They Said That A Lot. That Sucks.",
+        "character": "",
+        "audioUrl": "audio/knocked-up/037_they_said_that_a_lot_that_sucks.mp3"
+      },
+      {
+        "text": "This Is My Time Machine",
+        "character": "",
+        "audioUrl": "audio/knocked-up/038_this_is_my_time_machine.mp3"
+      },
+      {
+        "text": "I'm Gonna Hurl",
+        "character": "",
+        "audioUrl": "audio/knocked-up/039_this_one_makes_my_pee_smell_no_more_bubbly_stuff_that_s_maki.mp3"
+      },
+      {
+        "text": "Tighter",
+        "character": "",
+        "audioUrl": "audio/knocked-up/040_tighter.mp3"
+      },
+      {
+        "text": "We Wants To Rear Your Child",
+        "character": "",
+        "audioUrl": "audio/knocked-up/041_we_wants_to_rear_your_child.mp3"
+      },
+      {
+        "text": "Well Played Sir",
+        "character": "",
+        "audioUrl": "audio/knocked-up/042_well_played_sir.mp3"
+      },
+      {
+        "text": "Dressed Like A Cholo On Easter",
+        "character": "",
+        "audioUrl": "audio/knocked-up/043_well_that_was_fast_you_pussy_i_m_a_and_you_re_the_one_that_g.mp3"
+      },
+      {
+        "text": "Treating My Kids Like Dogs",
+        "character": "",
+        "audioUrl": "audio/knocked-up/044_what_do_you_think_of_him_he_s_funny_right_hmm_snatch_all_rig.mp3"
+      },
+      {
+        "text": "Shouldn't Have Given Him Meth",
+        "character": "",
+        "audioUrl": "audio/knocked-up/045_what_is_there_left_to_want_i_get_to_go_to_legoland_say_it_do.mp3"
+      },
+      {
+        "text": "What The Hell Is This?",
+        "character": "",
+        "audioUrl": "audio/knocked-up/046_what_is_this_what_the_hell_is_this_i_think_you_picked_up_the.mp3"
+      },
+      {
+        "text": "If He Never Existed",
+        "character": "",
+        "audioUrl": "audio/knocked-up/047_when_you_look_at_me_do_you_not_think_at_all_like_you_know_if.mp3"
+      },
+      {
+        "text": "Where Do Babies Come From?",
+        "character": "",
+        "audioUrl": "audio/knocked-up/048_where_do_babies_come_from.mp3"
+      },
+      {
+        "text": "We're Listening To Rent",
+        "character": "",
+        "audioUrl": "audio/knocked-up/049_who_wants_to_hear_some_music_i_want_to_hear_when_i_wanna_hea.mp3"
+      },
+      {
+        "text": "Women Can't Get Pregnant On Top",
+        "character": "",
+        "audioUrl": "audio/knocked-up/050_women_can_t_get_pregnant_on_top.mp3"
+      },
+      {
+        "text": "You Look A Lot Like Your Sister",
+        "character": "",
+        "audioUrl": "audio/knocked-up/051_you_do_look_a_lot_like_your_sister.mp3"
+      },
+      {
+        "text": "You Stare At Your Balls",
+        "character": "",
+        "audioUrl": "audio/knocked-up/052_you_get_so_bored_you_stare_at_your_balls.mp3"
+      },
+      {
+        "text": "You Googled Murder?",
+        "character": "",
+        "audioUrl": "audio/knocked-up/053_you_googled_murder_why_i_mean_what_did_it_say_show_pictures.mp3"
+      },
+      {
+        "text": "Stop Commenting On How Fat I Am",
+        "character": "",
+        "audioUrl": "audio/knocked-up/054_you_should_probably_not_comment_so_much_about_how_fat_i_am_r.mp3"
+      },
+      {
+        "text": "You Have A Thyroid Problem",
+        "character": "",
+        "audioUrl": "audio/knocked-up/055_you_think_i_m_getting_away_with_it_well_if_you_re_standing_n.mp3"
+      },
+      {
+        "text": "Go To Disneyland",
+        "character": "",
+        "audioUrl": "audio/knocked-up/056_you_want_a_good_time_you_go_to_disneyland_all_right_go_to_fr.mp3"
+      },
+      {
+        "text": "I'm Just Really Constipated",
+        "character": "",
+        "audioUrl": "audio/knocked-up/057_you_want_sex_yeah_well_this_is_not_sound_good_at_all_right_n.mp3"
+      }
+    ]
+  },
+  {
+    "id": "eastbound-down",
+    "name": "Eastbound & Down",
+    "type": "show",
+    "theme": {
+      "primary": "#c0392b",
+      "accent": "#e0a82e",
+      "bg": "#0a0706"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Fuck that noise",
+        "character": "",
+        "audioUrl": "audio/eastbound-down/001_fuck_that_noise.mp3"
+      },
+      {
+        "text": "Fuck that noise",
+        "character": "",
+        "audioUrl": "audio/eastbound-down/002_fuck_that_noise.mp3"
+      },
+      {
+        "text": "I can feel it all the way down in my plums",
+        "character": "",
+        "audioUrl": "audio/eastbound-down/003_i_can_feel_it_all_the_way_down_in_my_plums.mp3"
+      },
+      {
+        "text": "It's a deal",
+        "character": "",
+        "audioUrl": "audio/eastbound-down/004_it_s_a_deal.mp3"
+      },
+      {
+        "text": "Surfs motherf*ckin up!",
+        "character": "",
+        "audioUrl": "audio/eastbound-down/005_surfs_motherf_ckin_up.mp3"
+      },
+      {
+        "text": "This moment came to me in a dream",
+        "character": "",
+        "audioUrl": "audio/eastbound-down/006_this_moment_came_to_me_in_a_dream.mp3"
+      },
+      {
+        "text": "3D Burrito",
+        "character": "",
+        "audioUrl": "audio/eastbound-down/007_3d_burrito.mp3"
+      },
+      {
+        "text": "3D is gay",
+        "character": "",
+        "audioUrl": "audio/eastbound-down/008_3d_is_gay.mp3"
+      }
+    ]
+  },
+  {
+    "id": "semi-pro",
+    "name": "Semi-Pro",
+    "type": "movie",
+    "theme": {
+      "primary": "#16a085",
+      "accent": "#e67e22",
+      "bg": "#05100d"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Did you just call me a Jive Turkey?",
+        "character": "",
+        "audioUrl": "audio/semi-pro/001_did_you_just_call_me_a_jive_turkey.mp3"
+      },
+      {
+        "text": "ELE Everybody Love Everybody",
+        "character": "",
+        "audioUrl": "audio/semi-pro/002_ele_everybody_love_everybody.mp3"
+      },
+      {
+        "text": "Everybody love everybody!",
+        "character": "",
+        "audioUrl": "audio/semi-pro/003_everybody_love_everybody.mp3"
+      },
+      {
+        "text": "Everybody panic!",
+        "character": "",
+        "audioUrl": "audio/semi-pro/004_everybody_panic.mp3"
+      },
+      {
+        "text": "Foul",
+        "character": "",
+        "audioUrl": "audio/semi-pro/005_foul.mp3"
+      },
+      {
+        "text": "I'm so happy I can't even feel my arms!",
+        "character": "",
+        "audioUrl": "audio/semi-pro/006_i_m_so_happy_i_can_t_even_feel_my_arms.mp3"
+      },
+      {
+        "text": "Somebody hit somebody!",
+        "character": "",
+        "audioUrl": "audio/semi-pro/007_somebody_hit_somebody.mp3"
+      },
+      {
+        "text": "Suck my cock",
+        "character": "",
+        "audioUrl": "audio/semi-pro/008_suck_my_cock.mp3"
+      },
+      {
+        "text": "Suck my cock! I'll murder your family!",
+        "character": "",
+        "audioUrl": "audio/semi-pro/009_suck_my_cock_i_ll_murder_your_family.mp3"
+      },
+      {
+        "text": "You're gone!",
+        "character": "",
+        "audioUrl": "audio/semi-pro/010_you_re_gone.mp3"
+      }
+    ]
   }
 ];

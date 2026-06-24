@@ -1,0 +1,31 @@
+001_fuck_that_noise.mp3
+  "Fuck that noise"
+  CHARACTER: 
+
+002_fuck_that_noise.mp3
+  "Fuck that noise"
+  CHARACTER: 
+
+003_i_can_feel_it_all_the_way_down_in_my_plums.mp3
+  "I can feel it all the way down in my plums"
+  CHARACTER: 
+
+004_it_s_a_deal.mp3
+  "It's a deal"
+  CHARACTER: 
+
+005_surfs_motherf_ckin_up.mp3
+  "Surfs motherf*ckin up!"
+  CHARACTER: 
+
+006_this_moment_came_to_me_in_a_dream.mp3
+  "This moment came to me in a dream"
+  CHARACTER: 
+
+007_3d_burrito.mp3
+  "3D Burrito"
+  CHARACTER: 
+
+008_3d_is_gay.mp3
+  "3D is gay"
+  CHARACTER: 

@@ -1087,3 +1087,45 @@ shows:
       primary: "#b8352c"         # Minotaur energy-drink red
       accent:  "#c8a13a"         # LAIRE medieval gold
       bg:      "#0a0706"         # dark
+
+  - id: knocked-up
+    name: "Knocked Up"
+    board_url: "https://www.101soundboards.com/boards/58589-knocked-up-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"          # caption-style board; labels hand-cleaned to short handles
+    preserve_transcripts: true   # KEEP ALL clips (no duration filter); transcripts.txt authoritative after labeling
+    max_length: 9999             # keep everything (no word-count filter)
+    # poisoned -soundboard board (ID<1M, no year in slug): ding verified (first-1s PCM == South Park ding) -> scraper auto-trims 1s (no no_trim)
+    theme:
+      primary: "#e8a92e"         # poster yellow-orange
+      accent:  "#c0392b"         # red
+      bg:      "#0a0805"         # dark
+
+  - id: eastbound-down
+    name: "Eastbound & Down"
+    board_url: "https://www.101soundboards.com/boards/87707-eastbound-down-soundboard"
+    status: pending
+    type: show
+    text_style: "title"          # board captions already short labels
+    preserve_transcripts: true   # include ALL clips; labels lightly cleaned
+    max_length: 9999             # keep everything (no filter)
+    # poisoned -soundboard board (ID<1M, no year): ding verified (silent-start) -> scraper auto-trims 1s (no no_trim)
+    theme:
+      primary: "#c0392b"         # Charros red
+      accent:  "#e0a82e"         # gold
+      bg:      "#0a0706"         # dark
+
+  - id: semi-pro
+    name: "Semi-Pro"
+    board_url: "https://www.101soundboards.com/boards/84739-semi-pro-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"          # board captions already short labels
+    preserve_transcripts: true   # include ALL clips; labels lightly cleaned
+    max_length: 9999             # keep everything (no filter)
+    # poisoned -soundboard board (ID<1M, no year): ding verified (silent-start) -> scraper auto-trims 1s (no no_trim)
+    theme:
+      primary: "#16a085"         # Flint Tropics teal
+      accent:  "#e67e22"         # Tropics orange
+      bg:      "#05100d"         # dark

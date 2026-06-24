@@ -1,0 +1,39 @@
+001_did_you_just_call_me_a_jive_turkey.mp3
+  "Did you just call me a Jive Turkey?"
+  CHARACTER: 
+
+002_ele_everybody_love_everybody.mp3
+  "ELE Everybody Love Everybody"
+  CHARACTER: 
+
+003_everybody_love_everybody.mp3
+  "Everybody love everybody!"
+  CHARACTER: 
+
+004_everybody_panic.mp3
+  "Everybody panic!"
+  CHARACTER: 
+
+005_foul.mp3
+  "Foul"
+  CHARACTER: 
+
+006_i_m_so_happy_i_can_t_even_feel_my_arms.mp3
+  "I'm so happy I can't even feel my arms!"
+  CHARACTER: 
+
+007_somebody_hit_somebody.mp3
+  "Somebody hit somebody!"
+  CHARACTER: 
+
+008_suck_my_cock.mp3
+  "Suck my cock"
+  CHARACTER: 
+
+009_suck_my_cock_i_ll_murder_your_family.mp3
+  "Suck my cock! I'll murder your family!"
+  CHARACTER: 
+
+010_you_re_gone.mp3
+  "You're gone!"
+  CHARACTER: 
