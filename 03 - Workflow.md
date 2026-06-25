@@ -11,12 +11,13 @@ When Dave says **"run the playbook"** for a show (usually with a 101soundboards 
    - **Long monologues?** → scrape with `--max-length 50`.
 2. **Add to `scripts/shows.yaml`**: `id`, `name`, `board_url`, a `theme` matched to the show's cover-art hue, plus any flags the board needs — `text_style: "title"` (no quote marks for title-style boards), `case_style: "fix_all_caps"`, `exclude_prefix: "..."`, `board_url_2` (merge a second board), `dedup: true` (drop repeated transcripts, e.g. when a board lists the same line twice under different audio files), `no_trim: true` (clean board — see step 1), and `preserve_transcripts: true` (**always set this when you'll clean captions in step 4**, so your labels survive re-scrapes).
 3. **Scrape**: `python3 scripts/scrape_soundboard.py --show <id>` (auto-strips hashtags; auto-trims the 1s ding on poisoned `-soundboard` boards). Add `--max-length 50` for long-dialogue prestige dramas.
-4. **Clean the captions (MANDATORY — do not skip).** Every clip's on-screen text must be a short **1–5 word label**, not the full transcript. Edit the quoted label lines in `audio/<id>/transcripts.txt` per the rule in [Captions are short labels](#captions-are-short-labels-not-full-quotes-the-labeling-pass), then regenerate (re-run the scraper, or rebuild `quotes.js` from `transcripts.txt`). Boards whose captions are *already* short scannable labels (most `-soundboard` community boards) need no work here — but **duration-filtered / caption-style boards always do**. This step is the one most easily forgotten; it is not optional.
-5. **Rebuild**: `python3 scripts/build_shows.py`.
-6. **Deploy**: `npm_config_cache=/tmp/npm-cache npx wrangler deploy` (see [[05 - Deployment]]).
-7. **Commit + push**: `git add -A && git commit -m "..." && git push` (env-var author identity — see [[05 - Deployment]]).
+4. **Strip the residual ding (MANDATORY for poisoned boards).** The scraper's fixed 1.0s trim leaves a *non-uniform* sliver of the ding chime on many clips (the ding is longer than 1.0s on some boards, and MP3 frame-boundary cuts vary). Run `python3 scripts/strip_residual_ding.py --show <id>` then `python3 scripts/verify_residual_ding.py --show <id>` (should report 0). Skip for `no_trim` (clean) boards — they have no ding. See [Residual ding cleanup](#residual-ding-cleanup-the-de-ding-pass) below.
+5. **Clean the captions (MANDATORY — do not skip).** Every clip's on-screen text must be a short **1–5 word label**, not the full transcript. Edit the quoted label lines in `audio/<id>/transcripts.txt` per the rule in [Captions are short labels](#captions-are-short-labels-not-full-quotes-the-labeling-pass), then regenerate (re-run the scraper, or rebuild `quotes.js` from `transcripts.txt`). Boards whose captions are *already* short scannable labels (most `-soundboard` community boards) need no work here — but **duration-filtered / caption-style boards always do**. This step is the one most easily forgotten; it is not optional.
+6. **Rebuild**: `python3 scripts/build_shows.py`.
+7. **Deploy**: `npm_config_cache=/tmp/npm-cache npx wrangler deploy` (see [[05 - Deployment]]).
+8. **Commit + push**: `git add -A && git commit -m "..." && git push` (env-var author identity — see [[05 - Deployment]]).
 
-> **The two standing rules that keep getting missed:** (a) **trim the ding** on poisoned `-soundboard` boards (and *only* those — set `no_trim` elsewhere), and (b) **clean the captions** into short labels. Both are part of *every* add, not optional polish.
+> **The three standing rules that keep getting missed:** (a) **trim the ding** on poisoned `-soundboard` boards (and *only* those — set `no_trim` elsewhere), (b) **strip the residual ding** afterward with `strip_residual_ding.py` (the 1.0s auto-trim under-removes the chime), and (c) **clean the captions** into short labels. All three are part of *every* add, not optional polish.
 
 The numbered sections below are the detailed version of each step.
 
@@ -117,6 +118,22 @@ Flags:
 - `--all` — re-scrape every show in `shows.yaml`, even ones already done.
 
 For long-monologue shows (prestige dramas) bump `--max-length 50` to keep more clips.
+
+## Residual ding cleanup (the de-ding pass)
+
+**Run this after scraping any poisoned (`-soundboard`) board.** The scraper trims a *fixed* 1.0s off the front to remove the ding, but the ding isn't exactly 1.0s: it's a variable stretch of leading near-silence + a ~repeating-beep chime, often totaling >1.0s, and an MP3 `-c copy` cut only lands on frame boundaries. So a flat 1.0s cut leaves a **non-uniform sliver of the chime** on many clips — the "tail end of a ding" you can hear at the start. (Discovered 2026-06; ~1,446 clips across 85 shows had it.)
+
+```sh
+python3 scripts/strip_residual_ding.py --show <id>      # after scraping a new show
+python3 scripts/verify_residual_ding.py --show <id>     # should print "0 clip(s)"
+# (use --all instead of --show <id> to sweep the whole catalog; it skips no_trim boards)
+```
+
+How it works: the ding is the **only** audio byte-identical across *distinct* clips (different dialogue never shares an identical opening), so each clip's residual-ding length = the longest leading PCM prefix it shares with another clip. The stripper trims exactly that (sample-accurate re-encode), looping to convergence. Guards keep it safe: it only trims when the shared region is **loud at t=0** (the chime — not clips that merely share leading *silence*), caps the trim, and leaves ≥0.6s of audio so genuine **duplicate clips** aren't gutted.
+
+After a clean verify (`0 clip(s)`), the residual is gone. If `verify` still lists clips, they're almost always **within-show duplicate clips** that start with the same loud word/SFX (not ding) — confirm by ear/waveform (a ding is a tonal chime) and leave them, or drop them as dupes.
+
+⚠️ The scraper still does the flawed fixed-1.0s trim, so this de-ding pass is required on **every** poisoned-board add until `scrape_soundboard.py` is reworked to trim content-aware at download time.
 
 ## 5. (Optional) Curate
 
