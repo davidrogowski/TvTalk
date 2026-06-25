@@ -19,6 +19,7 @@ import html
 import json
 import re
 import ssl
+import struct
 import subprocess
 import sys
 import time
@@ -191,15 +192,23 @@ def should_trim_board(board_url: str, no_trim: bool = False) -> bool:
     return is_legacy_board(board_url) and slug_is_soundboard and not no_trim
 
 
-def trim_mp3_inplace(path: Path, seconds: float) -> bool:
-    """Trim `seconds` off the front of an MP3 file in place. Returns True on success."""
+def trim_mp3_inplace(path: Path, seconds: float, *, reencode: bool = False) -> bool:
+    """Trim `seconds` off the front of an MP3 file in place. Returns True on success.
+
+    `reencode=False` (default) does a fast frame-aligned copy (`-ss` before `-i`, `-c copy`)
+    — good for the coarse 1s ding cut. `reencode=True` does a sample-accurate cut (`-ss`
+    after `-i`, re-encode with libmp3lame) — used by the residual de-ding pass, where the
+    trim amount is a precise per-clip measurement and frame rounding would matter.
+    """
     # Use ".trimming.mp3" so ffmpeg can detect the output format from the extension.
     tmp = path.with_name(path.stem + ".trimming" + path.suffix)
+    if reencode:
+        cmd = ["ffmpeg", "-y", "-i", str(path), "-ss", f"{seconds:.4f}",
+               "-c:a", "libmp3lame", "-q:a", "2", str(tmp)]
+    else:
+        cmd = ["ffmpeg", "-y", "-ss", str(seconds), "-i", str(path), "-c", "copy", str(tmp)]
     try:
-        result = subprocess.run(
-            ["ffmpeg", "-y", "-ss", str(seconds), "-i", str(path), "-c", "copy", str(tmp)],
-            capture_output=True, timeout=30,
-        )
+        result = subprocess.run(cmd, capture_output=True, timeout=60)
         if result.returncode == 0 and tmp.exists() and tmp.stat().st_size > 0:
             tmp.replace(path)
             return True
@@ -208,6 +217,142 @@ def trim_mp3_inplace(path: Path, seconds: float) -> bool:
     if tmp.exists():
         tmp.unlink()
     return False
+
+
+# ---------- Residual ding (chime) removal ----------
+#
+# The fixed TRIM_SECONDS cut above removes the variable leading silence and the bulk of the
+# ding, but the ding chime is often slightly longer than 1.0s (and `-c copy` lands on frame
+# boundaries), so a non-uniform sliver of chime survives on many clips. The chime is the ONLY
+# audio byte-identical across DISTINCT clips (different dialogue never shares an identical
+# opening), so each clip's residual = the longest leading decoded-PCM prefix it shares with
+# another clip. We trim exactly that. Guards: only trim a LOUD-at-t0 shared region (the chime,
+# not clips that merely share leading silence = true duplicate clips), cap the amount, and keep
+# >= MIN_REMAIN_S of audio. Loops to convergence so clips aren't "stranded" when their match is
+# trimmed first.
+
+_DEDING_SR = 22050
+_DEDING_WIN_S = 3.0
+_DEDING_T0_MS = 60
+_DEDING_LOUD = 2000
+_DEDING_MIN_MS = 40.0
+_DEDING_MAX_TRIM_MS = 2000.0
+_DEDING_MIN_REMAIN_S = 0.6
+_DEDING_MAX_ITERS = 5
+
+
+def _lcp_len(a: bytes, b: bytes) -> int:
+    """Length of the longest common byte prefix of a and b."""
+    n = min(len(a), len(b))
+    i = 0
+    while i < n and a[i] == b[i]:
+        i += 1
+    return i
+
+
+def _peak_amplitude(pcm: bytes) -> int:
+    """Max absolute sample of little-endian s16 PCM bytes (0 if empty)."""
+    if len(pcm) < 2:
+        return 0
+    vals = struct.unpack(f"<{len(pcm) // 2}h", pcm[:len(pcm) // 2 * 2])
+    return max((abs(v) for v in vals), default=0)
+
+
+def _decode_head_pcm(path: Path, seconds: float, sr: int = _DEDING_SR) -> bytes:
+    """Decode the first `seconds` of an MP3 to mono s16le PCM bytes."""
+    return subprocess.run(
+        ["ffmpeg", "-i", str(path), "-t", str(seconds), "-ac", "1", "-ar", str(sr), "-f", "s16le", "pipe:1"],
+        capture_output=True,
+    ).stdout
+
+
+def _probe_duration(path: Path) -> float:
+    r = subprocess.run(
+        ["ffprobe", "-v", "error", "-show_entries", "format=duration",
+         "-of", "default=nokey=1:noprint_wrappers=1", str(path)],
+        capture_output=True, text=True,
+    )
+    try:
+        return float(r.stdout)
+    except ValueError:
+        return 0.0
+
+
+def _leading_chime_ms(head_pcm: bytes, sr: int = _DEDING_SR) -> float:
+    """Detect a residual ding chime at the very start by its waveform signature alone
+    (no cross-clip comparison): a LOUD onset that decays ~monotonically to digital silence.
+    Speech never does this, so it's a safe per-clip fallback for stranded chime clips on tiny
+    boards (where shared-prefix matching has no partner to cluster with). Returns ms to trim
+    (to just past the silence the chime decays into), or 0 if no chime tail is found.
+    """
+    win = int(sr * 0.02) * 2  # 20ms windows
+    env = []
+    for o in range(0, min(len(head_pcm), int(sr * 0.6) * 2), win):
+        c = head_pcm[o:o + win]
+        if len(c) < 2:
+            break
+        vals = struct.unpack(f"<{len(c) // 2}h", c[:len(c) // 2 * 2])
+        env.append(max((abs(v) for v in vals), default=0))
+    if len(env) < 6 or env[0] < 4000:          # must start loud (the chime, not quiet/speech onset)
+        return 0.0
+    SILENCE = 80
+    for k in range(3, len(env)):
+        if env[k] < SILENCE:                    # decayed into the post-chime silence
+            seg = env[:k]
+            # the run to silence must be a decay (a tone ringing down), not speech: allow
+            # at most one notable rise, and it must have started loud and lasted >= ~60ms.
+            rises = sum(1 for a, b in zip(seg, seg[1:]) if b > a * 1.15 + 50)
+            if rises <= 1 and k * 20 >= 60:
+                return (k + 1) * 20.0           # trim to just past the silence onset
+            return 0.0
+    return 0.0
+
+
+def strip_residual_ding(files: list[Path], *, verbose: bool = False) -> int:
+    """Remove the residual ding chime from already-1s-trimmed clips. Returns clips trimmed.
+
+    Idempotent: clean clips share no loud leading prefix, so re-running is a no-op.
+    """
+    files = [Path(f) for f in files]
+    if len(files) < 2:
+        return 0
+    sr = _DEDING_SR
+    t0_bytes = int(sr * _DEDING_T0_MS / 1000) * 2
+    def b2ms(nb: int) -> float:
+        return nb / 2 / sr * 1000.0
+    total = 0
+    for _ in range(_DEDING_MAX_ITERS):
+        heads = [_decode_head_pcm(p, _DEDING_WIN_S) for p in files]
+        order = sorted(range(len(files)), key=lambda i: heads[i])
+        shared = [0] * len(files)
+        for pos, i in enumerate(order):
+            if pos > 0:
+                shared[i] = max(shared[i], _lcp_len(heads[i], heads[order[pos - 1]]))
+            if pos < len(order) - 1:
+                shared[i] = max(shared[i], _lcp_len(heads[i], heads[order[pos + 1]]))
+        trimmed = 0
+        for i, p in enumerate(files):
+            # (a) cross-clip: residual ding is the loud-at-t0 prefix shared with another clip.
+            ms_shared = b2ms(shared[i])
+            if not (_DEDING_MIN_MS <= ms_shared <= _DEDING_MAX_TRIM_MS) \
+                    or _peak_amplitude(heads[i][:t0_bytes]) < _DEDING_LOUD:
+                ms_shared = 0.0
+            # (b) per-clip fallback: a lone chime tail (loud monotonic decay to silence), for
+            # stranded clips on tiny boards with no same-alignment partner.
+            ms_chime = _leading_chime_ms(heads[i])
+            ms = max(ms_shared, ms_chime)
+            if ms < _DEDING_MIN_MS or ms > _DEDING_MAX_TRIM_MS:
+                continue
+            if _probe_duration(p) - ms / 1000.0 < _DEDING_MIN_REMAIN_S:  # would gut the clip
+                continue
+            if trim_mp3_inplace(p, ms / 1000.0, reencode=True):
+                trimmed += 1
+        total += trimmed
+        if verbose:
+            print(f"   de-ding iter: trimmed {trimmed}", flush=True)
+        if trimmed == 0:
+            break
+    return total
 
 
 def _to_sentence_case(text: str) -> str:
@@ -593,6 +738,7 @@ def scrape_board(
     # clean (trimming them would chop real audio), and already-existing files were
     # trimmed on a previous run.
     trimmed = 0
+    deding = 0
     legacy_new = [p for p, from_legacy in newly_downloaded if from_legacy]
     if legacy_new:
         print(f"\nLegacy board detected — trimming {TRIM_SECONDS}s off front of {len(legacy_new)} new MP3s...")
@@ -600,6 +746,14 @@ def scrape_board(
             if trim_mp3_inplace(p, TRIM_SECONDS):
                 trimmed += 1
         print(f"Trim complete: {trimmed}/{len(legacy_new)} files.")
+        # Content-aware second stage: the fixed 1s cut leaves a variable-length chime sliver,
+        # so strip the residual ding precisely. Runs over the show's clips on disk (idempotent —
+        # clean/modern-board clips share no loud leading prefix, so they're untouched), so the
+        # audio is fully de-dinged at scrape time and no separate cleanup pass is needed.
+        deding_files = sorted(out_dir.glob("*.mp3"))
+        print(f"Stripping residual ding chime from {len(deding_files)} clip(s) (content-aware)...")
+        deding = strip_residual_ding(deding_files, verbose=True)
+        print(f"Residual de-ding complete: trimmed {deding} clip(s).")
 
     stats = {
         "downloaded": downloaded,
@@ -607,6 +761,7 @@ def scrape_board(
         "skipped_length": skipped_length,
         "kept": len(entries),
         "trimmed": trimmed,
+        "deding": deding,
     }
     print(
         f"\nDone [{show_id}]: "
@@ -615,6 +770,7 @@ def scrape_board(
         f"Skipped (length filter) {stats['skipped_length']}, "
         f"Total kept {stats['kept']}"
         + (f", Trimmed {stats['trimmed']}" if trimmed else "")
+        + (f", De-dinged {stats['deding']}" if deding else "")
     )
     return stats
 

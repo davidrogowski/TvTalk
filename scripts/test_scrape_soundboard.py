@@ -128,6 +128,54 @@ def test_merge_sound_pages_single_page_unchanged():
     print("ok  merge_sound_pages_single_page_unchanged")
 
 
+def test_lcp_len():
+    assert s._lcp_len(b"abcDEF", b"abcXYZ") == 3
+    assert s._lcp_len(b"abc", b"abc") == 3
+    assert s._lcp_len(b"xyz", b"abc") == 0
+    assert s._lcp_len(b"", b"abc") == 0
+    print("ok  lcp_len")
+
+
+def test_peak_amplitude():
+    import struct as _st
+    # samples 0, 100, -3000, 50 -> peak 3000
+    pcm = _st.pack("<4h", 0, 100, -3000, 50)
+    assert s._peak_amplitude(pcm) == 3000
+    assert s._peak_amplitude(b"") == 0
+    assert s._peak_amplitude(b"\x00") == 0  # <2 bytes
+    print("ok  peak_amplitude")
+
+
+def test_strip_residual_ding_noop_on_too_few_files():
+    # fewer than 2 files -> nothing to compare -> 0 (no ffmpeg needed)
+    assert s.strip_residual_ding([]) == 0
+    assert s.strip_residual_ding([Path("/nonexistent/only_one.mp3")]) == 0
+    print("ok  strip_residual_ding_noop_on_too_few_files")
+
+
+def _pcm_blocks(amps, sr=s._DEDING_SR):
+    """Build s16le PCM where each amp is held for one 20ms window (for chime tests)."""
+    import struct as _st
+    n = int(sr * 0.02)
+    out = bytearray()
+    for a in amps:
+        out += _st.pack(f"<{n}h", *([int(a)] * n))
+    return bytes(out)
+
+
+def test_leading_chime_ms_detects_decay_to_silence():
+    # loud monotonic decay into silence == chime tail -> trims
+    chime = _pcm_blocks([12000, 9000, 6000, 3000, 1000, 200, 0, 0, 0, 0])
+    assert s._leading_chime_ms(chime) > 0
+    # sustained-loud (speech/music) -> no decay to silence -> no trim
+    sustained = _pcm_blocks([8000] * 12)
+    assert s._leading_chime_ms(sustained) == 0
+    # quiet onset (below loud threshold) -> not the audible chime -> no trim
+    quiet = _pcm_blocks([1200, 300, 50, 1, 1, 1, 1, 1])
+    assert s._leading_chime_ms(quiet) == 0
+    print("ok  leading_chime_ms_detects_decay_to_silence")
+
+
 if __name__ == "__main__":
     test_read_existing_repeats_parses_repeat_lines()
     test_write_quotes_js_expands_repeat()
@@ -137,4 +185,8 @@ if __name__ == "__main__":
     test_should_trim_board_no_trim_override()
     test_merge_sound_pages_dedups_by_id_preserving_order()
     test_merge_sound_pages_single_page_unchanged()
+    test_lcp_len()
+    test_peak_amplitude()
+    test_strip_residual_ding_noop_on_too_few_files()
+    test_leading_chime_ms_detects_decay_to_silence()
     print("\nAll tests passed.")
