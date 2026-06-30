@@ -1,0 +1,86 @@
+<svg viewBox="48 44 224 224" xmlns="http://www.w3.org/2000/svg">
+      <defs><style>@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@900&amp;display=swap');</style>
+        <radialGradient id="eb-ground" cx="50%" cy="50%" r="50%">
+          <stop offset="0%"  stop-color="#000" stop-opacity="0.55"/>
+          <stop offset="70%" stop-color="#000" stop-opacity="0"/>
+        </radialGradient>
+        <linearGradient id="eb-chromeWall" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0%"  stop-color="#5a5e62"/>
+          <stop offset="14%" stop-color="#aeb2b6"/>
+          <stop offset="33%" stop-color="#f4f7f9"/>
+          <stop offset="50%" stop-color="#cfd3d6"/>
+          <stop offset="70%" stop-color="#9a9ea2"/>
+          <stop offset="88%" stop-color="#64686c"/>
+          <stop offset="100%" stop-color="#45494d"/>
+        </linearGradient>
+        <radialGradient id="eb-chromeTop" cx="46%" cy="42%" r="62%">
+          <stop offset="0%"  stop-color="#f1f4f6"/>
+          <stop offset="55%" stop-color="#d3d7da"/>
+          <stop offset="78%" stop-color="#eef1f3"/>
+          <stop offset="100%" stop-color="#b3b7bb"/>
+        </radialGradient>
+        <linearGradient id="eb-redWall" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0%"  stop-color="#4a0709"/>
+          <stop offset="16%" stop-color="#771013"/>
+          <stop offset="38%" stop-color="#a31a1f"/>
+          <stop offset="50%" stop-color="#b22025"/>
+          <stop offset="62%" stop-color="#a31a1f"/>
+          <stop offset="84%" stop-color="#771013"/>
+          <stop offset="100%" stop-color="#4a0709"/>
+        </linearGradient>
+        <radialGradient id="eb-redDome" cx="44%" cy="36%" r="80%">
+          <stop offset="0%"  stop-color="#c62a2e"/>
+          <stop offset="50%" stop-color="#b11f24"/>
+          <stop offset="100%" stop-color="#7c1014"/>
+        </radialGradient>
+        <radialGradient id="eb-gloss" cx="50%" cy="50%" r="50%">
+          <stop offset="0%"  stop-color="#fff" stop-opacity="0.16"/>
+          <stop offset="70%" stop-color="#fff" stop-opacity="0.05"/>
+          <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+        </radialGradient>
+        <filter id="eb-soft" x="-30%" y="-30%" width="160%" height="160%">
+          <feGaussianBlur stdDeviation="2.2"/>
+        </filter>
+        <filter id="eb-softShadow" x="-30%" y="-30%" width="160%" height="160%">
+          <feGaussianBlur stdDeviation="4"/>
+        </filter>
+        <clipPath id="eb-domeClip"><ellipse cx="160" cy="150" rx="86" ry="85"/></clipPath>
+      </defs>
+
+      <!-- ground shadow -->
+      <ellipse cx="160" cy="288" rx="106" ry="15" fill="url(#eb-ground)"/>
+
+      <!-- single silver base disc (~80deg) -->
+      <ellipse cx="160" cy="166" rx="106" ry="104" fill="#9da1a5"/>
+      <rect x="54" y="158" width="212" height="8" fill="url(#eb-chromeWall)"/>
+      <ellipse cx="160" cy="158" rx="106" ry="104" fill="url(#eb-chromeTop)"/>
+      <!-- soft contact shadow seating the red on all sides -->
+      <ellipse cx="160" cy="150" rx="92" ry="90" fill="#000" opacity="0.3" filter="url(#eb-softShadow)"/>
+
+      <!-- pressable red button set into the disc -->
+      <g class="puck">
+        <ellipse cx="160" cy="154" rx="86" ry="85" fill="#5c0a0c"/>
+        <rect x="74" y="150" width="172" height="4" fill="url(#eb-redWall)"/>
+        <ellipse cx="160" cy="150" rx="86" ry="85" fill="url(#eb-redDome)"/>
+        <g clip-path="url(#eb-domeClip)">
+          <ellipse cx="142" cy="124" rx="60" ry="48" fill="url(#eb-gloss)" filter="url(#eb-soft)"/>
+        </g>
+        <!-- label: Nunito 900, engraved into the dome -->
+        <g transform="translate(160 150)" font-family="Nunito, sans-serif" font-weight="900"
+           text-anchor="middle" dominant-baseline="central" font-size="31" letter-spacing="-1.5">
+          <text x="0" y="-32.2" dy="-1.1" fill="#3a0507" opacity="0.55">CLOCK</text>
+          <text x="0" y="-32.2" dy="1.3"  fill="#ff9d99" opacity="0.5">CLOCK</text>
+          <text x="0" y="-32.2"           fill="#ead2cd">CLOCK</text>
+          <text x="0" y="0.0" dy="-1.1" fill="#3a0507" opacity="0.55">THE</text>
+          <text x="0" y="0.0" dy="1.3"  fill="#ff9d99" opacity="0.5">THE</text>
+          <text x="0" y="0.0"           fill="#ead2cd">THE</text>
+          <text x="0" y="32.2" dy="-1.1" fill="#3a0507" opacity="0.55">QUOTE</text>
+          <text x="0" y="32.2" dy="1.3"  fill="#ff9d99" opacity="0.5">QUOTE</text>
+          <text x="0" y="32.2"           fill="#ead2cd">QUOTE</text>
+        </g>
+      </g>
+
+      <!-- front of the same disc redrawn over the red base: red rises out of the silver -->
+      <path d="M 54 158 A 106 104 0 0 0 266 158 L 246 154 A 86 85 0 0 1 74 154 Z"
+            fill="url(#eb-chromeTop)"/>
+    </svg>
