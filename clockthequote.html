@@ -455,7 +455,7 @@ function whatLabel(){
 function playHint(){
   const st=STAGES[stage];
   if(st.limit===Infinity) return `${whatLabel()[0].toUpperCase()+whatLabel().slice(1)} — listen as much as you like.`;
-  return canPlay() ? `Tap to hear the ${whatLabel()}.` : `No listens left — guess or skip to unlock the next clue.`;
+  return canPlay() ? `Tap to hear the ${whatLabel()}.` : `No listens left — guess or skip.`;
 }
 function listenLabel(){
   const st=STAGES[stage];
