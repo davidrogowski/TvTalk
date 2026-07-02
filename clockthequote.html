@@ -688,7 +688,9 @@ function wireAutocomplete(){
     else if(e.key==="Escape"){drop.classList.remove("show");}
   };
   document.getElementById("go").onclick=submit;
-  input.focus();
+  // desktop: focus so you can type right away. touch: DON'T — programmatic focus
+  // pops the on-screen keyboard on every render (e.g. after Skip). Let them tap the box.
+  if(window.matchMedia && window.matchMedia("(hover:hover) and (pointer:fine)").matches) input.focus();
 }
 
 /* ---------- how-to-play overlay (first visit, cached per device) ---------- */
