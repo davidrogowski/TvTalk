@@ -209,11 +209,11 @@
 
       <div class="howto-subh">Each guess or skip unlocks</div>
       <ul class="howto-ladder">
-        <li><span class="n">1</span><span class="txt">A 2.5-second snippet</span></li>
-        <li><span class="n">2</span><span class="txt">A 5-second snippet</span></li>
-        <li><span class="n">3</span><span class="txt">The full clip</span></li>
-        <li><span class="n">4</span><span class="txt">The written quote — title still hidden</span></li>
-        <li><span class="n">5</span><span class="txt">The title’s initials</span></li>
+        <li><span class="n">1</span><span class="txt">A 1-second snippet</span></li>
+        <li><span class="n">2</span><span class="txt">A 3-second snippet</span></li>
+        <li><span class="n">3</span><span class="txt">A 5-second snippet</span></li>
+        <li><span class="n">4</span><span class="txt">The full clip + the written quote</span></li>
+        <li><span class="n">5</span><span class="txt">The quote + the title’s first &amp; last letters</span></li>
       </ul>
 
       <p class="howto-foot">Fewer clues = better score. Come back daily to build a streak.</p>
@@ -270,38 +270,123 @@ const SCHEDULE = [
   {show:"Pirates of the Caribbean", text:"You can always trust a dishonest man",   url:"audio/pirates-of-the-caribbean/011_dishonestman.mp3"},
   {show:"That '70s Show",           text:"It's Star Wars!",                        url:"audio/that-70s-show/023_i_am_so_excited_about_star_whores_fezzie_man_it_s_star_wars.mp3"},
   {show:"The Breakfast Club",       text:"You want to blow your scholarship?",     url:"audio/breakfast-club/051_you_want_to_blow_your_scholarship.mp3"},
-  {show:"This Is The End",          text:"Something not that chill happened",      url:"audio/this-is-the-end/030_something_not_that_chill_happened_last_night.mp3"}, // REFILL BEFORE 2026-07-05 — queue loops past here
+  {show:"This Is The End",          text:"Something not that chill happened",      url:"audio/this-is-the-end/030_something_not_that_chill_happened_last_night.mp3"},
+  // —— #31–35: frozen repeats of #1–5 so the already-played loop days (2026-07-05 … 07-09) don’t shift as the queue grows ——
+  {show:"Superbad", text:"McLovin", url:"audio/superbad/030_mclovin.mp3"},
+  {show:"The Office", text:"Bears. Beets. Battlestar Galactica", url:"audio/the-office/019_bears_beets_battlestar_galactica.mp3"},
+  {show:"Anchorman", text:"I love lamp", url:"audio/anchorman/055_i_love_lamp.mp3"},
+  {show:"The Hangover", text:"One man wolf pack", url:"audio/the-hangover/028_one_man_wolf_pack.mp3"},
+  {show:"Forrest Gump", text:"Life is like a box of chocolates", url:"audio/forrest-gump/074_my_mom_always_said_life_was_like_a_box_of_chocolates_you_nev.mp3"},
+  // —— #36–70: fresh batch (2026-07-10 … 2026-08-13) — new shows/movies, every clip ≥8s, anchors auto-computed ——
+  {show:"Borat", text:"Great success", url:"audio/borat/009_greatsuccess.mp3"},
+  {show:"The Sopranos", text:"Quasimodo predicted all this", url:"audio/sopranos/063_quasimodo_predicted.mp3"},
+  {show:"Dumb and Dumber", text:"So you're telling me there's a chance", url:"audio/dumb-and-dumber/087_so_you_re_telling_me_there_s_a_chance.mp3"},
+  {show:"Community", text:"Six seasons and a movie", url:"audio/community/434_6_season_and_a_movie.mp3"},
+  {show:"Ferris Bueller's Day Off", text:"Bueller… Bueller…", url:"audio/ferris-bueller/001_bueller_bueller.mp3"},
+  {show:"Breaking Bad", text:"My name is Walter Hartwell White", url:"audio/breaking-bad/157_okay_come_on_come_on_come_on_come_on_my_name_is_walter_hartw.mp3"},
+  {show:"White Chicks", text:"A Thousand Miles", url:"audio/white-chicks/001_a_thousand_miles.mp3"},
+  {show:"The Wire", text:"Omar comin' yo!", url:"audio/the-wire/028_omar_s_coming_yo.mp3"},
+  {show:"Spaceballs", text:"They've gone to plaid", url:"audio/spaceballs/026_they_ve_gone_to_plaid.mp3"},
+  {show:"Futurama", text:"Kiss my shiny metal ass", url:"audio/futurama/286_who_are_the_real_live_robot_or_is_that_some_kind_of_cheesy_k.mp3"},
+  {show:"21 Jump Street", text:"Korean Jesus is busy", url:"audio/21-jump-street/507_hey_hey_stop_fucking_with_korean_jesus_he_ain_t_got_time_for.mp3"},
+  {show:"Arrested Development", text:"It's an illusion, Michael", url:"audio/arrested-development/049_illusion_michael.mp3"},
+  {show:"Nacho Libre", text:"Sometimes you wear stretchy pants", url:"audio/nacho-libre/250_when_you_are_a_man_sometimes_you_wear_stretchy_pants_in_your.mp3"},
+  {show:"South Park", text:"Kyle's mom is a big fat bitch", url:"audio/south-park/179_kyle_s_mom_is_a_big_fat_bitch.mp3"},
+  {show:"Old School", text:"Once it hits your lips, it's so good", url:"audio/old-school/236_frank_after_funneling_a_beer_fill_it_up_again_fill_it_up_aga.mp3"},
+  {show:"Seinfeld", text:"These pretzels are making me thirsty", url:"audio/seinfeld/289_these_pretzels_are_making_me_thirsty.mp3"},
+  {show:"Idiocracy", text:"Brought to you by Carl's Jr.", url:"audio/idiocracy/042_i_m_a_secretary_of_state_brought_to_you_by_carl_s_junior_why.mp3"},
+  {show:"Chappelle's Show", text:"He tried to kill my father", url:"audio/chappelles-show/007_he_tried_to_kill_my_father.mp3"},
+  {show:"The 40 Year Old Virgin", text:"How I know you're gay", url:"audio/40-year-old-virgin/008_how_i_know_you_re_gay.mp3"},
+  {show:"Atlanta", text:"Please, call me Teddy", url:"audio/atlanta/032_i_m_darius_apologies_i_m_theodore_perkins_please_call_me_ted.mp3"},
+  {show:"Tropic Thunder", text:"What do you mean, 'you people'?", url:"audio/tropic-thunder/037_what_do_you_mean_you_people.mp3"},
+  {show:"Succession", text:"I am the eldest son", url:"audio/succession/002_and_no_one_no_one_but_i_am_the_eldest_son_of_our_father_i_am.mp3"},
+  {show:"Airplane!", text:"Famous Jewish sports legends", url:"audio/airplane/005_do_you_like_something_to_read_do_you_have_anything_light_how.mp3"},
+  {show:"Eastbound & Down", text:"I can feel it in my plums", url:"audio/eastbound-down/003_i_can_feel_it_all_the_way_down_in_my_plums.mp3"},
+  {show:"Blades of Glory", text:"Mind-bottling, isn't it?", url:"audio/blades-of-glory/005_mind_bottling_isn_t_it.mp3"},
+  {show:"BoJack Horseman", text:"I'm not a good person", url:"audio/bojack-horseman/065_i_m_not_a_good_person.mp3"},
+  {show:"Happy Gilmore", text:"I eat pieces of shit like you for breakfast", url:"audio/happy-gilmore/067_but_you_re_in_trouble_i_eat_pieces_of_shit_like_you_for_brea.mp3"},
+  {show:"How I Met Your Mother", text:"A teenage pop star in Canada", url:"audio/himym/053_i_was_a_teenage_pop_star_in_canada.mp3"},
+  {show:"The Departed", text:"No ticky, no laundry", url:"audio/the-departed/027_no_ticky_no_laundry.mp3"},
+  {show:"Key & Peele", text:"Where is A-A-Ron?", url:"audio/key-and-peele/090_where_is_a_a_ron.mp3"},
+  {show:"Austin Powers: Goldmember", text:"Shall we shag now or shag later?", url:"audio/austin-powers-goldmember/069_well_miss_norma_s_shall_we_shag_now_or_shag_later_oh_often_b.mp3"},
+  {show:"Family Guy", text:"Surfin' Bird", url:"audio/family-guy/463_surfin_bird_execution.mp3"},
+  {show:"We're The Millers", text:"Casey, make good choices!", url:"audio/were-the-millers/005_casey_make_good_choices_come_on_she_s_gonna_be_fine_tattooed.mp3"},
+  {show:"Trailer Park Boys", text:"I am the liquor", url:"audio/trailer-park-boys/030_i_am_the_liquor.mp3"},
+  {show:"Ozark", text:"Welcome to our home, Martin Byrde", url:"audio/ozark/019_marty_welcome_to_our_home_martin_byrde.mp3"},
+  // —— #71–105 (2026-08-14 … 2026-09-17): final unused-title batch — every guessable title now used at least once. The 7 shows with no ≥8s clip use their best shorter clip (relaxed floor). ——
+  {show:"The Boys", text:"Bonjour, my little spy", url:"audio/the-boys/010_bonjour_my_little_spy_horn_honking_siren_wailing_panting.mp3"},
+  {show:"Django Unchained", text:"I'm riding blind", url:"audio/django-unchained/004_i_m_riding_blind.mp3"},
+  {show:"Scarface", text:"First the money, then the power, then the women", url:"audio/scarface/009_power.mp3"},
+  {show:"Peaky Blinders", text:"Your surprises have just begun", url:"audio/peaky-blinders/104_you_might_think_this_is_a_curious_place_for_me_to_suggest_a.mp3"},
+  {show:"Gladiator", text:"Three weeks from now I'll be harvesting my crops", url:"audio/gladiator/1105_three_weeks_from_now_i_will_be_harvesting_my_crops_imagine_w.mp3"},
+  {show:"Deadpool", text:"The road to Shittsburgh", url:"audio/deadpool/077_when_life_ends_up_breathtakingly_fucked_you_can_generally_tr.mp3"},
+  {show:"Ted Lasso (S1)", text:"I'm trying to be more honest", url:"audio/ted-lasso-s1/016_and_i_am_trying_to_be_more_honest.mp3"},
+  {show:"Zombieland", text:"First impression", url:"audio/zombieland/016_first_impression.mp3"},
+  {show:"Billy Madison", text:"Everyone is now dumber", url:"audio/billy-madison/032_everyone_is_now_dumber_because_of_you.mp3"},
+  {show:"American Dad!", text:"Good weed, Steveses", url:"audio/american-dad/060_good_weed_steveses.mp3"},
+  {show:"Napoleon Dynamite", text:"Detonators to blow Nessie out of the water", url:"audio/napoleon-dynamite/082_last_week_japanese_scientist_six_place_place_explosive_deton.mp3"},
+  {show:"Workaholics", text:"Chicks aren't funny, dudes are funny", url:"audio/workaholics/017_chicks_aren_t_funny_dudes_are_funny.mp3"},
+  {show:"Knocked Up", text:"Marriage is like Everybody Loves Raymond", url:"audio/knocked-up/027_marriage_is_like_an_unfunny_tense_version_of_everybody_loves.mp3"},
+  {show:"Rush Hour 2", text:"All he wanted was some Mushu", url:"audio/rush-hour-2/043_lee_all_he_wanted_was_some_mushu.mp3"},
+  {show:"Blue Mountain State", text:"I want a dying wish", url:"audio/blue-mountain-state/029_i_want_a_dying_wish_what_kind_of_a_wish_not_really_sure_yet.mp3"},
+  {show:"Hot Rod", text:"Cool beans", url:"audio/hot-rod/009_coolbeans.mp3"},
+  {show:"Grown Ups", text:"I wanna get chocolate wasted", url:"audio/grown-ups/020_lenny_remember_we_used_to_come_here_late_night_after_we_got.mp3"},
+  {show:"Drake & Josh", text:"Where's the door hole?", url:"audio/drake-and-josh/006_drake_where_s_the_door_hole.mp3"},
+  {show:"The Waterboy", text:"Water sucks, Gatorade rules", url:"audio/the-waterboy/017_gatorade_h2o_gatorade_820_sucks_it_really_really_sucks_water.mp3"},
+  {show:"Semi-Pro", text:"Everybody love everybody", url:"audio/semi-pro/002_ele_everybody_love_everybody.mp3"},
+  {show:"Narcos", text:"The pen's mightier than the sword", url:"audio/narcos/073_when_pablo_escobar_starts_believing_the_pen_s_mightier_than.mp3"},
+  {show:"Big Daddy", text:"Hip-Hop Anonymous", url:"audio/big-daddy/006_hip_hop_anonymous.mp3"},
+  {show:"The Longest Yard", text:"Get ready for an ass-kicking fiesta", url:"audio/the-longest-yard/003_get_ready_for_an_ass_kicking_fiesta.mp3"},
+  {show:"Entourage", text:"Silence, Lloyd. It's golden.", url:"audio/entourage/038_no_e_mails_no_faxes_no_phone_calls_no_nothing_simply_silence.mp3"},
+  {show:"Strange Wilderness", text:"Sharks live in two places", url:"audio/strange-wilderness/024_sharks_can_only_be_found_in_two_places_on_earth_the_northern.mp3"},
+  {show:"Popstar: Never Stop Never Stopping", text:"Looks like Optimus Prime's helmet", url:"audio/popstar/017_yo_helmet_s_dope_looks_like_the_tip_of_optimus_prime_s_dick.mp3"},
+  {show:"Invincible", text:"Brave little soldier", url:"audio/invincible/023_fuck_well_look_at_this_brave_little_soldier.mp3"},
+  {show:"The Devil Wears Prada", text:"Rushing to get ready", url:"audio/devil-wears-prada/024_rushing_to_get_ready.mp3"},
+  {show:"Beavis and Butt-Head", text:"My bunghole will not wait", url:"audio/beavis-and-butthead/064_my_bunghole_will_not_wait.mp3"},
+  {show:"Caddyshack", text:"A pond would be good for you", url:"audio/caddyshack/003_a_pool_and_a_pond_a_pond_would_be_good_for_you.mp3"},
+  {show:"Mean Girls", text:"Word vomit", url:"audio/mean-girls/107_oh_no_it_was_coming_up_again_word_vomit_no_wait_a_minute.mp3"},
+  {show:"I Think You Should Leave (S1)", text:"A hot dog car through the window", url:"audio/itysl-s1/950_someone_drove_a_hot_dog_shaped_car_through_the_window.mp3"},
+  {show:"Role Models", text:"Run a train on these chicken fingers", url:"audio/role-models/081_i_m_gonna_run_a_train_on_these_chicken_fingers.mp3"},
+  {show:"The Wolf of Wall Street", text:"My metabolism's pumping, I can't feel shit", url:"audio/wolf-of-wall-street/221_my_metabolism_s_pumping_i_can_t_feel_shit.mp3"},
+  {show:"King of the Hill", text:"Hell of a weird sound, never made that before", url:"audio/king-of-the-hill/033_well_i_weird_sound_that_s_a_hell_of_a_weird_sound_i_never_ma.mp3"}, // REFILL BEFORE 2026-09-18 — queue loops past here
 ];
 const TITLES = ["The Boys","Invincible","Breaking Bad","Family Guy","That '70s Show","Narcos","Succession","Peaky Blinders","It's Always Sunny in Philadelphia","Ozark","The Sopranos","The Wire","Rick and Morty","Silicon Valley","Arrested Development","Parks and Recreation","Atlanta","How I Met Your Mother","The Office","Game of Thrones","Friends","American Dad!","Blue Mountain State","Nathan For You","Seinfeld","The Simpsons","Drake & Josh","Beavis and Butt-Head","King of the Hill","Tropic Thunder","Step Brothers","Talladega Nights","Wedding Crashers","Superbad","This Is The End","The 40 Year Old Virgin","Anchorman","Office Space","Pineapple Express","Austin Powers: Goldmember","Strange Wilderness","The Hangover","The Other Guys","Zoolander","Borat","Django Unchained","Dodgeball","White Chicks","Dazed and Confused","Idiocracy","Pirates of the Caribbean","Forrest Gump","Pulp Fiction","The Devil Wears Prada","Mean Girls","Entourage","The Big Lebowski","Bridesmaids","Ferris Bueller's Day Off","Caddyshack","The Breakfast Club","Big Daddy","Rush Hour 2","Scarface","Hot Rod","Nacho Libre","Spaceballs","Airplane!","Deadpool","We're The Millers","Popstar: Never Stop Never Stopping","21 Jump Street","I Think You Should Leave (S1)","Zombieland","Gladiator","The Departed","Key & Peele","The Wolf of Wall Street","Ted Lasso (S1)","Old School","Happy Gilmore","Billy Madison","Dumb and Dumber","South Park","Community","Role Models","Knocked Up","Eastbound & Down","Semi-Pro","Napoleon Dynamite","Workaholics","Chappelle's Show","Trailer Park Boys","Blades of Glory","Grown Ups","The Waterboy","The Longest Yard","Futurama","BoJack Horseman"];
 const TYPE = {}; // movie/show flag for the dropdown tag
 ["Tropic Thunder","Step Brothers","Talladega Nights","Wedding Crashers","Superbad","This Is The End","The 40 Year Old Virgin","Anchorman","Office Space","Pineapple Express","Austin Powers: Goldmember","Strange Wilderness","The Hangover","The Other Guys","Zoolander","Borat","Django Unchained","Dodgeball","White Chicks","Dazed and Confused","Idiocracy","Pirates of the Caribbean","Forrest Gump","Pulp Fiction","The Devil Wears Prada","Mean Girls","The Big Lebowski","Bridesmaids","Ferris Bueller's Day Off","Caddyshack","The Breakfast Club","Big Daddy","Rush Hour 2","Scarface","Hot Rod","Nacho Libre","Spaceballs","Airplane!","Deadpool","We're The Millers","Popstar: Never Stop Never Stopping","21 Jump Street","Zombieland","Gladiator","The Departed","The Wolf of Wall Street","Old School","Happy Gilmore","Billy Madison","Dumb and Dumber","Role Models","Knocked Up","Semi-Pro","Napoleon Dynamite","Blades of Glory","Grown Ups","The Waterboy","The Longest Yard"].forEach(t=>TYPE[t]="movie");
 TITLES.forEach(t=>{ if(!TYPE[t]) TYPE[t]="show"; });
 
+/* ---------- speech anchors (approach A) ----------
+   Per-clip center (seconds) of the longest spoken segment, from an offline
+   silero-VAD pass (scripts/compute_speech_anchors.py). The snippet windows
+   center here instead of the clip midpoint, so the 1s/3s snippets land on a
+   character talking — not a music bed. Regenerate when the schedule changes. */
+const ANCHORS = {"audio/superbad/030_mclovin.mp3": 6.0, "audio/the-office/019_bears_beets_battlestar_galactica.mp3": 9.9, "audio/anchorman/055_i_love_lamp.mp3": 2.9, "audio/the-hangover/028_one_man_wolf_pack.mp3": 1.3, "audio/forrest-gump/074_my_mom_always_said_life_was_like_a_box_of_chocolates_you_nev.mp3": 4.85, "audio/big-lebowski/057_that_rug_really_tied_the_room_together_did_it_not_fucking_a.mp3": 2.15, "audio/dodgeball/017_if_you_can_dodge_a_wrench_you_can_dodge_a_ball.mp3": 8.65, "audio/talladega-nights/037_thank_you_sweet_baby_jesus.mp3": 8.2, "audio/step-brothers/043_look_i_didn_t_touch_a_drum_set_ok_i_witnessed_with_my_eyes_y.mp3": 6.3, "audio/the-office/261_prison_mike.mp3": 2.0, "audio/pulp-fiction/009_check_out_the_big_brain_on_brett_you_re_a_smart_motherfucker.mp3": 1.95, "audio/always-sunny/018_can_i_offer_you_an_egg_in_this_trying_time.mp3": 6.75, "audio/zoolander/022_he_s_almost_too_good_looking_hey_paco_that_would_be_my_main.mp3": 1.8, "audio/rick-and-morty/008_ants_in_my_eyes_johnson.mp3": 7.7, "audio/dazed-and-confused/003_i_get_older_they_stay_the_same_age.mp3": 4.55, "audio/silicon-valley/020_billionaires_are_people_too.mp3": 10.4, "audio/pineapple-express/020_i_feel_like_a_slice_of_butter.mp3": 2.55, "audio/nathan-for-you/011_i_am_so_sad.mp3": 3.05, "audio/wedding-crashers/053_we_only_use_10_percent_of_our_hearts.mp3": 2.1, "audio/the-simpsons/026_boy_ye_read_my_thoughts_you_ve_got_the_shinin.mp3": 6.0, "audio/game-of-thrones/026_chaos_is_a_ladder.mp3": 2.1, "audio/the-other-guys/001_aim_for_the_bushes.mp3": 2.2, "audio/office-space/066_jump_to_conclusions.mp3": 1.2, "audio/parks-and-rec/011_galentine_s_day.mp3": 5.25, "audio/bridesmaids/015_everybody_has_the_flu.mp3": 2.6, "audio/friends/009_are_you_in_there_little_fetus_in_nine_months_will_you_come_g.mp3": 5.5, "audio/pirates-of-the-caribbean/011_dishonestman.mp3": 3.85, "audio/that-70s-show/023_i_am_so_excited_about_star_whores_fezzie_man_it_s_star_wars.mp3": 8.45, "audio/breakfast-club/051_you_want_to_blow_your_scholarship.mp3": 5.95, "audio/this-is-the-end/030_something_not_that_chill_happened_last_night.mp3": 12.45, "audio/borat/009_greatsuccess.mp3": 9.15, "audio/sopranos/063_quasimodo_predicted.mp3": 7.55, "audio/dumb-and-dumber/087_so_you_re_telling_me_there_s_a_chance.mp3": 3.85, "audio/community/434_6_season_and_a_movie.mp3": 9.95, "audio/ferris-bueller/001_bueller_bueller.mp3": 5.2, "audio/breaking-bad/157_okay_come_on_come_on_come_on_come_on_my_name_is_walter_hartw.mp3": 17.65, "audio/white-chicks/001_a_thousand_miles.mp3": 3.2, "audio/the-wire/028_omar_s_coming_yo.mp3": 8.4, "audio/spaceballs/026_they_ve_gone_to_plaid.mp3": 15.75, "audio/futurama/286_who_are_the_real_live_robot_or_is_that_some_kind_of_cheesy_k.mp3": 5.1, "audio/21-jump-street/507_hey_hey_stop_fucking_with_korean_jesus_he_ain_t_got_time_for.mp3": 5.95, "audio/arrested-development/049_illusion_michael.mp3": 4.0, "audio/nacho-libre/250_when_you_are_a_man_sometimes_you_wear_stretchy_pants_in_your.mp3": 4.85, "audio/south-park/179_kyle_s_mom_is_a_big_fat_bitch.mp3": 9.0, "audio/old-school/236_frank_after_funneling_a_beer_fill_it_up_again_fill_it_up_aga.mp3": 16.25, "audio/seinfeld/289_these_pretzels_are_making_me_thirsty.mp3": 6.95, "audio/idiocracy/042_i_m_a_secretary_of_state_brought_to_you_by_carl_s_junior_why.mp3": 9.15, "audio/chappelles-show/007_he_tried_to_kill_my_father.mp3": 9.65, "audio/40-year-old-virgin/008_how_i_know_you_re_gay.mp3": 5.55, "audio/atlanta/032_i_m_darius_apologies_i_m_theodore_perkins_please_call_me_ted.mp3": 6.5, "audio/tropic-thunder/037_what_do_you_mean_you_people.mp3": 3.95, "audio/succession/002_and_no_one_no_one_but_i_am_the_eldest_son_of_our_father_i_am.mp3": 11.7, "audio/airplane/005_do_you_like_something_to_read_do_you_have_anything_light_how.mp3": 7.8, "audio/eastbound-down/003_i_can_feel_it_all_the_way_down_in_my_plums.mp3": 16.75, "audio/blades-of-glory/005_mind_bottling_isn_t_it.mp3": 5.55, "audio/bojack-horseman/065_i_m_not_a_good_person.mp3": 3.65, "audio/happy-gilmore/067_but_you_re_in_trouble_i_eat_pieces_of_shit_like_you_for_brea.mp3": 23.4, "audio/himym/053_i_was_a_teenage_pop_star_in_canada.mp3": 17.5, "audio/the-departed/027_no_ticky_no_laundry.mp3": 8.3, "audio/key-and-peele/090_where_is_a_a_ron.mp3": 22.35, "audio/austin-powers-goldmember/069_well_miss_norma_s_shall_we_shag_now_or_shag_later_oh_often_b.mp3": 7.3, "audio/family-guy/463_surfin_bird_execution.mp3": 12.56, "audio/were-the-millers/005_casey_make_good_choices_come_on_she_s_gonna_be_fine_tattooed.mp3": 8.4, "audio/trailer-park-boys/030_i_am_the_liquor.mp3": 7.2, "audio/ozark/019_marty_welcome_to_our_home_martin_byrde.mp3": 7.85, "audio/the-boys/010_bonjour_my_little_spy_horn_honking_siren_wailing_panting.mp3": 2.7, "audio/django-unchained/004_i_m_riding_blind.mp3": 6.05, "audio/scarface/009_power.mp3": 7.9, "audio/peaky-blinders/104_you_might_think_this_is_a_curious_place_for_me_to_suggest_a.mp3": 2.5, "audio/gladiator/1105_three_weeks_from_now_i_will_be_harvesting_my_crops_imagine_w.mp3": 17.9, "audio/deadpool/077_when_life_ends_up_breathtakingly_fucked_you_can_generally_tr.mp3": 5.15, "audio/ted-lasso-s1/016_and_i_am_trying_to_be_more_honest.mp3": 0.9, "audio/zombieland/016_first_impression.mp3": 3.75, "audio/billy-madison/032_everyone_is_now_dumber_because_of_you.mp3": 3.8, "audio/american-dad/060_good_weed_steveses.mp3": 2.65, "audio/napoleon-dynamite/082_last_week_japanese_scientist_six_place_place_explosive_deton.mp3": 5.35, "audio/workaholics/017_chicks_aren_t_funny_dudes_are_funny.mp3": 5.35, "audio/knocked-up/027_marriage_is_like_an_unfunny_tense_version_of_everybody_loves.mp3": 1.95, "audio/rush-hour-2/043_lee_all_he_wanted_was_some_mushu.mp3": 4.6, "audio/blue-mountain-state/029_i_want_a_dying_wish_what_kind_of_a_wish_not_really_sure_yet.mp3": 6.05, "audio/hot-rod/009_coolbeans.mp3": 4.3, "audio/grown-ups/020_lenny_remember_we_used_to_come_here_late_night_after_we_got.mp3": 20.05, "audio/drake-and-josh/006_drake_where_s_the_door_hole.mp3": 7.7, "audio/the-waterboy/017_gatorade_h2o_gatorade_820_sucks_it_really_really_sucks_water.mp3": 13.5, "audio/semi-pro/002_ele_everybody_love_everybody.mp3": 11.65, "audio/narcos/073_when_pablo_escobar_starts_believing_the_pen_s_mightier_than.mp3": 3.3, "audio/big-daddy/006_hip_hop_anonymous.mp3": 9.85, "audio/the-longest-yard/003_get_ready_for_an_ass_kicking_fiesta.mp3": 5.25, "audio/entourage/038_no_e_mails_no_faxes_no_phone_calls_no_nothing_simply_silence.mp3": 3.55, "audio/strange-wilderness/024_sharks_can_only_be_found_in_two_places_on_earth_the_northern.mp3": 2.9, "audio/popstar/017_yo_helmet_s_dope_looks_like_the_tip_of_optimus_prime_s_dick.mp3": 4.05, "audio/invincible/023_fuck_well_look_at_this_brave_little_soldier.mp3": 1.6, "audio/devil-wears-prada/024_rushing_to_get_ready.mp3": 1.45, "audio/beavis-and-butthead/064_my_bunghole_will_not_wait.mp3": 1.8, "audio/caddyshack/003_a_pool_and_a_pond_a_pond_would_be_good_for_you.mp3": 1.6, "audio/mean-girls/107_oh_no_it_was_coming_up_again_word_vomit_no_wait_a_minute.mp3": 1.35, "audio/itysl-s1/950_someone_drove_a_hot_dog_shaped_car_through_the_window.mp3": 1.768, "audio/role-models/081_i_m_gonna_run_a_train_on_these_chicken_fingers.mp3": 2.2, "audio/wolf-of-wall-street/221_my_metabolism_s_pumping_i_can_t_feel_shit.mp3": 1.15, "audio/king-of-the-hill/033_well_i_weird_sound_that_s_a_hell_of_a_weird_sound_i_never_ma.mp3": 4.587};
+
 /* ---------- ladder config ---------- */
 const MAX_GUESSES = 5;
 // snippet stages carry their own window length (snipMs); reveals escalate down the ladder
 const STAGES = [
-  {label:"Clue 1 — short snippet",        mode:"snippet", snipMs:2500, limit:2,        caption:false, masked:false},
-  {label:"Clue 2 — 5-second snippet",     mode:"snippet", snipMs:5000, limit:2,        caption:false, masked:false},
-  {label:"Clue 3 — full clip",            mode:"full",                 limit:2,        caption:false, masked:false},
-  {label:"Clue 4 — quote + masked title",  mode:"full",                limit:Infinity, caption:true,  maskAll:true},
-  {label:"Clue 5 — quote + title initials",mode:"full",                limit:Infinity, caption:true,  firstLetters:true},
+  {label:"Clue 1 — 1-second snippet",      mode:"snippet", snipMs:1000, limit:2,        caption:false, masked:false},
+  {label:"Clue 2 — 3-second snippet",      mode:"snippet", snipMs:3000, limit:2,        caption:false, masked:false},
+  {label:"Clue 3 — 5-second snippet",      mode:"snippet", snipMs:5000, limit:2,        caption:false, masked:false},
+  {label:"Clue 4 — full clip + quote",     mode:"full",                 limit:2,        caption:true},
+  {label:"Clue 5 — quote + initials",      mode:"full",                 limit:Infinity, caption:true,  titleHint:true},
 ];
 function snipMs(){ return STAGES[stage].snipMs || 2500; }
 
 /* ---------- masking (clues 4 & 5) ---------- */
 function isAlpha(c){ return /[a-z]/i.test(c); }
-// level 1 = first+last letter per word; level 2 = also reveal ~half the rest
-function maskTitle(title, level){
-  return title.split(" ").map(word=>{
+// stage-5 hint: reveal the first letter of the first word, plus the last letter of the
+// last word IF the title has more than one word. Single-word titles show only the first letter.
+function maskTitleHint(title){
+  const words=title.split(" ");
+  const multi=words.length>1;
+  return words.map((word,wi)=>{
     const chars=[...word];
     const alphaIdx=chars.map((c,i)=>isAlpha(c)?i:-1).filter(i=>i>=0);
     const show=new Set();
-    if(alphaIdx.length){ if(level>=0) show.add(alphaIdx[0]); if(level>=1) show.add(alphaIdx[alphaIdx.length-1]); }
-    if(level>=2){ // reveal every other interior hidden letter
-      const interior=alphaIdx.slice(1,-1);
-      interior.forEach((idx,k)=>{ if(k%2===0) show.add(idx); });
-    }
+    if(wi===0 && alphaIdx.length) show.add(alphaIdx[0]);                                   // first word → first letter
+    if(multi && wi===words.length-1 && alphaIdx.length) show.add(alphaIdx[alphaIdx.length-1]); // last word → last letter (multi-word only)
     return chars.map((c,i)=> (!isAlpha(c)||show.has(i)) ? c : '<span class="b">•</span>').join("");
   }).join("&nbsp;&nbsp;");
 }
@@ -423,9 +508,12 @@ function stopSource(){
   if(curSource){ try{ curSource.onended=null; curSource.stop(); }catch(e){} curSource=null; }
   const b=document.getElementById("play"); if(b) b.classList.remove("playing");
 }
-function segOffset(snipMs){                        // where the snippet window starts: centered on the midpoint
+function segOffset(snipMs){                        // where the snippet window starts
   const d=clipBuffer?clipBuffer.duration:0, win=snipMs/1000;
-  return d<=win ? 0 : Math.max(0, d/2 - win/2);
+  if(d<=win) return 0;
+  const a=ANCHORS[clip.url];                       // speech anchor (center of the longest spoken segment)
+  const center=(a!=null)?a:d/2;                    // fallback: clip midpoint
+  return Math.min(Math.max(0, center-win/2), d-win); // center the window on speech, clamp in-bounds
 }
 function startSegment(mode, snipMs){               // mode "snippet" → a window; else the whole clip
   if(!clipBuffer) return;
@@ -547,12 +635,9 @@ function render(){
   if(STAGES[stage].caption){
     reveals += `<div class="reveal"><span class="k">The quote</span><span class="caption">“${clip.text}”</span></div>`;
   }
-  if(STAGES[stage].maskAll){
-    reveals += `<div class="reveal"><span class="k">The title</span><span class="masked">${maskTitle(clip.show,-1)}</span></div>`;
-  }
-  if(STAGES[stage].firstLetters){
+  if(STAGES[stage].titleHint){
     const kind = TYPE[clip.show]==="movie"?"Movie":"Show";
-    reveals += `<div class="reveal"><span class="k">The title <span class="kindtag">${kind}</span></span><span class="masked">${maskTitle(clip.show,0)}</span></div>`;
+    reveals += `<div class="reveal"><span class="k">The title <span class="kindtag">${kind}</span></span><span class="masked">${maskTitleHint(clip.show)}</span></div>`;
   }
 
   const ok=canPlay();
