@@ -46798,6 +46798,810 @@ const shows = [
     ]
   },
   {
+    "id": "veep",
+    "name": "Veep",
+    "type": "show",
+    "theme": {
+      "primary": "#3a6ea5",
+      "accent": "#c8443a",
+      "bg": "#080a0e"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Am I being Punk'd?",
+        "character": "",
+        "audioUrl": "audio/veep/004_am_i_being_punk_d.mp3"
+      },
+      {
+        "text": "Am I sure? Is that really your question?",
+        "character": "",
+        "audioUrl": "audio/veep/005_am_i_sure_is_that_really_your_question.mp3"
+      },
+      {
+        "text": "Are you on meds?",
+        "character": "",
+        "audioUrl": "audio/veep/010_are_you_on_meds.mp3"
+      },
+      {
+        "text": "Back to your natural habitat",
+        "character": "",
+        "audioUrl": "audio/veep/011_back_to_your_natural_habitat.mp3"
+      },
+      {
+        "text": "Basketball is a religion",
+        "character": "",
+        "audioUrl": "audio/veep/013_basketball_is_a_religion.mp3"
+      },
+      {
+        "text": "Bullshitting takes talent",
+        "character": "",
+        "audioUrl": "audio/veep/017_bullshitting_takes_talent.mp3"
+      },
+      {
+        "text": "Can Paul McCartney teach Kid Rock?",
+        "character": "",
+        "audioUrl": "audio/veep/019_can_paul_mccartney_teach_kid_rock.mp3"
+      },
+      {
+        "text": "Can't keep a cat in the bag",
+        "character": "",
+        "audioUrl": "audio/veep/020_can_you_not_keep_a_cat_in_a_bag_for_one_second.mp3"
+      },
+      {
+        "text": "Can't say that didn't feel good",
+        "character": "",
+        "audioUrl": "audio/veep/021_can_t_say_that_didn_t_feel_good.mp3"
+      },
+      {
+        "text": "Could you deal with this honest woman",
+        "character": "",
+        "audioUrl": "audio/veep/029_could_you_deal_with_this_honest_woman.mp3"
+      },
+      {
+        "text": "Did Simon mingle with Garfunkel?",
+        "character": "",
+        "audioUrl": "audio/veep/031_did_simon_mingle_with_garfunkel.mp3"
+      },
+      {
+        "text": "Shittin' clits, son",
+        "character": "",
+        "audioUrl": "audio/veep/037_eating_so_much_pussy_i_m_shittin_clits_son.mp3"
+      },
+      {
+        "text": "God bless the president, but...",
+        "character": "",
+        "audioUrl": "audio/veep/049_god_bless_the_president_but.mp3"
+      },
+      {
+        "text": "He rises up and kills all the muggles",
+        "character": "",
+        "audioUrl": "audio/veep/053_he_rises_up_and_kills_all_the_muggles.mp3"
+      },
+      {
+        "text": "Holy mother of god",
+        "character": "",
+        "audioUrl": "audio/veep/061_holy_mother_of_god.mp3"
+      },
+      {
+        "text": "I am going to throw up a leg",
+        "character": "",
+        "audioUrl": "audio/veep/064_i_am_going_to_throw_up_a_leg.mp3"
+      },
+      {
+        "text": "I am good at this",
+        "character": "",
+        "audioUrl": "audio/veep/066_i_am_good_at_this.mp3"
+      },
+      {
+        "text": "I as president have achieved something",
+        "character": "",
+        "audioUrl": "audio/veep/070_i_as_president_have_achieved_something.mp3"
+      },
+      {
+        "text": "I shut down the national parks",
+        "character": "",
+        "audioUrl": "audio/veep/092_i_shut_down_the_national_parks.mp3"
+      },
+      {
+        "text": "I shut down NPR",
+        "character": "",
+        "audioUrl": "audio/veep/093_i_shutdown_npr.mp3"
+      },
+      {
+        "text": "I want to cry",
+        "character": "",
+        "audioUrl": "audio/veep/100_i_want_to_cry.mp3"
+      },
+      {
+        "text": "I'll follow you wherever you go",
+        "character": "",
+        "audioUrl": "audio/veep/110_i_m_going_to_follow_you_wherever_you_go.mp3"
+      },
+      {
+        "text": "I'm running for Congress",
+        "character": "",
+        "audioUrl": "audio/veep/114_i_m_running_for_congress.mp3"
+      },
+      {
+        "text": "A dollar every time you mention the war",
+        "character": "",
+        "audioUrl": "audio/veep/118_if_i_had_a_dollar_every_time_you_mentioned_the_war.mp3"
+      },
+      {
+        "text": "If you miss the deadline",
+        "character": "",
+        "audioUrl": "audio/veep/120_if_you_miss_the_deadline.mp3"
+      },
+      {
+        "text": "Is the sky blue?",
+        "character": "",
+        "audioUrl": "audio/veep/124_is_the_sky_blue.mp3"
+      },
+      {
+        "text": "It went out of my head",
+        "character": "",
+        "audioUrl": "audio/veep/131_it_went_out_of_my_head.mp3"
+      },
+      {
+        "text": "It's like a bell",
+        "character": "",
+        "audioUrl": "audio/veep/134_it_s_like_a_bell.mp3"
+      },
+      {
+        "text": "Jonah Ryan frustrated",
+        "character": "",
+        "audioUrl": "audio/veep/140_jonah_ryan_frustrated.mp3"
+      },
+      {
+        "text": "Killing it daily",
+        "character": "",
+        "audioUrl": "audio/veep/142_killing_it_daily.mp3"
+      },
+      {
+        "text": "Move more air by farting",
+        "character": "",
+        "audioUrl": "audio/veep/157_move_more_air_by_farting.mp3"
+      },
+      {
+        "text": "Oh my god",
+        "character": "",
+        "audioUrl": "audio/veep/167_oh_my_god.mp3"
+      },
+      {
+        "text": "Richard Splett takes an order",
+        "character": "",
+        "audioUrl": "audio/veep/179_richard_splett_takes_an_order.mp3"
+      },
+      {
+        "text": "Rubik's cube",
+        "character": "",
+        "audioUrl": "audio/veep/180_rubik_s_cube.mp3"
+      },
+      {
+        "text": "Selina ruins Nickerson",
+        "character": "",
+        "audioUrl": "audio/veep/181_selina_ruins_nickerson_at_congressional_ball.mp3"
+      },
+      {
+        "text": "She's a workaholic",
+        "character": "",
+        "audioUrl": "audio/veep/186_she_s_a_workaholic.mp3"
+      },
+      {
+        "text": "Should I do what I just said?",
+        "character": "",
+        "audioUrl": "audio/veep/188_should_i_do_what_i_just_said_i_should_do.mp3"
+      },
+      {
+        "text": "Son of a bitch",
+        "character": "",
+        "audioUrl": "audio/veep/195_son_of_a_bitch.mp3"
+      },
+      {
+        "text": "That is a fucking lie",
+        "character": "",
+        "audioUrl": "audio/veep/205_that_is_a_fucking_lie.mp3"
+      },
+      {
+        "text": "The noise, the lights",
+        "character": "",
+        "audioUrl": "audio/veep/212_the_noise_the_lights.mp3"
+      },
+      {
+        "text": "Not enough alcohol in the world",
+        "character": "",
+        "audioUrl": "audio/veep/216_there_s_not_enough_alcohol_in_the_world.mp3"
+      },
+      {
+        "text": "This is the unflushable turd",
+        "character": "",
+        "audioUrl": "audio/veep/226_this_is_the_unflushable_turd.mp3"
+      },
+      {
+        "text": "You're asking a hypothetical",
+        "character": "",
+        "audioUrl": "audio/veep/243_well_you_re_asking_me_a_hypothetical_question.mp3"
+      },
+      {
+        "text": "What was I just going to say",
+        "character": "",
+        "audioUrl": "audio/veep/247_what_was_i_just_going_to_say.mp3"
+      },
+      {
+        "text": "What's the point",
+        "character": "",
+        "audioUrl": "audio/veep/248_what_s_the_point.mp3"
+      },
+      {
+        "text": "When you pull the pin out",
+        "character": "",
+        "audioUrl": "audio/veep/249_when_you_pull_the_pin_out.mp3"
+      },
+      {
+        "text": "Why can't the American people make up their minds?",
+        "character": "",
+        "audioUrl": "audio/veep/254_why_can_t_the_american_people_make_up_their_minds.mp3"
+      },
+      {
+        "text": "Wish me luck",
+        "character": "",
+        "audioUrl": "audio/veep/259_wish_me_luck.mp3"
+      },
+      {
+        "text": "Yet here you are, running America",
+        "character": "",
+        "audioUrl": "audio/veep/264_yet_here_you_are_running_america.mp3"
+      },
+      {
+        "text": "You are being irritating",
+        "character": "",
+        "audioUrl": "audio/veep/265_you_are_being_irritating.mp3"
+      },
+      {
+        "text": "You are like an earlobe",
+        "character": "",
+        "audioUrl": "audio/veep/267_you_are_like_an_earlobe.mp3"
+      },
+      {
+        "text": "Worst thing to happen to this country",
+        "character": "",
+        "audioUrl": "audio/veep/268_you_are_the_worst_thing_that_has_happened_to_this_country.mp3"
+      },
+      {
+        "text": "Michael Jordan on the bench",
+        "character": "",
+        "audioUrl": "audio/veep/270_you_guys_have_michael_jordan_sitting_on_the_bench.mp3"
+      },
+      {
+        "text": "You kinda look like an asshole",
+        "character": "",
+        "audioUrl": "audio/veep/274_you_kinda_look_like_an_asshole.mp3"
+      },
+      {
+        "text": "You like to have sex?",
+        "character": "",
+        "audioUrl": "audio/veep/276_you_like_to_have_sex.mp3"
+      },
+      {
+        "text": "You look like an asshole",
+        "character": "",
+        "audioUrl": "audio/veep/278_you_look_like_an_asshole.mp3"
+      },
+      {
+        "text": "You look so good",
+        "character": "",
+        "audioUrl": "audio/veep/279_you_look_so_good.mp3"
+      },
+      {
+        "text": "You're a work of art",
+        "character": "",
+        "audioUrl": "audio/veep/286_you_re_a_work_of_art.mp3"
+      },
+      {
+        "text": "You're damn right I shut down the government!",
+        "character": "",
+        "audioUrl": "audio/veep/291_you_re_damn_right_i_shutdown_the_government.mp3"
+      },
+      {
+        "text": "You're Frankenstein's monster",
+        "character": "",
+        "audioUrl": "audio/veep/292_you_re_frankenstein_s_monster.mp3"
+      }
+    ]
+  },
+  {
+    "id": "30-rock",
+    "name": "30 Rock",
+    "type": "show",
+    "theme": {
+      "primary": "#2f5c8f",
+      "accent": "#d4a53a",
+      "bg": "#080a0d"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "A guaranteed disaster",
+        "character": "",
+        "audioUrl": "audio/30-rock/001_a_guaranteed_disaster.mp3"
+      },
+      {
+        "text": "Alec Baldwin thumbs up",
+        "character": "",
+        "audioUrl": "audio/30-rock/002_alec_baldwin_thumbs_up.mp3"
+      },
+      {
+        "text": "Big laughs",
+        "character": "",
+        "audioUrl": "audio/30-rock/003_big_laughs.mp3"
+      },
+      {
+        "text": "Business drunk",
+        "character": "",
+        "audioUrl": "audio/30-rock/004_business_drunk.mp3"
+      },
+      {
+        "text": "Business gets me off",
+        "character": "",
+        "audioUrl": "audio/30-rock/005_business_gets_me_off.mp3"
+      },
+      {
+        "text": "Crushing it",
+        "character": "",
+        "audioUrl": "audio/30-rock/006_crushing_it.mp3"
+      },
+      {
+        "text": "Doing the dishes",
+        "character": "",
+        "audioUrl": "audio/30-rock/007_doing_the_dishes.mp3"
+      },
+      {
+        "text": "Don't be so dramatic",
+        "character": "",
+        "audioUrl": "audio/30-rock/008_don_t_be_so_dramatic.mp3"
+      },
+      {
+        "text": "Elites",
+        "character": "",
+        "audioUrl": "audio/30-rock/009_elites.mp3"
+      },
+      {
+        "text": "Endless carousel of women",
+        "character": "",
+        "audioUrl": "audio/30-rock/010_endless_carousel_of_women.mp3"
+      },
+      {
+        "text": "Eyeroll",
+        "character": "",
+        "audioUrl": "audio/30-rock/011_eyeroll.mp3"
+      },
+      {
+        "text": "Goodbye forever",
+        "character": "",
+        "audioUrl": "audio/30-rock/012_goodbye_forever.mp3"
+      },
+      {
+        "text": "Grow up",
+        "character": "",
+        "audioUrl": "audio/30-rock/013_grow_up.mp3"
+      },
+      {
+        "text": "Guaranteed disaster",
+        "character": "",
+        "audioUrl": "audio/30-rock/014_guaranteed_disaster.mp3"
+      },
+      {
+        "text": "High maintenance",
+        "character": "",
+        "audioUrl": "audio/30-rock/015_high_maintenance.mp3"
+      },
+      {
+        "text": "How do you do fellow kids",
+        "character": "",
+        "audioUrl": "audio/30-rock/016_how_do_you_do_fellow_kids.mp3"
+      },
+      {
+        "text": "Humor as a coping mechanism",
+        "character": "",
+        "audioUrl": "audio/30-rock/017_humor_as_a_coping_mechanism.mp3"
+      },
+      {
+        "text": "I am the exterminator",
+        "character": "",
+        "audioUrl": "audio/30-rock/018_i_am_the_exterminator.mp3"
+      },
+      {
+        "text": "I can have it all",
+        "character": "",
+        "audioUrl": "audio/30-rock/019_i_can_have_it_all.mp3"
+      },
+      {
+        "text": "I like to surround myself with winners",
+        "character": "",
+        "audioUrl": "audio/30-rock/020_i_like_to_surround_myself_with_winners.mp3"
+      },
+      {
+        "text": "I wanna roll my eyes right now",
+        "character": "",
+        "audioUrl": "audio/30-rock/021_i_wanna_roll_my_eyes_right_now.mp3"
+      },
+      {
+        "text": "I'm mad at your success",
+        "character": "",
+        "audioUrl": "audio/30-rock/022_i_m_mad_at_your_success.mp3"
+      },
+      {
+        "text": "I'm not an executive",
+        "character": "",
+        "audioUrl": "audio/30-rock/023_i_m_not_an_executive.mp3"
+      },
+      {
+        "text": "I'm not as strong as that guy",
+        "character": "",
+        "audioUrl": "audio/30-rock/024_i_m_not_as_strong_as_that_guy.mp3"
+      },
+      {
+        "text": "It's winning time, you magnificent son of a bitch",
+        "character": "",
+        "audioUrl": "audio/30-rock/025_it_s_winning_time_you_magnificent_son_of_a_bitch.mp3"
+      },
+      {
+        "text": "My fists will do the talking for me",
+        "character": "",
+        "audioUrl": "audio/30-rock/026_my_fists_will_do_the_talking_for_me.mp3"
+      },
+      {
+        "text": "Never go with a hippie to a second location",
+        "character": "",
+        "audioUrl": "audio/30-rock/027_never_go_with_a_hippie_to_a_second_location.mp3"
+      },
+      {
+        "text": "Oh no. Someone's going to get more attention than me",
+        "character": "",
+        "audioUrl": "audio/30-rock/028_oh_no_someone_s_going_to_get_more_attention_than_me.mp3"
+      },
+      {
+        "text": "Pregnancy test",
+        "character": "",
+        "audioUrl": "audio/30-rock/029_pregnancy_test.mp3"
+      },
+      {
+        "text": "Relationship advice",
+        "character": "",
+        "audioUrl": "audio/30-rock/030_relationship_advice.mp3"
+      },
+      {
+        "text": "See ya later, suckas!",
+        "character": "",
+        "audioUrl": "audio/30-rock/031_see_ya_later_suckas.mp3"
+      },
+      {
+        "text": "Single woman's biggest worry",
+        "character": "",
+        "audioUrl": "audio/30-rock/032_single_woman_s_biggest_worry.mp3"
+      },
+      {
+        "text": "Starting salary",
+        "character": "",
+        "audioUrl": "audio/30-rock/033_starting_salary.mp3"
+      },
+      {
+        "text": "Strong powerful men like me",
+        "character": "",
+        "audioUrl": "audio/30-rock/034_strong_powerful_men_like_me.mp3"
+      },
+      {
+        "text": "Symbiotic relationship",
+        "character": "",
+        "audioUrl": "audio/30-rock/035_symbiotic_relationship.mp3"
+      },
+      {
+        "text": "That was terrible",
+        "character": "",
+        "audioUrl": "audio/30-rock/036_that_was_terrible.mp3"
+      },
+      {
+        "text": "The art of eye rolling",
+        "character": "",
+        "audioUrl": "audio/30-rock/037_the_art_of_eye_rolling.mp3"
+      },
+      {
+        "text": "The world is controlled by those who do do",
+        "character": "",
+        "audioUrl": "audio/30-rock/038_the_world_is_controlled_by_those_who_do_do.mp3"
+      },
+      {
+        "text": "This is boring. I'm bored now",
+        "character": "",
+        "audioUrl": "audio/30-rock/039_this_is_boring_i_m_bored_now.mp3"
+      },
+      {
+        "text": "Those shoes are definitely bicurious",
+        "character": "",
+        "audioUrl": "audio/30-rock/040_those_shoes_are_definitely_bicurious.mp3"
+      },
+      {
+        "text": "Uncork a brewski",
+        "character": "",
+        "audioUrl": "audio/30-rock/041_uncork_a_brewski.mp3"
+      },
+      {
+        "text": "We all have to work with people we hate",
+        "character": "",
+        "audioUrl": "audio/30-rock/042_we_all_have_to_work_with_people_we_hate.mp3"
+      },
+      {
+        "text": "We should do some work",
+        "character": "",
+        "audioUrl": "audio/30-rock/043_we_should_do_some_work.mp3"
+      },
+      {
+        "text": "Werewolf Bar Mitzvah",
+        "character": "",
+        "audioUrl": "audio/30-rock/044_werewolf_bar_mitzvah.mp3"
+      },
+      {
+        "text": "What a week, huh?",
+        "character": "",
+        "audioUrl": "audio/30-rock/045_what_a_week_huh.mp3"
+      },
+      {
+        "text": "What am I, a farmer?",
+        "character": "",
+        "audioUrl": "audio/30-rock/046_what_am_i_a_farmer.mp3"
+      },
+      {
+        "text": "What would Oprah do?",
+        "character": "",
+        "audioUrl": "audio/30-rock/047_what_would_oprah_do.mp3"
+      },
+      {
+        "text": "Why do you punish yourself with all this mediocrity?",
+        "character": "",
+        "audioUrl": "audio/30-rock/048_why_do_you_punish_yourself_with_all_this_mediocrity.mp3"
+      },
+      {
+        "text": "You ancient bitch!",
+        "character": "",
+        "audioUrl": "audio/30-rock/049_you_ancient_bitch.mp3"
+      },
+      {
+        "text": "You can't force your fate",
+        "character": "",
+        "audioUrl": "audio/30-rock/050_you_can_t_force_your_fate.mp3"
+      },
+      {
+        "text": "You must be embarrassed if you're hiding in the storage closet",
+        "character": "",
+        "audioUrl": "audio/30-rock/051_you_must_be_embarrassed_if_you_re_hiding_in_the_storage_clos.mp3"
+      },
+      {
+        "text": "You must be ruthless",
+        "character": "",
+        "audioUrl": "audio/30-rock/052_you_must_be_ruthless.mp3"
+      },
+      {
+        "text": "You should all learn from Pete's mistake",
+        "character": "",
+        "audioUrl": "audio/30-rock/053_you_should_all_learn_from_pete_s_mistake.mp3"
+      },
+      {
+        "text": "You still haven't blown it completely",
+        "character": "",
+        "audioUrl": "audio/30-rock/054_you_still_haven_t_blown_it_completely.mp3"
+      }
+    ]
+  },
+  {
+    "id": "training-day",
+    "name": "Training Day",
+    "type": "movie",
+    "theme": {
+      "primary": "#b5642a",
+      "accent": "#7a2f2f",
+      "bg": "#0a0705"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Promise me",
+        "character": "",
+        "audioUrl": "audio/training-day/002_again_promise_me_you_won_t_get.mp3"
+      },
+      {
+        "text": "Get this over with",
+        "character": "",
+        "audioUrl": "audio/training-day/003_and_get_this_over_with.mp3"
+      },
+      {
+        "text": "You take the damn shot",
+        "character": "",
+        "audioUrl": "audio/training-day/005_and_you_take_the_damn_shot_made.mp3"
+      },
+      {
+        "text": "Are you man enough?",
+        "character": "",
+        "audioUrl": "audio/training-day/006_are_you_man_enough_to_kill_jay.mp3"
+      },
+      {
+        "text": "It's chess, not checkers",
+        "character": "",
+        "audioUrl": "audio/training-day/009_chess.mp3"
+      },
+      {
+        "text": "Come on, tell the story",
+        "character": "",
+        "audioUrl": "audio/training-day/010_come_on_tell_the_story.mp3"
+      },
+      {
+        "text": "Trial by fire",
+        "character": "",
+        "audioUrl": "audio/training-day/011_days_trial_by_fire.mp3"
+      },
+      {
+        "text": "Don't bullshit me",
+        "character": "",
+        "audioUrl": "audio/training-day/012_don_t_bullshit_me.mp3"
+      },
+      {
+        "text": "Ever had your shit pushed in?",
+        "character": "",
+        "audioUrl": "audio/training-day/015_ever_had_your_shit_pushed_in.mp3"
+      },
+      {
+        "text": "Give a rat's ass",
+        "character": "",
+        "audioUrl": "audio/training-day/018_give_a_rats_ass_what_these.mp3"
+      },
+      {
+        "text": "He's a good man",
+        "character": "",
+        "audioUrl": "audio/training-day/020_he_s_a_good_man.mp3"
+      },
+      {
+        "text": "They're terrified, I'm not scared",
+        "character": "",
+        "audioUrl": "audio/training-day/021_he_s_gay_i_m_not_scared_they_re_terrified_everybody_goes_thr.mp3"
+      },
+      {
+        "text": "Expensive weekend in Vegas",
+        "character": "",
+        "audioUrl": "audio/training-day/022_heard_you_had_an_expensive_weekend_in_vegas.mp3"
+      },
+      {
+        "text": "How did you screw up so bad?",
+        "character": "",
+        "audioUrl": "audio/training-day/023_how_did_you_screw_up_so_bad.mp3"
+      },
+      {
+        "text": "If I ever have a son",
+        "character": "",
+        "audioUrl": "audio/training-day/024_i_ever_have_a_son_i_have_to_warn.mp3"
+      },
+      {
+        "text": "Just wait",
+        "character": "",
+        "audioUrl": "audio/training-day/030_just_wait.mp3"
+      },
+      {
+        "text": "King Kong ain't got shit on me!",
+        "character": "",
+        "audioUrl": "audio/training-day/031_king_kong_aint_got_shit_on_me.mp3"
+      },
+      {
+        "text": "Laugh it off",
+        "character": "",
+        "audioUrl": "audio/training-day/032_laugh_it_off.mp3"
+      },
+      {
+        "text": "I don't wanna be a man",
+        "character": "",
+        "audioUrl": "audio/training-day/039_no_i_don_t_wanna_be_a_man_ok.mp3"
+      },
+      {
+        "text": "Putting cases on all y'all",
+        "character": "",
+        "audioUrl": "audio/training-day/040_oh_you_motherfuckers_ok_all_right_i_m_putting_cases_on_all_y.mp3"
+      },
+      {
+        "text": "Only a problem if you miss",
+        "character": "",
+        "audioUrl": "audio/training-day/042_only_a_problem_if_you_miss_and.mp3"
+      },
+      {
+        "text": "Sure, you OK?",
+        "character": "",
+        "audioUrl": "audio/training-day/047_sure_you_ok.mp3"
+      },
+      {
+        "text": "Take your medication",
+        "character": "",
+        "audioUrl": "audio/training-day/048_take_your_medication.mp3"
+      },
+      {
+        "text": "Is that what you said to me?",
+        "character": "",
+        "audioUrl": "audio/training-day/050_told_me_to_suck_your_dick_bitch_is_that_what_you_said_to_me.mp3"
+      },
+      {
+        "text": "You did what you had to do",
+        "character": "",
+        "audioUrl": "audio/training-day/054_you_did_what_you_had_to_do.mp3"
+      },
+      {
+        "text": "Disloyal bitch-made punk",
+        "character": "",
+        "audioUrl": "audio/training-day/055_you_disloyal_fool_ass_bitch_made_punk.mp3"
+      },
+      {
+        "text": "I got your back",
+        "character": "",
+        "audioUrl": "audio/training-day/056_you_know_i_got_your_back_i_know_that_thank_you.mp3"
+      },
+      {
+        "text": "You motherfuckers",
+        "character": "",
+        "audioUrl": "audio/training-day/059_you_motherfuckers.mp3"
+      },
+      {
+        "text": "Basketball in Pelican Bay",
+        "character": "",
+        "audioUrl": "audio/training-day/060_you_motherfuckers_will_be_playing_basketball_in_pelican_bay.mp3"
+      },
+      {
+        "text": "Hop a jet out of here",
+        "character": "",
+        "audioUrl": "audio/training-day/062_you_ought_to_hop_a_jet_out_of_here.mp3"
+      },
+      {
+        "text": "You really want to know?",
+        "character": "",
+        "audioUrl": "audio/training-day/063_you_really_want_to_know_yeah_i_really_want_to_know.mp3"
+      },
+      {
+        "text": "The fool in the wheelchair",
+        "character": "",
+        "audioUrl": "audio/training-day/064_you_remember_that_fool_in_the_wheelchair_how_you_think_he_go.mp3"
+      },
+      {
+        "text": "You sound just like me",
+        "character": "",
+        "audioUrl": "audio/training-day/065_you_sound_just_like_me_and_i_know_what_you_re_going_through.mp3"
+      },
+      {
+        "text": "You talked to my guy Stan?",
+        "character": "",
+        "audioUrl": "audio/training-day/066_you_talked_to_my_guy_stan_and_then_we_ll_walk_you_through_wh.mp3"
+      },
+      {
+        "text": "You think you can do this to me?",
+        "character": "",
+        "audioUrl": "audio/training-day/067_you_think_you_can_do_this_to_me.mp3"
+      },
+      {
+        "text": "Home or jail?",
+        "character": "",
+        "audioUrl": "audio/training-day/069_you_wanna_go_home_you_wanna_go_to_jail_huh.mp3"
+      },
+      {
+        "text": "You're not gonna shoot him",
+        "character": "",
+        "audioUrl": "audio/training-day/072_youngsters_these_days_you_re_not_gonna_shoot_him.mp3"
+      },
+      {
+        "text": "I'm straight, didn't search me",
+        "character": "",
+        "audioUrl": "audio/training-day/073_your_partner_already_didn_t_search_me_i_m_straight.mp3"
+      },
+      {
+        "text": "My n****",
+        "character": "",
+        "audioUrl": "audio/training-day/036_my_nigga.mp3"
+      }
+    ]
+  },
+  {
     "id": "bojack-horseman",
     "name": "BoJack Horseman",
     "type": "show",

@@ -1272,6 +1272,49 @@ shows:
       accent:  "#c2c8d0"         # robot chrome/silver
       bg:      "#05080d"         # dark navy
 
+  - id: veep
+    name: "Veep"
+    board_url: "https://www.101soundboards.com/boards/84187-veep-soundboard"
+    status: pending
+    type: show
+    text_style: "title"
+    preserve_transcripts: true   # curated: >=5s post-trim only; labels cleaned
+    max_length: 9999             # keep all by word-count; duration cutoff done in curation
+    # poisoned -soundboard board (ID<1M): auto-trims 1s + de-dings (no no_trim)
+    theme:
+      primary: "#3a6ea5"         # presidential blue
+      accent:  "#c8443a"         # campaign red
+      bg:      "#080a0e"         # dark
+
+  - id: 30-rock
+    name: "30 Rock"
+    board_url: "https://www.101soundboards.com/boards/84262-30-rock-soundboard"
+    status: pending
+    type: show
+    text_style: "title"
+    preserve_transcripts: true   # curated: keep all; labels cleaned
+    max_length: 9999             # keep all
+    # poisoned -soundboard board (ID<1M): auto-trims 1s + de-dings (no no_trim)
+    theme:
+      primary: "#2f5c8f"         # corporate NYC navy
+      accent:  "#d4a53a"         # GE-building gold
+      bg:      "#080a0d"         # dark
+
+  - id: training-day
+    name: "Training Day"
+    board_url: "https://www.101soundboards.com/boards/75941-training-day-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # curated: drop <2s post-trim; messy captions cleaned to labels
+    max_length: 9999             # keep all by word-count; duration cutoff done in curation
+    censor_nword: true           # Alonzo's dialogue; blur n-word (catalog convention)
+    # poisoned -soundboard board (ID<1M): auto-trims 1s + de-dings (no no_trim)
+    theme:
+      primary: "#b5642a"         # LA dusty amber
+      accent:  "#7a2f2f"         # blood red
+      bg:      "#0a0705"         # dark
+
   - id: bojack-horseman
     name: "BoJack Horseman"
     board_url: "https://www.101soundboards.com/boards/29379-bojack-horseman-soundboard"

@@ -1,0 +1,239 @@
+004_am_i_being_punk_d.mp3
+  "Am I being Punk'd?"
+  CHARACTER: 
+
+005_am_i_sure_is_that_really_your_question.mp3
+  "Am I sure? Is that really your question?"
+  CHARACTER: 
+
+010_are_you_on_meds.mp3
+  "Are you on meds?"
+  CHARACTER: 
+
+011_back_to_your_natural_habitat.mp3
+  "Back to your natural habitat"
+  CHARACTER: 
+
+013_basketball_is_a_religion.mp3
+  "Basketball is a religion"
+  CHARACTER: 
+
+017_bullshitting_takes_talent.mp3
+  "Bullshitting takes talent"
+  CHARACTER: 
+
+019_can_paul_mccartney_teach_kid_rock.mp3
+  "Can Paul McCartney teach Kid Rock?"
+  CHARACTER: 
+
+020_can_you_not_keep_a_cat_in_a_bag_for_one_second.mp3
+  "Can't keep a cat in the bag"
+  CHARACTER: 
+
+021_can_t_say_that_didn_t_feel_good.mp3
+  "Can't say that didn't feel good"
+  CHARACTER: 
+
+029_could_you_deal_with_this_honest_woman.mp3
+  "Could you deal with this honest woman"
+  CHARACTER: 
+
+031_did_simon_mingle_with_garfunkel.mp3
+  "Did Simon mingle with Garfunkel?"
+  CHARACTER: 
+
+037_eating_so_much_pussy_i_m_shittin_clits_son.mp3
+  "Shittin' clits, son"
+  CHARACTER: 
+
+049_god_bless_the_president_but.mp3
+  "God bless the president, but..."
+  CHARACTER: 
+
+053_he_rises_up_and_kills_all_the_muggles.mp3
+  "He rises up and kills all the muggles"
+  CHARACTER: 
+
+061_holy_mother_of_god.mp3
+  "Holy mother of god"
+  CHARACTER: 
+
+064_i_am_going_to_throw_up_a_leg.mp3
+  "I am going to throw up a leg"
+  CHARACTER: 
+
+066_i_am_good_at_this.mp3
+  "I am good at this"
+  CHARACTER: 
+
+070_i_as_president_have_achieved_something.mp3
+  "I as president have achieved something"
+  CHARACTER: 
+
+092_i_shut_down_the_national_parks.mp3
+  "I shut down the national parks"
+  CHARACTER: 
+
+093_i_shutdown_npr.mp3
+  "I shut down NPR"
+  CHARACTER: 
+
+100_i_want_to_cry.mp3
+  "I want to cry"
+  CHARACTER: 
+
+110_i_m_going_to_follow_you_wherever_you_go.mp3
+  "I'll follow you wherever you go"
+  CHARACTER: 
+
+114_i_m_running_for_congress.mp3
+  "I'm running for Congress"
+  CHARACTER: 
+
+118_if_i_had_a_dollar_every_time_you_mentioned_the_war.mp3
+  "A dollar every time you mention the war"
+  CHARACTER: 
+
+120_if_you_miss_the_deadline.mp3
+  "If you miss the deadline"
+  CHARACTER: 
+
+124_is_the_sky_blue.mp3
+  "Is the sky blue?"
+  CHARACTER: 
+
+131_it_went_out_of_my_head.mp3
+  "It went out of my head"
+  CHARACTER: 
+
+134_it_s_like_a_bell.mp3
+  "It's like a bell"
+  CHARACTER: 
+
+140_jonah_ryan_frustrated.mp3
+  "Jonah Ryan frustrated"
+  CHARACTER: 
+
+142_killing_it_daily.mp3
+  "Killing it daily"
+  CHARACTER: 
+
+157_move_more_air_by_farting.mp3
+  "Move more air by farting"
+  CHARACTER: 
+
+167_oh_my_god.mp3
+  "Oh my god"
+  CHARACTER: 
+
+179_richard_splett_takes_an_order.mp3
+  "Richard Splett takes an order"
+  CHARACTER: 
+
+180_rubik_s_cube.mp3
+  "Rubik's cube"
+  CHARACTER: 
+
+181_selina_ruins_nickerson_at_congressional_ball.mp3
+  "Selina ruins Nickerson"
+  CHARACTER: 
+
+186_she_s_a_workaholic.mp3
+  "She's a workaholic"
+  CHARACTER: 
+
+188_should_i_do_what_i_just_said_i_should_do.mp3
+  "Should I do what I just said?"
+  CHARACTER: 
+
+195_son_of_a_bitch.mp3
+  "Son of a bitch"
+  CHARACTER: 
+
+205_that_is_a_fucking_lie.mp3
+  "That is a fucking lie"
+  CHARACTER: 
+
+212_the_noise_the_lights.mp3
+  "The noise, the lights"
+  CHARACTER: 
+
+216_there_s_not_enough_alcohol_in_the_world.mp3
+  "Not enough alcohol in the world"
+  CHARACTER: 
+
+226_this_is_the_unflushable_turd.mp3
+  "This is the unflushable turd"
+  CHARACTER: 
+
+243_well_you_re_asking_me_a_hypothetical_question.mp3
+  "You're asking a hypothetical"
+  CHARACTER: 
+
+247_what_was_i_just_going_to_say.mp3
+  "What was I just going to say"
+  CHARACTER: 
+
+248_what_s_the_point.mp3
+  "What's the point"
+  CHARACTER: 
+
+249_when_you_pull_the_pin_out.mp3
+  "When you pull the pin out"
+  CHARACTER: 
+
+254_why_can_t_the_american_people_make_up_their_minds.mp3
+  "Why can't the American people make up their minds?"
+  CHARACTER: 
+
+259_wish_me_luck.mp3
+  "Wish me luck"
+  CHARACTER: 
+
+264_yet_here_you_are_running_america.mp3
+  "Yet here you are, running America"
+  CHARACTER: 
+
+265_you_are_being_irritating.mp3
+  "You are being irritating"
+  CHARACTER: 
+
+267_you_are_like_an_earlobe.mp3
+  "You are like an earlobe"
+  CHARACTER: 
+
+268_you_are_the_worst_thing_that_has_happened_to_this_country.mp3
+  "Worst thing to happen to this country"
+  CHARACTER: 
+
+270_you_guys_have_michael_jordan_sitting_on_the_bench.mp3
+  "Michael Jordan on the bench"
+  CHARACTER: 
+
+274_you_kinda_look_like_an_asshole.mp3
+  "You kinda look like an asshole"
+  CHARACTER: 
+
+276_you_like_to_have_sex.mp3
+  "You like to have sex?"
+  CHARACTER: 
+
+278_you_look_like_an_asshole.mp3
+  "You look like an asshole"
+  CHARACTER: 
+
+279_you_look_so_good.mp3
+  "You look so good"
+  CHARACTER: 
+
+286_you_re_a_work_of_art.mp3
+  "You're a work of art"
+  CHARACTER: 
+
+291_you_re_damn_right_i_shutdown_the_government.mp3
+  "You're damn right I shut down the government!"
+  CHARACTER: 
+
+292_you_re_frankenstein_s_monster.mp3
+  "You're Frankenstein's monster"
+  CHARACTER: 

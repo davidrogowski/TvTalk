@@ -1,0 +1,155 @@
+002_again_promise_me_you_won_t_get.mp3
+  "Promise me"
+  CHARACTER: 
+
+003_and_get_this_over_with.mp3
+  "Get this over with"
+  CHARACTER: 
+
+005_and_you_take_the_damn_shot_made.mp3
+  "You take the damn shot"
+  CHARACTER: 
+
+006_are_you_man_enough_to_kill_jay.mp3
+  "Are you man enough?"
+  CHARACTER: 
+
+009_chess.mp3
+  "It's chess, not checkers"
+  CHARACTER: 
+
+010_come_on_tell_the_story.mp3
+  "Come on, tell the story"
+  CHARACTER: 
+
+011_days_trial_by_fire.mp3
+  "Trial by fire"
+  CHARACTER: 
+
+012_don_t_bullshit_me.mp3
+  "Don't bullshit me"
+  CHARACTER: 
+
+015_ever_had_your_shit_pushed_in.mp3
+  "Ever had your shit pushed in?"
+  CHARACTER: 
+
+018_give_a_rats_ass_what_these.mp3
+  "Give a rat's ass"
+  CHARACTER: 
+
+020_he_s_a_good_man.mp3
+  "He's a good man"
+  CHARACTER: 
+
+021_he_s_gay_i_m_not_scared_they_re_terrified_everybody_goes_thr.mp3
+  "They're terrified, I'm not scared"
+  CHARACTER: 
+
+022_heard_you_had_an_expensive_weekend_in_vegas.mp3
+  "Expensive weekend in Vegas"
+  CHARACTER: 
+
+023_how_did_you_screw_up_so_bad.mp3
+  "How did you screw up so bad?"
+  CHARACTER: 
+
+024_i_ever_have_a_son_i_have_to_warn.mp3
+  "If I ever have a son"
+  CHARACTER: 
+
+030_just_wait.mp3
+  "Just wait"
+  CHARACTER: 
+
+031_king_kong_aint_got_shit_on_me.mp3
+  "King Kong ain't got shit on me!"
+  CHARACTER: 
+
+032_laugh_it_off.mp3
+  "Laugh it off"
+  CHARACTER: 
+
+039_no_i_don_t_wanna_be_a_man_ok.mp3
+  "I don't wanna be a man"
+  CHARACTER: 
+
+040_oh_you_motherfuckers_ok_all_right_i_m_putting_cases_on_all_y.mp3
+  "Putting cases on all y'all"
+  CHARACTER: 
+
+042_only_a_problem_if_you_miss_and.mp3
+  "Only a problem if you miss"
+  CHARACTER: 
+
+047_sure_you_ok.mp3
+  "Sure, you OK?"
+  CHARACTER: 
+
+048_take_your_medication.mp3
+  "Take your medication"
+  CHARACTER: 
+
+050_told_me_to_suck_your_dick_bitch_is_that_what_you_said_to_me.mp3
+  "Is that what you said to me?"
+  CHARACTER: 
+
+054_you_did_what_you_had_to_do.mp3
+  "You did what you had to do"
+  CHARACTER: 
+
+055_you_disloyal_fool_ass_bitch_made_punk.mp3
+  "Disloyal bitch-made punk"
+  CHARACTER: 
+
+056_you_know_i_got_your_back_i_know_that_thank_you.mp3
+  "I got your back"
+  CHARACTER: 
+
+059_you_motherfuckers.mp3
+  "You motherfuckers"
+  CHARACTER: 
+
+060_you_motherfuckers_will_be_playing_basketball_in_pelican_bay.mp3
+  "Basketball in Pelican Bay"
+  CHARACTER: 
+
+062_you_ought_to_hop_a_jet_out_of_here.mp3
+  "Hop a jet out of here"
+  CHARACTER: 
+
+063_you_really_want_to_know_yeah_i_really_want_to_know.mp3
+  "You really want to know?"
+  CHARACTER: 
+
+064_you_remember_that_fool_in_the_wheelchair_how_you_think_he_go.mp3
+  "The fool in the wheelchair"
+  CHARACTER: 
+
+065_you_sound_just_like_me_and_i_know_what_you_re_going_through.mp3
+  "You sound just like me"
+  CHARACTER: 
+
+066_you_talked_to_my_guy_stan_and_then_we_ll_walk_you_through_wh.mp3
+  "You talked to my guy Stan?"
+  CHARACTER: 
+
+067_you_think_you_can_do_this_to_me.mp3
+  "You think you can do this to me?"
+  CHARACTER: 
+
+069_you_wanna_go_home_you_wanna_go_to_jail_huh.mp3
+  "Home or jail?"
+  CHARACTER: 
+
+072_youngsters_these_days_you_re_not_gonna_shoot_him.mp3
+  "You're not gonna shoot him"
+  CHARACTER: 
+
+073_your_partner_already_didn_t_search_me_i_m_straight.mp3
+  "I'm straight, didn't search me"
+  CHARACTER: 
+
+036_my_nigga.mp3
+  "My n****"
+  CHARACTER: 
