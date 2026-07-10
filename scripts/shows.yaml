@@ -1329,6 +1329,20 @@ shows:
       accent:  "#c8a44a"         # gold
       bg:      "#0a0605"         # dark
 
+  - id: tommy-boy
+    name: "Tommy Boy"
+    board_url: "https://www.101soundboards.com/boards/84144-tommy-boy-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # curated: audio-dupes removed; caption noise cleaned to labels
+    max_length: 9999             # keep all by word-count
+    # poisoned -soundboard board (ID<1M): auto-trims 1s + de-dings (no no_trim)
+    theme:
+      primary: "#c1442e"         # Callahan Auto red
+      accent:  "#e0b040"         # tan/gold
+      bg:      "#0c0705"         # dark
+
   - id: bojack-horseman
     name: "BoJack Horseman"
     board_url: "https://www.101soundboards.com/boards/29379-bojack-horseman-soundboard"

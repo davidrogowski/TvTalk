@@ -1,0 +1,187 @@
+001_bathroom_smell.mp3
+  "Bathroom smell"
+  CHARACTER: 
+
+002_big_dumb_animal.mp3
+  "Big dumb animal"
+  CHARACTER: 
+
+003_boner_of_the_month.mp3
+  "Boner of the month"
+  CHARACTER: 
+
+004_boy_would_i_like_to_get_some_of_that.mp3
+  "Boy would I like to get some of that"
+  CHARACTER: 
+
+005_brothers_gotta_hug.mp3
+  "Brothers gotta hug"
+  CHARACTER: 
+
+006_could_ve_done_without_that.mp3
+  "Could've done without that"
+  CHARACTER: 
+
+007_don_t_you_remember_you_told_me_you_loved_me_baby.mp3
+  "Told me you loved me, baby"
+  CHARACTER: 
+
+009_end_of_the_world.mp3
+  "End of the world"
+  CHARACTER: 
+
+010_excited.mp3
+  "Excited"
+  CHARACTER: 
+
+011_fat_guy.mp3
+  "Fat guy"
+  CHARACTER: 
+
+013_fat_guy_in_a_little_coat_extended.mp3
+  "Fat guy in a little coat (extended)"
+  CHARACTER: 
+
+015_fat_guy_in_a_little_coat.mp3
+  "Fat guy in a little coat"
+  CHARACTER: 
+
+016_guarantee.mp3
+  "Guarantee"
+  CHARACTER: 
+
+017_guess_that_s_your_theory.mp3
+  "Guess that's your theory"
+  CHARACTER: 
+
+018_he_just_a_little_guy.mp3
+  "He's just a little guy"
+  CHARACTER: 
+
+019_holy_schnikes.mp3
+  "Holy schnikes"
+  CHARACTER: 
+
+020_housekeeping.mp3
+  "Housekeeping"
+  CHARACTER: 
+
+021_i_can_t_do_this_anymore.mp3
+  "I can't do this anymore"
+  CHARACTER: 
+
+022_i_did_call_earlier_using_the_phone.mp3
+  "I did call, using the phone!"
+  CHARACTER: 
+
+023_i_passed.mp3
+  "I PASSED!"
+  CHARACTER: 
+
+024_i_wonder_if_she_goes_out_with_one_of_the_yankees.mp3
+  "Out with one of the Yankees?"
+  CHARACTER: 
+
+025_i_m_a_maniac_on_the_floor.mp3
+  "I'm a maniac on the floor"
+  CHARACTER: 
+
+026_i_m_okay_i_m_fine_now.mp3
+  "I'm okay, I'm fine now"
+  CHARACTER: 
+
+027_i_m_picking_up_some_sarcasm.mp3
+  "I'm picking up some sarcasm"
+  CHARACTER: 
+
+028_it_s_gotta_be_your_bull.mp3
+  "It's gotta be your bull"
+  CHARACTER: 
+
+029_jam_an_oar_up_your_ass.mp3
+  "Jam an oar up your ass"
+  CHARACTER: 
+
+030_know_where_the_weight_room_is_i_ll_check_it_out.mp3
+  "Know where the weight room is?"
+  CHARACTER: 
+
+031_let_me_sleep.mp3
+  "Let me sleep!"
+  CHARACTER: 
+
+032_mark_on_my_face.mp3
+  "Mark on my face?"
+  CHARACTER: 
+
+033_naughty_pet.mp3
+  "Naughty pet"
+  CHARACTER: 
+
+034_need_sleepy.mp3
+  "Need sleepy"
+  CHARACTER: 
+
+036_rascals.mp3
+  "Rascals"
+  CHARACTER: 
+
+037_scream_in_terror.mp3
+  "Scream in terror"
+  CHARACTER: 
+
+038_surprised_you_didn_t_know_that.mp3
+  "Surprised you didn't know that"
+  CHARACTER: 
+
+039_that_has_to_be_you.mp3
+  "That has to be you"
+  CHARACTER: 
+
+040_that_was_awesome.mp3
+  "That was awesome!"
+  CHARACTER: 
+
+041_that_s_when_the_whores_come_in.mp3
+  "That's when the whores come in"
+  CHARACTER: 
+
+042_the_god_of_skinny_punks.mp3
+  "The god of skinny punks"
+  CHARACTER: 
+
+043_there_s_a_whale_on_your_boat.mp3
+  "There's a whale on your boat"
+  CHARACTER: 
+
+044_they_have_a_thin_candy_shell.mp3
+  "They have a thin candy shell"
+  CHARACTER: 
+
+045_tommy_want_wingy.mp3
+  "Tommy want Wingy"
+  CHARACTER: 
+
+046_watch_your_language_in_front_of_the_lady.mp3
+  "Watch your language in front of the lady"
+  CHARACTER: 
+
+047_we_don_t_take_no_shit_from_anyone.mp3
+  "We don't take no shit from anyone"
+  CHARACTER: 
+
+048_what_kind_of_hotel_is_this.mp3
+  "What kind of hotel is this?"
+  CHARACTER: 
+
+049_what_d_you_do.mp3
+  "What'd you do?"
+  CHARACTER: 
+
+050_you_re_a_smug_unhappy_little_man.mp3
+  "You're a smug, unhappy little man"
+  CHARACTER: 
+
+051_you_re_worthless.mp3
+  "You're worthless"
+  CHARACTER: 
