@@ -47602,6 +47602,249 @@ const shows = [
     ]
   },
   {
+    "id": "goodfellas",
+    "name": "Goodfellas",
+    "type": "movie",
+    "theme": {
+      "primary": "#8c2f2f",
+      "accent": "#c8a44a",
+      "bg": "#0a0605"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Hung around the cabstand",
+        "character": "",
+        "audioUrl": "audio/goodfellas/003_after_a_while_he_was_mostly_pissed_because_i_hung_around_the.mp3"
+      },
+      {
+        "text": "Tell Sandy I loved her",
+        "character": "",
+        "audioUrl": "audio/goodfellas/005_all_i_had_to_do_was_every_once_in_a_while_tell_sandy_that_i.mp3"
+      },
+      {
+        "text": "Doing hits at 16",
+        "character": "",
+        "audioUrl": "audio/goodfellas/008_and_he_was_doing_hits_for_mob_bosses_when_he_was_16.mp3"
+      },
+      {
+        "text": "Good government bullshit?",
+        "character": "",
+        "audioUrl": "audio/goodfellas/009_and_pledge_allegiance_to_the_flag_and_sit_through_good_gover.mp3"
+      },
+      {
+        "text": "Sit in it, Belle",
+        "character": "",
+        "audioUrl": "audio/goodfellas/011_and_this_we_just_had_to_have_made_special_go_ahead_sit_in_it.mp3"
+      },
+      {
+        "text": "We gave Paulie his tribute",
+        "character": "",
+        "audioUrl": "audio/goodfellas/012_and_we_did_the_right_thing_we_gave_paulie_his_tribute.mp3"
+      },
+      {
+        "text": "Big score from Air France",
+        "character": "",
+        "audioUrl": "audio/goodfellas/015_big_score_coming_from_air_france_bags_of_money_coming_in.mp3"
+      },
+      {
+        "text": "A hit in Florida",
+        "character": "",
+        "audioUrl": "audio/goodfellas/018_but_now_he_s_asking_me_to_go_to_florida_and_do_a_hit_with_an.mp3"
+      },
+      {
+        "text": "Come here, I want to show you something",
+        "character": "",
+        "audioUrl": "audio/goodfellas/021_come_here_i_want_to_show_you_something_jimmy.mp3"
+      },
+      {
+        "text": "We'll talk about it later",
+        "character": "",
+        "audioUrl": "audio/goodfellas/022_come_on_stop_we_ll_talk_about_it_later_okay_goodbye.mp3"
+      },
+      {
+        "text": "Don't get anything. Nothing big",
+        "character": "",
+        "audioUrl": "audio/goodfellas/025_don_t_get_anything_nothing_big.mp3"
+      },
+      {
+        "text": "Free cars, hideout flats",
+        "character": "",
+        "audioUrl": "audio/goodfellas/036_free_cars_keys_to_a_dozen_hideout_flats_all_over_the_city.mp3"
+      },
+      {
+        "text": "You've always been fair, Paulie",
+        "character": "",
+        "audioUrl": "audio/goodfellas/040_god_bless_you_paulie_i_appreciate_it_you_ve_always_been_fair.mp3"
+      },
+      {
+        "text": "Slice it so thin",
+        "character": "",
+        "audioUrl": "audio/goodfellas/046_he_used_a_razor_and_he_used_to_slice_it_so_thin.mp3"
+      },
+      {
+        "text": "Hundreds to the dealers",
+        "character": "",
+        "audioUrl": "audio/goodfellas/048_he_d_give_hundreds_to_the_dealers_and_the_guys_who_ran_the_g.mp3"
+      },
+      {
+        "text": "He's talented, I understand",
+        "character": "",
+        "audioUrl": "audio/goodfellas/052_he_s_talented_i_understand_what_you_re_saying.mp3"
+      },
+      {
+        "text": "You don't know where he is",
+        "character": "",
+        "audioUrl": "audio/goodfellas/055_how_do_you_feel_now_you_don_t_know_where_he_is_or_who_he_s_w.mp3"
+      },
+      {
+        "text": "The money Remo owes you",
+        "character": "",
+        "audioUrl": "audio/goodfellas/056_i_asked_your_friend_remo_for_the_money_that_he_owes_you.mp3"
+      },
+      {
+        "text": "I want to be with you",
+        "character": "",
+        "audioUrl": "audio/goodfellas/058_i_do_every_night_then_i_m_free_i_love_you_i_want_to_be_with.mp3"
+      },
+      {
+        "text": "Talk Jimmy out of killing Morrie",
+        "character": "",
+        "audioUrl": "audio/goodfellas/065_i_knew_i_still_had_till_8_00_or_9_00_to_talk_jimmy_out_of_ki.mp3"
+      },
+      {
+        "text": "There's millions in there",
+        "character": "",
+        "audioUrl": "audio/goodfellas/067_i_know_do_you_understand_there_s_millions_in_there_and_i_ve.mp3"
+      },
+      {
+        "text": "Made him sick",
+        "character": "",
+        "audioUrl": "audio/goodfellas/085_it_made_him_sick_to_turn_the_money_over_to_the_guys_who_stol.mp3"
+      },
+      {
+        "text": "A tribute, like the old country",
+        "character": "",
+        "audioUrl": "audio/goodfellas/088_it_was_a_tribute_like_in_the_old_country_except_they_were_do.mp3"
+      },
+      {
+        "text": "They got to Stacks",
+        "character": "",
+        "audioUrl": "audio/goodfellas/090_it_was_just_a_matter_of_time_before_they_got_to_stacks.mp3"
+      },
+      {
+        "text": "Janice screwing up at work",
+        "character": "",
+        "audioUrl": "audio/goodfellas/093_janice_and_i_were_having_so_much_fun_she_started_screwing_up.mp3"
+      },
+      {
+        "text": "Most feared guy in the city",
+        "character": "",
+        "audioUrl": "audio/goodfellas/094_jimmy_was_one_of_the_most_feared_guys_in_the_city.mp3"
+      },
+      {
+        "text": "Guys behind bars",
+        "character": "",
+        "audioUrl": "audio/goodfellas/102_of_all_those_old_movies_with_rows_of_guys_behind_bars.mp3"
+      },
+      {
+        "text": "Booze, cigarettes, razor blades",
+        "character": "",
+        "audioUrl": "audio/goodfellas/103_of_booze_cigarettes_razor_blades_shrimp_and_lobsters.mp3"
+      },
+      {
+        "text": "Bobby Vinton sent us champagne",
+        "character": "",
+        "audioUrl": "audio/goodfellas/106_one_night_bobby_vinton_sent_us_champagne_there_was_nothing_l.mp3"
+      },
+      {
+        "text": "Scare them with a strike",
+        "character": "",
+        "audioUrl": "audio/goodfellas/109_paulie_had_the_union_people_scare_them_with_a_strike_it_was.mp3"
+      },
+      {
+        "text": "Rats do anything to survive",
+        "character": "",
+        "audioUrl": "audio/goodfellas/111_people_call_them_rats_because_rats_do_anything_to_survive_is.mp3"
+      },
+      {
+        "text": "Pick up a delivery",
+        "character": "",
+        "audioUrl": "audio/goodfellas/116_since_i_would_see_them_in_the_afternoon_to_pick_up_a_deliver.mp3"
+      },
+      {
+        "text": "Finding bodies all over",
+        "character": "",
+        "audioUrl": "audio/goodfellas/120_still_months_after_the_robbery_they_were_finding_bodies_all.mp3"
+      },
+      {
+        "text": "The bag with all the money",
+        "character": "",
+        "audioUrl": "audio/goodfellas/128_the_bag_with_the_envelopes_in_it_all_the_money.mp3"
+      },
+      {
+        "text": "$100 to keep the ice cold",
+        "character": "",
+        "audioUrl": "audio/goodfellas/129_the_bartender_got_100_just_for_keeping_the_ice_cubes_cold.mp3"
+      },
+      {
+        "text": "Old enough to read the newspapers",
+        "character": "",
+        "audioUrl": "audio/goodfellas/131_the_girls_are_old_enough_to_read_the_newspapers.mp3"
+      },
+      {
+        "text": "Go out and cut corners",
+        "character": "",
+        "audioUrl": "audio/goodfellas/135_the_only_way_they_could_make_real_extra_money_was_to_go_out.mp3"
+      },
+      {
+        "text": "Blow the winnings in a week",
+        "character": "",
+        "audioUrl": "audio/goodfellas/138_then_blow_the_winnings_in_a_week_or_go_to_the_sharks_to_pay.mp3"
+      },
+      {
+        "text": "Whack me in here easy",
+        "character": "",
+        "audioUrl": "audio/goodfellas/145_they_could_whack_me_in_here_as_easy_as_outside_maybe_even_ea.mp3"
+      },
+      {
+        "text": "Tuddy ran the cabstand",
+        "character": "",
+        "audioUrl": "audio/goodfellas/153_tuddy_ran_the_cabstand_and_the_bella_vista_pizzeria.mp3"
+      },
+      {
+        "text": "That kid from the city",
+        "character": "",
+        "audioUrl": "audio/goodfellas/166_you_know_that_kid_from_the_city_we_were_talking_about_you_kn.mp3"
+      },
+      {
+        "text": "You're half Jewish?",
+        "character": "",
+        "audioUrl": "audio/goodfellas/176_nice_to_meet_you_my_daughter_says_that_you_re_half_jewish.mp3"
+      },
+      {
+        "text": "Take this, it's a couple thousand",
+        "character": "",
+        "audioUrl": "audio/goodfellas/183_take_this_it_s_a_couple_thousand_thanks_jimmy.mp3"
+      },
+      {
+        "text": "The car's a wedding gift",
+        "character": "",
+        "audioUrl": "audio/goodfellas/185_the_fucking_car_it_s_a_wedding_gift_from_my_mother.mp3"
+      },
+      {
+        "text": "Give us the fucking money!",
+        "character": "",
+        "audioUrl": "audio/goodfellas/189_you_gonna_pay_give_us_the_fucking_money.mp3"
+      },
+      {
+        "text": "How many cartons you need?",
+        "character": "",
+        "audioUrl": "audio/goodfellas/190_you_have_permission_from_your_mother_how_many_cartons_you_ne.mp3"
+      }
+    ]
+  },
+  {
     "id": "bojack-horseman",
     "name": "BoJack Horseman",
     "type": "show",

@@ -1315,6 +1315,20 @@ shows:
       accent:  "#7a2f2f"         # blood red
       bg:      "#0a0705"         # dark
 
+  - id: goodfellas
+    name: "Goodfellas"
+    board_url: "https://www.101soundboards.com/boards/100841-goodfellas-1990-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # curated: >=5s post-trim only; captions cleaned to labels
+    max_length: 9999             # keep all by word-count; duration cutoff done in curation
+    # poisoned -soundboard board (ID<1M, slug ends -soundboard): auto-trims 1s + de-dings (no no_trim)
+    theme:
+      primary: "#8c2f2f"         # mob blood red
+      accent:  "#c8a44a"         # gold
+      bg:      "#0a0605"         # dark
+
   - id: bojack-horseman
     name: "BoJack Horseman"
     board_url: "https://www.101soundboards.com/boards/29379-bojack-horseman-soundboard"
