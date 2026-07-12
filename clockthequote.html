@@ -466,6 +466,42 @@ function nextStats(stats, lastNum, day){
 function average(stats){ return stats.played ? stats.scoreSum / stats.played : 0; }
 function hasUnlimitedPass(){ return false; } // future paid "unlimited plays" unlock — flip to bypass the daily lock
 
+/* ---------- persisted state (localStorage; throw-safe via lsGet/lsSet) ---------- */
+const STORE_KEY = "ctq_v1";
+function loadState(){
+  let s = null;
+  try{ s = JSON.parse(lsGet(STORE_KEY) || "null"); }catch{ s = null; }
+  if(!s || s.v !== 1) s = { v:1, lastNum:null, progress:null, stats: emptyStats() };
+  if(!s.stats) s.stats = emptyStats();
+  return s;
+}
+function saveState(){ lsSet(STORE_KEY, JSON.stringify(STATE)); }
+let STATE = loadState();
+function isPreview(){ return new URLSearchParams(location.search).get("day") !== null; }
+
+// persist the in-progress round so a refresh resumes it instead of dealing a fresh board
+function persistProgress(){
+  if(isPreview()) return;
+  const prev = STATE.progress;
+  STATE.progress = { num: roundNo, stage, guesses, solvedStage, finished,
+                     counted: !!(prev && prev.num === roundNo && prev.counted) };
+  saveState();
+}
+// fold a just-finished day into stats exactly once, then lock it
+function recordResult(){
+  if(isPreview()) return;
+  if(STATE.progress && STATE.progress.num === roundNo && STATE.progress.counted) return;
+  const res = nextStats(STATE.stats, STATE.lastNum, { num: roundNo, solvedStage });
+  STATE.stats = res.stats; STATE.lastNum = res.lastNum;
+  STATE.progress = { num: roundNo, stage, guesses, solvedStage, finished:true, counted:true };
+  saveState();
+}
+// the daily lock: once today is finished you can't replay it (preview + paid pass bypass)
+function isLockedToday(){
+  if(isPreview() || hasUnlimitedPass()) return false;
+  return !!(STATE.progress && STATE.progress.num === roundNo && STATE.progress.finished);
+}
+
 // daily selection: which puzzle number is "today" in US Eastern time (DST-safe).
 function etDateKey(){ // "YYYY-MM-DD" for now in America/New_York, regardless of the viewer's tz
   return new Intl.DateTimeFormat("en-CA",{timeZone:"America/New_York",year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date());
@@ -485,14 +521,23 @@ function clipForNumber(n){ const i=((n-1)%SCHEDULE.length+SCHEDULE.length)%SCHED
 function startRound(){
   roundNo = dailyNumber();
   clip = clipForNumber(roundNo);
-  stage=0; guesses=0; solvedStage=null; finished=false; playsUsed=0;
+  const p = STATE.progress;
+  // resume today's in-progress round, or show a finished round ONLY while it is still locked;
+  // when hasUnlimitedPass() unlocks a finished day (isLockedToday()===false) fall through to a fresh playable round.
+  if(!isPreview() && p && p.num === roundNo && (!p.finished || isLockedToday())){
+    stage=p.stage; guesses=p.guesses; solvedStage=p.solvedStage; finished=p.finished; playsUsed=0;
+  } else {                                             // fresh round (new day, or a finished day the pass reopens)
+    stage=0; guesses=0; solvedStage=null; finished=false; playsUsed=0;
+    persistProgress();                                 // seed today's in-progress day (no-op in preview)
+  }
   loadClip(clip);
   render();
 }
 function advanceClue(){ // wrong guess or skip
   guesses++;
   if(stage < MAX_GUESSES-1){ stage++; playsUsed=0; }   // new stage → fresh play allowance
-  if(guesses>=MAX_GUESSES){ finished=true; recordLoss(); }
+  if(guesses>=MAX_GUESSES){ finished=true; recordResult(); }
+  else persistProgress();
 }
 
 /* ---------- audio (Web Audio: decode once, play exact slices) ---------- */
@@ -621,7 +666,7 @@ function toggleMute(){
 /* ---------- guessing ---------- */
 function submitGuess(title){
   if(finished) return;
-  if(title===clip.show){ sfx("win"); solvedStage=stage; finished=true; recordWin(); render(); return; }
+  if(title===clip.show){ sfx("win"); solvedStage=stage; finished=true; recordResult(); render(); return; }
   sfx("pop");
   advanceClue();
   render(lastWrong=title);
