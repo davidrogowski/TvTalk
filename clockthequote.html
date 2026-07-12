@@ -441,10 +441,30 @@ let audioCtx=null, clipBuffer=null, bufferReady=false, curSource=null, pendingPl
 function lsGet(k){ try{ return localStorage.getItem(k); }catch{ return null; } }
 function lsSet(k,v){ try{ localStorage.setItem(k,v); }catch{} }
 
-/* win streak (persisted; real game keys this to calendar days, prototype counts consecutive wins) */
-let streak = +(lsGet("ctq_proto_streak")||0);
-function recordWin(){  streak++;   lsSet("ctq_proto_streak", streak); }
-function recordLoss(){ streak=0;   lsSet("ctq_proto_streak", streak); }
+/* ---------- stats model (pure; no DOM / storage — unit-tested in scripts/verify-ctq-stats.mjs) ---------- */
+function emptyStats(){ return { played:0, wins:0, fails:0, curStreak:0, maxStreak:0, dist:[0,0,0,0,0], scoreSum:0 }; }
+// Fold one finished day into stats. day = {num, solvedStage}; solvedStage 0..4 for a win, null for a loss.
+// Win on clue n scores n+1 (1..5); a loss scores 6. Streak continues only when num === lastNum+1.
+// Returns { stats, lastNum } and never mutates its inputs.
+function nextStats(stats, lastNum, day){
+  const s = { ...stats, dist:[...stats.dist] };
+  const win = day.solvedStage != null;
+  const eff = win ? day.solvedStage + 1 : 6;
+  s.played   += 1;
+  s.scoreSum += eff;
+  if(win){
+    s.wins += 1;
+    s.dist[day.solvedStage] += 1;
+    s.curStreak = (lastNum === day.num - 1) ? s.curStreak + 1 : 1;
+    if(s.curStreak > s.maxStreak) s.maxStreak = s.curStreak;
+  } else {
+    s.fails += 1;
+    s.curStreak = 0;
+  }
+  return { stats: s, lastNum: day.num };
+}
+function average(stats){ return stats.played ? stats.scoreSum / stats.played : 0; }
+function hasUnlimitedPass(){ return false; } // future paid "unlimited plays" unlock — flip to bypass the daily lock
 
 // daily selection: which puzzle number is "today" in US Eastern time (DST-safe).
 function etDateKey(){ // "YYYY-MM-DD" for now in America/New_York, regardless of the viewer's tz
