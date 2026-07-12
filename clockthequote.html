@@ -182,11 +182,32 @@
   .howto-ladder .txt{font-size:14px;line-height:1.35;color:var(--ink)}
   .howto-foot{font-size:13px;color:var(--ink-m);text-align:center;margin:17px 0 16px;letter-spacing:.01em}
   .howto-got{width:100%}
+
+  /* ---------- stats UI (tiles + histogram + midnight-ET countdown) ---------- */
+  .statsbtn{position:fixed;top:12px;right:84px;z-index:5;width:34px;height:34px;border-radius:50%;
+            border:1.5px solid var(--pline);background:var(--paper);cursor:pointer;font-size:15px;line-height:1}
+  .statwrap h3{font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-family:ui-monospace,Menlo,monospace;
+               color:var(--red);text-align:center;margin:14px 0 10px}
+  .statrow{display:flex;gap:6px;justify-content:center;margin-bottom:14px}
+  .stat{flex:1;text-align:center}
+  .statn{font-size:22px;font-weight:800;color:var(--ink);font-family:ui-monospace,Menlo,monospace}
+  .statl{font-size:10.5px;color:var(--ink-m);text-transform:uppercase;letter-spacing:.05em;margin-top:2px}
+  .histo{margin:0 auto;max-width:320px}
+  .histh{font-size:11px;color:var(--ink-m);text-transform:uppercase;letter-spacing:.08em;margin:0 0 6px}
+  .hrow{display:flex;align-items:center;gap:8px;margin:3px 0}
+  .hk{flex:none;width:14px;text-align:center;font-family:ui-monospace,Menlo,monospace;font-size:12px;color:var(--ink-m)}
+  .hbar{display:inline-block;background:var(--pline);color:var(--paper);font-family:ui-monospace,Menlo,monospace;
+        font-size:11px;font-weight:700;text-align:right;padding:2px 6px;border-radius:3px;min-width:18px}
+  .hbar.hot{background:var(--red)}
+  .failline{font-size:12px;color:var(--ink-m);text-align:center;margin-top:8px}
+  .cdlabel{text-align:center;font-size:13px;color:var(--ink-m);margin:14px 0 4px}
+  .cd{font-family:ui-monospace,Menlo,monospace;font-weight:700;color:var(--ink)}
 </style>
 </head>
 <body>
   <button class="mutebtn" id="mutebtn" aria-label="Mute sound effects" title="Sound effects on/off">🔊</button>
   <button class="helpbtn" id="helpbtn" aria-label="How to play" title="How to play">?</button>
+  <button class="statsbtn" id="statsbtn" aria-label="Your stats" title="Your stats">📊</button>
 
   <!-- first-visit instructions (auto-shown once per device; re-openable via ? button) -->
   <div class="howto-ov" id="howto-ov" role="dialog" aria-modal="true" aria-label="How to play">
@@ -218,6 +239,16 @@
 
       <p class="howto-foot">Fewer clues = better score. Come back daily to build a streak.</p>
       <button class="act primary howto-got" id="howto-got">Got it</button>
+    </div>
+  </div>
+
+  <!-- personal stats (opened via the 📊 button; reuses the how-to overlay styles) -->
+  <div class="howto-ov" id="stats-ov" role="dialog" aria-modal="true" aria-label="Your stats">
+    <div class="howto">
+      <button class="x" id="stats-x" aria-label="Close">✕</button>
+      <h2>Your <em>Stats</em></h2>
+      <div id="stats-body"></div>
+      <button class="act primary howto-got" id="stats-got">Close</button>
     </div>
   </div>
 
@@ -688,7 +719,7 @@ function ticketBot(){
   return `<hr class="perf"><div class="stub bot"><span>★</span><span>tvtalk.fun</span><span>★</span></div>`;
 }
 function render(){
-  stopSource();                       // stop any playing clip when the clue view changes
+  stopSource(); stopCountdown();      // stop clip + countdown when the view changes
   if(finished) return renderResult();
   const dots = Array.from({length:MAX_GUESSES},(_,i)=>{
     const cls = i<stage?"used":(i===stage?"cur":"");
@@ -749,6 +780,68 @@ const FAIL_MSGS = [ "Out of guesses — get 'em tomorrow 😬", "Tough one — b
 function winMsg(){ const arr = WIN_MSGS[solvedStage] || WIN_MSGS[WIN_MSGS.length-1]; return arr[roundNo % arr.length]; }
 function failMsg(){ return FAIL_MSGS[roundNo % FAIL_MSGS.length]; }
 
+/* ---------- stats UI (tiles + histogram + midnight-ET countdown) ---------- */
+function pct(n,d){ return d ? Math.round(100*n/d) : 0; }
+function statTiles(){
+  const s=STATE.stats;
+  const avg = s.played ? average(s).toFixed(1) : "—";
+  const tile=(v,l)=>`<div class="stat"><div class="statn">${v}</div><div class="statl">${l}</div></div>`;
+  return `<div class="statrow">
+    ${tile(s.played,"Played")}${tile(pct(s.wins,s.played)+"%","Win")}
+    ${tile(s.curStreak,"Streak")}${tile(s.maxStreak,"Max")}${tile(avg,"Avg")}
+  </div>`;
+}
+function statHisto(highlightStage){
+  const s=STATE.stats, max=Math.max(1,...s.dist);
+  const rows=s.dist.map((c,i)=>{
+    const w=Math.round(100*c/max), hot=(i===highlightStage)?" hot":"";
+    return `<div class="hrow"><span class="hk">${i+1}</span>` +
+           `<span class="hbar${hot}" style="width:${Math.max(9,w)}%">${c}</span></div>`;
+  }).join("");
+  return `<div class="histo"><div class="histh">Solved on clue</div>${rows}` +
+         `<div class="failline">Missed: <b>${s.fails}</b></div></div>`;
+}
+function statsHTML(highlightStage){
+  return `<div class="statwrap"><h3>Your stats</h3>${statTiles()}${statHisto(highlightStage)}</div>`;
+}
+// ms until the next America/New_York midnight (DST-safe: reads the ET wall clock)
+function msToNextEtMidnight(){
+  const parts=new Intl.DateTimeFormat("en-US",{timeZone:"America/New_York",hour12:false,
+    hour:"2-digit",minute:"2-digit",second:"2-digit"}).formatToParts(new Date());
+  const g=t=>+parts.find(p=>p.type===t).value;
+  let h=g("hour"); if(h===24) h=0;
+  const elapsed=h*3600 + g("minute")*60 + g("second");
+  return (86400 - elapsed)*1000;
+}
+function fmtHMS(ms){
+  const t=Math.max(0,Math.floor(ms/1000));
+  const p=n=>String(n).padStart(2,"0");
+  return `${p(Math.floor(t/3600))}:${p(Math.floor(t%3600/60))}:${p(t%60)}`;
+}
+let countdownTimer=null;
+function stopCountdown(){ if(countdownTimer){ clearInterval(countdownTimer); countdownTimer=null; } }
+function startCountdown(){
+  stopCountdown();
+  const el=document.getElementById("cdown"); if(!el) return;
+  const tick=()=>{ const ms=msToNextEtMidnight(); el.textContent=fmtHMS(ms); if(ms<=1000) stopCountdown(); };
+  tick(); countdownTimer=setInterval(tick,1000);
+}
+function openStats(){
+  const ov=document.getElementById("stats-ov"); if(!ov) return;
+  document.getElementById("stats-body").innerHTML = statsHTML(-1);
+  if(document.activeElement && document.activeElement.blur) document.activeElement.blur();
+  ov.classList.add("show");
+}
+function closeStats(){ const ov=document.getElementById("stats-ov"); if(ov) ov.classList.remove("show"); }
+function wireStats(){
+  document.getElementById("statsbtn").onclick = openStats;
+  document.getElementById("stats-x").onclick = closeStats;
+  document.getElementById("stats-got").onclick = closeStats;
+  const ov=document.getElementById("stats-ov");
+  ov.onclick = e=>{ if(e.target===ov) closeStats(); };
+  document.addEventListener("keydown", e=>{ if(e.key==="Escape" && ov.classList.contains("show")) closeStats(); });
+}
+
 function renderResult(){
   stopSource(); playsUsed=0;           // full clip is freely replayable on the result screen
   const won = solvedStage!=null;
@@ -769,12 +862,15 @@ function renderResult(){
       <button class="act dl" id="dl">⬇  Download clip</button>
       <div class="share" id="share">${buildShareText(roundNo, solvedStage).replace(PLAY_URL, `<a href="${PLAY_URL}" target="_blank" rel="noopener">${PLAY_URL}</a>`)}</div>
       <button class="act primary" id="share-btn" style="width:100%">Share result</button>
-      <p class="small" style="margin-top:16px">Come back tomorrow for #${roundNo+1}.</p>
+      ${isPreview()
+        ? `<p class="small">Preview of #${roundNo}. <a href="/clockthequote">Play today ▸</a></p>`
+        : `${statsHTML(solvedStage)}<p class="cdlabel">Next quote in <span id="cdown" class="cd">--:--:--</span></p>`}
     </div>
     ${ticketBot()}`;
   document.getElementById("play").onclick = e=>playFullClip(e.currentTarget);
   document.getElementById("dl").onclick = ()=>saveClip(clip);
   document.getElementById("share-btn").onclick = e=>shareResult(e.currentTarget);
+  if(!isPreview()) startCountdown();
 }
 
 /* ---------- clip download / share (mirrors the TvTalk soundboard) ---------- */
@@ -868,6 +964,7 @@ function wireHowTo(){
 
 startRound();
 wireHowTo();
+wireStats();
 </script>
 </body>
 </html>
