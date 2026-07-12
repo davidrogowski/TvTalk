@@ -70,6 +70,29 @@ checks.push(['countdown timer is live on result screen', timer.live === true]);
   await page.close();
 }
 
+// Blocked storage: game still playable + friendly "storage blocked" note on the stats screen.
+{
+  const page = await browser.newPage();
+  await page.addInitScript(() => {
+    try{ Object.defineProperty(Storage.prototype, 'setItem', { configurable:true, value(){ throw new Error('blocked'); } }); }catch(e){}
+  });
+  await page.goto(`${base}/clockthequote`, { waitUntil: 'domcontentloaded' });
+  await page.evaluate(() => closeHowTo());
+  const playable = await page.evaluate(() => !!document.getElementById('guess'));
+  const show = await page.evaluate(() => clip.show);
+  await page.evaluate(s => submitGuess(s), show);      // finish → result screen renders statsHTML
+  const r = await page.evaluate(() => ({
+    storeOk: typeof STORAGE_OK !== 'undefined' ? STORAGE_OK : null,
+    hasNote: !!document.querySelector('.storenote'),
+    hasTiles: !!document.querySelector('.statn'),
+  }));
+  checks.push(['blocked storage: game still playable', playable === true]);
+  checks.push(['blocked storage: STORAGE_OK is false', r.storeOk === false]);
+  checks.push(['blocked storage: shows the storage-blocked note', r.hasNote === true]);
+  checks.push(['blocked storage: hides the zeroed tiles', r.hasTiles === false]);
+  await page.close();
+}
+
 let ok = true;
 for (const [n,p] of checks){ if(!p) ok=false; console.log(`${p?'PASS':'FAIL'}  ${n}`); }
 console.log(ok ? '\nALL PASS' : '\nSOME FAILED');

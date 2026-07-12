@@ -121,7 +121,6 @@
            border:1px solid var(--pline);border-radius:999px;padding:3px 10px;vertical-align:middle;margin-left:10px;
            font-family:ui-monospace,Menlo,monospace}
   .result .desc{font-family:"Newsreader",Georgia,serif;font-style:italic;font-size:18px;color:var(--ink-m);margin:10px 0 0}
-  .result .streak{color:var(--red);font-weight:700;font-size:14px;margin:6px 0 0;letter-spacing:.02em}
   .share a{color:var(--red);text-decoration:underline}
   .act.dl{width:100%;margin-top:16px;background:transparent;border-color:var(--red);color:var(--red)}
   .act.dl:hover{background:var(--red);color:var(--paper);border-color:var(--red)}
@@ -200,6 +199,7 @@
         font-size:11px;font-weight:700;text-align:right;padding:2px 6px;border-radius:3px;min-width:18px}
   .hbar.hot{background:var(--red)}
   .failline{font-size:12px;color:var(--ink-m);text-align:center;margin-top:8px}
+  .storenote{font-size:13px;color:var(--ink-m);text-align:center;line-height:1.4;margin:10px 0}
   .cdlabel{text-align:center;font-size:13px;color:var(--ink-m);margin:14px 0 4px}
   .cd{font-family:ui-monospace,Menlo,monospace;font-weight:700;color:var(--ink)}
 </style>
@@ -508,6 +508,8 @@ function loadState(){
 }
 function saveState(){ lsSet(STORE_KEY, JSON.stringify(STATE)); }
 let STATE = loadState();
+// one-time probe: is localStorage actually usable? (blocked cookies / lockdown mode throw on write)
+const STORAGE_OK = (()=>{ try{ localStorage.setItem("ctq_probe","1"); localStorage.removeItem("ctq_probe"); return true; }catch{ return false; } })();
 function isPreview(){ return new URLSearchParams(location.search).get("day") !== null; }
 
 // persist the in-progress round so a refresh resumes it instead of dealing a fresh board
@@ -802,6 +804,7 @@ function statHisto(highlightStage){
          `<div class="failline">Missed: <b>${s.fails}</b></div></div>`;
 }
 function statsHTML(highlightStage){
+  if(!STORAGE_OK) return `<div class="statwrap"><h3>Your stats</h3><p class="storenote">Stats unavailable — your browser is blocking storage, so streaks and history can’t be saved.</p></div>`;
   return `<div class="statwrap"><h3>Your stats</h3>${statTiles()}${statHisto(highlightStage)}</div>`;
 }
 // ms until the next America/New_York midnight (DST-safe: reads the ET wall clock)
