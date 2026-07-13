@@ -81,11 +81,6 @@ const quotes = [
     "audioUrl": "audio/beavis-and-butthead/046_i_can_t_sleep_without_a_tv.mp3"
   },
   {
-    "text": "I don't know, Butt-head",
-    "character": "",
-    "audioUrl": "audio/beavis-and-butthead/048_i_don_t_know_butthead.mp3"
-  },
-  {
     "text": "Don't wanna go to school",
     "character": "",
     "audioUrl": "audio/beavis-and-butthead/049_i_don_t_wanna_go_to_school.mp3"

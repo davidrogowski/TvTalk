@@ -196,11 +196,6 @@ const quotes = [
     "audioUrl": "audio/nathan-for-you/039_weak_handshake.mp3"
   },
   {
-    "text": "Yes",
-    "character": "",
-    "audioUrl": "audio/nathan-for-you/040_yes.mp3"
-  },
-  {
     "text": "You are a little shit!",
     "character": "",
     "audioUrl": "audio/nathan-for-you/041_you_are_a_little_shit.mp3"

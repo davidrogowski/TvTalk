@@ -1,7 +1,3 @@
-001_chips_please.mp3
-  "Chips please"
-  CHARACTER: 
-
 002_died_your_mom_for_me.mp3
   "Died your mom for me"
   CHARACTER: 

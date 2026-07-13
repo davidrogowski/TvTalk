@@ -154,10 +154,6 @@
   "Weak handshake"
   CHARACTER: 
 
-040_yes.mp3
-  "Yes"
-  CHARACTER: 
-
 041_you_are_a_little_shit.mp3
   "You are a little shit!"
   CHARACTER: 

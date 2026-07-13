@@ -62,10 +62,6 @@
   "Can't sleep without a TV"
   CHARACTER: 
 
-048_i_don_t_know_butthead.mp3
-  "I don't know, Butt-head"
-  CHARACTER: 
-
 049_i_don_t_wanna_go_to_school.mp3
   "Don't wanna go to school"
   CHARACTER: 

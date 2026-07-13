@@ -13136,11 +13136,6 @@ const shows = [
         "audioUrl": "audio/nathan-for-you/039_weak_handshake.mp3"
       },
       {
-        "text": "Yes",
-        "character": "",
-        "audioUrl": "audio/nathan-for-you/040_yes.mp3"
-      },
-      {
         "text": "You are a little shit!",
         "character": "",
         "audioUrl": "audio/nathan-for-you/041_you_are_a_little_shit.mp3"
@@ -14771,11 +14766,6 @@ const shows = [
         "text": "Can't sleep without a TV",
         "character": "",
         "audioUrl": "audio/beavis-and-butthead/046_i_can_t_sleep_without_a_tv.mp3"
-      },
-      {
-        "text": "I don't know, Butt-head",
-        "character": "",
-        "audioUrl": "audio/beavis-and-butthead/048_i_don_t_know_butthead.mp3"
       },
       {
         "text": "Don't wanna go to school",
@@ -27872,11 +27862,6 @@ const shows = [
     },
     "text_style": "title",
     "quotes": [
-      {
-        "text": "Chips please",
-        "character": "",
-        "audioUrl": "audio/oceans-eleven/001_chips_please.mp3"
-      },
       {
         "text": "Died your mom for me",
         "character": "",
