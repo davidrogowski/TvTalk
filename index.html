@@ -287,7 +287,11 @@
           <stop offset="88%" stop-color="#64686c"/>
           <stop offset="100%" stop-color="#45494d"/>
         </linearGradient>
-        <radialGradient id="eb-chromeTop" cx="46%" cy="42%" r="62%">
+        <!-- userSpaceOnUse: the disc ellipse and the front-lip path must share one
+             gradient, or their shared edges show a seam -->
+        <radialGradient id="eb-chromeTop" gradientUnits="userSpaceOnUse"
+                        cx="151.5" cy="141.4" r="131.4"
+                        gradientTransform="translate(0 2.7) scale(1 0.981)">
           <stop offset="0%"  stop-color="#f1f4f6"/>
           <stop offset="55%" stop-color="#d3d7da"/>
           <stop offset="78%" stop-color="#eef1f3"/>
@@ -319,6 +323,9 @@
           <feGaussianBlur stdDeviation="4"/>
         </filter>
         <clipPath id="eb-domeClip"><ellipse cx="160" cy="150" rx="86" ry="85"/></clipPath>
+        <clipPath id="eb-lipClip">
+          <path d="M 54 158 A 106 104 0 0 0 266 158 L 246 154 A 86 85 0 0 1 74 154 Z"/>
+        </clipPath>
       </defs>
 
       <!-- ground shadow -->
@@ -352,6 +359,11 @@
       <!-- front of the same disc redrawn over the red base: red rises out of the silver -->
       <path d="M 54 158 A 106 104 0 0 0 266 158 L 246 154 A 86 85 0 0 1 74 154 Z"
             fill="url(#eb-chromeTop)"/>
+      <!-- the lip repaints over the contact shadow; carry the shadow across it so the
+           two don't meet in a hard line at the equator -->
+      <g clip-path="url(#eb-lipClip)">
+        <ellipse cx="160" cy="150" rx="92" ry="90" fill="#000" opacity="0.3" filter="url(#eb-softShadow)"/>
+      </g>
     </svg>
   </button>
 
