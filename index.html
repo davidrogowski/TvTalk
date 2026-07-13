@@ -161,6 +161,7 @@
     cursor: pointer; display: block; line-height: 0;
     position: relative; z-index: 2;
     -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
   }
   .button svg {
     display: block; width: 340px; height: auto; overflow: visible;
@@ -168,8 +169,12 @@
   }
   /* red puck sinks on press; chrome base stays put */
   .button .puck { transition: transform 0.12s cubic-bezier(.3,.7,.3,1); }
-  .button:hover  .puck { transform: translateY(-2px); }
-  .button:active .puck { transform: translateY(12px); }
+  /* iOS never fires :active on touch, so .pressed is driven from pointer events */
+  .button.pressed .puck,
+  .button:active  .puck { transform: translateY(12px); }
+  @media (hover: hover) {
+    .button:hover:not(.pressed):not(:active) .puck { transform: translateY(-2px); }
+  }
   .button:focus-visible { outline: none; }
   .button:focus-visible svg { filter: drop-shadow(0 0 6px var(--accent)); }
   /* subtle, steady silver/white glow while a clip is playing (no flash, no colour) */
@@ -780,6 +785,28 @@
       e.preventDefault();          // it's an <a href="#">; never navigate
       saveCurrentQuote();
     });
+
+    // A tap is shorter than the 120ms sink animation, so hold .pressed briefly
+    // after release; otherwise the puck springs back before it visibly moves.
+    const PRESS_MIN_MS = 140;
+    let pressStart = 0, pressTimer = 0;
+    const pressDown = () => {
+      clearTimeout(pressTimer);
+      pressStart = performance.now();
+      els.btn.classList.add('pressed');
+    };
+    const pressUp = () => {
+      if (!els.btn.classList.contains('pressed')) return;
+      const held = performance.now() - pressStart;
+      pressTimer = setTimeout(
+        () => els.btn.classList.remove('pressed'),
+        Math.max(0, PRESS_MIN_MS - held)
+      );
+    };
+    els.btn.addEventListener('pointerdown', pressDown);
+    ['pointerup', 'pointercancel', 'pointerleave'].forEach(
+      ev => els.btn.addEventListener(ev, pressUp)
+    );
 
     els.btn.addEventListener('click', () => {
       const pool = buildPool();
