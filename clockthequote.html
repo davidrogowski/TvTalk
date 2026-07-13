@@ -117,6 +117,10 @@
                     letter-spacing:.01em;margin:6px 0 0;line-height:1;color:var(--ink)}
   .result .ans{color:var(--red)}
   .result .miss{color:var(--red)}
+  /* a win has no heading above the title (the stat sheet tells the story), so the title
+     needs its own breathing room under the wordmark; the loss screen keeps its h2 spacing. */
+  .result .showname.ans{margin-top:30px}
+  .result .ans + .desc{margin-top:14px}
   .typetag{font-size:11px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-m);
            border:1px solid var(--pline);border-radius:999px;padding:3px 10px;vertical-align:middle;margin-left:10px;
            font-family:ui-monospace,Menlo,monospace}
@@ -183,8 +187,11 @@
   .howto-got{width:100%}
 
   /* ---------- stats UI (tiles + histogram + midnight-ET countdown) ---------- */
-  .statsbtn{position:fixed;top:12px;right:84px;z-index:5;width:34px;height:34px;border-radius:50%;
-            border:1.5px solid var(--pline);background:var(--paper);cursor:pointer;font-size:15px;line-height:1}
+  /* stats — sits just left of the mute toggle; matches the other two chrome buttons */
+  .statsbtn{position:fixed;top:16px;right:100px;z-index:20;width:34px;height:34px;border-radius:50%;
+            border:1px solid #4a4038;background:rgba(20,16,12,.6);color:var(--muted);
+            font-size:15px;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:.15s}
+  .statsbtn:hover{border-color:var(--gold)}
   .statwrap h3{font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-family:ui-monospace,Menlo,monospace;
                color:var(--red);text-align:center;margin:14px 0 10px}
   .statrow{display:flex;gap:6px;justify-content:center;margin-bottom:14px}
@@ -198,7 +205,6 @@
   .hbar{display:inline-block;background:var(--pline);color:var(--paper);font-family:ui-monospace,Menlo,monospace;
         font-size:11px;font-weight:700;text-align:right;padding:2px 6px;border-radius:3px;min-width:18px}
   .hbar.hot{background:var(--red)}
-  .failline{font-size:12px;color:var(--ink-m);text-align:center;margin-top:8px}
   .storenote{font-size:13px;color:var(--ink-m);text-align:center;line-height:1.4;margin:10px 0}
   .cdlabel{text-align:center;font-size:13px;color:var(--ink-m);margin:14px 0 4px}
   .cd{font-family:ui-monospace,Menlo,monospace;font-weight:700;color:var(--ink)}
@@ -516,7 +522,7 @@ function isPreview(){ return new URLSearchParams(location.search).get("day") !==
 function persistProgress(){
   if(isPreview()) return;
   const prev = STATE.progress;
-  STATE.progress = { num: roundNo, stage, guesses, solvedStage, finished,
+  STATE.progress = { num: roundNo, stage, guesses, solvedStage, finished, playsUsed,
                      counted: !!(prev && prev.num === roundNo && prev.counted) };
   saveState();
 }
@@ -558,7 +564,7 @@ function startRound(){
   // resume today's in-progress round, or show a finished round ONLY while it is still locked;
   // when hasUnlimitedPass() unlocks a finished day (isLockedToday()===false) fall through to a fresh playable round.
   if(!isPreview() && p && p.num === roundNo && (!p.finished || isLockedToday())){
-    stage=p.stage; guesses=p.guesses; solvedStage=p.solvedStage; finished=p.finished; playsUsed=0;
+    stage=p.stage; guesses=p.guesses; solvedStage=p.solvedStage; finished=p.finished; playsUsed=p.playsUsed||0;
   } else {                                             // fresh round (new day, or a finished day the pass reopens)
     stage=0; guesses=0; solvedStage=null; finished=false; playsUsed=0;
     persistProgress();                                 // seed today's in-progress day (no-op in preview)
@@ -627,6 +633,7 @@ function canPlay(){ return playsUsed < STAGES[stage].limit; }
 function playCurrent(){
   if(!canPlay()) return;
   playsUsed++;
+  persistProgress();                                              // bank the listen so a refresh can't buy fresh ones
   unlockAudio();                                                  // resume + silent-blip unlock, inside the tap (iOS)
   const st=STAGES[stage];
   if(bufferReady) startSegment(st.mode, st.snipMs);
@@ -791,8 +798,7 @@ function statHisto(highlightStage){
     return `<div class="hrow"><span class="hk">${i+1}</span>` +
            `<span class="hbar${hot}" style="width:${Math.max(9,w)}%">${c}</span></div>`;
   }).join("");
-  return `<div class="histo"><div class="histh">Solved on clue</div>${rows}` +
-         `<div class="failline">Missed: <b>${s.fails}</b></div></div>`;
+  return `<div class="histo"><div class="histh">Solved on clue</div>${rows}</div>`;
 }
 function statsHTML(highlightStage){
   if(!STORAGE_OK) return `<div class="statwrap"><h3>Your stats</h3><p class="storenote">Stats unavailable — your browser is blocking storage, so streaks and history can’t be saved.</p></div>`;

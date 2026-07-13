@@ -80,6 +80,25 @@ const solve = async (page) => {
   await page.close();
 }
 
+// 5) LISTEN BUDGET survives a refresh: you can't reload to buy fresh listens on the same clue.
+{
+  const page = await browser.newPage();
+  await page.goto(`${base}/clockthequote`, { waitUntil: 'networkidle' });
+  await page.evaluate(() => { try{ localStorage.clear(); }catch{} });
+  await page.reload({ waitUntil: 'networkidle' });
+  const limit = await page.evaluate(() => STAGES[stage].limit);       // clue 1 → 2 listens
+  await page.evaluate(() => { playCurrent(); playCurrent(); });        // burn the whole allowance
+  const before = await page.evaluate(() => ({ used: playsUsed, can: canPlay() }));
+  const stored = await page.evaluate(() => JSON.parse(localStorage.getItem('ctq_v1')).progress.playsUsed);
+  await page.reload({ waitUntil: 'networkidle' });                     // the cheat: refresh mid-round
+  const after = await page.evaluate(() => ({ used: playsUsed, can: canPlay(), stage }));
+  checks.push(['listens exhausted before refresh', before.used === limit && before.can === false]);
+  checks.push(['listen count is persisted', stored === limit]);
+  checks.push(['refresh does NOT restore listens', after.used === limit && after.can === false]);
+  checks.push(['refresh keeps you on the same clue', after.stage === 0]);
+  await page.close();
+}
+
 let ok = true;
 for (const [n,p] of checks){ if(!p) ok=false; console.log(`${p?'PASS':'FAIL'}  ${n}`); }
 console.log(ok ? '\nALL PASS' : '\nSOME FAILED');
