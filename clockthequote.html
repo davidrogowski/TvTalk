@@ -450,7 +450,7 @@ function shareStrip(stageSolved){
 // the full shareable text — brand line + score + strip + play link (no title/quote → no spoilers)
 function buildShareText(num, stageSolved){
   const score = stageSolved==null ? "X/5" : scoreFor(stageSolved)+"/5";
-  return `🎬 ${GAME_NAME} #${num} — ${score}\n${shareStrip(stageSolved)}\n${PLAY_URL}`;
+  return `${GAME_NAME} 🎬 #${num} — ${score}\n${shareStrip(stageSolved)}\n${PLAY_URL}`;
 }
 // mobile → native share sheet; desktop → clipboard. Returns a status string for UI feedback.
 async function shareResult(btn){
