@@ -41,7 +41,7 @@ const quotes = [
     "audioUrl": "audio/community/018_boo_gay_gay_gay_gay_gay_so_gay_dark_night_club_driving_music.mp3"
   },
   {
-    "text": "Breakfast Club Quote",
+    "text": "Breakfast Club quote",
     "character": "",
     "audioUrl": "audio/community/022_breakfast_club_quote.mp3"
   },
@@ -86,12 +86,12 @@ const quotes = [
     "audioUrl": "audio/community/040_community_sup_what_s_up.mp3"
   },
   {
-    "text": "Community Fiddla Yo",
+    "text": "Fiddla yo",
     "character": "",
     "audioUrl": "audio/community/041_community_fiddla_yo.mp3"
   },
   {
-    "text": "Conflicts Like These",
+    "text": "Conflicts like these",
     "character": "",
     "audioUrl": "audio/community/045_conflicts_like_these.mp3"
   },
@@ -111,7 +111,7 @@ const quotes = [
     "audioUrl": "audio/community/053_daybreak_humming.mp3"
   },
   {
-    "text": "Dean Pelton's Rap",
+    "text": "Dean Pelton's rap",
     "character": "",
     "audioUrl": "audio/community/054_dean_pelton_s_rap.mp3"
   },
@@ -126,7 +126,7 @@ const quotes = [
     "audioUrl": "audio/community/056_disgrace_and_the_sooner_you_leave_this_lovely_community_the.mp3"
   },
   {
-    "text": "Do You Hate This",
+    "text": "Do you hate this",
     "character": "",
     "audioUrl": "audio/community/060_do_you_hate_this.mp3"
   },
@@ -136,7 +136,7 @@ const quotes = [
     "audioUrl": "audio/community/061_don_t_use_that_tone_with_me_don_t_use_that_tone_with_me_sure.mp3"
   },
   {
-    "text": "Community pants song",
+    "text": "Pants song",
     "character": "",
     "audioUrl": "audio/community/065_elroy_community_pants_song.mp3"
   },
@@ -146,7 +146,7 @@ const quotes = [
     "audioUrl": "audio/community/066_even_shadow_shadow.mp3"
   },
   {
-    "text": "Every Man Should Be Punched In The Face",
+    "text": "Every man should be punched in the face",
     "character": "",
     "audioUrl": "audio/community/067_every_man_should_be_punched_in_the_face.mp3"
   },
@@ -176,12 +176,12 @@ const quotes = [
     "audioUrl": "audio/community/072_exchange_rate_but_it_s_springtime_and_i_thought_i_might_move.mp3"
   },
   {
-    "text": "Gay Gay Gay",
+    "text": "Gay gay gay",
     "character": "",
     "audioUrl": "audio/community/077_gay_gay_gay.mp3"
   },
   {
-    "text": "Giant Thumb And A Turtle Neck",
+    "text": "Giant thumb and a turtle neck",
     "character": "",
     "audioUrl": "audio/community/082_giant_thumb_and_a_turtle_neck.mp3"
   },
@@ -221,7 +221,7 @@ const quotes = [
     "audioUrl": "audio/community/107_hello.mp3"
   },
   {
-    "text": "He Took All The Winter Doodles",
+    "text": "He took all the winter doodles",
     "character": "",
     "audioUrl": "audio/community/110_hi_hi_he_took_all_the_winter_doodles.mp3"
   },
@@ -231,7 +231,7 @@ const quotes = [
     "audioUrl": "audio/community/112_i_always_like_naseem_taleb_framing_this_where_he_said_with_m.mp3"
   },
   {
-    "text": "I Can Explain, Let Me Explain",
+    "text": "I can explain, let me explain",
     "character": "",
     "audioUrl": "audio/community/116_i_can_explain_let_me_explain.mp3"
   },
@@ -246,82 +246,82 @@ const quotes = [
     "audioUrl": "audio/community/119_i_control_your_lives_and_there_is_nothing_you_can_do.mp3"
   },
   {
-    "text": "I Couldn't Think Of Another Word",
+    "text": "I couldn't think of another word",
     "character": "",
     "audioUrl": "audio/community/120_i_couldn_t_think_of_another_word.mp3"
   },
   {
-    "text": "My Whole Brain Is Crying",
+    "text": "My whole brain is crying",
     "character": "",
     "audioUrl": "audio/community/125_i_don_t_know_how_to_do_my_whole_brain_is_crying.mp3"
   },
   {
-    "text": "I Don't Know What That Was",
+    "text": "I don't know what that was",
     "character": "",
     "audioUrl": "audio/community/128_i_don_t_know_what_that_was_i_don_t_i_don_t_know_what_that_wo.mp3"
   },
   {
-    "text": "I Don't Know What That Was!",
+    "text": "I don't know what that was!",
     "character": "",
     "audioUrl": "audio/community/129_i_don_t_know_what_that_was.mp3"
   },
   {
-    "text": "I Don't Know Who Told You",
+    "text": "I don't know who told you",
     "character": "",
     "audioUrl": "audio/community/132_i_don_t_know_who_told_you.mp3"
   },
   {
-    "text": "Giant Thumb In A Turtleneck",
+    "text": "Giant thumb in a turtleneck",
     "character": "",
     "audioUrl": "audio/community/135_i_don_t_see_what_all_the_fuss_was_about_giant_thumb_in_a_tur.mp3"
   },
   {
-    "text": "I Hate Being Kept In The Dark",
+    "text": "I hate being kept in the dark",
     "character": "",
     "audioUrl": "audio/community/144_i_hate_being_kept_in_the_dark_waiting_speculating_useless.mp3"
   },
   {
-    "text": "I Have Changnesia",
+    "text": "I have Changnesia",
     "character": "",
     "audioUrl": "audio/community/145_i_have_changnesia.mp3"
   },
   {
-    "text": "I Have Something Better Than Soap",
+    "text": "I have something better than soap",
     "character": "",
     "audioUrl": "audio/community/147_i_have_something_better_than_soap.mp3"
   },
   {
-    "text": "I Just Pretended I Knew",
+    "text": "I just pretended I knew",
     "character": "",
     "audioUrl": "audio/community/150_i_just_pretended_i_knew.mp3"
   },
   {
-    "text": "I Pretended I Knew",
+    "text": "I pretended I knew",
     "character": "",
     "audioUrl": "audio/community/151_i_just_pretended_like_i_knew_because_i_wanted_just_to_think.mp3"
   },
   {
-    "text": "Death Is A Natural Part Of Life",
+    "text": "Death is a natural part of life",
     "character": "",
     "audioUrl": "audio/community/153_i_know_it_s_sad_but_death_is_a_natural_part_of_life_and_by_t.mp3"
   },
   {
-    "text": "I Masturbated Everywhere",
+    "text": "I masturbated everywhere",
     "character": "",
     "audioUrl": "audio/community/159_i_masturbated_everywhere.mp3"
   },
   {
-    "text": "I See Your Value Now",
+    "text": "I see your value now",
     "character": "",
     "audioUrl": "audio/community/163_i_see_your_value_now.mp3"
   },
   {
-    "text": "It's My Penis",
+    "text": "It's my penis",
     "character": "",
     "audioUrl": "audio/community/170_i_ll_show_you_the_tool_that_s_most_important_to_our_survival.mp3"
   },
   {
-    "text": "Thought Police Rant",
+    "text": "Thought police rant",
     "character": "",
     "audioUrl": "audio/community/172_i_ll_start_with_a_quick_look_see_into_someones_bag_and_then.mp3"
   },
@@ -331,27 +331,27 @@ const quotes = [
     "audioUrl": "audio/community/177_i_m_agnostic.mp3"
   },
   {
-    "text": "Agnostic, Lazy Man's Atheist",
+    "text": "Agnostic, lazy man's atheist",
     "character": "",
     "audioUrl": "audio/community/178_i_m_agnostic_agnostic_lazy_man_s_atheist.mp3"
   },
   {
-    "text": "I Loved You In Anne",
+    "text": "I loved you in Anne",
     "character": "",
     "audioUrl": "audio/community/183_i_m_just_saying_i_loved_you_in_anne.mp3"
   },
   {
-    "text": "I Thought This Was America",
+    "text": "I thought this was America",
     "character": "",
     "audioUrl": "audio/community/187_i_m_not_allowed_to_stand_up_for_myself_i_thought_this_was_am.mp3"
   },
   {
-    "text": "Like I Can't Get Erections",
+    "text": "Like I can't get erections",
     "character": "",
     "audioUrl": "audio/community/190_i_m_sick_of_you_threatening_me_and_talking_to_me_like_a_kid.mp3"
   },
   {
-    "text": "I'm Sick Of You Treating Me Like",
+    "text": "I'm sick of you treating me like",
     "character": "",
     "audioUrl": "audio/community/191_i_m_sick_of_you_treating_me_like.mp3"
   },
@@ -366,47 +366,47 @@ const quotes = [
     "audioUrl": "audio/community/193_i_m_staying_in_the_sleep_study_lab_all_i_have_to_do_is_wake.mp3"
   },
   {
-    "text": "If You Woke Up As A Donut",
+    "text": "If you woke up as a donut",
     "character": "",
     "audioUrl": "audio/community/198_if_i_ever_like_woke_up_as_a_donor_you_would_eat_yourself_i_w.mp3"
   },
   {
-    "text": "I'll Say The Whole Word Next Time",
+    "text": "I'll say the whole word next time",
     "character": "",
     "audioUrl": "audio/community/199_if_i_never_knew_you_were_a_jew_i_say_the_whole_word_next_tim.mp3"
   },
   {
-    "text": "Party Must Be Saved",
+    "text": "Party must be saved",
     "character": "",
     "audioUrl": "audio/community/200_if_i_stay_there_can_be_no_party_i_must_be_out_there_in_the_n.mp3"
   },
   {
-    "text": "If I Stay, There Can Be No Party",
+    "text": "If I stay, there can be no party",
     "character": "",
     "audioUrl": "audio/community/201_if_i_stay_there_can_be_no_party.mp3"
   },
   {
-    "text": "If I Woke Up As A Donut",
+    "text": "If I woke up as a donut",
     "character": "",
     "audioUrl": "audio/community/202_if_i_woke_up_as_a_donut.mp3"
   },
   {
-    "text": "It All Starts With",
+    "text": "It all starts with",
     "character": "",
     "audioUrl": "audio/community/204_it_all_starts_with.mp3"
   },
   {
-    "text": "A Quick Look-See Into Someone's Bag",
+    "text": "A quick look-see into someone's bag",
     "character": "",
     "audioUrl": "audio/community/205_it_all_starts_with_a_quick_look_see_into_someone_s_bag.mp3"
   },
   {
-    "text": "Cool Cool Cool",
+    "text": "Cool cool cool",
     "character": "",
     "audioUrl": "audio/community/210_it_s_cool_cool_cool_cool_cool_cool_cool_cool_cool_cool_cool.mp3"
   },
   {
-    "text": "Jesus Was One Of Us",
+    "text": "Jesus was one of us",
     "character": "",
     "audioUrl": "audio/community/214_jesus_was_one_of_us.mp3"
   },
@@ -481,7 +481,7 @@ const quotes = [
     "audioUrl": "audio/community/259_panic.mp3"
   },
   {
-    "text": "Pierce Psychic Community",
+    "text": "Pierce psychic community",
     "character": "",
     "audioUrl": "audio/community/263_pierce_psychic_community.mp3"
   },
@@ -601,12 +601,12 @@ const quotes = [
     "audioUrl": "audio/community/341_took_all_the_cookies.mp3"
   },
   {
-    "text": "Troy and Abed Rap",
+    "text": "Troy and Abed rap",
     "character": "",
     "audioUrl": "audio/community/342_troy_and_abed_rap.mp3"
   },
   {
-    "text": "Troy and Abed Spanish Rap",
+    "text": "Troy and Abed Spanish rap",
     "character": "",
     "audioUrl": "audio/community/344_troynabed_spanishrap.mp3"
   },
@@ -651,7 +651,7 @@ const quotes = [
     "audioUrl": "audio/community/358_we_re_trying_to_get_ready_for_the_fire_i_eat_i_can_t_think_o.mp3"
   },
   {
-    "text": "Well Well What Do You Know",
+    "text": "Well well what do you know",
     "character": "",
     "audioUrl": "audio/community/359_well_well_what_do_you_know.mp3"
   },
@@ -716,7 +716,7 @@ const quotes = [
     "audioUrl": "audio/community/378_what_s_going_on_can_you_guys_hear_me_and_my_deaf_can_you_hea.mp3"
   },
   {
-    "text": "What's Taking So Long",
+    "text": "What's taking so long",
     "character": "",
     "audioUrl": "audio/community/379_what_s_taking_so_long.mp3"
   },
@@ -726,12 +726,12 @@ const quotes = [
     "audioUrl": "audio/community/383_who_status_eston_sucios_you_are_dirty_too_still.mp3"
   },
   {
-    "text": "Why Did You Stop Talking",
+    "text": "Why did you stop talking",
     "character": "",
     "audioUrl": "audio/community/389_why_did_you_stop_talking.mp3"
   },
   {
-    "text": "Woo Some Chicks",
+    "text": "Woo some chicks",
     "character": "",
     "audioUrl": "audio/community/393_woo_some_chicks.mp3"
   },
@@ -786,7 +786,7 @@ const quotes = [
     "audioUrl": "audio/community/420_you_know_what_i_got_for_christmas_it_was_a_banner_year_at_th.mp3"
   },
   {
-    "text": "You Made A Commitment",
+    "text": "You made a commitment",
     "character": "",
     "audioUrl": "audio/community/423_you_made_a_commitment.mp3"
   },

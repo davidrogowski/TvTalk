@@ -746,14 +746,44 @@ def scrape_board(
             if trim_mp3_inplace(p, TRIM_SECONDS):
                 trimmed += 1
         print(f"Trim complete: {trimmed}/{len(legacy_new)} files.")
-        # Content-aware second stage: the fixed 1s cut leaves a variable-length chime sliver,
-        # so strip the residual ding precisely. Runs over the show's clips on disk (idempotent —
-        # clean/modern-board clips share no loud leading prefix, so they're untouched), so the
-        # audio is fully de-dinged at scrape time and no separate cleanup pass is needed.
-        deding_files = sorted(out_dir.glob("*.mp3"))
-        print(f"Stripping residual ding chime from {len(deding_files)} clip(s) (content-aware)...")
-        deding = strip_residual_ding(deding_files, verbose=True)
+
+    # Content-aware cleanup. This ALWAYS runs — never gate it on the board
+    # classification above.
+    #
+    # 2026-07-13: it used to run only for `legacy_new`, on the theory that a board is
+    # poisoned iff (id < 1M and slug ends -soundboard). That theory is wrong. Happy
+    # Gilmore (id 119588, slug -1996) classifies as "modern/clean" and was therefore
+    # never content-checked — yet its clips carry a spoken "101soundboards dot com"
+    # TTS watermark, and other boards leave a quiet chime TAIL that is far below the
+    # ding detector's loudness threshold. The classification decided whether we even
+    # LOOKED, so anything it mislabelled stayed poisoned forever.
+    #
+    # All three passes are content-based and safe to run on clean audio: they only cut
+    # a lead-in that is provably shared with a DIFFERENT clip (two different quotes
+    # cannot legitimately share their opening audio), and they refuse to cut more than
+    # MAX_CUT_S or to leave a clip shorter than MIN_KEEP_S.
+    if newly_downloaded:
+        from strip_lead_artifact import plan_show as _plan_artifacts  # local: avoids circular import
+        from strip_tts_watermark import load_templates as _load_wm, cut_for as _wm_cut
+
+        show_files = sorted(out_dir.glob("*.mp3"))
+        print(f"\nStripping residual ding chime from {len(show_files)} clip(s) (content-aware)...")
+        deding = strip_residual_ding(show_files, verbose=True)
         print(f"Residual de-ding complete: trimmed {deding} clip(s).")
+
+        plan = _plan_artifacts(show_id)
+        if plan:
+            print(f"Stripping shared lead-in artifact (ding tail / dead air) from {len(plan)} clip(s)...")
+            for f, cut, _dur, _kind in plan:
+                trim_mp3_inplace(f, cut, reencode=True)
+
+        wm_templates = _load_wm()
+        wm_hits = [(f, c) for f in sorted(out_dir.glob("*.mp3"))
+                   if (c := _wm_cut(f, wm_templates)) > 0]
+        if wm_hits:
+            print(f"Stripping spoken TTS watermark from {len(wm_hits)} clip(s)...")
+            for f, cut in wm_hits:
+                trim_mp3_inplace(f, cut, reencode=True)
 
     stats = {
         "downloaded": downloaded,
@@ -857,6 +887,8 @@ def main() -> None:
         specs = [(url, b1_min, b1_max)]
         if s.get("board_url_2"):
             specs.append((s["board_url_2"], _int("min_length_2", b1_min), _int("max_length_2", b1_max)))
+        if s.get("board_url_3"):
+            specs.append((s["board_url_3"], _int("min_length_3", b1_min), _int("max_length_3", b1_max)))
 
         scrape_board(
             specs, AUDIO_ROOT / sid, sid,

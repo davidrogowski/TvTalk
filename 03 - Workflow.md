@@ -4,17 +4,17 @@
 
 When Dave says **"run the playbook"** for a show (usually with a 101soundboards link, sometimes two), it means: do this end-to-end, reporting concisely, without stopping for confirmation between steps.
 
-1. **Inspect the board** via the JSON API (`/api/v1/boards/{id}?limit=2000`) to decide config. **hashtag removal** is always automatic. The **1s ding-trim** is automatic for *poisoned* boards — defined as **board ID < 1M AND slug ending in `-soundboard`** (legacy community boards). For clean boards (ID ≥ 1M, or a low-ID board with a `-YYYY` slug like `-2012`) set `no_trim: true` so the scraper doesn't chop 1s of real audio. ⚠️ **Do NOT** judge poisoning by comparing the downloaded file's duration to the API `sound_duration` — they match even when poisoned (the API reports the *with-ding* length). The slug rule is authoritative; if you want to eyeball it, a poisoned clip has leading near-silence then a burst in the first ~0.6s, a clean one starts loud immediately. The judgment calls are:
+1. **Inspect the board** via the JSON API (`/api/v1/boards/{id}?limit=2000`) to decide config. **hashtag removal** is always automatic. The **1s ding-trim** is automatic for boards matching **ID < 1M AND slug ending in `-soundboard`**. For other boards set `no_trim: true` so the scraper doesn't chop 1s of real audio. ⚠️ **Do NOT** judge poisoning by comparing the downloaded file's duration to the API `sound_duration` — they match even when poisoned (the API reports the *with-ding* length). ⚠️ **The slug rule governs the blunt 1s cut ONLY — it does NOT tell you whether a board is poisoned.** It is not a poison test and never was; see [Poison: three different artifacts](#poison-three-different-artifacts). The content-aware passes now run on *every* scrape regardless of classification, so you no longer have to get this right. The judgment calls are:
    - **Quotes or not?** Read the transcripts. If they're user-supplied *titles/labels* (`"April Ludgate Wine Tasting"`, `"Pickle Rick"`, `"AHHHH!"`) → set `text_style: "title"` (no quote marks). If they're real *spoken dialogue* (`"A strong force of attraction"`) → leave default (quotes). NOTE: this is about content, not board age — Breaking Bad and Peaky Blinders are legacy boards but real captions, so they kept quotes. Most community `-soundboard` boards are title-style; most modern `-YYYY` boards are captions.
    - **ALL-CAPS?** → `case_style: "fix_all_caps"`.
    - **Paren stage-directions / disclaimers?** → `exclude_prefix: "("` or `exclude_prefix: "CAPTIONING MADE POSSIBLE BY"` etc.
    - **Long monologues?** → scrape with `--max-length 50`.
 2. **Add to `scripts/shows.yaml`**: `id`, `name`, `board_url`, a `theme` matched to the show's cover-art hue, plus any flags the board needs — `text_style: "title"` (no quote marks for title-style boards), `case_style: "fix_all_caps"`, `exclude_prefix: "..."`, `board_url_2` (merge a second board), `dedup: true` (drop repeated transcripts, e.g. when a board lists the same line twice under different audio files), `no_trim: true` (clean board — see step 1), and `preserve_transcripts: true` (**always set this when you'll clean captions in step 4**, so your labels survive re-scrapes).
 3. **Scrape**: `python3 scripts/scrape_soundboard.py --show <id>` (auto-strips hashtags; auto-trims the 1s ding on poisoned `-soundboard` boards). Add `--max-length 50` for long-dialogue prestige dramas.
-4. **Residual ding — now automatic during scrape.** As of 2026-06 `scrape_soundboard.py` runs the content-aware residual-ding pass itself right after the 1s cut, so a normal scrape already produces fully de-dinged audio. Just sanity-check with `python3 scripts/verify_residual_ding.py --show <id>` (should report 0). The standalone `strip_residual_ding.py` is only needed to re-clean *previously*-scraped shows. See [Residual ding cleanup](#residual-ding-cleanup-the-de-ding-pass) below.
-5. **Clean the captions (MANDATORY — do not skip).** Every clip's on-screen text must be a short **1–5 word label**, not the full transcript. Edit the quoted label lines in `audio/<id>/transcripts.txt` per the rule in [Captions are short labels](#captions-are-short-labels-not-full-quotes-the-labeling-pass), then regenerate (re-run the scraper, or rebuild `quotes.js` from `transcripts.txt`). Boards whose captions are *already* short scannable labels (most `-soundboard` community boards) need no work here — but **duration-filtered / caption-style boards always do**. This step is the one most easily forgotten; it is not optional.
+4. **De-poison — now fully automatic during scrape.** As of 2026-07-13 `scrape_soundboard.py` runs **all three** content-aware passes after download, on **every** board (no longer gated on the slug rule — that gating is what let Happy Gilmore stay poisoned for months). Sanity-check with `python3 scripts/verify_residual_ding.py --show <id>` **and** `python3 scripts/strip_lead_artifact.py --show <id>` (dry run; should plan 0 cuts) **and** `python3 scripts/strip_tts_watermark.py --show <id>` (should report 0). See [Poison: three different artifacts](#poison-three-different-artifacts).
+5. **Clean the captions (MANDATORY — do not skip).** Every clip's on-screen text must be a short **1–5 word label**, not the full transcript, **and** must follow the [caption style rules](#caption-style-the-cleanup-methodology) (sentence case, proper nouns preserved, no show-name prefix, no chat abbreviations, no texting shorthand). Edit the quoted label lines in `audio/<id>/transcripts.txt`, then regenerate. This step is the one most easily forgotten; it is not optional.
 6. **Rebuild**: `python3 scripts/build_shows.py`.
-7. **Deploy**: `npm_config_cache=/tmp/npm-cache npx wrangler deploy` (see [[05 - Deployment]]).
+7. **Deploy**: `npm_config_cache=/tmp/npm-cache npx --yes wrangler@4.40.0 deploy` (see [[05 - Deployment]]).
 8. **Commit + push**: `git add -A && git commit -m "..." && git push` (env-var author identity — see [[05 - Deployment]]).
 
 > **The standing rules that keep getting missed:** (a) **trim the ding** on poisoned `-soundboard` boards (and *only* those — set `no_trim` elsewhere) — the scraper does this **and** the content-aware residual de-ding automatically now, so just verify with `verify_residual_ding.py`; and (b) **clean the captions** into short labels. Both are part of *every* add, not optional polish.
@@ -31,9 +31,11 @@ https://www.101soundboards.com/boards/1234567-show-name-year
 
 The board ID (the number) matters; the slug after it isn't load-bearing for scraping.
 
-**Heads up — ding poisoning**: 101soundboards serves a poisoned MP3 (1-second notification chime at the start) to non-browser scrapers on **legacy community boards** — the precise rule is **board ID < 1,000,000 AND the slug ends in `-soundboard`**. Modern boards are clean: ID >= 1,000,000 (e.g. `-2013`), *or* a low ID with a `-YYYY`/`-season-N` slug (e.g. `119606-21-jump-street-2012`, `99562-...-2019-season-1`) — low IDs are NOT enough on their own.
+**Heads up — ding poisoning**: 101soundboards serves a poisoned MP3 (1-second notification chime at the start) to non-browser scrapers on **legacy community boards** — **board ID < 1,000,000 AND the slug ends in `-soundboard`**. `scrape_soundboard.should_trim_board()` encodes this, and the scraper auto-trims those boards. For other boards set `no_trim: true` in `shows.yaml`.
 
-`scrape_soundboard.should_trim_board()` encodes exactly this (ID < 1M **and** `-soundboard` slug), and the scraper auto-trims those boards. For a clean board set `no_trim: true` in `shows.yaml`. ⚠️ **The trap that bit us:** do **not** verify cleanliness by comparing the downloaded file's duration to the API `sound_duration` — they match even when poisoned, because the API reports the *with-ding* length. Trust the slug rule. (If you must inspect audio: a poisoned clip has leading near-silence then a tone burst in the first ~0.6s; a clean clip starts loud immediately.)
+⚠️ **What this rule is NOT:** it is *not* a test for whether a board is poisoned. It decides one thing only — whether to apply the blunt 1s cut. Boards it calls "clean" can still be poisoned, just differently: Happy Gilmore (`119588-happy-gilmore-1996`) passes as modern and every one of its watermarked clips opens with 2s of spoken "101soundboards dot com". Treat the slug as a hint about the *chime*, nothing more, and let the content-aware passes (which now run on every scrape) decide what is actually there. See [Poison: three different artifacts](#poison-three-different-artifacts).
+
+⚠️ **The other trap:** do **not** verify cleanliness by comparing the downloaded file's duration to the API `sound_duration` — they match even when poisoned, because the API reports the *with-ding* length.
 
 ## 2. (Optional) Poison test — one clip
 
@@ -157,6 +159,81 @@ python3 scripts/scrape_soundboard.py --show <id>
 ```
 
 Reads your edited `transcripts.txt`, preserves the `CHARACTER:` values, regenerates `quotes.js` with character names baked in. Already-downloaded MP3s are not re-downloaded; already-trimmed files are not re-trimmed.
+
+## Poison: three different artifacts
+
+**Added 2026-07-13.** "Poisoned" was treated for months as one thing (the ding) detected by one rule (the slug). Both were wrong. There are **three** artifacts, they are independent, and a board can carry any of them:
+
+| # | Artifact | What it sounds like | Why it hid |
+|---|----------|--------------------|------------|
+| 1 | **Ding chime** | ~1s notification chime before the line | Handled since day one (`trim_mp3_inplace` + `strip_residual_ding.py`). |
+| 2 | **Quiet ding tail** | ~100ms of the chime's *decay*, then dead air | Peak ~564 (≈1.7% of full scale) — far below `verify_residual_ding.py`'s `LOUD=2000` gate, so every "0 clips" report was a false all-clear. Audible as a click + dead air before the line. Found on **2,553 clips**. |
+| 3 | **Spoken TTS watermark** | ~2s of *"101soundboards dot com"* read aloud | Not a chime at all, so the ding detectors were structurally blind to it. Worst on Ted Lasso (40/54) and Role Models (44/65). |
+
+### The detection principle that actually works
+
+Do **not** threshold on loudness, and do **not** trust the board slug. Use this instead:
+
+> **Two different quotes cannot legitimately share their opening audio.**
+
+So any lead-in a clip shares with a *different* clip in the same show is an artifact — whatever it sounds like. That single rule catches all three types. `strip_lead_artifact.py` implements it (shared lead-in → cut it, then walk through the dead air behind it to the real speech onset). Safety rails: never cut > 2.6s, never leave a clip < 0.35s.
+
+### The watermark is re-rendered per clip
+
+The site renders the TTS watermark **separately for each clip**, so two watermarked clips are *not* byte-identical (r≈0.91, not 1.0). Worse, two different *renditions* are nearly **uncorrelated with each other** (r≈0.02). Consequences:
+
+- Shared-prefix detection alone misses any clip whose rendition is unique — it has no byte-identical twin. Happy Gilmore's `603_okay_as_long_as_you_re_willing_to_admit_that_now.mp3` hid this way through a full cleanup pass.
+- A single reference template is not enough. `strip_tts_watermark.py` keeps **one template per rendition family**; add a new one if a survivor turns up.
+- Once you strip the twins, you destroy the evidence that would have exposed the survivor. If you re-hunt after a cleanup, pull the reference audio from **git HEAD**, not the working tree.
+
+### Traps
+
+- **A duplicate clip pair looks exactly like a watermark family** (they share everything). The rails are what stop you butchering them — Arrested Development `006/007 "come on"` and Pulp Fiction `002/003` are duplicate pairs, not poison. **Never call `trim_mp3_inplace` by hand to "just apply" a detected cut; go through the scripts so the rails apply.** Doing it by hand cut a 1.93s Seinfeld clip down to 0.13s.
+- **A clean-looking `-YYYY` slug means nothing.** Happy Gilmore is `119588-happy-gilmore-1996` and is watermarked.
+
+## Caption style (the cleanup methodology)
+
+**Added 2026-07-13. Applies to every new show/movie, and is part of playbook step 5.**
+
+Captions are short labels (see below), and on top of that they follow these rules:
+
+1. **Sentence case.** First letter capitalized, the rest lowercase — *except*:
+   - **"I"** and its contractions (I'm, I'll, I've, I'd) stay capitalized.
+   - **Proper nouns** stay capitalized: character names (Peter, Quagmire, Ron Swanson), real people (Miley Cyrus), places (Atlanta), brands, and titles of works ("Werewolf Bar Mitzvah").
+   - **Acronyms** stay uppercase (DEA, FBI, TV).
+   - So: `PETER AND QUAGMIRE DANCING` → `Peter and Quagmire dancing`; `Three Keys of Coolness` → `Three keys of coolness`.
+2. **No show-name prefix.** The show is already known from context, so the label describes the *line*, not the show. `The Wire this is BS` → `This is bullshit`. `Family Guy bad joke` → `Bad joke`.
+3. **No chat abbreviations** — expand to the words actually spoken. `BS` → `bullshit`, `OMG` → `oh my god`, `WTF` → `what the fuck`.
+4. **Fix texting shorthand and missing apostrophes**: `u`→`you`, `ur`→`your`, `cuz`→`because`, `dont`→`don't`, `thats`→`that's`, `im`→`I'm`.
+5. **Leave dialect alone.** `gonna`, `gotta`, `ain't`, `nah`, `'em`, `y'all` are how the line is actually said — never "correct" them.
+6. **Never change profanity or existing censoring.** If a caption has `s**t`, keep the asterisks.
+7. **Fix wrong names.** e.g. Simpsons `Looking for Mister Smith` → `Looking for Mr. Smithers`.
+
+At catalog scale this is best done by fanning the captions out to subagents with the show name for context — proper-noun decisions need show knowledge, and a pure regex will happily turn `Nah, I'm good man` into `Nah, i'm good man` and lowercase every character name.
+
+## Curating a board down (music, hashtags, dupes, minimum length)
+
+### 🔴 STANDING RULE: never include music clips (set 2026-07-13)
+
+**Applies to every new show/movie, no exceptions, no need to ask.** Boards are littered with theme songs, score, and musical numbers — they are not quotable lines and they don't belong in the game. Drop any clip whose caption carries a music marker:
+
+```python
+MUSIC = re.compile(r"[♪♫🎵🎶]|\[music\]|\(music\)|addic7ed|sync\s*&\s*correction", re.I)
+```
+
+The `addic7ed` / `sync & correction` patterns catch subtitle-ripper credit lines, which are the same kind of junk (a clip captioned `Sync & correction by f1nc0 ~ Addic7ed.com ~ [music]` is not a quote). Also drop fansub credits like `Original Sub By ViKramJS` when you spot them, and named theme clips (`"Theme music"`, `"Office Theme"`).
+
+Music clips dropped so far: F is for Family 8, Jojo Rabbit 11, Barbie 13.
+
+### The other filters
+
+Some boards need more. The Friends rebuild (2026-07-13) used all three:
+
+- **Hashtag filter.** On some boards, clips that aren't actually from the show are mixed in; the real ones carry hashtags (`... #friends #joey`). ⚠️ **The scraper strips hashtags before you ever see them** (`fetch_sounds`), so you cannot filter on `transcripts.txt` — you must read the **raw API** `sound_transcript` and join back by `sound_file_url`. On the Friends board this dropped 120 of 418 clips.
+- **Dupes.** Set `dedup_transcripts: true` (board lists the same line under several mp3 urls). Dropped 17 more.
+- **Minimum duration — measure it AFTER de-poisoning.** A clip padded with a ding tail and ~0.9s of dead air measures well over the bar while carrying under 3s of actual audio. Filtering on raw durations keeps clips that don't really clear it. (Silicon Valley was cut at 3s on padded durations; re-measuring after the strip dropped 15 more clips.)
+
+To curate before download, **pre-generate `transcripts.txt`** with the scraper's own `fetch_sounds`/`safe_filename` (so filenames match what the scraper will compute — the index is its position in the *full, deduped* board enumeration), then run a normal curate-scrape: with `preserve_transcripts: true` and a transcripts file present, the scraper treats it as the authoritative set and only downloads what's listed.
 
 ## Captions are short labels, not full quotes (the labeling pass)
 

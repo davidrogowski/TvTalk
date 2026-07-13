@@ -11,12 +11,7 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/002_a_lot_of_vodka.mp3"
   },
   {
-    "text": "Alan Rails - All Aboard, Motherfucker!",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/003_alan_rails_all_aboard_motherfucker.mp3"
-  },
-  {
-    "text": "Almost Always Dressed as Superman",
+    "text": "Almost always dressed as Superman",
     "character": "",
     "audioUrl": "audio/rick-and-morty/004_almost_always_dressed_as_superman.mp3"
   },
@@ -26,14 +21,9 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/005_alternative_interrogation.mp3"
   },
   {
-    "text": "And That's How We Play Hands",
+    "text": "And that's how we play hands",
     "character": "",
     "audioUrl": "audio/rick-and-morty/006_and_that_s_how_we_play_hands.mp3"
-  },
-  {
-    "text": "Anomaly Raad habibi allahu akbar",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/007_anomaly_raad_habibi_allahu_akbar.mp3"
   },
   {
     "text": "Ants in my eyes Johnson",
@@ -46,7 +36,7 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/009_are_you_a_simulation.mp3"
   },
   {
-    "text": "Are You Hungry for Apples",
+    "text": "Are you hungry for apples",
     "character": "",
     "audioUrl": "audio/rick-and-morty/010_are_you_hungry_for_apples.mp3"
   },
@@ -61,37 +51,12 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/012_banana_rick.mp3"
   },
   {
-    "text": "Be Ashamed Of Your Gender",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/013_be_ashamed_of_your_gender.mp3"
-  },
-  {
-    "text": "Because I'm Having a Party..",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/014_because_i_m_having_a_party.mp3"
-  },
-  {
-    "text": "Because I'm the Rickest Rick there is",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/015_because_i_m_the_rickest_rick_there_is.mp3"
-  },
-  {
-    "text": "Being Nice",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/016_being_nice.mp3"
-  },
-  {
     "text": "Bigot Attack",
     "character": "",
     "audioUrl": "audio/rick-and-morty/017_bigot_attack.mp3"
   },
   {
-    "text": "Bitch, my generation gets traumatized for breakfast",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/018_bitch_my_generation_gets_traumatized_for_breakfast.mp3"
-  },
-  {
-    "text": "Blips And Chitz",
+    "text": "Blips and Chitz",
     "character": "",
     "audioUrl": "audio/rick-and-morty/019_blips_and_chitz.mp3"
   },
@@ -101,19 +66,9 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/020_bully_attack.mp3"
   },
   {
-    "text": "Butt Morty caught watching faces",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/021_butt_morty_caught_watching_faces.mp3"
-  },
-  {
     "text": "Can do!",
     "character": "",
     "audioUrl": "audio/rick-and-morty/022_can_do.mp3"
-  },
-  {
-    "text": "Caught Wanking",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/023_caught_wanking.mp3"
   },
   {
     "text": "Christmas Drums",
@@ -121,7 +76,7 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/024_christmas_drums.mp3"
   },
   {
-    "text": "Christmas Is a Special Time",
+    "text": "Christmas is a special time",
     "character": "",
     "audioUrl": "audio/rick-and-morty/025_christmas_is_a_special_time.mp3"
   },
@@ -141,24 +96,9 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/028_come_on_football.mp3"
   },
   {
-    "text": "Considered a dick move",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/029_considered_a_dick_move.mp3"
-  },
-  {
-    "text": "Cool",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/030_cool.mp3"
-  },
-  {
     "text": "Crying and drinking wine",
     "character": "",
     "audioUrl": "audio/rick-and-morty/031_crying_and_drinking_wine.mp3"
-  },
-  {
-    "text": "Cut the high road routine",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/032_cut_the_high_road_routine.mp3"
   },
   {
     "text": "Da Doi",
@@ -176,32 +116,12 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/035_do_you_know_what_wubba_lubba_dub_dub_means.mp3"
   },
   {
-    "text": "Do You Like It?",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/036_do_you_like_it.mp3"
-  },
-  {
-    "text": "Don't even trip, dawg",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/037_don_t_even_trip_dawg.mp3"
-  },
-  {
     "text": "Eat Shit",
     "character": "",
     "audioUrl": "audio/rick-and-morty/038_eat_shit.mp3"
   },
   {
-    "text": "Eat the baby",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/039_eat_the_baby.mp3"
-  },
-  {
-    "text": "Everybody's Gonna Die",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/040_everybody_s_gonna_die.mp3"
-  },
-  {
-    "text": "Evil Morty Theme Earrape",
+    "text": "Evil Morty theme earrape",
     "character": "",
     "audioUrl": "audio/rick-and-morty/041_evil_morty_theme_earrape.mp3"
   },
@@ -211,12 +131,12 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/042_fart.mp3"
   },
   {
-    "text": "Fuck You I'm through here",
+    "text": "Fuck you I'm through here",
     "character": "",
     "audioUrl": "audio/rick-and-morty/043_fuck_you_i_m_through_here.mp3"
   },
   {
-    "text": "Fuck You Summer, and Fuck the Government",
+    "text": "Fuck you Summer, and fuck the government",
     "character": "",
     "audioUrl": "audio/rick-and-morty/044_fuck_you_summer_and_fuck_the_government.mp3"
   },
@@ -261,7 +181,7 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/052_get_your_shit_together.mp3"
   },
   {
-    "text": "Get Your Shit Together",
+    "text": "Get your shit together",
     "character": "",
     "audioUrl": "audio/rick-and-morty/053_get_your_shit_together.mp3"
   },
@@ -276,7 +196,7 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/055_giant_prison.mp3"
   },
   {
-    "text": "Going to Make Love to My Wife",
+    "text": "Going to make love to my wife",
     "character": "",
     "audioUrl": "audio/rick-and-morty/056_going_to_make_love_to_my_wife.mp3"
   },
@@ -301,12 +221,7 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/060_goodbye.mp3"
   },
   {
-    "text": "Goodbye",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/061_goodbye.mp3"
-  },
-  {
-    "text": "Gotta Take it Real Serious",
+    "text": "Gotta take it real serious",
     "character": "",
     "audioUrl": "audio/rick-and-morty/062_gotta_take_it_real_serious.mp3"
   },
@@ -316,44 +231,14 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/063_grass_taste_bad.mp3"
   },
   {
-    "text": "Greetings",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/064_greetings.mp3"
-  },
-  {
     "text": "Gross",
     "character": "",
     "audioUrl": "audio/rick-and-morty/065_gross.mp3"
   },
   {
-    "text": "Gross, what is that thing?",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/066_gross_what_is_that_thing.mp3"
-  },
-  {
-    "text": "He's just grumpy from the flight",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/067_he_s_just_grumpy_from_the_flight.mp3"
-  },
-  {
-    "text": "Help Me I'm Gonna Die",
+    "text": "Help me I'm gonna die",
     "character": "",
     "audioUrl": "audio/rick-and-morty/068_help_me_i_m_gonna_die.mp3"
-  },
-  {
-    "text": "Here I Go Killin Again",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/069_here_i_go_killin_again.mp3"
-  },
-  {
-    "text": "Hey 1995 called",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/070_hey_1995_called.mp3"
-  },
-  {
-    "text": "Hey ya you doing ok?",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/071_hey_ya_you_doing_ok.mp3"
   },
   {
     "text": "Hi, I am Mr",
@@ -366,22 +251,12 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/073_high_iq_to_understand_rick_and_morty.mp3"
   },
   {
-    "text": "Holy Shit, Thanks kids you figured it out",
+    "text": "Holy shit, thanks kids you figured it out",
     "character": "",
     "audioUrl": "audio/rick-and-morty/074_holy_shit_thanks_kids_you_figured_it_out.mp3"
   },
   {
-    "text": "I can answer that, for money",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/075_i_can_answer_that_for_money.mp3"
-  },
-  {
-    "text": "I can't take it anymore",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/076_i_can_t_take_it_anymore.mp3"
-  },
-  {
-    "text": "I Choose To Get C's",
+    "text": "I choose to get C's",
     "character": "",
     "audioUrl": "audio/rick-and-morty/077_i_choose_to_get_c_s.mp3"
   },
@@ -401,7 +276,7 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/080_i_dunno_why_i_said_that_but_i_stand_by_it.mp3"
   },
   {
-    "text": "I Just Want to Die!",
+    "text": "I just want to die!",
     "character": "",
     "audioUrl": "audio/rick-and-morty/081_i_just_want_to_die.mp3"
   },
@@ -436,24 +311,9 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/087_i_was_not_in_control_of_that_situation.mp3"
   },
   {
-    "text": "I'll See You at the Dance",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/088_i_ll_see_you_at_the_dance.mp3"
-  },
-  {
-    "text": "I'll talk to you after lunch",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/089_i_ll_talk_to_you_after_lunch.mp3"
-  },
-  {
     "text": "I'm Cool Rick",
     "character": "",
     "audioUrl": "audio/rick-and-morty/090_i_m_cool_rick_you_re_outnumbered.mp3"
-  },
-  {
-    "text": "I'm gonna go take a shit",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/091_i_m_gonna_go_take_a_shit.mp3"
   },
   {
     "text": "I'm in, you son of a bitch",
@@ -471,19 +331,9 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/094_i_m_late_to_class_b_tch.mp3"
   },
   {
-    "text": "I'm mr Meseeks!! look at me Rick and Morty",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/095_i_m_mr_meseeks_look_at_me_rick_and_morty.mp3"
-  },
-  {
-    "text": "I'm Peeing on Your Guns",
+    "text": "I'm peeing on your guns",
     "character": "",
     "audioUrl": "audio/rick-and-morty/096_i_m_peeing_on_your_guns.mp3"
-  },
-  {
-    "text": "I'm Pickle Rick",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/097_i_m_pickle_rick.mp3"
   },
   {
     "text": "I'm Scary Terry",
@@ -491,39 +341,14 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/098_i_m_scary_terry.mp3"
   },
   {
-    "text": "I'm sorry you think you need an apology",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/099_i_m_sorry_you_think_you_need_an_apology.mp3"
-  },
-  {
-    "text": "In Bird Culture",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/100_in_bird_culture.mp3"
-  },
-  {
     "text": "Interdimensional Cable II",
     "character": "",
     "audioUrl": "audio/rick-and-morty/101_interdimensional_cable_ii.mp3"
   },
   {
-    "text": "Is This Organic?",
+    "text": "Is this organic?",
     "character": "",
     "audioUrl": "audio/rick-and-morty/102_is_this_organic.mp3"
-  },
-  {
-    "text": "It was supposed to be a surprise",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/103_it_was_supposed_to_be_a_surprise.mp3"
-  },
-  {
-    "text": "It's your house whatever you say",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/104_it_s_your_house_whatever_you_say.mp3"
-  },
-  {
-    "text": "Join in the poopin?",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/105_join_in_the_poopin.mp3"
   },
   {
     "text": "Judge Morty",
@@ -531,19 +356,9 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/106_judge_morty.mp3"
   },
   {
-    "text": "Just a yes or no",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/107_just_a_yes_or_no.mp3"
-  },
-  {
     "text": "Just stick with me",
     "character": "",
     "audioUrl": "audio/rick-and-morty/108_just_stick_with_me.mp3"
-  },
-  {
-    "text": "Keep Summer Safe",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/109_keep_summer_safe.mp3"
   },
   {
     "text": "King of Shit",
@@ -551,7 +366,7 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/110_king_of_shit.mp3"
   },
   {
-    "text": "Left The Portal Gun at Home",
+    "text": "Left the portal gun at home",
     "character": "",
     "audioUrl": "audio/rick-and-morty/111_left_the_portal_gun_at_home.mp3"
   },
@@ -571,19 +386,9 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/114_let_me_out_dance.mp3"
   },
   {
-    "text": "Let's Do this as a Team",
+    "text": "Let's do this as a team",
     "character": "",
     "audioUrl": "audio/rick-and-morty/115_let_s_do_this_as_a_team.mp3"
-  },
-  {
-    "text": "Lick my balls",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/116_lick_my_balls.mp3"
-  },
-  {
-    "text": "Lil bits",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/117_lil_bits.mp3"
   },
   {
     "text": "Look through my eye holes!",
@@ -611,24 +416,9 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/122_meeting_mr.mp3"
   },
   {
-    "text": "Merry Christmas!",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/123_merry_christmas.mp3"
-  },
-  {
-    "text": "Mind Your Own Business Gene!",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/124_mind_your_own_business_gene.mp3"
-  },
-  {
     "text": "Morty killed the Simpsons",
     "character": "",
     "audioUrl": "audio/rick-and-morty/125_morty_killed_the_simpsons.mp3"
-  },
-  {
-    "text": "Mother F***er",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/126_mother_f_er.mp3"
   },
   {
     "text": "Mr",
@@ -656,22 +446,12 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/131_mr.mp3"
   },
   {
-    "text": "Mr Meeseeks Look at Me",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/132_mr_meeseeks_look_at_me.mp3"
-  },
-  {
     "text": "Mr poopy",
     "character": "",
     "audioUrl": "audio/rick-and-morty/133_mr_poopy.mp3"
   },
   {
-    "text": "My Man",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/134_my_man.mp3"
-  },
-  {
-    "text": "Neo Nazi Attack",
+    "text": "Neo Nazi attack",
     "character": "",
     "audioUrl": "audio/rick-and-morty/135_neo_nazi_attack.mp3"
   },
@@ -691,39 +471,14 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/138_nobody_exists_on_purpose.mp3"
   },
   {
-    "text": "Noob Noob Goddamn First Time",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/139_noob_noob_goddamn_first_time.mp3"
-  },
-  {
-    "text": "Noob Noob Goddamn Second Time",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/140_noob_noob_goddamn_second_time.mp3"
-  },
-  {
     "text": "Noob Noob's first mission",
     "character": "",
     "audioUrl": "audio/rick-and-morty/141_noob_noob_s_first_mission.mp3"
   },
   {
-    "text": "Nothing matters",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/142_nothing_matters.mp3"
-  },
-  {
-    "text": "Now is the Time for Action",
+    "text": "Now is the time for action",
     "character": "",
     "audioUrl": "audio/rick-and-morty/143_now_is_the_time_for_action.mp3"
-  },
-  {
-    "text": "Oh !@",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/144_oh.mp3"
-  },
-  {
-    "text": "Oh and this disappoints you?",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/145_oh_and_this_disappoints_you.mp3"
   },
   {
     "text": "Oh fuck",
@@ -731,19 +486,9 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/146_oh_fuck.mp3"
   },
   {
-    "text": "Oh Jeeze, OK",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/147_oh_jeeze_ok.mp3"
-  },
-  {
     "text": "Oh man, oh jeez",
     "character": "",
     "audioUrl": "audio/rick-and-morty/148_oh_man_oh_jeez.mp3"
-  },
-  {
-    "text": "Oh my god!",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/149_oh_my_god.mp3"
   },
   {
     "text": "Oh no, I'm not wearing any pants!",
@@ -761,27 +506,22 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/152_oh_yeah_i_want_you.mp3"
   },
   {
-    "text": "Oh Yeah! Fight! Pickle Rick!",
+    "text": "Oh yeah! Fight! Pickle Rick!",
     "character": "",
     "audioUrl": "audio/rick-and-morty/153_oh_yeah_fight_pickle_rick.mp3"
   },
   {
-    "text": "Okay, Okay?",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/154_okay_okay.mp3"
-  },
-  {
-    "text": "OMG are you drunk?!",
+    "text": "Oh my god are you drunk?!",
     "character": "",
     "audioUrl": "audio/rick-and-morty/155_omg_are_you_drunk.mp3"
   },
   {
-    "text": "OMG caught wanking it",
+    "text": "Oh my god caught wanking it",
     "character": "",
     "audioUrl": "audio/rick-and-morty/156_omg_caught_wanking_it.mp3"
   },
   {
-    "text": "Ooo Weee Long",
+    "text": "Ooo weee long",
     "character": "",
     "audioUrl": "audio/rick-and-morty/157_ooo_weee_long.mp3"
   },
@@ -791,19 +531,9 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/158_oooweee.mp3"
   },
   {
-    "text": "Pat On The Back",
+    "text": "Pat on the back",
     "character": "",
     "audioUrl": "audio/rick-and-morty/159_pat_on_the_back.mp3"
-  },
-  {
-    "text": "Peace out",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/160_peace_out.mp3"
-  },
-  {
-    "text": "Pickle Rick",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/161_pickle_rick.mp3"
   },
   {
     "text": "Pickle rick",
@@ -811,19 +541,14 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/162_pickle_rick.mp3"
   },
   {
-    "text": "Pickle Rick Escapes the Sewer!",
+    "text": "Pickle Rick escapes the sewer!",
     "character": "",
     "audioUrl": "audio/rick-and-morty/163_pickle_rick_escapes_the_sewer.mp3"
   },
   {
-    "text": "Pickle Rick Transformation",
+    "text": "Pickle Rick transformation",
     "character": "",
     "audioUrl": "audio/rick-and-morty/164_pickle_rick_transformation.mp3"
-  },
-  {
-    "text": "Play Something",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/165_play_something.mp3"
   },
   {
     "text": "Pluto is a planet",
@@ -831,7 +556,7 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/166_pluto_is_a_planet.mp3"
   },
   {
-    "text": "Put Your Burka On",
+    "text": "Put your burka on",
     "character": "",
     "audioUrl": "audio/rick-and-morty/167_put_your_burka_on.mp3"
   },
@@ -851,22 +576,17 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/170_rhetorical_question.mp3"
   },
   {
-    "text": "Rick actually compliments Morty",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/171_rick_actually_compliments_morty.mp3"
-  },
-  {
-    "text": "Rick And Morty",
+    "text": "Rick and Morty",
     "character": "",
     "audioUrl": "audio/rick-and-morty/172_rick_and_morty.mp3"
   },
   {
-    "text": "Rick And Morty",
+    "text": "Rick and Morty",
     "character": "",
     "audioUrl": "audio/rick-and-morty/173_rick_and_morty.mp3"
   },
   {
-    "text": "Rick And Morty",
+    "text": "Rick and Morty",
     "character": "",
     "audioUrl": "audio/rick-and-morty/174_rick_and_morty.mp3"
   },
@@ -876,29 +596,14 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/175_rick_and_morty.mp3"
   },
   {
-    "text": "Rick and Morty ah shit dog",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/176_rick_and_morty_ah_shit_dog.mp3"
-  },
-  {
-    "text": "Rick and Morty i want you",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/177_rick_and_morty_i_want_you.mp3"
-  },
-  {
-    "text": "Rick and Morty red heads",
+    "text": "Red heads",
     "character": "",
     "audioUrl": "audio/rick-and-morty/178_rick_and_morty_red_heads.mp3"
   },
   {
-    "text": "Rick and Morty shit",
+    "text": "Shit",
     "character": "",
     "audioUrl": "audio/rick-and-morty/179_rick_and_morty_shit.mp3"
-  },
-  {
-    "text": "Rick and Morty Aids",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/180_rick_and_morty_aids.mp3"
   },
   {
     "text": "Intro (loud)",
@@ -906,49 +611,34 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/181_rick_and_morty_intro_ear_rape.mp3"
   },
   {
-    "text": "Rick and Morty Leprechaun",
+    "text": "Leprechaun",
     "character": "",
     "audioUrl": "audio/rick-and-morty/182_rick_and_morty_leprechaun.mp3"
   },
   {
-    "text": "Rick And Morty S**t",
+    "text": "S**t",
     "character": "",
     "audioUrl": "audio/rick-and-morty/183_rick_and_morty_s_t.mp3"
   },
   {
-    "text": "Rick And Morty Sad F",
+    "text": "Sad f",
     "character": "",
     "audioUrl": "audio/rick-and-morty/184_rick_and_morty_sad_f.mp3"
   },
   {
-    "text": "Rick and Morty Shake That Ass",
+    "text": "Shake that ass",
     "character": "",
     "audioUrl": "audio/rick-and-morty/185_rick_and_morty_shake_that_ass.mp3"
   },
   {
-    "text": "Rick and Morty Snap Yes",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/186_rick_and_morty_snap_yes.mp3"
-  },
-  {
-    "text": "Rick and morty song",
+    "text": "Song",
     "character": "",
     "audioUrl": "audio/rick-and-morty/187_rick_and_morty_song.mp3"
   },
   {
-    "text": "Evil Morty's Theme",
+    "text": "Evil Morty's theme",
     "character": "",
     "audioUrl": "audio/rick-and-morty/188_rick_and_morty_soundtrack_evil_morty_s_theme_qua.mp3"
-  },
-  {
-    "text": "Yes",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/189_rick_and_morty_yes_better.mp3"
-  },
-  {
-    "text": "Rick Belching Rick and Morty",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/190_rick_belching_rick_and_morty.mp3"
   },
   {
     "text": "Rick Fredie",
@@ -966,22 +656,17 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/193_rick_schwifty.mp3"
   },
   {
-    "text": "Riggity riggity Wreaked Son! Rick and Morty",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/194_riggity_riggity_wreaked_son_rick_and_morty.mp3"
-  },
-  {
-    "text": "Riggity Riggity Wrecked Son",
+    "text": "Riggity riggity wrecked son",
     "character": "",
     "audioUrl": "audio/rick-and-morty/195_riggity_riggity_wrecked_son.mp3"
   },
   {
-    "text": "Rise above Focus on Science",
+    "text": "Rise above focus on science",
     "character": "",
     "audioUrl": "audio/rick-and-morty/196_rise_above_focus_on_science.mp3"
   },
   {
-    "text": "Save it for the Semantics Dome",
+    "text": "Save it for the semantics dome",
     "character": "",
     "audioUrl": "audio/rick-and-morty/197_save_it_for_the_semantics_dome.mp3"
   },
@@ -993,20 +678,15 @@ const quotes = [
   {
     "text": "Scary Terry",
     "character": "",
-    "audioUrl": "audio/rick-and-morty/199_scary_terry.mp3"
-  },
-  {
-    "text": "Scary Terry",
-    "character": "",
     "audioUrl": "audio/rick-and-morty/200_scary_terry.mp3"
   },
   {
-    "text": "Schezwan Sauce Speech - Rick and Morty Season 3",
+    "text": "Schezwan sauce speech - Rick and Morty season 3",
     "character": "",
     "audioUrl": "audio/rick-and-morty/201_schezwan_sauce_speech_rick_and_morty_season_3.mp3"
   },
   {
-    "text": "Screaming Sun - Rick and Morty",
+    "text": "Screaming sun - Rick and Morty",
     "character": "",
     "audioUrl": "audio/rick-and-morty/202_screaming_sun_rick_and_morty.mp3"
   },
@@ -1019,11 +699,6 @@ const quotes = [
     "text": "See this?",
     "character": "",
     "audioUrl": "audio/rick-and-morty/204_see_this.mp3"
-  },
-  {
-    "text": "See you mother f*ckers at the dance!",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/205_see_you_mother_f_ckers_at_the_dance.mp3"
   },
   {
     "text": "Shake that ass",
@@ -1046,17 +721,12 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/209_show_me_what_you_got.mp3"
   },
   {
-    "text": "Singing Cowboy Meme",
+    "text": "Singing cowboy meme",
     "character": "",
     "audioUrl": "audio/rick-and-morty/210_singing_cowboy_meme.mp3"
   },
   {
-    "text": "Six Days Later",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/211_six_days_later.mp3"
-  },
-  {
-    "text": "Songify This R And M",
+    "text": "Songify this R and M",
     "character": "",
     "audioUrl": "audio/rick-and-morty/212_songify_this_r_and_m.mp3"
   },
@@ -1069,16 +739,6 @@ const quotes = [
     "text": "Stop Fighting",
     "character": "",
     "audioUrl": "audio/rick-and-morty/214_stop_fighting.mp3"
-  },
-  {
-    "text": "Stupid dumb bitch",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/215_stupid_dumb_bitch.mp3"
-  },
-  {
-    "text": "Stupid Little Garbage Person",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/216_stupid_little_garbage_person.mp3"
   },
   {
     "text": "Suck my dick",
@@ -1111,19 +771,9 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/222_thank_you.mp3"
   },
   {
-    "text": "Thank You",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/223_thank_you.mp3"
-  },
-  {
     "text": "Thanks Mr",
     "character": "",
     "audioUrl": "audio/rick-and-morty/224_thanks_mr.mp3"
-  },
-  {
-    "text": "That is so sweet!",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/225_that_is_so_sweet.mp3"
   },
   {
     "text": "That's a relief",
@@ -1131,42 +781,27 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/226_that_s_a_relief.mp3"
   },
   {
-    "text": "That's insane",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/227_that_s_insane.mp3"
-  },
-  {
-    "text": "That's retarded",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/228_that_s_retarded.mp3"
-  },
-  {
-    "text": "That's why you want it?",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/229_that_s_why_you_want_it.mp3"
-  },
-  {
-    "text": "The 12 Days of Rickmas",
+    "text": "The 12 days of Rickmas",
     "character": "",
     "audioUrl": "audio/rick-and-morty/230_the_12_days_of_rickmas.mp3"
   },
   {
-    "text": "The Ghost Train Guy Would've Used a Ghost Train",
+    "text": "The ghost train guy would've used a ghost train",
     "character": "",
     "audioUrl": "audio/rick-and-morty/231_the_ghost_train_guy_would_ve_used_a_ghost_train.mp3"
   },
   {
-    "text": "The Mental Breakdown",
+    "text": "The mental breakdown",
     "character": "",
     "audioUrl": "audio/rick-and-morty/232_the_mental_breakdown.mp3"
   },
   {
-    "text": "The Rick Dance",
+    "text": "The Rick dance",
     "character": "",
     "audioUrl": "audio/rick-and-morty/233_the_rick_dance.mp3"
   },
   {
-    "text": "The Rick Dance",
+    "text": "The Rick dance",
     "character": "",
     "audioUrl": "audio/rick-and-morty/234_the_rick_dance.mp3"
   },
@@ -1176,27 +811,12 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/235_this_guys_taking_roy_off_the_grid.mp3"
   },
   {
-    "text": "This holiday is about humanity",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/236_this_holiday_is_about_humanity.mp3"
-  },
-  {
     "text": "This lawyer has made sexual advances on me",
     "character": "",
     "audioUrl": "audio/rick-and-morty/237_this_lawyer_has_made_sexual_advances_on_me.mp3"
   },
   {
-    "text": "This Shit is Delicious",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/238_this_shit_is_delicious.mp3"
-  },
-  {
-    "text": "This Shit is Delicious",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/239_this_shit_is_delicious.mp3"
-  },
-  {
-    "text": "Tiny Rick Hunting a Vampire",
+    "text": "Tiny Rick hunting a vampire",
     "character": "",
     "audioUrl": "audio/rick-and-morty/240_tiny_rick_hunting_a_vampire.mp3"
   },
@@ -1216,34 +836,14 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/243_vasectomy.mp3"
   },
   {
-    "text": "Wait? What?",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/244_wait_what.mp3"
-  },
-  {
     "text": "We are connecting this Christmas!",
     "character": "",
     "audioUrl": "audio/rick-and-morty/245_we_are_connecting_this_christmas.mp3"
   },
   {
-    "text": "We need a vacation",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/246_we_need_a_vacation.mp3"
-  },
-  {
-    "text": "We Need Food When We're Hungry",
+    "text": "We need food when we're hungry",
     "character": "",
     "audioUrl": "audio/rick-and-morty/247_we_need_food_when_we_re_hungry.mp3"
-  },
-  {
-    "text": "We need to go on a quick adventure",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/248_we_need_to_go_on_a_quick_adventure.mp3"
-  },
-  {
-    "text": "We're so screwed",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/249_we_re_so_screwed.mp3"
   },
   {
     "text": "Weeping breakdown",
@@ -1251,14 +851,9 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/250_weeping_breakdown.mp3"
   },
   {
-    "text": "Welcome to Your Nightmare",
+    "text": "Welcome to your nightmare",
     "character": "",
     "audioUrl": "audio/rick-and-morty/251_welcome_to_your_nightmare.mp3"
-  },
-  {
-    "text": "What am I eating?",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/252_what_am_i_eating.mp3"
   },
   {
     "text": "What is my purpose?",
@@ -1266,24 +861,9 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/253_what_is_my_purpose.mp3"
   },
   {
-    "text": "What the hell",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/254_what_the_hell.mp3"
-  },
-  {
-    "text": "What?!",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/255_what.mp3"
-  },
-  {
     "text": "Whatever you say, Stone Cold Steve Austin",
     "character": "",
     "audioUrl": "audio/rick-and-morty/256_whatever_you_say_stone_cold_steve_austin.mp3"
-  },
-  {
-    "text": "Wheeee",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/257_wheeee.mp3"
   },
   {
     "text": "Where am I?!",
@@ -1291,29 +871,9 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/258_where_am_i.mp3"
   },
   {
-    "text": "Where is the Anger Coming From",
+    "text": "Where is the anger coming from",
     "character": "",
     "audioUrl": "audio/rick-and-morty/259_where_is_the_anger_coming_from.mp3"
-  },
-  {
-    "text": "White People Problems",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/260_white_people_problems.mp3"
-  },
-  {
-    "text": "Who the f* are you?",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/261_who_the_f_are_you.mp3"
-  },
-  {
-    "text": "Whoo Wee",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/262_whoo_wee.mp3"
-  },
-  {
-    "text": "Why do you keep doing this to us?",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/263_why_do_you_keep_doing_this_to_us.mp3"
   },
   {
     "text": "Woolly Mammoths",
@@ -1326,24 +886,9 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/265_woopie_loopie_doop_doop.mp3"
   },
   {
-    "text": "Wow! I'm so smart!",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/266_wow_i_m_so_smart.mp3"
-  },
-  {
-    "text": "WUBALUBADUBDUB Rick",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/267_wubalubadubdub_rick.mp3"
-  },
-  {
     "text": "Wubba Lubba Dub Dub I am in great pain",
     "character": "",
     "audioUrl": "audio/rick-and-morty/268_wubba_lubba_dub_dub_i_am_in_great_pain.mp3"
-  },
-  {
-    "text": "Wubba Lubba Dub Dub Rick and Morty",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/269_wubba_lubba_dub_dub_rick_and_morty.mp3"
   },
   {
     "text": "Wubba Lubba Dub Dub",
@@ -1351,7 +896,7 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/270_wubba_lubba_dub_dub.mp3"
   },
   {
-    "text": "Wubba Lubba Dub Dub Fart",
+    "text": "Wubba Lubba Dub Dub fart",
     "character": "",
     "audioUrl": "audio/rick-and-morty/271_wubba_lubba_dub_dub_fart.mp3"
   },
@@ -1361,17 +906,7 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/272_x_gon_give_it_to_ya.mp3"
   },
   {
-    "text": "Yeah! You know it, dog!",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/273_yeah_you_know_it_dog.mp3"
-  },
-  {
-    "text": "Yes. Yes. Yes",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/274_yes_yes_yes.mp3"
-  },
-  {
-    "text": "You Aren't Special",
+    "text": "You aren't special",
     "character": "",
     "audioUrl": "audio/rick-and-morty/275_you_aren_t_special.mp3"
   },
@@ -1381,19 +916,9 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/276_you_can_be_very_inconsiderate_sometimes.mp3"
   },
   {
-    "text": "You can run, but you can't hide",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/277_you_can_run_but_you_can_t_hide.mp3"
-  },
-  {
-    "text": "You F*cked with Squirrels!",
+    "text": "You f*cked with squirrels!",
     "character": "",
     "audioUrl": "audio/rick-and-morty/278_you_f_cked_with_squirrels.mp3"
-  },
-  {
-    "text": "You Have the Right to Kiss My Dick",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/279_you_have_the_right_to_kiss_my_dick.mp3"
   },
   {
     "text": "You're both pieces of shit, I can prove it mathematically",
@@ -1406,23 +931,8 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/281_you_re_killing_the_vibe_in_here.mp3"
   },
   {
-    "text": "Your opinion means very little to me",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/282_your_opinion_means_very_little_to_me.mp3"
-  },
-  {
-    "text": "Your The reason this species is a failure",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/283_your_the_reason_this_species_is_a_failure.mp3"
-  },
-  {
     "text": "3 Weeks Earlier",
     "character": "",
     "audioUrl": "audio/rick-and-morty/284_3_weeks_earlier.mp3"
-  },
-  {
-    "text": "::Sigh::",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/285_sigh.mp3"
   }
 ];

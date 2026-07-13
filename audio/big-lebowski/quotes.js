@@ -211,7 +211,7 @@ const quotes = [
     "audioUrl": "audio/big-lebowski/042_look_at_our_current_situation_with_that_camel_fucker_in_iraq.mp3"
   },
   {
-    "text": "Stay out of Malibu, Deadbeat",
+    "text": "Stay out of Malibu, deadbeat",
     "character": "",
     "audioUrl": "audio/big-lebowski/043_malibu_police_chief_lions_club_award_on_his_wall_stay_out_of.mp3"
   },

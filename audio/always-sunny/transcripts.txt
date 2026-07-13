@@ -6,16 +6,12 @@
   "A leather shop in Arizona"
   CHARACTER: 
 
-003_ah_shit.mp3
-  "Ah shit"
-  CHARACTER: 
-
 004_ah_so_you_come_crawling_back_you_cheap_sack_of_shit.mp3
   "You cheap sack of shit"
   CHARACTER: 
 
 005_ahhhh.mp3
-  "AHHHH!"
+  "Ahhhh!"
   CHARACTER: 
 
 006_aids_in_the_pool.mp3
@@ -26,44 +22,12 @@
   "Aww did somebody get addicted to crack"
   CHARACTER: 
 
-008_because_of_the_implication.mp3
-  "Because of the implication"
-  CHARACTER: 
-
-009_because_of_the_implication.mp3
-  "Because of the implication"
-  CHARACTER: 
-
-010_begone_vile_man_begone_from_me.mp3
-  "Begone vile man, begone from me"
-  CHARACTER: 
-
 011_best_goddamn_bird_lawyer_in_the_world.mp3
   "Best goddamn bird lawyer in the world"
   CHARACTER: 
 
-012_big_time_don_t_be_jelly.mp3
-  "Big time, don't be jelly"
-  CHARACTER: 
-
-013_bitch.mp3
-  "Bitch"
-  CHARACTER: 
-
-014_bitch.mp3
-  "Bitch"
-  CHARACTER: 
-
 015_boys_are_out_tonight_huh.mp3
   "Boys are out tonight, huh?"
-  CHARACTER: 
-
-016_bullshit.mp3
-  "Bullshit"
-  CHARACTER: 
-
-017_but_you_don_t_really_know_what_hot_is_do_you.mp3
-  "But you don't really know what hot is do you?"
   CHARACTER: 
 
 018_can_i_offer_you_an_egg_in_this_trying_time.mp3
@@ -79,11 +43,7 @@
   CHARACTER: 
 
 021_charlie_s_butt_dance.mp3
-  "Charlie's Butt Dance"
-  CHARACTER: 
-
-022_charlie_s_stress.mp3
-  "Charlie's Stress"
+  "Charlie's butt dance"
   CHARACTER: 
 
 023_charlie_s_teeth.mp3
@@ -95,11 +55,11 @@
   CHARACTER: 
 
 025_d_gets_stage_fright.mp3
-  "D Gets Stage Fright"
+  "D gets stage fright"
   CHARACTER: 
 
 026_day_bow_bow.mp3
-  "Day Bow Bow"
+  "Day bow bow"
   CHARACTER: 
 
 027_day_man_vs_night_man.mp3
@@ -111,11 +71,7 @@
   CHARACTER: 
 
 029_dennis_choking_maureen_ponderosa.mp3
-  "Dennis Choking Maureen Ponderosa"
-  CHARACTER: 
-
-030_derivative.mp3
-  "Derivative"
+  "Dennis choking Maureen Ponderosa"
   CHARACTER: 
 
 031_did_you_bang_my_wife_did_you_bang_my_poor_wife_does_anybody.mp3
@@ -146,16 +102,12 @@
   "Ever been in a storm, Wally?"
   CHARACTER: 
 
-038_facepalm.mp3
-  "Facepalm"
-  CHARACTER: 
-
 039_fight_milk.mp3
   "Fight milk"
   CHARACTER: 
 
 040_flip_flip_flipadelphia.mp3
-  "Flip, Flip, Flipadelphia!"
+  "Flip, flip, Flipadelphia!"
   CHARACTER: 
 
 041_frank_loses_the_rum_ham.mp3
@@ -163,15 +115,11 @@
   CHARACTER: 
 
 042_fuck_off.mp3
-  "FUCK OFF"
+  "Fuck off"
   CHARACTER: 
 
 043_getting_hammered.mp3
   "Getting HAMmered"
-  CHARACTER: 
-
-044_give_me_one_up_here.mp3
-  "Give Me One Up Here"
   CHARACTER: 
 
 045_go_fuck_yourselves.mp3
@@ -180,10 +128,6 @@
 
 046_go_go_go.mp3
   "Go, go, go!"
-  CHARACTER: 
-
-047_god_damn_it.mp3
-  "God damn it"
   CHARACTER: 
 
 048_god_damn_it_i_got_milk_all_over_me.mp3
@@ -202,10 +146,6 @@
   "Good night bitch"
   CHARACTER: 
 
-052_gotta_be_no_dawg.mp3
-  "Gotta be no dawg"
-  CHARACTER: 
-
 053_hand_sanitizer.mp3
   "Hand sanitizer"
   CHARACTER: 
@@ -219,11 +159,7 @@
   CHARACTER: 
 
 056_here_let_me_try.mp3
-  "Here Let Me Try"
-  CHARACTER: 
-
-057_here_s_your_toll_troll.mp3
-  "Here's your toll, troll"
+  "Here let me try"
   CHARACTER: 
 
 058_heyoo_what_s_up_bitches.mp3
@@ -234,24 +170,12 @@
   "Hockey legends"
   CHARACTER: 
 
-060_hot_one_today_huh.mp3
-  "Hot one today, huh?"
-  CHARACTER: 
-
 061_how_am_i_supposed_to_respond_to_that.mp3
   "How am I supposed to respond to that?"
   CHARACTER: 
 
 062_how_are_guys_suppose_to_make_friends.mp3
   "How are guys suppose to make friends"
-  CHARACTER: 
-
-063_how_do_i_look_handsome.mp3
-  "How do I look? Handsome?"
-  CHARACTER: 
-
-064_how_do_you_stickers_all_the_time_dude_god.mp3
-  "How do you stickers all the time dude god"
   CHARACTER: 
 
 065_how_much_cheese_is_too_much_cheese_before_a_date.mp3
@@ -298,20 +222,12 @@
   "Express myself through anger"
   CHARACTER: 
 
-076_i_don_t_think_there_s_anything_in_the_laws_of_nature_that_wo.mp3
-  "The laws of nature"
-  CHARACTER: 
-
 077_i_feel_like_you_re_saying_you_get_it_but_you_don_t_get_it.mp3
   "You don't get it"
   CHARACTER: 
 
 078_i_gave_him_an_occular_pat_down.mp3
   "I gave him an occular pat down"
-  CHARACTER: 
-
-079_i_gotta_dig_a_little_depper.mp3
-  "I gotta dig a little depper"
   CHARACTER: 
 
 080_i_haven_t_even_begun_to_peak.mp3
@@ -331,7 +247,7 @@
   CHARACTER: 
 
 084_i_won_t_change_my_mind.mp3
-  "I Won't Change My Mind"
+  "I won't change my mind"
   CHARACTER: 
 
 085_i_won_t_change_my_mind_on_anything_regardless_of_the_facts_t.mp3
@@ -342,20 +258,8 @@
   "I'd like some welfare please"
   CHARACTER: 
 
-087_i_ll_allow_it.mp3
-  "I'll Allow it"
-  CHARACTER: 
-
 088_i_m_a_swedish_plumber_i_m_here_to_fix_your_pipes_that_s_good.mp3
   "Swedish plumber, fix your pipes"
-  CHARACTER: 
-
-089_i_m_eating_because_i_m_very_uncomfortable.mp3
-  "I'm eating because i'm very uncomfortable"
-  CHARACTER: 
-
-090_i_m_fat.mp3
-  "I'm fat"
   CHARACTER: 
 
 091_i_m_gonna_whip_this_little_bitch_in_the_face.mp3
@@ -363,15 +267,7 @@
   CHARACTER: 
 
 092_i_m_gunna_get_real_weird_with_it.mp3
-  "I'm Gunna Get Real Weird With It"
-  CHARACTER: 
-
-093_i_m_just_the_best_god_damn_bird_lawyer_in_the_world.mp3
-  "Best bird lawyer in the world"
-  CHARACTER: 
-
-094_i_m_sorry_i_m_just_playing.mp3
-  "I'm sorry i'm just playing"
+  "I'm gunna get real weird with it"
   CHARACTER: 
 
 095_i_m_starting_to_swell_up.mp3
@@ -418,10 +314,6 @@
   "Later dudes"
   CHARACTER: 
 
-106_look_at_me_when_you_re_talking_to_me.mp3
-  "Look at me when you're talking to me!"
-  CHARACTER: 
-
 107_look_at_me_when_you_re_talking_to_me.mp3
   "Look at me when you're talking to me!"
   CHARACTER: 
@@ -443,7 +335,7 @@
   CHARACTER: 
 
 112_meow.mp3
-  "MEOW"
+  "Meow"
   CHARACTER: 
 
 113_milk_steak.mp3
@@ -470,20 +362,12 @@
   "Never seen a more embarrassing display"
   CHARACTER: 
 
-119_news_flash_asshole.mp3
-  "News flash asshole"
-  CHARACTER: 
-
 120_night_crawlers.mp3
   "Night Crawlers"
   CHARACTER: 
 
 121_no_one_s_in_any_danger_it_s_an_implication_of_danger.mp3
   "No one's in any danger, it's an implication of danger"
-  CHARACTER: 
-
-122_no_you_son_of_a_b_tch.mp3
-  "No, You Son of a B*tch"
   CHARACTER: 
 
 123_nobody_look.mp3
@@ -494,20 +378,12 @@
   "Nooooooo"
   CHARACTER: 
 
-125_nope.mp3
-  "Nope"
-  CHARACTER: 
-
 126_oh_oh_ah.mp3
   "Oh oh ah"
   CHARACTER: 
 
 127_oh_sandra_you_dumb_bitch.mp3
-  "Oh Sandra You Dumb Bitch"
-  CHARACTER: 
-
-128_oh_woops.mp3
-  "Oh woops"
+  "Oh Sandra you dumb bitch"
   CHARACTER: 
 
 129_ooooooooh_shit.mp3
@@ -519,7 +395,7 @@
   CHARACTER: 
 
 131_pepe_silvia_carol_rant.mp3
-  "Pepe Silvia Carol Rant"
+  "Pepe Silvia Carol rant"
   CHARACTER: 
 
 132_politics_is_one_big_ass_blasting.mp3
@@ -530,10 +406,6 @@
   "Poop is funny"
   CHARACTER: 
 
-134_pretty_boys_and_girls_because_he_is_very_kids_good.mp3
-  "Pretty boys and girls because he is very kids good"
-  CHARACTER: 
-
 135_pussy.mp3
   "Pussy!"
   CHARACTER: 
@@ -542,16 +414,8 @@
   "Put your hands on top of mine"
   CHARACTER: 
 
-137_reason_will_prevail.mp3
-  "Reason will prevail"
-  CHARACTER: 
-
 138_reason_will_prevail.mp3
   "Reason will prevail!"
-  CHARACTER: 
-
-139_relaxing_and_getting_blackout_drunk.mp3
-  "Relaxing and getting blackout drunk"
   CHARACTER: 
 
 140_road_rage.mp3
@@ -560,10 +424,6 @@
 
 141_road_rage.mp3
   "Road Rage"
-  CHARACTER: 
-
-142_rum_ham.mp3
-  "Rum ham"
   CHARACTER: 
 
 143_rum_ham_rescue.mp3
@@ -578,20 +438,8 @@
   "Science is a liar .."
   CHARACTER: 
 
-146_science_is_a_liar_sometimes.mp3
-  "Science is a liar sometimes"
-  CHARACTER: 
-
 147_season_12_finale_dance.mp3
-  "Season 12 Finale Dance"
-  CHARACTER: 
-
-148_shabooya_roka.mp3
-  "Shabooya roka"
-  CHARACTER: 
-
-149_shut_up_baby_dick.mp3
-  "Shut up, baby dick"
+  "Season 12 finale dance"
   CHARACTER: 
 
 150_shut_up.mp3
@@ -599,15 +447,11 @@
   CHARACTER: 
 
 151_shut_up_shut_up_oh_my_god_i_don_t_care.mp3
-  "Shut up! Shut up! Oh My God I don't care"
+  "Shut up! Shut up! Oh my God I don't care"
   CHARACTER: 
 
 152_sickness_be_gone.mp3
-  "Sickness Be Gone"
-  CHARACTER: 
-
-153_silence.mp3
-  "Silence"
+  "Sickness be gone"
   CHARACTER: 
 
 154_slow_clap.mp3
@@ -615,7 +459,7 @@
   CHARACTER: 
 
 155_smitty_s_butt_dance.mp3
-  "Smitty's Butt Dance"
+  "Smitty's butt dance"
   CHARACTER: 
 
 156_smooth_very_smooth_classy.mp3
@@ -642,20 +486,8 @@
   "Tell me I'm good"
   CHARACTER: 
 
-162_that_bitch_is_dead.mp3
-  "That bitch is dead"
-  CHARACTER: 
-
 163_that_i_love_i_absolutely_love.mp3
   "That I love. I absolutely love"
-  CHARACTER: 
-
-164_that_s_a_false_equivalence.mp3
-  "That's a false equivalence"
-  CHARACTER: 
-
-165_that_s_how_you_get_off.mp3
-  "That's how you get off"
   CHARACTER: 
 
 166_the_ass_pounder_4000.mp3
@@ -671,11 +503,7 @@
   CHARACTER: 
 
 169_the_gang_harmonizes.mp3
-  "The Gang Harmonizes"
-  CHARACTER: 
-
-170_the_golden_god.mp3
-  "The golden god"
+  "The gang harmonizes"
   CHARACTER: 
 
 171_the_music_will_come.mp3
@@ -683,7 +511,7 @@
   CHARACTER: 
 
 172_the_paint_is_for_the_beer.mp3
-  "The Paint Is For The Beer"
+  "The paint is for the beer"
   CHARACTER: 
 
 173_the_trash_man.mp3
@@ -703,15 +531,11 @@
   CHARACTER: 
 
 177_this_isn_t_over_til_i_say_it_is_over.mp3
-  "This Isn't Over Til I Say It Is Over!"
+  "This isn't over til I say it is over!"
   CHARACTER: 
 
 178_three_strikes_and_you_re_out.mp3
   "Three strikes and you're out"
-  CHARACTER: 
-
-179_thumbs_up.mp3
-  "Thumbs Up"
   CHARACTER: 
 
 180_tools.mp3
@@ -727,7 +551,7 @@
   CHARACTER: 
 
 183_trivia_baby.mp3
-  "TRIVIA BABY"
+  "Trivia baby"
   CHARACTER: 
 
 184_troll_toll_chorus.mp3
@@ -744,10 +568,6 @@
 
 187_unzipped.mp3
   "Unzipped"
-  CHARACTER: 
-
-188_we_have_to_quarantine_ourselves.mp3
-  "We have to quarantine ourselves"
   CHARACTER: 
 
 189_we_need_to_honor_st.mp3
@@ -770,32 +590,8 @@
   "My monster condom"
   CHARACTER: 
 
-194_what_is_your_spaghetti_policy_here.mp3
-  "What is your spaghetti policy here?"
-  CHARACTER: 
-
-195_whatever_you_bitch.mp3
-  "Whatever, you bitch!"
-  CHARACTER: 
-
-196_where_is_our_god_damn_bible.mp3
-  "Where is our god damn bible"
-  CHARACTER: 
-
-197_whip_this_bitch_in_the_face.mp3
-  "Whip this bitch in the face"
-  CHARACTER: 
-
 198_whoops_i_dropped_my_monster_condom_that_i_use_for_my_magnum.mp3
   "Dropped my monster condom"
-  CHARACTER: 
-
-199_why_i_oughta.mp3
-  "Why I Oughta"
-  CHARACTER: 
-
-200_why_you_look_so_stupid.mp3
-  "Why you look so stupid?"
   CHARACTER: 
 
 201_wild_card_bitches_yeehaw.mp3
@@ -806,28 +602,12 @@
   "Wildcard Bitches!"
   CHARACTER: 
 
-203_wtf_is_that_supposed_to_mean.mp3
-  "WTF is that supposed to mean?"
-  CHARACTER: 
-
-204_yeah.mp3
-  "Yeah?!"
-  CHARACTER: 
-
 205_yeeeeessssssss.mp3
   "Yeeeeessssssss"
   CHARACTER: 
 
 206_yeeeeessssssssssss.mp3
   "Yeeeeessssssssssss"
-  CHARACTER: 
-
-207_yesss.mp3
-  "Yesss!"
-  CHARACTER: 
-
-208_you_dumb_bitch.mp3
-  "You Dumb Bitch"
   CHARACTER: 
 
 209_you_eat_my_boogers.mp3
@@ -842,14 +622,6 @@
   "A piece of shit in politics"
   CHARACTER: 
 
-212_you_know_for_the_sherlock_holmes_look.mp3
-  "You know for the sherlock holmes look"
-  CHARACTER: 
-
-213_you_know_what_it_is_bitch.mp3
-  "You know what it is bitch"
-  CHARACTER: 
-
 214_you_must_excuse_maine.mp3
   "You must excuse maine"
   CHARACTER: 
@@ -860,16 +632,4 @@
 
 216_you_re_gonna_die_tonight.mp3
   "You're gonna die tonight"
-  CHARACTER: 
-
-217_you_re_gonna_quarantine_me_inside_a_quarantine.mp3
-  "You're gonna quarantine me inside a quarantine?"
-  CHARACTER: 
-
-218_you_re_so_stupid.mp3
-  "You're so stupid"
-  CHARACTER: 
-
-219_your_breath_is_dog_shit.mp3
-  "Your breath is dog shit"
   CHARACTER: 

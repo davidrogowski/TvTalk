@@ -107,7 +107,7 @@
   CHARACTER: 
 
 680_i_know_what_you_re_thinking_angry_black_captain_it_ain_t_not.mp3
-  "Angry Black Captain"
+  "Angry black captain"
   CHARACTER: 
 
 695_i_mean_it_looks_like_i_died_in_a_car_crash_and_you_guys_have.mp3
@@ -231,7 +231,7 @@
   CHARACTER: 
 
 1521_the_three_keys_of_coolness_in_high_school_by_jenko_one_don_t.mp3
-  "Three Keys of Coolness"
+  "Three keys of coolness"
   CHARACTER: 
 
 1523_the_track_star_and_this_is_brad_the_science_prodigy.mp3

@@ -14,16 +14,8 @@
   "I'm just going to stop going"
   CHARACTER: 
 
-006_are_you_any_relation_to_the_pop_singer.mp3
-  "Are you any relation to the pop singer"
-  CHARACTER: 
-
 007_asking_some_questions_maybe_seeing_if_there_are_some_ways_we.mp3
   "Make things run more smoothly"
-  CHARACTER: 
-
-008_back_up_in_your_ass_with_the_resurrection.mp3
-  "Back up in your ass with the resurrection"
   CHARACTER: 
 
 011_but_i_i_will_try_that_i_could_listen_to_the_radio_at_a_reaso.mp3
@@ -42,16 +34,8 @@
   "Damn it feels good to be a gangsta"
   CHARACTER: 
 
-015_did_you_get_that_memo.mp3
-  "Did you get that memo?"
-  CHARACTER: 
-
 016_did_you_see_the_memo.mp3
   "Did you see the memo?"
-  CHARACTER: 
-
-017_didn_t_you_get_that_memo.mp3
-  "Didn't you get that memo?"
   CHARACTER: 
 
 021_excuse_me_lights_out.mp3
@@ -78,10 +62,6 @@
   "You slept with him"
   CHARACTER: 
 
-035_hey_look_who_s_bad.mp3
-  "Hey look who's bad"
-  CHARACTER: 
-
 036_hey_peter_man_check_out_channel_9.mp3
   "Hey Peter Man! Check out Channel 9!"
   CHARACTER: 
@@ -106,12 +86,8 @@
   "I don't know why I can't just"
   CHARACTER: 
 
-044_i_found_the_first_one_laid_off.mp3
-  "I found the first one laid off"
-  CHARACTER: 
-
 045_i_had_an_idea_like_that.mp3
-  "I Had An Idea Like That"
+  "I had an idea like that"
   CHARACTER: 
 
 046_i_hate_this_job_he_hated_doug_him_drop_it_i_don_t_need_it.mp3
@@ -138,28 +114,8 @@
   "He might be able to help"
   CHARACTER: 
 
-052_i_think_the_building_is_on_fire.mp3
-  "I think the building is on fire,"
-  CHARACTER: 
-
-053_i_told_us_fudge_packers_are_like_michael_bolton_s_music.mp3
-  "Like Michael Bolton's music"
-  CHARACTER: 
-
-054_i_ll_go_ahead_and_make_sure_you_get_another_copy_that_memo.mp3
-  "Another copy of that memo"
-  CHARACTER: 
-
-055_i_m_a_michael_bolton_fan.mp3
-  "I'm a Michael Bolton fan"
-  CHARACTER: 
-
 056_i_m_also_going_to_need_to_go_ahead_and_come_in_on_sunday.mp3
   "Come in on Sunday"
-  CHARACTER: 
-
-057_i_m_going_to_have_to_go_ahead_and_sort_of_disagree_with_you.mp3
-  "I'm gonna disagree with you there"
   CHARACTER: 
 
 058_i_m_going_to_need_you_to_go_ahead_and_come_in_tomorrow.mp3
@@ -174,20 +130,12 @@
   "I'm talking out of my ass"
   CHARACTER: 
 
-061_i_ve_been_a_real_asshole.mp3
-  "I've been a real asshole"
-  CHARACTER: 
-
 062_if_you_could_just_go_ahead_and_make_sure_you_do_that_from_no.mp3
   "That would be great"
   CHARACTER: 
 
 063_is_a_problem_of_motivation_all_right_now_if_i_work_my_ass_of.mp3
   "Where's the motivation?"
-  CHARACTER: 
-
-064_is_this_good_for_the_company.mp3
-  "Is this good for the company"
   CHARACTER: 
 
 065_it_s_not_that_i_m_lazy_it_s_that_i_just_don_t_care.mp3
@@ -199,7 +147,7 @@
   CHARACTER: 
 
 068_made_a_million_dollars.mp3
-  "Made a Million Dollars"
+  "Made a million dollars"
   CHARACTER: 
 
 071_next_friday_is_hawaiian_shirt_day.mp3
@@ -207,19 +155,7 @@
   CHARACTER: 
 
 072_no_talent_ass_clown.mp3
-  "No Talent Ass Clown"
-  CHARACTER: 
-
-073_no_way_what_should_i_change_the_one_who_suck.mp3
-  "No way what should I change the one who suck"
-  CHARACTER: 
-
-075_now_it_s_just_a_coincidence.mp3
-  "Now it's just a coincidence"
-  CHARACTER: 
-
-077_oh_and_i_almost_forgot.mp3
-  "Oh and I almost forgot"
+  "No talent ass clown"
   CHARACTER: 
 
 078_oh_and_remember_next_friday_is_hawaiian_shirt_day.mp3
@@ -247,11 +183,7 @@
   CHARACTER: 
 
 088_put_up_with_all_this_shit.mp3
-  "Put Up With All This Shit"
-  CHARACTER: 
-
-089_question_is_bullshit_to_begin_with.mp3
-  "Question is bullshit to begin with"
+  "Put up with all this shit"
   CHARACTER: 
 
 090_quit_getting_pissed_at_me_alright_this_is_all_your_idea_assh.mp3
@@ -282,20 +214,12 @@
   "Be here around nine"
   CHARACTER: 
 
-099_so_what_we_re_all_screwed_that_s_watch.mp3
-  "So what we're all screwed that's watch"
-  CHARACTER: 
-
 100_so_you_gonna_get_another_job_i_don_t_think_i_d_like_another.mp3
   "I don't want another job"
   CHARACTER: 
 
 101_so_you_know_if_you_want_to_go_ahead_and.mp3
   "So you know if you want to go ahead and"
-  CHARACTER: 
-
-102_so_you_should_ask_yourself.mp3
-  "So you should ask yourself"
   CHARACTER: 
 
 103_someone_has_a_case_of_the_monday_s.mp3
@@ -318,20 +242,8 @@
   "Sounds like somebody's got a case of the Mondays"
   CHARACTER: 
 
-111_that_sounds_good_peter.mp3
-  "That sounds good peter"
-  CHARACTER: 
-
-112_that_would_be_great_mmm_k.mp3
-  "That Would be Great, Mmm K"
-  CHARACTER: 
-
 113_that_s_the_last_straw.mp3
   "That's the last straw"
-  CHARACTER: 
-
-114_the_fuck_is_that_mean.mp3
-  "The fuck is that mean"
   CHARACTER: 
 
 115_the_minimum_security_prison_is_no_picnic_have_a_client_in_th.mp3
@@ -344,10 +256,6 @@
 
 118_two_chicks_at_the_same_time.mp3
   "Two chicks at the same time"
-  CHARACTER: 
-
-123_watch_out_for_your_cornhole_bud.mp3
-  "Watch out for your cornhole bud"
   CHARACTER: 
 
 124_we_fixed_the_glitch.mp3
@@ -374,10 +282,6 @@
   "Well i'm just not sure about that right now"
   CHARACTER: 
 
-132_what_am_i_going_to_do_with_forty_subscriptions_divide.mp3
-  "What am I going to do with forty subscriptions divide"
-  CHARACTER: 
-
 133_what_happened_i_flipped_off_my_boss.mp3
   "What happened I flipped off my boss"
   CHARACTER: 
@@ -386,12 +290,8 @@
   "What if we're still doing this when we're fifty"
   CHARACTER: 
 
-135_what_is_the_worst_idea_i_ve_ever_heard_in_my_life.mp3
-  "The worst idea ever"
-  CHARACTER: 
-
 136_what_the_hell_is_wrong_with_you_people.mp3
-  "What the Hell is Wrong With You People"
+  "What the hell is wrong with you people"
   CHARACTER: 
 
 137_what_what_would_you_say.mp3
@@ -400,10 +300,6 @@
 
 138_what_would_ya_say_ya_do_here.mp3
   "What would ya say ya do here?"
-  CHARACTER: 
-
-139_what_would_you_do_if_you_had_a_million_dollars.mp3
-  "What would you do if you had a million dollars"
   CHARACTER: 
 
 140_what_you_sent_me_but_what_if_you_were_offered_some_kind_of_s.mp3
@@ -422,10 +318,6 @@
   "Yeah exactly what I need"
   CHARACTER: 
 
-148_yeah_this_is_horrible_this_idea.mp3
-  "Yeah this is horrible this idea"
-  CHARACTER: 
-
 149_yeah_well_i_m_just_not_sure_about_that_right_now.mp3
   "Yeah well i'm just not sure about that right now"
   CHARACTER: 
@@ -436,10 +328,6 @@
 
 151_you_apparently_didn_t_put_one_of_the_new_cover_sheets_on_you.mp3
   "Cover sheets on TPS reports"
-  CHARACTER: 
-
-152_you_do_want_to_express_yourself_don_t_you.mp3
-  "You do want to express yourself, don't you?"
   CHARACTER: 
 
 153_you_know_the_nazis_had_pieces_of_flair_that_they_made_the_je.mp3
@@ -478,10 +366,6 @@
   "Two chicks at the same time"
   CHARACTER: 
 
-163_but_that_takes_a_double_up_on_a_dude_like_me_do.mp3
-  "A dude like me"
-  CHARACTER: 
-
 164_but_you_don_t_want_that_peter_man_s_toasted_maine.mp3
   "But you don't want that peter man 's toasted maine"
   CHARACTER: 
@@ -502,20 +386,8 @@
   "Hey peter yeah watch out for a cornhole bud"
   CHARACTER: 
 
-170_hey_she_had_been_over_here_in_a_while_you_two_still_going_up.mp3
-  "You two still going?"
-  CHARACTER: 
-
 171_i_don_t_know_man_i_just_get_that_feeling_looking_at_her_like.mp3
   "I get that feeling"
-  CHARACTER: 
-
-172_i_m_sorry_man_i_thought_you_want_to_see_this.mp3
-  "I'm sorry man I thought you want to see this"
-  CHARACTER: 
-
-173_it_s_a_bummer_dude_could_have_seen.mp3
-  "It's a bummer dude could have seen"
   CHARACTER: 
 
 176_no_thanks_man_i_don_t_want_you_fucking_up_my_life_do.mp3
@@ -526,34 +398,6 @@
   "Up at six AM"
   CHARACTER: 
 
-178_oh_sorry_man_an_over_there_some.mp3
-  "Oh sorry man an over there some"
-  CHARACTER: 
-
 179_shit_no_man_i_believe_you_get_your_ass_kicked_saying_so_much.mp3
   "You'll get your ass kicked"
-  CHARACTER: 
-
-180_tell_me_about_it_man.mp3
-  "Tell me about it man"
-  CHARACTER: 
-
-181_that_s_alright_i_got_it.mp3
-  "That's alright I got it"
-  CHARACTER: 
-
-182_then_i_check_look_like_a_yeah.mp3
-  "Then I check look like a yeah"
-  CHARACTER: 
-
-183_we_still_going_fishing_this_weekend.mp3
-  "We still going fishing this weekend"
-  CHARACTER: 
-
-184_yeah_i_get_that_feeling_too_man.mp3
-  "Yeah I get that feeling too man"
-  CHARACTER: 
-
-185_yeah_i_m_doing_the_drywall_up_there_at_the_new_mcdonald_s.mp3
-  "Drywall at the new McDonald's"
   CHARACTER: 

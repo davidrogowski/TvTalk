@@ -26,11 +26,6 @@ const quotes = [
     "audioUrl": "audio/role-models/006_and_this_motherfucker_tried_to_grab_on_my_hang_down.mp3"
   },
   {
-    "text": "Aren't you dead yet?",
-    "character": "",
-    "audioUrl": "audio/role-models/009_aren_t_you_dead_yet.mp3"
-  },
-  {
     "text": "He rules the entire realm",
     "character": "",
     "audioUrl": "audio/role-models/012_because_he_s_the_king_and_he_rules_the_entire_realm.mp3"
@@ -46,11 +41,6 @@ const quotes = [
     "audioUrl": "audio/role-models/016_but_i_can_t_come_home_right_now.mp3"
   },
   {
-    "text": "But I don't care",
-    "character": "",
-    "audioUrl": "audio/role-models/017_but_i_don_t_care.mp3"
-  },
-  {
     "text": "Cacedonia rules forever!",
     "character": "",
     "audioUrl": "audio/role-models/018_cacedonia_is_to_rule_forever.mp3"
@@ -59,16 +49,6 @@ const quotes = [
     "text": "Give us a story",
     "character": "",
     "audioUrl": "audio/role-models/021_come_on_man_we_re_on_pins_and_needles_give_us_a_story.mp3"
-  },
-  {
-    "text": "Come on. Sing it!",
-    "character": "",
-    "audioUrl": "audio/role-models/025_come_on_sing_it.mp3"
-  },
-  {
-    "text": "Danny, you're not happy",
-    "character": "",
-    "audioUrl": "audio/role-models/028_danny_you_re_not_happy.mp3"
   },
   {
     "text": "Drugs bad, energy drinks good",
@@ -101,16 +81,6 @@ const quotes = [
     "audioUrl": "audio/role-models/051_he_knows_not_i_m_here.mp3"
   },
   {
-    "text": "Hey, man!",
-    "character": "",
-    "audioUrl": "audio/role-models/054_hey_man.mp3"
-  },
-  {
-    "text": "Or as little time",
-    "character": "",
-    "audioUrl": "audio/role-models/056_hey_or_as_little_time.mp3"
-  },
-  {
     "text": "Sort of into politics",
     "character": "",
     "audioUrl": "audio/role-models/057_hillary_clinton_i_m_sort_of_into_politics.mp3"
@@ -119,11 +89,6 @@ const quotes = [
     "text": "How many hours left?",
     "character": "",
     "audioUrl": "audio/role-models/061_how_many_hours_do_we_have_left.mp3"
-  },
-  {
-    "text": "Stop yapping away",
-    "character": "",
-    "audioUrl": "audio/role-models/064_i_can_t_take_it_anymore_with_you_yapping_away.mp3"
   },
   {
     "text": "I have a question, Wheeler",
@@ -161,11 +126,6 @@ const quotes = [
     "audioUrl": "audio/role-models/086_i_m_not_wheeler_happy_in_some_brainless_job.mp3"
   },
   {
-    "text": "Race against the clock",
-    "character": "",
-    "audioUrl": "audio/role-models/096_it_s_the_ultimate_race_against_the_clock.mp3"
-  },
-  {
     "text": "Put your game face on",
     "character": "",
     "audioUrl": "audio/role-models/098_just_put_your_game_face_on.mp3"
@@ -174,11 +134,6 @@ const quotes = [
     "text": "Kiss? Are you kidding?",
     "character": "",
     "audioUrl": "audio/role-models/100_kiss_are_you_kidding_no_god.mp3"
-  },
-  {
-    "text": "Long live the king",
-    "character": "",
-    "audioUrl": "audio/role-models/107_long_live_the_king.mp3"
   },
   {
     "text": "Magic healing potion",
@@ -196,11 +151,6 @@ const quotes = [
     "audioUrl": "audio/role-models/114_my_fair_lady_esplen_goddess_of_navalore.mp3"
   },
   {
-    "text": "Don't mean to cause trouble",
-    "character": "",
-    "audioUrl": "audio/role-models/118_no_no_no_i_don_t_mean_to_cause_trouble.mp3"
-  },
-  {
     "text": "Oh yeah, I got it",
     "character": "",
     "audioUrl": "audio/role-models/123_no_wait_oh_yeah_i_got_it.mp3"
@@ -216,49 +166,14 @@ const quotes = [
     "audioUrl": "audio/role-models/133_oh_i_m_sorry_augie_right_he_ll_be_out_in_a_minute.mp3"
   },
   {
-    "text": "Okay!",
-    "character": "",
-    "audioUrl": "audio/role-models/134_okay.mp3"
-  },
-  {
-    "text": "Okay. Thanks.",
-    "character": "",
-    "audioUrl": "audio/role-models/136_okay_thanks.mp3"
-  },
-  {
     "text": "Down like a sack of elderberries",
     "character": "",
     "audioUrl": "audio/role-models/137_one_slice_to_the_king_s_chest_and_down_like_a_sack_of_elderb.mp3"
   },
   {
-    "text": "Ouch. Oh yeah.",
-    "character": "",
-    "audioUrl": "audio/role-models/138_ouch_ouch_oh_yeah_yeah.mp3"
-  },
-  {
     "text": "I'll pour your juice out",
     "character": "",
     "audioUrl": "audio/role-models/141_please_open_the_door_or_i_ll_pour_your_juice_out.mp3"
-  },
-  {
-    "text": "Schedule wise",
-    "character": "",
-    "audioUrl": "audio/role-models/151_schedule_wise_you_can_elect_to_spend.mp3"
-  },
-  {
-    "text": "Stay off drugs",
-    "character": "",
-    "audioUrl": "audio/role-models/160_stay_off_drugs.mp3"
-  },
-  {
-    "text": "Sure. Great.",
-    "character": "",
-    "audioUrl": "audio/role-models/161_sure_great.mp3"
-  },
-  {
-    "text": "The Demon",
-    "character": "",
-    "audioUrl": "audio/role-models/170_the_demon.mp3"
   },
   {
     "text": "Guy with an acoustic guitar",
@@ -301,28 +216,13 @@ const quotes = [
     "audioUrl": "audio/role-models/208_yeah_oh_snap_no.mp3"
   },
   {
-    "text": "Yeah. Totally.",
-    "character": "",
-    "audioUrl": "audio/role-models/209_yeah_totally.mp3"
-  },
-  {
     "text": "I already killed you",
     "character": "",
     "audioUrl": "audio/role-models/214_you_can_t_kill_me_after_i_already_killed_you.mp3"
   },
   {
-    "text": "You guys are fucked",
-    "character": "",
-    "audioUrl": "audio/role-models/216_you_guys_are_fucked.mp3"
-  },
-  {
     "text": "Make do with three each",
     "character": "",
     "audioUrl": "audio/role-models/220_you_know_what_don_t_worry_about_it_we_ll_make_do_with_three.mp3"
-  },
-  {
-    "text": "You're the man, Danny!",
-    "character": "",
-    "audioUrl": "audio/role-models/229_you_re_the_man_danny.mp3"
   }
 ];

@@ -31,7 +31,7 @@
   CHARACTER: 
 
 009_know_how_i_know.mp3
-  "Know How I Know?"
+  "Know how I know?"
   CHARACTER: 
 
 010_know_what_i_sayin.mp3
@@ -43,11 +43,11 @@
   CHARACTER: 
 
 012_on_the_house.mp3
-  "On The House"
+  "On the house"
   CHARACTER: 
 
 013_please_don_t_do_this.mp3
-  "Please Don't Do This"
+  "Please don't do this"
   CHARACTER: 
 
 014_price_negotiation.mp3

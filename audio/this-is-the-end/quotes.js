@@ -6,7 +6,7 @@ const quotes = [
     "audioUrl": "audio/this-is-the-end/001_anywhere_i_want.mp3"
   },
   {
-    "text": "Bang Bang Your'e dead",
+    "text": "Bang bang you're dead",
     "character": "",
     "audioUrl": "audio/this-is-the-end/002_bang_bang_your_e_dead.mp3"
   },
@@ -26,7 +26,7 @@ const quotes = [
     "audioUrl": "audio/this-is-the-end/005_does_this_coke_smell_funny.mp3"
   },
   {
-    "text": "Does this Coke Smell Funny",
+    "text": "Does this Coke smell funny",
     "character": "",
     "audioUrl": "audio/this-is-the-end/006_does_this_coke_smell_funny.mp3"
   },
@@ -46,7 +46,7 @@ const quotes = [
     "audioUrl": "audio/this-is-the-end/009_fuck_yeah.mp3"
   },
   {
-    "text": "Good Morning Sunshine",
+    "text": "Good morning sunshine",
     "character": "",
     "audioUrl": "audio/this-is-the-end/010_good_morning_sunshine.mp3"
   },
@@ -56,7 +56,7 @@ const quotes = [
     "audioUrl": "audio/this-is-the-end/011_guys_guys_wake_up_danny_s_alive_he_s_eating_all_the_fucking.mp3"
   },
   {
-    "text": "He's Eating All the Fucking Food",
+    "text": "He's eating all the fucking food",
     "character": "",
     "audioUrl": "audio/this-is-the-end/012_he_s_eating_all_the_fucking_food.mp3"
   },
@@ -91,7 +91,7 @@ const quotes = [
     "audioUrl": "audio/this-is-the-end/018_i_m_not_gonna_shoot_emma_watson.mp3"
   },
   {
-    "text": "Jonah Plays With The Gun",
+    "text": "Jonah plays with the gun",
     "character": "",
     "audioUrl": "audio/this-is-the-end/019_jonah_plays_with_the_gun.mp3"
   },
@@ -106,7 +106,7 @@ const quotes = [
     "audioUrl": "audio/this-is-the-end/021_list_of_supplies.mp3"
   },
   {
-    "text": "Lol, That's Why Y'all is",
+    "text": "That's why y'all is",
     "character": "",
     "audioUrl": "audio/this-is-the-end/022_lol_that_s_why_y_all_is.mp3"
   },
@@ -136,12 +136,12 @@ const quotes = [
     "audioUrl": "audio/this-is-the-end/027_say_cheese_baby.mp3"
   },
   {
-    "text": "Sick Reference Bro",
+    "text": "Sick reference bro",
     "character": "",
     "audioUrl": "audio/this-is-the-end/028_sick_reference_bro.mp3"
   },
   {
-    "text": "Sink Hole de Mayo",
+    "text": "Sink hole de Mayo",
     "character": "",
     "audioUrl": "audio/this-is-the-end/029_sink_hole_de_mayo.mp3"
   },
@@ -156,7 +156,7 @@ const quotes = [
     "audioUrl": "audio/this-is-the-end/031_take_yo_panties_off.mp3"
   },
   {
-    "text": "That Fuckers Gotta Go",
+    "text": "That fuckers gotta go",
     "character": "",
     "audioUrl": "audio/this-is-the-end/032_that_fuckers_gotta_go.mp3"
   },

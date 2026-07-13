@@ -86,17 +86,12 @@ const quotes = [
     "audioUrl": "audio/forrest-gump/017_forrest_and_bubba_talkin_shrimp.mp3"
   },
   {
-    "text": "Forrest Gump graduates",
+    "text": "Graduates",
     "character": "",
     "audioUrl": "audio/forrest-gump/018_forrest_gump_graduates.mp3"
   },
   {
-    "text": "Forrest Gump ice cream",
-    "character": "",
-    "audioUrl": "audio/forrest-gump/019_forrest_gump_ice_cream.mp3"
-  },
-  {
-    "text": "Forrest Gump sneaking in",
+    "text": "Sneaking in",
     "character": "",
     "audioUrl": "audio/forrest-gump/020_forrest_gump_sneaking_in.mp3"
   },
@@ -136,29 +131,14 @@ const quotes = [
     "audioUrl": "audio/forrest-gump/027_he_s_stupid_but_he_sure_is_fast.mp3"
   },
   {
-    "text": "Hello",
-    "character": "",
-    "audioUrl": "audio/forrest-gump/028_hello.mp3"
-  },
-  {
     "text": "That's an order",
     "character": "",
     "audioUrl": "audio/forrest-gump/029_here_goddamnit_that_s_an_order_hot_guy_at_5_baba.mp3"
   },
   {
-    "text": "I got you ice cream",
-    "character": "",
-    "audioUrl": "audio/forrest-gump/030_i_got_you_icecream.mp3"
-  },
-  {
     "text": "I gotta pee",
     "character": "",
     "audioUrl": "audio/forrest-gump/031_i_gotta_pee.mp3"
-  },
-  {
-    "text": "I gotta pee",
-    "character": "",
-    "audioUrl": "audio/forrest-gump/032_i_gotta_pee.mp3"
   },
   {
     "text": "I gotta pee",
@@ -179,11 +159,6 @@ const quotes = [
     "text": "I miss you, Jenny",
     "character": "",
     "audioUrl": "audio/forrest-gump/036_i_miss_you_jenny.mp3"
-  },
-  {
-    "text": "I miss you, Jenny",
-    "character": "",
-    "audioUrl": "audio/forrest-gump/037_i_miss_you_jenny.mp3"
   },
   {
     "text": "I even played in my sleep",
@@ -214,11 +189,6 @@ const quotes = [
     "text": "I wanted to be your boyfriend",
     "character": "",
     "audioUrl": "audio/forrest-gump/043_i_wanted_to_be_your_boyfriend.mp3"
-  },
-  {
-    "text": "I'd make a good husband",
-    "character": "",
-    "audioUrl": "audio/forrest-gump/044_i_d_make_a_good_husband.mp3"
   },
   {
     "text": "He liked the F word a lot",
@@ -309,11 +279,6 @@ const quotes = [
     "text": "I like using my own paddle",
     "character": "",
     "audioUrl": "audio/forrest-gump/062_king_kong_stuff_one_man_even_left_a_check_for_25_000_if_you.mp3"
-  },
-  {
-    "text": "Lieutenant Dan",
-    "character": "",
-    "audioUrl": "audio/forrest-gump/063_lieutenant_dan.mp3"
   },
   {
     "text": "Lieutenant Dan",
@@ -411,11 +376,6 @@ const quotes = [
     "audioUrl": "audio/forrest-gump/082_particular_reason_why_are_you_doing_this_felt_like_running.mp3"
   },
   {
-    "text": "Peas and carrots",
-    "character": "",
-    "audioUrl": "audio/forrest-gump/083_peas_and_carrots.mp3"
-  },
-  {
     "text": "Run Forrest, run!",
     "character": "",
     "audioUrl": "audio/forrest-gump/084_run_forrest_run.mp3"
@@ -429,11 +389,6 @@ const quotes = [
     "text": "Seat's taken",
     "character": "",
     "audioUrl": "audio/forrest-gump/086_seat_s_taken.mp3"
-  },
-  {
-    "text": "She tastes like cigarettes",
-    "character": "",
-    "audioUrl": "audio/forrest-gump/087_she_tastes_like_cigarettes.mp3"
   },
   {
     "text": "She tastes like cigarettes",
@@ -561,11 +516,6 @@ const quotes = [
     "audioUrl": "audio/forrest-gump/112_will_you_marry_me_i_would_make_a_good_husband.mp3"
   },
   {
-    "text": "Yes, drill sergeant",
-    "character": "",
-    "audioUrl": "audio/forrest-gump/113_yes_drill_sergeant.mp3"
-  },
-  {
     "text": "You ain't got no legs, Lieutenant Dan",
     "character": "",
     "audioUrl": "audio/forrest-gump/114_you_aint_got_no_legs_lieutenant_dan.mp3"
@@ -579,20 +529,5 @@ const quotes = [
     "text": "You call this a storm?",
     "character": "",
     "audioUrl": "audio/forrest-gump/116_you_call_this_a_storm.mp3"
-  },
-  {
-    "text": "You're a goddamn genius",
-    "character": "",
-    "audioUrl": "audio/forrest-gump/117_you_re_a_goddamn_genius.mp3"
-  },
-  {
-    "text": "You're my girl",
-    "character": "",
-    "audioUrl": "audio/forrest-gump/118_you_re_my_girl.mp3"
-  },
-  {
-    "text": "Your boys..",
-    "character": "",
-    "audioUrl": "audio/forrest-gump/119_your_boys.mp3"
   }
 ];

@@ -2,10 +2,6 @@
   "A professor lived here and died"
   CHARACTER: 
 
-025_always_smiling_hi_honey_judging_watching_look_at_the_baby.mp3
-  "Look at the baby"
-  CHARACTER: 
-
 035_and_for_the_vault_competition_oh_i_don_t_know.mp3
   "The vault competition"
   CHARACTER: 

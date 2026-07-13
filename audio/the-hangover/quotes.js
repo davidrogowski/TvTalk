@@ -26,7 +26,7 @@ const quotes = [
     "audioUrl": "audio/the-hangover/005_blood_brothers.mp3"
   },
   {
-    "text": "BOOM",
+    "text": "Boom",
     "character": "",
     "audioUrl": "audio/the-hangover/006_boom.mp3"
   },
@@ -51,21 +51,6 @@ const quotes = [
     "audioUrl": "audio/the-hangover/010_escalator_down_to_casino.mp3"
   },
   {
-    "text": "Fake Laugh",
-    "character": "",
-    "audioUrl": "audio/the-hangover/011_fake_laugh.mp3"
-  },
-  {
-    "text": "Ha, classic!",
-    "character": "",
-    "audioUrl": "audio/the-hangover/012_ha_classic.mp3"
-  },
-  {
-    "text": "How dare you",
-    "character": "",
-    "audioUrl": "audio/the-hangover/013_how_dare_you.mp3"
-  },
-  {
     "text": "I can feel it coming in the air tonight",
     "character": "",
     "audioUrl": "audio/the-hangover/014_i_can_feel_it_coming_in_the_air_tonight.mp3"
@@ -81,7 +66,7 @@ const quotes = [
     "audioUrl": "audio/the-hangover/016_i_m_a_steel_trap.mp3"
   },
   {
-    "text": "In The Face",
+    "text": "In the face",
     "character": "",
     "audioUrl": "audio/the-hangover/017_in_the_face.mp3"
   },
@@ -116,27 +101,12 @@ const quotes = [
     "audioUrl": "audio/the-hangover/023_nice.mp3"
   },
   {
-    "text": "No thank you",
-    "character": "",
-    "audioUrl": "audio/the-hangover/024_no_thank_you.mp3"
-  },
-  {
     "text": "Not you fat jesus",
     "character": "",
     "audioUrl": "audio/the-hangover/025_not_you_fat_jesus.mp3"
   },
   {
-    "text": "Oh my god!",
-    "character": "",
-    "audioUrl": "audio/the-hangover/026_oh_my_god.mp3"
-  },
-  {
-    "text": "Ok byeeee",
-    "character": "",
-    "audioUrl": "audio/the-hangover/027_ok_byeeee.mp3"
-  },
-  {
-    "text": "One Man Wolf Pack",
+    "text": "One man wolf pack",
     "character": "",
     "audioUrl": "audio/the-hangover/028_one_man_wolf_pack.mp3"
   },
@@ -156,12 +126,7 @@ const quotes = [
     "audioUrl": "audio/the-hangover/031_so_long_gay_boys.mp3"
   },
   {
-    "text": "Suck my dick",
-    "character": "",
-    "audioUrl": "audio/the-hangover/032_suck_my_dick.mp3"
-  },
-  {
-    "text": "Thanks a Lot Bin Laden",
+    "text": "Thanks a lot Bin Laden",
     "character": "",
     "audioUrl": "audio/the-hangover/033_thanks_a_lot_bin_laden.mp3"
   },
@@ -176,7 +141,7 @@ const quotes = [
     "audioUrl": "audio/the-hangover/035_that_s_a_fake_laugh_by_the_way.mp3"
   },
   {
-    "text": "The Doug Song",
+    "text": "The Doug song",
     "character": "",
     "audioUrl": "audio/the-hangover/036_the_doug_song.mp3"
   },
@@ -186,24 +151,14 @@ const quotes = [
     "audioUrl": "audio/the-hangover/037_this_isn_t_the_real_caesar_s_palace_is_it.mp3"
   },
   {
-    "text": "Three Best Friends That Anyone Could Have",
+    "text": "Three best friends that anyone could have",
     "character": "",
     "audioUrl": "audio/the-hangover/038_three_best_friends_that_anyone_could_have.mp3"
   },
   {
-    "text": "Thumbs Up",
-    "character": "",
-    "audioUrl": "audio/the-hangover/039_thumbs_up.mp3"
-  },
-  {
-    "text": "Toodaloo, Mother F**cker",
+    "text": "Toodaloo, mother f**cker",
     "character": "",
     "audioUrl": "audio/the-hangover/040_toodaloo_mother_f_cker.mp3"
-  },
-  {
-    "text": "Vegas!",
-    "character": "",
-    "audioUrl": "audio/the-hangover/041_vegas.mp3"
   },
   {
     "text": "We fucked up",
@@ -211,19 +166,9 @@ const quotes = [
     "audioUrl": "audio/the-hangover/042_we_fucked_up.mp3"
   },
   {
-    "text": "What you talking about",
-    "character": "",
-    "audioUrl": "audio/the-hangover/043_what_you_talking_about.mp3"
-  },
-  {
     "text": "What's his name?",
     "character": "",
     "audioUrl": "audio/the-hangover/044_what_s_his_name.mp3"
-  },
-  {
-    "text": "Where is Doug",
-    "character": "",
-    "audioUrl": "audio/the-hangover/045_where_is_doug.mp3"
   },
   {
     "text": "Woo! Road trip!",
@@ -236,23 +181,8 @@ const quotes = [
     "audioUrl": "audio/the-hangover/047_yeah_that_s_not_gonna_happen.mp3"
   },
   {
-    "text": "You are Too Stupid to Insult",
-    "character": "",
-    "audioUrl": "audio/the-hangover/048_you_are_too_stupid_to_insult.mp3"
-  },
-  {
     "text": "You gonna fuck on me?",
     "character": "",
     "audioUrl": "audio/the-hangover/049_you_gonna_fuck_on_me.mp3"
-  },
-  {
-    "text": "Your choice, bitches",
-    "character": "",
-    "audioUrl": "audio/the-hangover/050_your_choice_bitches.mp3"
-  },
-  {
-    "text": "Your Language is offensive",
-    "character": "",
-    "audioUrl": "audio/the-hangover/051_your_language_is_offensive.mp3"
   }
 ];

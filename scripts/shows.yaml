@@ -37,6 +37,7 @@ shows:
     name: "Breaking Bad"
     board_url: "https://www.101soundboards.com/boards/24176-walter-white-soundboard-breaking-bad"
     board_url_2: "https://www.101soundboards.com/boards/1393567-breaking-bad-2008"
+    board_url_3: "https://www.101soundboards.com/boards/22405-breaking-bad-soundboard"   # hashtag-tagged clips only
     status: pending
     text_style: "title"
     preserve_transcripts: true
@@ -83,6 +84,7 @@ shows:
   - id: succession
     name: "Succession"
     board_url: "https://www.101soundboards.com/boards/1387142-succession-2018"
+    board_url_2: "https://www.101soundboards.com/boards/87654-succession-soundboard"
     status: pending
     text_style: "title"
     preserve_transcripts: true
@@ -196,7 +198,7 @@ shows:
 
   - id: atlanta
     name: "Atlanta"
-    board_url: "https://www.101soundboards.com/boards/1375380-atlanta-2016"
+    board_url: "https://www.101soundboards.com/boards/84631-atlanta-soundboard"
     status: pending
     text_style: "title"
     preserve_transcripts: true
@@ -240,10 +242,11 @@ shows:
 
   - id: friends
     name: "Friends"
-    board_url: "https://www.101soundboards.com/boards/24992-friends-tv-show-soundboard"
+    board_url: "https://www.101soundboards.com/boards/26735-friends-soundboard"
     status: pending
     text_style: "title"
-    preserve_transcripts: true
+    preserve_transcripts: true   # curated: hashtag-tagged clips only, deduped, >=3s post-de-poisoning
+    dedup_transcripts: true      # board lists several lines twice under different mp3 urls
     theme:
       primary: "#d14b4b"
       accent:  "#3f8ecc"
@@ -898,19 +901,86 @@ shows:
       accent:  "#e8b53a"         # gold
       bg:      "#05070a"         # dark
 
-  - id: itysl-s1
-    name: "I Think You Should Leave (S1)"
-    board_url: "https://www.101soundboards.com/boards/99562-i-think-you-should-leave-with-tim-robinson-2019-season-1"
+  # I Think You Should Leave (S1) removed 2026-07-13: the 101soundboards board was
+  # poison-riddled beyond repair. Needs a different source before it comes back.
+
+  - id: f-is-for-family
+    name: "F is for Family"
+    board_url: "https://www.101soundboards.com/boards/1372794-f-is-for-family-2015"
     status: pending
     type: show
     text_style: "title"
-    preserve_transcripts: true   # curated to clips >=4s; transcripts.txt is the authoritative set
-    # POISONED after all (2026-06-24): the -2019-season-1 slug looked modern, but clips carry the ding
-    # (shared first-1s PCM fingerprint across clips == the SP ding). Removed no_trim; on-disk files trimmed 1s.
+    preserve_transcripts: true   # curated: music/subtitle-junk clips dropped, deduped, >=3s
+    dedup_transcripts: true
     theme:
-      primary: "#d4a017"         # hot-dog-suit mustard
-      accent:  "#c0392b"         # ketchup red
-      bg:      "#0a0805"         # dark
+      primary: "#d97a2b"         # 70s burnt orange
+      accent:  "#8fae6a"         # avocado green
+      bg:      "#0a0806"
+
+  - id: fight-club
+    name: "Fight Club"
+    board_url: "https://www.101soundboards.com/boards/86616-fight-club-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # curated: music clips dropped, deduped, >=3s (50+ clip rule)
+    dedup_transcripts: true
+    theme:
+      primary: "#c0392b"         # soap red
+      accent:  "#7f8c8d"         # concrete grey
+      bg:      "#08080a"
+
+  - id: barbie
+    name: "Barbie"
+    board_url: "https://www.101soundboards.com/boards/1393415-barbie-2023"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # curated: music clips dropped, deduped, >=4s post-cleanup
+    dedup_transcripts: true
+    theme:
+      primary: "#e0218a"         # Barbie pink
+      accent:  "#f7d6e6"         # pale pink
+      bg:      "#0d060a"
+
+  - id: elf
+    name: "Elf"
+    board_url: "https://www.101soundboards.com/boards/24907-elf-movie-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # curated: music clips dropped, deduped, >=5s post-cleanup
+    dedup_transcripts: true
+    theme:
+      primary: "#2e8b57"         # elf green
+      accent:  "#e8c547"         # candy yellow
+      bg:      "#070a08"
+
+  - id: jojo-rabbit
+    name: "Jojo Rabbit"
+    board_url: "https://www.101soundboards.com/boards/1372374-jojo-rabbit-2019"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # curated: music clips dropped, deduped, >=4s post-cleanup
+    dedup_transcripts: true
+    theme:
+      primary: "#c94f4f"         # Nazi-red poster palette
+      accent:  "#e8d9a0"         # cream
+      bg:      "#0b0808"
+
+  - id: oceans-eleven
+    name: "Ocean's Eleven"
+    board_url: "https://www.101soundboards.com/boards/75834-oceans-eleven-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true
+    dedup_transcripts: true
+    theme:
+      primary: "#c9a227"         # Vegas gold
+      accent:  "#3f6fa8"         # casino blue
+      bg:      "#08090c"
 
   - id: zombieland
     name: "Zombieland"

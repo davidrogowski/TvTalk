@@ -6,12 +6,12 @@ const quotes = [
     "audioUrl": "audio/tropic-thunder/001_big_ass_titties.mp3"
   },
   {
-    "text": "Big Dick Playa",
+    "text": "Big dick playa",
     "character": "",
     "audioUrl": "audio/tropic-thunder/002_big_dick_playa.mp3"
   },
   {
-    "text": "F*ck Your Own Face",
+    "text": "F*ck your own face",
     "character": "",
     "audioUrl": "audio/tropic-thunder/003_f_ck_your_own_face.mp3"
   },
@@ -66,17 +66,17 @@ const quotes = [
     "audioUrl": "audio/tropic-thunder/013_jeff_portnoy.mp3"
   },
   {
-    "text": "Jeff Portnoy And Jelly Beans",
+    "text": "Jeff Portnoy and jelly beans",
     "character": "",
     "audioUrl": "audio/tropic-thunder/014_jeff_portnoy_and_jelly_beans.mp3"
   },
   {
-    "text": "Kirk Gets A Second Opinion",
+    "text": "Kirk gets a second opinion",
     "character": "",
     "audioUrl": "audio/tropic-thunder/015_kirk_gets_a_second_opinion.mp3"
   },
   {
-    "text": "Kirk Lazarus Compliments Tugg Speedman",
+    "text": "Kirk Lazarus compliments Tugg Speedman",
     "character": "",
     "audioUrl": "audio/tropic-thunder/016_kirk_lazarus_compliments_tugg_speedman.mp3"
   },
@@ -86,7 +86,7 @@ const quotes = [
     "audioUrl": "audio/tropic-thunder/017_kirklazarus_imadude.mp3"
   },
   {
-    "text": "Ma Make Me Happy",
+    "text": "Ma make me happy",
     "character": "",
     "audioUrl": "audio/tropic-thunder/018_ma_make_me_happy.mp3"
   },
@@ -101,7 +101,7 @@ const quotes = [
     "audioUrl": "audio/tropic-thunder/020_maybe.mp3"
   },
   {
-    "text": "Never Go Full Retard",
+    "text": "Never go full retard",
     "character": "",
     "audioUrl": "audio/tropic-thunder/021_never_go_full_retard.mp3"
   },
@@ -151,7 +151,7 @@ const quotes = [
     "audioUrl": "audio/tropic-thunder/030_take_a_big_step_back_and_fuck_your_own_face.mp3"
   },
   {
-    "text": "Take Them Off The Fucking Grid!",
+    "text": "Take them off the fucking grid!",
     "character": "",
     "audioUrl": "audio/tropic-thunder/031_take_them_off_the_fucking_grid.mp3"
   },
@@ -166,27 +166,27 @@ const quotes = [
     "audioUrl": "audio/tropic-thunder/033_this_motherfucker_s_dead.mp3"
   },
   {
-    "text": "Tropic Thunder Insubordination",
+    "text": "Insubordination",
     "character": "",
     "audioUrl": "audio/tropic-thunder/034_tropic_thunder_insubordination.mp3"
   },
   {
-    "text": "We Don't Negotiate with Terrorists",
+    "text": "We don't negotiate with terrorists",
     "character": "",
     "audioUrl": "audio/tropic-thunder/035_we_don_t_negotiate_with_terrorists.mp3"
   },
   {
-    "text": "Welcome To The Goodie Room",
+    "text": "Welcome to the goodie room",
     "character": "",
     "audioUrl": "audio/tropic-thunder/036_welcome_to_the_goodie_room.mp3"
   },
   {
-    "text": "What Do You Mean, \"You People?\"",
+    "text": "What do you mean, \"you people?\"",
     "character": "",
     "audioUrl": "audio/tropic-thunder/037_what_do_you_mean_you_people.mp3"
   },
   {
-    "text": "Who Left the Fridge Open",
+    "text": "Who left the fridge open",
     "character": "",
     "audioUrl": "audio/tropic-thunder/038_who_left_the_fridge_open.mp3"
   },

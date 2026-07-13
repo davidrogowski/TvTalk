@@ -11,7 +11,7 @@ const quotes = [
     "audioUrl": "audio/talladega-nights/002_because_i_like_to_party.mp3"
   },
   {
-    "text": "Bob Dawson's Diet Pork Rinds",
+    "text": "Bob Dawson's diet pork rinds",
     "character": "",
     "audioUrl": "audio/talladega-nights/003_bob_dawson_s_diet_pork_rinds.mp3"
   },
@@ -26,12 +26,12 @@ const quotes = [
     "audioUrl": "audio/talladega-nights/005_cause_i_like_to_party.mp3"
   },
   {
-    "text": "Help Me, Jesus!",
+    "text": "Help me, Jesus!",
     "character": "",
     "audioUrl": "audio/talladega-nights/006_help_me_jesus.mp3"
   },
   {
-    "text": "Help Me, Oprah Winfrey",
+    "text": "Help me, Oprah Winfrey",
     "character": "",
     "audioUrl": "audio/talladega-nights/007_help_me_oprah_winfrey.mp3"
   },
@@ -46,7 +46,7 @@ const quotes = [
     "audioUrl": "audio/talladega-nights/009_i_feel_like_i_m_in_highlander.mp3"
   },
   {
-    "text": "I Like to Picture Jesus As..",
+    "text": "I like to picture Jesus as..",
     "character": "",
     "audioUrl": "audio/talladega-nights/010_i_like_to_picture_jesus_as.mp3"
   },
@@ -56,7 +56,7 @@ const quotes = [
     "audioUrl": "audio/talladega-nights/011_i_love_really_thin_pancakes.mp3"
   },
   {
-    "text": "I Play For Keeps",
+    "text": "I play for keeps",
     "character": "",
     "audioUrl": "audio/talladega-nights/012_i_play_for_keeps.mp3"
   },
@@ -101,7 +101,7 @@ const quotes = [
     "audioUrl": "audio/talladega-nights/020_i_m_here_to_party.mp3"
   },
   {
-    "text": "If You Ain't First, You're Last",
+    "text": "If you ain't first, you're last",
     "character": "",
     "audioUrl": "audio/talladega-nights/021_if_you_ain_t_first_you_re_last.mp3"
   },
@@ -116,7 +116,7 @@ const quotes = [
     "audioUrl": "audio/talladega-nights/023_it_s_the_fastest_who_gets_laid.mp3"
   },
   {
-    "text": "Jacked Up on Mountain Dew",
+    "text": "Jacked up on Mountain Dew",
     "character": "",
     "audioUrl": "audio/talladega-nights/024_jacked_up_on_mountain_dew.mp3"
   },
@@ -136,7 +136,7 @@ const quotes = [
     "audioUrl": "audio/talladega-nights/027_no.mp3"
   },
   {
-    "text": "Oh No No No No No Oh",
+    "text": "Oh no no no no no oh",
     "character": "",
     "audioUrl": "audio/talladega-nights/028_oh_no_no_no_no_no_oh.mp3"
   },
@@ -151,7 +151,7 @@ const quotes = [
     "audioUrl": "audio/talladega-nights/030_please_be_18.mp3"
   },
   {
-    "text": "Ricky Bobby Knife",
+    "text": "Ricky Bobby knife",
     "character": "",
     "audioUrl": "audio/talladega-nights/031_ricky_bobby_knife.mp3"
   },
@@ -191,7 +191,7 @@ const quotes = [
     "audioUrl": "audio/talladega-nights/038_that_idea_ain_t_worth_a_velvet_painting_of_a_whale_and_a_dol.mp3"
   },
   {
-    "text": "That Just Happened",
+    "text": "That just happened",
     "character": "",
     "audioUrl": "audio/talladega-nights/039_that_just_happened.mp3"
   },
@@ -221,7 +221,7 @@ const quotes = [
     "audioUrl": "audio/talladega-nights/044_time_to_be_a_man.mp3"
   },
   {
-    "text": "We All Tried Hard",
+    "text": "We all tried hard",
     "character": "",
     "audioUrl": "audio/talladega-nights/045_we_all_tried_hard.mp3"
   },

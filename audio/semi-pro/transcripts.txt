@@ -1,9 +1,9 @@
 001_did_you_just_call_me_a_jive_turkey.mp3
-  "Did you just call me a Jive Turkey?"
+  "Did you just call me a jive turkey?"
   CHARACTER: 
 
 002_ele_everybody_love_everybody.mp3
-  "ELE Everybody Love Everybody"
+  "ELE everybody love everybody"
   CHARACTER: 
 
 003_everybody_love_everybody.mp3

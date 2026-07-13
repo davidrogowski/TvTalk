@@ -51,19 +51,9 @@ const quotes = [
     "audioUrl": "audio/idiocracy/010_but_then_in_even_greater_force_emerged_the_un_at_the_en_un_n.mp3"
   },
   {
-    "text": "Can go find his home",
-    "character": "",
-    "audioUrl": "audio/idiocracy/011_can_go_find_his_home.mp3"
-  },
-  {
     "text": "You like money too",
     "character": "",
     "audioUrl": "audio/idiocracy/012_can_t_believe_you_like_money_too_we_should_hang_out.mp3"
-  },
-  {
-    "text": "Fuck you, I'm eating",
-    "character": "",
-    "audioUrl": "audio/idiocracy/013_carl_s_junior_fuck_you_i_m_eating.mp3"
   },
   {
     "text": "Impaled his crotch",
@@ -89,11 +79,6 @@ const quotes = [
     "text": "Your balance is zero",
     "character": "",
     "audioUrl": "audio/idiocracy/018_enjoy_your_extra_burger_frauds_give_me_no_fries_i_got_an_emp.mp3"
-  },
-  {
-    "text": "This is how I was going to die",
-    "character": "",
-    "audioUrl": "audio/idiocracy/019_everybody_gets_this_is_how_i_was_going_to_die.mp3"
   },
   {
     "text": "You mean like in the toilet?",
@@ -189,11 +174,6 @@ const quotes = [
     "text": "He's gonna fix it all",
     "character": "",
     "audioUrl": "audio/idiocracy/038_i_give_ya_my_word_he_s_gonna_fix_the_dust_storms_too_and_i_g.mp3"
-  },
-  {
-    "text": "I like money",
-    "character": "",
-    "audioUrl": "audio/idiocracy/039_i_like_money_though_i_like_money.mp3"
   },
   {
     "text": "I like money",
@@ -331,11 +311,6 @@ const quotes = [
     "audioUrl": "audio/idiocracy/069_or.mp3"
   },
   {
-    "text": "Come back when you can afford it",
-    "character": "",
-    "audioUrl": "audio/idiocracy/070_please_come_back_when_you_can_afford_to_make_a_purchase.mp3"
-  },
-  {
     "text": "Your name is Not Sure",
     "character": "",
     "audioUrl": "audio/idiocracy/071_please_speak_your_name_as_it_appears_on_your_current_federal.mp3"
@@ -344,11 +319,6 @@ const quotes = [
     "text": "Plenty of tards out there",
     "character": "",
     "audioUrl": "audio/idiocracy/072_plenty_of_tards_out_there.mp3"
-  },
-  {
-    "text": "Police, open the door",
-    "character": "",
-    "audioUrl": "audio/idiocracy/073_police_open_the_door.mp3"
   },
   {
     "text": "It'll be this many dollars",
@@ -374,11 +344,6 @@ const quotes = [
     "text": "You robbed a hospital",
     "character": "",
     "audioUrl": "audio/idiocracy/078_says_here_you_robbed_a_hospital_why_d_you_do_that_yeah_i_m_n.mp3"
-  },
-  {
-    "text": "That's a good deal",
-    "character": "",
-    "audioUrl": "audio/idiocracy/079_shit_that_s_a_good_deal.mp3"
   },
   {
     "text": "This one goes in your butt",
@@ -501,11 +466,6 @@ const quotes = [
     "audioUrl": "audio/idiocracy/103_welcome_to_carls_junior_would_you_like_to_try_our_extra_biga.mp3"
   },
   {
-    "text": "Welcome to Costco, I love you",
-    "character": "",
-    "audioUrl": "audio/idiocracy/104_welcome_to_costco_i_love_you.mp3"
-  },
-  {
     "text": "Welcome to the Time Machine",
     "character": "",
     "audioUrl": "audio/idiocracy/105_welcome_to_the_time_machine_we_are_going_to_take_you_back_fi.mp3"
@@ -529,11 +489,6 @@ const quotes = [
     "text": "Your shit's all retarded",
     "character": "",
     "audioUrl": "audio/idiocracy/109_well_i_don_t_want_to_sound_like_a_dick_or_nothing_but_says_o.mp3"
-  },
-  {
-    "text": "Why come you don't have a tattoo?",
-    "character": "",
-    "audioUrl": "audio/idiocracy/110_why_come_you_don_t_have_a_tattoo.mp3"
   },
   {
     "text": "I get out of the way",
@@ -574,11 +529,6 @@ const quotes = [
     "text": "You're pretty dumb sometimes",
     "character": "",
     "audioUrl": "audio/idiocracy/118_you_thought_you_could_really_travel_through_time_huh_yeah_i.mp3"
-  },
-  {
-    "text": "You're blowing your floors",
-    "character": "",
-    "audioUrl": "audio/idiocracy/119_you_re_blowing_your_floors_now_please.mp3"
   },
   {
     "text": "Custody of Carl's Junior",

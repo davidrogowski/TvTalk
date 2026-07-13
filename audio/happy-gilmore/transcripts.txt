@@ -127,7 +127,7 @@
   CHARACTER: 
 
 247_he_s_going_to_be_on_the_tour_super_that_s_cute.mp3
-  "He's going on the Tour. Cute."
+  "He's going on the tour. Cute."
   CHARACTER: 
 
 256_hello_happy_i_m_bob_barker_what_an_honor_nice_to_meet_you_we.mp3
@@ -156,10 +156,6 @@
 
 296_i_bet_20_you_can_t_do_it_again_bring_it_on_you_boys_are_goin.mp3
   "Bet you can't do it again"
-  CHARACTER: 
-
-303_i_could_make_things_out_of_clay_and_lay_by_the_bay.mp3
-  "Make things out of clay"
   CHARACTER: 
 
 304_i_did_this_to_get_grandma_s_house_back_now_i_can_no_regrets.mp3
@@ -295,7 +291,7 @@
   CHARACTER: 
 
 689_step_right_up_folks_see_if_you_can_outdrive_the_amazing_golf.mp3
-  "The amazing Golf Ball Whacker Guy"
+  "The amazing golf ball whacker guy"
   CHARACTER: 
 
 691_stop_fraternizing_with_the_help_gilmore_just_hit_your_ball_i.mp3

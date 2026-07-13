@@ -1,7 +1,3 @@
-001_anybody_else_have_anything_they_want_to_share.mp3
-  "Anybody else have anything they want to share?!"
-  CHARACTER: 
-
 002_are_you_fucking_kidding_me.mp3
   "Are you fucking kidding me?"
   CHARACTER: 
@@ -18,18 +14,6 @@
   "Boob hit"
   CHARACTER: 
 
-006_but_i_don_t_want_to.mp3
-  "But I don't want to"
-  CHARACTER: 
-
-007_bye.mp3
-  "Bye"
-  CHARACTER: 
-
-008_celebrate.mp3
-  "Celebrate"
-  CHARACTER: 
-
 009_chocolate_meltdown.mp3
   "Chocolate meltdown"
   CHARACTER: 
@@ -43,51 +27,23 @@
   CHARACTER: 
 
 012_could_i_have_a_glass_of_alcohol.mp3
-  "Could I Have a Glass of Alcohol"
-  CHARACTER: 
-
-013_did_you_forgot_to_take_you_xanax_this_morning.mp3
-  "Did you forgot to take you xanax this morning?"
-  CHARACTER: 
-
-014_don_t_repeat_that.mp3
-  "Don't repeat that!"
+  "Could I have a glass of alcohol"
   CHARACTER: 
 
 015_everybody_has_the_flu.mp3
-  "Everybody Has the Flu"
+  "Everybody has the flu"
   CHARACTER: 
 
 016_food_poisoning.mp3
   "Food poisoning"
   CHARACTER: 
 
-017_fuck.mp3
-  "Fuck"
-  CHARACTER: 
-
-018_gulp.mp3
-  "Gulp"
-  CHARACTER: 
-
-019_hair_flip.mp3
-  "Hair flip"
-  CHARACTER: 
-
-020_help_me_i_m_poor.mp3
-  "Help me I'm poor"
-  CHARACTER: 
-
 021_help_me_i_m_poor.mp3
-  "Help Me I'm Poor"
+  "Help me I'm poor"
   CHARACTER: 
 
 022_holy_shit_you_look_amazing.mp3
   "Holy shit you look amazing"
-  CHARACTER: 
-
-023_i_feel_bad_for_your_parents.mp3
-  "I feel bad for your parents"
   CHARACTER: 
 
 024_i_feel_fine.mp3
@@ -98,16 +54,8 @@
   "I need the toilet"
   CHARACTER: 
 
-026_i_promise_i_will_thank_you.mp3
-  "I promise I will thank you!"
-  CHARACTER: 
-
 027_i_promise_please.mp3
   "I promise! Please!"
-  CHARACTER: 
-
-028_i_want_balls_in_my_face.mp3
-  "I want balls in my face"
   CHARACTER: 
 
 029_i_want_you_to_leave.mp3
@@ -118,24 +66,12 @@
   "I'm life and I'm gonna bite you in the ass"
   CHARACTER: 
 
-031_i_m_not_weird.mp3
-  "I'm not weird"
-  CHARACTER: 
-
 032_i_m_sure_you_are_very_popular.mp3
   "I'm sure you are very popular"
   CHARACTER: 
 
-033_i_ve_seen_better_tennis_playing_in_a_tampon_commercial.mp3
-  "I've seen better tennis playing in a tampon commercial"
-  CHARACTER: 
-
 034_if_i_was_drunk_would_i_be_able_to_do_this.mp3
   "If I was drunk, would I be able to do this?"
-  CHARACTER: 
-
-035_jesus_megan.mp3
-  "Jesus Megan"
   CHARACTER: 
 
 036_look_away.mp3
@@ -162,10 +98,6 @@
   "Shitting in the street"
   CHARACTER: 
 
-042_stove_bridesmaids.mp3
-  "Stove Bridesmaids"
-  CHARACTER: 
-
 043_taking_a_dump_in_the_street.mp3
   "Taking a dump in the street"
   CHARACTER: 
@@ -178,16 +110,8 @@
   "What did we eat!?"
   CHARACTER: 
 
-046_what_why.mp3
-  "What? Why??"
-  CHARACTER: 
-
 047_what_s_wrong_with_me.mp3
-  "What's Wrong With Me"
-  CHARACTER: 
-
-048_when_you_gotta_go_you_gotta_go.mp3
-  "When You Gotta Go, You Gotta Go"
+  "What's wrong with me"
   CHARACTER: 
 
 049_why_can_t_you_just_be_happy_for_me.mp3
@@ -196,14 +120,6 @@
 
 050_yeah_oh_shit.mp3
   "Yeah oh shit"
-  CHARACTER: 
-
-051_you_would_be_amazed.mp3
-  "You would be amazed"
-  CHARACTER: 
-
-052_you_re_a_little_cunt.mp3
-  "You're a little cunt"
   CHARACTER: 
 
 053_you_re_your_problem_annie.mp3

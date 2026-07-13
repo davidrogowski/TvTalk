@@ -17,7 +17,7 @@ Hosted on **Cloudflare Workers + Static Assets** (not Pages — Cloudflare depre
 |---|---|
 | `wrangler.jsonc` | Worker name `tvtalk`. Serves the repo root (`./`) as static assets via the `ASSETS` binding. Declares the `tvtalk.fun` + `www.tvtalk.fun` `custom_domain` routes, keeps `workers_dev: true`, and sets `main: worker.js` + `run_worker_first: true` so the redirect runs on every request (incl. the homepage). |
 | `worker.js` | Minimal Worker entry: 301-redirects any `*.workers.dev` host to `tvtalk.fun` (path + query preserved); otherwise hands off to `env.ASSETS.fetch()`. |
-| `.assetsignore` | Excludes `.git/`, `scripts/`, `*.md`, `wrangler.jsonc`, `worker.js` from the uploaded asset bundle. Without this, wrangler tries to upload the 399 MB `.git` pack file and fails (25 MB per-asset limit); excluding `worker.js` keeps the Worker source from being served as a public asset. |
+| `.assetsignore` | Excludes `.git`, `.gitignore`, `.assetsignore`, `wrangler.jsonc`, `worker.js`, `scripts/`, `*.md`, `Clock The Quote/`, `.wrangler/`, `.DS_Store`, `node_modules/`, `.superpowers/`, `.claude/`, `dropper-engine/`, `docs/` from the uploaded asset bundle. Without this, wrangler tries to upload the 399 MB `.git` pack file and fails (25 MB per-asset limit); excluding `worker.js` keeps the Worker source from being served as a public asset. |
 
 ## Deploying an update
 
@@ -39,7 +39,7 @@ Notes:
 - **Run it in a real Terminal, from the project dir.** `sudo`/`npx` need a real TTY (the Claude Code `!` prefix and the Bash sandbox lack one — `sudo` errors "a terminal is required"). And `cd ~/Desktop/Obsidian/TvTalk` first, or wrangler scans your home dir and chokes on `~/.Trash`. (Claude *can* run it via its Bash tool with the sandbox disabled — but the version pin still applies.)
 - **Verify the live URL**, not npx's exit code (`npx` reports 0 even on failure): `curl -sI https://tvtalk.fun/clockthequote`.
 - Wrangler is authenticated via `wrangler login` OAuth (account `davrogowski@gmail.com` / `b331d50040451dd56b64535ec1381a09`).
-- Only changed files upload (delta), but wrangler still **hashes all ~8,100 files / 774 MB locally every deploy** (no persistent hash cache), so even a 2-file change takes ~2 min of local hashing. That's expected, not a hang.
+- Only changed files upload (delta), but wrangler still **hashes every asset file locally every deploy** (~8,100 files / 774 MB when this was written; the catalog has since grown to 99 titles so counts are higher now — no persistent hash cache), so even a 2-file change takes ~2 min of local hashing. That's expected, not a hang.
 - Commits use env-var author identity (`davidrogowski` / `davidrogowski@users.noreply.github.com`) since global git config is intentionally unset.
 
 ## To wire up auto-deploy on push (optional, not done)

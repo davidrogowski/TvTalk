@@ -15,7 +15,7 @@
   CHARACTER: 
 
 005_cool_story_bro.mp3
-  "Cool Story Bro"
+  "Cool story bro"
   CHARACTER: 
 
 006_cool_story_mclovin.mp3
@@ -35,7 +35,7 @@
   CHARACTER: 
 
 010_don_t_worry_about_it_i_m_not_worried_at_all.mp3
-  "Don't Worry about It, I'm Not Worried At All"
+  "Don't worry about it, I'm not worried at all"
   CHARACTER: 
 
 011_down_to_fuck.mp3
@@ -43,7 +43,7 @@
   CHARACTER: 
 
 012_draw_pictures_of_dicks.mp3
-  "Draw Pictures of Dicks"
+  "Draw pictures of dicks"
   CHARACTER: 
 
 013_fake_id.mp3
@@ -51,7 +51,7 @@
   CHARACTER: 
 
 014_fake_id_fake_id.mp3
-  "Fake ID Fake ID"
+  "Fake ID fake ID"
   CHARACTER: 
 
 015_fuck_me_right.mp3
@@ -87,7 +87,7 @@
   CHARACTER: 
 
 024_i_m_gettin_that_fa_sho.mp3
-  "I'm Gettin' That Fa Sho"
+  "I'm gettin' that fa sho"
   CHARACTER: 
 
 025_it_s_blood_dude.mp3
@@ -183,7 +183,7 @@
   CHARACTER: 
 
 049_you_guys_on_myspace.mp3
-  "You Guys On Myspace"
+  "You guys on Myspace"
   CHARACTER: 
 
 050_you_really_bitched_out.mp3

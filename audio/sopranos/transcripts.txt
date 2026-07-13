@@ -1,7 +1,3 @@
-001_absolutelyf_ckinnot.mp3
-  "AbsolutelyF-ckinNot"
-  CHARACTER: 
-
 002_alright_done.mp3
   "Alright, Done"
   CHARACTER: 
@@ -18,10 +14,6 @@
   "Better if I never open my mouth - Mom"
   CHARACTER: 
 
-006_bigger_hand.mp3
-  "Bigger Hand"
-  CHARACTER: 
-
 007_booty_pussy.mp3
   "Booty? Pussy"
   CHARACTER: 
@@ -31,7 +23,7 @@
   CHARACTER: 
 
 009_bring_some_food_and_shoes.mp3
-  "Bring Some Food, and Shoes"
+  "Bring some food, and shoes"
   CHARACTER: 
 
 010_brylcreem.mp3
@@ -39,7 +31,7 @@
   CHARACTER: 
 
 011_can_t_catch_a_break.mp3
-  "Can't Catch a Break"
+  "Can't catch a break"
   CHARACTER: 
 
 012_carmella_kiss_my.mp3
@@ -51,7 +43,7 @@
   CHARACTER: 
 
 014_cholesterol_tony_s_mom.mp3
-  "Cholesterol - Tony's Mom"
+  "Cholesterol - Tony's mom"
   CHARACTER: 
 
 015_clock_watching.mp3
@@ -66,80 +58,36 @@
   "Couples therapy"
   CHARACTER: 
 
-018_dissed_the_bing.mp3
-  "Dissed the Bing"
-  CHARACTER: 
-
 019_don_t_be_late.mp3
-  "Don't Be Late"
-  CHARACTER: 
-
-020_don_t_know_what_your_saying.mp3
-  "Don't know what your saying - ******"
+  "Don't be late"
   CHARACTER: 
 
 021_dress_like_a_man.mp3
-  "Dress Like a Man"
+  "Dress like a man"
   CHARACTER: 
 
 022_dust_up_my_crack.mp3
-  "Dust Up My Crack"
-  CHARACTER: 
-
-023_endangered.mp3
-  "Endangered"
-  CHARACTER: 
-
-024_even_a_broken_clock.mp3
-  "Even a Broken Clock"
-  CHARACTER: 
-
-025_expensive_piece.mp3
-  "Expensive piece"
-  CHARACTER: 
-
-026_f_ckin_internet.mp3
-  "F-ckin Internet"
+  "Dust up my crack"
   CHARACTER: 
 
 027_finally.mp3
   "Finally"
   CHARACTER: 
 
-028_fresh_produce.mp3
-  "Fresh produce"
-  CHARACTER: 
-
-029_fucking_depressing.mp3
-  "Fucking Depressing"
-  CHARACTER: 
-
 030_get_out_of_here.mp3
-  "Get Out of Here"
+  "Get out of here"
   CHARACTER: 
 
 031_get_to_the_fucking_point.mp3
-  "Get To the Fucking Point"
+  "Get to the fucking point"
   CHARACTER: 
 
 032_get_your_hearing_checked.mp3
-  "Get Your Hearing Checked"
-  CHARACTER: 
-
-033_god_damn_opinion.mp3
-  "God damn Opinion"
-  CHARACTER: 
-
-034_going_to_hell.mp3
-  "Going to hell"
+  "Get your hearing checked"
   CHARACTER: 
 
 035_he_told_you_that.mp3
-  "He Told You That?"
-  CHARACTER: 
-
-036_he_s_a_faaaaag.mp3
-  "He’s a faaaaag"
+  "He told you that?"
   CHARACTER: 
 
 037_hinkey_shit.mp3
@@ -147,19 +95,11 @@
   CHARACTER: 
 
 038_his_car_was_out_front.mp3
-  "His Car was Out Front"
-  CHARACTER: 
-
-039_i_don_t_like_that_talk.mp3
-  "I don't like that talk - ******"
+  "His car was out front"
   CHARACTER: 
 
 040_i_guess_you_could_call_that_a_dick.mp3
-  "I Guess You Could Call That a Dick"
-  CHARACTER: 
-
-041_i_like_this_girl.mp3
-  "I like this girl"
+  "I guess you could call that a dick"
   CHARACTER: 
 
 042_i_love_you_baby.mp3
@@ -167,15 +107,11 @@
   CHARACTER: 
 
 043_i_thought_we_understood.mp3
-  "I Thought We Understood"
-  CHARACTER: 
-
-044_if_i_was_smart.mp3
-  "If I was Smart"
+  "I thought we understood"
   CHARACTER: 
 
 045_if_my_dentist_looked_like_you.mp3
-  "If My Dentist Looked Like You"
+  "If my dentist looked like you"
   CHARACTER: 
 
 046_if_you_re_going_to_lie_to_me.mp3
@@ -190,48 +126,24 @@
   "Join the Party"
   CHARACTER: 
 
-049_just_wanted_to_talk.mp3
-  "Just Wanted To Talk"
-  CHARACTER: 
-
 050_leave_town.mp3
   "Leave town"
-  CHARACTER: 
-
-051_let_sleeping_dogs_lie.mp3
-  "Let Sleeping Dogs Lie"
   CHARACTER: 
 
 052_looking_into_the_distance.mp3
   "Looking into the Distance"
   CHARACTER: 
 
-053_nephew_christopher.mp3
-  "Nephew Christopher"
-  CHARACTER: 
-
-054_nicotine_is_addictive.mp3
-  "Nicotine is Addictive"
-  CHARACTER: 
-
-055_no_hello.mp3
-  "No hello?"
-  CHARACTER: 
-
 056_nobody_s_talking_to_you.mp3
-  "Nobody's Talking to You"
+  "Nobody's talking to you"
   CHARACTER: 
 
 057_nothing_did.mp3
   "Nothing Did"
   CHARACTER: 
 
-058_oh_yeah_tony.mp3
-  "Oh Yeah - Tony"
-  CHARACTER: 
-
 059_paulie_and_chrissy.mp3
-  "Paulie And Chrissy"
+  "Paulie and Chrissy"
   CHARACTER: 
 
 060_paulie_walnuts.mp3
@@ -243,7 +155,7 @@
   CHARACTER: 
 
 062_put_our_cards_out.mp3
-  "Put Our Cards Out"
+  "Put our cards out"
   CHARACTER: 
 
 063_quasimodo_predicted.mp3
@@ -259,15 +171,11 @@
   CHARACTER: 
 
 066_shared_his_wealth.mp3
-  "Shared His Wealth"
+  "Shared his wealth"
   CHARACTER: 
 
 067_sil_dark_moods.mp3
-  "Sil - Dark Moods"
-  CHARACTER: 
-
-068_smart_alecky_tony.mp3
-  "Smart Alecky - Tony"
+  "Sil - dark moods"
   CHARACTER: 
 
 069_somebodies_talkin_to_much.mp3
@@ -275,11 +183,11 @@
   CHARACTER: 
 
 070_sorry_sack_of_shit.mp3
-  "Sorry Sack of Shit"
+  "Sorry sack of shit"
   CHARACTER: 
 
 071_stick_it_up_your_ass.mp3
-  "Stick it Up Your Ass"
+  "Stick it up your ass"
   CHARACTER: 
 
 072_stupid.mp3
@@ -288,14 +196,6 @@
 
 073_talk_more_than_6_barbers.mp3
   "Talk more than 6 barbers"
-  CHARACTER: 
-
-074_thank_you_daddy.mp3
-  "Thank you, Daddy"
-  CHARACTER: 
-
-075_that_s_cause_i_m_not_talkin_to_you.mp3
-  "That's cause I'm not talkin to you"
   CHARACTER: 
 
 076_the_family.mp3
@@ -315,11 +215,11 @@
   CHARACTER: 
 
 080_this_is_how_you_try.mp3
-  "This is How You Try?!"
+  "This is how you try?!"
   CHARACTER: 
 
 081_this_isn_t_funny.mp3
-  "This Isn't Funny"
+  "This isn't funny"
   CHARACTER: 
 
 082_those_who_want_respect_give_respect.mp3
@@ -331,11 +231,7 @@
   CHARACTER: 
 
 084_tony_soprano_ducks.mp3
-  "Tony Soprano - Ducks"
-  CHARACTER: 
-
-085_tony_soprano_clapping.mp3
-  "Tony Soprano Clapping"
+  "Tony Soprano - ducks"
   CHARACTER: 
 
 086_uncle_junior.mp3
@@ -346,10 +242,6 @@
   "Wait in the Car"
   CHARACTER: 
 
-088_way_out_of_line.mp3
-  "Way out of line"
-  CHARACTER: 
-
 089_what_is_this.mp3
   "What is This?"
   CHARACTER: 
@@ -358,40 +250,20 @@
   "What the Fuck?!"
   CHARACTER: 
 
-091_what_you_gonna_do_tony.mp3
-  "What you gonna do - Tony"
-  CHARACTER: 
-
 092_whining_to_the_big_man.mp3
-  "Whining to the Big Man"
+  "Whining to the big man"
   CHARACTER: 
 
 093_who_do_you_think_you_are.mp3
-  "Who Do You Think You Are?"
+  "Who do you think you are?"
   CHARACTER: 
 
 094_why_would_i_trust.mp3
   "Why would I trust"
   CHARACTER: 
 
-095_wormy.mp3
-  "Wormy"
-  CHARACTER: 
-
-096_worry_about_what_you_give_me.mp3
-  "Worry about what you give me"
-  CHARACTER: 
-
-097_yeah_right_what_man.mp3
-  "Yeah right, what man"
-  CHARACTER: 
-
-098_yeah_zebra.mp3
-  "Yeah, Zebra"
-  CHARACTER: 
-
 099_you_are_what_you_are.mp3
-  "You are What You Are"
+  "You are what you are"
   CHARACTER: 
 
 100_you_don_t_know_me.mp3
@@ -399,25 +271,5 @@
   CHARACTER: 
 
 101_you_gotta_rest.mp3
-  "You Gotta Rest"
-  CHARACTER: 
-
-102_you_haven_t_heard_ours.mp3
-  "You Haven't Heard Ours"
-  CHARACTER: 
-
-103_you_oughta_be_ashamed_mom.mp3
-  "You oughta be ashamed- Mom"
-  CHARACTER: 
-
-104_you_were_like_a_brother_to_me.mp3
-  "You were like a brother to me"
-  CHARACTER: 
-
-105_you_re_sleeping_over.mp3
-  "You're Sleeping Over?"
-  CHARACTER: 
-
-106_on_the_brain_tony.mp3
-  "***** on the brain - Tony"
+  "You gotta rest"
   CHARACTER: 

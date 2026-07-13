@@ -26,11 +26,6 @@ const quotes = [
     "audioUrl": "audio/borat/005_eatmytits.mp3"
   },
   {
-    "text": "Entry please",
-    "character": "",
-    "audioUrl": "audio/borat/006_entryplease.mp3"
-  },
-  {
     "text": "Five woman",
     "character": "",
     "audioUrl": "audio/borat/007_fivewoman.mp3"
@@ -46,11 +41,6 @@ const quotes = [
     "audioUrl": "audio/borat/009_greatsuccess.mp3"
   },
   {
-    "text": "Happy times",
-    "character": "",
-    "audioUrl": "audio/borat/010_happytimes.mp3"
-  },
-  {
     "text": "Have a drink",
     "character": "",
     "audioUrl": "audio/borat/011_haveadrink.mp3"
@@ -61,19 +51,9 @@ const quotes = [
     "audioUrl": "audio/borat/012_hotel.mp3"
   },
   {
-    "text": "Howdy partners",
-    "character": "",
-    "audioUrl": "audio/borat/013_howdypartners.mp3"
-  },
-  {
     "text": "How fast",
     "character": "",
     "audioUrl": "audio/borat/014_howfast.mp3"
-  },
-  {
-    "text": "How much",
-    "character": "",
-    "audioUrl": "audio/borat/015_howmuch.mp3"
   },
   {
     "text": "I arrive",
@@ -91,19 +71,9 @@ const quotes = [
     "audioUrl": "audio/borat/018_itforgirls.mp3"
   },
   {
-    "text": "I will eat your",
-    "character": "",
-    "audioUrl": "audio/borat/019_iwilleatyour.mp3"
-  },
-  {
     "text": "King in the castle",
     "character": "",
     "audioUrl": "audio/borat/020_kinginthecastle.mp3"
-  },
-  {
-    "text": "Let's get drunk",
-    "character": "",
-    "audioUrl": "audio/borat/021_letsgetdrunk.mp3"
   },
   {
     "text": "Lose them",
@@ -254,11 +224,6 @@ const quotes = [
     "text": "Uzbekistan",
     "character": "",
     "audioUrl": "audio/borat/051_uzbekistan.mp3"
-  },
-  {
-    "text": "Vanilla face",
-    "character": "",
-    "audioUrl": "audio/borat/052_vanillaface.mp3"
   },
   {
     "text": "Very excite",

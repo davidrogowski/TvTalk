@@ -2,24 +2,12 @@
   "A free sample on gasoline"
   CHARACTER: 
 
-002_ah_faithful_toilet.mp3
-  "Ah faithful toilet"
-  CHARACTER: 
-
 004_all_my_life_i_ve_been_obese_man_trapped_inside_a_fat_man_s_b.mp3
   "Obese man in a fat man's body"
   CHARACTER: 
 
-005_all_this_computer_hacking_is_making_me_thirsty.mp3
-  "Computer hacking makes me thirsty"
-  CHARACTER: 
-
 006_and_all_his_wizard_friends_went_straight_to_hell_for_practic.mp3
   "Wizards went straight to Hell"
-  CHARACTER: 
-
-007_and_clean_up_that_mess.mp3
-  "And clean up that mess"
   CHARACTER: 
 
 008_and_how_they_are_not_mere_objects_with_curves_that_make_us_c.mp3
@@ -28,22 +16,6 @@
 
 009_and_special_awards_go_to_the_two_students_who_obviously_had.mp3
   "No help from their parents"
-  CHARACTER: 
-
-010_another_chance_to_be_bad.mp3
-  "Another chance to be bad"
-  CHARACTER: 
-
-011_apu_nisa_federal.mp3
-  "Apu Nisa Federal"
-  CHARACTER: 
-
-012_argh_i_m_stuck_help_me.mp3
-  "I'm stuck, help me!"
-  CHARACTER: 
-
-014_at_least_i_m_out_there_trying_new_things.mp3
-  "Trying new things"
   CHARACTER: 
 
 015_at_the_risk_of_editorialising_these_women_are_guilty_and_mus.mp3
@@ -58,20 +30,8 @@
   "Don't steal any beer"
   CHARACTER: 
 
-021_bart_talking_gibberish.mp3
-  "Bart talking gibberish"
-  CHARACTER: 
-
 022_bart_do_you_want_to_see_my_new_chainsaw_oh_sorry_what_am_i_t.mp3
   "Wanna see my new chainsaw?"
-  CHARACTER: 
-
-023_because_we_re_the_parents_and_you_re_the_children.mp3
-  "We're the parents, you're the children"
-  CHARACTER: 
-
-025_begun_to_my_sect.mp3
-  "Begun to my sect"
   CHARACTER: 
 
 026_boy_ye_read_my_thoughts_you_ve_got_the_shinin.mp3
@@ -82,18 +42,6 @@
   "Taken away my dignity"
   CHARACTER: 
 
-028_can_i_throw_up_in_your_bathroom.mp3
-  "Can I throw up in your bathroom?"
-  CHARACTER: 
-
-029_come_on_i_dare_ya.mp3
-  "Come on, I dare ya"
-  CHARACTER: 
-
-030_cool_in_the_sweet_i_did_with_my_trademark_changes_of_heart.mp3
-  "My trademark change of heart"
-  CHARACTER: 
-
 033_damn_it_smithers_this_isn_t_rocket_science_it_s_brain_surger.mp3
   "It's brain surgery"
   CHARACTER: 
@@ -102,36 +50,12 @@
   "In pursuit of the rebelling women"
   CHARACTER: 
 
-035_do_we_have_to.mp3
-  "Do we have to?"
-  CHARACTER: 
-
-036_do_you_gotta_go_shake_to_do_work_committee.mp3
-  "Shake to do work committee"
-  CHARACTER: 
-
 039_doh_deh_doh_dah_dih_dah.mp3
   "Humming"
   CHARACTER: 
 
-040_doh_doh_doh.mp3
-  "Doh, doh, doh"
-  CHARACTER: 
-
 043_don_t_feel_bad_for_losin.mp3
   "Don't feel bad for losin"
-  CHARACTER: 
-
-044_don_t_have_a_cow.mp3
-  "Don't have a cow"
-  CHARACTER: 
-
-045_don_t_have_a_cow_dad.mp3
-  "Don't have a cow, dad"
-  CHARACTER: 
-
-046_don_t_lie_to_me_boy.mp3
-  "Don't lie to me boy"
   CHARACTER: 
 
 048_donut_no_thanks_got_any_fruit_this_has_purple_stuff_inside_p.mp3
@@ -144,10 +68,6 @@
 
 051_dum_dee_dum_dah.mp3
   "Humming"
-  CHARACTER: 
-
-052_eat_my_shorts.mp3
-  "Eat my shorts"
   CHARACTER: 
 
 053_english_pfft_who_needs_that_i_ve_never_gone_to_england.mp3
@@ -174,36 +94,8 @@
   "Water it down some more"
   CHARACTER: 
 
-061_go_to_bed.mp3
-  "Go to bed!"
-  CHARACTER: 
-
 062_god_said_to_noah_build_yourself_an_arky_arky.mp3
   "Build yourself an Arky Arky"
-  CHARACTER: 
-
-063_guess_who_likes_you.mp3
-  "Guess who likes you?"
-  CHARACTER: 
-
-064_ha_ha_ha_scaredy_cat.mp3
-  "Scaredy cat"
-  CHARACTER: 
-
-065_ha_ha_some_idiot_actually_called_in.mp3
-  "Some idiot actually called in"
-  CHARACTER: 
-
-067_have_a_good_life.mp3
-  "Have a good life"
-  CHARACTER: 
-
-068_have_you_got_any_greese.mp3
-  "Have you got any grease?"
-  CHARACTER: 
-
-069_have_you_started_smoking.mp3
-  "Have you started smoking?"
   CHARACTER: 
 
 071_he_wanted_truth_you_want_the_truth_you_can_t_handle_the_trut.mp3
@@ -218,64 +110,12 @@
   "I'm Doctor Cheeks"
   CHARACTER: 
 
-074_hello_steady_customer_how_are_you_this_evening_sir.mp3
-  "Hello steady customer"
-  CHARACTER: 
-
-075_hello_what_s_your_name.mp3
-  "Hello, what's your name?"
-  CHARACTER: 
-
 076_hello_hello_hello_dailodily.mp3
   "Hello-dilly-dally"
   CHARACTER: 
 
-077_hi_i_m_troy_mcclure.mp3
-  "Hi, I'm Troy McClure"
-  CHARACTER: 
-
-078_hi_join_the_party.mp3
-  "Hi, join the party!"
-  CHARACTER: 
-
-079_hold_me_only_if_you_hold_me.mp3
-  "Only if you hold me"
-  CHARACTER: 
-
-082_how_can_you_desert_your_children.mp3
-  "How can you desert your children?"
-  CHARACTER: 
-
-083_how_sweet_it_is.mp3
-  "How sweet it is"
-  CHARACTER: 
-
 084_i_am_evil_homer_i_am_evil_homer_i_am_evil_homer_i_am_evil_ho.mp3
   "I am evil Homer"
-  CHARACTER: 
-
-085_i_am_the_thing_from_uranus.mp3
-  "The thing from Uranus"
-  CHARACTER: 
-
-086_i_can_t_i_got_to_take_my_wife_to_the_ballet.mp3
-  "Gotta take my wife to the ballet"
-  CHARACTER: 
-
-087_i_could_do_anything_if_i_just_put_my_mind_to_it.mp3
-  "If I put my mind to it"
-  CHARACTER: 
-
-088_i_didn_t_do_it.mp3
-  "I didn't do it"
-  CHARACTER: 
-
-089_i_don_t_know.mp3
-  "I don't know"
-  CHARACTER: 
-
-090_i_don_t_think_any_of_us_expected_him_to_say_that.mp3
-  "Didn't expect him to say that"
   CHARACTER: 
 
 091_i_gotta_c_minus_i_passed_i_gotta_c_minus_i_passed_i_passed_i.mp3
@@ -286,24 +126,12 @@
   "Your dad ate the whole restaurant"
   CHARACTER: 
 
-093_i_i_admiral_butt_head.mp3
-  "Admiral Butt Head"
-  CHARACTER: 
-
 094_i_know_you_didn_t_believe_me_about_the_vending_machine_that.mp3
   "The fireman wrote me a note"
   CHARACTER: 
 
 095_i_see_esc_ctrl_and_pg_up_there_doesn_t_seem_to_be_any_any_ke.mp3
   "No any key"
-  CHARACTER: 
-
-096_i_sure_like_the_cut_of_your_gibberish.mp3
-  "Cut of your gibberish"
-  CHARACTER: 
-
-097_i_think_i_ll_have_some_wine.mp3
-  "I'll have some wine"
   CHARACTER: 
 
 098_i_used_to_be_a_fat_disgusting_slob_burps.mp3
@@ -318,40 +146,8 @@
   "Going through your garbage"
   CHARACTER: 
 
-101_i_was_more_animal_than_ma.mp3
-  "More animal than man"
-  CHARACTER: 
-
-102_i_won_i_won.mp3
-  "I won, I won!"
-  CHARACTER: 
-
-103_i_d_sell_my_soul_for_a_donut.mp3
-  "Sell my soul for a donut"
-  CHARACTER: 
-
-104_i_m_a_star_wars.mp3
-  "I'm a Star Wars!"
-  CHARACTER: 
-
-105_i_m_afraid_sorry_doesn_t_cut_it_with_this_pope.mp3
-  "Sorry doesn't cut it with this Pope"
-  CHARACTER: 
-
-106_i_m_really_really_really_sorry.mp3
-  "I'm really, really sorry"
-  CHARACTER: 
-
-107_i_m_the_magical_man_from_happy_land.mp3
-  "Magical man from happy land"
-  CHARACTER: 
-
 108_if_elected_mayor_my_first_act_will_be_to_kill_the_whole_lot.mp3
   "Turn you all to cinders"
-  CHARACTER: 
-
-109_if_it_were_up_to_you_all_we_would_ever_do_is_work_and_go_to.mp3
-  "Work and go to church"
   CHARACTER: 
 
 110_if_something_s_hard_to_do_then_it_s_not_worth_doing.mp3
@@ -374,64 +170,20 @@
   "Company policy to give you the plague"
   CHARACTER: 
 
-115_isn_t_life_grand.mp3
-  "Isn't life grand?"
-  CHARACTER: 
-
-116_isn_t_that_the_wrong_way.mp3
-  "Isn't that the wrong way?"
-  CHARACTER: 
-
 117_it_isn_t_that_groundskeeper_willie_teaching_french_then_you.mp3
   "Cheese-eating surrender monkeys"
   CHARACTER: 
 
-118_it_sure_does.mp3
-  "It sure does"
-  CHARACTER: 
-
-119_it_was_like_that_when_i_got_here.mp3
-  "It was like that when I got here"
-  CHARACTER: 
-
-120_it_s_all_yours.mp3
-  "It's all yours"
-  CHARACTER: 
-
 121_it_s_been_4000_days_since_my_last_drink_it_was_my_first_and.mp3
-  "First and last Blackberry Schnapps"
-  CHARACTER: 
-
-122_it_s_time_for_church.mp3
-  "It's time for Church!"
+  "First and last blackberry schnapps"
   CHARACTER: 
 
 123_itchy_and_scratchy_theme.mp3
   "Itchy and Scratchy theme"
   CHARACTER: 
 
-124_just_like_oscar_the_grouch.mp3
-  "Just like Oscar the Grouch"
-  CHARACTER: 
-
 125_kids_you_ve_tried_your_best_and_you_failed_miserably.mp3
   "You failed miserably"
-  CHARACTER: 
-
-126_let_s_get_in_a_quick_nine_down_at_the_pitch_n_putt.mp3
-  "Quick nine at the Pitch 'n' Putt"
-  CHARACTER: 
-
-127_look_that_kid_s_got_bosoms.mp3
-  "That kid's got bosoms!"
-  CHARACTER: 
-
-128_man_this_classic_compulsive_behavior.mp3
-  "Classic compulsive behavior"
-  CHARACTER: 
-
-129_man_what_s_gotten_into_you.mp3
-  "What's gotten into you?"
   CHARACTER: 
 
 131_margerie_please_i_enjoy_all_the_meats_of_our_cultural_stew.mp3
@@ -446,14 +198,6 @@
   "Me fail English? Unpossible"
   CHARACTER: 
 
-135_mmm_forbidden_doughnut.mp3
-  "Mmm, forbidden doughnut"
-  CHARACTER: 
-
-136_mmm_invisible_cola.mp3
-  "Mmm, invisible cola"
-  CHARACTER: 
-
 138_mmm_urinal_fresh.mp3
   "Mmm, urinal fresh"
   CHARACTER: 
@@ -462,52 +206,12 @@
   "My fee is $175 an hour"
   CHARACTER: 
 
-141_my_name_is_ned.mp3
-  "My name is Ned"
-  CHARACTER: 
-
-143_no_jokes_no_taunting.mp3
-  "No jokes, no taunting"
-  CHARACTER: 
-
-144_no_no_beer_bring_pain.mp3
-  "No beer bring pain"
-  CHARACTER: 
-
-145_no_she_won_t.mp3
-  "No she won't"
-  CHARACTER: 
-
 147_now_it_s_marge_is_time_to_shine.mp3
   "Marge's time to shine"
   CHARACTER: 
 
-148_now_let_s_burn_rubber_baby.mp3
-  "Let's burn rubber baby"
-  CHARACTER: 
-
-149_oakily_doakily_doo.mp3
-  "Oakily doakily doo!"
-  CHARACTER: 
-
 150_oh_look_at_me_i_m_making_people_happy_i_m_the_magical_man_fr.mp3
   "Magical man from happy land"
-  CHARACTER: 
-
-151_oh_oh_oh.mp3
-  "Oh oh oh"
-  CHARACTER: 
-
-152_oh_a_wise_guy_eh.mp3
-  "Oh, a wise guy, eh?"
-  CHARACTER: 
-
-153_oh_good_idea_boss.mp3
-  "Good idea boss"
-  CHARACTER: 
-
-154_oh_i_don_t_know.mp3
-  "Oh, I don't know"
   CHARACTER: 
 
 155_oh_i_m_on_a_road_looks_to_be_asphalt_trees_shrubs_i_m_direct.mp3
@@ -526,24 +230,12 @@
   "Pleasure overload"
   CHARACTER: 
 
-159_please_dad_your_embarrassing_us.mp3
-  "Dad, you're embarrassing us"
-  CHARACTER: 
-
-160_please_pay_for_your_purchases_and_get_out_and_come_again.mp3
-  "Get out and come again"
-  CHARACTER: 
-
 164_silly_customer_you_cannot_hurt_the_twinkie.mp3
   "You cannot hurt the Twinkie!"
   CHARACTER: 
 
 165_sixty_four_slices_of_american_cheese.mp3
   "Sixty four slices of American cheese"
-  CHARACTER: 
-
-166_smithers_dismember_the_corpse.mp3
-  "Smithers, dismember the corpse"
   CHARACTER: 
 
 168_so_long_dental_plan_dental_plan_lisa_needs_braces_dental_pla.mp3
@@ -554,16 +246,8 @@
   "Someone smells stinky"
   CHARACTER: 
 
-171_sorry_what_am_i_thinking.mp3
-  "What am I thinking?"
-  CHARACTER: 
-
-172_stupid_tv_be_more_funny.mp3
-  "Stupid TV, be more funny!"
-  CHARACTER: 
-
 173_success_it_s_ringing_most_haven_t_looking_for_mister_smith_i.mp3
-  "Looking for Mister Smith"
+  "Looking for Mr. Smithers"
   CHARACTER: 
 
 175_thank_you_for_coming_i_ll_see_you_in_hell.mp3
@@ -574,40 +258,12 @@
   "I am out of here"
   CHARACTER: 
 
-177_that_was_easy.mp3
-  "That was easy"
-  CHARACTER: 
-
-178_that_would_be_delightful.mp3
-  "That would be delightful!"
-  CHARACTER: 
-
-179_that_s_a_crock.mp3
-  "That's a crock"
-  CHARACTER: 
-
-180_that_s_good_enough_for_me.mp3
-  "That's good enough for me"
-  CHARACTER: 
-
-181_that_s_it_i_m_calling_my_buddies.mp3
-  "I'm calling my buddies"
-  CHARACTER: 
-
 182_that_s_it_you_people_have_stood_in_my_way_long_enough_i_m_go.mp3
   "I'm going to Clown College"
   CHARACTER: 
 
 183_that_s_my_name_that_name_again_is_mister_plow.mp3
   "That name again is Mister Plow"
-  CHARACTER: 
-
-184_that_s_not_a_knife_that_s_a_spoo.mp3
-  "That's not a knife, that's a spoon"
-  CHARACTER: 
-
-185_that_s_the_american_way.mp3
-  "That's the American way"
   CHARACTER: 
 
 186_that_s_what_i_ve_been_saying_we_re_all_fine_the_way_we_are.mp3
@@ -618,24 +274,8 @@
   "Time for another bank run"
   CHARACTER: 
 
-188_that_s_your_advice.mp3
-  "That's your advice?"
-  CHARACTER: 
-
 189_the_doctor_said_i_wouldn_t_have_so_many_nosebleeds_if_i_kept.mp3
   "Keep my finger out of there"
-  CHARACTER: 
-
-190_the_mail_the_mail_is_here_ooh.mp3
-  "The mail is here, ooh!"
-  CHARACTER: 
-
-193_then_grease_me_up_woman.mp3
-  "Then grease me up woman!"
-  CHARACTER: 
-
-194_there_are_ghost_cars_all_over_these_highways.mp3
-  "Ghost cars all over the highways"
   CHARACTER: 
 
 195_there_are_several_fine_young_man_who_i_m_sure_i_m_gonna_go_f.mp3
@@ -662,10 +302,6 @@
   "Trapped inside two vending machines"
   CHARACTER: 
 
-201_time_to_stick_it_to_the_man.mp3
-  "Stick it to the man"
-  CHARACTER: 
-
 202_to_alcohol_the_cause_of_and_solution_to_all_of_life_s_proble.mp3
   "To alcohol!"
   CHARACTER: 
@@ -678,32 +314,12 @@
   "Where's the any key?"
   CHARACTER: 
 
-207_wait_a_minute_who_is_this.mp3
-  "Wait a minute, who is this?"
-  CHARACTER: 
-
-209_we_don_t_need_a_baby_sitter.mp3
-  "We don't need a babysitter"
-  CHARACTER: 
-
 210_we_re_done_for_we_re_done_diddly_done_for.mp3
   "We're done diddly done for"
   CHARACTER: 
 
 211_well_homer_maybe_you_can_take_some_consolation_in_the_fact_t.mp3
   "Something you created makes people happy"
-  CHARACTER: 
-
-213_well_ooh_la_dee_da_mr_frenchman.mp3
-  "Ooh-la-dee-da Mr. Frenchman!"
-  CHARACTER: 
-
-215_what_a_day.mp3
-  "What a day"
-  CHARACTER: 
-
-216_what_do_you_think_smithers.mp3
-  "What do you think, Smithers?"
   CHARACTER: 
 
 217_what_is_that_a_six_barrel_holley_carb_edelbrock_intakes_myoh.mp3
@@ -714,24 +330,12 @@
   "What the hell, we got a call"
   CHARACTER: 
 
-219_what_s_the_deal.mp3
-  "What's the deal?"
-  CHARACTER: 
-
 220_when_i_first_arrived_but_now_i_ve_come_to_love.mp3
   "Now I've come to love"
   CHARACTER: 
 
 221_when_i_grow_up_i_m_going_to_bovine_university.mp3
   "Going to Bovine University"
-  CHARACTER: 
-
-222_when_will_you_be_home.mp3
-  "When will you be home?"
-  CHARACTER: 
-
-223_where_you_going.mp3
-  "Where you going?"
   CHARACTER: 
 
 224_whoops_lost_a_nail_well_that_s_leprosy_for_you.mp3
@@ -746,16 +350,8 @@
   "Yelping"
   CHARACTER: 
 
-230_wrong_wrong_wrong.mp3
-  "Wrong wrong wrong"
-  CHARACTER: 
-
 231_yeah_just_like_object_amanda_huggenkiss_hey_i_m_looking_for.mp3
   "Looking for Amanda Huggenkiss"
-  CHARACTER: 
-
-232_yeah_no_number.mp3
-  "Yeah, no number"
   CHARACTER: 
 
 233_yes_i_m_sorry_i_do_not_speak_english_ok_but_you_were_just_te.mp3
@@ -764,14 +360,6 @@
 
 234_yes_ralph_what_is_it_no_ralph_their_arms_anymore_just_try_to.mp3
   "Sleep, that's where I'm a Viking"
-  CHARACTER: 
-
-235_yes_you_re_in_deep_doo_now.mp3
-  "You're in deep doo now"
-  CHARACTER: 
-
-237_you_have_to_promise_not_to_commit_any_more_crimes_ok.mp3
-  "No more crimes, OK?"
   CHARACTER: 
 
 238_you_magnificent_bastard_i_salute.mp3
@@ -790,14 +378,6 @@
   "The lesson is: never try"
   CHARACTER: 
 
-242_you_ll_make_sargeant_for_this.mp3
-  "You'll make Sergeant for this"
-  CHARACTER: 
-
 243_your_have_your_house_she_had_so_glamorously_decorated_i_thou.mp3
   "I thought I was in Vegas"
-  CHARACTER: 
-
-244_your_silk_wedding.mp3
-  "Your silk wedding"
   CHARACTER: 

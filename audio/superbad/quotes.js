@@ -21,7 +21,7 @@ const quotes = [
     "audioUrl": "audio/superbad/004_chill_zone_where_we_chillax.mp3"
   },
   {
-    "text": "Cool Story Bro",
+    "text": "Cool story bro",
     "character": "",
     "audioUrl": "audio/superbad/005_cool_story_bro.mp3"
   },
@@ -46,7 +46,7 @@ const quotes = [
     "audioUrl": "audio/superbad/009_division_sign.mp3"
   },
   {
-    "text": "Don't Worry about It, I'm Not Worried At All",
+    "text": "Don't worry about it, I'm not worried at all",
     "character": "",
     "audioUrl": "audio/superbad/010_don_t_worry_about_it_i_m_not_worried_at_all.mp3"
   },
@@ -56,7 +56,7 @@ const quotes = [
     "audioUrl": "audio/superbad/011_down_to_fuck.mp3"
   },
   {
-    "text": "Draw Pictures of Dicks",
+    "text": "Draw pictures of dicks",
     "character": "",
     "audioUrl": "audio/superbad/012_draw_pictures_of_dicks.mp3"
   },
@@ -66,7 +66,7 @@ const quotes = [
     "audioUrl": "audio/superbad/013_fake_id.mp3"
   },
   {
-    "text": "Fake ID Fake ID",
+    "text": "Fake ID fake ID",
     "character": "",
     "audioUrl": "audio/superbad/014_fake_id_fake_id.mp3"
   },
@@ -111,7 +111,7 @@ const quotes = [
     "audioUrl": "audio/superbad/023_i_have_to_eat_alone.mp3"
   },
   {
-    "text": "I'm Gettin' That Fa Sho",
+    "text": "I'm gettin' that fa sho",
     "character": "",
     "audioUrl": "audio/superbad/024_i_m_gettin_that_fa_sho.mp3"
   },
@@ -231,7 +231,7 @@ const quotes = [
     "audioUrl": "audio/superbad/048_whats_up.mp3"
   },
   {
-    "text": "You Guys On Myspace",
+    "text": "You guys on Myspace",
     "character": "",
     "audioUrl": "audio/superbad/049_you_guys_on_myspace.mp3"
   },

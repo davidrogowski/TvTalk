@@ -111,7 +111,7 @@ const quotes = [
     "audioUrl": "audio/nacho-libre/156_nacho_libre.mp3"
   },
   {
-    "text": "Nacho Libre stretchy",
+    "text": "Stretchy",
     "character": "",
     "audioUrl": "audio/nacho-libre/158_nacho_libre_stretchy.mp3"
   },

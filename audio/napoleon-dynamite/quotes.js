@@ -6,16 +6,6 @@ const quotes = [
     "audioUrl": "audio/napoleon-dynamite/001_a_frickin_12_gauge.mp3"
   },
   {
-    "text": "Are you serious?",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/002_are_you_serious.mp3"
-  },
-  {
-    "text": "Are you still going to give your speech tomorrow",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/003_are_you_still_going_to_give_your_speech_tomorrow.mp3"
-  },
-  {
     "text": "Ate all the frickin chips, Kip!",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/004_ate_all_the_frickin_chips_kip.mp3"
@@ -34,16 +24,6 @@ const quotes = [
     "text": "Bow to your sensei",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/007_bow_to_your_sensei.mp3"
-  },
-  {
-    "text": "Build her a cake or something",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/008_build_her_a_cake_or_something.mp3"
-  },
-  {
-    "text": "But my lips hurt real bad",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/009_but_my_lips_hurt_real_bad.mp3"
   },
   {
     "text": "Can I have your tots",
@@ -101,16 +81,6 @@ const quotes = [
     "audioUrl": "audio/napoleon-dynamite/020_dang.mp3"
   },
   {
-    "text": "Did you take a dump in your bed last night",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/021_did_you_take_a_dump_in_your_bed_last_night.mp3"
-  },
-  {
-    "text": "Do the chickens have large talons",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/022_do_the_chickens_have_large_talons.mp3"
-  },
-  {
     "text": "Do the chickens have large talons?",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/023_do_the_chickens_have_large_talons.mp3"
@@ -126,19 +96,9 @@ const quotes = [
     "audioUrl": "audio/napoleon-dynamite/026_dump_in_the_bed.mp3"
   },
   {
-    "text": "Fine!",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/027_fine.mp3"
-  },
-  {
     "text": "Freakin Idiot",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/028_freakin_idiot.mp3"
-  },
-  {
-    "text": "Get off my property I'll call the cops on you",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/029_get_off_my_property_i_ll_call_the_cops_on_you.mp3"
   },
   {
     "text": "Gibberish",
@@ -146,74 +106,9 @@ const quotes = [
     "audioUrl": "audio/napoleon-dynamite/030_gibberish.mp3"
   },
   {
-    "text": "Girls only want boyfriends who have great skills",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/031_girls_only_want_boyfriends_have_great_skills.mp3"
-  },
-  {
-    "text": "Go for it",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/033_go_for_it.mp3"
-  },
-  {
-    "text": "Gosh",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/034_gosh.mp3"
-  },
-  {
-    "text": "Grandma said you're supposed to go home",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/035_grandma_just_called_and_said_you_re_supposed_to_go_home.mp3"
-  },
-  {
-    "text": "Gross",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/036_gross.mp3"
-  },
-  {
-    "text": "Gross!",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/037_gross.mp3"
-  },
-  {
     "text": "Happy hands club",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/038_happy_hands_club.mp3"
-  },
-  {
-    "text": "Have you ever heard of nylon polymer",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/039_have_you_ever_heard_of_nylon_polymer.mp3"
-  },
-  {
-    "text": "Have you heard about the dance",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/040_have_you_heard_about_the_dance.mp3"
-  },
-  {
-    "text": "Heck yes I did.",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/041_heck_yes_i_did.mp3"
-  },
-  {
-    "text": "Hello",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/042_hello.mp3"
-  },
-  {
-    "text": "Hey",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/043_hey.mp3"
-  },
-  {
-    "text": "Hey can I have one of your key chains",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/044_hey_can_i_have_one_of_your_key_chains.mp3"
-  },
-  {
-    "text": "Hold on I forgot to put in the crystals",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/045_hold_on_i_forgot_to_put_in_the_crystals.mp3"
   },
   {
     "text": "Throw a football over the mountains",
@@ -226,29 +121,9 @@ const quotes = [
     "audioUrl": "audio/napoleon-dynamite/047_how_to_get_my_haircut_at_the_cotton_corral.mp3"
   },
   {
-    "text": "How's it going",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/048_how_s_it_going.mp3"
-  },
-  {
-    "text": "How's your neck",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/049_how_s_your_neck.mp3"
-  },
-  {
     "text": "Hunting wolverines",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/050_hunting_wolverines.mp3"
-  },
-  {
-    "text": "I can make that much money in 5 seconds",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/051_i_can_make_that_much_money_in_5_seconds.mp3"
-  },
-  {
-    "text": "I caught you a delicious bass",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/052_i_caught_you_a_delicious_bass.mp3"
   },
   {
     "text": "I don't feel very good",
@@ -256,39 +131,14 @@ const quotes = [
     "audioUrl": "audio/napoleon-dynamite/053_i_don_t_feel_very_good.mp3"
   },
   {
-    "text": "I don't understand a word you just said",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/054_i_don_t_understand_a_word_you_just_said.mp3"
-  },
-  {
     "text": "I forgot to put in the crystals",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/055_i_forgot_to_put_in_the_crystals.mp3"
   },
   {
-    "text": "I got sick",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/056_i_got_sick.mp3"
-  },
-  {
-    "text": "Things are getting pretty serious",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/057_i_guess_we_could_say_things_are_getting_pretty_serious.mp3"
-  },
-  {
-    "text": "I like her bangs",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/058_i_like_her_bangs.mp3"
-  },
-  {
     "text": "I like your sleeves, they're real big",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/059_i_like_your_sleeves_they_re_real_big.mp3"
-  },
-  {
-    "text": "I need you to give me a ride in an hour",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/060_i_need_you_to_give_me_a_ride_in_an_hour.mp3"
   },
   {
     "text": "I say love, it is a flower",
@@ -306,19 +156,9 @@ const quotes = [
     "audioUrl": "audio/napoleon-dynamite/063_i_want_that.mp3"
   },
   {
-    "text": "I wish you'd get out of my life and shut up",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/064_i_wish_you_get_out_my_life_and_shut_up.mp3"
-  },
-  {
     "text": "I'm voting for Pedro Sanchez",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/066_i_m_voting_for_pedro_sanchez.mp3"
-  },
-  {
-    "text": "Idiot",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/067_idiot.mp3"
   },
   {
     "text": "Idiot!",
@@ -326,29 +166,9 @@ const quotes = [
     "audioUrl": "audio/napoleon-dynamite/068_idiot.mp3"
   },
   {
-    "text": "Is a sledgehammer",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/069_is_a_sledgehammer.mp3"
-  },
-  {
     "text": "Is grandma there",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/070_is_grandma_there.mp3"
-  },
-  {
-    "text": "Is pedro there",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/071_is_pedro_there.mp3"
-  },
-  {
-    "text": "Is she hot?",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/072_is_she_hot.mp3"
-  },
-  {
-    "text": "It's like a dollar an hour",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/073_it_s_like_a_dollar_an_hour.mp3"
   },
   {
     "text": "It's pretty cool, I guess",
@@ -356,24 +176,9 @@ const quotes = [
     "audioUrl": "audio/napoleon-dynamite/074_it_s_pretty_cool_i_guess.mp3"
   },
   {
-    "text": "Just kinda TO'd",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/075_just_kinda_to_d.mp3"
-  },
-  {
     "text": "Just listen to your heart",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/076_just_listen_to_your_heart.mp3"
-  },
-  {
-    "text": "K, bye.",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/077_k_bye.mp3"
-  },
-  {
-    "text": "Kids Screaming",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/078_kids_screaming.mp3"
   },
   {
     "text": "Kip and LaFawnduh's first date",
@@ -386,44 +191,9 @@ const quotes = [
     "audioUrl": "audio/napoleon-dynamite/080_kip_goes_bowling.mp3"
   },
   {
-    "text": "Large Talons",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/081_large_tallons.mp3"
-  },
-  {
     "text": "Detonators to blow Nessie out of the water",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/082_last_week_japanese_scientist_six_place_place_explosive_deton.mp3"
-  },
-  {
-    "text": "Looks like a medieval warrior",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/083_looks_like_a_medieval_warrior.mp3"
-  },
-  {
-    "text": "Lucky",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/084_lucky.mp3"
-  },
-  {
-    "text": "Make yourself a dang quesadilla",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/085_make_yourself_a_dang_quesadilla.mp3"
-  },
-  {
-    "text": "Making some sweet moola with Uncle Rico",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/086_making_some_sweet_moola_with_uncle_rico.mp3"
-  },
-  {
-    "text": "Maybe I did maybe I didn't",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/087_maybe_i_did_maybe_i_didn_t.mp3"
-  },
-  {
-    "text": "Me too",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/088_me_too.mp3"
   },
   {
     "text": "Mole",
@@ -431,44 +201,9 @@ const quotes = [
     "audioUrl": "audio/napoleon-dynamite/089_mole.mp3"
   },
   {
-    "text": "My lips hurt real bad",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/090_my_lips_hurt_real_bad.mp3"
-  },
-  {
-    "text": "Napoleon Dynamite",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/091_napoleon_dynamite.mp3"
-  },
-  {
-    "text": "No",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/092_no.mp3"
-  },
-  {
     "text": "Nunchuck skills",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/093_nunchuck_skills.mp3"
-  },
-  {
-    "text": "Oh",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/094_oh.mp3"
-  },
-  {
-    "text": "OK",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/095_ok.mp3"
-  },
-  {
-    "text": "Peace out",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/096_peace_out.mp3"
-  },
-  {
-    "text": "Pedro offers you his protection",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/097_pedro_offers_you_his_protection.mp3"
   },
   {
     "text": "Pedro's feeling hot",
@@ -479,11 +214,6 @@ const quotes = [
     "text": "Probably the best drawing I've ever done",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/099_probably_the_best_drawing_i_ve_ever_done.mp3"
-  },
-  {
-    "text": "Probably the best that I know of",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/100_probably_the_best_that_i_know_of.mp3"
   },
   {
     "text": "Pull me in",
@@ -501,24 +231,9 @@ const quotes = [
     "audioUrl": "audio/napoleon-dynamite/103_round_house.mp3"
   },
   {
-    "text": "See ya",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/104_see_ya.mp3"
-  },
-  {
     "text": "She doesn't want you here",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/105_she_said_she_doesn_t_want_you_here_when_she_gets_back_becaus.mp3"
-  },
-  {
-    "text": "She's pretty good looking",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/106_she_s_pretty_good_looking.mp3"
-  },
-  {
-    "text": "Shut up I am not",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/107_shut_up_i_am_not.mp3"
   },
   {
     "text": "Slap fight",
@@ -531,49 +246,14 @@ const quotes = [
     "audioUrl": "audio/napoleon-dynamite/109_so_me_and_you_are_pretty_much_friends_by_now_right.mp3"
   },
   {
-    "text": "Piece of crap doesn't work",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/110_so_piece_of_crap_doesn_t_work.mp3"
-  },
-  {
     "text": "Soaking up the sun",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/111_soaking_up_solely.mp3"
   },
   {
-    "text": "Such an idiot",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/112_such_an_idiot.mp3"
-  },
-  {
-    "text": "Sweet",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/113_sweet.mp3"
-  },
-  {
     "text": "Gonna come out really nice",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/114_that_was_the_one_i_think_that_s_gonna_come_out_really_nice.mp3"
-  },
-  {
-    "text": "That's too bad",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/115_that_s_too_bad.mp3"
-  },
-  {
-    "text": "That's what I'm talkin about",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/116_that_s_what_i_m_talkin_about.mp3"
-  },
-  {
-    "text": "That's what I'm talking about",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/117_that_s_what_i_m_talking_about.mp3"
-  },
-  {
-    "text": "The worst day of my life",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/118_the_worst_day_of_my_life.mp3"
   },
   {
     "text": "What would you do in that situation?",
@@ -586,16 +266,6 @@ const quotes = [
     "audioUrl": "audio/napoleon-dynamite/120_this_is_a_girl.mp3"
   },
   {
-    "text": "The worst video ever made",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/121_this_is_pretty_much_the_worst_video_ever_made.mp3"
-  },
-  {
-    "text": "Pretty good with a bo staff",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/122_this_one_gang_kept_wanting_me_to_join_because_i_m_pretty_goo.mp3"
-  },
-  {
     "text": "Three feet of air",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/123_three_feet_of_air.mp3"
@@ -606,34 +276,9 @@ const quotes = [
     "audioUrl": "audio/napoleon-dynamite/124_time_machine.mp3"
   },
   {
-    "text": "Tina come get some ham",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/125_tina_come_get_some_ham.mp3"
-  },
-  {
-    "text": "Tina you fat lard",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/126_tina_you_fat_lard.mp3"
-  },
-  {
-    "text": "Three hours shading your upper lip",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/127_took_me_like_three_hours_to_finish_the_shading_on_your_upper.mp3"
-  },
-  {
     "text": "Tupperware demo fail",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/128_tupperware_demo_fail.mp3"
-  },
-  {
-    "text": "Ugh",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/129_ugh.mp3"
-  },
-  {
-    "text": "Ugh gross",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/130_ugh_gross.mp3"
   },
   {
     "text": "Uncle Rico back in '82",
@@ -656,34 +301,9 @@ const quotes = [
     "audioUrl": "audio/napoleon-dynamite/134_uncle_rico_go_pro.mp3"
   },
   {
-    "text": "Vote for Pedro",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/135_vote_for_pedro.mp3"
-  },
-  {
-    "text": "Watt",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/136_watt.mp3"
-  },
-  {
     "text": "Nobody's going to go out with me",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/137_well_nobody_s_going_to_go_out_with_me.mp3"
-  },
-  {
-    "text": "Well what's there to eat?",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/138_well_what_s_there_to_eat.mp3"
-  },
-  {
-    "text": "What",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/139_what.mp3"
-  },
-  {
-    "text": "It's a piece of crap",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/140_what_did_you_go_eat_in_to_quote_a_piece_of_crap.mp3"
   },
   {
     "text": "What kind of bike do you have",
@@ -691,59 +311,9 @@ const quotes = [
     "audioUrl": "audio/napoleon-dynamite/141_what_kind_of_bike_do_you_have.mp3"
   },
   {
-    "text": "Whatever I feel like I want to do",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/142_whatever_i_feel_like_i_want_to_do.mp3"
-  },
-  {
-    "text": "Whatever I feel like I want to say",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/143_whatever_i_feel_like_i_want_to_say.mp3"
-  },
-  {
-    "text": "Go tell your mom to shut up",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/144_where_did_you_go_tell_your_mom_to_shut_up.mp3"
-  },
-  {
-    "text": "Who are you",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/145_who_are_you.mp3"
-  },
-  {
-    "text": "Who are you going to ask",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/146_who_are_you_going_to_ask.mp3"
-  },
-  {
-    "text": "Illegal ninja moves from the government",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/147_who_is_the_only_one_here_knows_illegal_ninja_moves_from_the.mp3"
-  },
-  {
-    "text": "Why",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/148_why.mp3"
-  },
-  {
-    "text": "Worst video ever",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/149_worst_video_ever.mp3"
-  },
-  {
-    "text": "Yeah right",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/150_yeah_right.mp3"
-  },
-  {
     "text": "Yes",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/151_yes.mp3"
-  },
-  {
-    "text": "Yes, I love technology",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/152_yes_i_love_technology.mp3"
   },
   {
     "text": "Yes! Yes! Yes! Yes!",
@@ -751,49 +321,9 @@ const quotes = [
     "audioUrl": "audio/napoleon-dynamite/153_yes_yes_yes_yes.mp3"
   },
   {
-    "text": "Yessss (Kip)",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/154_yessss_kip.mp3"
-  },
-  {
-    "text": "You already know what you're going to say",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/155_you_already_know_what_you_re_going_to_say.mp3"
-  },
-  {
-    "text": "You can say that again",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/156_you_can_say_that_again.mp3"
-  },
-  {
-    "text": "We're not babies",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/158_you_don_t_have_to_stay_here_with_us_we_re_not_babies.mp3"
-  },
-  {
     "text": "You ever take it off any sweet jumps",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/159_you_ever_take_it_off_any_sweet_jumps.mp3"
-  },
-  {
-    "text": "You gonna eat your tots?",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/160_you_gonna_eat_your_tots.mp3"
-  },
-  {
-    "text": "You guys are retarded",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/161_you_guys_are_retarded.mp3"
-  },
-  {
-    "text": "You guys have any killer time",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/162_you_guys_have_any_killer_time.mp3"
-  },
-  {
-    "text": "You guys having a killer time",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/163_you_guys_having_a_killer_time.mp3"
   },
   {
     "text": "You just come get me",
@@ -804,11 +334,6 @@ const quotes = [
     "text": "You're good at hooking up with chicks",
     "character": "",
     "audioUrl": "audio/napoleon-dynamite/165_you_re_good_at_hooking_up_with_chicks.mp3"
-  },
-  {
-    "text": "You're such an idiot",
-    "character": "",
-    "audioUrl": "audio/napoleon-dynamite/166_you_re_such_an_idiot.mp3"
   },
   {
     "text": "Your mom goes to college",

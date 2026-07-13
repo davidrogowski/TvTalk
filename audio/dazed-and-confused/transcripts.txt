@@ -3,7 +3,7 @@
   CHARACTER: 
 
 002_check_ya_later.mp3
-  "Check Ya Later"
+  "Check ya later"
   CHARACTER: 
 
 003_i_get_older_they_stay_the_same_age.mp3
@@ -19,7 +19,7 @@
   CHARACTER: 
 
 006_it_d_be_a_lot_cooler_if_you_did.mp3
-  "It'd Be A Lot Cooler If You Did"
+  "It'd be a lot cooler if you did"
   CHARACTER: 
 
 007_school_s_out_for_summer.mp3

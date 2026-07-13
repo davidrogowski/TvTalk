@@ -26,11 +26,6 @@ const quotes = [
     "audioUrl": "audio/knocked-up/005_fuck_you_hormones.mp3"
   },
   {
-    "text": "Get out!",
-    "character": "",
-    "audioUrl": "audio/knocked-up/006_get_out.mp3"
-  },
-  {
     "text": "He looks like Jon Favreau",
     "character": "",
     "audioUrl": "audio/knocked-up/007_he_looks_like_fatty_arbuckle_he_looks_like_jon_favreau.mp3"
@@ -49,11 +44,6 @@ const quotes = [
     "text": "Don't let the door hit your vagina",
     "character": "",
     "audioUrl": "audio/knocked-up/010_hey_guys_don_t_let_the_door_hit_in_the_vagina_on_the_way_out.mp3"
-  },
-  {
-    "text": "Door hit you in the vagina",
-    "character": "",
-    "audioUrl": "audio/knocked-up/011_hey_pete_don_t_let_the_door_hit_you_in_the_vagina_on_the_way.mp3"
   },
   {
     "text": "Good morning, 3 boyfriends",
@@ -156,132 +146,102 @@ const quotes = [
     "audioUrl": "audio/knocked-up/031_pink_eye.mp3"
   },
   {
-    "text": "Kids Go Ape Shit Over Bubbles",
+    "text": "Kids go ape shit over bubbles",
     "character": "",
     "audioUrl": "audio/knocked-up/032_seem_to_love_bubbles_oh_god_they_go_ape_shit_over_bubbles_re.mp3"
   },
   {
-    "text": "She Like The Way Your Dick Taste",
-    "character": "",
-    "audioUrl": "audio/knocked-up/033_she_like_the_way_your_dick_taste.mp3"
-  },
-  {
-    "text": "Your New Boyfriend?",
+    "text": "Your new boyfriend?",
     "character": "",
     "audioUrl": "audio/knocked-up/034_so_he_came_over_for_breakfast_because_he_s_your_new_boyfrien.mp3"
   },
   {
-    "text": "Come To The Gynecologist",
+    "text": "Come to the gynecologist",
     "character": "",
     "audioUrl": "audio/knocked-up/035_so_what_happens_now_i_don_t_know_how_this_works_i_m_going_to.mp3"
   },
   {
-    "text": "Sex Offenders In Our Neighborhood",
+    "text": "Sex offenders in our neighborhood",
     "character": "",
     "audioUrl": "audio/knocked-up/036_these_are_all_the_sex_offenders_in_our_neighborhood_looks_li.mp3"
   },
   {
-    "text": "They Said That A Lot. That Sucks.",
+    "text": "They said that a lot. That sucks.",
     "character": "",
     "audioUrl": "audio/knocked-up/037_they_said_that_a_lot_that_sucks.mp3"
   },
   {
-    "text": "This Is My Time Machine",
+    "text": "This is my time machine",
     "character": "",
     "audioUrl": "audio/knocked-up/038_this_is_my_time_machine.mp3"
   },
   {
-    "text": "I'm Gonna Hurl",
+    "text": "I'm gonna hurl",
     "character": "",
     "audioUrl": "audio/knocked-up/039_this_one_makes_my_pee_smell_no_more_bubbly_stuff_that_s_maki.mp3"
   },
   {
-    "text": "Tighter",
-    "character": "",
-    "audioUrl": "audio/knocked-up/040_tighter.mp3"
-  },
-  {
-    "text": "We Wants To Rear Your Child",
-    "character": "",
-    "audioUrl": "audio/knocked-up/041_we_wants_to_rear_your_child.mp3"
-  },
-  {
-    "text": "Well Played Sir",
-    "character": "",
-    "audioUrl": "audio/knocked-up/042_well_played_sir.mp3"
-  },
-  {
-    "text": "Dressed Like A Cholo On Easter",
+    "text": "Dressed like a cholo on Easter",
     "character": "",
     "audioUrl": "audio/knocked-up/043_well_that_was_fast_you_pussy_i_m_a_and_you_re_the_one_that_g.mp3"
   },
   {
-    "text": "Treating My Kids Like Dogs",
+    "text": "Treating my kids like dogs",
     "character": "",
     "audioUrl": "audio/knocked-up/044_what_do_you_think_of_him_he_s_funny_right_hmm_snatch_all_rig.mp3"
   },
   {
-    "text": "Shouldn't Have Given Him Meth",
+    "text": "Shouldn't have given him meth",
     "character": "",
     "audioUrl": "audio/knocked-up/045_what_is_there_left_to_want_i_get_to_go_to_legoland_say_it_do.mp3"
   },
   {
-    "text": "What The Hell Is This?",
+    "text": "What the hell is this?",
     "character": "",
     "audioUrl": "audio/knocked-up/046_what_is_this_what_the_hell_is_this_i_think_you_picked_up_the.mp3"
   },
   {
-    "text": "If He Never Existed",
+    "text": "If he never existed",
     "character": "",
     "audioUrl": "audio/knocked-up/047_when_you_look_at_me_do_you_not_think_at_all_like_you_know_if.mp3"
   },
   {
-    "text": "Where Do Babies Come From?",
+    "text": "Where do babies come from?",
     "character": "",
     "audioUrl": "audio/knocked-up/048_where_do_babies_come_from.mp3"
   },
   {
-    "text": "We're Listening To Rent",
+    "text": "We're listening to Rent",
     "character": "",
     "audioUrl": "audio/knocked-up/049_who_wants_to_hear_some_music_i_want_to_hear_when_i_wanna_hea.mp3"
   },
   {
-    "text": "Women Can't Get Pregnant On Top",
-    "character": "",
-    "audioUrl": "audio/knocked-up/050_women_can_t_get_pregnant_on_top.mp3"
-  },
-  {
-    "text": "You Look A Lot Like Your Sister",
+    "text": "You look a lot like your sister",
     "character": "",
     "audioUrl": "audio/knocked-up/051_you_do_look_a_lot_like_your_sister.mp3"
   },
   {
-    "text": "You Stare At Your Balls",
-    "character": "",
-    "audioUrl": "audio/knocked-up/052_you_get_so_bored_you_stare_at_your_balls.mp3"
-  },
-  {
-    "text": "You Googled Murder?",
+    "text": "You googled murder?",
     "character": "",
     "audioUrl": "audio/knocked-up/053_you_googled_murder_why_i_mean_what_did_it_say_show_pictures.mp3"
   },
   {
-    "text": "Stop Commenting On How Fat I Am",
+    "text": "Stop commenting on how fat I am",
     "character": "",
     "audioUrl": "audio/knocked-up/054_you_should_probably_not_comment_so_much_about_how_fat_i_am_r.mp3"
   },
   {
-    "text": "You Have A Thyroid Problem",
+    "text": "You have a thyroid problem",
     "character": "",
     "audioUrl": "audio/knocked-up/055_you_think_i_m_getting_away_with_it_well_if_you_re_standing_n.mp3"
   },
   {
-    "text": "Go To Disneyland",
+    "text": "Go to Disneyland",
     "character": "",
     "audioUrl": "audio/knocked-up/056_you_want_a_good_time_you_go_to_disneyland_all_right_go_to_fr.mp3"
   },
   {
-    "text": "I'm Just Really Constipated",
+    "text": "I'm just really constipated",
     "character": "",
     "audioUrl": "audio/knocked-up/057_you_want_sex_yeah_well_this_is_not_sound_good_at_all_right_n.mp3"
   }

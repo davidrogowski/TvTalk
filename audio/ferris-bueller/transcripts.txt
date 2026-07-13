@@ -7,11 +7,11 @@
   CHARACTER: 
 
 003_cameron_i_m_dying.mp3
-  "Cameron 'I'm Dying'"
+  "Cameron 'I'm dying'"
   CHARACTER: 
 
 004_city_celebration_parade.mp3
-  "City Celebration Parade"
+  "City celebration parade"
   CHARACTER: 
 
 005_come_pick_me_up.mp3
@@ -35,11 +35,11 @@
   CHARACTER: 
 
 010_i_weep_for_the_future.mp3
-  "I Weep For The Future"
+  "I weep for the future"
   CHARACTER: 
 
 011_i_ll_go_i_ll_go_i_ll_go_i_ll_go.mp3
-  "I'll Go I'll Go I'll Go I'll Go"
+  "I'll go I'll go I'll go I'll go"
   CHARACTER: 
 
 012_life_moves_pretty_fast.mp3
@@ -55,7 +55,7 @@
   CHARACTER: 
 
 015_pardon_my_french_but_you_re_an_asshole.mp3
-  "Pardon My French, But You're An Asshole"
+  "Pardon my French, but you're an asshole"
   CHARACTER: 
 
 016_que_bella.mp3
@@ -71,7 +71,7 @@
   CHARACTER: 
 
 019_they_think_he_s_a_righteous_dude.mp3
-  "They Think He's A Righteous Dude"
+  "They think he's a righteous dude"
   CHARACTER: 
 
 020_twist_and_shout.mp3

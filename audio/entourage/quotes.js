@@ -351,7 +351,7 @@ const quotes = [
     "audioUrl": "audio/entourage/081_hip_hop_music_playing_engine_rewing.mp3"
   },
   {
-    "text": "Lights Out, it's Johnny Drama!",
+    "text": "Lights out, it's Johnny Drama!",
     "character": "",
     "audioUrl": "audio/entourage/084_people_cheering_whoa_people_whistling_lights_out_it_s_johnn.mp3"
   },

@@ -6,7 +6,7 @@ const quotes = [
     "audioUrl": "audio/dazed-and-confused/001_alright_alright_alright.mp3"
   },
   {
-    "text": "Check Ya Later",
+    "text": "Check ya later",
     "character": "",
     "audioUrl": "audio/dazed-and-confused/002_check_ya_later.mp3"
   },
@@ -26,7 +26,7 @@ const quotes = [
     "audioUrl": "audio/dazed-and-confused/005_i_wanna_dance.mp3"
   },
   {
-    "text": "It'd Be A Lot Cooler If You Did",
+    "text": "It'd be a lot cooler if you did",
     "character": "",
     "audioUrl": "audio/dazed-and-confused/006_it_d_be_a_lot_cooler_if_you_did.mp3"
   },

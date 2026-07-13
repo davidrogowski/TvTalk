@@ -1,0 +1,79 @@
+001_chips_please.mp3
+  "Chips please"
+  CHARACTER: 
+
+002_died_your_mom_for_me.mp3
+  "Died your mom for me"
+  CHARACTER: 
+
+003_does_he_make_you_laugh_he_doesn_t_make_me_cry.mp3
+  "He doesn't make me cry"
+  CHARACTER: 
+
+004_don_t_touch_your_tie_look_at_me.mp3
+  "Don't touch your tie"
+  CHARACTER: 
+
+005_good_morning_morning_please_state_your_name_for_the_record_d.mp3
+  "State your name: Daniel Ocean"
+  CHARACTER: 
+
+006_hang_it_up_and_put_it_away_do_you_have_any_idea_how_vulnerab.mp3
+  "Cell phones and fetus brains"
+  CHARACTER: 
+
+007_i_m_not_sure_these_belong_to_me.mp3
+  "These don't belong to me"
+  CHARACTER: 
+
+008_i_m_sorry_we_ve_lost_him.mp3
+  "I'm sorry, we've lost him"
+  CHARACTER: 
+
+009_if_all_the_animals_along_the_equator_were_capable_of_flatter.mp3
+  "Animals along the equator"
+  CHARACTER: 
+
+010_mr_benedict_you_can_lose_80_million_tonight_secretly_or_you.mp3
+  "Lose 80 million secretly"
+  CHARACTER: 
+
+011_my_wife_left_me_i_was_upset_i_got_into_a_self_destructive_pa.mp3
+  "A self-destructive pattern"
+  CHARACTER: 
+
+012_she_already_left_me_once_i_don_t_think_she_d_do_it_again_jus.mp3
+  "She wouldn't leave for kicks"
+  CHARACTER: 
+
+013_the_doctor_specializes_in_skin_diseases_we_ll_dream_he_has_f.mp3
+  "Doctor specializes in skin diseases"
+  CHARACTER: 
+
+014_who_the_hell_is_this_the_man_who_s_robbing_you.mp3
+  "The man who's robbing you"
+  CHARACTER: 
+
+015_you_had_one_job_to_do.mp3
+  "You had one job"
+  CHARACTER: 
+
+016_you_kidding_i_just_became_a_citizen_again.mp3
+  "I just became a citizen"
+  CHARACTER: 
+
+017_you_let_our_80_million_go_and_you_get_to_keep_yours_that_s_t.mp3
+  "Let our 80 million go"
+  CHARACTER: 
+
+018_you_look_down_they_know_you_re_lying_and_up_they_know_you_do.mp3
+  "Don't shift your weight"
+  CHARACTER: 
+
+019_you_proved_your_point_you_broke_into_my_vault_congratulation.mp3
+  "Congratulations, you're a dead man"
+  CHARACTER: 
+
+020_you_re_not_wearing_your_ring_i_sold_it.mp3
+  "You're not wearing your ring"
+  CHARACTER: 

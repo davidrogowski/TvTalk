@@ -1,7 +1,3 @@
-001_a_little_scheduling_mixup.mp3
-  "A little scheduling mixup"
-  CHARACTER: 
-
 002_adam_west_ringing_doorbells.mp3
   "Adam West ringing doorbells"
   CHARACTER: 
@@ -35,19 +31,11 @@
   CHARACTER: 
 
 010_al_gore_celebrating.mp3
-  "Al Gore Celebrating"
-  CHARACTER: 
-
-011_alarm_clock.mp3
-  "Alarm Clock"
+  "Al Gore celebrating"
   CHARACTER: 
 
 012_all_this_money.mp3
-  "All This Money"
-  CHARACTER: 
-
-013_almost.mp3
-  "Almost"
+  "All this money"
   CHARACTER: 
 
 014_alone_and_frightened_lois.mp3
@@ -59,11 +47,7 @@
   CHARACTER: 
 
 016_aquaman_doesn_t_help.mp3
-  "Aquaman Doesn't Help"
-  CHARACTER: 
-
-017_are_you_a_pedophile.mp3
-  "Are you a pedophile?"
+  "Aquaman doesn't help"
   CHARACTER: 
 
 018_avoid_at_all_costs.mp3
@@ -71,35 +55,15 @@
   CHARACTER: 
 
 019_ba_dum_tss.mp3
-  "Ba Dum Tss"
-  CHARACTER: 
-
-020_baba_booey.mp3
-  "Baba Booey"
+  "Ba dum tss"
   CHARACTER: 
 
 021_back_in_the_civilized_north.mp3
   "Back in the civilized north"
   CHARACTER: 
 
-022_bad_day_to_carpool.mp3
-  "Bad day to carpool"
-  CHARACTER: 
-
-023_be_a_man.mp3
-  "Be a man"
-  CHARACTER: 
-
 024_best_sex_i_have_ever_had.mp3
   "Best sex I have ever had"
-  CHARACTER: 
-
-025_big_whoop_want_to_fight_about_it.mp3
-  "Big whoop, want to fight about it?"
-  CHARACTER: 
-
-026_bingo_bitches.mp3
-  "Bingo bitches"
   CHARACTER: 
 
 027_bird_s_the_word.mp3
@@ -119,7 +83,7 @@
   CHARACTER: 
 
 031_bob_belcher_and_archer_impressions.mp3
-  "Bob Belcher and Archer Impressions"
+  "Bob Belcher and Archer impressions"
   CHARACTER: 
 
 032_bob_ross_takes_secrets_seriously.mp3
@@ -131,11 +95,7 @@
   CHARACTER: 
 
 034_bow_chicka_wow_wow.mp3
-  "Bow Chicka Wow Wow"
-  CHARACTER: 
-
-035_breaking_news.mp3
-  "Breaking News"
+  "Bow chicka wow wow"
   CHARACTER: 
 
 036_brian_come_here_you_bastard.mp3
@@ -143,7 +103,7 @@
   CHARACTER: 
 
 037_brian_kisses_bonnie.mp3
-  "Brian Kisses Bonnie"
+  "Brian kisses Bonnie"
   CHARACTER: 
 
 038_brian_questions_your_relationship_with_your_assistant.mp3
@@ -151,23 +111,15 @@
   CHARACTER: 
 
 039_brian_snoopy_dance.mp3
-  "Brian Snoopy Dance"
+  "Brian Snoopy dance"
   CHARACTER: 
 
 040_bring_it_on.mp3
   "Bring it on!"
   CHARACTER: 
 
-041_bruce_oooh_noo.mp3
-  "Bruce Oooh Noo"
-  CHARACTER: 
-
 042_but_it_just_might_work.mp3
   "But it just might work"
-  CHARACTER: 
-
-043_but_your_way_is_good_too.mp3
-  "But your way is good too"
   CHARACTER: 
 
 044_butt_on_carpet.mp3
@@ -182,16 +134,8 @@
   "Call me! Call me! Call me!"
   CHARACTER: 
 
-047_can_i_talk_to_you_for_a_second.mp3
-  "Can I talk to you for a second"
-  CHARACTER: 
-
 048_can_my_wife_get_you_anything.mp3
   "Can my wife get you anything?"
-  CHARACTER: 
-
-049_can_t_it_be_both.mp3
-  "Can't it be both"
   CHARACTER: 
 
 050_can_t_tell_anyone.mp3
@@ -199,31 +143,15 @@
   CHARACTER: 
 
 051_cant_touch_me.mp3
-  "Cant Touch Me"
+  "Can't touch me"
   CHARACTER: 
 
 052_cat_launcher.mp3
   "Cat launcher"
   CHARACTER: 
 
-053_chris_there_you_are.mp3
-  "Chris there you are!"
-  CHARACTER: 
-
-054_chris_trick_or_treat.mp3
-  "Chris Trick or Treat"
-  CHARACTER: 
-
-055_chris.mp3
-  "Chris?"
-  CHARACTER: 
-
 056_christmas_time_is_killing_us.mp3
   "Christmas time is killing us!"
-  CHARACTER: 
-
-057_cleveland_brown_jr.mp3
-  "Cleveland Brown Jr"
   CHARACTER: 
 
 058_close_the_door.mp3
@@ -234,28 +162,12 @@
   "Clown Porn"
   CHARACTER: 
 
-060_cock_a_doodle_doo.mp3
-  "Cock a doodle doo"
-  CHARACTER: 
-
 061_congratulations.mp3
   "Congratulations..."
   CHARACTER: 
 
-062_cook_off.mp3
-  "Cook off"
-  CHARACTER: 
-
 063_cookie.mp3
   "Cookie!"
-  CHARACTER: 
-
-064_cool_move.mp3
-  "Cool Move"
-  CHARACTER: 
-
-065_count_it.mp3
-  "Count it"
   CHARACTER: 
 
 066_couple_of_squares_squaresville_i_tell_ya.mp3
@@ -278,14 +190,6 @@
   "Daddy’s Home"
   CHARACTER: 
 
-071_damn_it.mp3
-  "Damn it"
-  CHARACTER: 
-
-072_damn_nature_you_scary.mp3
-  "Damn nature, you scary"
-  CHARACTER: 
-
 073_dance_the_dance_of_life.mp3
   "Dance the dance of life"
   CHARACTER: 
@@ -294,12 +198,8 @@
   "Dancing to FNAF"
   CHARACTER: 
 
-075_dear_god.mp3
-  "Dear god"
-  CHARACTER: 
-
 076_deliciously_white_trash.mp3
-  "Deliciously White Trash"
+  "Deliciously white trash"
   CHARACTER: 
 
 077_diamond_engagement_ring.mp3
@@ -310,12 +210,8 @@
   "Diego Sweaty"
   CHARACTER: 
 
-079_ding_fries_are_done.mp3
-  "Ding Fries Are Done"
-  CHARACTER: 
-
 080_dip_dip_dip_dip_dip.mp3
-  "Dip Dip Dip Dip Dip"
+  "Dip dip dip dip dip"
   CHARACTER: 
 
 081_diving_into_money.mp3
@@ -323,7 +219,7 @@
   CHARACTER: 
 
 082_do_it_in_front_of_me.mp3
-  "Do It In Front of Me"
+  "Do it in front of me"
   CHARACTER: 
 
 083_do_math.mp3
@@ -343,11 +239,7 @@
   CHARACTER: 
 
 087_do_you_know_what_time_it_is.mp3
-  "Do You Know What Time it Is?"
-  CHARACTER: 
-
-088_do_you_listen_to_yourself_when_you_talk.mp3
-  "Do You Listen to Yourself When You Talk"
+  "Do you know what time it is?"
   CHARACTER: 
 
 089_does_that_sideboob_turn_you_on.mp3
@@ -358,48 +250,20 @@
   "Don't get mad"
   CHARACTER: 
 
-091_don_t_make_me_do_stuff.mp3
-  "Don't make me do stuff"
-  CHARACTER: 
-
 092_don_t_mouth_off_to_me.mp3
-  "Don't Mouth Off to Me"
-  CHARACTER: 
-
-093_don_t_you_want_to_have_sex.mp3
-  "Don't you want to have sex"
-  CHARACTER: 
-
-094_done.mp3
-  "Done!"
+  "Don't mouth off to me"
   CHARACTER: 
 
 095_dramatic_exit.mp3
   "Dramatic exit"
   CHARACTER: 
 
-096_dynomite.mp3
-  "Dynomite!"
-  CHARACTER: 
-
-097_educate_yourself_fool.mp3
-  "Educate yourself, fool"
-  CHARACTER: 
-
 098_ellen_interrupts.mp3
   "Ellen Interrupts"
   CHARACTER: 
 
-099_enjoy_your_weird_bath.mp3
-  "Enjoy your weird bath"
-  CHARACTER: 
-
 100_escaped_from_kevin_spacey_s_basement.mp3
   "Escaped from Kevin Spacey's basement"
-  CHARACTER: 
-
-101_everybody_spit_on_meg.mp3
-  "Everybody spit on Meg!"
   CHARACTER: 
 
 102_everything_is_better_with_a_bag_of_weed.mp3
@@ -411,11 +275,7 @@
   CHARACTER: 
 
 104_evil_monkey_points.mp3
-  "Evil Monkey Points"
-  CHARACTER: 
-
-105_ewww.mp3
-  "Ewww"
+  "Evil Monkey points"
   CHARACTER: 
 
 106_excited_stewie_doing_laps.mp3
@@ -426,16 +286,8 @@
   "Excruciating"
   CHARACTER: 
 
-108_excuse_me.mp3
-  "Excuse me"
-  CHARACTER: 
-
 109_exit_while_checking_out_the_hot_chick_by_the_door.mp3
   "Exit while checking out the hot chick by the door"
-  CHARACTER: 
-
-110_fact.mp3
-  "Fact"
   CHARACTER: 
 
 111_falling_down_stairs.mp3
@@ -443,39 +295,31 @@
   CHARACTER: 
 
 112_family_guy_bad_joke.mp3
-  "Family Guy Bad Joke"
+  "Bad joke"
   CHARACTER: 
 
 113_family_guy_dance_to_fnaf.mp3
-  "Family Guy dance to FNAF"
+  "Dance to FNAF"
   CHARACTER: 
 
 114_family_guy_irish_dance.mp3
-  "Family Guy Irish dance"
+  "Irish dance"
   CHARACTER: 
 
 115_family_guy_it_s_a_wonderful_day_for_pie.mp3
-  "Family Guy It's a Wonderful Day for Pie"
+  "It's a Wonderful Day for Pie"
   CHARACTER: 
 
 116_family_guy_matt.mp3
-  "Family Guy Matt"
+  "Matt"
   CHARACTER: 
 
 117_family_guy_mum.mp3
-  "Family Guy mum"
+  "Mum"
   CHARACTER: 
 
 118_family_guy_puke.mp3
-  "Family Guy Puke"
-  CHARACTER: 
-
-119_family_guy_strangely_arousing.mp3
-  "Family Guy Strangely Arousing"
-  CHARACTER: 
-
-120_fart.mp3
-  "Fart"
+  "Puke"
   CHARACTER: 
 
 121_fart_hole.mp3
@@ -494,20 +338,12 @@
   "Fart Song"
   CHARACTER: 
 
-125_farting_bubble_gum.mp3
-  "Farting Bubble Gum"
-  CHARACTER: 
-
 126_fg_farting.mp3
   "FG Farting"
   CHARACTER: 
 
 127_following_fat_guy_with_tuba.mp3
   "Following fat guy with tuba"
-  CHARACTER: 
-
-128_football.mp3
-  "Football"
   CHARACTER: 
 
 129_fozzie_bear_arab_joke.mp3
@@ -518,20 +354,8 @@
   "Fuck it, We'll do it live!"
   CHARACTER: 
 
-131_fuck_off.mp3
-  "Fuck off"
-  CHARACTER: 
-
-132_fucking_idiot.mp3
-  "Fucking idiot"
-  CHARACTER: 
-
 133_get_back_in_here_and_love_me.mp3
-  "Get Back In Here and Love Me!"
-  CHARACTER: 
-
-134_get_naked.mp3
-  "Get naked"
+  "Get back in here and love me!"
   CHARACTER: 
 
 135_get_out_of_this_house.mp3
@@ -542,24 +366,12 @@
   "Get some rest"
   CHARACTER: 
 
-137_get_your_fat_ass_back_here.mp3
-  "Get your fat ass back here"
-  CHARACTER: 
-
 138_getting_all_the_a_s_out_of_my_body.mp3
   "Getting all the A's out of my body"
   CHARACTER: 
 
 139_giant_robot_thumbs_up.mp3
   "Giant Robot thumbs up"
-  CHARACTER: 
-
-140_giggity_giggity_giggity_goo.mp3
-  "Giggity giggity giggity goo"
-  CHARACTER: 
-
-141_giggity_giggity_giggity_goo.mp3
-  "Giggity giggity, giggity goo"
   CHARACTER: 
 
 142_giggity_goo_song.mp3
@@ -570,20 +382,12 @@
   "Giggty"
   CHARACTER: 
 
-144_gimme_money.mp3
-  "Gimme money"
-  CHARACTER: 
-
 145_go_pro_failure.mp3
-  "Go Pro Failure"
+  "Go Pro failure"
   CHARACTER: 
 
 146_go_straighten_it_out_right_now.mp3
   "Go straighten it out right now!"
-  CHARACTER: 
-
-147_god_what_do_i_do.mp3
-  "God what do i do?"
   CHARACTER: 
 
 148_god_you_are_aging_so_rapidly.mp3
@@ -595,11 +399,7 @@
   CHARACTER: 
 
 150_good_job_local_hen.mp3
-  "Good Job Local Hen"
-  CHARACTER: 
-
-151_good_luck.mp3
-  "Good luck"
+  "Good job local hen"
   CHARACTER: 
 
 152_good_morning.mp3
@@ -607,67 +407,23 @@
   CHARACTER: 
 
 153_good_morning_from_family_guy.mp3
-  "Good Morning From Family Guy"
+  "Good morning from Family Guy"
   CHARACTER: 
 
 154_good_night.mp3
   "Good Night"
   CHARACTER: 
 
-155_good_night_everybody.mp3
-  "Good night everybody!"
-  CHARACTER: 
-
-156_good_oj.mp3
-  "Good OJ"
-  CHARACTER: 
-
-157_good_good.mp3
-  "Good. Good"
-  CHARACTER: 
-
 158_goodnight_moon_of_chernobyl.mp3
   "Goodnight Moon of Chernobyl"
-  CHARACTER: 
-
-159_got_my_money.mp3
-  "Got my money?"
-  CHARACTER: 
-
-160_got_some_stuff_you_want_me_to_do_for_you.mp3
-  "Got some stuff you want me to do for you?"
-  CHARACTER: 
-
-161_greased_up_deaf_guy.mp3
-  "Greased up deaf guy"
   CHARACTER: 
 
 162_grimace_mcdonalds.mp3
   "Grimace"
   CHARACTER: 
 
-163_guess_who.mp3
-  "Guess Who"
-  CHARACTER: 
-
-164_guess_who.mp3
-  "Guess Who"
-  CHARACTER: 
-
-165_guilty_guilty_guilty.mp3
-  "Guilty, guilty, guilty!"
-  CHARACTER: 
-
 166_guiltyyyyy.mp3
   "Guiltyyyyy!"
-  CHARACTER: 
-
-167_haha_you_re_funny.mp3
-  "Haha. You're funny"
-  CHARACTER: 
-
-168_halloween_is_fun.mp3
-  "Halloween is fun"
   CHARACTER: 
 
 169_happy_4th_of_july_jack_skellington.mp3
@@ -694,10 +450,6 @@
   "Hello new friends"
   CHARACTER: 
 
-175_hellooo.mp3
-  "Hellooo"
-  CHARACTER: 
-
 176_herbert_the_pervert.mp3
   "Herbert the Pervert"
   CHARACTER: 
@@ -706,140 +458,32 @@
   "Herbert: Baseball"
   CHARACTER: 
 
-178_herbert_better_get_that.mp3
-  "Herbert: Better get that"
-  CHARACTER: 
-
-179_herbert_call_me.mp3
-  "Herbert: Call me"
-  CHARACTER: 
-
 180_herbert_come_down_to_cellar.mp3
-  "Herbert: Come down to Cellar"
-  CHARACTER: 
-
-181_herbert_come_over.mp3
-  "Herbert: Come over"
-  CHARACTER: 
-
-182_herbert_fat_ass.mp3
-  "Herbert: Fat ass"
+  "Herbert: Come down to cellar"
   CHARACTER: 
 
 183_herbert_freezer.mp3
   "Herbert: Freezer"
   CHARACTER: 
 
-184_herbert_good_day.mp3
-  "Herbert: Good day"
-  CHARACTER: 
-
-185_herbert_hello_kyle.mp3
-  "Herbert: Hello, Kyle"
-  CHARACTER: 
-
-186_herbert_hello_kyle_2.mp3
-  "Herbert: Hello, Kyle 2"
-  CHARACTER: 
-
 187_herbert_ice_cream_truck.mp3
-  "Herbert: Ice Cream Truck"
-  CHARACTER: 
-
-188_herbert_jackpot.mp3
-  "Herbert: Jackpot"
-  CHARACTER: 
-
-189_herbert_mrs.mp3
-  "Herbert: Mrs"
+  "Herbert: Ice cream truck"
   CHARACTER: 
 
 190_herbert_my_bday.mp3
-  "Herbert: My BDay"
-  CHARACTER: 
-
-191_herbert_my_bday_2.mp3
-  "Herbert: My BDay 2"
-  CHARACTER: 
-
-192_herbert_my_phone.mp3
-  "Herbert: My phone?"
-  CHARACTER: 
-
-193_herbert_no_police.mp3
-  "Herbert: No Police"
-  CHARACTER: 
-
-194_herbert_not_for_you.mp3
-  "Herbert: Not for you"
-  CHARACTER: 
-
-195_herbert_pewterschmidt.mp3
-  "Herbert: Pewterschmidt"
-  CHARACTER: 
-
-196_herbert_rats.mp3
-  "Herbert: Rats"
+  "Herbert: My bday"
   CHARACTER: 
 
 197_herbert_slap_you.mp3
   "Herbert: Slap you"
   CHARACTER: 
 
-198_herbert_sweet_jesus.mp3
-  "Herbert: Sweet Jesus"
-  CHARACTER: 
-
-199_herbert_where_are_you.mp3
-  "Herbert: Where are you?"
-  CHARACTER: 
-
-200_herbert_who_needs.mp3
-  "Herbert: Who needs?"
-  CHARACTER: 
-
-201_herbert_work_out.mp3
-  "Herbert: Work out"
-  CHARACTER: 
-
 202_here_is_what_i_think_of_your_test.mp3
   "Here is what i think of your test"
   CHARACTER: 
 
-203_hey_chris.mp3
-  "Hey Chris"
-  CHARACTER: 
-
-204_hey_pal_not_now_i_m_busy.mp3
-  "Hey pal not now I'm busy"
-  CHARACTER: 
-
-205_hey_you_what_s_your_name.mp3
-  "Hey you, what's your name?"
-  CHARACTER: 
-
 206_hey_shut_up.mp3
   "Hey, Shut up"
-  CHARACTER: 
-
-207_hi.mp3
-  "Hi"
-  CHARACTER: 
-
-208_hi.mp3
-  "Hi"
-  CHARACTER: 
-
-209_hi_five.mp3
-  "Hi Five"
-  CHARACTER: 
-
-210_high_five.mp3
-  "High Five"
-  CHARACTER: 
-
-211_hit_me.mp3
-  "Hit me"
   CHARACTER: 
 
 212_hollywood_fart.mp3
@@ -854,16 +498,8 @@
   "Horse licking Peter's butt"
   CHARACTER: 
 
-215_horse_whipping_man.mp3
-  "Horse Whipping Man"
-  CHARACTER: 
-
 216_house_keeping.mp3
   "House Keeping"
-  CHARACTER: 
-
-217_how_about_some_whipped_cream.mp3
-  "How about some whipped cream"
   CHARACTER: 
 
 218_how_deliciously_evil.mp3
@@ -874,24 +510,12 @@
   "How do you not know about trick or treating?"
   CHARACTER: 
 
-220_how_was_your_first_day.mp3
-  "How was your first day?"
-  CHARACTER: 
-
 221_hug_it_out.mp3
   "Hug it out"
   CHARACTER: 
 
-222_huh_maybe.mp3
-  "Huh, maybe"
-  CHARACTER: 
-
 223_i_admit_it_you_were_right.mp3
   "I admit it, You were right"
-  CHARACTER: 
-
-224_i_am_a_catholic.mp3
-  "I am a Catholic"
   CHARACTER: 
 
 225_i_am_out_of_here.mp3
@@ -902,28 +526,12 @@
   "I am possibly homosexual, never brush my teeth"
   CHARACTER: 
 
-227_i_am_so_confused.mp3
-  "I am so confused"
-  CHARACTER: 
-
 228_i_am_so_ready.mp3
   "I am so ready"
   CHARACTER: 
 
-229_i_am_very_angry_with_you.mp3
-  "I am very angry with you"
-  CHARACTER: 
-
-230_i_can_t_find_a_job_anywhere.mp3
-  "I can't find a job anywhere"
-  CHARACTER: 
-
 231_i_clean_toilet.mp3
   "I clean toilet"
-  CHARACTER: 
-
-232_i_don_t_know.mp3
-  "I don't know"
   CHARACTER: 
 
 233_i_don_t_know_what_else_i_can_say.mp3
@@ -934,28 +542,8 @@
   "I don’t know goofy laugh"
   CHARACTER: 
 
-235_i_find_your_attitude_cavalier.mp3
-  "I find your attitude cavalier"
-  CHARACTER: 
-
-236_i_guess_this_is_the_night_bitches_die.mp3
-  "I guess this is the night bitches die"
-  CHARACTER: 
-
-237_i_hate_you.mp3
-  "I hate you"
-  CHARACTER: 
-
-238_i_have_good_news_and_aye_yai_yai_news.mp3
-  "I have good news and Aye Yai Yai news"
-  CHARACTER: 
-
 239_i_have_got_the_most_beautiful_woman_at_home.mp3
   "I have got the most beautiful woman at home"
-  CHARACTER: 
-
-240_i_have_spoken.mp3
-  "I HAVE SPOKEN"
   CHARACTER: 
 
 241_i_hope_we_don_t_up_on_the_news.mp3
@@ -970,14 +558,6 @@
   "I just wanna talk to him"
   CHARACTER: 
 
-244_i_just_want_to_punch_them.mp3
-  "I just want to punch them"
-  CHARACTER: 
-
-245_i_knew_this_was_gonna_happen.mp3
-  "I knew this was gonna happen"
-  CHARACTER: 
-
 246_i_love_women.mp3
   "I love women"
   CHARACTER: 
@@ -986,16 +566,8 @@
   "I love you"
   CHARACTER: 
 
-248_i_need_help_unloading_the_groceries.mp3
-  "I need help unloading the groceries"
-  CHARACTER: 
-
 249_i_need_to_use_the_bathroom.mp3
   "I need to use the bathroom"
-  CHARACTER: 
-
-250_i_never_sleep.mp3
-  "I never sleep"
   CHARACTER: 
 
 251_i_told_ya.mp3
@@ -1011,23 +583,7 @@
   CHARACTER: 
 
 254_i_want_it_now.mp3
-  "I Want It Now"
-  CHARACTER: 
-
-255_i_want_to_have_your_baby.mp3
-  "I want to have your baby"
-  CHARACTER: 
-
-256_i_was_trying_to_be_sexy_for_you.mp3
-  "I was trying to be sexy for you"
-  CHARACTER: 
-
-257_i_would_suggest_that_you_suck_that.mp3
-  "I would suggest that you suck that"
-  CHARACTER: 
-
-258_i_m_a_black_guy.mp3
-  "I'm a black guy"
+  "I want it now"
   CHARACTER: 
 
 259_i_m_a_broom.mp3
@@ -1043,11 +599,7 @@
   CHARACTER: 
 
 262_i_m_half_shark_and_half_peter.mp3
-  "I'm Half Shark and Half Peter"
-  CHARACTER: 
-
-263_i_m_having_a_good_time.mp3
-  "I'm having a good time"
+  "I'm half shark and half Peter"
   CHARACTER: 
 
 264_i_m_having_a_heart_attack_ack_ack_ack.mp3
@@ -1058,20 +610,8 @@
   "I'm just not in that kind of mood right now"
   CHARACTER: 
 
-266_i_m_losing_control_of_the_situation.mp3
-  "I'm losing control of the situation"
-  CHARACTER: 
-
 267_i_m_not_a_strong_reader.mp3
   "I'm not a strong reader"
-  CHARACTER: 
-
-268_i_m_not_lying.mp3
-  "I'm not lying"
-  CHARACTER: 
-
-269_i_m_screwed.mp3
-  "I'm screwed"
   CHARACTER: 
 
 270_i_m_so_sorry.mp3
@@ -1094,28 +634,12 @@
   "Indecisive"
   CHARACTER: 
 
-275_irony.mp3
-  "Irony"
-  CHARACTER: 
-
-276_irony.mp3
-  "Irony"
-  CHARACTER: 
-
-277_is_there_anymore_coffee.mp3
-  "Is there anymore coffee?"
-  CHARACTER: 
-
 278_it_ain_t_easy_being_cheesy.mp3
   "It ain't easy being cheesy"
   CHARACTER: 
 
 279_it_appears_my_cranium_has_doubled_in_size.mp3
   "It appears my cranium has doubled in size"
-  CHARACTER: 
-
-280_it_is_snowing.mp3
-  "It is snowing!"
   CHARACTER: 
 
 281_it_might_be_difficult_for_you_to_hear.mp3
@@ -1126,18 +650,6 @@
   "It puts the lotions on its skin"
   CHARACTER: 
 
-283_it_s_for_his_job.mp3
-  "It's for his job"
-  CHARACTER: 
-
-284_it_s_gonna_rain.mp3
-  "It's Gonna Rain"
-  CHARACTER: 
-
-285_it_s_more_magical_than_i_imagined.mp3
-  "It's more magical than I imagined"
-  CHARACTER: 
-
 286_it_s_not_all_about_action.mp3
   "It's not all about action"
   CHARACTER: 
@@ -1146,40 +658,8 @@
   "It's not okay to be a freshman"
   CHARACTER: 
 
-288_it_s_not_the_wind.mp3
-  "It's Not The Wind"
-  CHARACTER: 
-
-289_it_s_okay.mp3
-  "It's okay"
-  CHARACTER: 
-
-290_it_s_okay.mp3
-  "It's okay"
-  CHARACTER: 
-
 291_it_s_raining_bitches.mp3
   "It's raining bitches"
-  CHARACTER: 
-
-292_it_s_unbelievable.mp3
-  "It's unbelievable"
-  CHARACTER: 
-
-293_jaw_drop.mp3
-  "Jaw Drop"
-  CHARACTER: 
-
-294_jeez_what_was_that_about.mp3
-  "Jeez what was that about?"
-  CHARACTER: 
-
-295_jewish_and_proud.mp3
-  "Jewish and proud"
-  CHARACTER: 
-
-296_joe_walk_2.mp3
-  "Joe walk 2"
   CHARACTER: 
 
 297_just_give_me_one_more_chance.mp3
@@ -1192,10 +672,6 @@
 
 299_just_thinking_about_it_makes_me_all_makes_my_giddy.mp3
   "Just thinking about it makes me all makes my giddy"
-  CHARACTER: 
-
-300_kiss_on_the_cheek.mp3
-  "Kiss on the cheek"
   CHARACTER: 
 
 301_kissing_the_turkey.mp3
@@ -1214,16 +690,8 @@
   "Let's get me setup on this Tinder thing"
   CHARACTER: 
 
-305_let_s_have_sex_on_the_laundry.mp3
-  "Let's have sex on the laundry"
-  CHARACTER: 
-
-306_let_s_try_singing.mp3
-  "Let's try singing"
-  CHARACTER: 
-
 307_lois_and_bonnie_kiss.mp3
-  "Lois and Bonnie Kiss"
+  "Lois and Bonnie kiss"
   CHARACTER: 
 
 308_lois_and_peter_griffin_in_love.mp3
@@ -1246,16 +714,8 @@
   "Mama"
   CHARACTER: 
 
-313_meg_and_anthony_kiss.mp3
-  "Meg and Anthony Kiss"
-  CHARACTER: 
-
-314_meg_who_let_you_in.mp3
-  "Meg Who Let You In"
-  CHARACTER: 
-
 315_meg_mom_dad_am_i_ugly.mp3
-  "Meg: Mom, Dad Am I ugly?"
+  "Meg: Mom, Dad am I ugly?"
   CHARACTER: 
 
 316_megatron_family_guy.mp3
@@ -1264,14 +724,6 @@
 
 317_men_and_women_compliments.mp3
   "Men and women compliments"
-  CHARACTER: 
-
-318_merry_christmas_everyone.mp3
-  "Merry Christmas, Everyone!"
-  CHARACTER: 
-
-319_merry_christmas.mp3
-  "Merry Christmas!"
   CHARACTER: 
 
 320_mets_fan.mp3
@@ -1295,11 +747,7 @@
   CHARACTER: 
 
 325_mort_escape_on_menorah.mp3
-  "Mort Escape on Menorah"
-  CHARACTER: 
-
-326_my_baby_ernesto.mp3
-  "My Baby Ernesto"
+  "Mort escape on menorah"
   CHARACTER: 
 
 327_my_body_is_rejecting_it.mp3
@@ -1307,23 +755,11 @@
   CHARACTER: 
 
 328_my_drunken_irish_dad.mp3
-  "My Drunken Irish Dad"
-  CHARACTER: 
-
-329_my_god_this_app_is_amazing.mp3
-  "My God, this app is amazing"
-  CHARACTER: 
-
-330_my_insides_are_on_fire.mp3
-  "My insides are on fire"
+  "My drunken Irish dad"
   CHARACTER: 
 
 331_my_name_is_jeff.mp3
   "My name is jeff"
-  CHARACTER: 
-
-332_my_phone_s_broken.mp3
-  "My phone's broken"
   CHARACTER: 
 
 333_natalia_i_have_been_sent_to_neutralize_liberal_jewish_dissid.mp3
@@ -1332,10 +768,6 @@
 
 334_nfl_concussions.mp3
   "NFL Concussions"
-  CHARACTER: 
-
-335_no.mp3
-  "No"
   CHARACTER: 
 
 336_no_by_consuela.mp3
@@ -1347,95 +779,27 @@
   CHARACTER: 
 
 338_no_no_no.mp3
-  "No, No, No."
-  CHARACTER: 
-
-339_no_you_suck.mp3
-  "No, you suck"
+  "No, no, no."
   CHARACTER: 
 
 340_nobody_messes_with_adam_we.mp3
   "Nobody messes with Adam We"
   CHARACTER: 
 
-341_now_i_see_why_you_re_here.mp3
-  "Now I see why you're here"
-  CHARACTER: 
-
-342_of_course_you_bet_totes_magotes.mp3
-  "Of course. You bet. Totes Magotes"
-  CHARACTER: 
-
 343_officially_an_uber_driver.mp3
-  "Officially an Uber Driver"
-  CHARACTER: 
-
-344_oh_god_i_m_sorry_you_okay.mp3
-  "Oh god I'm sorry you okay?"
-  CHARACTER: 
-
-345_oh_god.mp3
-  "Oh God!"
-  CHARACTER: 
-
-346_oh_hey_chris.mp3
-  "Oh hey Chris"
-  CHARACTER: 
-
-347_oh_my_god.mp3
-  "Oh my god"
+  "Officially an Uber driver"
   CHARACTER: 
 
 348_oh_my_god_you_can_talk.mp3
   "Oh my God, you can talk!"
   CHARACTER: 
 
-349_oh_my_god.mp3
-  "Oh my god!"
-  CHARACTER: 
-
-350_oh_my_god.mp3
-  "Oh my god!"
-  CHARACTER: 
-
-351_oh_no.mp3
-  "Oh no"
-  CHARACTER: 
-
-352_oh_no.mp3
-  "Oh No"
-  CHARACTER: 
-
-353_oh_no_she_didn_t.mp3
-  "Oh No She Didn't"
-  CHARACTER: 
-
 354_oh_oh.mp3
   "Oh oh"
   CHARACTER: 
 
-355_oh_ok.mp3
-  "Oh ok"
-  CHARACTER: 
-
-356_oh_okay.mp3
-  "Oh Okay"
-  CHARACTER: 
-
-357_oh_okay.mp3
-  "Oh Okay!"
-  CHARACTER: 
-
 358_oh_reginald.mp3
   "Oh Reginald"
-  CHARACTER: 
-
-359_oh_snap.mp3
-  "Oh snap!"
-  CHARACTER: 
-
-360_oh_that_smells_fantastic.mp3
-  "Oh that smells fantastic"
   CHARACTER: 
 
 361_oh_that_s_nasty.mp3
@@ -1446,48 +810,16 @@
   "Oh that's nasty"
   CHARACTER: 
 
-363_oh_this_sucks.mp3
-  "Oh this sucks"
-  CHARACTER: 
-
 364_oh_yeah.mp3
   "Oh Yeah!"
   CHARACTER: 
 
-365_ohoho_yes.mp3
-  "Ohoho yes"
-  CHARACTER: 
-
-366_okay_fine.mp3
-  "Okay fine"
-  CHARACTER: 
-
-367_okay_got_it.mp3
-  "Okay, got it"
-  CHARACTER: 
-
-368_omg_omg_omg.mp3
-  "OMG OMG OMG"
-  CHARACTER: 
-
 369_ooh_a_piece_of_candy.mp3
-  "Ooh a Piece of Candy"
-  CHARACTER: 
-
-370_ooh_piece_of_candy.mp3
-  "Ooh, piece of candy!"
-  CHARACTER: 
-
-371_oooooh.mp3
-  "Oooooh"
-  CHARACTER: 
-
-372_ostrich_laugh.mp3
-  "Ostrich Laugh"
+  "Ooh a piece of candy"
   CHARACTER: 
 
 373_paddy_tanniger_the_caddy_manager.mp3
-  "Paddy Tanniger the Caddy Manager"
+  "Paddy Tanniger the caddy manager"
   CHARACTER: 
 
 374_pardon_me_that_s_my_hat.mp3
@@ -1498,20 +830,16 @@
   "Party at someone else's house"
   CHARACTER: 
 
-376_passover_seder.mp3
-  "Passover Seder"
-  CHARACTER: 
-
 377_paul_is_a_persons_name.mp3
   "Paul is a persons name"
   CHARACTER: 
 
 378_pay_for_the_bread.mp3
-  "Pay For The Bread"
+  "Pay for the bread"
   CHARACTER: 
 
 379_peanut_butter_jelly.mp3
-  "Peanut Butter Jelly"
+  "Peanut butter jelly"
   CHARACTER: 
 
 380_peanut_butter_jelly_time.mp3
@@ -1522,40 +850,20 @@
   "People sneezing in a salad bar"
   CHARACTER: 
 
-382_pepperidge_farm_remembers.mp3
-  "Pepperidge Farm remembers"
-  CHARACTER: 
-
-383_peter_and_lois_griffin_kiss.mp3
-  "Peter and Lois Griffin kiss"
-  CHARACTER: 
-
 384_peter_and_quagmire_dancing.mp3
-  "Peter And Quagmire dancing"
+  "Peter and Quagmire dancing"
   CHARACTER: 
 
 385_peter_eats_quinoa.mp3
-  "Peter Eats Quinoa"
+  "Peter eats quinoa"
   CHARACTER: 
 
 386_peter_falls_down.mp3
-  "Peter Falls Down"
+  "Peter falls down"
   CHARACTER: 
 
 387_peter_farts_for_the_first_time.mp3
-  "Peter Farts for the First Time"
-  CHARACTER: 
-
-388_peter_griffin_i_love_you.mp3
-  "Peter Griffin I Love You"
-  CHARACTER: 
-
-389_peter_griffin_mi_amore.mp3
-  "Peter Griffin Mi Amore"
-  CHARACTER: 
-
-390_peter_griffin_burning_pasports.mp3
-  "Peter Griffin burning pasports"
+  "Peter farts for the first time"
   CHARACTER: 
 
 391_peter_griffin_dance.mp3
@@ -1563,7 +871,7 @@
   CHARACTER: 
 
 392_peter_griffin_dancing.mp3
-  "Peter Griffin Dancing"
+  "Peter Griffin dancing"
   CHARACTER: 
 
 393_peter_griffin_in_a_spanish_soap_opera.mp3
@@ -1571,11 +879,11 @@
   CHARACTER: 
 
 394_peter_griffin_laugh.mp3
-  "Peter Griffin Laugh"
+  "Peter Griffin laugh"
   CHARACTER: 
 
 395_peter_griffin_song.mp3
-  "Peter Griffin Song"
+  "Peter Griffin song"
   CHARACTER: 
 
 396_peter_griffin_spooky_scary_skeletons.mp3
@@ -1583,7 +891,7 @@
   CHARACTER: 
 
 397_peter_griffin_tea.mp3
-  "Peter Griffin Tea"
+  "Peter Griffin tea"
   CHARACTER: 
 
 398_peter_griffin_welcome_to_this_work_environment.mp3
@@ -1595,11 +903,11 @@
   CHARACTER: 
 
 400_peter_joins_the_army.mp3
-  "Peter Joins the Army"
+  "Peter joins the army"
   CHARACTER: 
 
 401_peter_kisses_lois.mp3
-  "Peter Kisses Lois"
+  "Peter kisses Lois"
   CHARACTER: 
 
 402_peter_lalalaa.mp3
@@ -1638,14 +946,6 @@
   "Peter's Laugh"
   CHARACTER: 
 
-411_petter_falling_loop.mp3
-  "Petter falling loop"
-  CHARACTER: 
-
-412_photos_every_day.mp3
-  "Photos Every Day"
-  CHARACTER: 
-
 413_piter_griffin_whining.mp3
   "Piter Griffin whining"
   CHARACTER: 
@@ -1670,20 +970,8 @@
   "Quagmire"
   CHARACTER: 
 
-419_quagmire_excuse_me.mp3
-  "Quagmire: Excuse me"
-  CHARACTER: 
-
 420_quahog_shouting_match.mp3
   "Quahog shouting match"
-  CHARACTER: 
-
-421_raccoon_wounds.mp3
-  "Raccoon Wounds"
-  CHARACTER: 
-
-422_racist_kermit.mp3
-  "Racist Kermit"
   CHARACTER: 
 
 423_raining_sideways.mp3
@@ -1694,40 +982,16 @@
   "Reagan smash"
   CHARACTER: 
 
-425_really.mp3
-  "Really?"
-  CHARACTER: 
-
 426_reunited_and_it_feels_so_good.mp3
-  "Reunited And It Feels So Good"
-  CHARACTER: 
-
-427_roadhouse_family_guy.mp3
-  "Roadhouse Family Guy"
-  CHARACTER: 
-
-428_rrrrrrr.mp3
-  "RRRrrrr!"
-  CHARACTER: 
-
-429_salad.mp3
-  "SALAD!"
+  "Reunited and it feels so good"
   CHARACTER: 
 
 430_sandman.mp3
   "Sandman"
   CHARACTER: 
 
-431_say_whaaat.mp3
-  "Say Whaaat"
-  CHARACTER: 
-
 432_school_s_out_for_the_summer.mp3
   "School’s out for the summer"
-  CHARACTER: 
-
-433_sex_is_pointless_without_potency.mp3
-  "Sex is pointless without potency"
   CHARACTER: 
 
 434_shovin_buddies.mp3
@@ -1735,19 +999,7 @@
   CHARACTER: 
 
 435_show_me_potato_salad.mp3
-  "Show Me Potato Salad"
-  CHARACTER: 
-
-436_shut_up_and_take_me.mp3
-  "Shut up and take me!"
-  CHARACTER: 
-
-437_shut_up_meg.mp3
-  "Shut up, Meg"
-  CHARACTER: 
-
-438_shut_your_mouth.mp3
-  "Shut your mouth"
+  "Show me potato salad"
   CHARACTER: 
 
 439_silly_hunter.mp3
@@ -1758,16 +1010,8 @@
   "Smashes desk"
   CHARACTER: 
 
-441_so_busy_i_don_t_have_time_to_organize_my_own_life.mp3
-  "No time for my own life"
-  CHARACTER: 
-
 442_space_dog_dance.mp3
   "Space Dog dance"
-  CHARACTER: 
-
-443_speak_with_your_heart_not_your_mouth.mp3
-  "Speak with your heart, not your mouth"
   CHARACTER: 
 
 444_speaking_italian.mp3
@@ -1779,15 +1023,11 @@
   CHARACTER: 
 
 446_stan_smith_gun.mp3
-  "Stan Smith Gun"
-  CHARACTER: 
-
-447_stan_smith_quiet_fatty.mp3
-  "Stan Smith Quiet fatty"
+  "Stan Smith gun"
   CHARACTER: 
 
 448_stan_smith_waste_space.mp3
-  "Stan Smith Waste space"
+  "Stan Smith waste space"
   CHARACTER: 
 
 449_standing_desk.mp3
@@ -1815,31 +1055,15 @@
   CHARACTER: 
 
 455_stewie_calls_lois.mp3
-  "Stewie Calls Lois"
-  CHARACTER: 
-
-456_stewie_feeding_stewie.mp3
-  "Stewie feeding Stewie"
+  "Stewie calls Lois"
   CHARACTER: 
 
 457_stewie_game_on.mp3
-  "Stewie Game On!"
-  CHARACTER: 
-
-458_stewie_laughing.mp3
-  "Stewie laughing"
-  CHARACTER: 
-
-459_stewie_laughing_in_the_tub.mp3
-  "Stewie laughing in the tub"
+  "Stewie game on!"
   CHARACTER: 
 
 460_stewie_loves_ann_murray_s_music.mp3
-  "Stewie Loves Ann Murray's Music"
-  CHARACTER: 
-
-461_stewie_s_face_palm.mp3
-  "Stewie's face palm"
+  "Stewie loves Ann Murray's music"
   CHARACTER: 
 
 462_sunny_a_moment_ago.mp3
@@ -1847,7 +1071,7 @@
   CHARACTER: 
 
 463_surfin_bird_execution.mp3
-  "Surfin Bird Execution"
+  "Surfin Bird execution"
   CHARACTER: 
 
 464_surprisingly_quick_erection_for_stewie.mp3
@@ -1870,10 +1094,6 @@
   "That is Disgusting"
   CHARACTER: 
 
-469_that_really_grinds_my_gears.mp3
-  "That really grinds my gears"
-  CHARACTER: 
-
 470_that_sounds_awful.mp3
   "That sounds awful"
   CHARACTER: 
@@ -1882,24 +1102,12 @@
   "That was a fart"
   CHARACTER: 
 
-472_that_was_an_ordeal.mp3
-  "That was an ordeal"
-  CHARACTER: 
-
-473_that_d_be_sweeeeet.mp3
-  "That'd be sweeeeet"
-  CHARACTER: 
-
 474_that_s_not_funny.mp3
   "That's not funny"
   CHARACTER: 
 
 475_that_s_the_last_time_i_got_to_a_waterpark.mp3
   "That's the last time I got to a waterpark"
-  CHARACTER: 
-
-476_that_s_what_i_was_telling_you_about.mp3
-  "That's what I was telling you about"
   CHARACTER: 
 
 477_the_mexican_david_blaine.mp3
@@ -1918,18 +1126,6 @@
   "The Rose"
   CHARACTER: 
 
-481_this_family_believes_in_easter_bunny.mp3
-  "This family believes in Easter Bunny"
-  CHARACTER: 
-
-482_this_is_delicious.mp3
-  "This is delicious!"
-  CHARACTER: 
-
-483_this_is_the_guy_whose_wife_i_am_banging.mp3
-  "This is the guy whose wife i am banging"
-  CHARACTER: 
-
 484_this_is_the_second_vacation_that_i_have_watched_every_jurass.mp3
   "Watched every Jurassic Park"
   CHARACTER: 
@@ -1943,35 +1139,23 @@
   CHARACTER: 
 
 487_train_on_water.mp3
-  "Train On Water"
+  "Train on water"
   CHARACTER: 
 
 488_train.mp3
-  "TRAIN!"
+  "Train!"
   CHARACTER: 
 
 489_trololo_man.mp3
   "Trololo Man"
   CHARACTER: 
 
-490_uh_yeah_what_do_you_think_i_keep_in_this_backpack.mp3
-  "What's in this backpack?"
-  CHARACTER: 
-
-491_untruthful.mp3
-  "Untruthful"
-  CHARACTER: 
-
 492_us_army_your_experience_may_differ.mp3
-  "US Army Your Experience May Differ"
+  "US Army your experience may differ"
   CHARACTER: 
 
 493_vasectomy_song.mp3
   "Vasectomy Song"
-  CHARACTER: 
-
-494_victory_is_mine.mp3
-  "Victory is mine"
   CHARACTER: 
 
 495_vodka_beer.mp3
@@ -1982,44 +1166,16 @@
   "Watch for early signs of infection"
   CHARACTER: 
 
-497_we_all_let_it_happen.mp3
-  "We all let it happen"
-  CHARACTER: 
-
 498_we_sound_amazing_together.mp3
   "We sound amazing together!"
-  CHARACTER: 
-
-499_we_re_an_unusual_family.mp3
-  "We're an unusual family"
   CHARACTER: 
 
 500_we_re_letting_you_go.mp3
   "We're letting you go"
   CHARACTER: 
 
-501_well_i_don_t_know.mp3
-  "Well I don’t know"
-  CHARACTER: 
-
 502_what_the_hell_is_wrong_with_you.mp3
   "What the hell is wrong with you"
-  CHARACTER: 
-
-503_what_the_hell.mp3
-  "What the hell?"
-  CHARACTER: 
-
-504_what_the_hell.mp3
-  "What the hell?!"
-  CHARACTER: 
-
-505_what.mp3
-  "What?!"
-  CHARACTER: 
-
-506_what_s_the_deal_with_airline_food.mp3
-  "What's the deal with airline food?"
   CHARACTER: 
 
 507_what_s_your_name.mp3
@@ -2030,12 +1186,8 @@
   "When babies fly!"
   CHARACTER: 
 
-509_where_d_everyone_go.mp3
-  "Where'd everyone go?"
-  CHARACTER: 
-
 510_where_s_my_money.mp3
-  "Where's My Money"
+  "Where's my money"
   CHARACTER: 
 
 511_where_s_my_money.mp3
@@ -2046,28 +1198,16 @@
   "Where's my money?!"
   CHARACTER: 
 
-513_which_one_of_us_is_which.mp3
-  "Which one of us is which?"
-  CHARACTER: 
-
 514_who_are_you.mp3
   "Who are you?"
   CHARACTER: 
 
-515_who_the_hell_are_ya.mp3
-  "Who the hell are ya"
-  CHARACTER: 
-
 516_who_the_hell_cares.mp3
-  "Who the Hell Cares"
+  "Who the hell cares"
   CHARACTER: 
 
 517_who_the_hell_cares.mp3
-  "Who the Hell Cares"
-  CHARACTER: 
-
-518_who_the_hell_is_this_bitch.mp3
-  "Who the hell is this bitch?"
+  "Who the hell cares"
   CHARACTER: 
 
 519_who_touched_the_thermostat.mp3
@@ -2078,44 +1218,20 @@
   "Who want this dog"
   CHARACTER: 
 
-521_who_s_asking.mp3
-  "Who's asking?"
-  CHARACTER: 
-
 522_who_s_there.mp3
   "Who's there?"
   CHARACTER: 
 
 523_whoa_whoa_whoa.mp3
-  "Whoa Whoa Whoa"
+  "Whoa whoa whoa"
   CHARACTER: 
 
 524_why_did_all_the_dinosaurs_die_out.mp3
   "Why did all the dinosaurs die out?"
   CHARACTER: 
 
-525_why_didn_t_you_say_anything.mp3
-  "Why didn't you say anything?!"
-  CHARACTER: 
-
 526_wilkins_hyundai_and_subaru_commercial.mp3
-  "Wilkins Hyundai and Subaru Commercial"
-  CHARACTER: 
-
-527_would_that_be_something_you_d_be_interested_in.mp3
-  "Would that be something you'd be interested in?"
-  CHARACTER: 
-
-528_wow.mp3
-  "Wow"
-  CHARACTER: 
-
-529_wow_that_s_some_nose_you_got.mp3
-  "Wow that's some nose you got"
-  CHARACTER: 
-
-530_yay.mp3
-  "Yay"
+  "Wilkins Hyundai and Subaru commercial"
   CHARACTER: 
 
 531_yay.mp3
@@ -2126,24 +1242,8 @@
   "Yeah party"
   CHARACTER: 
 
-533_yeah_whatever.mp3
-  "Yeah whatever"
-  CHARACTER: 
-
-534_yes.mp3
-  "Yes"
-  CHARACTER: 
-
-535_yes.mp3
-  "Yes"
-  CHARACTER: 
-
 536_yosemite_sam_tight_pants.mp3
-  "Yosemite Sam Tight Pants"
-  CHARACTER: 
-
-537_you_and_i_are_gonna_have_a_conversation.mp3
-  "You and I are gonna have a conversation"
+  "Yosemite Sam tight pants"
   CHARACTER: 
 
 538_you_are_making_me_so_hot.mp3
@@ -2158,44 +1258,12 @@
   "You can give me away"
   CHARACTER: 
 
-541_you_can_t_cook.mp3
-  "You can't cook"
-  CHARACTER: 
-
 542_you_could_freeze_some_of_your_sperm_at_a_sperm_bank.mp3
   "Freeze your sperm"
   CHARACTER: 
 
-543_you_dick.mp3
-  "You dick"
-  CHARACTER: 
-
-544_you_forgot_me_again.mp3
-  "You forgot me again!"
-  CHARACTER: 
-
 545_you_have_aids.mp3
   "You have AIDS"
-  CHARACTER: 
-
-546_you_know_what_really_grinds_my_gears.mp3
-  "You know what really grinds my gears?"
-  CHARACTER: 
-
-547_you_know_why_cause_of_boners.mp3
-  "You know why? Cause of boners"
-  CHARACTER: 
-
-548_you_like_popsicles.mp3
-  "You like popsicles?"
-  CHARACTER: 
-
-549_you_suck.mp3
-  "You suck"
-  CHARACTER: 
-
-550_you_suck.mp3
-  "You suck!"
   CHARACTER: 
 
 551_you_ll_get_nothing_and_like_it.mp3
@@ -2210,22 +1278,6 @@
   "You're both just awful"
   CHARACTER: 
 
-554_you_re_not_a_chef.mp3
-  "You're not a chef"
-  CHARACTER: 
-
 555_you_re_a_phony.mp3
   "You’re a phony!"
-  CHARACTER: 
-
-556_yuck_god_knows_what_i_m_going_to_find.mp3
-  "Yuck, God knows what I'm going to find"
-  CHARACTER: 
-
-557_yucky.mp3
-  "Yucky"
-  CHARACTER: 
-
-558_yummy.mp3
-  "Yummy"
   CHARACTER: 

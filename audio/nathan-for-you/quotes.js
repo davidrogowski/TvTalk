@@ -56,7 +56,7 @@ const quotes = [
     "audioUrl": "audio/nathan-for-you/011_i_am_so_sad.mp3"
   },
   {
-    "text": "I Feel Like a Beer",
+    "text": "I feel like a beer",
     "character": "",
     "audioUrl": "audio/nathan-for-you/012_i_feel_like_a_beer.mp3"
   },
@@ -76,12 +76,12 @@ const quotes = [
     "audioUrl": "audio/nathan-for-you/015_i_love_you.mp3"
   },
   {
-    "text": "I Love You..",
+    "text": "I love you..",
     "character": "",
     "audioUrl": "audio/nathan-for-you/016_i_love_you.mp3"
   },
   {
-    "text": "I Should've Married Her",
+    "text": "I should've married her",
     "character": "",
     "audioUrl": "audio/nathan-for-you/017_i_should_ve_married_her.mp3"
   },
@@ -116,17 +116,17 @@ const quotes = [
     "audioUrl": "audio/nathan-for-you/023_liar_and_cool_guy.mp3"
   },
   {
-    "text": "Nathan Fielder Asian Accent",
+    "text": "Nathan Fielder Asian accent",
     "character": "",
     "audioUrl": "audio/nathan-for-you/024_nathan_fielder_asian_accent.mp3"
   },
   {
-    "text": "Nathan Likes Sex",
+    "text": "Nathan likes sex",
     "character": "",
     "audioUrl": "audio/nathan-for-you/025_nathan_likes_sex.mp3"
   },
   {
-    "text": "Nobody Listens When You Speak",
+    "text": "Nobody listens when you speak",
     "character": "",
     "audioUrl": "audio/nathan-for-you/026_nobody_listens_when_you_speak.mp3"
   },
@@ -171,7 +171,7 @@ const quotes = [
     "audioUrl": "audio/nathan-for-you/034_thinking_about_superheroes.mp3"
   },
   {
-    "text": "This Is So Sad song",
+    "text": "This is so sad song",
     "character": "",
     "audioUrl": "audio/nathan-for-you/035_this_is_so_sad_song.mp3"
   },
@@ -186,7 +186,7 @@ const quotes = [
     "audioUrl": "audio/nathan-for-you/037_tuck_you_in_bed.mp3"
   },
   {
-    "text": "TURN OFF THE MUSIC",
+    "text": "Turn off the music",
     "character": "",
     "audioUrl": "audio/nathan-for-you/038_turn_off_the_music.mp3"
   },
@@ -206,7 +206,7 @@ const quotes = [
     "audioUrl": "audio/nathan-for-you/041_you_are_a_little_shit.mp3"
   },
   {
-    "text": "You Have To Go",
+    "text": "You have to go",
     "character": "",
     "audioUrl": "audio/nathan-for-you/042_you_have_to_go.mp3"
   },

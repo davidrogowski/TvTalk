@@ -16,16 +16,6 @@ const quotes = [
     "audioUrl": "audio/the-waterboy/003_and_open_up_some_wood_bash.mp3"
   },
   {
-    "text": "Can't hold anything back now",
-    "character": "",
-    "audioUrl": "audio/the-waterboy/004_can_t_hold_anything_back_now.mp3"
-  },
-  {
-    "text": "Captain Insano shows no mercy",
-    "character": "",
-    "audioUrl": "audio/the-waterboy/005_captain_insano_shows_no_mercy.mp3"
-  },
-  {
     "text": "Why do you sweat so much?",
     "character": "",
     "audioUrl": "audio/the-waterboy/006_captain_latino_i_noticed_sometimes_when_you_are_wrestling_or.mp3"
@@ -106,19 +96,9 @@ const quotes = [
     "audioUrl": "audio/the-waterboy/021_i_forbid_you_to_talk_to_that_enchantress_she_s_the_devil_she.mp3"
   },
   {
-    "text": "I like them boobies",
-    "character": "",
-    "audioUrl": "audio/the-waterboy/022_i_like_them_boobies.mp3"
-  },
-  {
     "text": "I see a lot of guys too",
     "character": "",
     "audioUrl": "audio/the-waterboy/023_i_see_a_lot_of_guys_too.mp3"
-  },
-  {
-    "text": "I think that's sexy",
-    "character": "",
-    "audioUrl": "audio/the-waterboy/024_i_think_that_s_sexy.mp3"
   },
   {
     "text": "You're fat",
@@ -126,24 +106,9 @@ const quotes = [
     "audioUrl": "audio/the-waterboy/025_i_want_a_boy_yes_mr_cosper_you_you_re_fat.mp3"
   },
   {
-    "text": "I wish you were my boyfriend",
-    "character": "",
-    "audioUrl": "audio/the-waterboy/026_i_wish_you_were_my_boyfriend.mp3"
-  },
-  {
     "text": "Honored if you play football",
     "character": "",
     "audioUrl": "audio/the-waterboy/027_i_would_be_honored_if_you_play_football_for_this_team_me_pla.mp3"
-  },
-  {
-    "text": "Playing with your momma tonight",
-    "character": "",
-    "audioUrl": "audio/the-waterboy/028_i_ll_be_playing_with_your_momma_tonight.mp3"
-  },
-  {
-    "text": "Whoop ass on Hercules",
-    "character": "",
-    "audioUrl": "audio/the-waterboy/029_i_m_gonna_open_a_can_of_whoop_ass_on_hercules.mp3"
   },
   {
     "text": "Well wake her ass up",
@@ -151,19 +116,9 @@ const quotes = [
     "audioUrl": "audio/the-waterboy/030_i_m_sorry_to_disappoint_you_all_but_please_keep_your_voices.mp3"
   },
   {
-    "text": "In Japan",
-    "character": "",
-    "audioUrl": "audio/the-waterboy/031_in_japan.mp3"
-  },
-  {
     "text": "I bring them the water",
     "character": "",
     "audioUrl": "audio/the-waterboy/032_it_s_just_that_i_m_a_water_boy_the_team_gets_thirsty_and_i_b.mp3"
-  },
-  {
-    "text": "Little girls are the devil",
-    "character": "",
-    "audioUrl": "audio/the-waterboy/033_little_girls_are_the_devil.mp3"
   },
   {
     "text": "Lock me up is not good",
@@ -176,19 +131,9 @@ const quotes = [
     "audioUrl": "audio/the-waterboy/035_mama_vicky_is_in_astrology_i_don_t_believe_in_that_sort_of_t.mp3"
   },
   {
-    "text": "Needle dick!",
-    "character": "",
-    "audioUrl": "audio/the-waterboy/036_needle_dick.mp3"
-  },
-  {
     "text": "Now that's high quality H2O",
     "character": "",
     "audioUrl": "audio/the-waterboy/037_now_that_s_what_i_call_high_quality_eight_tools.mp3"
-  },
-  {
-    "text": "Oh no, we suck again",
-    "character": "",
-    "audioUrl": "audio/the-waterboy/038_oh_no_we_suck_again.mp3"
   },
   {
     "text": "We suck again",
@@ -221,19 +166,9 @@ const quotes = [
     "audioUrl": "audio/the-waterboy/045_rob_gibson_look_michael_shane_after_mark_paul_i_love_my_mama.mp3"
   },
   {
-    "text": "School is for the devil",
-    "character": "",
-    "audioUrl": "audio/the-waterboy/046_school_is_for_the_devil.mp3"
-  },
-  {
     "text": "His medulla oblongata",
     "character": "",
     "audioUrl": "audio/the-waterboy/047_something_wrong_with_his_medulla_oblongata.mp3"
-  },
-  {
-    "text": "Stop making fun of me",
-    "character": "",
-    "audioUrl": "audio/the-waterboy/048_stop_making_fun_of_me.mp3"
   },
   {
     "text": "What's your secret?",
@@ -269,11 +204,6 @@ const quotes = [
     "text": "Shut up, Brent",
     "character": "",
     "audioUrl": "audio/the-waterboy/055_the_water_boy_just_needed_some_water_wow_dan_you_think_that.mp3"
-  },
-  {
-    "text": "Cut his head off",
-    "character": "",
-    "audioUrl": "audio/the-waterboy/056_the_waterboys_the_cheetah_cut_his_head_off_yeah.mp3"
   },
   {
     "text": "A guy and a girl at the same time",
@@ -336,24 +266,9 @@ const quotes = [
     "audioUrl": "audio/the-waterboy/068_who_s_bad_enough_for_the_devil_it_s_where_my_barbie.mp3"
   },
   {
-    "text": "You are a bad boy",
-    "character": "",
-    "audioUrl": "audio/the-waterboy/069_you_are_a_bad_boy.mp3"
-  },
-  {
-    "text": "You are so cute",
-    "character": "",
-    "audioUrl": "audio/the-waterboy/070_you_are_so_cute.mp3"
-  },
-  {
     "text": "You can do it",
     "character": "",
     "audioUrl": "audio/the-waterboy/071_you_can_do_it.mp3"
-  },
-  {
-    "text": "Cut this fucking head off",
-    "character": "",
-    "audioUrl": "audio/the-waterboy/072_you_can_do_it_cut_this_fucking_head_off.mp3"
   },
   {
     "text": "You can do it all night long",

@@ -31,16 +31,6 @@ const quotes = [
     "audioUrl": "audio/austin-powers-goldmember/006_assholes_i_have_time_for_a_smoke_and_a_pancake_or_what.mp3"
   },
   {
-    "text": "Bye, mole. Bye.",
-    "character": "",
-    "audioUrl": "audio/austin-powers-goldmember/008_bye_mole_bye.mp3"
-  },
-  {
-    "text": "Call my dad.",
-    "character": "",
-    "audioUrl": "audio/austin-powers-goldmember/009_call_my_dad.mp3"
-  },
-  {
     "text": "You look very switched on",
     "character": "",
     "audioUrl": "audio/austin-powers-goldmember/010_cool_baby_you_look_very_switched_on.mp3"
@@ -71,11 +61,6 @@ const quotes = [
     "audioUrl": "audio/austin-powers-goldmember/018_free_kitty_who_i_had_the_best_grades_in_a_class_and_i_didn_t.mp3"
   },
   {
-    "text": "Free Kitty who?",
-    "character": "",
-    "audioUrl": "audio/austin-powers-goldmember/019_free_kitty_who.mp3"
-  },
-  {
     "text": "You have my demands. Peace out.",
     "character": "",
     "audioUrl": "audio/austin-powers-goldmember/020_gentlemen_you_have_my_demands_peace_out.mp3"
@@ -91,19 +76,9 @@ const quotes = [
     "audioUrl": "audio/austin-powers-goldmember/022_hey_david_lady_here_s_my_diaper_i_think_i_might_pinch_one_of.mp3"
   },
   {
-    "text": "I'm Dixie Normous",
-    "character": "",
-    "audioUrl": "audio/austin-powers-goldmember/023_hi_i_m_dixie_dixie_normous.mp3"
-  },
-  {
     "text": "How about no, you crazy Dutch b*stard",
     "character": "",
     "audioUrl": "audio/austin-powers-goldmember/024_how_about_no_you_crazy_dutch_b_stard.mp3"
-  },
-  {
-    "text": "Crackheads make more sense",
-    "character": "",
-    "audioUrl": "audio/austin-powers-goldmember/025_i_know_guys_on_crack_that_makes_more_sense_than_you.mp3"
   },
   {
     "text": "I love gold.",
@@ -119,11 +94,6 @@ const quotes = [
     "text": "A large mole on my face",
     "character": "",
     "audioUrl": "audio/austin-powers-goldmember/029_i_realize_i_have_a_large_mole_on_my_face.mp3"
-  },
-  {
-    "text": "Threw up in my mouth a little",
-    "character": "",
-    "audioUrl": "audio/austin-powers-goldmember/030_i_threw_up_in_my_mouth_a_little_bit.mp3"
   },
   {
     "text": "Can I give you my number?",
@@ -151,19 +121,9 @@ const quotes = [
     "audioUrl": "audio/austin-powers-goldmember/035_ladies_and_gentlemen_welcome_to_my_new_submarine_layer_it_s.mp3"
   },
   {
-    "text": "Mall",
-    "character": "",
-    "audioUrl": "audio/austin-powers-goldmember/036_mall.mp3"
-  },
-  {
     "text": "I thought I smelled cabbage",
     "character": "",
     "audioUrl": "audio/austin-powers-goldmember/037_meet_mini_me_blind_me_i_thought_i_smelled_cabbage.mp3"
-  },
-  {
-    "text": "Model.",
-    "character": "",
-    "audioUrl": "audio/austin-powers-goldmember/039_model.mp3"
   },
   {
     "text": "Moley, moley, moley, moley!",
@@ -171,19 +131,9 @@ const quotes = [
     "audioUrl": "audio/austin-powers-goldmember/040_moley_moley_moley_moley.mp3"
   },
   {
-    "text": "Molly molly molly",
-    "character": "",
-    "audioUrl": "audio/austin-powers-goldmember/041_molly_molly_molly_molly_molly.mp3"
-  },
-  {
     "text": "No one would make that connection",
     "character": "",
     "audioUrl": "audio/austin-powers-goldmember/044_no_one_would_make_that_connection.mp3"
-  },
-  {
-    "text": "No traitor.",
-    "character": "",
-    "audioUrl": "audio/austin-powers-goldmember/045_no_traitor.mp3"
   },
   {
     "text": "The shooting begins",
@@ -194,11 +144,6 @@ const quotes = [
     "text": "Smarty pants evil",
     "character": "",
     "audioUrl": "audio/austin-powers-goldmember/047_not_so_much_smarty_pants_evil_you_might_not_want_to_destroy.mp3"
-  },
-  {
-    "text": "Oh shut up!",
-    "character": "",
-    "audioUrl": "audio/austin-powers-goldmember/050_oh_shut_up.mp3"
   },
   {
     "text": "One billion gagillion",
@@ -221,29 +166,14 @@ const quotes = [
     "audioUrl": "audio/austin-powers-goldmember/058_right_it_looks_like_godzilla_but_due_to_international_copyri.mp3"
   },
   {
-    "text": "Scott is on fire",
-    "character": "",
-    "audioUrl": "audio/austin-powers-goldmember/059_scott_is_on_fire.mp3"
-  },
-  {
     "text": "He is small",
     "character": "",
     "audioUrl": "audio/austin-powers-goldmember/063_that_anyone_can_take_a_hint_it_doesn_t_understand_he_is_smal.mp3"
   },
   {
-    "text": "That's not right.",
-    "character": "",
-    "audioUrl": "audio/austin-powers-goldmember/064_that_s_not_right.mp3"
-  },
-  {
     "text": "...and the Dutch",
     "character": "",
     "audioUrl": "audio/austin-powers-goldmember/065_there_are_only_two_things_i_can_t_stand_in_this_world_people.mp3"
-  },
-  {
-    "text": "Up your job, Turkey",
-    "character": "",
-    "audioUrl": "audio/austin-powers-goldmember/066_up_your_job_turkey.mp3"
   },
   {
     "text": "Welcome to 1975",
@@ -256,34 +186,14 @@ const quotes = [
     "audioUrl": "audio/austin-powers-goldmember/069_well_miss_norma_s_shall_we_shag_now_or_shag_later_oh_often_b.mp3"
   },
   {
-    "text": "I didn't have any corn",
-    "character": "",
-    "audioUrl": "audio/austin-powers-goldmember/070_well_i_didn_t_have_any_corn.mp3"
-  },
-  {
     "text": "I'm foxy Cleopatra",
     "character": "",
     "audioUrl": "audio/austin-powers-goldmember/071_well_the_future_better_get_ready_for_me_cause_i_m_foxy_cleop.mp3"
   },
   {
-    "text": "Where to go",
-    "character": "",
-    "audioUrl": "audio/austin-powers-goldmember/072_where_to_go_a_whole.mp3"
-  },
-  {
-    "text": "Yeah baby yeah.",
-    "character": "",
-    "audioUrl": "audio/austin-powers-goldmember/073_yeah_baby_yeah.mp3"
-  },
-  {
     "text": "Nice to meet your mole",
     "character": "",
     "audioUrl": "audio/austin-powers-goldmember/075_yes_nice_to_meet_you_meet_you_nice_to_meet_your_mole_don_t_s.mp3"
-  },
-  {
-    "text": "Right to remain, sugar",
-    "character": "",
-    "audioUrl": "audio/austin-powers-goldmember/076_you_have_the_right_to_remain_60_sugar.mp3"
   },
   {
     "text": "Now I can see your nuts",
@@ -299,11 +209,6 @@ const quotes = [
     "text": "Cunning linguist, master debater",
     "character": "",
     "audioUrl": "audio/austin-powers-goldmember/079_you_speak_japanese_and_little_well_you_might_be_a_cunning_li.mp3"
-  },
-  {
-    "text": "You under arrest, sugar",
-    "character": "",
-    "audioUrl": "audio/austin-powers-goldmember/080_you_under_arrest_sugar.mp3"
   },
   {
     "text": "That's the way I like it",

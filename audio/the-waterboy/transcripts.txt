@@ -10,14 +10,6 @@
   "Open up a can of whoop ass"
   CHARACTER: 
 
-004_can_t_hold_anything_back_now.mp3
-  "Can't hold anything back now"
-  CHARACTER: 
-
-005_captain_insano_shows_no_mercy.mp3
-  "Captain Insano shows no mercy"
-  CHARACTER: 
-
 006_captain_latino_i_noticed_sometimes_when_you_are_wrestling_or.mp3
   "Why do you sweat so much?"
   CHARACTER: 
@@ -82,52 +74,24 @@
   "She's the devil"
   CHARACTER: 
 
-022_i_like_them_boobies.mp3
-  "I like them boobies"
-  CHARACTER: 
-
 023_i_see_a_lot_of_guys_too.mp3
   "I see a lot of guys too"
-  CHARACTER: 
-
-024_i_think_that_s_sexy.mp3
-  "I think that's sexy"
   CHARACTER: 
 
 025_i_want_a_boy_yes_mr_cosper_you_you_re_fat.mp3
   "You're fat"
   CHARACTER: 
 
-026_i_wish_you_were_my_boyfriend.mp3
-  "I wish you were my boyfriend"
-  CHARACTER: 
-
 027_i_would_be_honored_if_you_play_football_for_this_team_me_pla.mp3
   "Honored if you play football"
-  CHARACTER: 
-
-028_i_ll_be_playing_with_your_momma_tonight.mp3
-  "Playing with your momma tonight"
-  CHARACTER: 
-
-029_i_m_gonna_open_a_can_of_whoop_ass_on_hercules.mp3
-  "Whoop ass on Hercules"
   CHARACTER: 
 
 030_i_m_sorry_to_disappoint_you_all_but_please_keep_your_voices.mp3
   "Well wake her ass up"
   CHARACTER: 
 
-031_in_japan.mp3
-  "In Japan"
-  CHARACTER: 
-
 032_it_s_just_that_i_m_a_water_boy_the_team_gets_thirsty_and_i_b.mp3
   "I bring them the water"
-  CHARACTER: 
-
-033_little_girls_are_the_devil.mp3
-  "Little girls are the devil"
   CHARACTER: 
 
 034_lock_me_up_is_not_good_fair_enough_really.mp3
@@ -138,16 +102,8 @@
   "Astronomy is a tool of the devil"
   CHARACTER: 
 
-036_needle_dick.mp3
-  "Needle dick!"
-  CHARACTER: 
-
 037_now_that_s_what_i_call_high_quality_eight_tools.mp3
   "Now that's high quality H2O"
-  CHARACTER: 
-
-038_oh_no_we_suck_again.mp3
-  "Oh no, we suck again"
   CHARACTER: 
 
 040_ohh_no_we_suck_again.mp3
@@ -174,16 +130,8 @@
   "I love my Mama very much"
   CHARACTER: 
 
-046_school_is_for_the_devil.mp3
-  "School is for the devil"
-  CHARACTER: 
-
 047_something_wrong_with_his_medulla_oblongata.mp3
   "His medulla oblongata"
-  CHARACTER: 
-
-048_stop_making_fun_of_me.mp3
-  "Stop making fun of me"
   CHARACTER: 
 
 049_tell_me_what_is_your_secret_how_do_you_find_yourself_in_the.mp3
@@ -212,10 +160,6 @@
 
 055_the_water_boy_just_needed_some_water_wow_dan_you_think_that.mp3
   "Shut up, Brent"
-  CHARACTER: 
-
-056_the_waterboys_the_cheetah_cut_his_head_off_yeah.mp3
-  "Cut his head off"
   CHARACTER: 
 
 057_there_girl_you_re_seeing_seeing_i_see_a_lot_of_girls_i_see_a.mp3
@@ -266,20 +210,8 @@
   "Who's bad enough for the devil?"
   CHARACTER: 
 
-069_you_are_a_bad_boy.mp3
-  "You are a bad boy"
-  CHARACTER: 
-
-070_you_are_so_cute.mp3
-  "You are so cute"
-  CHARACTER: 
-
 071_you_can_do_it.mp3
   "You can do it"
-  CHARACTER: 
-
-072_you_can_do_it_cut_this_fucking_head_off.mp3
-  "Cut this fucking head off"
   CHARACTER: 
 
 073_you_can_do_it_you_can_do_it_all_night_long.mp3

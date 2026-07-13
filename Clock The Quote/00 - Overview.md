@@ -9,12 +9,12 @@ clip from a TV show or movie and try to **clock the quote** — name the title i
 from. It's modeled on LinkedIn's **Pinpoint** / **Heardle**: one mystery per day,
 escalating clues, a spoiler-free shareable score for group chats.
 
-The TvTalk soundboard already has the hard part done: **64 titles, ~6,400 clips**
+The TvTalk soundboard already has the hard part done: **99 titles, ~9,055 quotes**
 with audio + captions in `shows.js` and `audio/`. The game reuses that data as-is.
 
 ## How it relates to TvTalk
 
-- The game will be a **separate page** (`clock-the-quote.html`) that loads the
+- The game will be a **separate page** (`clockthequote.html`) that loads the
   **same** `shows.js` and the **same** `audio/` clips. Zero data duplication.
 - The existing soundboard (`index.html`) is **never modified**. Adding a show via
   the existing playbook automatically feeds the game too.

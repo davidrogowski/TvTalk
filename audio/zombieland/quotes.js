@@ -16,7 +16,7 @@ const quotes = [
     "audioUrl": "audio/zombieland/003_are_you_okay.mp3"
   },
   {
-    "text": "Are You Okay? (extended)",
+    "text": "Are you okay? (extended)",
     "character": "",
     "audioUrl": "audio/zombieland/004_are_you_okay_extended.mp3"
   },
@@ -26,7 +26,7 @@ const quotes = [
     "audioUrl": "audio/zombieland/005_believe_it_or_not_twinkies_have_an_expiration_date.mp3"
   },
   {
-    "text": "Big Trucks Big Guns",
+    "text": "Big trucks big guns",
     "character": "",
     "audioUrl": "audio/zombieland/006_big_trucks_big_guns.mp3"
   },
@@ -71,7 +71,7 @@ const quotes = [
     "audioUrl": "audio/zombieland/014_drying_eyes_with_money.mp3"
   },
   {
-    "text": "Emma Stone Laughing",
+    "text": "Emma Stone laughing",
     "character": "",
     "audioUrl": "audio/zombieland/015_emma_stone_laughing.mp3"
   },
@@ -166,7 +166,7 @@ const quotes = [
     "audioUrl": "audio/zombieland/033_rule.mp3"
   },
   {
-    "text": "Thank God for Rednecks",
+    "text": "Thank God for rednecks",
     "character": "",
     "audioUrl": "audio/zombieland/034_thank_god_for_rednecks.mp3"
   },

@@ -241,7 +241,7 @@ const quotes = [
     "audioUrl": "audio/i-robot/048_spoon_are_you_sure_you_are_ready_to_be_back_cause_you_can_ta.mp3"
   },
   {
-    "text": "End Program! Shutdown!",
+    "text": "End program! Shutdown!",
     "character": "",
     "audioUrl": "audio/i-robot/049_susan_calvin_looks_at_spooner_s_present_day_cd_stereo_play_o.mp3"
   },

@@ -31,7 +31,7 @@ const quotes = [
     "audioUrl": "audio/white-chicks/006_did_you_know_oysters_are_an_aphrodisiac.mp3"
   },
   {
-    "text": "Didn't somebody tell you this was all White Party?",
+    "text": "Didn't somebody tell you this was all white party?",
     "character": "",
     "audioUrl": "audio/white-chicks/007_didn_t_somebody_tell_you_this_was_all_white_party.mp3"
   },
@@ -61,7 +61,7 @@ const quotes = [
     "audioUrl": "audio/white-chicks/012_high_five.mp3"
   },
   {
-    "text": "Hold My Poodle",
+    "text": "Hold my poodle",
     "character": "",
     "audioUrl": "audio/white-chicks/013_hold_my_poodle.mp3"
   },
@@ -181,7 +181,7 @@ const quotes = [
     "audioUrl": "audio/white-chicks/038_why_are_you_talking_to_her.mp3"
   },
   {
-    "text": "Worried All Night",
+    "text": "Worried all night",
     "character": "",
     "audioUrl": "audio/white-chicks/039_worried_all_night.mp3"
   },
@@ -201,7 +201,7 @@ const quotes = [
     "audioUrl": "audio/white-chicks/042_you_so_can_t_put_it_away.mp3"
   },
   {
-    "text": "50 Thousand Dollar Cash",
+    "text": "50 thousand dollar cash",
     "character": "",
     "audioUrl": "audio/white-chicks/043_50_thousand_dollar_cash.mp3"
   }

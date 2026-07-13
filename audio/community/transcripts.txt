@@ -31,7 +31,7 @@
   CHARACTER: 
 
 022_breakfast_club_quote.mp3
-  "Breakfast Club Quote"
+  "Breakfast Club quote"
   CHARACTER: 
 
 025_bullcrap_meter.mp3
@@ -67,11 +67,11 @@
   CHARACTER: 
 
 041_community_fiddla_yo.mp3
-  "Community Fiddla Yo"
+  "Fiddla yo"
   CHARACTER: 
 
 045_conflicts_like_these.mp3
-  "Conflicts Like These"
+  "Conflicts like these"
   CHARACTER: 
 
 049_crying_meltdown.mp3
@@ -87,7 +87,7 @@
   CHARACTER: 
 
 054_dean_pelton_s_rap.mp3
-  "Dean Pelton's Rap"
+  "Dean Pelton's rap"
   CHARACTER: 
 
 055_did_you_know_that_you_are_insane_and_nothing_that_you_said_e.mp3
@@ -99,7 +99,7 @@
   CHARACTER: 
 
 060_do_you_hate_this.mp3
-  "Do You Hate This"
+  "Do you hate this"
   CHARACTER: 
 
 061_don_t_use_that_tone_with_me_don_t_use_that_tone_with_me_sure.mp3
@@ -107,7 +107,7 @@
   CHARACTER: 
 
 065_elroy_community_pants_song.mp3
-  "Community pants song"
+  "Pants song"
   CHARACTER: 
 
 066_even_shadow_shadow.mp3
@@ -115,7 +115,7 @@
   CHARACTER: 
 
 067_every_man_should_be_punched_in_the_face.mp3
-  "Every Man Should Be Punched In The Face"
+  "Every man should be punched in the face"
   CHARACTER: 
 
 068_every_man_should_be_punched_in_the_face_it_s_a_rite_of_passa.mp3
@@ -139,11 +139,11 @@
   CHARACTER: 
 
 077_gay_gay_gay.mp3
-  "Gay Gay Gay"
+  "Gay gay gay"
   CHARACTER: 
 
 082_giant_thumb_and_a_turtle_neck.mp3
-  "Giant Thumb And A Turtle Neck"
+  "Giant thumb and a turtle neck"
   CHARACTER: 
 
 090_going_to_the_world_the_lord_he_is_calm_bald_the_lord_follow.mp3
@@ -175,7 +175,7 @@
   CHARACTER: 
 
 110_hi_hi_he_took_all_the_winter_doodles.mp3
-  "He Took All The Winter Doodles"
+  "He took all the winter doodles"
   CHARACTER: 
 
 112_i_always_like_naseem_taleb_framing_this_where_he_said_with_m.mp3
@@ -183,7 +183,7 @@
   CHARACTER: 
 
 116_i_can_explain_let_me_explain.mp3
-  "I Can Explain, Let Me Explain"
+  "I can explain, let me explain"
   CHARACTER: 
 
 118_i_control_your_lives.mp3
@@ -195,67 +195,67 @@
   CHARACTER: 
 
 120_i_couldn_t_think_of_another_word.mp3
-  "I Couldn't Think Of Another Word"
+  "I couldn't think of another word"
   CHARACTER: 
 
 125_i_don_t_know_how_to_do_my_whole_brain_is_crying.mp3
-  "My Whole Brain Is Crying"
+  "My whole brain is crying"
   CHARACTER: 
 
 128_i_don_t_know_what_that_was_i_don_t_i_don_t_know_what_that_wo.mp3
-  "I Don't Know What That Was"
+  "I don't know what that was"
   CHARACTER: 
 
 129_i_don_t_know_what_that_was.mp3
-  "I Don't Know What That Was!"
+  "I don't know what that was!"
   CHARACTER: 
 
 132_i_don_t_know_who_told_you.mp3
-  "I Don't Know Who Told You"
+  "I don't know who told you"
   CHARACTER: 
 
 135_i_don_t_see_what_all_the_fuss_was_about_giant_thumb_in_a_tur.mp3
-  "Giant Thumb In A Turtleneck"
+  "Giant thumb in a turtleneck"
   CHARACTER: 
 
 144_i_hate_being_kept_in_the_dark_waiting_speculating_useless.mp3
-  "I Hate Being Kept In The Dark"
+  "I hate being kept in the dark"
   CHARACTER: 
 
 145_i_have_changnesia.mp3
-  "I Have Changnesia"
+  "I have Changnesia"
   CHARACTER: 
 
 147_i_have_something_better_than_soap.mp3
-  "I Have Something Better Than Soap"
+  "I have something better than soap"
   CHARACTER: 
 
 150_i_just_pretended_i_knew.mp3
-  "I Just Pretended I Knew"
+  "I just pretended I knew"
   CHARACTER: 
 
 151_i_just_pretended_like_i_knew_because_i_wanted_just_to_think.mp3
-  "I Pretended I Knew"
+  "I pretended I knew"
   CHARACTER: 
 
 153_i_know_it_s_sad_but_death_is_a_natural_part_of_life_and_by_t.mp3
-  "Death Is A Natural Part Of Life"
+  "Death is a natural part of life"
   CHARACTER: 
 
 159_i_masturbated_everywhere.mp3
-  "I Masturbated Everywhere"
+  "I masturbated everywhere"
   CHARACTER: 
 
 163_i_see_your_value_now.mp3
-  "I See Your Value Now"
+  "I see your value now"
   CHARACTER: 
 
 170_i_ll_show_you_the_tool_that_s_most_important_to_our_survival.mp3
-  "It's My Penis"
+  "It's my penis"
   CHARACTER: 
 
 172_i_ll_start_with_a_quick_look_see_into_someones_bag_and_then.mp3
-  "Thought Police Rant"
+  "Thought police rant"
   CHARACTER: 
 
 177_i_m_agnostic.mp3
@@ -263,23 +263,23 @@
   CHARACTER: 
 
 178_i_m_agnostic_agnostic_lazy_man_s_atheist.mp3
-  "Agnostic, Lazy Man's Atheist"
+  "Agnostic, lazy man's atheist"
   CHARACTER: 
 
 183_i_m_just_saying_i_loved_you_in_anne.mp3
-  "I Loved You In Anne"
+  "I loved you in Anne"
   CHARACTER: 
 
 187_i_m_not_allowed_to_stand_up_for_myself_i_thought_this_was_am.mp3
-  "I Thought This Was America"
+  "I thought this was America"
   CHARACTER: 
 
 190_i_m_sick_of_you_threatening_me_and_talking_to_me_like_a_kid.mp3
-  "Like I Can't Get Erections"
+  "Like I can't get erections"
   CHARACTER: 
 
 191_i_m_sick_of_you_treating_me_like.mp3
-  "I'm Sick Of You Treating Me Like"
+  "I'm sick of you treating me like"
   CHARACTER: 
 
 192_i_m_staying_in_the_sleep_study_lab_all_i_have_to_is_wake_up.mp3
@@ -291,39 +291,39 @@
   CHARACTER: 
 
 198_if_i_ever_like_woke_up_as_a_donor_you_would_eat_yourself_i_w.mp3
-  "If You Woke Up As A Donut"
+  "If you woke up as a donut"
   CHARACTER: 
 
 199_if_i_never_knew_you_were_a_jew_i_say_the_whole_word_next_tim.mp3
-  "I'll Say The Whole Word Next Time"
+  "I'll say the whole word next time"
   CHARACTER: 
 
 200_if_i_stay_there_can_be_no_party_i_must_be_out_there_in_the_n.mp3
-  "Party Must Be Saved"
+  "Party must be saved"
   CHARACTER: 
 
 201_if_i_stay_there_can_be_no_party.mp3
-  "If I Stay, There Can Be No Party"
+  "If I stay, there can be no party"
   CHARACTER: 
 
 202_if_i_woke_up_as_a_donut.mp3
-  "If I Woke Up As A Donut"
+  "If I woke up as a donut"
   CHARACTER: 
 
 204_it_all_starts_with.mp3
-  "It All Starts With"
+  "It all starts with"
   CHARACTER: 
 
 205_it_all_starts_with_a_quick_look_see_into_someone_s_bag.mp3
-  "A Quick Look-See Into Someone's Bag"
+  "A quick look-see into someone's bag"
   CHARACTER: 
 
 210_it_s_cool_cool_cool_cool_cool_cool_cool_cool_cool_cool_cool.mp3
-  "Cool Cool Cool"
+  "Cool cool cool"
   CHARACTER: 
 
 214_jesus_was_one_of_us.mp3
-  "Jesus Was One Of Us"
+  "Jesus was one of us"
   CHARACTER: 
 
 216_joy_to_the_world.mp3
@@ -383,7 +383,7 @@
   CHARACTER: 
 
 263_pierce_psychic_community.mp3
-  "Pierce Psychic Community"
+  "Pierce psychic community"
   CHARACTER: 
 
 264_pizza_pizza_going_tommy_mr_hunky_me_so_hungry.mp3
@@ -479,11 +479,11 @@
   CHARACTER: 
 
 342_troy_and_abed_rap.mp3
-  "Troy and Abed Rap"
+  "Troy and Abed rap"
   CHARACTER: 
 
 344_troynabed_spanishrap.mp3
-  "Troy and Abed Spanish Rap"
+  "Troy and Abed Spanish rap"
   CHARACTER: 
 
 349_walking_into_chaos.mp3
@@ -519,7 +519,7 @@
   CHARACTER: 
 
 359_well_well_what_do_you_know.mp3
-  "Well Well What Do You Know"
+  "Well well what do you know"
   CHARACTER: 
 
 360_well_i_m_a_peanut_bar_and_i_m_here_to_say_your_checks_will_a.mp3
@@ -571,7 +571,7 @@
   CHARACTER: 
 
 379_what_s_taking_so_long.mp3
-  "What's Taking So Long"
+  "What's taking so long"
   CHARACTER: 
 
 383_who_status_eston_sucios_you_are_dirty_too_still.mp3
@@ -579,11 +579,11 @@
   CHARACTER: 
 
 389_why_did_you_stop_talking.mp3
-  "Why Did You Stop Talking"
+  "Why did you stop talking"
   CHARACTER: 
 
 393_woo_some_chicks.mp3
-  "Woo Some Chicks"
+  "Woo some chicks"
   CHARACTER: 
 
 395_would_sure_we_cool_we_cool.mp3
@@ -627,7 +627,7 @@
   CHARACTER: 
 
 423_you_made_a_commitment.mp3
-  "You Made A Commitment"
+  "You made a commitment"
   CHARACTER: 
 
 424_you_only_displays_to_the_entire_or_community_and_the_entire.mp3

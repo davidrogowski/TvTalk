@@ -39,7 +39,7 @@
   CHARACTER: 
 
 011_hey_y_where_s_m_c_a.mp3
-  "Hey Y Where's M C A."
+  "Hey Y where's M C A."
   CHARACTER: 
 
 012_higgins_what_are_you_doing_i_don_t_wear_pants_at_my_house_i.mp3

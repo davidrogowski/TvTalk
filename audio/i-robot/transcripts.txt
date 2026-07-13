@@ -191,7 +191,7 @@
   CHARACTER: 
 
 049_susan_calvin_looks_at_spooner_s_present_day_cd_stereo_play_o.mp3
-  "End Program! Shutdown!"
+  "End program! Shutdown!"
   CHARACTER: 
 
 050_susan_calvin_what_happened_to_you_detective_del_spooner_head.mp3

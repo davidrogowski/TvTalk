@@ -176,7 +176,7 @@ const quotes = [
     "audioUrl": "audio/futurama/074_fry_dance.mp3"
   },
   {
-    "text": "Funny cuz it's mean",
+    "text": "Funny because it's mean",
     "character": "",
     "audioUrl": "audio/futurama/076_funny_cuz_its_mean.mp3"
   },
@@ -351,7 +351,7 @@ const quotes = [
     "audioUrl": "audio/futurama/172_let_me_show_you_around_that_s_my_lab_table_and_this_is_my_wo.mp3"
   },
   {
-    "text": "Lick My Frozen Metal Ass",
+    "text": "Lick my frozen metal ass",
     "character": "",
     "audioUrl": "audio/futurama/175_lick_my_frozen_metal_ass.mp3"
   },
@@ -371,22 +371,22 @@ const quotes = [
     "audioUrl": "audio/futurama/181_murder_hornets.mp3"
   },
   {
-    "text": "Name It, and I'm There",
+    "text": "Name it, and I'm there",
     "character": "",
     "audioUrl": "audio/futurama/182_name_it_and_i_m_there.mp3"
   },
   {
-    "text": "Neutrals Sicken Me",
+    "text": "Neutrals sicken me",
     "character": "",
     "audioUrl": "audio/futurama/185_neutrals_sicken_me.mp3"
   },
   {
-    "text": "New Years Countdown",
+    "text": "New Years countdown",
     "character": "",
     "audioUrl": "audio/futurama/186_new_years_countdown.mp3"
   },
   {
-    "text": "No One is Saying That, But I'm Certainly Thinking It Loudly",
+    "text": "No one is saying that, but I'm certainly thinking it loudly",
     "character": "",
     "audioUrl": "audio/futurama/187_no_one_is_saying_that_but_i_m_certainly_thinking_it_loudly.mp3"
   },
@@ -401,7 +401,7 @@ const quotes = [
     "audioUrl": "audio/futurama/190_nope.mp3"
   },
   {
-    "text": "Now I'm All You Got",
+    "text": "Now I'm all you got",
     "character": "",
     "audioUrl": "audio/futurama/194_now_i_m_all_you_got.mp3"
   },
@@ -456,7 +456,7 @@ const quotes = [
     "audioUrl": "audio/futurama/212_robot_santa.mp3"
   },
   {
-    "text": "Robot Scratching Post",
+    "text": "Robot scratching post",
     "character": "",
     "audioUrl": "audio/futurama/213_robot_scratching_post.mp3"
   },
@@ -546,7 +546,7 @@ const quotes = [
     "audioUrl": "audio/futurama/254_to_shreds_you_say.mp3"
   },
   {
-    "text": "Touch Your Toes",
+    "text": "Touch your toes",
     "character": "",
     "audioUrl": "audio/futurama/255_touch_your_toes.mp3"
   },
@@ -561,7 +561,7 @@ const quotes = [
     "audioUrl": "audio/futurama/258_tv_party_tonight.mp3"
   },
   {
-    "text": "Vending Machine Coffee",
+    "text": "Vending machine coffee",
     "character": "",
     "audioUrl": "audio/futurama/261_vending_machine_coffee.mp3"
   },
@@ -581,7 +581,7 @@ const quotes = [
     "audioUrl": "audio/futurama/266_we_are_pretty_and_barely_get_over_with_so_many_guys_develop.mp3"
   },
   {
-    "text": "We Have To Wake Him Up",
+    "text": "We have to wake him up",
     "character": "",
     "audioUrl": "audio/futurama/267_we_have_to_wake_him_up.mp3"
   },
@@ -636,7 +636,7 @@ const quotes = [
     "audioUrl": "audio/futurama/287_who_are_you_and_you_dear_old_uncle_fry_i_don_t_have_an_uncle.mp3"
   },
   {
-    "text": "Who Will Make Bender Waffles Now",
+    "text": "Who will make Bender waffles now",
     "character": "",
     "audioUrl": "audio/futurama/290_who_will_make_bender_waffles_just_the_way_he_likes_them_now.mp3"
   },
@@ -646,12 +646,12 @@ const quotes = [
     "audioUrl": "audio/futurama/293_woopwoopwoop.mp3"
   },
   {
-    "text": "Wow, Your Kid is Great",
+    "text": "Wow, your kid is great",
     "character": "",
     "audioUrl": "audio/futurama/294_wow_your_kid_is_great.mp3"
   },
   {
-    "text": "Wreck Up the Place",
+    "text": "Wreck up the place",
     "character": "",
     "audioUrl": "audio/futurama/295_wreck_up_the_place.mp3"
   },
@@ -671,12 +671,12 @@ const quotes = [
     "audioUrl": "audio/futurama/302_you_can_crush_me_but_you_can_t_crush_my_spirit.mp3"
   },
   {
-    "text": "You Know, It's Funny..",
+    "text": "You know, it's funny..",
     "character": "",
     "audioUrl": "audio/futurama/305_you_know_it_s_funny.mp3"
   },
   {
-    "text": "You Lived Before You Met Me?",
+    "text": "You lived before you met me?",
     "character": "",
     "audioUrl": "audio/futurama/306_you_lived_before_you_met_me.mp3"
   }

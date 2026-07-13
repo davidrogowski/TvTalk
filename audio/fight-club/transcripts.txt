@@ -1,0 +1,71 @@
+001_bob_had_bitch_tits.mp3
+  "Bob had bitch tits"
+  CHARACTER: 
+
+002_clever.mp3
+  "Clever"
+  CHARACTER: 
+
+003_did_i_call_you.mp3
+  "Did I call you?"
+  CHARACTER: 
+
+004_do_i_give_you_the_ass_or_the_crotch.mp3
+  "The ass or the crotch?"
+  CHARACTER: 
+
+005_his_name_is_robert_paulson.mp3
+  "His name is Robert Paulson"
+  CHARACTER: 
+
+006_i_am_jack_s_smirking_revenge.mp3
+  "I am Jack's smirking revenge"
+  CHARACTER: 
+
+007_it_s_cheaper_than_a_movie_and_there_s_free_coffee.mp3
+  "Cheaper than a movie"
+  CHARACTER: 
+
+008_its_only_after_we_ve_lost_everything_that_we_re_free_to_do_a.mp3
+  "Free to do anything"
+  CHARACTER: 
+
+009_slide.mp3
+  "Slide"
+  CHARACTER: 
+
+011_surprise_me.mp3
+  "Surprise me"
+  CHARACTER: 
+
+012_that_s_the_stupidest_thing_i_ve_ever_heard.mp3
+  "Stupidest thing I've ever heard"
+  CHARACTER: 
+
+013_the_first_two_rules_of_fight_club.mp3
+  "The first rule of Fight Club"
+  CHARACTER: 
+
+014_urine_is_sterile.mp3
+  "Urine is sterile"
+  CHARACTER: 
+
+015_welcome_to_fight_club.mp3
+  "Welcome to Fight Club"
+  CHARACTER: 
+
+016_when_you_have_insomnia_you_re_never_really_asleep_and_you_re.mp3
+  "You're never really asleep"
+  CHARACTER: 
+
+017_why_i_dunno_why.mp3
+  "Why? I dunno why"
+  CHARACTER: 
+
+018_you_know_how_they_say_you_only_hurt_the_ones_you_love_well_i.mp3
+  "Hurt the ones you love"
+  CHARACTER: 
+
+019_punches_self.mp3
+  "Punches self"
+  CHARACTER: 

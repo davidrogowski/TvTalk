@@ -18,10 +18,6 @@
   "Eat my tits"
   CHARACTER: 
 
-006_entryplease.mp3
-  "Entry please"
-  CHARACTER: 
-
 007_fivewoman.mp3
   "Five woman"
   CHARACTER: 
@@ -34,10 +30,6 @@
   "Great success"
   CHARACTER: 
 
-010_happytimes.mp3
-  "Happy times"
-  CHARACTER: 
-
 011_haveadrink.mp3
   "Have a drink"
   CHARACTER: 
@@ -46,16 +38,8 @@
   "Hotel"
   CHARACTER: 
 
-013_howdypartners.mp3
-  "Howdy partners"
-  CHARACTER: 
-
 014_howfast.mp3
   "How fast"
-  CHARACTER: 
-
-015_howmuch.mp3
-  "How much"
   CHARACTER: 
 
 016_iarrive.mp3
@@ -70,16 +54,8 @@
   "It for girls"
   CHARACTER: 
 
-019_iwilleatyour.mp3
-  "I will eat your"
-  CHARACTER: 
-
 020_kinginthecastle.mp3
   "King in the castle"
-  CHARACTER: 
-
-021_letsgetdrunk.mp3
-  "Let's get drunk"
   CHARACTER: 
 
 022_losethem.mp3
@@ -200,10 +176,6 @@
 
 051_uzbekistan.mp3
   "Uzbekistan"
-  CHARACTER: 
-
-052_vanillaface.mp3
-  "Vanilla face"
   CHARACTER: 
 
 053_veryexcite.mp3

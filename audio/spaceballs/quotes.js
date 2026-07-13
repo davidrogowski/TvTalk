@@ -21,7 +21,7 @@ const quotes = [
     "audioUrl": "audio/spaceballs/004_fooled_you.mp3"
   },
   {
-    "text": "He Shot My Hair",
+    "text": "He shot my hair",
     "character": "",
     "audioUrl": "audio/spaceballs/005_he_shot_my_hair.mp3"
   },
@@ -41,7 +41,7 @@ const quotes = [
     "audioUrl": "audio/spaceballs/008_just_stop_this_thing_i_order_you.mp3"
   },
   {
-    "text": "Knock Next Time",
+    "text": "Knock next time",
     "character": "",
     "audioUrl": "audio/spaceballs/009_knock_next_time.mp3"
   },
@@ -61,7 +61,7 @@ const quotes = [
     "audioUrl": "audio/spaceballs/012_ludicrous_speed_activated.mp3"
   },
   {
-    "text": "Meet First Time Last Time",
+    "text": "Meet first time last time",
     "character": "",
     "audioUrl": "audio/spaceballs/013_meet_first_time_last_time.mp3"
   },
@@ -106,7 +106,7 @@ const quotes = [
     "audioUrl": "audio/spaceballs/021_spaceballs.mp3"
   },
   {
-    "text": "Spaceballs shit",
+    "text": "Shit",
     "character": "",
     "audioUrl": "audio/spaceballs/022_spaceballs_shit.mp3"
   },
@@ -116,7 +116,7 @@ const quotes = [
     "audioUrl": "audio/spaceballs/023_surrounded_by_assholes.mp3"
   },
   {
-    "text": "The Radar Is Jammed",
+    "text": "The radar is jammed",
     "character": "",
     "audioUrl": "audio/spaceballs/024_the_radar_is_jammed.mp3"
   },
@@ -131,12 +131,12 @@ const quotes = [
     "audioUrl": "audio/spaceballs/026_they_ve_gone_to_plaid.mp3"
   },
   {
-    "text": "We Ain't Found Shit",
+    "text": "We ain't found shit",
     "character": "",
     "audioUrl": "audio/spaceballs/027_we_ain_t_found_shit.mp3"
   },
   {
-    "text": "We're in the Now Now",
+    "text": "We're in the now now",
     "character": "",
     "audioUrl": "audio/spaceballs/028_we_re_in_the_now_now.mp3"
   },
@@ -151,12 +151,12 @@ const quotes = [
     "audioUrl": "audio/spaceballs/030_what_the_hell.mp3"
   },
   {
-    "text": "Why Didn't Anyone Tell Me",
+    "text": "Why didn't anyone tell me",
     "character": "",
     "audioUrl": "audio/spaceballs/031_why_didn_t_anyone_tell_me.mp3"
   },
   {
-    "text": "Your Schwartz Is as Big as Mine",
+    "text": "Your Schwartz is as big as mine",
     "character": "",
     "audioUrl": "audio/spaceballs/032_your_schwartz_is_as_big_as_mine.mp3"
   }

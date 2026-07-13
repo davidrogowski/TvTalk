@@ -11,7 +11,7 @@ const quotes = [
     "audioUrl": "audio/breakfast-club/011_demented_and_sad_but_social.mp3"
   },
   {
-    "text": "Does Barry Manilow Know You Raid His Wardrobe?",
+    "text": "Does Barry Manilow know you raid his wardrobe?",
     "character": "",
     "audioUrl": "audio/breakfast-club/013_does_barry_manilow_know_you_raid_his_wardrobe.mp3"
   },

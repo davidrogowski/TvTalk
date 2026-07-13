@@ -26,7 +26,7 @@ const quotes = [
     "audioUrl": "audio/hot-rod/005_bathroom.mp3"
   },
   {
-    "text": "Big Ass Stunt",
+    "text": "Big ass stunt",
     "character": "",
     "audioUrl": "audio/hot-rod/006_bigassstunt.mp3"
   },
@@ -51,17 +51,12 @@ const quotes = [
     "audioUrl": "audio/hot-rod/010_coolerheads.mp3"
   },
   {
-    "text": "Dazzled",
-    "character": "",
-    "audioUrl": "audio/hot-rod/011_dazzled.mp3"
-  },
-  {
     "text": "Fight Me",
     "character": "",
     "audioUrl": "audio/hot-rod/012_fightme.mp3"
   },
   {
-    "text": "Get You Better",
+    "text": "Get you better",
     "character": "",
     "audioUrl": "audio/hot-rod/013_getyoubetter.mp3"
   },
@@ -76,16 +71,6 @@ const quotes = [
     "audioUrl": "audio/hot-rod/015_greentea.mp3"
   },
   {
-    "text": "Have Fun",
-    "character": "",
-    "audioUrl": "audio/hot-rod/016_havefun.mp3"
-  },
-  {
-    "text": "How It's Done",
-    "character": "",
-    "audioUrl": "audio/hot-rod/017_howitsdone.mp3"
-  },
-  {
     "text": "Jackhammer",
     "character": "",
     "audioUrl": "audio/hot-rod/018_jackhammer.mp3"
@@ -96,19 +81,14 @@ const quotes = [
     "audioUrl": "audio/hot-rod/019_jealousrage.mp3"
   },
   {
-    "text": "Just Bring It",
+    "text": "Just bring it",
     "character": "",
     "audioUrl": "audio/hot-rod/020_justbringit.mp3"
   },
   {
-    "text": "Kiss Was Hot",
+    "text": "Kiss was hot",
     "character": "",
     "audioUrl": "audio/hot-rod/021_kisswashot.mp3"
-  },
-  {
-    "text": "Let's Jump",
-    "character": "",
-    "audioUrl": "audio/hot-rod/022_letsjump.mp3"
   },
   {
     "text": "Let's Party",
@@ -116,7 +96,7 @@ const quotes = [
     "audioUrl": "audio/hot-rod/023_letsparty.mp3"
   },
   {
-    "text": "Light 'Em Off",
+    "text": "Light 'em off",
     "character": "",
     "audioUrl": "audio/hot-rod/024_lightthemoff.mp3"
   },
@@ -124,11 +104,6 @@ const quotes = [
     "text": "Look Pretty",
     "character": "",
     "audioUrl": "audio/hot-rod/025_lookpretty.mp3"
-  },
-  {
-    "text": "Mountain Face",
-    "character": "",
-    "audioUrl": "audio/hot-rod/026_mountainface.mp3"
   },
   {
     "text": "Mouth to Mouth",
@@ -141,7 +116,7 @@ const quotes = [
     "audioUrl": "audio/hot-rod/028_murderhim.mp3"
   },
   {
-    "text": "My Hat Now",
+    "text": "My hat now",
     "character": "",
     "audioUrl": "audio/hot-rod/029_myhatnow.mp3"
   },
@@ -149,11 +124,6 @@ const quotes = [
     "text": "Nervous",
     "character": "",
     "audioUrl": "audio/hot-rod/030_nervous.mp3"
-  },
-  {
-    "text": "Oh Shit",
-    "character": "",
-    "audioUrl": "audio/hot-rod/031_ohshit.mp3"
   },
   {
     "text": "Party",
@@ -164,11 +134,6 @@ const quotes = [
     "text": "Prison Rules",
     "character": "",
     "audioUrl": "audio/hot-rod/033_prisonrules.mp3"
-  },
-  {
-    "text": "Quiet Place",
-    "character": "",
-    "audioUrl": "audio/hot-rod/034_quietplace.mp3"
   },
   {
     "text": "Raccoon",
@@ -196,7 +161,7 @@ const quotes = [
     "audioUrl": "audio/hot-rod/039_respectme.mp3"
   },
   {
-    "text": "So Cool Beans",
+    "text": "So cool beans",
     "character": "",
     "audioUrl": "audio/hot-rod/040_socoolbeans.mp3"
   },
@@ -211,11 +176,6 @@ const quotes = [
     "audioUrl": "audio/hot-rod/042_superdead.mp3"
   },
   {
-    "text": "Talking",
-    "character": "",
-    "audioUrl": "audio/hot-rod/043_talking.mp3"
-  },
-  {
     "text": "Tears",
     "character": "",
     "audioUrl": "audio/hot-rod/044_tears.mp3"
@@ -224,16 +184,6 @@ const quotes = [
     "text": "That's Enough",
     "character": "",
     "audioUrl": "audio/hot-rod/045_thatsenough.mp3"
-  },
-  {
-    "text": "The Flavor",
-    "character": "",
-    "audioUrl": "audio/hot-rod/046_theflavor.mp3"
-  },
-  {
-    "text": "The Victim",
-    "character": "",
-    "audioUrl": "audio/hot-rod/047_thevictim.mp3"
   },
   {
     "text": "Throwing Star",
@@ -251,11 +201,6 @@ const quotes = [
     "audioUrl": "audio/hot-rod/050_trippinballs.mp3"
   },
   {
-    "text": "Ultimate Punch",
-    "character": "",
-    "audioUrl": "audio/hot-rod/051_ultimatepunch.mp3"
-  },
-  {
     "text": "Universe",
     "character": "",
     "audioUrl": "audio/hot-rod/052_universe.mp3"
@@ -271,19 +216,9 @@ const quotes = [
     "audioUrl": "audio/hot-rod/054_whiskey.mp3"
   },
   {
-    "text": "Who's With Me",
-    "character": "",
-    "audioUrl": "audio/hot-rod/055_whoswithme.mp3"
-  },
-  {
     "text": "Wizards",
     "character": "",
     "audioUrl": "audio/hot-rod/056_wizards.mp3"
-  },
-  {
-    "text": "Yoo-hoo",
-    "character": "",
-    "audioUrl": "audio/hot-rod/057_yoo_hoo.mp3"
   },
   {
     "text": "You're a Kid",
@@ -301,7 +236,7 @@ const quotes = [
     "audioUrl": "audio/hot-rod/060_you_rewierd.mp3"
   },
   {
-    "text": "You Are Pathetic",
+    "text": "You are pathetic",
     "character": "",
     "audioUrl": "audio/hot-rod/061_youarepathetic.mp3"
   },

@@ -18,24 +18,12 @@
   "Two great tastes together"
   CHARACTER: 
 
-029_and_that_s_a_record_by_about_five_hours.mp3
-  "A record by five hours"
-  CHARACTER: 
-
 031_and_then_i_m_gonna_order_a_huge_breakfast_on_your_tab.mp3
   "Huge breakfast on your tab"
   CHARACTER: 
 
 036_and_what_s_mine_well_that_ll_stay_mine_cause_i_ve_learned_fr.mp3
   "Learned from you"
-  CHARACTER: 
-
-041_attaboy_nate_diamond_dogs_it_is.mp3
-  "Diamond Dogs it is"
-  CHARACTER: 
-
-043_before_i_purchased_a_football_club.mp3
-  "Before I bought a club"
   CHARACTER: 
 
 047_boy_i_d_love_to_curl_up_on_a_couch_under_a_weighted_blanket.mp3
@@ -50,24 +38,12 @@
   "Saw a greater Jamie"
   CHARACTER: 
 
-067_but_you_know_you_don_t_need_to_rush_out_or_anything.mp3
-  "No need to rush out"
-  CHARACTER: 
-
 096_especially_since_bex_and_i_are_gonna_be_sitting_with_you.mp3
   "Bex and I sitting with you"
   CHARACTER: 
 
 100_everyone_drinks_with_us_it_s_on_me.mp3
   "Drinks on me!"
-  CHARACTER: 
-
-116_grow_up_and_get_over_it.mp3
-  "Grow up and get over it"
-  CHARACTER: 
-
-135_hey_football_is_life_capit_n.mp3
-  "Football is life"
   CHARACTER: 
 
 175_i_know_i_m_not_allowed_an_ownership_stake_in_the_club.mp3
@@ -86,10 +62,6 @@
   "Should've been braver, I'm sorry"
   CHARACTER: 
 
-197_i_think_the_idea_of_you_and_keeley_is_like_cookies_and_cream.mp3
-  "You two are cookies and cream"
-  CHARACTER: 
-
 210_i_m_gonna_round_that_down_to_two_then_i_can_call_those_gals.mp3
   "Call 'em the 2% Milks"
   CHARACTER: 
@@ -98,44 +70,8 @@
   "Be curious, not judgmental"
   CHARACTER: 
 
-233_it_s_okay_if_you_are_it_s_just_that_i_wanna_know_so_that_i_d.mp3
-  "So I don't look stupid"
-  CHARACTER: 
-
-239_just_let_me_know_if_i_m_winning_or_losing_all_right.mp3
-  "Winning or losing?"
-  CHARACTER: 
-
-242_keeley_jones_the_independent_woman_online_edition.mp3
-  "Keeley Jones, Independent Woman"
-  CHARACTER: 
-
-249_like_i_said_it_s_private.mp3
-  "Like I said, it's private"
-  CHARACTER: 
-
-272_not_today_i_can_t_i_m_busy.mp3
-  "Not today, I'm busy"
-  CHARACTER: 
-
-286_oh_you_fucker_don_t_do_this_to_me.mp3
-  "Don't do this to me"
-  CHARACTER: 
-
 289_oi_come_on_lasso_didn_t_dump_you_man_city_wanted_you_back.mp3
   "Man City wanted you back"
-  CHARACTER: 
-
-320_right_i_m_gonna_have_to_ask_you_to_leave.mp3
-  "Gonna ask you to leave"
-  CHARACTER: 
-
-328_second_place_of_course_is_the_i_just_walked_in_on_my_mother.mp3
-  "Walked in on my mother-in-law"
-  CHARACTER: 
-
-341_so_you_fucked_him_to_get_back_at_me_for_something_i_didn_t_e.mp3
-  "Got back at me"
   CHARACTER: 
 
 350_so_thank_you_for_that.mp3
@@ -150,24 +86,8 @@
   "Roy's slept with a bunch"
   CHARACTER: 
 
-364_thank_god_cause_ted_lasso_sucks.mp3
-  "Ted Lasso sucks"
-  CHARACTER: 
-
 368_that_i_went_from_having_a_mental_breakdown_at_a_karaoke_join.mp3
   "Breakdown at karaoke"
-  CHARACTER: 
-
-381_that_s_okay_i_ll_give_it_a_shot_here_let_s_see.mp3
-  "I'll give it a shot"
-  CHARACTER: 
-
-383_that_s_what_i_m_talking_about_yeah_yeah.mp3
-  "That's what I'm talking about!"
-  CHARACTER: 
-
-411_until_she_sets_me_up_with_somewhere_proper_that_s_why_i_have.mp3
-  "That's why I have this"
   CHARACTER: 
 
 416_we_could_you_know_maybe_wager_say_10_000.mp3
@@ -178,20 +98,12 @@
   "Ten thousand unsold seats"
   CHARACTER: 
 
-428_well_why_don_t_you_just_come_and_tell_me_how_you_feel_about.mp3
-  "Tell me how you feel"
-  CHARACTER: 
-
 461_yeah_and_hey_i_wanna_thank_you_again_for_being_there_for_me.mp3
   "Thanks for being there"
   CHARACTER: 
 
 481_you_had_every_opportunity_to_do_the_right_thing_and_you_neve.mp3
   "You never did the right thing"
-  CHARACTER: 
-
-484_you_know_everything_happened_so_fast_when_lasso_dumped_me.mp3
-  "When Lasso dumped me"
   CHARACTER: 
 
 497_you_won_t_take_away_your_pain_by_constantly_punishing_rupert.mp3
@@ -204,10 +116,6 @@
 
 531_like_the_eggplant_or_the_squirting_water_or_the_little_squir.mp3
   "Eggplant or the squirrel"
-  CHARACTER: 
-
-536_okay_double_in_double_out.mp3
-  "Double in, double out"
   CHARACTER: 
 
 558_cause_look_it_s_just_not_something_i_ve_ever_done_before_ok.mp3

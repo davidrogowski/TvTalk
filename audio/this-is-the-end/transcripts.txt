@@ -3,7 +3,7 @@
   CHARACTER: 
 
 002_bang_bang_your_e_dead.mp3
-  "Bang Bang Your'e dead"
+  "Bang bang you're dead"
   CHARACTER: 
 
 003_bang_bang_bang_you_re_dead_pow_pow_pow_stop_guys_stop_fuckin.mp3
@@ -19,7 +19,7 @@
   CHARACTER: 
 
 006_does_this_coke_smell_funny.mp3
-  "Does this Coke Smell Funny"
+  "Does this Coke smell funny"
   CHARACTER: 
 
 007_fuck_michael_cera.mp3
@@ -35,7 +35,7 @@
   CHARACTER: 
 
 010_good_morning_sunshine.mp3
-  "Good Morning Sunshine"
+  "Good morning sunshine"
   CHARACTER: 
 
 011_guys_guys_wake_up_danny_s_alive_he_s_eating_all_the_fucking.mp3
@@ -43,7 +43,7 @@
   CHARACTER: 
 
 012_he_s_eating_all_the_fucking_food.mp3
-  "He's Eating All the Fucking Food"
+  "He's eating all the fucking food"
   CHARACTER: 
 
 013_heading_fucking_tatum_i_found_him_wandering_on_the_freeway_i.mp3
@@ -71,7 +71,7 @@
   CHARACTER: 
 
 019_jonah_plays_with_the_gun.mp3
-  "Jonah Plays With The Gun"
+  "Jonah plays with the gun"
   CHARACTER: 
 
 020_let_s_do_all_the_drugs.mp3
@@ -83,7 +83,7 @@
   CHARACTER: 
 
 022_lol_that_s_why_y_all_is.mp3
-  "Lol, That's Why Y'all is"
+  "That's why y'all is"
   CHARACTER: 
 
 023_milky_way.mp3
@@ -107,11 +107,11 @@
   CHARACTER: 
 
 028_sick_reference_bro.mp3
-  "Sick Reference Bro"
+  "Sick reference bro"
   CHARACTER: 
 
 029_sink_hole_de_mayo.mp3
-  "Sink Hole de Mayo"
+  "Sink hole de Mayo"
   CHARACTER: 
 
 030_something_not_that_chill_happened_last_night.mp3
@@ -123,7 +123,7 @@
   CHARACTER: 
 
 032_that_fuckers_gotta_go.mp3
-  "That Fuckers Gotta Go"
+  "That fuckers gotta go"
   CHARACTER: 
 
 033_that_s_what_i_thought_nerd.mp3

@@ -1,9 +1,9 @@
 002_alexa_add_big_hairy_balls_to_my_shopping_list.mp3
-  "Alexa, Add Big Hairy Balls to My Shopping List"
+  "Alexa, add big hairy balls to my shopping list"
   CHARACTER: 
 
 005_an_old_fashioned.mp3
-  "An Old Fashioned"
+  "An old fashioned"
   CHARACTER: 
 
 007_and_it_s_gone.mp3
@@ -31,7 +31,7 @@
   CHARACTER: 
 
 020_bono_yeah_yeah_yeaah.mp3
-  "Bono YEAH YEAH YEAAH!"
+  "Bono yeah yeah yeaah!"
   CHARACTER: 
 
 021_boo_wendy.mp3
@@ -55,11 +55,11 @@
   CHARACTER: 
 
 029_buying_toilet_paper.mp3
-  "Buying Toilet Paper"
+  "Buying toilet paper"
   CHARACTER: 
 
 030_cable_company_customer_service.mp3
-  "Cable Company Customer Service"
+  "Cable company customer service"
   CHARACTER: 
 
 033_canada_on_strike.mp3
@@ -83,7 +83,7 @@
   CHARACTER: 
 
 042_christopher_reeves_stem_cells.mp3
-  "Christopher Reeves Stem Cells"
+  "Christopher Reeves stem cells"
   CHARACTER: 
 
 044_coding.mp3
@@ -95,7 +95,7 @@
   CHARACTER: 
 
 046_columbus_day_poem.mp3
-  "Columbus Day Poem"
+  "Columbus Day poem"
   CHARACTER: 
 
 048_come_on_squeal.mp3
@@ -151,7 +151,7 @@
   CHARACTER: 
 
 072_faith_in_christ.mp3
-  "Faith In Christ"
+  "Faith in Christ"
   CHARACTER: 
 
 075_french_fry_when_you_should_pizza.mp3
@@ -171,7 +171,7 @@
   CHARACTER: 
 
 090_go_america_go_broncos.mp3
-  "Go America Go Broncos"
+  "Go America go Broncos"
   CHARACTER: 
 
 091_go_up_to_bed.mp3
@@ -203,7 +203,7 @@
   CHARACTER: 
 
 110_hey_there_s_a_bee_in_here.mp3
-  "Hey, There's a Bee In Here"
+  "Hey, there's a bee in here"
   CHARACTER: 
 
 114_how_s_that_filet_mignon.mp3
@@ -211,7 +211,7 @@
   CHARACTER: 
 
 117_i_am_not_chugging_beer.mp3
-  "I Am Not Chugging Beer"
+  "I am not chugging beer"
   CHARACTER: 
 
 118_i_brake_up.mp3
@@ -231,7 +231,7 @@
   CHARACTER: 
 
 132_i_thought_this_was_america.mp3
-  "I Thought This Was America"
+  "I thought this was America"
   CHARACTER: 
 
 133_i_thought_this_was_america.mp3
@@ -239,7 +239,7 @@
   CHARACTER: 
 
 135_i_wasn_t_watching_food_channel.mp3
-  "I Wasn't Watching Food Channel"
+  "I wasn't watching Food Channel"
   CHARACTER: 
 
 136_i_will_bust_your_ass.mp3
@@ -287,15 +287,15 @@
   CHARACTER: 
 
 154_i_m_sorry_i_thought_this_was_america.mp3
-  "I'm Sorry I Thought This Was America"
+  "I'm sorry I thought this was America"
   CHARACTER: 
 
 155_i_m_your_father_put_it_back_on.mp3
-  "I'm Your Father, Put It Back On"
+  "I'm your father, put it back on"
   CHARACTER: 
 
 156_i_ve_got_something_in_my_front_pocket.mp3
-  "I've Got Something In My Front Pocket"
+  "I've got something in my front pocket"
   CHARACTER: 
 
 158_if_you_don_t_like_america_you_can_get_out.mp3
@@ -303,7 +303,7 @@
   CHARACTER: 
 
 160_ike_french_fries.mp3
-  "Ike French Fries"
+  "Ike French fries"
   CHARACTER: 
 
 161_ike_south_park.mp3
@@ -311,7 +311,7 @@
   CHARACTER: 
 
 163_in_the_ghetto.mp3
-  "In The Ghetto"
+  "In the Ghetto"
   CHARACTER: 
 
 166_it_doesn_t_matter_who_we_are.mp3
@@ -319,7 +319,7 @@
   CHARACTER: 
 
 168_it_s_all_gone.mp3
-  "It's All Gone"
+  "It's all gone"
   CHARACTER: 
 
 172_it_s_wrong_it_s_wrooooong.mp3
@@ -331,15 +331,15 @@
   CHARACTER: 
 
 176_just_get_it_man.mp3
-  "Just Get It, Man"
+  "Just get it, man"
   CHARACTER: 
 
 178_kyle_and_rebecca_kiss.mp3
-  "Kyle and Rebecca Kiss"
+  "Kyle and Rebecca kiss"
   CHARACTER: 
 
 179_kyle_s_mom_is_a_big_fat_bitch.mp3
-  "Kyle's Mom is a Big Fat Bitch"
+  "Kyle's mom is a big fat bitch"
   CHARACTER: 
 
 180_kyle_s_money.mp3
@@ -363,7 +363,7 @@
   CHARACTER: 
 
 187_loan_me_some_lipstick.mp3
-  "Loan Me Some Lipstick"
+  "Loan me some lipstick"
   CHARACTER: 
 
 188_loggers.mp3
@@ -391,7 +391,7 @@
   CHARACTER: 
 
 203_my_girl_ain_t_no_hobbit.mp3
-  "My Girl Ain't No Hobbit"
+  "My girl ain't no hobbit"
   CHARACTER: 
 
 206_nice.mp3
@@ -407,11 +407,11 @@
   CHARACTER: 
 
 211_no_school_on_columbus_day.mp3
-  "No School On Columbus Day"
+  "No school on Columbus Day"
   CHARACTER: 
 
 214_no_way_he_just_said_that.mp3
-  "No Way He Just Said That"
+  "No way he just said that"
   CHARACTER: 
 
 216_nooooo.mp3
@@ -443,7 +443,7 @@
   CHARACTER: 
 
 243_rabble_rabble_rabble.mp3
-  "Rabble Rabble Rabble"
+  "Rabble rabble rabble"
   CHARACTER: 
 
 244_raging_clue.mp3
@@ -455,7 +455,7 @@
   CHARACTER: 
 
 247_randy_marsh_s_record_poop.mp3
-  "Randy Marsh's Record Poop"
+  "Randy Marsh's record poop"
   CHARACTER: 
 
 249_randy_sings_easter_bonnet.mp3
@@ -471,7 +471,7 @@
   CHARACTER: 
 
 258_road_warrior_gas.mp3
-  "Road Warrior Gas"
+  "Road Warrior gas"
   CHARACTER: 
 
 259_rob_schneider.mp3
@@ -487,7 +487,7 @@
   CHARACTER: 
 
 262_sars_goes_viral.mp3
-  "Sars Goes Viral"
+  "SARS goes viral"
   CHARACTER: 
 
 263_scooters.mp3
@@ -507,7 +507,7 @@
   CHARACTER: 
 
 277_smokin_weed_right_in_front_of_a_cop.mp3
-  "Smokin' Weed Right in Front of a Cop"
+  "Smokin' weed right in front of a cop"
   CHARACTER: 
 
 278_snuggle.mp3
@@ -523,19 +523,19 @@
   CHARACTER: 
 
 285_south_park_wiener_chorus.mp3
-  "South Park Wiener Chorus"
+  "Wiener chorus"
   CHARACTER: 
 
 288_south_park_mom_song.mp3
-  "South Park Mom Song"
+  "Mom song"
   CHARACTER: 
 
 289_south_park_re_tus.mp3
-  "South Park RE TUS"
+  "RE TUS"
   CHARACTER: 
 
 292_stanley_are_you_okay.mp3
-  "Stanley, Are You Okay?"
+  "Stanley, are you okay?"
   CHARACTER: 
 
 295_subway_commercial.mp3
@@ -575,7 +575,7 @@
   CHARACTER: 
 
 331_treat_internet_with_respect.mp3
-  "Treat Internet with RESPECT"
+  "Treat internet with respect"
   CHARACTER: 
 
 332_tree_fiddy.mp3
@@ -595,7 +595,7 @@
   CHARACTER: 
 
 345_we_re_having_it_out.mp3
-  "We're Having It Out"
+  "We're having it out"
   CHARACTER: 
 
 352_what_seems_to_be_the_officer_problem.mp3
@@ -607,7 +607,7 @@
   CHARACTER: 
 
 362_what_s_the_big_item_this_black_friday.mp3
-  "What's The Big Item This Black Friday"
+  "What's the big item this Black Friday"
   CHARACTER: 
 
 364_white_people_renovating_houses.mp3
@@ -627,7 +627,7 @@
   CHARACTER: 
 
 381_you_got_nothing_on_us.mp3
-  "You Got Nothing On Us"
+  "You got nothing on us"
   CHARACTER: 
 
 384_you_just_have_to_save_me.mp3
@@ -643,7 +643,7 @@
   CHARACTER: 
 
 388_you_may_notice_some_changes_to_your_country.mp3
-  "You May Notice Some Changes To Your Country"
+  "You may notice some changes to your country"
   CHARACTER: 
 
 394_you_re_a_bunch_of_cockroaches.mp3

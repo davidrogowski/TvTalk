@@ -6,29 +6,14 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/001_a_free_sample_on_gasoline.mp3"
   },
   {
-    "text": "Ah faithful toilet",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/002_ah_faithful_toilet.mp3"
-  },
-  {
     "text": "Obese man in a fat man's body",
     "character": "",
     "audioUrl": "audio/the-simpsons/004_all_my_life_i_ve_been_obese_man_trapped_inside_a_fat_man_s_b.mp3"
   },
   {
-    "text": "Computer hacking makes me thirsty",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/005_all_this_computer_hacking_is_making_me_thirsty.mp3"
-  },
-  {
     "text": "Wizards went straight to Hell",
     "character": "",
     "audioUrl": "audio/the-simpsons/006_and_all_his_wizard_friends_went_straight_to_hell_for_practic.mp3"
-  },
-  {
-    "text": "And clean up that mess",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/007_and_clean_up_that_mess.mp3"
   },
   {
     "text": "Not mere objects with curves",
@@ -39,26 +24,6 @@ const quotes = [
     "text": "No help from their parents",
     "character": "",
     "audioUrl": "audio/the-simpsons/009_and_special_awards_go_to_the_two_students_who_obviously_had.mp3"
-  },
-  {
-    "text": "Another chance to be bad",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/010_another_chance_to_be_bad.mp3"
-  },
-  {
-    "text": "Apu Nisa Federal",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/011_apu_nisa_federal.mp3"
-  },
-  {
-    "text": "I'm stuck, help me!",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/012_argh_i_m_stuck_help_me.mp3"
-  },
-  {
-    "text": "Trying new things",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/014_at_least_i_m_out_there_trying_new_things.mp3"
   },
   {
     "text": "These women are guilty",
@@ -76,24 +41,9 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/020_barney_don_t_steal_any_beer_while_i_m_gone.mp3"
   },
   {
-    "text": "Bart talking gibberish",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/021_bart_talking_gibberish.mp3"
-  },
-  {
     "text": "Wanna see my new chainsaw?",
     "character": "",
     "audioUrl": "audio/the-simpsons/022_bart_do_you_want_to_see_my_new_chainsaw_oh_sorry_what_am_i_t.mp3"
-  },
-  {
-    "text": "We're the parents, you're the children",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/023_because_we_re_the_parents_and_you_re_the_children.mp3"
-  },
-  {
-    "text": "Begun to my sect",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/025_begun_to_my_sect.mp3"
   },
   {
     "text": "You've got the shinin",
@@ -106,21 +56,6 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/027_but_not_i_was_funny_that_was_funny_yet_taken_away_my_dignity.mp3"
   },
   {
-    "text": "Can I throw up in your bathroom?",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/028_can_i_throw_up_in_your_bathroom.mp3"
-  },
-  {
-    "text": "Come on, I dare ya",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/029_come_on_i_dare_ya.mp3"
-  },
-  {
-    "text": "My trademark change of heart",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/030_cool_in_the_sweet_i_did_with_my_trademark_changes_of_heart.mp3"
-  },
-  {
     "text": "It's brain surgery",
     "character": "",
     "audioUrl": "audio/the-simpsons/033_damn_it_smithers_this_isn_t_rocket_science_it_s_brain_surger.mp3"
@@ -131,44 +66,14 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/034_dispatch_this_is_chief_wiggum_back_in_persuit_of_the_rebelli.mp3"
   },
   {
-    "text": "Do we have to?",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/035_do_we_have_to.mp3"
-  },
-  {
-    "text": "Shake to do work committee",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/036_do_you_gotta_go_shake_to_do_work_committee.mp3"
-  },
-  {
     "text": "Humming",
     "character": "",
     "audioUrl": "audio/the-simpsons/039_doh_deh_doh_dah_dih_dah.mp3"
   },
   {
-    "text": "Doh, doh, doh",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/040_doh_doh_doh.mp3"
-  },
-  {
     "text": "Don't feel bad for losin",
     "character": "",
     "audioUrl": "audio/the-simpsons/043_don_t_feel_bad_for_losin.mp3"
-  },
-  {
-    "text": "Don't have a cow",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/044_don_t_have_a_cow.mp3"
-  },
-  {
-    "text": "Don't have a cow, dad",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/045_don_t_have_a_cow_dad.mp3"
-  },
-  {
-    "text": "Don't lie to me boy",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/046_don_t_lie_to_me_boy.mp3"
   },
   {
     "text": "Purple's a fruit",
@@ -184,11 +89,6 @@ const quotes = [
     "text": "Humming",
     "character": "",
     "audioUrl": "audio/the-simpsons/051_dum_dee_dum_dah.mp3"
-  },
-  {
-    "text": "Eat my shorts",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/052_eat_my_shorts.mp3"
   },
   {
     "text": "English, who needs that?",
@@ -221,44 +121,9 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/060_go_ahead_water_it_down_some_more.mp3"
   },
   {
-    "text": "Go to bed!",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/061_go_to_bed.mp3"
-  },
-  {
     "text": "Build yourself an Arky Arky",
     "character": "",
     "audioUrl": "audio/the-simpsons/062_god_said_to_noah_build_yourself_an_arky_arky.mp3"
-  },
-  {
-    "text": "Guess who likes you?",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/063_guess_who_likes_you.mp3"
-  },
-  {
-    "text": "Scaredy cat",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/064_ha_ha_ha_scaredy_cat.mp3"
-  },
-  {
-    "text": "Some idiot actually called in",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/065_ha_ha_some_idiot_actually_called_in.mp3"
-  },
-  {
-    "text": "Have a good life",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/067_have_a_good_life.mp3"
-  },
-  {
-    "text": "Have you got any grease?",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/068_have_you_got_any_greese.mp3"
-  },
-  {
-    "text": "Have you started smoking?",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/069_have_you_started_smoking.mp3"
   },
   {
     "text": "You can't handle the truth",
@@ -276,79 +141,14 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/073_hello_i_m_doctor_cheeks_i_do_my_rounds_and_i_m_a_little_behi.mp3"
   },
   {
-    "text": "Hello steady customer",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/074_hello_steady_customer_how_are_you_this_evening_sir.mp3"
-  },
-  {
-    "text": "Hello, what's your name?",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/075_hello_what_s_your_name.mp3"
-  },
-  {
     "text": "Hello-dilly-dally",
     "character": "",
     "audioUrl": "audio/the-simpsons/076_hello_hello_hello_dailodily.mp3"
   },
   {
-    "text": "Hi, I'm Troy McClure",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/077_hi_i_m_troy_mcclure.mp3"
-  },
-  {
-    "text": "Hi, join the party!",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/078_hi_join_the_party.mp3"
-  },
-  {
-    "text": "Only if you hold me",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/079_hold_me_only_if_you_hold_me.mp3"
-  },
-  {
-    "text": "How can you desert your children?",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/082_how_can_you_desert_your_children.mp3"
-  },
-  {
-    "text": "How sweet it is",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/083_how_sweet_it_is.mp3"
-  },
-  {
     "text": "I am evil Homer",
     "character": "",
     "audioUrl": "audio/the-simpsons/084_i_am_evil_homer_i_am_evil_homer_i_am_evil_homer_i_am_evil_ho.mp3"
-  },
-  {
-    "text": "The thing from Uranus",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/085_i_am_the_thing_from_uranus.mp3"
-  },
-  {
-    "text": "Gotta take my wife to the ballet",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/086_i_can_t_i_got_to_take_my_wife_to_the_ballet.mp3"
-  },
-  {
-    "text": "If I put my mind to it",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/087_i_could_do_anything_if_i_just_put_my_mind_to_it.mp3"
-  },
-  {
-    "text": "I didn't do it",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/088_i_didn_t_do_it.mp3"
-  },
-  {
-    "text": "I don't know",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/089_i_don_t_know.mp3"
-  },
-  {
-    "text": "Didn't expect him to say that",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/090_i_don_t_think_any_of_us_expected_him_to_say_that.mp3"
   },
   {
     "text": "I passed, I kissed the teacher",
@@ -361,11 +161,6 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/092_i_heard_your_dad_went_into_a_restaurant_it_ain_t_everything.mp3"
   },
   {
-    "text": "Admiral Butt Head",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/093_i_i_admiral_butt_head.mp3"
-  },
-  {
     "text": "The fireman wrote me a note",
     "character": "",
     "audioUrl": "audio/the-simpsons/094_i_know_you_didn_t_believe_me_about_the_vending_machine_that.mp3"
@@ -374,16 +169,6 @@ const quotes = [
     "text": "No any key",
     "character": "",
     "audioUrl": "audio/the-simpsons/095_i_see_esc_ctrl_and_pg_up_there_doesn_t_seem_to_be_any_any_ke.mp3"
-  },
-  {
-    "text": "Cut of your gibberish",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/096_i_sure_like_the_cut_of_your_gibberish.mp3"
-  },
-  {
-    "text": "I'll have some wine",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/097_i_think_i_ll_have_some_wine.mp3"
   },
   {
     "text": "Fat disgusting slob (burp)",
@@ -401,49 +186,9 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/100_i_was_just_going_through_your_garbage_and_i_couldn_t_help_ov.mp3"
   },
   {
-    "text": "More animal than man",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/101_i_was_more_animal_than_ma.mp3"
-  },
-  {
-    "text": "I won, I won!",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/102_i_won_i_won.mp3"
-  },
-  {
-    "text": "Sell my soul for a donut",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/103_i_d_sell_my_soul_for_a_donut.mp3"
-  },
-  {
-    "text": "I'm a Star Wars!",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/104_i_m_a_star_wars.mp3"
-  },
-  {
-    "text": "Sorry doesn't cut it with this Pope",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/105_i_m_afraid_sorry_doesn_t_cut_it_with_this_pope.mp3"
-  },
-  {
-    "text": "I'm really, really sorry",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/106_i_m_really_really_really_sorry.mp3"
-  },
-  {
-    "text": "Magical man from happy land",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/107_i_m_the_magical_man_from_happy_land.mp3"
-  },
-  {
     "text": "Turn you all to cinders",
     "character": "",
     "audioUrl": "audio/the-simpsons/108_if_elected_mayor_my_first_act_will_be_to_kill_the_whole_lot.mp3"
-  },
-  {
-    "text": "Work and go to church",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/109_if_it_were_up_to_you_all_we_would_ever_do_is_work_and_go_to.mp3"
   },
   {
     "text": "If it's hard, it's not worth doing",
@@ -471,44 +216,14 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/114_is_punishment_for_your_decision_it_s_company_policy_to_give.mp3"
   },
   {
-    "text": "Isn't life grand?",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/115_isn_t_life_grand.mp3"
-  },
-  {
-    "text": "Isn't that the wrong way?",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/116_isn_t_that_the_wrong_way.mp3"
-  },
-  {
     "text": "Cheese-eating surrender monkeys",
     "character": "",
     "audioUrl": "audio/the-simpsons/117_it_isn_t_that_groundskeeper_willie_teaching_french_then_you.mp3"
   },
   {
-    "text": "It sure does",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/118_it_sure_does.mp3"
-  },
-  {
-    "text": "It was like that when I got here",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/119_it_was_like_that_when_i_got_here.mp3"
-  },
-  {
-    "text": "It's all yours",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/120_it_s_all_yours.mp3"
-  },
-  {
-    "text": "First and last Blackberry Schnapps",
+    "text": "First and last blackberry schnapps",
     "character": "",
     "audioUrl": "audio/the-simpsons/121_it_s_been_4000_days_since_my_last_drink_it_was_my_first_and.mp3"
-  },
-  {
-    "text": "It's time for Church!",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/122_it_s_time_for_church.mp3"
   },
   {
     "text": "Itchy and Scratchy theme",
@@ -516,34 +231,9 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/123_itchy_and_scratchy_theme.mp3"
   },
   {
-    "text": "Just like Oscar the Grouch",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/124_just_like_oscar_the_grouch.mp3"
-  },
-  {
     "text": "You failed miserably",
     "character": "",
     "audioUrl": "audio/the-simpsons/125_kids_you_ve_tried_your_best_and_you_failed_miserably.mp3"
-  },
-  {
-    "text": "Quick nine at the Pitch 'n' Putt",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/126_let_s_get_in_a_quick_nine_down_at_the_pitch_n_putt.mp3"
-  },
-  {
-    "text": "That kid's got bosoms!",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/127_look_that_kid_s_got_bosoms.mp3"
-  },
-  {
-    "text": "Classic compulsive behavior",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/128_man_this_classic_compulsive_behavior.mp3"
-  },
-  {
-    "text": "What's gotten into you?",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/129_man_what_s_gotten_into_you.mp3"
   },
   {
     "text": "Meats of our cultural stew",
@@ -561,16 +251,6 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/133_me_fail_english_that_s_unpossible.mp3"
   },
   {
-    "text": "Mmm, forbidden doughnut",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/135_mmm_forbidden_doughnut.mp3"
-  },
-  {
-    "text": "Mmm, invisible cola",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/136_mmm_invisible_cola.mp3"
-  },
-  {
     "text": "Mmm, urinal fresh",
     "character": "",
     "audioUrl": "audio/the-simpsons/138_mmm_urinal_fresh.mp3"
@@ -581,64 +261,14 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/140_my_fee_is_175_an_hour.mp3"
   },
   {
-    "text": "My name is Ned",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/141_my_name_is_ned.mp3"
-  },
-  {
-    "text": "No jokes, no taunting",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/143_no_jokes_no_taunting.mp3"
-  },
-  {
-    "text": "No beer bring pain",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/144_no_no_beer_bring_pain.mp3"
-  },
-  {
-    "text": "No she won't",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/145_no_she_won_t.mp3"
-  },
-  {
     "text": "Marge's time to shine",
     "character": "",
     "audioUrl": "audio/the-simpsons/147_now_it_s_marge_is_time_to_shine.mp3"
   },
   {
-    "text": "Let's burn rubber baby",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/148_now_let_s_burn_rubber_baby.mp3"
-  },
-  {
-    "text": "Oakily doakily doo!",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/149_oakily_doakily_doo.mp3"
-  },
-  {
     "text": "Magical man from happy land",
     "character": "",
     "audioUrl": "audio/the-simpsons/150_oh_look_at_me_i_m_making_people_happy_i_m_the_magical_man_fr.mp3"
-  },
-  {
-    "text": "Oh oh oh",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/151_oh_oh_oh.mp3"
-  },
-  {
-    "text": "Oh, a wise guy, eh?",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/152_oh_a_wise_guy_eh.mp3"
-  },
-  {
-    "text": "Good idea boss",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/153_oh_good_idea_boss.mp3"
-  },
-  {
-    "text": "Oh, I don't know",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/154_oh_i_don_t_know.mp3"
   },
   {
     "text": "Under the earth's sun",
@@ -661,16 +291,6 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/158_overload_pleasure_overload.mp3"
   },
   {
-    "text": "Dad, you're embarrassing us",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/159_please_dad_your_embarrassing_us.mp3"
-  },
-  {
-    "text": "Get out and come again",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/160_please_pay_for_your_purchases_and_get_out_and_come_again.mp3"
-  },
-  {
     "text": "You cannot hurt the Twinkie!",
     "character": "",
     "audioUrl": "audio/the-simpsons/164_silly_customer_you_cannot_hurt_the_twinkie.mp3"
@@ -679,11 +299,6 @@ const quotes = [
     "text": "Sixty four slices of American cheese",
     "character": "",
     "audioUrl": "audio/the-simpsons/165_sixty_four_slices_of_american_cheese.mp3"
-  },
-  {
-    "text": "Smithers, dismember the corpse",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/166_smithers_dismember_the_corpse.mp3"
   },
   {
     "text": "Dental plan / Lisa needs braces",
@@ -696,17 +311,7 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/169_someone_smells_stinky.mp3"
   },
   {
-    "text": "What am I thinking?",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/171_sorry_what_am_i_thinking.mp3"
-  },
-  {
-    "text": "Stupid TV, be more funny!",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/172_stupid_tv_be_more_funny.mp3"
-  },
-  {
-    "text": "Looking for Mister Smith",
+    "text": "Looking for Mr. Smithers",
     "character": "",
     "audioUrl": "audio/the-simpsons/173_success_it_s_ringing_most_haven_t_looking_for_mister_smith_i.mp3"
   },
@@ -721,31 +326,6 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/176_that_i_am_out_of_here.mp3"
   },
   {
-    "text": "That was easy",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/177_that_was_easy.mp3"
-  },
-  {
-    "text": "That would be delightful!",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/178_that_would_be_delightful.mp3"
-  },
-  {
-    "text": "That's a crock",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/179_that_s_a_crock.mp3"
-  },
-  {
-    "text": "That's good enough for me",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/180_that_s_good_enough_for_me.mp3"
-  },
-  {
-    "text": "I'm calling my buddies",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/181_that_s_it_i_m_calling_my_buddies.mp3"
-  },
-  {
     "text": "I'm going to Clown College",
     "character": "",
     "audioUrl": "audio/the-simpsons/182_that_s_it_you_people_have_stood_in_my_way_long_enough_i_m_go.mp3"
@@ -754,16 +334,6 @@ const quotes = [
     "text": "That name again is Mister Plow",
     "character": "",
     "audioUrl": "audio/the-simpsons/183_that_s_my_name_that_name_again_is_mister_plow.mp3"
-  },
-  {
-    "text": "That's not a knife, that's a spoon",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/184_that_s_not_a_knife_that_s_a_spoo.mp3"
-  },
-  {
-    "text": "That's the American way",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/185_that_s_the_american_way.mp3"
   },
   {
     "text": "We're all fine the way we are",
@@ -776,29 +346,9 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/187_that_s_why_you_re_bulletproof_vest_sanjay_it_s_time_for_anot.mp3"
   },
   {
-    "text": "That's your advice?",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/188_that_s_your_advice.mp3"
-  },
-  {
     "text": "Keep my finger out of there",
     "character": "",
     "audioUrl": "audio/the-simpsons/189_the_doctor_said_i_wouldn_t_have_so_many_nosebleeds_if_i_kept.mp3"
-  },
-  {
-    "text": "The mail is here, ooh!",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/190_the_mail_the_mail_is_here_ooh.mp3"
-  },
-  {
-    "text": "Then grease me up woman!",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/193_then_grease_me_up_woman.mp3"
-  },
-  {
-    "text": "Ghost cars all over the highways",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/194_there_are_ghost_cars_all_over_these_highways.mp3"
   },
   {
     "text": "Rambling intro",
@@ -831,11 +381,6 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/200_this_may_be_hard_to_believe_but_i_m_trapped_inside_two_vendi.mp3"
   },
   {
-    "text": "Stick it to the man",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/201_time_to_stick_it_to_the_man.mp3"
-  },
-  {
     "text": "To alcohol!",
     "character": "",
     "audioUrl": "audio/the-simpsons/202_to_alcohol_the_cause_of_and_solution_to_all_of_life_s_proble.mp3"
@@ -851,16 +396,6 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/204_to_start_press_any_key_where_s_the_any_key.mp3"
   },
   {
-    "text": "Wait a minute, who is this?",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/207_wait_a_minute_who_is_this.mp3"
-  },
-  {
-    "text": "We don't need a babysitter",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/209_we_don_t_need_a_baby_sitter.mp3"
-  },
-  {
     "text": "We're done diddly done for",
     "character": "",
     "audioUrl": "audio/the-simpsons/210_we_re_done_for_we_re_done_diddly_done_for.mp3"
@@ -869,21 +404,6 @@ const quotes = [
     "text": "Something you created makes people happy",
     "character": "",
     "audioUrl": "audio/the-simpsons/211_well_homer_maybe_you_can_take_some_consolation_in_the_fact_t.mp3"
-  },
-  {
-    "text": "Ooh-la-dee-da Mr. Frenchman!",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/213_well_ooh_la_dee_da_mr_frenchman.mp3"
-  },
-  {
-    "text": "What a day",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/215_what_a_day.mp3"
-  },
-  {
-    "text": "What do you think, Smithers?",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/216_what_do_you_think_smithers.mp3"
   },
   {
     "text": "Six barrel Holley carb?",
@@ -896,11 +416,6 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/218_what_the_hell_oh_we_got_a_call.mp3"
   },
   {
-    "text": "What's the deal?",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/219_what_s_the_deal.mp3"
-  },
-  {
     "text": "Now I've come to love",
     "character": "",
     "audioUrl": "audio/the-simpsons/220_when_i_first_arrived_but_now_i_ve_come_to_love.mp3"
@@ -909,16 +424,6 @@ const quotes = [
     "text": "Going to Bovine University",
     "character": "",
     "audioUrl": "audio/the-simpsons/221_when_i_grow_up_i_m_going_to_bovine_university.mp3"
-  },
-  {
-    "text": "When will you be home?",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/222_when_will_you_be_home.mp3"
-  },
-  {
-    "text": "Where you going?",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/223_where_you_going.mp3"
   },
   {
     "text": "That's leprosy for you!",
@@ -936,19 +441,9 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/228_woo_ah_hee_ahh_woo_yeargh_yee.mp3"
   },
   {
-    "text": "Wrong wrong wrong",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/230_wrong_wrong_wrong.mp3"
-  },
-  {
     "text": "Looking for Amanda Huggenkiss",
     "character": "",
     "audioUrl": "audio/the-simpsons/231_yeah_just_like_object_amanda_huggenkiss_hey_i_m_looking_for.mp3"
-  },
-  {
-    "text": "Yeah, no number",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/232_yeah_no_number.mp3"
   },
   {
     "text": "I do not speak English",
@@ -959,16 +454,6 @@ const quotes = [
     "text": "Sleep, that's where I'm a Viking",
     "character": "",
     "audioUrl": "audio/the-simpsons/234_yes_ralph_what_is_it_no_ralph_their_arms_anymore_just_try_to.mp3"
-  },
-  {
-    "text": "You're in deep doo now",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/235_yes_you_re_in_deep_doo_now.mp3"
-  },
-  {
-    "text": "No more crimes, OK?",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/237_you_have_to_promise_not_to_commit_any_more_crimes_ok.mp3"
   },
   {
     "text": "You magnificent bastard",
@@ -991,18 +476,8 @@ const quotes = [
     "audioUrl": "audio/the-simpsons/241_you_tried_your_best_and_you_failed_miserably_the_lesson_is_n.mp3"
   },
   {
-    "text": "You'll make Sergeant for this",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/242_you_ll_make_sargeant_for_this.mp3"
-  },
-  {
     "text": "I thought I was in Vegas",
     "character": "",
     "audioUrl": "audio/the-simpsons/243_your_have_your_house_she_had_so_glamorously_decorated_i_thou.mp3"
-  },
-  {
-    "text": "Your silk wedding",
-    "character": "",
-    "audioUrl": "audio/the-simpsons/244_your_silk_wedding.mp3"
   }
 ];

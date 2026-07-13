@@ -67,15 +67,11 @@
   CHARACTER: 
 
 018_forrest_gump_graduates.mp3
-  "Forrest Gump graduates"
-  CHARACTER: 
-
-019_forrest_gump_ice_cream.mp3
-  "Forrest Gump ice cream"
+  "Graduates"
   CHARACTER: 
 
 020_forrest_gump_sneaking_in.mp3
-  "Forrest Gump sneaking in"
+  "Sneaking in"
   CHARACTER: 
 
 021_forrest_run.mp3
@@ -106,23 +102,11 @@
   "He's stupid but he sure is fast!"
   CHARACTER: 
 
-028_hello.mp3
-  "Hello"
-  CHARACTER: 
-
 029_here_goddamnit_that_s_an_order_hot_guy_at_5_baba.mp3
   "That's an order"
   CHARACTER: 
 
-030_i_got_you_icecream.mp3
-  "I got you ice cream"
-  CHARACTER: 
-
 031_i_gotta_pee.mp3
-  "I gotta pee"
-  CHARACTER: 
-
-032_i_gotta_pee.mp3
   "I gotta pee"
   CHARACTER: 
 
@@ -139,10 +123,6 @@
   CHARACTER: 
 
 036_i_miss_you_jenny.mp3
-  "I miss you, Jenny"
-  CHARACTER: 
-
-037_i_miss_you_jenny.mp3
   "I miss you, Jenny"
   CHARACTER: 
 
@@ -168,10 +148,6 @@
 
 043_i_wanted_to_be_your_boyfriend.mp3
   "I wanted to be your boyfriend"
-  CHARACTER: 
-
-044_i_d_make_a_good_husband.mp3
-  "I'd make a good husband"
   CHARACTER: 
 
 045_i_m_going_to_bring_up_some_soldier_and_he_liked_to_say_the_f.mp3
@@ -244,10 +220,6 @@
 
 062_king_kong_stuff_one_man_even_left_a_check_for_25_000_if_you.mp3
   "I like using my own paddle"
-  CHARACTER: 
-
-063_lieutenant_dan.mp3
-  "Lieutenant Dan"
   CHARACTER: 
 
 064_lieutenant_dan.mp3
@@ -326,10 +298,6 @@
   "Felt like running"
   CHARACTER: 
 
-083_peas_and_carrots.mp3
-  "Peas and carrots"
-  CHARACTER: 
-
 084_run_forrest_run.mp3
   "Run Forrest, run!"
   CHARACTER: 
@@ -340,10 +308,6 @@
 
 086_seat_s_taken.mp3
   "Seat's taken"
-  CHARACTER: 
-
-087_she_tastes_like_cigarettes.mp3
-  "She tastes like cigarettes"
   CHARACTER: 
 
 088_she_tastes_like_cigarettes.mp3
@@ -446,10 +410,6 @@
   "Will you marry me?"
   CHARACTER: 
 
-113_yes_drill_sergeant.mp3
-  "Yes, drill sergeant"
-  CHARACTER: 
-
 114_you_aint_got_no_legs_lieutenant_dan.mp3
   "You ain't got no legs, Lieutenant Dan"
   CHARACTER: 
@@ -460,16 +420,4 @@
 
 116_you_call_this_a_storm.mp3
   "You call this a storm?"
-  CHARACTER: 
-
-117_you_re_a_goddamn_genius.mp3
-  "You're a goddamn genius"
-  CHARACTER: 
-
-118_you_re_my_girl.mp3
-  "You're my girl"
-  CHARACTER: 
-
-119_your_boys.mp3
-  "Your boys.."
   CHARACTER: 

@@ -22,14 +22,6 @@
   "Smoke and a pancake"
   CHARACTER: 
 
-008_bye_mole_bye.mp3
-  "Bye, mole. Bye."
-  CHARACTER: 
-
-009_call_my_dad.mp3
-  "Call my dad."
-  CHARACTER: 
-
 010_cool_baby_you_look_very_switched_on.mp3
   "You look very switched on"
   CHARACTER: 
@@ -54,10 +46,6 @@
   "Didn't get diddly squat"
   CHARACTER: 
 
-019_free_kitty_who.mp3
-  "Free Kitty who?"
-  CHARACTER: 
-
 020_gentlemen_you_have_my_demands_peace_out.mp3
   "You have my demands. Peace out."
   CHARACTER: 
@@ -70,16 +58,8 @@
   "Left the rosebud in Emporia"
   CHARACTER: 
 
-023_hi_i_m_dixie_dixie_normous.mp3
-  "I'm Dixie Normous"
-  CHARACTER: 
-
 024_how_about_no_you_crazy_dutch_b_stard.mp3
   "How about no, you crazy Dutch b*stard"
-  CHARACTER: 
-
-025_i_know_guys_on_crack_that_makes_more_sense_than_you.mp3
-  "Crackheads make more sense"
   CHARACTER: 
 
 026_i_love_gold.mp3
@@ -92,10 +72,6 @@
 
 029_i_realize_i_have_a_large_mole_on_my_face.mp3
   "A large mole on my face"
-  CHARACTER: 
-
-030_i_threw_up_in_my_mouth_a_little_bit.mp3
-  "Threw up in my mouth a little"
   CHARACTER: 
 
 031_is_it_true_what_they_say_about_you_kickstand_really_can_i_gi.mp3
@@ -118,32 +94,16 @@
   "Full of seamen"
   CHARACTER: 
 
-036_mall.mp3
-  "Mall"
-  CHARACTER: 
-
 037_meet_mini_me_blind_me_i_thought_i_smelled_cabbage.mp3
   "I thought I smelled cabbage"
-  CHARACTER: 
-
-039_model.mp3
-  "Model."
   CHARACTER: 
 
 040_moley_moley_moley_moley.mp3
   "Moley, moley, moley, moley!"
   CHARACTER: 
 
-041_molly_molly_molly_molly_molly.mp3
-  "Molly molly molly"
-  CHARACTER: 
-
 044_no_one_would_make_that_connection.mp3
   "No one would make that connection"
-  CHARACTER: 
-
-045_no_traitor.mp3
-  "No traitor."
   CHARACTER: 
 
 046_nobody_training_stupid_for_the_shooting_begins.mp3
@@ -152,10 +112,6 @@
 
 047_not_so_much_smarty_pants_evil_you_might_not_want_to_destroy.mp3
   "Smarty pants evil"
-  CHARACTER: 
-
-050_oh_shut_up.mp3
-  "Oh shut up!"
   CHARACTER: 
 
 053_one_billion_gagillion.mp3
@@ -174,24 +130,12 @@
   "Looks like Godzilla, legally not"
   CHARACTER: 
 
-059_scott_is_on_fire.mp3
-  "Scott is on fire"
-  CHARACTER: 
-
 063_that_anyone_can_take_a_hint_it_doesn_t_understand_he_is_smal.mp3
   "He is small"
   CHARACTER: 
 
-064_that_s_not_right.mp3
-  "That's not right."
-  CHARACTER: 
-
 065_there_are_only_two_things_i_can_t_stand_in_this_world_people.mp3
   "...and the Dutch"
-  CHARACTER: 
-
-066_up_your_job_turkey.mp3
-  "Up your job, Turkey"
   CHARACTER: 
 
 068_welcome_to_new_1975_austin_powers_and_farsia.mp3
@@ -202,28 +146,12 @@
   "Shag now or shag later?"
   CHARACTER: 
 
-070_well_i_didn_t_have_any_corn.mp3
-  "I didn't have any corn"
-  CHARACTER: 
-
 071_well_the_future_better_get_ready_for_me_cause_i_m_foxy_cleop.mp3
   "I'm foxy Cleopatra"
   CHARACTER: 
 
-072_where_to_go_a_whole.mp3
-  "Where to go"
-  CHARACTER: 
-
-073_yeah_baby_yeah.mp3
-  "Yeah baby yeah."
-  CHARACTER: 
-
 075_yes_nice_to_meet_you_meet_you_nice_to_meet_your_mole_don_t_s.mp3
   "Nice to meet your mole"
-  CHARACTER: 
-
-076_you_have_the_right_to_remain_60_sugar.mp3
-  "Right to remain, sugar"
   CHARACTER: 
 
 077_you_know_doctor_evil_i_used_to_think_you_were_crazy_i_know_b.mp3
@@ -236,10 +164,6 @@
 
 079_you_speak_japanese_and_little_well_you_might_be_a_cunning_li.mp3
   "Cunning linguist, master debater"
-  CHARACTER: 
-
-080_you_under_arrest_sugar.mp3
-  "You under arrest, sugar"
   CHARACTER: 
 
 081_you_re_insane_gold_member_and_that_s_the_way_uh_huh_uh_huh_i.mp3

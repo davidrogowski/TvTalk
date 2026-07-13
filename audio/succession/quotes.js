@@ -196,11 +196,6 @@ const quotes = [
     "audioUrl": "audio/succession/054_sorry_sorry_i_didn_t_delay_things_did_i_peter_munion_no_worr.mp3"
   },
   {
-    "text": "Smuggled in like Cleopatra",
-    "character": "",
-    "audioUrl": "audio/succession/056_thanks_well_that_was_exciting_smuggled_in_like_cleopatra_in.mp3"
-  },
-  {
     "text": "You fuckin' did it. Drinks.",
     "character": "",
     "audioUrl": "audio/succession/057_that_was_really_hard_yeah_man_you_fuckin_did_it_drinks_drink.mp3"
@@ -291,13 +286,58 @@ const quotes = [
     "audioUrl": "audio/succession/081_music_playing.mp3"
   },
   {
-    "text": "Theme music",
-    "character": "",
-    "audioUrl": "audio/succession/082_music_playing.mp3"
-  },
-  {
     "text": "Shooting piggies in a barrel",
     "character": "",
     "audioUrl": "audio/succession/083_music_plays_okay_we_re_such_shitty_hunters_that_we_re_just.mp3"
+  },
+  {
+    "text": "Being Nice because I'm on Speakerphone",
+    "character": "",
+    "audioUrl": "audio/succession/084_being_nice_because_i_m_on_speakerphone.mp3"
+  },
+  {
+    "text": "Gregory",
+    "character": "",
+    "audioUrl": "audio/succession/085_greg.mp3"
+  },
+  {
+    "text": "I have been exposed to a virus",
+    "character": "",
+    "audioUrl": "audio/succession/086_i_have_been_exposed_to_a_virus.mp3"
+  },
+  {
+    "text": "It is not a good morning from my POV",
+    "character": "",
+    "audioUrl": "audio/succession/087_it_is_not_a_good_morning_from_my_pov.mp3"
+  },
+  {
+    "text": "It's liable to get a little disgusting",
+    "character": "",
+    "audioUrl": "audio/succession/088_it_s_liable_to_get_a_little_disgusting.mp3"
+  },
+  {
+    "text": "Kendall is a Venture Capitalist",
+    "character": "",
+    "audioUrl": "audio/succession/089_kendall_is_a_venture_capitalist.mp3"
+  },
+  {
+    "text": "Therapy? This way for the therapy",
+    "character": "",
+    "audioUrl": "audio/succession/092_therapy_this_way_for_the_therapy.mp3"
+  },
+  {
+    "text": "Yes. If it is to be said. So it is",
+    "character": "",
+    "audioUrl": "audio/succession/093_yes_if_it_is_to_be_said_so_it_is.mp3"
+  },
+  {
+    "text": "You're a stone cold killer bitch",
+    "character": "",
+    "audioUrl": "audio/succession/094_you_re_a_stone_cold_killer_bitch.mp3"
+  },
+  {
+    "text": "I'm still processing",
+    "character": "",
+    "audioUrl": "audio/succession/095_rd_sounds_rendered_4150391_mp3.mp3"
   }
 ];

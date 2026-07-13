@@ -36,7 +36,7 @@ const quotes = [
     "audioUrl": "audio/the-departed/007_cocksucker.mp3"
   },
   {
-    "text": "Go Fuck Yourself",
+    "text": "Go fuck yourself",
     "character": "",
     "audioUrl": "audio/the-departed/008_go_fuck_yourself.mp3"
   },
@@ -71,12 +71,12 @@ const quotes = [
     "audioUrl": "audio/the-departed/014_i_m_concerned_about_it_china_and_who_thinks_it_s_wise.mp3"
   },
   {
-    "text": "I'm the Guy Who Does His Job",
+    "text": "I'm the guy who does his job",
     "character": "",
     "audioUrl": "audio/the-departed/015_i_m_the_guy_who_does_his_job.mp3"
   },
   {
-    "text": "I'm The Guy Who Does His Job",
+    "text": "I'm the guy who does his job",
     "character": "",
     "audioUrl": "audio/the-departed/016_i_m_the_guy_who_does_his_job.mp3"
   },

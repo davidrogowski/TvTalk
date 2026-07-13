@@ -27,7 +27,7 @@
   CHARACTER: 
 
 008_go_fuck_yourself.mp3
-  "Go Fuck Yourself"
+  "Go fuck yourself"
   CHARACTER: 
 
 009_i_can_get_you_your_money_just_ask.mp3
@@ -55,11 +55,11 @@
   CHARACTER: 
 
 015_i_m_the_guy_who_does_his_job.mp3
-  "I'm the Guy Who Does His Job"
+  "I'm the guy who does his job"
   CHARACTER: 
 
 016_i_m_the_guy_who_does_his_job.mp3
-  "I'm The Guy Who Does His Job"
+  "I'm the guy who does his job"
   CHARACTER: 
 
 017_i_ve_got_this_rat.mp3

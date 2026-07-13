@@ -26,11 +26,6 @@ const quotes = [
     "audioUrl": "audio/ted-lasso-s1/020_and_i_think_we_all_agree_two_great_tastes_that_go_great_toge.mp3"
   },
   {
-    "text": "A record by five hours",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/029_and_that_s_a_record_by_about_five_hours.mp3"
-  },
-  {
     "text": "Huge breakfast on your tab",
     "character": "",
     "audioUrl": "audio/ted-lasso-s1/031_and_then_i_m_gonna_order_a_huge_breakfast_on_your_tab.mp3"
@@ -39,16 +34,6 @@ const quotes = [
     "text": "Learned from you",
     "character": "",
     "audioUrl": "audio/ted-lasso-s1/036_and_what_s_mine_well_that_ll_stay_mine_cause_i_ve_learned_fr.mp3"
-  },
-  {
-    "text": "Diamond Dogs it is",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/041_attaboy_nate_diamond_dogs_it_is.mp3"
-  },
-  {
-    "text": "Before I bought a club",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/043_before_i_purchased_a_football_club.mp3"
   },
   {
     "text": "Curl up, weighted blanket",
@@ -66,11 +51,6 @@ const quotes = [
     "audioUrl": "audio/ted-lasso-s1/064_but_you_you_saw_an_even_greater_jamie_inside_an_already_grea.mp3"
   },
   {
-    "text": "No need to rush out",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/067_but_you_know_you_don_t_need_to_rush_out_or_anything.mp3"
-  },
-  {
     "text": "Bex and I sitting with you",
     "character": "",
     "audioUrl": "audio/ted-lasso-s1/096_especially_since_bex_and_i_are_gonna_be_sitting_with_you.mp3"
@@ -79,16 +59,6 @@ const quotes = [
     "text": "Drinks on me!",
     "character": "",
     "audioUrl": "audio/ted-lasso-s1/100_everyone_drinks_with_us_it_s_on_me.mp3"
-  },
-  {
-    "text": "Grow up and get over it",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/116_grow_up_and_get_over_it.mp3"
-  },
-  {
-    "text": "Football is life",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/135_hey_football_is_life_capit_n.mp3"
   },
   {
     "text": "No ownership stake",
@@ -111,11 +81,6 @@ const quotes = [
     "audioUrl": "audio/ted-lasso-s1/195_i_should_ve_been_braver_and_i_m_sorry_for_that_i_am.mp3"
   },
   {
-    "text": "You two are cookies and cream",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/197_i_think_the_idea_of_you_and_keeley_is_like_cookies_and_cream.mp3"
-  },
-  {
     "text": "Call 'em the 2% Milks",
     "character": "",
     "audioUrl": "audio/ted-lasso-s1/210_i_m_gonna_round_that_down_to_two_then_i_can_call_those_gals.mp3"
@@ -126,54 +91,9 @@ const quotes = [
     "audioUrl": "audio/ted-lasso-s1/226_it_said_be_curious_not_judgmental.mp3"
   },
   {
-    "text": "So I don't look stupid",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/233_it_s_okay_if_you_are_it_s_just_that_i_wanna_know_so_that_i_d.mp3"
-  },
-  {
-    "text": "Winning or losing?",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/239_just_let_me_know_if_i_m_winning_or_losing_all_right.mp3"
-  },
-  {
-    "text": "Keeley Jones, Independent Woman",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/242_keeley_jones_the_independent_woman_online_edition.mp3"
-  },
-  {
-    "text": "Like I said, it's private",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/249_like_i_said_it_s_private.mp3"
-  },
-  {
-    "text": "Not today, I'm busy",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/272_not_today_i_can_t_i_m_busy.mp3"
-  },
-  {
-    "text": "Don't do this to me",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/286_oh_you_fucker_don_t_do_this_to_me.mp3"
-  },
-  {
     "text": "Man City wanted you back",
     "character": "",
     "audioUrl": "audio/ted-lasso-s1/289_oi_come_on_lasso_didn_t_dump_you_man_city_wanted_you_back.mp3"
-  },
-  {
-    "text": "Gonna ask you to leave",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/320_right_i_m_gonna_have_to_ask_you_to_leave.mp3"
-  },
-  {
-    "text": "Walked in on my mother-in-law",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/328_second_place_of_course_is_the_i_just_walked_in_on_my_mother.mp3"
-  },
-  {
-    "text": "Got back at me",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/341_so_you_fucked_him_to_get_back_at_me_for_something_i_didn_t_e.mp3"
   },
   {
     "text": "So... thank you for that",
@@ -191,29 +111,9 @@ const quotes = [
     "audioUrl": "audio/ted-lasso-s1/357_sure_roy_here_has_slept_with_a_bunch_of_different_people_in.mp3"
   },
   {
-    "text": "Ted Lasso sucks",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/364_thank_god_cause_ted_lasso_sucks.mp3"
-  },
-  {
     "text": "Breakdown at karaoke",
     "character": "",
     "audioUrl": "audio/ted-lasso-s1/368_that_i_went_from_having_a_mental_breakdown_at_a_karaoke_join.mp3"
-  },
-  {
-    "text": "I'll give it a shot",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/381_that_s_okay_i_ll_give_it_a_shot_here_let_s_see.mp3"
-  },
-  {
-    "text": "That's what I'm talking about!",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/383_that_s_what_i_m_talking_about_yeah_yeah.mp3"
-  },
-  {
-    "text": "That's why I have this",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/411_until_she_sets_me_up_with_somewhere_proper_that_s_why_i_have.mp3"
   },
   {
     "text": "Wager say £10,000?",
@@ -226,11 +126,6 @@ const quotes = [
     "audioUrl": "audio/ted-lasso-s1/418_we_have_ten_thousand_unsold_seats_for_the_final_match_of_the.mp3"
   },
   {
-    "text": "Tell me how you feel",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/428_well_why_don_t_you_just_come_and_tell_me_how_you_feel_about.mp3"
-  },
-  {
     "text": "Thanks for being there",
     "character": "",
     "audioUrl": "audio/ted-lasso-s1/461_yeah_and_hey_i_wanna_thank_you_again_for_being_there_for_me.mp3"
@@ -239,11 +134,6 @@ const quotes = [
     "text": "You never did the right thing",
     "character": "",
     "audioUrl": "audio/ted-lasso-s1/481_you_had_every_opportunity_to_do_the_right_thing_and_you_neve.mp3"
-  },
-  {
-    "text": "When Lasso dumped me",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/484_you_know_everything_happened_so_fast_when_lasso_dumped_me.mp3"
   },
   {
     "text": "Punishing Rupert won't help",
@@ -259,11 +149,6 @@ const quotes = [
     "text": "Eggplant or the squirrel",
     "character": "",
     "audioUrl": "audio/ted-lasso-s1/531_like_the_eggplant_or_the_squirting_water_or_the_little_squir.mp3"
-  },
-  {
-    "text": "Double in, double out",
-    "character": "",
-    "audioUrl": "audio/ted-lasso-s1/536_okay_double_in_double_out.mp3"
   },
   {
     "text": "Never done this before",

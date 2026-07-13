@@ -1,251 +1,251 @@
 001_all_right_casey_you_can_buy_a_house_and_run_away_from_it.mp3
   "Buy a house and run away"
-  CHARACTER:
+  CHARACTER: 
 
 002_all_right_okay_can_i_help_you_hi_you_ordered_two_black_guys.mp3
   "You ordered two black guys"
-  CHARACTER:
+  CHARACTER: 
 
 003_all_vehicles_please_proceed_slowly_in_assigned_lanes_and_pre.mp3
   "Look the part"
-  CHARACTER:
+  CHARACTER: 
 
 004_can_t_believe_you_were_gonna_suck_that_guy_s_dick_come_on_le.mp3
   "Can't believe you were gonna"
-  CHARACTER:
+  CHARACTER: 
 
 005_casey_make_good_choices_come_on_she_s_gonna_be_fine_tattooed.mp3
   "Casey, make good choices!"
-  CHARACTER:
+  CHARACTER: 
 
 006_come_on_she_s_gonna_be_fine_tattooed_kid_on_a_motorcycle_no.mp3
   "She might already be pregnant"
-  CHARACTER:
+  CHARACTER: 
 
 007_coochie_coochie_coochie_yeah_no_i_know_uh_huh_no_i_m_not_i_m.mp3
   "Coochie coochie coochie"
-  CHARACTER:
+  CHARACTER: 
 
 008_don_t_even_do_it_for_you_do_it_for_the_girls_for_rose_and_ca.mp3
   "Do it for the girls"
-  CHARACTER:
+  CHARACTER: 
 
 009_get_your_hands_off_of_her_come_here_casey_you_put_your_hands.mp3
   "You fucking decked him"
-  CHARACTER:
+  CHARACTER: 
 
 010_he_just_hit_me_in_the_fucking_face_will_you_march_no_one_wan.mp3
   "He just hit me in the face"
-  CHARACTER:
+  CHARACTER: 
 
 011_he_ll_come_back_right.mp3
   "He'll come back. Right?"
-  CHARACTER:
+  CHARACTER: 
 
 012_here_to_pick_up_casey_know_what_i_m_saying_i_m_awake_and_i_s.mp3
   "Here to pick up Casey"
-  CHARACTER:
+  CHARACTER: 
 
 013_here_we_go_everybody_just_be_cool_all_right_hey_there_you_go.mp3
   "You snuck into Mexico"
-  CHARACTER:
+  CHARACTER: 
 
 014_hey_david_hi_kenny_i_heard_you_and_mrs_o_reilly_fighting_it.mp3
   "It's called flirting, Kenny"
-  CHARACTER:
+  CHARACTER: 
 
 015_hey_rose_i_know_you_re_technically_on_break_but_i_need_a_lap.mp3
   "Guy has two hook hands"
-  CHARACTER:
+  CHARACTER: 
 
 016_hey_whoa_what_the_unh_when_mr_brad_calls_you_answer_get_in_t.mp3
   "When Mr. Brad calls, you answer"
-  CHARACTER:
+  CHARACTER: 
 
 017_i_think_snoop_dogg_would_fuck_this_fridge.mp3
   "Snoop Dogg would fuck this fridge"
-  CHARACTER:
+  CHARACTER: 
 
 018_i_d_like_to_think_i_taught_him_that_mm_i_know_i_taught_him_t.mp3
   "Put that tongue back in"
-  CHARACTER:
+  CHARACTER: 
 
 019_i_m_a_take_my_skirt_boot_rings_all_off_skirt_boots_rings_all.mp3
   "Skirt, boots, rings all off"
-  CHARACTER:
+  CHARACTER: 
 
 020_i_m_just_getting_some_singing_lessons_from_my_main_man_ben_f.mp3
   "My main man Ben Folds Five"
-  CHARACTER:
+  CHARACTER: 
 
 021_it_s_a_great_place_fuck_you.mp3
   "It's a great place. Fuck you."
-  CHARACTER:
+  CHARACTER: 
 
 022_it_s_all_here_i_am_blown_away_david_great_job_but_it_s_late.mp3
   "You were never gonna pay me"
-  CHARACTER:
+  CHARACTER: 
 
 023_kenny_kenny_give_me_the_wheel_no_do_not_pull_over_go_this_wa.mp3
   "Give me the wheel!"
-  CHARACTER:
+  CHARACTER: 
 
 024_last_chance_i_m_gonna_search_this_vehicle_top_to_bottom_all.mp3
   "We got runners!"
-  CHARACTER:
+  CHARACTER: 
 
 025_leave_her_alone_oh_i_m_sorry_baby_unhand_her.mp3
   "Unhand her"
-  CHARACTER:
+  CHARACTER: 
 
 026_listen_this_is_a_fucked_up_situation_but_i_might_have_a_win.mp3
   "A win win for both of us"
-  CHARACTER:
+  CHARACTER: 
 
 027_lord_we_thank_thee_for_the_blessing_of_this_family_vacation.mp3
   "Even the Jews"
-  CHARACTER:
+  CHARACTER: 
 
 028_mind_your_fucking_business_old_man_oh_my_god_you_re_a_dude_h.mp3
   "Oh my God, you're a dude"
-  CHARACTER:
+  CHARACTER: 
 
 029_not_gonna_die_tell_us_what_s_going_on_tell_us_what_happened.mp3
   "Bit me on my balls"
-  CHARACTER:
+  CHARACTER: 
 
 030_oh_great_rose_i_m_glad_i_caught_you_i_wanted_to_go_over_a_co.mp3
   "Now we get to fuck the customers"
-  CHARACTER:
+  CHARACTER: 
 
 031_oh_really_neighbor_you_re_not_a_neighbor_you_re_a_drug_deale.mp3
   "Smells like cheese and feet"
-  CHARACTER:
+  CHARACTER: 
 
 032_oh_you_re_such_a_dick_have_fun_dying_alone_jerk_have_fun_dig.mp3
   "My crotch only takes 20s"
-  CHARACTER:
+  CHARACTER: 
 
 033_okay_what_are_we_doing_today_yeah_i_say_give_me_something_th.mp3
   "Shotgun in my mouth"
-  CHARACTER:
+  CHARACTER: 
 
 034_ow_ow_ow_ow_ow_oh_my_god_fucking_shit_fuck_what_the_hell_is.mp3
   "Spider bit me!"
-  CHARACTER:
+  CHARACTER: 
 
 035_senior_chacon_we_were_not_expecting_you_i_decided_to_bring_t.mp3
   "Haircut of a donkey"
-  CHARACTER:
+  CHARACTER: 
 
 036_shit_is_someone_here_yeah_yeah_us_we_re_here_that_s_who_s_he.mp3
-  "Not dead in a ditch, LOL"
-  CHARACTER:
+  "Not dead in a ditch"
+  CHARACTER: 
 
 037_so_now_you_re_gonna_become_an_even_bigger_drug_dealer_drug_s.mp3
   "Smuggler, Kenny. There's a difference"
-  CHARACTER:
+  CHARACTER: 
 
 038_sunday_sunday_sunday_great_that_s_loud.mp3
   "Sunday, Sunday, Sunday!"
-  CHARACTER:
+  CHARACTER: 
 
 039_that_poor_kid_well_you_should_go_talk_to_him_who_i_said_you.mp3
   "Talk to him about guy stuff"
-  CHARACTER:
+  CHARACTER: 
 
 040_that_was_okay_now_more_tongue_tongue_i_can_do_that_too_much.mp3
   "Too much tongue"
-  CHARACTER:
+  CHARACTER: 
 
 041_these_assholes_are_trying_to_steal_my_iphone_you_have_an_iph.mp3
   "Aren't you homeless?"
-  CHARACTER:
+  CHARACTER: 
 
 042_wait_you_go_in_i_ll_keep_a_lookout_okay_good_fuck_you_this_w.mp3
   "You're going the fuck in there"
-  CHARACTER:
+  CHARACTER: 
 
 043_we_are_all_officially_international_drug_smugglers_add_it_to.mp3
   "Add it to the resume"
-  CHARACTER:
+  CHARACTER: 
 
 044_we_are_not_the_brady_bunch_i_m_marky_mark_and_y_all_are_the.mp3
   "I'm Marky Mark"
-  CHARACTER:
+  CHARACTER: 
 
 045_we_got_runners_sorry_to_inconvenience_you_folks_this_happens.mp3
   "You have a nice day"
-  CHARACTER:
+  CHARACTER: 
 
 046_we_re_at_the_corrales_regional_medical_center_in_buttfuck_ne.mp3
   "If he develops superpowers"
-  CHARACTER:
+  CHARACTER: 
 
 047_well_mr_chacon_on_behalf_of_the_united_states_of_america_i_d.mp3
   "Welcome to our country"
-  CHARACTER:
+  CHARACTER: 
 
 048_what_did_she_say_what_the_fuck_do_you_think_she_said_no_cool.mp3
   "The pervert Olympics"
-  CHARACTER:
+  CHARACTER: 
 
 049_what_is_this_a_meth_lab_it_s_mexico_casey_that_s_a_donkey_do.mp3
   "Donkey, donkey, donkey"
-  CHARACTER:
+  CHARACTER: 
 
 050_what_the_fuck_is_this_this_thing_is_ridiculous_can_you_drive.mp3
   "Can you drive this?"
-  CHARACTER:
+  CHARACTER: 
 
 051_who_the_fuck_is_pablo_chacon_i_am_you_don_t_get_respect_from.mp3
   "I am Pablo Chacon"
-  CHARACTER:
+  CHARACTER: 
 
 052_whoa_what_the_fuck_is_that_what_oh_my_orca_yeah_i_bought_an.mp3
   "I bought an orca"
-  CHARACTER:
+  CHARACTER: 
 
 053_whoa_i_think_snoop_dogg_would_fuck_this_fridge_at_least_it_k.mp3
   "We're totally fucked"
-  CHARACTER:
+  CHARACTER: 
 
 054_yank_or_put_behind_the_ear_guess_we_could_tuck_it_back_there.mp3
   "Dead in a ditch?"
-  CHARACTER:
+  CHARACTER: 
 
 055_yeah_i_m_going_through_all_those_typical_teenage_girl_issues.mp3
   "Mostly just been doing anal"
-  CHARACTER:
+  CHARACTER: 
 
 056_yo_girl_i_got_your_text_what_s_up_hey_are_you_alone_yeah_you.mp3
   "Somewhere private to talk"
-  CHARACTER:
+  CHARACTER: 
 
 057_you_are_making_500_000_and_you_were_only_gonna_pay_me_30_you.mp3
   "You guys are getting paid?"
-  CHARACTER:
+  CHARACTER: 
 
 058_you_dance_super_good_thanks_i_m_kymberly_with_a_y_i_m_rose_w.mp3
   "Boner Garage"
-  CHARACTER:
+  CHARACTER: 
 
 059_you_kiss_a_lot_better_than_my_sister_hey.mp3
   "Better than my sister"
-  CHARACTER:
+  CHARACTER: 
 
 060_you_re_drug_dealers_no_no_we_re_drug_smugglers_there_s_a_dif.mp3
   "Smugglers. There's a difference"
-  CHARACTER:
+  CHARACTER: 
 
 061_do_you_know_how_to_drive_this_no_no_weapons_here_we_go_hurr.mp3
   "I knocked him out"
-  CHARACTER:
+  CHARACTER: 
 
 062_there_you_are_i_don_t_care_look_at_this_hot_nerd_rub_some_d.mp3
   "Look at this hot nerd"
-  CHARACTER:
+  CHARACTER: 
 
 063_this_is_a_little_more_than_a_smidge_oh_dear_calm_down_okay.mp3
   "More than a smidge"
-  CHARACTER:
+  CHARACTER: 

@@ -6,7 +6,7 @@ const quotes = [
     "audioUrl": "audio/pineapple-express/005_both_of_my_best_friends.mp3"
   },
   {
-    "text": "Everyone Should Smoke It",
+    "text": "Everyone should smoke it",
     "character": "",
     "audioUrl": "audio/pineapple-express/009_everyone_should_smoke_it.mp3"
   },
@@ -21,12 +21,12 @@ const quotes = [
     "audioUrl": "audio/pineapple-express/017_high_as_a_fucking_kite.mp3"
   },
   {
-    "text": "I Don't Trust Him",
+    "text": "I don't trust him",
     "character": "",
     "audioUrl": "audio/pineapple-express/018_i_don_t_trust_him.mp3"
   },
   {
-    "text": "I Don't Wanna Do This",
+    "text": "I don't wanna do this",
     "character": "",
     "audioUrl": "audio/pineapple-express/019_i_don_t_wanna_do_this.mp3"
   },
@@ -41,7 +41,7 @@ const quotes = [
     "audioUrl": "audio/pineapple-express/021_i_made_a_mistake.mp3"
   },
   {
-    "text": "I Still Don't Understand",
+    "text": "I still don't understand",
     "character": "",
     "audioUrl": "audio/pineapple-express/023_i_still_don_t_understand.mp3"
   },
@@ -51,7 +51,7 @@ const quotes = [
     "audioUrl": "audio/pineapple-express/024_i_wanna_be_inside_you_homes.mp3"
   },
   {
-    "text": "I'm Taking These With Me",
+    "text": "I'm taking these with me",
     "character": "",
     "audioUrl": "audio/pineapple-express/025_i_m_taking_these_with_me.mp3"
   },
@@ -61,7 +61,7 @@ const quotes = [
     "audioUrl": "audio/pineapple-express/027_it_s_a_cold_sore.mp3"
   },
   {
-    "text": "It's Like God's ******",
+    "text": "It's like God's ******",
     "character": "",
     "audioUrl": "audio/pineapple-express/028_it_s_like_god_s.mp3"
   },
@@ -76,7 +76,7 @@ const quotes = [
     "audioUrl": "audio/pineapple-express/030_it_s_my_cats_birthday_today.mp3"
   },
   {
-    "text": "Kill You And Some",
+    "text": "Kill you and some",
     "character": "",
     "audioUrl": "audio/pineapple-express/031_kill_you_and_some.mp3"
   },
@@ -91,32 +91,32 @@ const quotes = [
     "audioUrl": "audio/pineapple-express/035_monkey_s_out_of_the_bottle.mp3"
   },
   {
-    "text": "Not Ready For Marriage",
+    "text": "Not ready for marriage",
     "character": "",
     "audioUrl": "audio/pineapple-express/036_not_ready_for_marriage.mp3"
   },
   {
-    "text": "Oh I Made A Mistake",
+    "text": "Oh I made a mistake",
     "character": "",
     "audioUrl": "audio/pineapple-express/037_oh_i_made_a_mistake.mp3"
   },
   {
-    "text": "Pineapple express come on down",
+    "text": "Come on down",
     "character": "",
     "audioUrl": "audio/pineapple-express/040_pineapple_express_come_on_down.mp3"
   },
   {
-    "text": "Pineapple Express prostitute gun",
+    "text": "Prostitute gun",
     "character": "",
     "audioUrl": "audio/pineapple-express/041_pineapple_express_prostitute_gun.mp3"
   },
   {
-    "text": "Safety First, then Teamwork",
+    "text": "Safety first, then teamwork",
     "character": "",
     "audioUrl": "audio/pineapple-express/042_safety_first_then_teamwork.mp3"
   },
   {
-    "text": "Special Time With Me",
+    "text": "Special time with me",
     "character": "",
     "audioUrl": "audio/pineapple-express/049_special_time_with_me.mp3"
   },
@@ -136,7 +136,7 @@ const quotes = [
     "audioUrl": "audio/pineapple-express/054_the_answer_i_m_looking_for.mp3"
   },
   {
-    "text": "Threw Up On My Printer",
+    "text": "Threw up on my printer",
     "character": "",
     "audioUrl": "audio/pineapple-express/056_threw_up_on_my_printer.mp3"
   },
@@ -181,7 +181,7 @@ const quotes = [
     "audioUrl": "audio/pineapple-express/067_you_didn_t_even_have_herpes.mp3"
   },
   {
-    "text": "You Killed Him Man",
+    "text": "You killed him man",
     "character": "",
     "audioUrl": "audio/pineapple-express/068_you_killed_him_man.mp3"
   },
@@ -191,12 +191,12 @@ const quotes = [
     "audioUrl": "audio/pineapple-express/069_you_know_what_today_is.mp3"
   },
   {
-    "text": "You Torch Me Please",
+    "text": "You torch me please",
     "character": "",
     "audioUrl": "audio/pineapple-express/070_you_torch_me_please.mp3"
   },
   {
-    "text": "Your Cats Going To Heaven",
+    "text": "Your cats going to heaven",
     "character": "",
     "audioUrl": "audio/pineapple-express/073_your_cats_going_to_heaven.mp3"
   },
@@ -206,7 +206,7 @@ const quotes = [
     "audioUrl": "audio/pineapple-express/074_your_dick_my_mouth.mp3"
   },
   {
-    "text": "2 And A Half Girls",
+    "text": "2 and a half girls",
     "character": "",
     "audioUrl": "audio/pineapple-express/075_2_and_a_half_girls.mp3"
   }

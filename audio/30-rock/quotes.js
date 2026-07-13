@@ -6,11 +6,6 @@ const quotes = [
     "audioUrl": "audio/30-rock/001_a_guaranteed_disaster.mp3"
   },
   {
-    "text": "Alec Baldwin thumbs up",
-    "character": "",
-    "audioUrl": "audio/30-rock/002_alec_baldwin_thumbs_up.mp3"
-  },
-  {
     "text": "Big laughs",
     "character": "",
     "audioUrl": "audio/30-rock/003_big_laughs.mp3"
@@ -61,24 +56,9 @@ const quotes = [
     "audioUrl": "audio/30-rock/012_goodbye_forever.mp3"
   },
   {
-    "text": "Grow up",
-    "character": "",
-    "audioUrl": "audio/30-rock/013_grow_up.mp3"
-  },
-  {
-    "text": "Guaranteed disaster",
-    "character": "",
-    "audioUrl": "audio/30-rock/014_guaranteed_disaster.mp3"
-  },
-  {
     "text": "High maintenance",
     "character": "",
     "audioUrl": "audio/30-rock/015_high_maintenance.mp3"
-  },
-  {
-    "text": "How do you do fellow kids",
-    "character": "",
-    "audioUrl": "audio/30-rock/016_how_do_you_do_fellow_kids.mp3"
   },
   {
     "text": "Humor as a coping mechanism",
@@ -106,11 +86,6 @@ const quotes = [
     "audioUrl": "audio/30-rock/021_i_wanna_roll_my_eyes_right_now.mp3"
   },
   {
-    "text": "I'm mad at your success",
-    "character": "",
-    "audioUrl": "audio/30-rock/022_i_m_mad_at_your_success.mp3"
-  },
-  {
     "text": "I'm not an executive",
     "character": "",
     "audioUrl": "audio/30-rock/023_i_m_not_an_executive.mp3"
@@ -129,16 +104,6 @@ const quotes = [
     "text": "My fists will do the talking for me",
     "character": "",
     "audioUrl": "audio/30-rock/026_my_fists_will_do_the_talking_for_me.mp3"
-  },
-  {
-    "text": "Never go with a hippie to a second location",
-    "character": "",
-    "audioUrl": "audio/30-rock/027_never_go_with_a_hippie_to_a_second_location.mp3"
-  },
-  {
-    "text": "Oh no. Someone's going to get more attention than me",
-    "character": "",
-    "audioUrl": "audio/30-rock/028_oh_no_someone_s_going_to_get_more_attention_than_me.mp3"
   },
   {
     "text": "Pregnancy test",
@@ -191,11 +156,6 @@ const quotes = [
     "audioUrl": "audio/30-rock/038_the_world_is_controlled_by_those_who_do_do.mp3"
   },
   {
-    "text": "This is boring. I'm bored now",
-    "character": "",
-    "audioUrl": "audio/30-rock/039_this_is_boring_i_m_bored_now.mp3"
-  },
-  {
     "text": "Those shoes are definitely bicurious",
     "character": "",
     "audioUrl": "audio/30-rock/040_those_shoes_are_definitely_bicurious.mp3"
@@ -221,29 +181,14 @@ const quotes = [
     "audioUrl": "audio/30-rock/044_werewolf_bar_mitzvah.mp3"
   },
   {
-    "text": "What a week, huh?",
-    "character": "",
-    "audioUrl": "audio/30-rock/045_what_a_week_huh.mp3"
-  },
-  {
     "text": "What am I, a farmer?",
     "character": "",
     "audioUrl": "audio/30-rock/046_what_am_i_a_farmer.mp3"
   },
   {
-    "text": "What would Oprah do?",
-    "character": "",
-    "audioUrl": "audio/30-rock/047_what_would_oprah_do.mp3"
-  },
-  {
     "text": "Why do you punish yourself with all this mediocrity?",
     "character": "",
     "audioUrl": "audio/30-rock/048_why_do_you_punish_yourself_with_all_this_mediocrity.mp3"
-  },
-  {
-    "text": "You ancient bitch!",
-    "character": "",
-    "audioUrl": "audio/30-rock/049_you_ancient_bitch.mp3"
   },
   {
     "text": "You can't force your fate",
@@ -259,11 +204,6 @@ const quotes = [
     "text": "You must be ruthless",
     "character": "",
     "audioUrl": "audio/30-rock/052_you_must_be_ruthless.mp3"
-  },
-  {
-    "text": "You should all learn from Pete's mistake",
-    "character": "",
-    "audioUrl": "audio/30-rock/053_you_should_all_learn_from_pete_s_mistake.mp3"
   },
   {
     "text": "You still haven't blown it completely",

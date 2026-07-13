@@ -1,7 +1,3 @@
-001_a_little_place.mp3
-  "A little place"
-  CHARACTER: 
-
 002_annoying_sound.mp3
   "Most annoying sound"
   CHARACTER: 
@@ -26,10 +22,6 @@
   "Big gulps, huh?"
   CHARACTER: 
 
-008_calm_down.mp3
-  "Calm down"
-  CHARACTER: 
-
 009_check_please.mp3
   "Check, please!"
   CHARACTER: 
@@ -46,20 +38,12 @@
   "Did you pay the gas bill?"
   CHARACTER: 
 
-013_did_you_see_what_he_did.mp3
-  "Did you see what he did?!"
-  CHARACTER: 
-
 014_don_t_you_go_dying_on_me.mp3
   "Don't you go dying on me!"
   CHARACTER: 
 
 015_dont_you_go_dying_on_me.mp3
   "Don't you go dying on me"
-  CHARACTER: 
-
-016_dumb_and_dumber.mp3
-  "Dumb and dumber"
   CHARACTER: 
 
 017_dumb_and_dumber_toilet.mp3
@@ -134,24 +118,12 @@
   "His head fell off"
   CHARACTER: 
 
-035_hit_me_with_it_just_give_it_to_me_straight.mp3
-  "Give it to me straight"
-  CHARACTER: 
-
 036_how_about_a_hug.mp3
   "How about a hug?"
   CHARACTER: 
 
-037_how_much_you_wanna_bet.mp3
-  "How much you wanna bet?"
-  CHARACTER: 
-
 038_hug.mp3
   "Hug"
-  CHARACTER: 
-
-039_i_am_going_to_kill_you.mp3
-  "I am going to kill you"
   CHARACTER: 
 
 040_i_can_t_feel_my_fingers_anymore.mp3
@@ -178,16 +150,8 @@
   "I like you a lot"
   CHARACTER: 
 
-046_i_think_we_might_have_a_hustler_here.mp3
-  "We might have a hustler here"
-  CHARACTER: 
-
 047_i_took_care_of_it.mp3
   "I took care of it"
-  CHARACTER: 
-
-048_i_was_way_off.mp3
-  "I was way off"
   CHARACTER: 
 
 049_i_d_do_anything_to_bone_her.mp3
@@ -204,14 +168,6 @@
 
 052_kiss_my_ass.mp3
   "Kiss my ass"
-  CHARACTER: 
-
-053_landed_on_the_moon.mp3
-  "Landed on the moon"
-  CHARACTER: 
-
-054_laxative.mp3
-  "Laxative"
   CHARACTER: 
 
 055_lloyd_gags.mp3
@@ -254,10 +210,6 @@
   "Nice set of hooters"
   CHARACTER: 
 
-065_no_fart_games_while_in_car.mp3
-  "No fart games in the car"
-  CHARACTER: 
-
 066_no_food_no_jobs.mp3
   "No food, no jobs"
   CHARACTER: 
@@ -268,10 +220,6 @@
 
 068_oh_look_frost.mp3
   "Oh look, frost"
-  CHARACTER: 
-
-069_ok_kill_him.mp3
-  "Okay, kill him"
   CHARACTER: 
 
 070_pathetic_loser.mp3
@@ -346,10 +294,6 @@
   "So you're telling me there's a chance"
   CHARACTER: 
 
-088_spilling_the_salt_is_bad_luck.mp3
-  "Spilling the salt is bad luck"
-  CHARACTER: 
-
 089_suckin_back_on_grandpa_s_old_cough_medicine.mp3
   "Grandpa's old cough medicine?"
   CHARACTER: 
@@ -406,48 +350,16 @@
   "Turbo Lax"
   CHARACTER: 
 
-103_uh_huh.mp3
-  "Uh huh!"
-  CHARACTER: 
-
-104_wanna_hear_the_most_annoying_sound_in_the_world.mp3
-  "Wanna hear the most annoying sound in the world?"
-  CHARACTER: 
-
-105_we_landed_on_the_moon.mp3
-  "We landed on the moon!"
-  CHARACTER: 
-
-106_we_re_really_doing_it.mp3
-  "We're really doing it!"
-  CHARACTER: 
-
 107_we_re_there.mp3
   "We're there"
-  CHARACTER: 
-
-108_welp_see_ya_l8r.mp3
-  "Welp, see ya later"
   CHARACTER: 
 
 109_what_do_you_think_the_chances_are_of_a_guy_like_you_and_a_gi.mp3
   "What do you think the chances are of a guy like you and a girl like me"
   CHARACTER: 
 
-110_what.mp3
-  "What?"
-  CHARACTER: 
-
-111_where_s_the_booze.mp3
-  "Where's the booze?"
-  CHARACTER: 
-
 112_why_you_going_to_the_airport_flying_somewhere.mp3
   "Flying somewhere?"
-  CHARACTER: 
-
-113_will_you_join_me_in_a_good_luck_toast.mp3
-  "Will you join me in a good luck toast?"
   CHARACTER: 
 
 114_ya_clapping.mp3
@@ -464,10 +376,6 @@
 
 117_you_have_had_this_pair_of_extra_gloves_this_whole_time.mp3
   "Extra gloves this whole time?"
-  CHARACTER: 
-
-118_you_just_tell_me_where_to_sign_bud.mp3
-  "Tell me where to sign, bud"
   CHARACTER: 
 
 119_you_re_a_horrible_shot.mp3

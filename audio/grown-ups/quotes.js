@@ -51,7 +51,7 @@ const quotes = [
     "audioUrl": "audio/grown-ups/010_hey_where_s_saskatchetoon.mp3"
   },
   {
-    "text": "Hey Y Where's M C A.",
+    "text": "Hey Y where's M C A.",
     "character": "",
     "audioUrl": "audio/grown-ups/011_hey_y_where_s_m_c_a.mp3"
   },

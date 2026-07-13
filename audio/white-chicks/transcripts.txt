@@ -23,7 +23,7 @@
   CHARACTER: 
 
 007_didn_t_somebody_tell_you_this_was_all_white_party.mp3
-  "Didn't somebody tell you this was all White Party?"
+  "Didn't somebody tell you this was all white party?"
   CHARACTER: 
 
 008_don_t_hey_baby_me.mp3
@@ -47,7 +47,7 @@
   CHARACTER: 
 
 013_hold_my_poodle.mp3
-  "Hold My Poodle"
+  "Hold my poodle"
   CHARACTER: 
 
 014_i_had_no_choice.mp3
@@ -143,7 +143,7 @@
   CHARACTER: 
 
 039_worried_all_night.mp3
-  "Worried All Night"
+  "Worried all night"
   CHARACTER: 
 
 040_yeah_i_know_i_changed_it.mp3
@@ -159,5 +159,5 @@
   CHARACTER: 
 
 043_50_thousand_dollar_cash.mp3
-  "50 Thousand Dollar Cash"
+  "50 thousand dollar cash"
   CHARACTER: 

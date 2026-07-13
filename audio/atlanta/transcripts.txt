@@ -1,311 +1,79 @@
-001_all_right_all_right_we_just_signed_a_new_recruit_so_i_m_gonn.mp3
-  "We signed a new recruit"
+002_can_i_get_a_kids_meal.mp3
+  "Can I get a kids meal?"
   CHARACTER: 
 
-002_an_fx_original_series_the_americans_the_riveting_final_seaso.mp3
-  "FX promo: The Americans"
+003_can_i_measure_your_tree.mp3
+  "Can I measure your tree?"
   CHARACTER: 
 
-003_are_you_coming_back_tonight_um_no.mp3
-  "Are you coming back tonight?"
+005_excuse_me_sir.mp3
+  "Excuse me sir"
   CHARACTER: 
 
-004_are_you_high_not_really_jesus.mp3
-  "Are you high? Not really"
+006_facepalm.mp3
+  "Facepalm"
   CHARACTER: 
 
-005_can_you_hand_me_those_um_this_yeah_thank_you_no_problem.mp3
-  "Can you hand me those?"
+007_got_eem.mp3
+  "Got Eem"
   CHARACTER: 
 
-006_come_on_jewish_yeah_jewish_dude_man_yeah_i_got_you.mp3
-  "Jewish dude, man"
+008_i_m_white.mp3
+  "I'm White"
   CHARACTER: 
 
-007_come_on_please_come_sit_in_the_parlor_oh_cool_i_ve_never_bee.mp3
-  "I've never seen a parlor"
+009_if_we_do_this_right.mp3
+  "If we do this right"
   CHARACTER: 
 
-008_curtis_fuck_go_go_fuck_it_fuck_man_go.mp3
-  "Fuck, go, go!"
+010_if_you_could_use_a_rat_as_a_phone.mp3
+  "If you could use a rat as a phone"
   CHARACTER: 
 
-009_do_you_know_where_um_my_underwear_or_my_belt_is_uh_do_you_sp.mp3
-  "Where's my underwear?"
+011_nah_i_m_good_man.mp3
+  "Nah, I'm good man"
   CHARACTER: 
 
-010_driver_no_moving_around_the_bus.mp3
-  "No moving around the bus"
+012_non_confrontational.mp3
+  "Non Confrontational"
   CHARACTER: 
 
-012_earn_what_s_up_chillin_cool_shirt_thanks_you_do_the_math_hom.mp3
-  "Copy it during lunch"
+013_not_right_now.mp3
+  "Not right now"
   CHARACTER: 
 
-013_earn_yo_we_should_probably_get_moving_you_know_the_75_about.mp3
-  "Spring Fling, $60K guaranteed"
+014_paper_boy.mp3
+  "Paper Boy"
   CHARACTER: 
 
-014_everything_is_gonna_be_okay_hugs.mp3
-  "Everything is gonna be okay"
+016_smelly_armpits.mp3
+  "Smelly armpits"
   CHARACTER: 
 
-015_excuse_me_sir_i_have_to_pat_you_down_lift_up_your_hands_plea.mp3
-  "I lost my belt and underwear"
+017_that_s_a_man.mp3
+  "That's a man"
   CHARACTER: 
 
-016_fx_s_american_horror_story_nyc_ll_new_a_ednesdays_at_10_00_o.mp3
-  "FX promo: AHS NYC"
+018_that_s_not_true.mp3
+  "That's not true"
   CHARACTER: 
 
-017_geez_this_place_is_a_mess_mm_you_ever_hear_of_a_trash_can_an.mp3
-  "This place is a mess"
+019_what_no.mp3
+  "What!? ... No"
   CHARACTER: 
 
-018_gloria_earn_you_better_be_up_in_there_i_am_here_comes_the_br.mp3
-  "You better be up"
+020_where_s_my_money.mp3
+  "Where's my money"
   CHARACTER: 
 
-019_got_dang_whoo_at_night_i_can_t_sleep_i_toss_and_turn_candles.mp3
-  "Paranoid, finger on the trigger"
+021_who_is_this_dude.mp3
+  "Who is this dude?"
   CHARACTER: 
 
-020_hello_um_i_m_here_for_the_the_uh_pick_was_that_mr_wonder.mp3
-  "Here for the pickup"
+022_you_lying_ass_bitch.mp3
+  "You lying ass bitch"
   CHARACTER: 
 
-021_hey_al_whatever_happens_just_know_that_i_love_you_very_much.mp3
-  "I love you very much"
-  CHARACTER: 
-
-022_hey_are_you_okay_i_m_just_so_happy_y_all_pretty_i_m_a_take_y.mp3
-  "I'm a take y'all home"
-  CHARACTER: 
-
-024_hey_man_i_m_sorry_though_i_didn_t_mean_to_yo_you_threw_that.mp3
-  "You threw the yogurt out?"
-  CHARACTER: 
-
-025_hey_who_did_that_huh_i_said_who_did_that_aw.mp3
-  "Who did that?"
-  CHARACTER: 
-
-026_hi_morning_come_on_gizmo_we_re_gonna_be_late.mp3
-  "Come on, Gizmo, we're late"
-  CHARACTER: 
-
-028_how_much_for_that_hat_and_this_ten_dollars_bet.mp3
-  "How much for that hat?"
-  CHARACTER: 
-
-029_i_do_know_one_thing_though_if_you_re_still_in_my_house_when.mp3
-  "You're paying rent"
-  CHARACTER: 
-
-030_i_mean_yeah_i_ve_thought_about_it_a_lot_actually.mp3
-  "I've thought about it a lot"
-  CHARACTER: 
-
-031_i_ll_pay_for_it_man_damn_just_move_thank_you_fate_i_ll_have.mp3
-  "Thank you, fate"
-  CHARACTER: 
-
-032_i_m_darius_apologies_i_m_theodore_perkins_please_call_me_ted.mp3
-  "Call me Teddy"
-  CHARACTER: 
-
-033_i_ve_been_inconsiderate_i_get_it_i_m_sorry.mp3
-  "I've been inconsiderate"
-  CHARACTER: 
-
-034_in_the_car_oh_yeah_music_of_my_mind_masterpiece_i_love_stevi.mp3
-  "I love Stevie"
-  CHARACTER: 
-
-035_is_it_weird_that_made_me_hungry_you_too.mp3
-  "That made me hungry"
-  CHARACTER: 
-
-037_let_me_get_daddy_over_here_ooh_you_help_me_earn.mp3
-  "You help me, Earn?"
-  CHARACTER: 
-
-038_man_this_is_who_i_am_this_is_my_truth_announcer_fx_presents.mp3
-  "This is my truth (FX promo)"
-  CHARACTER: 
-
-039_mm_hmm_fuck_with_me_mm_hmm.mp3
-  "Fuck with me"
-  CHARACTER: 
-
-041_oh_look_at_you.mp3
-  "Oh, look at you"
-  CHARACTER: 
-
-042_oh_coughing_shit_sighs.mp3
-  "Oh, shit"
-  CHARACTER: 
-
-043_paper_mail_paper_mail_all_about_my_paper_mail_chewing_mm_mm.mp3
-  "Everything's made up, stay woke"
-  CHARACTER: 
-
-044_sh_sorry_do_you_got_any_dehydrated_mango_ginger_jicama_perha.mp3
-  "Dehydrated mango, ginger?"
-  CHARACTER: 
-
-045_so_have_you_thought_more_about_l_a.mp3
-  "Thought more about L.A.?"
-  CHARACTER: 
-
-046_sorry_coming_through_sorry_sorry_miss_i_m_gonna_let_him_thro.mp3
-  "Sorry, coming through"
-  CHARACTER: 
-
-047_sorry_um_where_where_was_i_i_don_t_probation_princeton_right.mp3
-  "Where was I?"
-  CHARACTER: 
-
-049_thanks_piano_music.mp3
-  "Thanks"
-  CHARACTER: 
-
-050_this_it_yeah_we_made_it.mp3
-  "We made it"
-  CHARACTER: 
-
-051_this_thing_kills_everyone.mp3
-  "This thing kills everyone"
-  CHARACTER: 
-
-052_those_ones_i_think_go_by_the_door_hmm_are_we_missing_a_pole.mp3
-  "Are we missing a pole?"
-  CHARACTER: 
-
-053_told_ya_music_playing_inside.mp3
-  "Told ya"
-  CHARACTER: 
-
-054_van_it_s_me_it_s_candice_non_non_no_d_sol_e_candice_i_m_so_s.mp3
-  "It's me, Candice"
-  CHARACTER: 
-
-055_we_were_gonna_talk_about_it_a_little_later_yeah_whenever_you.mp3
-  "Whenever you want"
-  CHARACTER: 
-
-057_whoo_hoo_hoo_announcer_archer_danger_island_all_new_wednesda.mp3
-  "FX promo: Archer"
-  CHARACTER: 
-
-058_woman_paul_s_been_having_a_difficult_time_of_late.mp3
-  "Paul's having a difficult time"
-  CHARACTER: 
-
-059_would_you_like_a_glass_of_water_yeah_kind_of_parched_darius.mp3
-  "A glass of water"
-  CHARACTER: 
-
-060_wow_i_should_probably_yeah_okay.mp3
-  "I should probably... yeah"
-  CHARACTER: 
-
-061_yeah_all_right_okay_my_favorite_that_s_real_nice.mp3
-  "My favorite, that's real nice"
-  CHARACTER: 
-
-063_aaron_what_i_love_you_oh_my_god_i_know_jesus.mp3
-  "I love you. I know."
-  CHARACTER: 
-
-065_here_you_go_thank_you_all_right_now_let_me_see_that_bag_too.mp3
-  "Let me see that bag"
-  CHARACTER: 
-
-066_hi_morning_hey_good_morning_can_i_see_your_license_uh_yes_h.mp3
-  "I need to see your bag"
-  CHARACTER: 
-
-067_how_was_your_week_fine_uh_probation_ended_uh_my_alma_mater.mp3
-  "Probation ended"
-  CHARACTER: 
-
-068_is_this_your_first_time_here_oh_yeah_it_s_great_isn_t_it_ye.mp3
-  "Is this your first time?"
-  CHARACTER: 
-
-069_mm_tell_me_you_love_me_laughs_why_did_you_just_laugh_cause.mp3
-  "Tell me you love me"
-  CHARACTER: 
-
-070_mommy_yes_bash_sylvia_walks_me_to_my_class_oh_okay.mp3
-  "Sylvia walks me to class"
-  CHARACTER: 
-
-071_oh_shit_she_s_got_a_knife_oh_shit_oh_oh_shit_shit_oh_oh.mp3
-  "She's got a knife!"
-  CHARACTER: 
-
-072_sylvia_died_w_what_what_happened_how_they_don_t_know.mp3
-  "Sylvia died"
-  CHARACTER: 
-
-073_that_was_nando_s_yeah.mp3
-  "That was Nando's"
-  CHARACTER: 
-
-074_whoa_dope.mp3
-  "Whoa! Dope!"
-  CHARACTER: 
-
-075_yeah_okay_keep_eating_please.mp3
-  "Keep eating, please"
-  CHARACTER: 
-
-077_anita_i_need_you_on_the_register_after_this_i_i_i_m_lil_tay.mp3
-  "Where's the storage closet?"
-  CHARACTER: 
-
-078_david_david_syd_announcer_legion_all_new_tuesdays_at_10_00.mp3
-  "FX promo: Legion"
-  CHARACTER: 
-
-079_hey_man_nigga_i_m_i_m_sorry_about_this_shit_man_i_m_a_pay_y.mp3
-  "I'm a pay you back"
-  CHARACTER: 
-
-081_this_place_kind_of_stinks_damn_alfred_the_fuck_yeah_man_shi.mp3
-  "This place kind of stinks"
-  CHARACTER: 
-
-082_it_s_forever_by_the_ebonys_would_you_like_a_drink_while_you.mp3
-  "A drink while you wait?"
-  CHARACTER: 
-
-083_muffled_music_playing_through_headphones_oh.mp3
-  "Muffled music"
-  CHARACTER: 
-
-084_music_continues_upbeat_hip_hop_instrumental_music.mp3
-  "Hip-hop instrumental"
-  CHARACTER: 
-
-085_eat_sleep_everybody_wanna_be_a_nigga_but_nobody_wanna_be_a.mp3
-  "Paper Boi verse"
-  CHARACTER: 
-
-086_girl_i_m_in_love_hello_hey_yeah_um_i_m_here_for_the_pickup.mp3
-  "Here for the pickup"
-  CHARACTER: 
-
-087_keed_talk_to_em_warrior_warrior_warrior_warrior_warrior_ah.mp3
-  "Warrior, warrior"
-  CHARACTER: 
-
-088_sweet_little_girl_you_know_your_baby_loves_you_your_love_is.mp3
-  "Sweet little girl"
-  CHARACTER: 
-
-090_your_heart_has_called_me_closer_to_you_i_will_be_all_that_y.mp3
-  "We're almost there, Lottie"
+023_35_year_old_white_man.mp3
+  "35 year old white man"
   CHARACTER: 

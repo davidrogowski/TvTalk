@@ -7,7 +7,7 @@
   CHARACTER: 
 
 003_bob_dawson_s_diet_pork_rinds.mp3
-  "Bob Dawson's Diet Pork Rinds"
+  "Bob Dawson's diet pork rinds"
   CHARACTER: 
 
 004_can_t_understand_a_word_you_just_said.mp3
@@ -19,11 +19,11 @@
   CHARACTER: 
 
 006_help_me_jesus.mp3
-  "Help Me, Jesus!"
+  "Help me, Jesus!"
   CHARACTER: 
 
 007_help_me_oprah_winfrey.mp3
-  "Help Me, Oprah Winfrey"
+  "Help me, Oprah Winfrey"
   CHARACTER: 
 
 008_here_s_something_to_pick_your_spirits_up_middle_finger.mp3
@@ -35,7 +35,7 @@
   CHARACTER: 
 
 010_i_like_to_picture_jesus_as.mp3
-  "I Like to Picture Jesus As.."
+  "I like to picture Jesus as.."
   CHARACTER: 
 
 011_i_love_really_thin_pancakes.mp3
@@ -43,7 +43,7 @@
   CHARACTER: 
 
 012_i_play_for_keeps.mp3
-  "I Play For Keeps"
+  "I play for keeps"
   CHARACTER: 
 
 013_i_really_regret_opening_my_mouth_and_talking_to_you.mp3
@@ -79,7 +79,7 @@
   CHARACTER: 
 
 021_if_you_ain_t_first_you_re_last.mp3
-  "If You Ain't First, You're Last"
+  "If you ain't first, you're last"
   CHARACTER: 
 
 022_if_you_don_t_chew_big_red_then_f_you.mp3
@@ -91,7 +91,7 @@
   CHARACTER: 
 
 024_jacked_up_on_mountain_dew.mp3
-  "Jacked Up on Mountain Dew"
+  "Jacked up on Mountain Dew"
   CHARACTER: 
 
 025_mike_honcho.mp3
@@ -107,7 +107,7 @@
   CHARACTER: 
 
 028_oh_no_no_no_no_no_oh.mp3
-  "Oh No No No No No Oh"
+  "Oh no no no no no oh"
   CHARACTER: 
 
 029_pet_shop_boys_and_seal.mp3
@@ -119,7 +119,7 @@
   CHARACTER: 
 
 031_ricky_bobby_knife.mp3
-  "Ricky Bobby Knife"
+  "Ricky Bobby knife"
   CHARACTER: 
 
 032_ricky_bobby_loves_big_red.mp3
@@ -151,7 +151,7 @@
   CHARACTER: 
 
 039_that_just_happened.mp3
-  "That Just Happened"
+  "That just happened"
   CHARACTER: 
 
 040_that_s_dumb.mp3
@@ -175,7 +175,7 @@
   CHARACTER: 
 
 045_we_all_tried_hard.mp3
-  "We All Tried Hard"
+  "We all tried hard"
   CHARACTER: 
 
 046_who_wants_to_go_fast.mp3

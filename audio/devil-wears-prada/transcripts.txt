@@ -27,11 +27,11 @@
   CHARACTER: 
 
 010_florals_for_spring_groundbreaking.mp3
-  "Florals? For Spring? Groundbreaking"
+  "Florals? For spring? Groundbreaking"
   CHARACTER: 
 
 011_gird_your_loins.mp3
-  "Gird Your Loins"
+  "Gird your loins"
   CHARACTER: 
 
 012_gird_your_loins.mp3

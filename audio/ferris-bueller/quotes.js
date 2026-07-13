@@ -11,12 +11,12 @@ const quotes = [
     "audioUrl": "audio/ferris-bueller/002_call_if_you_need_anything.mp3"
   },
   {
-    "text": "Cameron 'I'm Dying'",
+    "text": "Cameron 'I'm dying'",
     "character": "",
     "audioUrl": "audio/ferris-bueller/003_cameron_i_m_dying.mp3"
   },
   {
-    "text": "City Celebration Parade",
+    "text": "City celebration parade",
     "character": "",
     "audioUrl": "audio/ferris-bueller/004_city_celebration_parade.mp3"
   },
@@ -46,12 +46,12 @@ const quotes = [
     "audioUrl": "audio/ferris-bueller/009_i_need_help.mp3"
   },
   {
-    "text": "I Weep For The Future",
+    "text": "I weep for the future",
     "character": "",
     "audioUrl": "audio/ferris-bueller/010_i_weep_for_the_future.mp3"
   },
   {
-    "text": "I'll Go I'll Go I'll Go I'll Go",
+    "text": "I'll go I'll go I'll go I'll go",
     "character": "",
     "audioUrl": "audio/ferris-bueller/011_i_ll_go_i_ll_go_i_ll_go_i_ll_go.mp3"
   },
@@ -71,7 +71,7 @@ const quotes = [
     "audioUrl": "audio/ferris-bueller/014_ok_i_ll_go.mp3"
   },
   {
-    "text": "Pardon My French, But You're An Asshole",
+    "text": "Pardon my French, but you're an asshole",
     "character": "",
     "audioUrl": "audio/ferris-bueller/015_pardon_my_french_but_you_re_an_asshole.mp3"
   },
@@ -91,7 +91,7 @@ const quotes = [
     "audioUrl": "audio/ferris-bueller/018_rooney_calm_down.mp3"
   },
   {
-    "text": "They Think He's A Righteous Dude",
+    "text": "They think he's a righteous dude",
     "character": "",
     "audioUrl": "audio/ferris-bueller/019_they_think_he_s_a_righteous_dude.mp3"
   },

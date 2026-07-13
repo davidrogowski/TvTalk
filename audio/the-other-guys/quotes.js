@@ -31,7 +31,7 @@ const quotes = [
     "audioUrl": "audio/the-other-guys/006_at_age_11_i_went_to_school.mp3"
   },
   {
-    "text": "Balls to Do It",
+    "text": "Balls to do it",
     "character": "",
     "audioUrl": "audio/the-other-guys/007_balls_to_do_it.mp3"
   },
@@ -41,24 +41,9 @@ const quotes = [
     "audioUrl": "audio/the-other-guys/008_bar_mitvahs.mp3"
   },
   {
-    "text": "Barge in",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/009_barge_in.mp3"
-  },
-  {
     "text": "Bullshit on That",
     "character": "",
     "audioUrl": "audio/the-other-guys/010_bullshit_on_that.mp3"
-  },
-  {
-    "text": "Can't have a conscience in the pimp game",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/011_can_t_have_a_conscience_in_the_pimp_game.mp3"
-  },
-  {
-    "text": "Celebrate",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/012_celebrate.mp3"
   },
   {
     "text": "Creep creep",
@@ -76,22 +61,7 @@ const quotes = [
     "audioUrl": "audio/the-other-guys/015_did_that_go_the_way_you_thought_it_was_going_to_go.mp3"
   },
   {
-    "text": "Does not approve",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/016_does_not_approve.mp3"
-  },
-  {
-    "text": "Don't flatter yourself",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/017_don_t_flatter_yourself.mp3"
-  },
-  {
-    "text": "Don't go chasing waterfalls",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/018_don_t_go_chasing_waterfalls.mp3"
-  },
-  {
-    "text": "Excited for Bath Mats",
+    "text": "Excited for bath mats",
     "character": "",
     "audioUrl": "audio/the-other-guys/019_excited_for_bath_mats.mp3"
   },
@@ -106,39 +76,9 @@ const quotes = [
     "audioUrl": "audio/the-other-guys/021_gator.mp3"
   },
   {
-    "text": "Gator Don't Play",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/022_gator_don_t_play.mp3"
-  },
-  {
-    "text": "Gators Bitches Better Be Using Jimmies",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/023_gators_bitches_better_be_using_jimmies.mp3"
-  },
-  {
-    "text": "Gentlemen you have a choice",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/024_gentlemen_you_have_a_choice.mp3"
-  },
-  {
     "text": "Go get em",
     "character": "",
     "audioUrl": "audio/the-other-guys/025_go_get_em.mp3"
-  },
-  {
-    "text": "God no!",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/026_god_no.mp3"
-  },
-  {
-    "text": "He's not going to do that, that's a hyperbole",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/027_he_s_not_going_to_do_that_that_s_a_hyperbole.mp3"
-  },
-  {
-    "text": "Hey you monkeys stop!",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/028_hey_you_monkeys_stop.mp3"
   },
   {
     "text": "I am a peacock!",
@@ -146,19 +86,9 @@ const quotes = [
     "audioUrl": "audio/the-other-guys/029_i_am_a_peacock.mp3"
   },
   {
-    "text": "I could've handled that myself",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/030_i_could_ve_handled_that_myself.mp3"
-  },
-  {
     "text": "I don't like what I see",
     "character": "",
     "audioUrl": "audio/the-other-guys/031_i_don_t_like_what_i_see.mp3"
-  },
-  {
-    "text": "I don't want no scrubs",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/032_i_don_t_want_no_scrubs.mp3"
   },
   {
     "text": "I got to go",
@@ -176,16 +106,6 @@ const quotes = [
     "audioUrl": "audio/the-other-guys/035_i_made_a_promise_to_her_i_would_never_get_out_of_control_aga.mp3"
   },
   {
-    "text": "I wanna go!",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/036_i_wanna_go.mp3"
-  },
-  {
-    "text": "I was grounded",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/037_i_was_grounded.mp3"
-  },
-  {
     "text": "I was very much looking forward to having a water",
     "character": "",
     "audioUrl": "audio/the-other-guys/038_i_was_very_much_looking_forward_to_having_a_water.mp3"
@@ -196,37 +116,12 @@ const quotes = [
     "audioUrl": "audio/the-other-guys/039_i_m_gonna_beat_the_shit_outta_you.mp3"
   },
   {
-    "text": "I'm telling you, you were a pimp",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/040_i_m_telling_you_you_were_a_pimp.mp3"
-  },
-  {
-    "text": "I'm your partner you can tell me",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/041_i_m_your_partner_you_can_tell_me.mp3"
-  },
-  {
     "text": "I’m talking about doing some serious drinking!",
     "character": "",
     "audioUrl": "audio/the-other-guys/042_i_m_talking_about_doing_some_serious_drinking.mp3"
   },
   {
-    "text": "Is it?",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/043_is_it.mp3"
-  },
-  {
-    "text": "Is that what's happening huh?!",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/044_is_that_what_s_happening_huh.mp3"
-  },
-  {
-    "text": "It's a partners code I had no choice",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/045_it_s_a_partners_code_i_had_no_choice.mp3"
-  },
-  {
-    "text": "It's a Rape Whistle",
+    "text": "It's a rape whistle",
     "character": "",
     "audioUrl": "audio/the-other-guys/046_it_s_a_rape_whistle.mp3"
   },
@@ -241,12 +136,7 @@ const quotes = [
     "audioUrl": "audio/the-other-guys/048_it_s_9_15.mp3"
   },
   {
-    "text": "Jeez I'm sorry",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/049_jeez_i_m_sorry.mp3"
-  },
-  {
-    "text": "LOL",
+    "text": "Laughing",
     "character": "",
     "audioUrl": "audio/the-other-guys/050_lol.mp3"
   },
@@ -256,29 +146,14 @@ const quotes = [
     "audioUrl": "audio/the-other-guys/051_look_at_these_two_jamokes.mp3"
   },
   {
-    "text": "No I was just trying to help a friend",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/052_no_i_was_just_trying_to_help_a_friend.mp3"
-  },
-  {
     "text": "No, are you evening listening to the story?",
     "character": "",
     "audioUrl": "audio/the-other-guys/053_no_are_you_evening_listening_to_the_story.mp3"
   },
   {
-    "text": "Nobody Cares About You",
+    "text": "Nobody cares about you",
     "character": "",
     "audioUrl": "audio/the-other-guys/054_nobody_cares_about_you.mp3"
-  },
-  {
-    "text": "Oh man",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/055_oh_man.mp3"
-  },
-  {
-    "text": "OMG you were a pimp",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/056_omg_you_were_a_pimp.mp3"
   },
   {
     "text": "Pimps don't cry",
@@ -289,11 +164,6 @@ const quotes = [
     "text": "Put on big boy pants",
     "character": "",
     "audioUrl": "audio/the-other-guys/058_put_on_big_boy_pants.mp3"
-  },
-  {
-    "text": "Shh Shh",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/059_shh_shh.mp3"
   },
   {
     "text": "Shot AROD",
@@ -311,31 +181,6 @@ const quotes = [
     "audioUrl": "audio/the-other-guys/062_terry_insults_allen.mp3"
   },
   {
-    "text": "That's a weird example",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/063_that_s_a_weird_example.mp3"
-  },
-  {
-    "text": "That's horrible",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/064_that_s_horrible.mp3"
-  },
-  {
-    "text": "The city is dying for a hero",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/065_the_city_is_dying_for_a_hero.mp3"
-  },
-  {
-    "text": "The most stable job I could think of",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/066_the_most_stable_job_i_could_think_of.mp3"
-  },
-  {
-    "text": "These guys are pros",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/067_these_guys_are_pros.mp3"
-  },
-  {
     "text": "They were so convincing",
     "character": "",
     "audioUrl": "audio/the-other-guys/068_they_were_so_convincing.mp3"
@@ -351,44 +196,9 @@ const quotes = [
     "audioUrl": "audio/the-other-guys/070_we_started_making_a_lot_of_money.mp3"
   },
   {
-    "text": "Wednesday night is taco night",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/071_wednesday_night_is_taco_night.mp3"
-  },
-  {
-    "text": "Well Well Well",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/072_well_well_well.mp3"
-  },
-  {
-    "text": "What the hell are you?",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/073_what_the_hell_are_you.mp3"
-  },
-  {
-    "text": "What the hell is going on here?!",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/074_what_the_hell_is_going_on_here.mp3"
-  },
-  {
     "text": "What're you afraid of man?",
     "character": "",
     "audioUrl": "audio/the-other-guys/075_what_re_you_afraid_of_man.mp3"
-  },
-  {
-    "text": "What're you doing?!",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/076_what_re_you_doing.mp3"
-  },
-  {
-    "text": "Why don't you step back man",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/077_why_don_t_you_step_back_man.mp3"
-  },
-  {
-    "text": "Yes that's exactly what's happening",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/078_yes_that_s_exactly_what_s_happening.mp3"
   },
   {
     "text": "The next hotshot",
@@ -396,19 +206,9 @@ const quotes = [
     "audioUrl": "audio/the-other-guys/079_you_guys_are_fighting_over_who_s_going_to_be_the_next_hotsho.mp3"
   },
   {
-    "text": "You thinking what I'm thinking partner?",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/080_you_thinking_what_i_m_thinking_partner.mp3"
-  },
-  {
     "text": "You wanna dance brolio?!",
     "character": "",
     "audioUrl": "audio/the-other-guys/081_you_wanna_dance_brolio.mp3"
-  },
-  {
-    "text": "You've got to be shitting me",
-    "character": "",
-    "audioUrl": "audio/the-other-guys/082_you_ve_got_to_be_shitting_me.mp3"
   },
   {
     "text": "Your farts aren't manly",

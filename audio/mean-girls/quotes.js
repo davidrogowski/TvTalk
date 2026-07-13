@@ -11,11 +11,6 @@ const quotes = [
     "audioUrl": "audio/mean-girls/003_all_right_have_a_good_time_everyone.mp3"
   },
   {
-    "text": "Almost as mad as I get",
-    "character": "",
-    "audioUrl": "audio/mean-girls/004_almost_as_mad_as_i_get_when_i_think_about_the_fact.mp3"
-  },
-  {
     "text": "How many people cried",
     "character": "",
     "audioUrl": "audio/mean-girls/005_and_how_many_people_cried_over_it_and_stuff.mp3"
@@ -51,24 +46,9 @@ const quotes = [
     "audioUrl": "audio/mean-girls/011_and_ok_look_i_m_not_saying_she_s_a_stalker.mp3"
   },
   {
-    "text": "Lip gloss on her snaggletooth",
-    "character": "",
-    "audioUrl": "audio/mean-girls/012_and_she_had_some_99_cent_lip_gloss_on_her_snaggletooth.mp3"
-  },
-  {
     "text": "Some kind of African voodoo",
     "character": "",
     "audioUrl": "audio/mean-girls/013_and_she_said_she_s_gonna_do_some_kind_of_african_voodoo_with.mp3"
-  },
-  {
-    "text": "Wears it under all her clothes",
-    "character": "",
-    "audioUrl": "audio/mean-girls/014_and_she_wears_it_under_all_her_clothes.mp3"
-  },
-  {
-    "text": "Some form of animal ears",
-    "character": "",
-    "audioUrl": "audio/mean-girls/015_and_some_form_of_animal_ears.mp3"
   },
   {
     "text": "Beware of the Plastics",
@@ -79,11 +59,6 @@ const quotes = [
     "text": "For my Hanukkah",
     "character": "",
     "audioUrl": "audio/mean-girls/017_and_then_for_my_hanukkah_my_parents_got_me_this_pair.mp3"
-  },
-  {
-    "text": "12 years in Africa",
-    "character": "",
-    "audioUrl": "audio/mean-girls/018_and_we_ve_spent_the_last_12_years_in_africa.mp3"
   },
   {
     "text": "Who takes care of her? Me",
@@ -136,11 +111,6 @@ const quotes = [
     "audioUrl": "audio/mean-girls/032_but_wait_aren_t_you_so_mad_at_gretchen_for_telling_me.mp3"
   },
   {
-    "text": "You're totally gonna laugh",
-    "character": "",
-    "audioUrl": "audio/mean-girls/033_but_you_re_totally_gonna_laugh_when_i_tell_you_so.mp3"
-  },
-  {
     "text": "See you in the principal's office",
     "character": "",
     "audioUrl": "audio/mean-girls/034_cady_heron_they_wanna_see_you_in_the_principal_s_office.mp3"
@@ -149,21 +119,6 @@ const quotes = [
     "text": "Find the limit",
     "character": "",
     "audioUrl": "audio/mean-girls/035_contestants_find_the_limit_of_this_equation.mp3"
-  },
-  {
-    "text": "Did you have an awesome time?",
-    "character": "",
-    "audioUrl": "audio/mean-girls/036_did_you_have_an_awesome_time.mp3"
-  },
-  {
-    "text": "Did you see her do it?",
-    "character": "",
-    "audioUrl": "audio/mean-girls/037_did_you_see_her_do_it.mp3"
-  },
-  {
-    "text": "Anything to own up to?",
-    "character": "",
-    "audioUrl": "audio/mean-girls/038_do_you_have_anything_you_wanna_own_up_to.mp3"
   },
   {
     "text": "Don't be fooled",
@@ -181,39 +136,14 @@ const quotes = [
     "audioUrl": "audio/mean-girls/042_don_t_you_bring_me_down_today.mp3"
   },
   {
-    "text": "Not allowed to like Aaron",
-    "character": "",
-    "audioUrl": "audio/mean-girls/043_even_though_i_wasn_t_allowed_to_like_aaron.mp3"
-  },
-  {
     "text": "Pick up your feet",
     "character": "",
     "audioUrl": "audio/mean-girls/045_giddyap_jingle_torse_pick_up_your_feet.mp3"
   },
   {
-    "text": "Can you wrap it up?",
-    "character": "",
-    "audioUrl": "audio/mean-girls/047_god_mr_duvall_can_you_wrap_it_up.mp3"
-  },
-  {
-    "text": "Have you ever walked up to people",
-    "character": "",
-    "audioUrl": "audio/mean-girls/048_have_you_ever_walked_up_to_people.mp3"
-  },
-  {
     "text": "How are my best girlfriends?",
     "character": "",
     "audioUrl": "audio/mean-girls/051_hey_hey_hey_how_are_my_best_girlfriends.mp3"
-  },
-  {
-    "text": "His name was Nfume",
-    "character": "",
-    "audioUrl": "audio/mean-girls/055_his_name_was_nfume_and_we_were_5.mp3"
-  },
-  {
-    "text": "People getting bored with me",
-    "character": "",
-    "audioUrl": "audio/mean-girls/056_i_could_hear_people_getting_bored_with_me.mp3"
   },
   {
     "text": "Police searched my house",
@@ -226,39 +156,14 @@ const quotes = [
     "audioUrl": "audio/mean-girls/060_i_had_learned_how_to_control_everyone_around_me.mp3"
   },
   {
-    "text": "Never felt this before",
-    "character": "",
-    "audioUrl": "audio/mean-girls/061_i_had_never_felt_this_feeling_before.mp3"
-  },
-  {
     "text": "I have her test results",
     "character": "",
     "audioUrl": "audio/mean-girls/062_i_have_her_test_results_if_you_can_have_her_give_me_a_call_a.mp3"
   },
   {
-    "text": "I have to talk to you",
-    "character": "",
-    "audioUrl": "audio/mean-girls/063_i_have_to_talk_to_you.mp3"
-  },
-  {
     "text": "She's weird, but she's my friend",
     "character": "",
     "audioUrl": "audio/mean-girls/065_i_know_she_s_kind_of_socially_retarded_and_weird_but_she_s_m.mp3"
-  },
-  {
-    "text": "I know what home school is",
-    "character": "",
-    "audioUrl": "audio/mean-girls/066_i_know_what_home_school_is_i_m_not_retarded.mp3"
-  },
-  {
-    "text": "Teachers outside of school",
-    "character": "",
-    "audioUrl": "audio/mean-girls/067_i_love_seeing_teachers_outside_of_school.mp3"
-  },
-  {
-    "text": "She just likes the attention",
-    "character": "",
-    "audioUrl": "audio/mean-girls/068_i_mean_i_guess_she_just_likes_the_attention.mp3"
   },
   {
     "text": "Sign this, you're failing",
@@ -271,16 +176,6 @@ const quotes = [
     "audioUrl": "audio/mean-girls/070_i_pushed_my_husband_into_law_school_that_was_a_bust.mp3"
   },
   {
-    "text": "Old enough for one night alone",
-    "character": "",
-    "audioUrl": "audio/mean-girls/071_i_think_cady_s_old_enough_to_spend_one_night_on_her_own.mp3"
-  },
-  {
-    "text": "Nominated her as a joke",
-    "character": "",
-    "audioUrl": "audio/mean-girls/072_i_think_somebody_nominated_her_as_a_joke_or_something.mp3"
-  },
-  {
     "text": "People are so jealous of me",
     "character": "",
     "audioUrl": "audio/mean-girls/075_i_m_sorry_that_people_are_so_jealous_of_me.mp3"
@@ -289,21 +184,6 @@ const quotes = [
     "text": "Voting for Cady, she pushed her",
     "character": "",
     "audioUrl": "audio/mean-girls/076_i_m_voting_for_cady_heron_because_she_pushed_her.mp3"
-  },
-  {
-    "text": "I had to really commit",
-    "character": "",
-    "audioUrl": "audio/mean-girls/077_if_i_was_gonna_keep_this_going_i_was_gonna_have_to_really_co.mp3"
-  },
-  {
-    "text": "Is that your natural hair color?",
-    "character": "",
-    "audioUrl": "audio/mean-girls/079_is_that_your_natural_hair_color.mp3"
-  },
-  {
-    "text": "Full tilt jungle madness",
-    "character": "",
-    "audioUrl": "audio/mean-girls/081_it_was_full_tilt_jungle_madness.mp3"
   },
   {
     "text": "Jock girls weren't afraid of her",
@@ -336,24 +216,9 @@ const quotes = [
     "audioUrl": "audio/mean-girls/095_no_no_this_is_just_how_they_work.mp3"
   },
   {
-    "text": "When you connect from Information",
-    "character": "",
-    "audioUrl": "audio/mean-girls/098_not_when_you_connect_from_information.mp3"
-  },
-  {
-    "text": "Buy yourself some milk",
-    "character": "",
-    "audioUrl": "audio/mean-girls/099_now_i_put_a_dollar_in_there_so_you_can_buy_some_milk.mp3"
-  },
-  {
     "text": "We already paid the DJ",
     "character": "",
     "audioUrl": "audio/mean-girls/100_now_i_m_not_gonna_do_that_because_we_ve_already_paid_the_dj.mp3"
-  },
-  {
-    "text": "Where you sit is crucial",
-    "character": "",
-    "audioUrl": "audio/mean-girls/101_now_where_you_sit_in_the_cafeteria_is_crucial.mp3"
   },
   {
     "text": "Same gym class",
@@ -361,34 +226,9 @@ const quotes = [
     "audioUrl": "audio/mean-girls/102_of_course_all_the_plastics_are_in_the_same_gym_class.mp3"
   },
   {
-    "text": "Not gonna make fun of her",
-    "character": "",
-    "audioUrl": "audio/mean-girls/103_of_course_i_m_not_gonna_make_fun_of_her.mp3"
-  },
-  {
-    "text": "I love this song!",
-    "character": "",
-    "audioUrl": "audio/mean-girls/104_oh_my_god_i_love_this_song.mp3"
-  },
-  {
-    "text": "I love your skirt",
-    "character": "",
-    "audioUrl": "audio/mean-girls/105_oh_my_god_i_love_your_skirt.mp3"
-  },
-  {
-    "text": "Pretend you didn't hear that",
-    "character": "",
-    "audioUrl": "audio/mean-girls/106_oh_my_god_pretend_you_didn_t_hear_that.mp3"
-  },
-  {
     "text": "Word vomit",
     "character": "",
     "audioUrl": "audio/mean-girls/107_oh_no_it_was_coming_up_again_word_vomit_no_wait_a_minute.mp3"
-  },
-  {
-    "text": "It must be marked wrong",
-    "character": "",
-    "audioUrl": "audio/mean-girls/109_ok_it_must_be_marked_wrong.mp3"
   },
   {
     "text": "Cheese and crackers for eight",
@@ -401,29 +241,14 @@ const quotes = [
     "audioUrl": "audio/mean-girls/115_regina_wanted_me_to_tell_you_that_she_was_trying_to_hook_you.mp3"
   },
   {
-    "text": "Regina's spine healed",
-    "character": "",
-    "audioUrl": "audio/mean-girls/117_regina_s_spine_healed_and_her_physical_therapist.mp3"
-  },
-  {
     "text": "The meaner Regina was",
     "character": "",
     "audioUrl": "audio/mean-girls/118_same_with_gretchen_the_meaner_regina_was_to_her.mp3"
   },
   {
-    "text": "Secret? What are you saying?",
-    "character": "",
-    "audioUrl": "audio/mean-girls/119_secret_what_are_you_saying_about.mp3"
-  },
-  {
     "text": "She always looks fierce",
     "character": "",
     "audioUrl": "audio/mean-girls/120_she_always_looks_fierce_she_always_wins_spring_fling_queen.mp3"
-  },
-  {
-    "text": "Not even that good looking",
-    "character": "",
-    "audioUrl": "audio/mean-girls/123_she_s_not_even_that_good_looking_if_you_really_look_at_her.mp3"
   },
   {
     "text": "Shut up, I need to talk to you",
@@ -436,29 +261,9 @@ const quotes = [
     "audioUrl": "audio/mean-girls/125_snowing_and_blowing_up_bustels_of_fun.mp3"
   },
   {
-    "text": "Like a really huge deal",
-    "character": "",
-    "audioUrl": "audio/mean-girls/127_so_this_is_like_a_really_huge_deal.mp3"
-  },
-  {
-    "text": "When will you see Regina again?",
-    "character": "",
-    "audioUrl": "audio/mean-girls/128_so_when_are_you_gonna_see_regina_again.mp3"
-  },
-  {
-    "text": "Go shave your back now",
-    "character": "",
-    "audioUrl": "audio/mean-girls/129_so_you_can_go_shave_your_back_now.mp3"
-  },
-  {
     "text": "Channel her rage into sports",
     "character": "",
     "audioUrl": "audio/mean-girls/130_taught_her_to_channel_all_her_rage_into_sports.mp3"
-  },
-  {
-    "text": "I feel like I'm getting through",
-    "character": "",
-    "audioUrl": "audio/mean-girls/135_thanks_i_feel_like_i_m_getting_through.mp3"
   },
   {
     "text": "Tallest go in the middle",
@@ -471,26 +276,6 @@ const quotes = [
     "audioUrl": "audio/mean-girls/140_the_greatest_people_you_will_ever_meet.mp3"
   },
   {
-    "text": "The hardcore girls wear lingerie",
-    "character": "",
-    "audioUrl": "audio/mean-girls/141_the_hard_core_girls_just_wear_lingerie.mp3"
-  },
-  {
-    "text": "Only three girls aren't in it",
-    "character": "",
-    "audioUrl": "audio/mean-girls/144_there_s_only_three_girls_in_the_whole_school_who_aren_t_in_i.mp3"
-  },
-  {
-    "text": "They wanted me socialized",
-    "character": "",
-    "audioUrl": "audio/mean-girls/145_they_wanted_me_to_get_socialized.mp3"
-  },
-  {
-    "text": "They went out for a year",
-    "character": "",
-    "audioUrl": "audio/mean-girls/146_they_went_out_for_a_year.mp3"
-  },
-  {
     "text": "Walker Brothers Pancake House",
     "character": "",
     "audioUrl": "audio/mean-girls/148_to_the_walker_brothers_pancake_house.mp3"
@@ -501,24 +286,9 @@ const quotes = [
     "audioUrl": "audio/mean-girls/149_wait_i_have_this_really_good_skin_stuff_i_ll_bring_you.mp3"
   },
   {
-    "text": "We have to talk to you",
-    "character": "",
-    "audioUrl": "audio/mean-girls/151_we_have_to_talk_to_you.mp3"
-  },
-  {
     "text": "Opportunities for sabotage",
     "character": "",
     "audioUrl": "audio/mean-girls/152_we_kept_our_eyes_open_for_opportunities_for_sabotage.mp3"
-  },
-  {
-    "text": "Have lunch with us",
-    "character": "",
-    "audioUrl": "audio/mean-girls/153_we_wanna_invite_you_to_have_lunch_with_us.mp3"
-  },
-  {
-    "text": "Best friends in middle school",
-    "character": "",
-    "audioUrl": "audio/mean-girls/154_we_were_best_friends_in_middle_school.mp3"
   },
   {
     "text": "So kick ass at Spring Fling",
@@ -526,34 +296,9 @@ const quotes = [
     "audioUrl": "audio/mean-girls/155_we_re_gonna_look_so_kick_ass_in_these_when_we_roll_into_spri.mp3"
   },
   {
-    "text": "She has a huge crush on you",
-    "character": "",
-    "audioUrl": "audio/mean-girls/156_well_be_careful_because_she_has_a_huge_crush_on_you.mp3"
-  },
-  {
-    "text": "Maybe we just won't tell her",
-    "character": "",
-    "audioUrl": "audio/mean-girls/157_well_maybe_we_just_won_t_tell_her.mp3"
-  },
-  {
-    "text": "There must be something you're good at",
-    "character": "",
-    "audioUrl": "audio/mean-girls/158_well_there_must_be_something_you_re_good_at.mp3"
-  },
-  {
     "text": "Hold on, other line",
     "character": "",
     "audioUrl": "audio/mean-girls/159_what_are_you_hold_on_other_line.mp3"
-  },
-  {
-    "text": "What's everybody been up to?",
-    "character": "",
-    "audioUrl": "audio/mean-girls/160_what_has_everybody_been_up_to.mp3"
-  },
-  {
-    "text": "What was behind Aaron's head?",
-    "character": "",
-    "audioUrl": "audio/mean-girls/161_what_was_on_the_board_behind_aaron_s_head.mp3"
   },
   {
     "text": "No one would ever see it",
@@ -571,24 +316,9 @@ const quotes = [
     "audioUrl": "audio/mean-girls/167_yeah_it_was_pretty_bitchy_but_i_m_not_mad.mp3"
   },
   {
-    "text": "That is social suicide",
-    "character": "",
-    "audioUrl": "audio/mean-girls/171_you_cannot_do_that_that_is_social_suicide.mp3"
-  },
-  {
-    "text": "You never made up a rumor?",
-    "character": "",
-    "audioUrl": "audio/mean-girls/173_you_never_made_up_a_rumor_about_anybody.mp3"
-  },
-  {
     "text": "Still an excellent student, right?",
     "character": "",
     "audioUrl": "audio/mean-girls/176_you_re_still_an_excellent_student_right.mp3"
-  },
-  {
-    "text": "No green pen!",
-    "character": "",
-    "audioUrl": "audio/mean-girls/178_don_t_read_ahead_no_green_pen.mp3"
   },
   {
     "text": "Mom, I didn't do it",
@@ -601,11 +331,6 @@ const quotes = [
     "audioUrl": "audio/mean-girls/181_i_m_not_taking_this_anymore_good_for_you_gretch.mp3"
   },
   {
-    "text": "We could publish it",
-    "character": "",
-    "audioUrl": "audio/mean-girls/183_no_way_oh_come_on_we_could_publish_it.mp3"
-  },
-  {
     "text": "Nobody understands me",
     "character": "",
     "audioUrl": "audio/mean-girls/184_nobody_understands_me_i_understand_you.mp3"
@@ -614,25 +339,5 @@ const quotes = [
     "text": "You dirty little liar",
     "character": "",
     "audioUrl": "audio/mean-girls/185_oh_god_you_dirty_little_liar.mp3"
-  },
-  {
-    "text": "So you have your cousins",
-    "character": "",
-    "audioUrl": "audio/mean-girls/187_right_so_you_have_your_cousins.mp3"
-  },
-  {
-    "text": "What are we doing this weekend?",
-    "character": "",
-    "audioUrl": "audio/mean-girls/188_so_what_are_we_doing_this_weekend_yeah_what_are_we_doing.mp3"
-  },
-  {
-    "text": "You look awesome!",
-    "character": "",
-    "audioUrl": "audio/mean-girls/193_you_look_awesome_you_look_awesome.mp3"
-  },
-  {
-    "text": "You think I'm an idiot?",
-    "character": "",
-    "audioUrl": "audio/mean-girls/194_you_re_not_gonna_call_him_right_do_you_think_i_m_an_idiot.mp3"
   }
 ];

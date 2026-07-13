@@ -413,16 +413,6 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "A strong force of attraction.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/001_a_strong_force_of_attraction.mp3"
-      },
-      {
-        "text": "Absolutely not.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/002_absolutely_not.mp3"
-      },
-      {
         "text": "All you do is let him go",
         "character": "",
         "audioUrl": "audio/breaking-bad/003_and_all_you_ve_got_to_do_is_let_him_go.mp3"
@@ -433,109 +423,14 @@ const shows = [
         "audioUrl": "audio/breaking-bad/004_and_i_used_to_go_in_there_a_lot_because_it_was_close_enough.mp3"
       },
       {
-        "text": "And you are?",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/005_and_you_are.mp3"
-      },
-      {
-        "text": "Because I told you.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/006_because_i_told_you.mp3"
-      },
-      {
-        "text": "Do you know what a bond is?",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/007_do_you_know_what_a_bond_is.mp3"
-      },
-      {
         "text": "Capable of listening to reason?",
         "character": "",
         "audioUrl": "audio/breaking-bad/008_do_you_think_he_is_capable_of_listening_to_reason.mp3"
       },
       {
-        "text": "Does it look like I'm doing?",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/009_does_it_look_like_i_m_doing.mp3"
-      },
-      {
-        "text": "Doesn't concern you",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/010_doesn_t_matter_it_doesn_t_concern_you.mp3"
-      },
-      {
-        "text": "Don't bullshit a bullshitter",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/011_don_t_bullshit_a_bullshitter.mp3"
-      },
-      {
-        "text": "Don't you dare put that on me",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/012_don_t_you_dare_put_that_on_me.mp3"
-      },
-      {
-        "text": "Emilio is going to prison",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/013_emilio_is_going_to_prison.mp3"
-      },
-      {
         "text": "We need to leave right now",
         "character": "",
         "audioUrl": "audio/breaking-bad/014_everything_is_going_to_be_fine_but_we_need_to_leave_right_no.mp3"
-      },
-      {
-        "text": "Feel very foolish.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/015_feel_very_foolish.mp3"
-      },
-      {
-        "text": "You're just a drug addict",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/016_from_what_i_can_tell_you_are_just_a_drug_addict.mp3"
-      },
-      {
-        "text": "Fuck you and your eyebrows",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/017_fuck_you_and_your_eyebrows.mp3"
-      },
-      {
-        "text": "Fuck you.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/018_fuck_you.mp3"
-      },
-      {
-        "text": "Have a seat.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/019_have_a_seat.mp3"
-      },
-      {
-        "text": "He's got a bug up his butt",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/020_he_s_got_a_bug_up_his_butt.mp3"
-      },
-      {
-        "text": "Money's buried down here",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/021_hiding_money_it_s_buried_down_here.mp3"
-      },
-      {
-        "text": "Never expected you to amount to much",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/022_honestly_i_never_expected_you_to_amount_to_much.mp3"
-      },
-      {
-        "text": "How do you know my name?",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/023_how_do_you_know_my_name.mp3"
-      },
-      {
-        "text": "How does it feel to be a smart ass?",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/024_how_does_it_feel_to_be_a_smart_ass.mp3"
-      },
-      {
-        "text": "I didn't picture that.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/025_i_didn_t_picture_that.mp3"
       },
       {
         "text": "You think I'm up to something",
@@ -553,11 +448,6 @@ const shows = [
         "audioUrl": "audio/breaking-bad/028_i_saw_your_setup_is_ridiculous_you_and_i_will_not_make_garba.mp3"
       },
       {
-        "text": "I tried to save it.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/029_i_tried_to_save_it.mp3"
-      },
-      {
         "text": "There will be consequences",
         "character": "",
         "audioUrl": "audio/breaking-bad/030_i_warned_you_for_a_solid_year_you_cross_me_there_will_be_con.mp3"
@@ -573,49 +463,9 @@ const shows = [
         "audioUrl": "audio/breaking-bad/032_i_would_like_to_know_why_you_wouldn_t_meet_with_me_yesterday.mp3"
       },
       {
-        "text": "I've still got things to do",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/033_i_ve_still_got_things_left_to_do.mp3"
-      },
-      {
-        "text": "It's bad.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/034_it_s_bad.mp3"
-      },
-      {
-        "text": "It's kind of funny.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/035_it_s_kind_of_funny.mp3"
-      },
-      {
-        "text": "It's nice.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/036_it_s_nice.mp3"
-      },
-      {
-        "text": "Just find Jesse.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/037_just_find_jesse.mp3"
-      },
-      {
-        "text": "Just listen to me.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/038_just_listen_to_me.mp3"
-      },
-      {
-        "text": "Keep your damn mouth shut",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/039_keep_your_damn_mouth_shut.mp3"
-      },
-      {
         "text": "Mirror images of one another",
         "character": "",
         "audioUrl": "audio/breaking-bad/040_left_hand_and_your_right_hand_are_mirror_images_of_one_anoth.mp3"
-      },
-      {
-        "text": "I'll give you a holler",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/041_let_me_know_when_you_re_ready_and_i_ll_i_ll_give_you_a_holle.mp3"
       },
       {
         "text": "Focus on getting better",
@@ -638,44 +488,14 @@ const shows = [
         "audioUrl": "audio/breaking-bad/045_look_at_the_bottom_for_a_triangle.mp3"
       },
       {
-        "text": "No no no.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/046_no_no_no.mp3"
-      },
-      {
-        "text": "No no no.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/047_no_no_no.mp3"
-      },
-      {
-        "text": "No.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/048_no.mp3"
-      },
-      {
-        "text": "No.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/049_no.mp3"
-      },
-      {
         "text": "Not a conversation I'm ready for",
         "character": "",
         "audioUrl": "audio/breaking-bad/050_not_a_conversation_i_m_even_remotely_ready_to_have.mp3"
       },
       {
-        "text": "Not anymore.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/051_not_anymore.mp3"
-      },
-      {
         "text": "Now even small busted girls have cleavage",
         "character": "",
         "audioUrl": "audio/breaking-bad/052_now_even_the_small_busted_girls_have_cleavage.mp3"
-      },
-      {
-        "text": "Of course I am.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/053_of_course_i_am.mp3"
       },
       {
         "text": "It's immoral, it's illegal",
@@ -693,29 +513,9 @@ const shows = [
         "audioUrl": "audio/breaking-bad/056_please_just_work_with_me_here_and_i_promise_i_will_explain_e.mp3"
       },
       {
-        "text": "Please.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/057_please.mp3"
-      },
-      {
-        "text": "Put the knife down, please",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/058_put_the_knife_down_please.mp3"
-      },
-      {
         "text": "Somewhere nice and safe",
         "character": "",
         "audioUrl": "audio/breaking-bad/059_put_your_arms_around_me_jenna_stand_up_we_re_going_to_look_a.mp3"
-      },
-      {
-        "text": "Say my name.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/060_say_my_name.mp3"
-      },
-      {
-        "text": "Shut up.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/061_shut_up.mp3"
       },
       {
         "text": "Unlock you and adios",
@@ -723,84 +523,14 @@ const shows = [
         "audioUrl": "audio/breaking-bad/062_so_i_suggest_let_you_go_then_just_unlock_you_and_audios.mp3"
       },
       {
-        "text": "I'll do it tomorrow, I promise",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/063_sorry_i_ll_do_it_tomorrow_i_promise.mp3"
-      },
-      {
-        "text": "Sorry.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/064_sorry.mp3"
-      },
-      {
-        "text": "Sure.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/065_sure.mp3"
-      },
-      {
-        "text": "That's me.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/066_that_s_me.mp3"
-      },
-      {
-        "text": "Then why are you here?",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/067_then_why_are_you_here.mp3"
-      },
-      {
-        "text": "There's no net.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/068_there_s_no_net.mp3"
-      },
-      {
-        "text": "This is between him and me",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/069_this_is_between_him_and_me.mp3"
-      },
-      {
-        "text": "This is Walter White breaking",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/070_this_is_walter_white_breaking.mp3"
-      },
-      {
         "text": "Did you learn nothing in my class?",
         "character": "",
         "audioUrl": "audio/breaking-bad/071_volume_metric_flask_is_for_general_mixing_and_titration_you.mp3"
       },
       {
-        "text": "What about the side effects?",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/072_what_about_the_side_effects.mp3"
-      },
-      {
-        "text": "What did you just say?",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/073_what_did_you_just_say.mp3"
-      },
-      {
-        "text": "What does your dad do?",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/074_what_does_your_dad_do.mp3"
-      },
-      {
         "text": "Climb down out of my ass",
         "character": "",
         "audioUrl": "audio/breaking-bad/075_what_i_need_is_for_you_to_climb_down_out_of_my_ass.mp3"
-      },
-      {
-        "text": "His reputation for violence?",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/076_what_is_his_reputation_for_violence.mp3"
-      },
-      {
-        "text": "What the hell are you doing here?",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/077_what_the_hell_are_you_doing_here.mp3"
-      },
-      {
-        "text": "What the hell is wrong with you?",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/078_what_the_hell_is_wrong_with_you.mp3"
       },
       {
         "text": "I'm really asking",
@@ -828,54 +558,9 @@ const shows = [
         "audioUrl": "audio/breaking-bad/083_wow_i_don_t_know_what_this_stuff_is_but_it_s_pretty_great.mp3"
       },
       {
-        "text": "Yeah, I remember that",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/084_yeah_no_i_remember_that.mp3"
-      },
-      {
-        "text": "Yeah, you got it.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/085_yeah_you_got_it.mp3"
-      },
-      {
-        "text": "Yes, absolutely.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/086_yes_absolutely.mp3"
-      },
-      {
         "text": "Of course I would",
         "character": "",
         "audioUrl": "audio/breaking-bad/087_yes_i_would_of_course_i_would.mp3"
-      },
-      {
-        "text": "Yes, yes indeed.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/088_yes_yes_indeed.mp3"
-      },
-      {
-        "text": "Yes.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/089_yes.mp3"
-      },
-      {
-        "text": "Yes.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/090_yes.mp3"
-      },
-      {
-        "text": "Yes.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/091_yes.mp3"
-      },
-      {
-        "text": "You all know exactly who I am",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/092_you_all_know_exactly_who_i_am.mp3"
-      },
-      {
-        "text": "You and I could partner up",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/093_you_and_i_could_partner_up.mp3"
       },
       {
         "text": "You are a pathetic junkie",
@@ -883,59 +568,9 @@ const shows = [
         "audioUrl": "audio/breaking-bad/094_you_are_a_pathetic_junkie_too_stupid_to_understand_and_follo.mp3"
       },
       {
-        "text": "You are not good at all",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/095_you_are_not_good_at_all.mp3"
-      },
-      {
-        "text": "Don't say what I think",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/096_you_better_not_be_saying_what_i_think_you_re_saying.mp3"
-      },
-      {
-        "text": "Any future that you want",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/097_you_can_have_any_future_that_you_want.mp3"
-      },
-      {
         "text": "Charge twice the rate",
         "character": "",
         "audioUrl": "audio/breaking-bad/098_you_could_charge_twice_the_current_rate_for_what_i_provide_a.mp3"
-      },
-      {
-        "text": "You got nothing.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/099_you_got_nothing.mp3"
-      },
-      {
-        "text": "You lost your partner today",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/100_you_lost_your_partner_today.mp3"
-      },
-      {
-        "text": "You stupid bitch.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/101_you_stupid_bitch.mp3"
-      },
-      {
-        "text": "You wouldn't cook in one of these",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/102_you_wouldn_t_cook_in_one_of_these.mp3"
-      },
-      {
-        "text": "You're God damn right.",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/103_you_re_god_damn_right.mp3"
-      },
-      {
-        "text": "$80 million",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/104_80_million.mp3"
-      },
-      {
-        "text": "$90,000",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/105_90_000.mp3"
       },
       {
         "text": "Jesus, God, shut up",
@@ -1346,6 +981,116 @@ const shows = [
         "text": "This way to savings",
         "character": "",
         "audioUrl": "audio/breaking-bad/195_this_way_to_savings_this_way_to_savings_come_on_save_some_m.mp3"
+      },
+      {
+        "text": "Angry pizza throw",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/196_angry_pizza_throw.mp3"
+      },
+      {
+        "text": "Explain yourself",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/207_explain_yourself.mp3"
+      },
+      {
+        "text": "Family is all",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/208_family_is_all.mp3"
+      },
+      {
+        "text": "Happy Birthday Walt",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/211_happy_birthday_walt.mp3"
+      },
+      {
+        "text": "He can't keep getting away with it",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/212_he_can_t_keep_getting_away_with_it.mp3"
+      },
+      {
+        "text": "I am the One Who Knocks",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/215_i_am_the_one_who_knocks.mp3"
+      },
+      {
+        "text": "I'm the Man Who Killed Gus Fring",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/220_i_m_the_man_who_killed_gus_fring.mp3"
+      },
+      {
+        "text": "It can be done",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/221_it_can_be_done.mp3"
+      },
+      {
+        "text": "Jesse Crying",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/223_jesse_crying.mp3"
+      },
+      {
+        "text": "No dice",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/227_no_dice.mp3"
+      },
+      {
+        "text": "Recognize who's in charge",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/230_recognize_who_s_in_charge.mp3"
+      },
+      {
+        "text": "Say my name (extended)",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/232_say_my_name_extended.mp3"
+      },
+      {
+        "text": "Sleepy",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/236_sleepy.mp3"
+      },
+      {
+        "text": "Stay out of my territory",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/237_stay_out_of_my_territory.mp3"
+      },
+      {
+        "text": "This is Bullshit",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/239_this_is_bullshit.mp3"
+      },
+      {
+        "text": "TIGHT TIGHT TIGHT",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/240_tight_tight_tight.mp3"
+      },
+      {
+        "text": "Today is the first day of the rest of your life",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/241_today_is_the_first_day_of_the_rest_of_your_life.mp3"
+      },
+      {
+        "text": "Tomorrow",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/242_tomorrow.mp3"
+      },
+      {
+        "text": "Tread lightly",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/243_tread_lightly.mp3"
+      },
+      {
+        "text": "Where's My Money",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/248_where_s_my_money.mp3"
+      },
+      {
+        "text": "Yeah bitch! Magnets!",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/249_yeah_bitch_magnets.mp3"
+      },
+      {
+        "text": "You got me",
+        "character": "",
+        "audioUrl": "audio/breaking-bad/253_you_got_me.mp3"
       }
     ]
   },
@@ -1360,11 +1105,6 @@ const shows = [
     },
     "text_style": "title",
     "quotes": [
-      {
-        "text": "A little scheduling mixup",
-        "character": "",
-        "audioUrl": "audio/family-guy/001_a_little_scheduling_mixup.mp3"
-      },
       {
         "text": "Adam West ringing doorbells",
         "character": "",
@@ -1406,24 +1146,14 @@ const shows = [
         "audioUrl": "audio/family-guy/009_ah_san_francisco.mp3"
       },
       {
-        "text": "Al Gore Celebrating",
+        "text": "Al Gore celebrating",
         "character": "",
         "audioUrl": "audio/family-guy/010_al_gore_celebrating.mp3"
       },
       {
-        "text": "Alarm Clock",
-        "character": "",
-        "audioUrl": "audio/family-guy/011_alarm_clock.mp3"
-      },
-      {
-        "text": "All This Money",
+        "text": "All this money",
         "character": "",
         "audioUrl": "audio/family-guy/012_all_this_money.mp3"
-      },
-      {
-        "text": "Almost",
-        "character": "",
-        "audioUrl": "audio/family-guy/013_almost.mp3"
       },
       {
         "text": "Alone and frightened Lois",
@@ -1436,14 +1166,9 @@ const shows = [
         "audioUrl": "audio/family-guy/015_april_fools.mp3"
       },
       {
-        "text": "Aquaman Doesn't Help",
+        "text": "Aquaman doesn't help",
         "character": "",
         "audioUrl": "audio/family-guy/016_aquaman_doesn_t_help.mp3"
-      },
-      {
-        "text": "Are you a pedophile?",
-        "character": "",
-        "audioUrl": "audio/family-guy/017_are_you_a_pedophile.mp3"
       },
       {
         "text": "Avoid at all costs",
@@ -1451,14 +1176,9 @@ const shows = [
         "audioUrl": "audio/family-guy/018_avoid_at_all_costs.mp3"
       },
       {
-        "text": "Ba Dum Tss",
+        "text": "Ba dum tss",
         "character": "",
         "audioUrl": "audio/family-guy/019_ba_dum_tss.mp3"
-      },
-      {
-        "text": "Baba Booey",
-        "character": "",
-        "audioUrl": "audio/family-guy/020_baba_booey.mp3"
       },
       {
         "text": "Back in the civilized north",
@@ -1466,29 +1186,9 @@ const shows = [
         "audioUrl": "audio/family-guy/021_back_in_the_civilized_north.mp3"
       },
       {
-        "text": "Bad day to carpool",
-        "character": "",
-        "audioUrl": "audio/family-guy/022_bad_day_to_carpool.mp3"
-      },
-      {
-        "text": "Be a man",
-        "character": "",
-        "audioUrl": "audio/family-guy/023_be_a_man.mp3"
-      },
-      {
         "text": "Best sex I have ever had",
         "character": "",
         "audioUrl": "audio/family-guy/024_best_sex_i_have_ever_had.mp3"
-      },
-      {
-        "text": "Big whoop, want to fight about it?",
-        "character": "",
-        "audioUrl": "audio/family-guy/025_big_whoop_want_to_fight_about_it.mp3"
-      },
-      {
-        "text": "Bingo bitches",
-        "character": "",
-        "audioUrl": "audio/family-guy/026_bingo_bitches.mp3"
       },
       {
         "text": "Bird's the word",
@@ -1511,7 +1211,7 @@ const shows = [
         "audioUrl": "audio/family-guy/030_boat_ramp.mp3"
       },
       {
-        "text": "Bob Belcher and Archer Impressions",
+        "text": "Bob Belcher and Archer impressions",
         "character": "",
         "audioUrl": "audio/family-guy/031_bob_belcher_and_archer_impressions.mp3"
       },
@@ -1526,14 +1226,9 @@ const shows = [
         "audioUrl": "audio/family-guy/033_booger_breath_and_mushroom_tip.mp3"
       },
       {
-        "text": "Bow Chicka Wow Wow",
+        "text": "Bow chicka wow wow",
         "character": "",
         "audioUrl": "audio/family-guy/034_bow_chicka_wow_wow.mp3"
-      },
-      {
-        "text": "Breaking News",
-        "character": "",
-        "audioUrl": "audio/family-guy/035_breaking_news.mp3"
       },
       {
         "text": "Brian Come here you bastard",
@@ -1541,7 +1236,7 @@ const shows = [
         "audioUrl": "audio/family-guy/036_brian_come_here_you_bastard.mp3"
       },
       {
-        "text": "Brian Kisses Bonnie",
+        "text": "Brian kisses Bonnie",
         "character": "",
         "audioUrl": "audio/family-guy/037_brian_kisses_bonnie.mp3"
       },
@@ -1551,7 +1246,7 @@ const shows = [
         "audioUrl": "audio/family-guy/038_brian_questions_your_relationship_with_your_assistant.mp3"
       },
       {
-        "text": "Brian Snoopy Dance",
+        "text": "Brian Snoopy dance",
         "character": "",
         "audioUrl": "audio/family-guy/039_brian_snoopy_dance.mp3"
       },
@@ -1561,19 +1256,9 @@ const shows = [
         "audioUrl": "audio/family-guy/040_bring_it_on.mp3"
       },
       {
-        "text": "Bruce Oooh Noo",
-        "character": "",
-        "audioUrl": "audio/family-guy/041_bruce_oooh_noo.mp3"
-      },
-      {
         "text": "But it just might work",
         "character": "",
         "audioUrl": "audio/family-guy/042_but_it_just_might_work.mp3"
-      },
-      {
-        "text": "But your way is good too",
-        "character": "",
-        "audioUrl": "audio/family-guy/043_but_your_way_is_good_too.mp3"
       },
       {
         "text": "Butt on Carpet",
@@ -1591,19 +1276,9 @@ const shows = [
         "audioUrl": "audio/family-guy/046_call_me_call_me_call_me.mp3"
       },
       {
-        "text": "Can I talk to you for a second",
-        "character": "",
-        "audioUrl": "audio/family-guy/047_can_i_talk_to_you_for_a_second.mp3"
-      },
-      {
         "text": "Can my wife get you anything?",
         "character": "",
         "audioUrl": "audio/family-guy/048_can_my_wife_get_you_anything.mp3"
-      },
-      {
-        "text": "Can't it be both",
-        "character": "",
-        "audioUrl": "audio/family-guy/049_can_t_it_be_both.mp3"
       },
       {
         "text": "Can't tell anyone!",
@@ -1611,7 +1286,7 @@ const shows = [
         "audioUrl": "audio/family-guy/050_can_t_tell_anyone.mp3"
       },
       {
-        "text": "Cant Touch Me",
+        "text": "Can't touch me",
         "character": "",
         "audioUrl": "audio/family-guy/051_cant_touch_me.mp3"
       },
@@ -1621,29 +1296,9 @@ const shows = [
         "audioUrl": "audio/family-guy/052_cat_launcher.mp3"
       },
       {
-        "text": "Chris there you are!",
-        "character": "",
-        "audioUrl": "audio/family-guy/053_chris_there_you_are.mp3"
-      },
-      {
-        "text": "Chris Trick or Treat",
-        "character": "",
-        "audioUrl": "audio/family-guy/054_chris_trick_or_treat.mp3"
-      },
-      {
-        "text": "Chris?",
-        "character": "",
-        "audioUrl": "audio/family-guy/055_chris.mp3"
-      },
-      {
         "text": "Christmas time is killing us!",
         "character": "",
         "audioUrl": "audio/family-guy/056_christmas_time_is_killing_us.mp3"
-      },
-      {
-        "text": "Cleveland Brown Jr",
-        "character": "",
-        "audioUrl": "audio/family-guy/057_cleveland_brown_jr.mp3"
       },
       {
         "text": "Close the Door!",
@@ -1656,34 +1311,14 @@ const shows = [
         "audioUrl": "audio/family-guy/059_clown_porn.mp3"
       },
       {
-        "text": "Cock a doodle doo",
-        "character": "",
-        "audioUrl": "audio/family-guy/060_cock_a_doodle_doo.mp3"
-      },
-      {
         "text": "Congratulations...",
         "character": "",
         "audioUrl": "audio/family-guy/061_congratulations.mp3"
       },
       {
-        "text": "Cook off",
-        "character": "",
-        "audioUrl": "audio/family-guy/062_cook_off.mp3"
-      },
-      {
         "text": "Cookie!",
         "character": "",
         "audioUrl": "audio/family-guy/063_cookie.mp3"
-      },
-      {
-        "text": "Cool Move",
-        "character": "",
-        "audioUrl": "audio/family-guy/064_cool_move.mp3"
-      },
-      {
-        "text": "Count it",
-        "character": "",
-        "audioUrl": "audio/family-guy/065_count_it.mp3"
       },
       {
         "text": "Couple of squares, squaresville I tell ya!",
@@ -1711,16 +1346,6 @@ const shows = [
         "audioUrl": "audio/family-guy/070_daddy_s_home.mp3"
       },
       {
-        "text": "Damn it",
-        "character": "",
-        "audioUrl": "audio/family-guy/071_damn_it.mp3"
-      },
-      {
-        "text": "Damn nature, you scary",
-        "character": "",
-        "audioUrl": "audio/family-guy/072_damn_nature_you_scary.mp3"
-      },
-      {
         "text": "Dance the dance of life",
         "character": "",
         "audioUrl": "audio/family-guy/073_dance_the_dance_of_life.mp3"
@@ -1731,12 +1356,7 @@ const shows = [
         "audioUrl": "audio/family-guy/074_dancing_to_fnaf.mp3"
       },
       {
-        "text": "Dear god",
-        "character": "",
-        "audioUrl": "audio/family-guy/075_dear_god.mp3"
-      },
-      {
-        "text": "Deliciously White Trash",
+        "text": "Deliciously white trash",
         "character": "",
         "audioUrl": "audio/family-guy/076_deliciously_white_trash.mp3"
       },
@@ -1751,12 +1371,7 @@ const shows = [
         "audioUrl": "audio/family-guy/078_diego_sweaty.mp3"
       },
       {
-        "text": "Ding Fries Are Done",
-        "character": "",
-        "audioUrl": "audio/family-guy/079_ding_fries_are_done.mp3"
-      },
-      {
-        "text": "Dip Dip Dip Dip Dip",
+        "text": "Dip dip dip dip dip",
         "character": "",
         "audioUrl": "audio/family-guy/080_dip_dip_dip_dip_dip.mp3"
       },
@@ -1766,7 +1381,7 @@ const shows = [
         "audioUrl": "audio/family-guy/081_diving_into_money.mp3"
       },
       {
-        "text": "Do It In Front of Me",
+        "text": "Do it in front of me",
         "character": "",
         "audioUrl": "audio/family-guy/082_do_it_in_front_of_me.mp3"
       },
@@ -1791,14 +1406,9 @@ const shows = [
         "audioUrl": "audio/family-guy/086_do_you_know_about_the_bird.mp3"
       },
       {
-        "text": "Do You Know What Time it Is?",
+        "text": "Do you know what time it is?",
         "character": "",
         "audioUrl": "audio/family-guy/087_do_you_know_what_time_it_is.mp3"
-      },
-      {
-        "text": "Do You Listen to Yourself When You Talk",
-        "character": "",
-        "audioUrl": "audio/family-guy/088_do_you_listen_to_yourself_when_you_talk.mp3"
       },
       {
         "text": "Does that sideboob turn you on?",
@@ -1811,24 +1421,9 @@ const shows = [
         "audioUrl": "audio/family-guy/090_don_t_get_mad.mp3"
       },
       {
-        "text": "Don't make me do stuff",
-        "character": "",
-        "audioUrl": "audio/family-guy/091_don_t_make_me_do_stuff.mp3"
-      },
-      {
-        "text": "Don't Mouth Off to Me",
+        "text": "Don't mouth off to me",
         "character": "",
         "audioUrl": "audio/family-guy/092_don_t_mouth_off_to_me.mp3"
-      },
-      {
-        "text": "Don't you want to have sex",
-        "character": "",
-        "audioUrl": "audio/family-guy/093_don_t_you_want_to_have_sex.mp3"
-      },
-      {
-        "text": "Done!",
-        "character": "",
-        "audioUrl": "audio/family-guy/094_done.mp3"
       },
       {
         "text": "Dramatic exit",
@@ -1836,34 +1431,14 @@ const shows = [
         "audioUrl": "audio/family-guy/095_dramatic_exit.mp3"
       },
       {
-        "text": "Dynomite!",
-        "character": "",
-        "audioUrl": "audio/family-guy/096_dynomite.mp3"
-      },
-      {
-        "text": "Educate yourself, fool",
-        "character": "",
-        "audioUrl": "audio/family-guy/097_educate_yourself_fool.mp3"
-      },
-      {
         "text": "Ellen Interrupts",
         "character": "",
         "audioUrl": "audio/family-guy/098_ellen_interrupts.mp3"
       },
       {
-        "text": "Enjoy your weird bath",
-        "character": "",
-        "audioUrl": "audio/family-guy/099_enjoy_your_weird_bath.mp3"
-      },
-      {
         "text": "Escaped from Kevin Spacey's basement",
         "character": "",
         "audioUrl": "audio/family-guy/100_escaped_from_kevin_spacey_s_basement.mp3"
-      },
-      {
-        "text": "Everybody spit on Meg!",
-        "character": "",
-        "audioUrl": "audio/family-guy/101_everybody_spit_on_meg.mp3"
       },
       {
         "text": "Everything is better with a bag of weed",
@@ -1876,14 +1451,9 @@ const shows = [
         "audioUrl": "audio/family-guy/103_everything_is_better_with_a_bag_of_weed.mp3"
       },
       {
-        "text": "Evil Monkey Points",
+        "text": "Evil Monkey points",
         "character": "",
         "audioUrl": "audio/family-guy/104_evil_monkey_points.mp3"
-      },
-      {
-        "text": "Ewww",
-        "character": "",
-        "audioUrl": "audio/family-guy/105_ewww.mp3"
       },
       {
         "text": "Excited Stewie doing laps",
@@ -1896,19 +1466,9 @@ const shows = [
         "audioUrl": "audio/family-guy/107_excruciating.mp3"
       },
       {
-        "text": "Excuse me",
-        "character": "",
-        "audioUrl": "audio/family-guy/108_excuse_me.mp3"
-      },
-      {
         "text": "Exit while checking out the hot chick by the door",
         "character": "",
         "audioUrl": "audio/family-guy/109_exit_while_checking_out_the_hot_chick_by_the_door.mp3"
-      },
-      {
-        "text": "Fact",
-        "character": "",
-        "audioUrl": "audio/family-guy/110_fact.mp3"
       },
       {
         "text": "Falling down stairs",
@@ -1916,49 +1476,39 @@ const shows = [
         "audioUrl": "audio/family-guy/111_falling_down_stairs.mp3"
       },
       {
-        "text": "Family Guy Bad Joke",
+        "text": "Bad joke",
         "character": "",
         "audioUrl": "audio/family-guy/112_family_guy_bad_joke.mp3"
       },
       {
-        "text": "Family Guy dance to FNAF",
+        "text": "Dance to FNAF",
         "character": "",
         "audioUrl": "audio/family-guy/113_family_guy_dance_to_fnaf.mp3"
       },
       {
-        "text": "Family Guy Irish dance",
+        "text": "Irish dance",
         "character": "",
         "audioUrl": "audio/family-guy/114_family_guy_irish_dance.mp3"
       },
       {
-        "text": "Family Guy It's a Wonderful Day for Pie",
+        "text": "It's a Wonderful Day for Pie",
         "character": "",
         "audioUrl": "audio/family-guy/115_family_guy_it_s_a_wonderful_day_for_pie.mp3"
       },
       {
-        "text": "Family Guy Matt",
+        "text": "Matt",
         "character": "",
         "audioUrl": "audio/family-guy/116_family_guy_matt.mp3"
       },
       {
-        "text": "Family Guy mum",
+        "text": "Mum",
         "character": "",
         "audioUrl": "audio/family-guy/117_family_guy_mum.mp3"
       },
       {
-        "text": "Family Guy Puke",
+        "text": "Puke",
         "character": "",
         "audioUrl": "audio/family-guy/118_family_guy_puke.mp3"
-      },
-      {
-        "text": "Family Guy Strangely Arousing",
-        "character": "",
-        "audioUrl": "audio/family-guy/119_family_guy_strangely_arousing.mp3"
-      },
-      {
-        "text": "Fart",
-        "character": "",
-        "audioUrl": "audio/family-guy/120_fart.mp3"
       },
       {
         "text": "Fart Hole",
@@ -1981,11 +1531,6 @@ const shows = [
         "audioUrl": "audio/family-guy/124_fart_song.mp3"
       },
       {
-        "text": "Farting Bubble Gum",
-        "character": "",
-        "audioUrl": "audio/family-guy/125_farting_bubble_gum.mp3"
-      },
-      {
         "text": "FG Farting",
         "character": "",
         "audioUrl": "audio/family-guy/126_fg_farting.mp3"
@@ -1994,11 +1539,6 @@ const shows = [
         "text": "Following fat guy with tuba",
         "character": "",
         "audioUrl": "audio/family-guy/127_following_fat_guy_with_tuba.mp3"
-      },
-      {
-        "text": "Football",
-        "character": "",
-        "audioUrl": "audio/family-guy/128_football.mp3"
       },
       {
         "text": "Fozzie Bear arab joke",
@@ -2011,24 +1551,9 @@ const shows = [
         "audioUrl": "audio/family-guy/130_fuck_it_we_ll_do_it_live.mp3"
       },
       {
-        "text": "Fuck off",
-        "character": "",
-        "audioUrl": "audio/family-guy/131_fuck_off.mp3"
-      },
-      {
-        "text": "Fucking idiot",
-        "character": "",
-        "audioUrl": "audio/family-guy/132_fucking_idiot.mp3"
-      },
-      {
-        "text": "Get Back In Here and Love Me!",
+        "text": "Get back in here and love me!",
         "character": "",
         "audioUrl": "audio/family-guy/133_get_back_in_here_and_love_me.mp3"
-      },
-      {
-        "text": "Get naked",
-        "character": "",
-        "audioUrl": "audio/family-guy/134_get_naked.mp3"
       },
       {
         "text": "Get out of this house!",
@@ -2041,11 +1566,6 @@ const shows = [
         "audioUrl": "audio/family-guy/136_get_some_rest.mp3"
       },
       {
-        "text": "Get your fat ass back here",
-        "character": "",
-        "audioUrl": "audio/family-guy/137_get_your_fat_ass_back_here.mp3"
-      },
-      {
         "text": "Getting all the A's out of my body",
         "character": "",
         "audioUrl": "audio/family-guy/138_getting_all_the_a_s_out_of_my_body.mp3"
@@ -2054,16 +1574,6 @@ const shows = [
         "text": "Giant Robot thumbs up",
         "character": "",
         "audioUrl": "audio/family-guy/139_giant_robot_thumbs_up.mp3"
-      },
-      {
-        "text": "Giggity giggity giggity goo",
-        "character": "",
-        "audioUrl": "audio/family-guy/140_giggity_giggity_giggity_goo.mp3"
-      },
-      {
-        "text": "Giggity giggity, giggity goo",
-        "character": "",
-        "audioUrl": "audio/family-guy/141_giggity_giggity_giggity_goo.mp3"
       },
       {
         "text": "Giggity goo song",
@@ -2076,12 +1586,7 @@ const shows = [
         "audioUrl": "audio/family-guy/143_giggty.mp3"
       },
       {
-        "text": "Gimme money",
-        "character": "",
-        "audioUrl": "audio/family-guy/144_gimme_money.mp3"
-      },
-      {
-        "text": "Go Pro Failure",
+        "text": "Go Pro failure",
         "character": "",
         "audioUrl": "audio/family-guy/145_go_pro_failure.mp3"
       },
@@ -2089,11 +1594,6 @@ const shows = [
         "text": "Go straighten it out right now!",
         "character": "",
         "audioUrl": "audio/family-guy/146_go_straighten_it_out_right_now.mp3"
-      },
-      {
-        "text": "God what do i do?",
-        "character": "",
-        "audioUrl": "audio/family-guy/147_god_what_do_i_do.mp3"
       },
       {
         "text": "God you are aging so rapidly",
@@ -2106,14 +1606,9 @@ const shows = [
         "audioUrl": "audio/family-guy/149_golf_rage.mp3"
       },
       {
-        "text": "Good Job Local Hen",
+        "text": "Good job local hen",
         "character": "",
         "audioUrl": "audio/family-guy/150_good_job_local_hen.mp3"
-      },
-      {
-        "text": "Good luck",
-        "character": "",
-        "audioUrl": "audio/family-guy/151_good_luck.mp3"
       },
       {
         "text": "Good Morning",
@@ -2121,7 +1616,7 @@ const shows = [
         "audioUrl": "audio/family-guy/152_good_morning.mp3"
       },
       {
-        "text": "Good Morning From Family Guy",
+        "text": "Good morning from Family Guy",
         "character": "",
         "audioUrl": "audio/family-guy/153_good_morning_from_family_guy.mp3"
       },
@@ -2131,39 +1626,9 @@ const shows = [
         "audioUrl": "audio/family-guy/154_good_night.mp3"
       },
       {
-        "text": "Good night everybody!",
-        "character": "",
-        "audioUrl": "audio/family-guy/155_good_night_everybody.mp3"
-      },
-      {
-        "text": "Good OJ",
-        "character": "",
-        "audioUrl": "audio/family-guy/156_good_oj.mp3"
-      },
-      {
-        "text": "Good. Good",
-        "character": "",
-        "audioUrl": "audio/family-guy/157_good_good.mp3"
-      },
-      {
         "text": "Goodnight Moon of Chernobyl",
         "character": "",
         "audioUrl": "audio/family-guy/158_goodnight_moon_of_chernobyl.mp3"
-      },
-      {
-        "text": "Got my money?",
-        "character": "",
-        "audioUrl": "audio/family-guy/159_got_my_money.mp3"
-      },
-      {
-        "text": "Got some stuff you want me to do for you?",
-        "character": "",
-        "audioUrl": "audio/family-guy/160_got_some_stuff_you_want_me_to_do_for_you.mp3"
-      },
-      {
-        "text": "Greased up deaf guy",
-        "character": "",
-        "audioUrl": "audio/family-guy/161_greased_up_deaf_guy.mp3"
       },
       {
         "text": "Grimace",
@@ -2171,34 +1636,9 @@ const shows = [
         "audioUrl": "audio/family-guy/162_grimace_mcdonalds.mp3"
       },
       {
-        "text": "Guess Who",
-        "character": "",
-        "audioUrl": "audio/family-guy/163_guess_who.mp3"
-      },
-      {
-        "text": "Guess Who",
-        "character": "",
-        "audioUrl": "audio/family-guy/164_guess_who.mp3"
-      },
-      {
-        "text": "Guilty, guilty, guilty!",
-        "character": "",
-        "audioUrl": "audio/family-guy/165_guilty_guilty_guilty.mp3"
-      },
-      {
         "text": "Guiltyyyyy!",
         "character": "",
         "audioUrl": "audio/family-guy/166_guiltyyyyy.mp3"
-      },
-      {
-        "text": "Haha. You're funny",
-        "character": "",
-        "audioUrl": "audio/family-guy/167_haha_you_re_funny.mp3"
-      },
-      {
-        "text": "Halloween is fun",
-        "character": "",
-        "audioUrl": "audio/family-guy/168_halloween_is_fun.mp3"
       },
       {
         "text": "Happy 4th of July Jack Skellington",
@@ -2231,11 +1671,6 @@ const shows = [
         "audioUrl": "audio/family-guy/174_hello_new_friends.mp3"
       },
       {
-        "text": "Hellooo",
-        "character": "",
-        "audioUrl": "audio/family-guy/175_hellooo.mp3"
-      },
-      {
         "text": "Herbert the Pervert",
         "character": "",
         "audioUrl": "audio/family-guy/176_herbert_the_pervert.mp3"
@@ -2246,29 +1681,9 @@ const shows = [
         "audioUrl": "audio/family-guy/177_herbert_baseball.mp3"
       },
       {
-        "text": "Herbert: Better get that",
-        "character": "",
-        "audioUrl": "audio/family-guy/178_herbert_better_get_that.mp3"
-      },
-      {
-        "text": "Herbert: Call me",
-        "character": "",
-        "audioUrl": "audio/family-guy/179_herbert_call_me.mp3"
-      },
-      {
-        "text": "Herbert: Come down to Cellar",
+        "text": "Herbert: Come down to cellar",
         "character": "",
         "audioUrl": "audio/family-guy/180_herbert_come_down_to_cellar.mp3"
-      },
-      {
-        "text": "Herbert: Come over",
-        "character": "",
-        "audioUrl": "audio/family-guy/181_herbert_come_over.mp3"
-      },
-      {
-        "text": "Herbert: Fat ass",
-        "character": "",
-        "audioUrl": "audio/family-guy/182_herbert_fat_ass.mp3"
       },
       {
         "text": "Herbert: Freezer",
@@ -2276,69 +1691,14 @@ const shows = [
         "audioUrl": "audio/family-guy/183_herbert_freezer.mp3"
       },
       {
-        "text": "Herbert: Good day",
-        "character": "",
-        "audioUrl": "audio/family-guy/184_herbert_good_day.mp3"
-      },
-      {
-        "text": "Herbert: Hello, Kyle",
-        "character": "",
-        "audioUrl": "audio/family-guy/185_herbert_hello_kyle.mp3"
-      },
-      {
-        "text": "Herbert: Hello, Kyle 2",
-        "character": "",
-        "audioUrl": "audio/family-guy/186_herbert_hello_kyle_2.mp3"
-      },
-      {
-        "text": "Herbert: Ice Cream Truck",
+        "text": "Herbert: Ice cream truck",
         "character": "",
         "audioUrl": "audio/family-guy/187_herbert_ice_cream_truck.mp3"
       },
       {
-        "text": "Herbert: Jackpot",
-        "character": "",
-        "audioUrl": "audio/family-guy/188_herbert_jackpot.mp3"
-      },
-      {
-        "text": "Herbert: Mrs",
-        "character": "",
-        "audioUrl": "audio/family-guy/189_herbert_mrs.mp3"
-      },
-      {
-        "text": "Herbert: My BDay",
+        "text": "Herbert: My bday",
         "character": "",
         "audioUrl": "audio/family-guy/190_herbert_my_bday.mp3"
-      },
-      {
-        "text": "Herbert: My BDay 2",
-        "character": "",
-        "audioUrl": "audio/family-guy/191_herbert_my_bday_2.mp3"
-      },
-      {
-        "text": "Herbert: My phone?",
-        "character": "",
-        "audioUrl": "audio/family-guy/192_herbert_my_phone.mp3"
-      },
-      {
-        "text": "Herbert: No Police",
-        "character": "",
-        "audioUrl": "audio/family-guy/193_herbert_no_police.mp3"
-      },
-      {
-        "text": "Herbert: Not for you",
-        "character": "",
-        "audioUrl": "audio/family-guy/194_herbert_not_for_you.mp3"
-      },
-      {
-        "text": "Herbert: Pewterschmidt",
-        "character": "",
-        "audioUrl": "audio/family-guy/195_herbert_pewterschmidt.mp3"
-      },
-      {
-        "text": "Herbert: Rats",
-        "character": "",
-        "audioUrl": "audio/family-guy/196_herbert_rats.mp3"
       },
       {
         "text": "Herbert: Slap you",
@@ -2346,74 +1706,14 @@ const shows = [
         "audioUrl": "audio/family-guy/197_herbert_slap_you.mp3"
       },
       {
-        "text": "Herbert: Sweet Jesus",
-        "character": "",
-        "audioUrl": "audio/family-guy/198_herbert_sweet_jesus.mp3"
-      },
-      {
-        "text": "Herbert: Where are you?",
-        "character": "",
-        "audioUrl": "audio/family-guy/199_herbert_where_are_you.mp3"
-      },
-      {
-        "text": "Herbert: Who needs?",
-        "character": "",
-        "audioUrl": "audio/family-guy/200_herbert_who_needs.mp3"
-      },
-      {
-        "text": "Herbert: Work out",
-        "character": "",
-        "audioUrl": "audio/family-guy/201_herbert_work_out.mp3"
-      },
-      {
         "text": "Here is what i think of your test",
         "character": "",
         "audioUrl": "audio/family-guy/202_here_is_what_i_think_of_your_test.mp3"
       },
       {
-        "text": "Hey Chris",
-        "character": "",
-        "audioUrl": "audio/family-guy/203_hey_chris.mp3"
-      },
-      {
-        "text": "Hey pal not now I'm busy",
-        "character": "",
-        "audioUrl": "audio/family-guy/204_hey_pal_not_now_i_m_busy.mp3"
-      },
-      {
-        "text": "Hey you, what's your name?",
-        "character": "",
-        "audioUrl": "audio/family-guy/205_hey_you_what_s_your_name.mp3"
-      },
-      {
         "text": "Hey, Shut up",
         "character": "",
         "audioUrl": "audio/family-guy/206_hey_shut_up.mp3"
-      },
-      {
-        "text": "Hi",
-        "character": "",
-        "audioUrl": "audio/family-guy/207_hi.mp3"
-      },
-      {
-        "text": "Hi",
-        "character": "",
-        "audioUrl": "audio/family-guy/208_hi.mp3"
-      },
-      {
-        "text": "Hi Five",
-        "character": "",
-        "audioUrl": "audio/family-guy/209_hi_five.mp3"
-      },
-      {
-        "text": "High Five",
-        "character": "",
-        "audioUrl": "audio/family-guy/210_high_five.mp3"
-      },
-      {
-        "text": "Hit me",
-        "character": "",
-        "audioUrl": "audio/family-guy/211_hit_me.mp3"
       },
       {
         "text": "Hollywood Fart",
@@ -2431,19 +1731,9 @@ const shows = [
         "audioUrl": "audio/family-guy/214_horse_licking_peter_s_butt.mp3"
       },
       {
-        "text": "Horse Whipping Man",
-        "character": "",
-        "audioUrl": "audio/family-guy/215_horse_whipping_man.mp3"
-      },
-      {
         "text": "House Keeping",
         "character": "",
         "audioUrl": "audio/family-guy/216_house_keeping.mp3"
-      },
-      {
-        "text": "How about some whipped cream",
-        "character": "",
-        "audioUrl": "audio/family-guy/217_how_about_some_whipped_cream.mp3"
       },
       {
         "text": "How deliciously evil!",
@@ -2456,29 +1746,14 @@ const shows = [
         "audioUrl": "audio/family-guy/219_how_do_you_not_know_about_trick_or_treating.mp3"
       },
       {
-        "text": "How was your first day?",
-        "character": "",
-        "audioUrl": "audio/family-guy/220_how_was_your_first_day.mp3"
-      },
-      {
         "text": "Hug it out",
         "character": "",
         "audioUrl": "audio/family-guy/221_hug_it_out.mp3"
       },
       {
-        "text": "Huh, maybe",
-        "character": "",
-        "audioUrl": "audio/family-guy/222_huh_maybe.mp3"
-      },
-      {
         "text": "I admit it, You were right",
         "character": "",
         "audioUrl": "audio/family-guy/223_i_admit_it_you_were_right.mp3"
-      },
-      {
-        "text": "I am a Catholic",
-        "character": "",
-        "audioUrl": "audio/family-guy/224_i_am_a_catholic.mp3"
       },
       {
         "text": "I am out of here!",
@@ -2491,34 +1766,14 @@ const shows = [
         "audioUrl": "audio/family-guy/226_i_am_possibly_homosexual_never_brush_my_teeth.mp3"
       },
       {
-        "text": "I am so confused",
-        "character": "",
-        "audioUrl": "audio/family-guy/227_i_am_so_confused.mp3"
-      },
-      {
         "text": "I am so ready",
         "character": "",
         "audioUrl": "audio/family-guy/228_i_am_so_ready.mp3"
       },
       {
-        "text": "I am very angry with you",
-        "character": "",
-        "audioUrl": "audio/family-guy/229_i_am_very_angry_with_you.mp3"
-      },
-      {
-        "text": "I can't find a job anywhere",
-        "character": "",
-        "audioUrl": "audio/family-guy/230_i_can_t_find_a_job_anywhere.mp3"
-      },
-      {
         "text": "I clean toilet",
         "character": "",
         "audioUrl": "audio/family-guy/231_i_clean_toilet.mp3"
-      },
-      {
-        "text": "I don't know",
-        "character": "",
-        "audioUrl": "audio/family-guy/232_i_don_t_know.mp3"
       },
       {
         "text": "I don't know what else I can say",
@@ -2531,34 +1786,9 @@ const shows = [
         "audioUrl": "audio/family-guy/234_i_don_t_know_goofy_laugh.mp3"
       },
       {
-        "text": "I find your attitude cavalier",
-        "character": "",
-        "audioUrl": "audio/family-guy/235_i_find_your_attitude_cavalier.mp3"
-      },
-      {
-        "text": "I guess this is the night bitches die",
-        "character": "",
-        "audioUrl": "audio/family-guy/236_i_guess_this_is_the_night_bitches_die.mp3"
-      },
-      {
-        "text": "I hate you",
-        "character": "",
-        "audioUrl": "audio/family-guy/237_i_hate_you.mp3"
-      },
-      {
-        "text": "I have good news and Aye Yai Yai news",
-        "character": "",
-        "audioUrl": "audio/family-guy/238_i_have_good_news_and_aye_yai_yai_news.mp3"
-      },
-      {
         "text": "I have got the most beautiful woman at home",
         "character": "",
         "audioUrl": "audio/family-guy/239_i_have_got_the_most_beautiful_woman_at_home.mp3"
-      },
-      {
-        "text": "I HAVE SPOKEN",
-        "character": "",
-        "audioUrl": "audio/family-guy/240_i_have_spoken.mp3"
       },
       {
         "text": "I hope we don't up on the news",
@@ -2576,16 +1806,6 @@ const shows = [
         "audioUrl": "audio/family-guy/243_i_just_wanna_talk_to_him.mp3"
       },
       {
-        "text": "I just want to punch them",
-        "character": "",
-        "audioUrl": "audio/family-guy/244_i_just_want_to_punch_them.mp3"
-      },
-      {
-        "text": "I knew this was gonna happen",
-        "character": "",
-        "audioUrl": "audio/family-guy/245_i_knew_this_was_gonna_happen.mp3"
-      },
-      {
         "text": "I love women",
         "character": "",
         "audioUrl": "audio/family-guy/246_i_love_women.mp3"
@@ -2596,19 +1816,9 @@ const shows = [
         "audioUrl": "audio/family-guy/247_i_love_you_flowers.mp3"
       },
       {
-        "text": "I need help unloading the groceries",
-        "character": "",
-        "audioUrl": "audio/family-guy/248_i_need_help_unloading_the_groceries.mp3"
-      },
-      {
         "text": "I need to use the bathroom",
         "character": "",
         "audioUrl": "audio/family-guy/249_i_need_to_use_the_bathroom.mp3"
-      },
-      {
-        "text": "I never sleep",
-        "character": "",
-        "audioUrl": "audio/family-guy/250_i_never_sleep.mp3"
       },
       {
         "text": "I told ya",
@@ -2626,29 +1836,9 @@ const shows = [
         "audioUrl": "audio/family-guy/253_i_want_a_hug.mp3"
       },
       {
-        "text": "I Want It Now",
+        "text": "I want it now",
         "character": "",
         "audioUrl": "audio/family-guy/254_i_want_it_now.mp3"
-      },
-      {
-        "text": "I want to have your baby",
-        "character": "",
-        "audioUrl": "audio/family-guy/255_i_want_to_have_your_baby.mp3"
-      },
-      {
-        "text": "I was trying to be sexy for you",
-        "character": "",
-        "audioUrl": "audio/family-guy/256_i_was_trying_to_be_sexy_for_you.mp3"
-      },
-      {
-        "text": "I would suggest that you suck that",
-        "character": "",
-        "audioUrl": "audio/family-guy/257_i_would_suggest_that_you_suck_that.mp3"
-      },
-      {
-        "text": "I'm a black guy",
-        "character": "",
-        "audioUrl": "audio/family-guy/258_i_m_a_black_guy.mp3"
       },
       {
         "text": "I'm a Broom",
@@ -2666,14 +1856,9 @@ const shows = [
         "audioUrl": "audio/family-guy/261_i_m_always_happy_to_meet_one_of_your_friends.mp3"
       },
       {
-        "text": "I'm Half Shark and Half Peter",
+        "text": "I'm half shark and half Peter",
         "character": "",
         "audioUrl": "audio/family-guy/262_i_m_half_shark_and_half_peter.mp3"
-      },
-      {
-        "text": "I'm having a good time",
-        "character": "",
-        "audioUrl": "audio/family-guy/263_i_m_having_a_good_time.mp3"
       },
       {
         "text": "I'm having a heart attack ack ack ack",
@@ -2686,24 +1871,9 @@ const shows = [
         "audioUrl": "audio/family-guy/265_i_m_just_not_in_that_kind_of_mood_right_now.mp3"
       },
       {
-        "text": "I'm losing control of the situation",
-        "character": "",
-        "audioUrl": "audio/family-guy/266_i_m_losing_control_of_the_situation.mp3"
-      },
-      {
         "text": "I'm not a strong reader",
         "character": "",
         "audioUrl": "audio/family-guy/267_i_m_not_a_strong_reader.mp3"
-      },
-      {
-        "text": "I'm not lying",
-        "character": "",
-        "audioUrl": "audio/family-guy/268_i_m_not_lying.mp3"
-      },
-      {
-        "text": "I'm screwed",
-        "character": "",
-        "audioUrl": "audio/family-guy/269_i_m_screwed.mp3"
       },
       {
         "text": "I'm so sorry",
@@ -2731,21 +1901,6 @@ const shows = [
         "audioUrl": "audio/family-guy/274_indecisive.mp3"
       },
       {
-        "text": "Irony",
-        "character": "",
-        "audioUrl": "audio/family-guy/275_irony.mp3"
-      },
-      {
-        "text": "Irony",
-        "character": "",
-        "audioUrl": "audio/family-guy/276_irony.mp3"
-      },
-      {
-        "text": "Is there anymore coffee?",
-        "character": "",
-        "audioUrl": "audio/family-guy/277_is_there_anymore_coffee.mp3"
-      },
-      {
         "text": "It ain't easy being cheesy",
         "character": "",
         "audioUrl": "audio/family-guy/278_it_ain_t_easy_being_cheesy.mp3"
@@ -2754,11 +1909,6 @@ const shows = [
         "text": "It appears my cranium has doubled in size",
         "character": "",
         "audioUrl": "audio/family-guy/279_it_appears_my_cranium_has_doubled_in_size.mp3"
-      },
-      {
-        "text": "It is snowing!",
-        "character": "",
-        "audioUrl": "audio/family-guy/280_it_is_snowing.mp3"
       },
       {
         "text": "It might be difficult for you to hear",
@@ -2771,21 +1921,6 @@ const shows = [
         "audioUrl": "audio/family-guy/282_it_puts_the_lotions_on_its_skin.mp3"
       },
       {
-        "text": "It's for his job",
-        "character": "",
-        "audioUrl": "audio/family-guy/283_it_s_for_his_job.mp3"
-      },
-      {
-        "text": "It's Gonna Rain",
-        "character": "",
-        "audioUrl": "audio/family-guy/284_it_s_gonna_rain.mp3"
-      },
-      {
-        "text": "It's more magical than I imagined",
-        "character": "",
-        "audioUrl": "audio/family-guy/285_it_s_more_magical_than_i_imagined.mp3"
-      },
-      {
         "text": "It's not all about action",
         "character": "",
         "audioUrl": "audio/family-guy/286_it_s_not_all_about_action.mp3"
@@ -2796,49 +1931,9 @@ const shows = [
         "audioUrl": "audio/family-guy/287_it_s_not_okay_to_be_a_freshman.mp3"
       },
       {
-        "text": "It's Not The Wind",
-        "character": "",
-        "audioUrl": "audio/family-guy/288_it_s_not_the_wind.mp3"
-      },
-      {
-        "text": "It's okay",
-        "character": "",
-        "audioUrl": "audio/family-guy/289_it_s_okay.mp3"
-      },
-      {
-        "text": "It's okay",
-        "character": "",
-        "audioUrl": "audio/family-guy/290_it_s_okay.mp3"
-      },
-      {
         "text": "It's raining bitches",
         "character": "",
         "audioUrl": "audio/family-guy/291_it_s_raining_bitches.mp3"
-      },
-      {
-        "text": "It's unbelievable",
-        "character": "",
-        "audioUrl": "audio/family-guy/292_it_s_unbelievable.mp3"
-      },
-      {
-        "text": "Jaw Drop",
-        "character": "",
-        "audioUrl": "audio/family-guy/293_jaw_drop.mp3"
-      },
-      {
-        "text": "Jeez what was that about?",
-        "character": "",
-        "audioUrl": "audio/family-guy/294_jeez_what_was_that_about.mp3"
-      },
-      {
-        "text": "Jewish and proud",
-        "character": "",
-        "audioUrl": "audio/family-guy/295_jewish_and_proud.mp3"
-      },
-      {
-        "text": "Joe walk 2",
-        "character": "",
-        "audioUrl": "audio/family-guy/296_joe_walk_2.mp3"
       },
       {
         "text": "Just give me one more chance",
@@ -2854,11 +1949,6 @@ const shows = [
         "text": "Just thinking about it makes me all makes my giddy",
         "character": "",
         "audioUrl": "audio/family-guy/299_just_thinking_about_it_makes_me_all_makes_my_giddy.mp3"
-      },
-      {
-        "text": "Kiss on the cheek",
-        "character": "",
-        "audioUrl": "audio/family-guy/300_kiss_on_the_cheek.mp3"
       },
       {
         "text": "Kissing the turkey",
@@ -2881,17 +1971,7 @@ const shows = [
         "audioUrl": "audio/family-guy/304_let_s_get_me_setup_on_this_tinder_thing.mp3"
       },
       {
-        "text": "Let's have sex on the laundry",
-        "character": "",
-        "audioUrl": "audio/family-guy/305_let_s_have_sex_on_the_laundry.mp3"
-      },
-      {
-        "text": "Let's try singing",
-        "character": "",
-        "audioUrl": "audio/family-guy/306_let_s_try_singing.mp3"
-      },
-      {
-        "text": "Lois and Bonnie Kiss",
+        "text": "Lois and Bonnie kiss",
         "character": "",
         "audioUrl": "audio/family-guy/307_lois_and_bonnie_kiss.mp3"
       },
@@ -2921,17 +2001,7 @@ const shows = [
         "audioUrl": "audio/family-guy/312_mama.mp3"
       },
       {
-        "text": "Meg and Anthony Kiss",
-        "character": "",
-        "audioUrl": "audio/family-guy/313_meg_and_anthony_kiss.mp3"
-      },
-      {
-        "text": "Meg Who Let You In",
-        "character": "",
-        "audioUrl": "audio/family-guy/314_meg_who_let_you_in.mp3"
-      },
-      {
-        "text": "Meg: Mom, Dad Am I ugly?",
+        "text": "Meg: Mom, Dad am I ugly?",
         "character": "",
         "audioUrl": "audio/family-guy/315_meg_mom_dad_am_i_ugly.mp3"
       },
@@ -2944,16 +2014,6 @@ const shows = [
         "text": "Men and women compliments",
         "character": "",
         "audioUrl": "audio/family-guy/317_men_and_women_compliments.mp3"
-      },
-      {
-        "text": "Merry Christmas, Everyone!",
-        "character": "",
-        "audioUrl": "audio/family-guy/318_merry_christmas_everyone.mp3"
-      },
-      {
-        "text": "Merry Christmas!",
-        "character": "",
-        "audioUrl": "audio/family-guy/319_merry_christmas.mp3"
       },
       {
         "text": "Mets Fan",
@@ -2981,14 +2041,9 @@ const shows = [
         "audioUrl": "audio/family-guy/324_mom_mom_mommy_mama.mp3"
       },
       {
-        "text": "Mort Escape on Menorah",
+        "text": "Mort escape on menorah",
         "character": "",
         "audioUrl": "audio/family-guy/325_mort_escape_on_menorah.mp3"
-      },
-      {
-        "text": "My Baby Ernesto",
-        "character": "",
-        "audioUrl": "audio/family-guy/326_my_baby_ernesto.mp3"
       },
       {
         "text": "My body is rejecting it",
@@ -2996,29 +2051,14 @@ const shows = [
         "audioUrl": "audio/family-guy/327_my_body_is_rejecting_it.mp3"
       },
       {
-        "text": "My Drunken Irish Dad",
+        "text": "My drunken Irish dad",
         "character": "",
         "audioUrl": "audio/family-guy/328_my_drunken_irish_dad.mp3"
-      },
-      {
-        "text": "My God, this app is amazing",
-        "character": "",
-        "audioUrl": "audio/family-guy/329_my_god_this_app_is_amazing.mp3"
-      },
-      {
-        "text": "My insides are on fire",
-        "character": "",
-        "audioUrl": "audio/family-guy/330_my_insides_are_on_fire.mp3"
       },
       {
         "text": "My name is jeff",
         "character": "",
         "audioUrl": "audio/family-guy/331_my_name_is_jeff.mp3"
-      },
-      {
-        "text": "My phone's broken",
-        "character": "",
-        "audioUrl": "audio/family-guy/332_my_phone_s_broken.mp3"
       },
       {
         "text": "Natalia: I have been sent to neutralize liberal Jewish dissident",
@@ -3031,11 +2071,6 @@ const shows = [
         "audioUrl": "audio/family-guy/334_nfl_concussions.mp3"
       },
       {
-        "text": "No",
-        "character": "",
-        "audioUrl": "audio/family-guy/335_no.mp3"
-      },
-      {
         "text": "No by Consuela",
         "character": "",
         "audioUrl": "audio/family-guy/336_no_by_consuela.mp3"
@@ -3046,14 +2081,9 @@ const shows = [
         "audioUrl": "audio/family-guy/337_no_no_no_no_nooo.mp3"
       },
       {
-        "text": "No, No, No.",
+        "text": "No, no, no.",
         "character": "",
         "audioUrl": "audio/family-guy/338_no_no_no.mp3"
-      },
-      {
-        "text": "No, you suck",
-        "character": "",
-        "audioUrl": "audio/family-guy/339_no_you_suck.mp3"
       },
       {
         "text": "Nobody messes with Adam We",
@@ -3061,39 +2091,9 @@ const shows = [
         "audioUrl": "audio/family-guy/340_nobody_messes_with_adam_we.mp3"
       },
       {
-        "text": "Now I see why you're here",
-        "character": "",
-        "audioUrl": "audio/family-guy/341_now_i_see_why_you_re_here.mp3"
-      },
-      {
-        "text": "Of course. You bet. Totes Magotes",
-        "character": "",
-        "audioUrl": "audio/family-guy/342_of_course_you_bet_totes_magotes.mp3"
-      },
-      {
-        "text": "Officially an Uber Driver",
+        "text": "Officially an Uber driver",
         "character": "",
         "audioUrl": "audio/family-guy/343_officially_an_uber_driver.mp3"
-      },
-      {
-        "text": "Oh god I'm sorry you okay?",
-        "character": "",
-        "audioUrl": "audio/family-guy/344_oh_god_i_m_sorry_you_okay.mp3"
-      },
-      {
-        "text": "Oh God!",
-        "character": "",
-        "audioUrl": "audio/family-guy/345_oh_god.mp3"
-      },
-      {
-        "text": "Oh hey Chris",
-        "character": "",
-        "audioUrl": "audio/family-guy/346_oh_hey_chris.mp3"
-      },
-      {
-        "text": "Oh my god",
-        "character": "",
-        "audioUrl": "audio/family-guy/347_oh_my_god.mp3"
       },
       {
         "text": "Oh my God, you can talk!",
@@ -3101,64 +2101,14 @@ const shows = [
         "audioUrl": "audio/family-guy/348_oh_my_god_you_can_talk.mp3"
       },
       {
-        "text": "Oh my god!",
-        "character": "",
-        "audioUrl": "audio/family-guy/349_oh_my_god.mp3"
-      },
-      {
-        "text": "Oh my god!",
-        "character": "",
-        "audioUrl": "audio/family-guy/350_oh_my_god.mp3"
-      },
-      {
-        "text": "Oh no",
-        "character": "",
-        "audioUrl": "audio/family-guy/351_oh_no.mp3"
-      },
-      {
-        "text": "Oh No",
-        "character": "",
-        "audioUrl": "audio/family-guy/352_oh_no.mp3"
-      },
-      {
-        "text": "Oh No She Didn't",
-        "character": "",
-        "audioUrl": "audio/family-guy/353_oh_no_she_didn_t.mp3"
-      },
-      {
         "text": "Oh oh",
         "character": "",
         "audioUrl": "audio/family-guy/354_oh_oh.mp3"
       },
       {
-        "text": "Oh ok",
-        "character": "",
-        "audioUrl": "audio/family-guy/355_oh_ok.mp3"
-      },
-      {
-        "text": "Oh Okay",
-        "character": "",
-        "audioUrl": "audio/family-guy/356_oh_okay.mp3"
-      },
-      {
-        "text": "Oh Okay!",
-        "character": "",
-        "audioUrl": "audio/family-guy/357_oh_okay.mp3"
-      },
-      {
         "text": "Oh Reginald",
         "character": "",
         "audioUrl": "audio/family-guy/358_oh_reginald.mp3"
-      },
-      {
-        "text": "Oh snap!",
-        "character": "",
-        "audioUrl": "audio/family-guy/359_oh_snap.mp3"
-      },
-      {
-        "text": "Oh that smells fantastic",
-        "character": "",
-        "audioUrl": "audio/family-guy/360_oh_that_smells_fantastic.mp3"
       },
       {
         "text": "Oh that's nasty",
@@ -3171,57 +2121,17 @@ const shows = [
         "audioUrl": "audio/family-guy/362_oh_that_s_nasty.mp3"
       },
       {
-        "text": "Oh this sucks",
-        "character": "",
-        "audioUrl": "audio/family-guy/363_oh_this_sucks.mp3"
-      },
-      {
         "text": "Oh Yeah!",
         "character": "",
         "audioUrl": "audio/family-guy/364_oh_yeah.mp3"
       },
       {
-        "text": "Ohoho yes",
-        "character": "",
-        "audioUrl": "audio/family-guy/365_ohoho_yes.mp3"
-      },
-      {
-        "text": "Okay fine",
-        "character": "",
-        "audioUrl": "audio/family-guy/366_okay_fine.mp3"
-      },
-      {
-        "text": "Okay, got it",
-        "character": "",
-        "audioUrl": "audio/family-guy/367_okay_got_it.mp3"
-      },
-      {
-        "text": "OMG OMG OMG",
-        "character": "",
-        "audioUrl": "audio/family-guy/368_omg_omg_omg.mp3"
-      },
-      {
-        "text": "Ooh a Piece of Candy",
+        "text": "Ooh a piece of candy",
         "character": "",
         "audioUrl": "audio/family-guy/369_ooh_a_piece_of_candy.mp3"
       },
       {
-        "text": "Ooh, piece of candy!",
-        "character": "",
-        "audioUrl": "audio/family-guy/370_ooh_piece_of_candy.mp3"
-      },
-      {
-        "text": "Oooooh",
-        "character": "",
-        "audioUrl": "audio/family-guy/371_oooooh.mp3"
-      },
-      {
-        "text": "Ostrich Laugh",
-        "character": "",
-        "audioUrl": "audio/family-guy/372_ostrich_laugh.mp3"
-      },
-      {
-        "text": "Paddy Tanniger the Caddy Manager",
+        "text": "Paddy Tanniger the caddy manager",
         "character": "",
         "audioUrl": "audio/family-guy/373_paddy_tanniger_the_caddy_manager.mp3"
       },
@@ -3236,22 +2146,17 @@ const shows = [
         "audioUrl": "audio/family-guy/375_party_at_someone_else_s_house.mp3"
       },
       {
-        "text": "Passover Seder",
-        "character": "",
-        "audioUrl": "audio/family-guy/376_passover_seder.mp3"
-      },
-      {
         "text": "Paul is a persons name",
         "character": "",
         "audioUrl": "audio/family-guy/377_paul_is_a_persons_name.mp3"
       },
       {
-        "text": "Pay For The Bread",
+        "text": "Pay for the bread",
         "character": "",
         "audioUrl": "audio/family-guy/378_pay_for_the_bread.mp3"
       },
       {
-        "text": "Peanut Butter Jelly",
+        "text": "Peanut butter jelly",
         "character": "",
         "audioUrl": "audio/family-guy/379_peanut_butter_jelly.mp3"
       },
@@ -3266,49 +2171,24 @@ const shows = [
         "audioUrl": "audio/family-guy/381_people_sneezing_in_a_salad_bar.mp3"
       },
       {
-        "text": "Pepperidge Farm remembers",
-        "character": "",
-        "audioUrl": "audio/family-guy/382_pepperidge_farm_remembers.mp3"
-      },
-      {
-        "text": "Peter and Lois Griffin kiss",
-        "character": "",
-        "audioUrl": "audio/family-guy/383_peter_and_lois_griffin_kiss.mp3"
-      },
-      {
-        "text": "Peter And Quagmire dancing",
+        "text": "Peter and Quagmire dancing",
         "character": "",
         "audioUrl": "audio/family-guy/384_peter_and_quagmire_dancing.mp3"
       },
       {
-        "text": "Peter Eats Quinoa",
+        "text": "Peter eats quinoa",
         "character": "",
         "audioUrl": "audio/family-guy/385_peter_eats_quinoa.mp3"
       },
       {
-        "text": "Peter Falls Down",
+        "text": "Peter falls down",
         "character": "",
         "audioUrl": "audio/family-guy/386_peter_falls_down.mp3"
       },
       {
-        "text": "Peter Farts for the First Time",
+        "text": "Peter farts for the first time",
         "character": "",
         "audioUrl": "audio/family-guy/387_peter_farts_for_the_first_time.mp3"
-      },
-      {
-        "text": "Peter Griffin I Love You",
-        "character": "",
-        "audioUrl": "audio/family-guy/388_peter_griffin_i_love_you.mp3"
-      },
-      {
-        "text": "Peter Griffin Mi Amore",
-        "character": "",
-        "audioUrl": "audio/family-guy/389_peter_griffin_mi_amore.mp3"
-      },
-      {
-        "text": "Peter Griffin burning pasports",
-        "character": "",
-        "audioUrl": "audio/family-guy/390_peter_griffin_burning_pasports.mp3"
       },
       {
         "text": "Peter Griffin dance",
@@ -3316,7 +2196,7 @@ const shows = [
         "audioUrl": "audio/family-guy/391_peter_griffin_dance.mp3"
       },
       {
-        "text": "Peter Griffin Dancing",
+        "text": "Peter Griffin dancing",
         "character": "",
         "audioUrl": "audio/family-guy/392_peter_griffin_dancing.mp3"
       },
@@ -3326,12 +2206,12 @@ const shows = [
         "audioUrl": "audio/family-guy/393_peter_griffin_in_a_spanish_soap_opera.mp3"
       },
       {
-        "text": "Peter Griffin Laugh",
+        "text": "Peter Griffin laugh",
         "character": "",
         "audioUrl": "audio/family-guy/394_peter_griffin_laugh.mp3"
       },
       {
-        "text": "Peter Griffin Song",
+        "text": "Peter Griffin song",
         "character": "",
         "audioUrl": "audio/family-guy/395_peter_griffin_song.mp3"
       },
@@ -3341,7 +2221,7 @@ const shows = [
         "audioUrl": "audio/family-guy/396_peter_griffin_spooky_scary_skeletons.mp3"
       },
       {
-        "text": "Peter Griffin Tea",
+        "text": "Peter Griffin tea",
         "character": "",
         "audioUrl": "audio/family-guy/397_peter_griffin_tea.mp3"
       },
@@ -3356,12 +2236,12 @@ const shows = [
         "audioUrl": "audio/family-guy/399_peter_is_sick.mp3"
       },
       {
-        "text": "Peter Joins the Army",
+        "text": "Peter joins the army",
         "character": "",
         "audioUrl": "audio/family-guy/400_peter_joins_the_army.mp3"
       },
       {
-        "text": "Peter Kisses Lois",
+        "text": "Peter kisses Lois",
         "character": "",
         "audioUrl": "audio/family-guy/401_peter_kisses_lois.mp3"
       },
@@ -3411,16 +2291,6 @@ const shows = [
         "audioUrl": "audio/family-guy/410_peter_s_laugh.mp3"
       },
       {
-        "text": "Petter falling loop",
-        "character": "",
-        "audioUrl": "audio/family-guy/411_petter_falling_loop.mp3"
-      },
-      {
-        "text": "Photos Every Day",
-        "character": "",
-        "audioUrl": "audio/family-guy/412_photos_every_day.mp3"
-      },
-      {
         "text": "Piter Griffin whining",
         "character": "",
         "audioUrl": "audio/family-guy/413_piter_griffin_whining.mp3"
@@ -3451,24 +2321,9 @@ const shows = [
         "audioUrl": "audio/family-guy/418_quagmire.mp3"
       },
       {
-        "text": "Quagmire: Excuse me",
-        "character": "",
-        "audioUrl": "audio/family-guy/419_quagmire_excuse_me.mp3"
-      },
-      {
         "text": "Quahog shouting match",
         "character": "",
         "audioUrl": "audio/family-guy/420_quahog_shouting_match.mp3"
-      },
-      {
-        "text": "Raccoon Wounds",
-        "character": "",
-        "audioUrl": "audio/family-guy/421_raccoon_wounds.mp3"
-      },
-      {
-        "text": "Racist Kermit",
-        "character": "",
-        "audioUrl": "audio/family-guy/422_racist_kermit.mp3"
       },
       {
         "text": "Raining Sideways",
@@ -3481,29 +2336,9 @@ const shows = [
         "audioUrl": "audio/family-guy/424_reagan_smash.mp3"
       },
       {
-        "text": "Really?",
-        "character": "",
-        "audioUrl": "audio/family-guy/425_really.mp3"
-      },
-      {
-        "text": "Reunited And It Feels So Good",
+        "text": "Reunited and it feels so good",
         "character": "",
         "audioUrl": "audio/family-guy/426_reunited_and_it_feels_so_good.mp3"
-      },
-      {
-        "text": "Roadhouse Family Guy",
-        "character": "",
-        "audioUrl": "audio/family-guy/427_roadhouse_family_guy.mp3"
-      },
-      {
-        "text": "RRRrrrr!",
-        "character": "",
-        "audioUrl": "audio/family-guy/428_rrrrrrr.mp3"
-      },
-      {
-        "text": "SALAD!",
-        "character": "",
-        "audioUrl": "audio/family-guy/429_salad.mp3"
       },
       {
         "text": "Sandman",
@@ -3511,19 +2346,9 @@ const shows = [
         "audioUrl": "audio/family-guy/430_sandman.mp3"
       },
       {
-        "text": "Say Whaaat",
-        "character": "",
-        "audioUrl": "audio/family-guy/431_say_whaaat.mp3"
-      },
-      {
         "text": "School’s out for the summer",
         "character": "",
         "audioUrl": "audio/family-guy/432_school_s_out_for_the_summer.mp3"
-      },
-      {
-        "text": "Sex is pointless without potency",
-        "character": "",
-        "audioUrl": "audio/family-guy/433_sex_is_pointless_without_potency.mp3"
       },
       {
         "text": "Shovin' Buddies",
@@ -3531,24 +2356,9 @@ const shows = [
         "audioUrl": "audio/family-guy/434_shovin_buddies.mp3"
       },
       {
-        "text": "Show Me Potato Salad",
+        "text": "Show me potato salad",
         "character": "",
         "audioUrl": "audio/family-guy/435_show_me_potato_salad.mp3"
-      },
-      {
-        "text": "Shut up and take me!",
-        "character": "",
-        "audioUrl": "audio/family-guy/436_shut_up_and_take_me.mp3"
-      },
-      {
-        "text": "Shut up, Meg",
-        "character": "",
-        "audioUrl": "audio/family-guy/437_shut_up_meg.mp3"
-      },
-      {
-        "text": "Shut your mouth",
-        "character": "",
-        "audioUrl": "audio/family-guy/438_shut_your_mouth.mp3"
       },
       {
         "text": "Silly Hunter",
@@ -3561,19 +2371,9 @@ const shows = [
         "audioUrl": "audio/family-guy/440_smashes_desk.mp3"
       },
       {
-        "text": "No time for my own life",
-        "character": "",
-        "audioUrl": "audio/family-guy/441_so_busy_i_don_t_have_time_to_organize_my_own_life.mp3"
-      },
-      {
         "text": "Space Dog dance",
         "character": "",
         "audioUrl": "audio/family-guy/442_space_dog_dance.mp3"
-      },
-      {
-        "text": "Speak with your heart, not your mouth",
-        "character": "",
-        "audioUrl": "audio/family-guy/443_speak_with_your_heart_not_your_mouth.mp3"
       },
       {
         "text": "Speaking Italian",
@@ -3586,17 +2386,12 @@ const shows = [
         "audioUrl": "audio/family-guy/445_spooky_scary_skeletons.mp3"
       },
       {
-        "text": "Stan Smith Gun",
+        "text": "Stan Smith gun",
         "character": "",
         "audioUrl": "audio/family-guy/446_stan_smith_gun.mp3"
       },
       {
-        "text": "Stan Smith Quiet fatty",
-        "character": "",
-        "audioUrl": "audio/family-guy/447_stan_smith_quiet_fatty.mp3"
-      },
-      {
-        "text": "Stan Smith Waste space",
+        "text": "Stan Smith waste space",
         "character": "",
         "audioUrl": "audio/family-guy/448_stan_smith_waste_space.mp3"
       },
@@ -3631,39 +2426,19 @@ const shows = [
         "audioUrl": "audio/family-guy/454_stewie_calling_lois.mp3"
       },
       {
-        "text": "Stewie Calls Lois",
+        "text": "Stewie calls Lois",
         "character": "",
         "audioUrl": "audio/family-guy/455_stewie_calls_lois.mp3"
       },
       {
-        "text": "Stewie feeding Stewie",
-        "character": "",
-        "audioUrl": "audio/family-guy/456_stewie_feeding_stewie.mp3"
-      },
-      {
-        "text": "Stewie Game On!",
+        "text": "Stewie game on!",
         "character": "",
         "audioUrl": "audio/family-guy/457_stewie_game_on.mp3"
       },
       {
-        "text": "Stewie laughing",
-        "character": "",
-        "audioUrl": "audio/family-guy/458_stewie_laughing.mp3"
-      },
-      {
-        "text": "Stewie laughing in the tub",
-        "character": "",
-        "audioUrl": "audio/family-guy/459_stewie_laughing_in_the_tub.mp3"
-      },
-      {
-        "text": "Stewie Loves Ann Murray's Music",
+        "text": "Stewie loves Ann Murray's music",
         "character": "",
         "audioUrl": "audio/family-guy/460_stewie_loves_ann_murray_s_music.mp3"
-      },
-      {
-        "text": "Stewie's face palm",
-        "character": "",
-        "audioUrl": "audio/family-guy/461_stewie_s_face_palm.mp3"
       },
       {
         "text": "Sunny a moment ago",
@@ -3671,7 +2446,7 @@ const shows = [
         "audioUrl": "audio/family-guy/462_sunny_a_moment_ago.mp3"
       },
       {
-        "text": "Surfin Bird Execution",
+        "text": "Surfin Bird execution",
         "character": "",
         "audioUrl": "audio/family-guy/463_surfin_bird_execution.mp3"
       },
@@ -3701,11 +2476,6 @@ const shows = [
         "audioUrl": "audio/family-guy/468_that_is_disgusting.mp3"
       },
       {
-        "text": "That really grinds my gears",
-        "character": "",
-        "audioUrl": "audio/family-guy/469_that_really_grinds_my_gears.mp3"
-      },
-      {
         "text": "That sounds awful",
         "character": "",
         "audioUrl": "audio/family-guy/470_that_sounds_awful.mp3"
@@ -3716,16 +2486,6 @@ const shows = [
         "audioUrl": "audio/family-guy/471_that_was_a_fart.mp3"
       },
       {
-        "text": "That was an ordeal",
-        "character": "",
-        "audioUrl": "audio/family-guy/472_that_was_an_ordeal.mp3"
-      },
-      {
-        "text": "That'd be sweeeeet",
-        "character": "",
-        "audioUrl": "audio/family-guy/473_that_d_be_sweeeeet.mp3"
-      },
-      {
         "text": "That's not funny",
         "character": "",
         "audioUrl": "audio/family-guy/474_that_s_not_funny.mp3"
@@ -3734,11 +2494,6 @@ const shows = [
         "text": "That's the last time I got to a waterpark",
         "character": "",
         "audioUrl": "audio/family-guy/475_that_s_the_last_time_i_got_to_a_waterpark.mp3"
-      },
-      {
-        "text": "That's what I was telling you about",
-        "character": "",
-        "audioUrl": "audio/family-guy/476_that_s_what_i_was_telling_you_about.mp3"
       },
       {
         "text": "The Mexican David Blaine",
@@ -3761,21 +2516,6 @@ const shows = [
         "audioUrl": "audio/family-guy/480_the_rose.mp3"
       },
       {
-        "text": "This family believes in Easter Bunny",
-        "character": "",
-        "audioUrl": "audio/family-guy/481_this_family_believes_in_easter_bunny.mp3"
-      },
-      {
-        "text": "This is delicious!",
-        "character": "",
-        "audioUrl": "audio/family-guy/482_this_is_delicious.mp3"
-      },
-      {
-        "text": "This is the guy whose wife i am banging",
-        "character": "",
-        "audioUrl": "audio/family-guy/483_this_is_the_guy_whose_wife_i_am_banging.mp3"
-      },
-      {
         "text": "Watched every Jurassic Park",
         "character": "",
         "audioUrl": "audio/family-guy/484_this_is_the_second_vacation_that_i_have_watched_every_jurass.mp3"
@@ -3791,12 +2531,12 @@ const shows = [
         "audioUrl": "audio/family-guy/486_time_for_a_break.mp3"
       },
       {
-        "text": "Train On Water",
+        "text": "Train on water",
         "character": "",
         "audioUrl": "audio/family-guy/487_train_on_water.mp3"
       },
       {
-        "text": "TRAIN!",
+        "text": "Train!",
         "character": "",
         "audioUrl": "audio/family-guy/488_train.mp3"
       },
@@ -3806,17 +2546,7 @@ const shows = [
         "audioUrl": "audio/family-guy/489_trololo_man.mp3"
       },
       {
-        "text": "What's in this backpack?",
-        "character": "",
-        "audioUrl": "audio/family-guy/490_uh_yeah_what_do_you_think_i_keep_in_this_backpack.mp3"
-      },
-      {
-        "text": "Untruthful",
-        "character": "",
-        "audioUrl": "audio/family-guy/491_untruthful.mp3"
-      },
-      {
-        "text": "US Army Your Experience May Differ",
+        "text": "US Army your experience may differ",
         "character": "",
         "audioUrl": "audio/family-guy/492_us_army_your_experience_may_differ.mp3"
       },
@@ -3824,11 +2554,6 @@ const shows = [
         "text": "Vasectomy Song",
         "character": "",
         "audioUrl": "audio/family-guy/493_vasectomy_song.mp3"
-      },
-      {
-        "text": "Victory is mine",
-        "character": "",
-        "audioUrl": "audio/family-guy/494_victory_is_mine.mp3"
       },
       {
         "text": "Vodka Beer",
@@ -3841,19 +2566,9 @@ const shows = [
         "audioUrl": "audio/family-guy/496_watch_for_early_signs_of_infection.mp3"
       },
       {
-        "text": "We all let it happen",
-        "character": "",
-        "audioUrl": "audio/family-guy/497_we_all_let_it_happen.mp3"
-      },
-      {
         "text": "We sound amazing together!",
         "character": "",
         "audioUrl": "audio/family-guy/498_we_sound_amazing_together.mp3"
-      },
-      {
-        "text": "We're an unusual family",
-        "character": "",
-        "audioUrl": "audio/family-guy/499_we_re_an_unusual_family.mp3"
       },
       {
         "text": "We're letting you go",
@@ -3861,34 +2576,9 @@ const shows = [
         "audioUrl": "audio/family-guy/500_we_re_letting_you_go.mp3"
       },
       {
-        "text": "Well I don’t know",
-        "character": "",
-        "audioUrl": "audio/family-guy/501_well_i_don_t_know.mp3"
-      },
-      {
         "text": "What the hell is wrong with you",
         "character": "",
         "audioUrl": "audio/family-guy/502_what_the_hell_is_wrong_with_you.mp3"
-      },
-      {
-        "text": "What the hell?",
-        "character": "",
-        "audioUrl": "audio/family-guy/503_what_the_hell.mp3"
-      },
-      {
-        "text": "What the hell?!",
-        "character": "",
-        "audioUrl": "audio/family-guy/504_what_the_hell.mp3"
-      },
-      {
-        "text": "What?!",
-        "character": "",
-        "audioUrl": "audio/family-guy/505_what.mp3"
-      },
-      {
-        "text": "What's the deal with airline food?",
-        "character": "",
-        "audioUrl": "audio/family-guy/506_what_s_the_deal_with_airline_food.mp3"
       },
       {
         "text": "What's your name?",
@@ -3901,12 +2591,7 @@ const shows = [
         "audioUrl": "audio/family-guy/508_when_babies_fly.mp3"
       },
       {
-        "text": "Where'd everyone go?",
-        "character": "",
-        "audioUrl": "audio/family-guy/509_where_d_everyone_go.mp3"
-      },
-      {
-        "text": "Where's My Money",
+        "text": "Where's my money",
         "character": "",
         "audioUrl": "audio/family-guy/510_where_s_my_money.mp3"
       },
@@ -3921,34 +2606,19 @@ const shows = [
         "audioUrl": "audio/family-guy/512_where_s_my_money.mp3"
       },
       {
-        "text": "Which one of us is which?",
-        "character": "",
-        "audioUrl": "audio/family-guy/513_which_one_of_us_is_which.mp3"
-      },
-      {
         "text": "Who are you?",
         "character": "",
         "audioUrl": "audio/family-guy/514_who_are_you.mp3"
       },
       {
-        "text": "Who the hell are ya",
-        "character": "",
-        "audioUrl": "audio/family-guy/515_who_the_hell_are_ya.mp3"
-      },
-      {
-        "text": "Who the Hell Cares",
+        "text": "Who the hell cares",
         "character": "",
         "audioUrl": "audio/family-guy/516_who_the_hell_cares.mp3"
       },
       {
-        "text": "Who the Hell Cares",
+        "text": "Who the hell cares",
         "character": "",
         "audioUrl": "audio/family-guy/517_who_the_hell_cares.mp3"
-      },
-      {
-        "text": "Who the hell is this bitch?",
-        "character": "",
-        "audioUrl": "audio/family-guy/518_who_the_hell_is_this_bitch.mp3"
       },
       {
         "text": "Who touched the thermostat?",
@@ -3961,17 +2631,12 @@ const shows = [
         "audioUrl": "audio/family-guy/520_who_want_this_dog.mp3"
       },
       {
-        "text": "Who's asking?",
-        "character": "",
-        "audioUrl": "audio/family-guy/521_who_s_asking.mp3"
-      },
-      {
         "text": "Who's there?",
         "character": "",
         "audioUrl": "audio/family-guy/522_who_s_there.mp3"
       },
       {
-        "text": "Whoa Whoa Whoa",
+        "text": "Whoa whoa whoa",
         "character": "",
         "audioUrl": "audio/family-guy/523_whoa_whoa_whoa.mp3"
       },
@@ -3981,34 +2646,9 @@ const shows = [
         "audioUrl": "audio/family-guy/524_why_did_all_the_dinosaurs_die_out.mp3"
       },
       {
-        "text": "Why didn't you say anything?!",
-        "character": "",
-        "audioUrl": "audio/family-guy/525_why_didn_t_you_say_anything.mp3"
-      },
-      {
-        "text": "Wilkins Hyundai and Subaru Commercial",
+        "text": "Wilkins Hyundai and Subaru commercial",
         "character": "",
         "audioUrl": "audio/family-guy/526_wilkins_hyundai_and_subaru_commercial.mp3"
-      },
-      {
-        "text": "Would that be something you'd be interested in?",
-        "character": "",
-        "audioUrl": "audio/family-guy/527_would_that_be_something_you_d_be_interested_in.mp3"
-      },
-      {
-        "text": "Wow",
-        "character": "",
-        "audioUrl": "audio/family-guy/528_wow.mp3"
-      },
-      {
-        "text": "Wow that's some nose you got",
-        "character": "",
-        "audioUrl": "audio/family-guy/529_wow_that_s_some_nose_you_got.mp3"
-      },
-      {
-        "text": "Yay",
-        "character": "",
-        "audioUrl": "audio/family-guy/530_yay.mp3"
       },
       {
         "text": "Yay!",
@@ -4021,29 +2661,9 @@ const shows = [
         "audioUrl": "audio/family-guy/532_yeah_party.mp3"
       },
       {
-        "text": "Yeah whatever",
-        "character": "",
-        "audioUrl": "audio/family-guy/533_yeah_whatever.mp3"
-      },
-      {
-        "text": "Yes",
-        "character": "",
-        "audioUrl": "audio/family-guy/534_yes.mp3"
-      },
-      {
-        "text": "Yes",
-        "character": "",
-        "audioUrl": "audio/family-guy/535_yes.mp3"
-      },
-      {
-        "text": "Yosemite Sam Tight Pants",
+        "text": "Yosemite Sam tight pants",
         "character": "",
         "audioUrl": "audio/family-guy/536_yosemite_sam_tight_pants.mp3"
-      },
-      {
-        "text": "You and I are gonna have a conversation",
-        "character": "",
-        "audioUrl": "audio/family-guy/537_you_and_i_are_gonna_have_a_conversation.mp3"
       },
       {
         "text": "You are making me so hot",
@@ -4061,54 +2681,14 @@ const shows = [
         "audioUrl": "audio/family-guy/540_you_can_give_me_away.mp3"
       },
       {
-        "text": "You can't cook",
-        "character": "",
-        "audioUrl": "audio/family-guy/541_you_can_t_cook.mp3"
-      },
-      {
         "text": "Freeze your sperm",
         "character": "",
         "audioUrl": "audio/family-guy/542_you_could_freeze_some_of_your_sperm_at_a_sperm_bank.mp3"
       },
       {
-        "text": "You dick",
-        "character": "",
-        "audioUrl": "audio/family-guy/543_you_dick.mp3"
-      },
-      {
-        "text": "You forgot me again!",
-        "character": "",
-        "audioUrl": "audio/family-guy/544_you_forgot_me_again.mp3"
-      },
-      {
         "text": "You have AIDS",
         "character": "",
         "audioUrl": "audio/family-guy/545_you_have_aids.mp3"
-      },
-      {
-        "text": "You know what really grinds my gears?",
-        "character": "",
-        "audioUrl": "audio/family-guy/546_you_know_what_really_grinds_my_gears.mp3"
-      },
-      {
-        "text": "You know why? Cause of boners",
-        "character": "",
-        "audioUrl": "audio/family-guy/547_you_know_why_cause_of_boners.mp3"
-      },
-      {
-        "text": "You like popsicles?",
-        "character": "",
-        "audioUrl": "audio/family-guy/548_you_like_popsicles.mp3"
-      },
-      {
-        "text": "You suck",
-        "character": "",
-        "audioUrl": "audio/family-guy/549_you_suck.mp3"
-      },
-      {
-        "text": "You suck!",
-        "character": "",
-        "audioUrl": "audio/family-guy/550_you_suck.mp3"
       },
       {
         "text": "You'll get nothing and like it",
@@ -4126,29 +2706,9 @@ const shows = [
         "audioUrl": "audio/family-guy/553_you_re_both_just_awful.mp3"
       },
       {
-        "text": "You're not a chef",
-        "character": "",
-        "audioUrl": "audio/family-guy/554_you_re_not_a_chef.mp3"
-      },
-      {
         "text": "You’re a phony!",
         "character": "",
         "audioUrl": "audio/family-guy/555_you_re_a_phony.mp3"
-      },
-      {
-        "text": "Yuck, God knows what I'm going to find",
-        "character": "",
-        "audioUrl": "audio/family-guy/556_yuck_god_knows_what_i_m_going_to_find.mp3"
-      },
-      {
-        "text": "Yucky",
-        "character": "",
-        "audioUrl": "audio/family-guy/557_yucky.mp3"
-      },
-      {
-        "text": "Yummy",
-        "character": "",
-        "audioUrl": "audio/family-guy/558_yummy.mp3"
       }
     ]
   },
@@ -4930,11 +3490,6 @@ const shows = [
         "audioUrl": "audio/succession/054_sorry_sorry_i_didn_t_delay_things_did_i_peter_munion_no_worr.mp3"
       },
       {
-        "text": "Smuggled in like Cleopatra",
-        "character": "",
-        "audioUrl": "audio/succession/056_thanks_well_that_was_exciting_smuggled_in_like_cleopatra_in.mp3"
-      },
-      {
         "text": "You fuckin' did it. Drinks.",
         "character": "",
         "audioUrl": "audio/succession/057_that_was_really_hard_yeah_man_you_fuckin_did_it_drinks_drink.mp3"
@@ -5025,14 +3580,59 @@ const shows = [
         "audioUrl": "audio/succession/081_music_playing.mp3"
       },
       {
-        "text": "Theme music",
-        "character": "",
-        "audioUrl": "audio/succession/082_music_playing.mp3"
-      },
-      {
         "text": "Shooting piggies in a barrel",
         "character": "",
         "audioUrl": "audio/succession/083_music_plays_okay_we_re_such_shitty_hunters_that_we_re_just.mp3"
+      },
+      {
+        "text": "Being Nice because I'm on Speakerphone",
+        "character": "",
+        "audioUrl": "audio/succession/084_being_nice_because_i_m_on_speakerphone.mp3"
+      },
+      {
+        "text": "Gregory",
+        "character": "",
+        "audioUrl": "audio/succession/085_greg.mp3"
+      },
+      {
+        "text": "I have been exposed to a virus",
+        "character": "",
+        "audioUrl": "audio/succession/086_i_have_been_exposed_to_a_virus.mp3"
+      },
+      {
+        "text": "It is not a good morning from my POV",
+        "character": "",
+        "audioUrl": "audio/succession/087_it_is_not_a_good_morning_from_my_pov.mp3"
+      },
+      {
+        "text": "It's liable to get a little disgusting",
+        "character": "",
+        "audioUrl": "audio/succession/088_it_s_liable_to_get_a_little_disgusting.mp3"
+      },
+      {
+        "text": "Kendall is a Venture Capitalist",
+        "character": "",
+        "audioUrl": "audio/succession/089_kendall_is_a_venture_capitalist.mp3"
+      },
+      {
+        "text": "Therapy? This way for the therapy",
+        "character": "",
+        "audioUrl": "audio/succession/092_therapy_this_way_for_the_therapy.mp3"
+      },
+      {
+        "text": "Yes. If it is to be said. So it is",
+        "character": "",
+        "audioUrl": "audio/succession/093_yes_if_it_is_to_be_said_so_it_is.mp3"
+      },
+      {
+        "text": "You're a stone cold killer bitch",
+        "character": "",
+        "audioUrl": "audio/succession/094_you_re_a_stone_cold_killer_bitch.mp3"
+      },
+      {
+        "text": "I'm still processing",
+        "character": "",
+        "audioUrl": "audio/succession/095_rd_sounds_rendered_4150391_mp3.mp3"
       }
     ]
   },
@@ -5088,11 +3688,6 @@ const shows = [
         "audioUrl": "audio/peaky-blinders/008_i_know_what_i_know.mp3"
       },
       {
-        "text": "I will remember everything",
-        "character": "",
-        "audioUrl": "audio/peaky-blinders/009_i_will_remember_everything.mp3"
-      },
-      {
         "text": "I'll tell on you to mum",
         "character": "",
         "audioUrl": "audio/peaky-blinders/010_if_you_try_to_sneak_out_i_ll_tell_on_you_to_mum.mp3"
@@ -5103,19 +3698,9 @@ const shows = [
         "audioUrl": "audio/peaky-blinders/011_if_you_try_to_sneak_out_i_ll_tell_on_you_to_mum_short.mp3"
       },
       {
-        "text": "Intelligence is a valuable thing, my friend",
-        "character": "",
-        "audioUrl": "audio/peaky-blinders/012_intelligence_is_a_valuable_thing_my_friend.mp3"
-      },
-      {
         "text": "It is fucking awful, that stuff",
         "character": "",
         "audioUrl": "audio/peaky-blinders/013_it_is_fucking_awful_that_stuff.mp3"
-      },
-      {
-        "text": "It was fucking biblical, mate",
-        "character": "",
-        "audioUrl": "audio/peaky-blinders/014_it_was_fucking_biblical_mate.mp3"
       },
       {
         "text": "Men and their cocks",
@@ -5158,16 +3743,6 @@ const shows = [
         "audioUrl": "audio/peaky-blinders/022_peaky_blinders.mp3"
       },
       {
-        "text": "Stop fooking whingeing!",
-        "character": "",
-        "audioUrl": "audio/peaky-blinders/023_stop_fooking_whingeing.mp3"
-      },
-      {
-        "text": "There's God, and the Peaky Blinders",
-        "character": "",
-        "audioUrl": "audio/peaky-blinders/024_there_is_god_and_there_are_the_peaky_blinders.mp3"
-      },
-      {
         "text": "Under new management",
         "character": "",
         "audioUrl": "audio/peaky-blinders/025_this_place_is_under_new_management.mp3"
@@ -5183,19 +3758,9 @@ const shows = [
         "audioUrl": "audio/peaky-blinders/027_we_are_now_all_quarantined.mp3"
       },
       {
-        "text": "Were you a man?",
-        "character": "",
-        "audioUrl": "audio/peaky-blinders/028_were_you_a_man.mp3"
-      },
-      {
         "text": "Whisky is good proofing water",
         "character": "",
         "audioUrl": "audio/peaky-blinders/029_whisky_is_good_proofing_water.mp3"
-      },
-      {
-        "text": "Who is the boss?",
-        "character": "",
-        "audioUrl": "audio/peaky-blinders/030_who_is_the_boss.mp3"
       },
       {
         "text": "Who wants to be in heaven?",
@@ -5206,11 +3771,6 @@ const shows = [
         "text": "A deal without negotiation",
         "character": "",
         "audioUrl": "audio/peaky-blinders/032_you_just_made_a_deal_without_a_negotiation_didn_t_ya.mp3"
-      },
-      {
-        "text": "You need to be a man",
-        "character": "",
-        "audioUrl": "audio/peaky-blinders/033_you_need_to_be_a_man.mp3"
       },
       {
         "text": "And we're the Peaky Blinders",
@@ -5486,17 +4046,12 @@ const shows = [
         "audioUrl": "audio/always-sunny/002_a_leather_shop_in_arizona.mp3"
       },
       {
-        "text": "Ah shit",
-        "character": "",
-        "audioUrl": "audio/always-sunny/003_ah_shit.mp3"
-      },
-      {
         "text": "You cheap sack of shit",
         "character": "",
         "audioUrl": "audio/always-sunny/004_ah_so_you_come_crawling_back_you_cheap_sack_of_shit.mp3"
       },
       {
-        "text": "AHHHH!",
+        "text": "Ahhhh!",
         "character": "",
         "audioUrl": "audio/always-sunny/005_ahhhh.mp3"
       },
@@ -5511,54 +4066,14 @@ const shows = [
         "audioUrl": "audio/always-sunny/007_aww_did_somebody_get_addicted_to_crack.mp3"
       },
       {
-        "text": "Because of the implication",
-        "character": "",
-        "audioUrl": "audio/always-sunny/008_because_of_the_implication.mp3"
-      },
-      {
-        "text": "Because of the implication",
-        "character": "",
-        "audioUrl": "audio/always-sunny/009_because_of_the_implication.mp3"
-      },
-      {
-        "text": "Begone vile man, begone from me",
-        "character": "",
-        "audioUrl": "audio/always-sunny/010_begone_vile_man_begone_from_me.mp3"
-      },
-      {
         "text": "Best goddamn bird lawyer in the world",
         "character": "",
         "audioUrl": "audio/always-sunny/011_best_goddamn_bird_lawyer_in_the_world.mp3"
       },
       {
-        "text": "Big time, don't be jelly",
-        "character": "",
-        "audioUrl": "audio/always-sunny/012_big_time_don_t_be_jelly.mp3"
-      },
-      {
-        "text": "Bitch",
-        "character": "",
-        "audioUrl": "audio/always-sunny/013_bitch.mp3"
-      },
-      {
-        "text": "Bitch",
-        "character": "",
-        "audioUrl": "audio/always-sunny/014_bitch.mp3"
-      },
-      {
         "text": "Boys are out tonight, huh?",
         "character": "",
         "audioUrl": "audio/always-sunny/015_boys_are_out_tonight_huh.mp3"
-      },
-      {
-        "text": "Bullshit",
-        "character": "",
-        "audioUrl": "audio/always-sunny/016_bullshit.mp3"
-      },
-      {
-        "text": "But you don't really know what hot is do you?",
-        "character": "",
-        "audioUrl": "audio/always-sunny/017_but_you_don_t_really_know_what_hot_is_do_you.mp3"
       },
       {
         "text": "Can I offer you an egg in this trying time?",
@@ -5576,14 +4091,9 @@ const shows = [
         "audioUrl": "audio/always-sunny/020_charlie_sees_santa.mp3"
       },
       {
-        "text": "Charlie's Butt Dance",
+        "text": "Charlie's butt dance",
         "character": "",
         "audioUrl": "audio/always-sunny/021_charlie_s_butt_dance.mp3"
-      },
-      {
-        "text": "Charlie's Stress",
-        "character": "",
-        "audioUrl": "audio/always-sunny/022_charlie_s_stress.mp3"
       },
       {
         "text": "Charlie's Teeth",
@@ -5596,12 +4106,12 @@ const shows = [
         "audioUrl": "audio/always-sunny/024_crying.mp3"
       },
       {
-        "text": "D Gets Stage Fright",
+        "text": "D gets stage fright",
         "character": "",
         "audioUrl": "audio/always-sunny/025_d_gets_stage_fright.mp3"
       },
       {
-        "text": "Day Bow Bow",
+        "text": "Day bow bow",
         "character": "",
         "audioUrl": "audio/always-sunny/026_day_bow_bow.mp3"
       },
@@ -5616,14 +4126,9 @@ const shows = [
         "audioUrl": "audio/always-sunny/028_denim_chicken.mp3"
       },
       {
-        "text": "Dennis Choking Maureen Ponderosa",
+        "text": "Dennis choking Maureen Ponderosa",
         "character": "",
         "audioUrl": "audio/always-sunny/029_dennis_choking_maureen_ponderosa.mp3"
-      },
-      {
-        "text": "Derivative",
-        "character": "",
-        "audioUrl": "audio/always-sunny/030_derivative.mp3"
       },
       {
         "text": "Did you bang my wife?",
@@ -5661,17 +4166,12 @@ const shows = [
         "audioUrl": "audio/always-sunny/037_ever_been_in_a_storm_wally.mp3"
       },
       {
-        "text": "Facepalm",
-        "character": "",
-        "audioUrl": "audio/always-sunny/038_facepalm.mp3"
-      },
-      {
         "text": "Fight milk",
         "character": "",
         "audioUrl": "audio/always-sunny/039_fight_milk.mp3"
       },
       {
-        "text": "Flip, Flip, Flipadelphia!",
+        "text": "Flip, flip, Flipadelphia!",
         "character": "",
         "audioUrl": "audio/always-sunny/040_flip_flip_flipadelphia.mp3"
       },
@@ -5681,7 +4181,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/041_frank_loses_the_rum_ham.mp3"
       },
       {
-        "text": "FUCK OFF",
+        "text": "Fuck off",
         "character": "",
         "audioUrl": "audio/always-sunny/042_fuck_off.mp3"
       },
@@ -5689,11 +4189,6 @@ const shows = [
         "text": "Getting HAMmered",
         "character": "",
         "audioUrl": "audio/always-sunny/043_getting_hammered.mp3"
-      },
-      {
-        "text": "Give Me One Up Here",
-        "character": "",
-        "audioUrl": "audio/always-sunny/044_give_me_one_up_here.mp3"
       },
       {
         "text": "Go fuck yourselves!",
@@ -5704,11 +4199,6 @@ const shows = [
         "text": "Go, go, go!",
         "character": "",
         "audioUrl": "audio/always-sunny/046_go_go_go.mp3"
-      },
-      {
-        "text": "God damn it",
-        "character": "",
-        "audioUrl": "audio/always-sunny/047_god_damn_it.mp3"
       },
       {
         "text": "God damn it! I got milk all over me",
@@ -5731,11 +4221,6 @@ const shows = [
         "audioUrl": "audio/always-sunny/051_good_night_bitch.mp3"
       },
       {
-        "text": "Gotta be no dawg",
-        "character": "",
-        "audioUrl": "audio/always-sunny/052_gotta_be_no_dawg.mp3"
-      },
-      {
         "text": "Hand sanitizer",
         "character": "",
         "audioUrl": "audio/always-sunny/053_hand_sanitizer.mp3"
@@ -5751,14 +4236,9 @@ const shows = [
         "audioUrl": "audio/always-sunny/055_he_was_wrong_making_everyone_on_earth_look_like_a_bitch_agai.mp3"
       },
       {
-        "text": "Here Let Me Try",
+        "text": "Here let me try",
         "character": "",
         "audioUrl": "audio/always-sunny/056_here_let_me_try.mp3"
-      },
-      {
-        "text": "Here's your toll, troll",
-        "character": "",
-        "audioUrl": "audio/always-sunny/057_here_s_your_toll_troll.mp3"
       },
       {
         "text": "Heyoo what's up bitches?",
@@ -5771,11 +4251,6 @@ const shows = [
         "audioUrl": "audio/always-sunny/059_hockey_legends.mp3"
       },
       {
-        "text": "Hot one today, huh?",
-        "character": "",
-        "audioUrl": "audio/always-sunny/060_hot_one_today_huh.mp3"
-      },
-      {
         "text": "How am I supposed to respond to that?",
         "character": "",
         "audioUrl": "audio/always-sunny/061_how_am_i_supposed_to_respond_to_that.mp3"
@@ -5784,16 +4259,6 @@ const shows = [
         "text": "How are guys suppose to make friends",
         "character": "",
         "audioUrl": "audio/always-sunny/062_how_are_guys_suppose_to_make_friends.mp3"
-      },
-      {
-        "text": "How do I look? Handsome?",
-        "character": "",
-        "audioUrl": "audio/always-sunny/063_how_do_i_look_handsome.mp3"
-      },
-      {
-        "text": "How do you stickers all the time dude god",
-        "character": "",
-        "audioUrl": "audio/always-sunny/064_how_do_you_stickers_all_the_time_dude_god.mp3"
       },
       {
         "text": "How much cheese is too much cheese before a date?",
@@ -5851,11 +4316,6 @@ const shows = [
         "audioUrl": "audio/always-sunny/075_i_don_t_know_how_to_express_myself_unless_its_though_anger.mp3"
       },
       {
-        "text": "The laws of nature",
-        "character": "",
-        "audioUrl": "audio/always-sunny/076_i_don_t_think_there_s_anything_in_the_laws_of_nature_that_wo.mp3"
-      },
-      {
         "text": "You don't get it",
         "character": "",
         "audioUrl": "audio/always-sunny/077_i_feel_like_you_re_saying_you_get_it_but_you_don_t_get_it.mp3"
@@ -5864,11 +4324,6 @@ const shows = [
         "text": "I gave him an occular pat down",
         "character": "",
         "audioUrl": "audio/always-sunny/078_i_gave_him_an_occular_pat_down.mp3"
-      },
-      {
-        "text": "I gotta dig a little depper",
-        "character": "",
-        "audioUrl": "audio/always-sunny/079_i_gotta_dig_a_little_depper.mp3"
       },
       {
         "text": "I haven't even begun to peak",
@@ -5891,7 +4346,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/083_i_won_t_change_my_mind_cause_i_don_t_have_to_design_an_ameri.mp3"
       },
       {
-        "text": "I Won't Change My Mind",
+        "text": "I won't change my mind",
         "character": "",
         "audioUrl": "audio/always-sunny/084_i_won_t_change_my_mind.mp3"
       },
@@ -5906,24 +4361,9 @@ const shows = [
         "audioUrl": "audio/always-sunny/086_i_d_like_some_welfare_please.mp3"
       },
       {
-        "text": "I'll Allow it",
-        "character": "",
-        "audioUrl": "audio/always-sunny/087_i_ll_allow_it.mp3"
-      },
-      {
         "text": "Swedish plumber, fix your pipes",
         "character": "",
         "audioUrl": "audio/always-sunny/088_i_m_a_swedish_plumber_i_m_here_to_fix_your_pipes_that_s_good.mp3"
-      },
-      {
-        "text": "I'm eating because i'm very uncomfortable",
-        "character": "",
-        "audioUrl": "audio/always-sunny/089_i_m_eating_because_i_m_very_uncomfortable.mp3"
-      },
-      {
-        "text": "I'm fat",
-        "character": "",
-        "audioUrl": "audio/always-sunny/090_i_m_fat.mp3"
       },
       {
         "text": "I'm gonna whip this little bitch in the face",
@@ -5931,19 +4371,9 @@ const shows = [
         "audioUrl": "audio/always-sunny/091_i_m_gonna_whip_this_little_bitch_in_the_face.mp3"
       },
       {
-        "text": "I'm Gunna Get Real Weird With It",
+        "text": "I'm gunna get real weird with it",
         "character": "",
         "audioUrl": "audio/always-sunny/092_i_m_gunna_get_real_weird_with_it.mp3"
-      },
-      {
-        "text": "Best bird lawyer in the world",
-        "character": "",
-        "audioUrl": "audio/always-sunny/093_i_m_just_the_best_god_damn_bird_lawyer_in_the_world.mp3"
-      },
-      {
-        "text": "I'm sorry i'm just playing",
-        "character": "",
-        "audioUrl": "audio/always-sunny/094_i_m_sorry_i_m_just_playing.mp3"
       },
       {
         "text": "I'm starting to swell up",
@@ -6003,11 +4433,6 @@ const shows = [
       {
         "text": "Look at me when you're talking to me!",
         "character": "",
-        "audioUrl": "audio/always-sunny/106_look_at_me_when_you_re_talking_to_me.mp3"
-      },
-      {
-        "text": "Look at me when you're talking to me!",
-        "character": "",
         "audioUrl": "audio/always-sunny/107_look_at_me_when_you_re_talking_to_me.mp3"
       },
       {
@@ -6031,7 +4456,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/111_make_that_whore_my_wife.mp3"
       },
       {
-        "text": "MEOW",
+        "text": "Meow",
         "character": "",
         "audioUrl": "audio/always-sunny/112_meow.mp3"
       },
@@ -6066,11 +4491,6 @@ const shows = [
         "audioUrl": "audio/always-sunny/118_never_seen_a_more_embarrassing_display.mp3"
       },
       {
-        "text": "News flash asshole",
-        "character": "",
-        "audioUrl": "audio/always-sunny/119_news_flash_asshole.mp3"
-      },
-      {
         "text": "Night Crawlers",
         "character": "",
         "audioUrl": "audio/always-sunny/120_night_crawlers.mp3"
@@ -6079,11 +4499,6 @@ const shows = [
         "text": "No one's in any danger, it's an implication of danger",
         "character": "",
         "audioUrl": "audio/always-sunny/121_no_one_s_in_any_danger_it_s_an_implication_of_danger.mp3"
-      },
-      {
-        "text": "No, You Son of a B*tch",
-        "character": "",
-        "audioUrl": "audio/always-sunny/122_no_you_son_of_a_b_tch.mp3"
       },
       {
         "text": "Nobody look!",
@@ -6096,24 +4511,14 @@ const shows = [
         "audioUrl": "audio/always-sunny/124_nooooooo.mp3"
       },
       {
-        "text": "Nope",
-        "character": "",
-        "audioUrl": "audio/always-sunny/125_nope.mp3"
-      },
-      {
         "text": "Oh oh ah",
         "character": "",
         "audioUrl": "audio/always-sunny/126_oh_oh_ah.mp3"
       },
       {
-        "text": "Oh Sandra You Dumb Bitch",
+        "text": "Oh Sandra you dumb bitch",
         "character": "",
         "audioUrl": "audio/always-sunny/127_oh_sandra_you_dumb_bitch.mp3"
-      },
-      {
-        "text": "Oh woops",
-        "character": "",
-        "audioUrl": "audio/always-sunny/128_oh_woops.mp3"
       },
       {
         "text": "Ooooooooh Shit",
@@ -6126,7 +4531,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/130_pepe_silivia.mp3"
       },
       {
-        "text": "Pepe Silvia Carol Rant",
+        "text": "Pepe Silvia Carol rant",
         "character": "",
         "audioUrl": "audio/always-sunny/131_pepe_silvia_carol_rant.mp3"
       },
@@ -6141,11 +4546,6 @@ const shows = [
         "audioUrl": "audio/always-sunny/133_poop_is_funny.mp3"
       },
       {
-        "text": "Pretty boys and girls because he is very kids good",
-        "character": "",
-        "audioUrl": "audio/always-sunny/134_pretty_boys_and_girls_because_he_is_very_kids_good.mp3"
-      },
-      {
         "text": "Pussy!",
         "character": "",
         "audioUrl": "audio/always-sunny/135_pussy.mp3"
@@ -6156,19 +4556,9 @@ const shows = [
         "audioUrl": "audio/always-sunny/136_put_your_hands_on_top_of_mine.mp3"
       },
       {
-        "text": "Reason will prevail",
-        "character": "",
-        "audioUrl": "audio/always-sunny/137_reason_will_prevail.mp3"
-      },
-      {
         "text": "Reason will prevail!",
         "character": "",
         "audioUrl": "audio/always-sunny/138_reason_will_prevail.mp3"
-      },
-      {
-        "text": "Relaxing and getting blackout drunk",
-        "character": "",
-        "audioUrl": "audio/always-sunny/139_relaxing_and_getting_blackout_drunk.mp3"
       },
       {
         "text": "Road Rage",
@@ -6179,11 +4569,6 @@ const shows = [
         "text": "Road Rage",
         "character": "",
         "audioUrl": "audio/always-sunny/141_road_rage.mp3"
-      },
-      {
-        "text": "Rum ham",
-        "character": "",
-        "audioUrl": "audio/always-sunny/142_rum_ham.mp3"
       },
       {
         "text": "Rum ham rescue",
@@ -6201,24 +4586,9 @@ const shows = [
         "audioUrl": "audio/always-sunny/145_science_is_a_liar.mp3"
       },
       {
-        "text": "Science is a liar sometimes",
-        "character": "",
-        "audioUrl": "audio/always-sunny/146_science_is_a_liar_sometimes.mp3"
-      },
-      {
-        "text": "Season 12 Finale Dance",
+        "text": "Season 12 finale dance",
         "character": "",
         "audioUrl": "audio/always-sunny/147_season_12_finale_dance.mp3"
-      },
-      {
-        "text": "Shabooya roka",
-        "character": "",
-        "audioUrl": "audio/always-sunny/148_shabooya_roka.mp3"
-      },
-      {
-        "text": "Shut up, baby dick",
-        "character": "",
-        "audioUrl": "audio/always-sunny/149_shut_up_baby_dick.mp3"
       },
       {
         "text": "Shut up!",
@@ -6226,19 +4596,14 @@ const shows = [
         "audioUrl": "audio/always-sunny/150_shut_up.mp3"
       },
       {
-        "text": "Shut up! Shut up! Oh My God I don't care",
+        "text": "Shut up! Shut up! Oh my God I don't care",
         "character": "",
         "audioUrl": "audio/always-sunny/151_shut_up_shut_up_oh_my_god_i_don_t_care.mp3"
       },
       {
-        "text": "Sickness Be Gone",
+        "text": "Sickness be gone",
         "character": "",
         "audioUrl": "audio/always-sunny/152_sickness_be_gone.mp3"
-      },
-      {
-        "text": "Silence",
-        "character": "",
-        "audioUrl": "audio/always-sunny/153_silence.mp3"
       },
       {
         "text": "Slow clap",
@@ -6246,7 +4611,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/154_slow_clap.mp3"
       },
       {
-        "text": "Smitty's Butt Dance",
+        "text": "Smitty's butt dance",
         "character": "",
         "audioUrl": "audio/always-sunny/155_smitty_s_butt_dance.mp3"
       },
@@ -6281,24 +4646,9 @@ const shows = [
         "audioUrl": "audio/always-sunny/161_tell_me_it_was_good_tell_me_i_m_good_tell_me_i_m_good_tell_m.mp3"
       },
       {
-        "text": "That bitch is dead",
-        "character": "",
-        "audioUrl": "audio/always-sunny/162_that_bitch_is_dead.mp3"
-      },
-      {
         "text": "That I love. I absolutely love",
         "character": "",
         "audioUrl": "audio/always-sunny/163_that_i_love_i_absolutely_love.mp3"
-      },
-      {
-        "text": "That's a false equivalence",
-        "character": "",
-        "audioUrl": "audio/always-sunny/164_that_s_a_false_equivalence.mp3"
-      },
-      {
-        "text": "That's how you get off",
-        "character": "",
-        "audioUrl": "audio/always-sunny/165_that_s_how_you_get_off.mp3"
       },
       {
         "text": "The Ass Pounder 4000",
@@ -6316,14 +4666,9 @@ const shows = [
         "audioUrl": "audio/always-sunny/168_the_gang_gets_sick.mp3"
       },
       {
-        "text": "The Gang Harmonizes",
+        "text": "The gang harmonizes",
         "character": "",
         "audioUrl": "audio/always-sunny/169_the_gang_harmonizes.mp3"
-      },
-      {
-        "text": "The golden god",
-        "character": "",
-        "audioUrl": "audio/always-sunny/170_the_golden_god.mp3"
       },
       {
         "text": "The music will come",
@@ -6331,7 +4676,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/171_the_music_will_come.mp3"
       },
       {
-        "text": "The Paint Is For The Beer",
+        "text": "The paint is for the beer",
         "character": "",
         "audioUrl": "audio/always-sunny/172_the_paint_is_for_the_beer.mp3"
       },
@@ -6356,7 +4701,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/176_this_is_my_p_diddy_boat_dance.mp3"
       },
       {
-        "text": "This Isn't Over Til I Say It Is Over!",
+        "text": "This isn't over til I say it is over!",
         "character": "",
         "audioUrl": "audio/always-sunny/177_this_isn_t_over_til_i_say_it_is_over.mp3"
       },
@@ -6364,11 +4709,6 @@ const shows = [
         "text": "Three strikes and you're out",
         "character": "",
         "audioUrl": "audio/always-sunny/178_three_strikes_and_you_re_out.mp3"
-      },
-      {
-        "text": "Thumbs Up",
-        "character": "",
-        "audioUrl": "audio/always-sunny/179_thumbs_up.mp3"
       },
       {
         "text": "Tools",
@@ -6386,7 +4726,7 @@ const shows = [
         "audioUrl": "audio/always-sunny/182_toxic_waste_bunch_of_liberal_bullshit.mp3"
       },
       {
-        "text": "TRIVIA BABY",
+        "text": "Trivia baby",
         "character": "",
         "audioUrl": "audio/always-sunny/183_trivia_baby.mp3"
       },
@@ -6409,11 +4749,6 @@ const shows = [
         "text": "Unzipped",
         "character": "",
         "audioUrl": "audio/always-sunny/187_unzipped.mp3"
-      },
-      {
-        "text": "We have to quarantine ourselves",
-        "character": "",
-        "audioUrl": "audio/always-sunny/188_we_have_to_quarantine_ourselves.mp3"
       },
       {
         "text": "We need to honor St",
@@ -6441,39 +4776,9 @@ const shows = [
         "audioUrl": "audio/always-sunny/193_well_what_show_i_dropped_my_monster_condom_that_i_use_for_my.mp3"
       },
       {
-        "text": "What is your spaghetti policy here?",
-        "character": "",
-        "audioUrl": "audio/always-sunny/194_what_is_your_spaghetti_policy_here.mp3"
-      },
-      {
-        "text": "Whatever, you bitch!",
-        "character": "",
-        "audioUrl": "audio/always-sunny/195_whatever_you_bitch.mp3"
-      },
-      {
-        "text": "Where is our god damn bible",
-        "character": "",
-        "audioUrl": "audio/always-sunny/196_where_is_our_god_damn_bible.mp3"
-      },
-      {
-        "text": "Whip this bitch in the face",
-        "character": "",
-        "audioUrl": "audio/always-sunny/197_whip_this_bitch_in_the_face.mp3"
-      },
-      {
         "text": "Dropped my monster condom",
         "character": "",
         "audioUrl": "audio/always-sunny/198_whoops_i_dropped_my_monster_condom_that_i_use_for_my_magnum.mp3"
-      },
-      {
-        "text": "Why I Oughta",
-        "character": "",
-        "audioUrl": "audio/always-sunny/199_why_i_oughta.mp3"
-      },
-      {
-        "text": "Why you look so stupid?",
-        "character": "",
-        "audioUrl": "audio/always-sunny/200_why_you_look_so_stupid.mp3"
       },
       {
         "text": "Wild card bitches! Yeehaw!",
@@ -6486,16 +4791,6 @@ const shows = [
         "audioUrl": "audio/always-sunny/202_wildcard_bitches.mp3"
       },
       {
-        "text": "WTF is that supposed to mean?",
-        "character": "",
-        "audioUrl": "audio/always-sunny/203_wtf_is_that_supposed_to_mean.mp3"
-      },
-      {
-        "text": "Yeah?!",
-        "character": "",
-        "audioUrl": "audio/always-sunny/204_yeah.mp3"
-      },
-      {
         "text": "Yeeeeessssssss",
         "character": "",
         "audioUrl": "audio/always-sunny/205_yeeeeessssssss.mp3"
@@ -6504,16 +4799,6 @@ const shows = [
         "text": "Yeeeeessssssssssss",
         "character": "",
         "audioUrl": "audio/always-sunny/206_yeeeeessssssssssss.mp3"
-      },
-      {
-        "text": "Yesss!",
-        "character": "",
-        "audioUrl": "audio/always-sunny/207_yesss.mp3"
-      },
-      {
-        "text": "You Dumb Bitch",
-        "character": "",
-        "audioUrl": "audio/always-sunny/208_you_dumb_bitch.mp3"
       },
       {
         "text": "You eat my boogers",
@@ -6531,16 +4816,6 @@ const shows = [
         "audioUrl": "audio/always-sunny/211_you_have_to_be_a_real_piece_of_shit_to_get_involved_in_polit.mp3"
       },
       {
-        "text": "You know for the sherlock holmes look",
-        "character": "",
-        "audioUrl": "audio/always-sunny/212_you_know_for_the_sherlock_holmes_look.mp3"
-      },
-      {
-        "text": "You know what it is bitch",
-        "character": "",
-        "audioUrl": "audio/always-sunny/213_you_know_what_it_is_bitch.mp3"
-      },
-      {
         "text": "You must excuse maine",
         "character": "",
         "audioUrl": "audio/always-sunny/214_you_must_excuse_maine.mp3"
@@ -6554,21 +4829,6 @@ const shows = [
         "text": "You're gonna die tonight",
         "character": "",
         "audioUrl": "audio/always-sunny/216_you_re_gonna_die_tonight.mp3"
-      },
-      {
-        "text": "You're gonna quarantine me inside a quarantine?",
-        "character": "",
-        "audioUrl": "audio/always-sunny/217_you_re_gonna_quarantine_me_inside_a_quarantine.mp3"
-      },
-      {
-        "text": "You're so stupid",
-        "character": "",
-        "audioUrl": "audio/always-sunny/218_you_re_so_stupid.mp3"
-      },
-      {
-        "text": "Your breath is dog shit",
-        "character": "",
-        "audioUrl": "audio/always-sunny/219_your_breath_is_dog_shit.mp3"
       }
     ]
   },
@@ -7012,11 +5272,6 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "AbsolutelyF-ckinNot",
-        "character": "",
-        "audioUrl": "audio/sopranos/001_absolutelyf_ckinnot.mp3"
-      },
-      {
         "text": "Alright, Done",
         "character": "",
         "audioUrl": "audio/sopranos/002_alright_done.mp3"
@@ -7037,11 +5292,6 @@ const shows = [
         "audioUrl": "audio/sopranos/005_better_if_i_never_open_my_mouth_mom.mp3"
       },
       {
-        "text": "Bigger Hand",
-        "character": "",
-        "audioUrl": "audio/sopranos/006_bigger_hand.mp3"
-      },
-      {
         "text": "Booty? Pussy",
         "character": "",
         "audioUrl": "audio/sopranos/007_booty_pussy.mp3"
@@ -7052,7 +5302,7 @@ const shows = [
         "audioUrl": "audio/sopranos/008_boring.mp3"
       },
       {
-        "text": "Bring Some Food, and Shoes",
+        "text": "Bring some food, and shoes",
         "character": "",
         "audioUrl": "audio/sopranos/009_bring_some_food_and_shoes.mp3"
       },
@@ -7062,7 +5312,7 @@ const shows = [
         "audioUrl": "audio/sopranos/010_brylcreem.mp3"
       },
       {
-        "text": "Can't Catch a Break",
+        "text": "Can't catch a break",
         "character": "",
         "audioUrl": "audio/sopranos/011_can_t_catch_a_break.mp3"
       },
@@ -7077,7 +5327,7 @@ const shows = [
         "audioUrl": "audio/sopranos/013_carmella_treehouse.mp3"
       },
       {
-        "text": "Cholesterol - Tony's Mom",
+        "text": "Cholesterol - Tony's mom",
         "character": "",
         "audioUrl": "audio/sopranos/014_cholesterol_tony_s_mom.mp3"
       },
@@ -7097,49 +5347,19 @@ const shows = [
         "audioUrl": "audio/sopranos/017_couples_therapy.mp3"
       },
       {
-        "text": "Dissed the Bing",
-        "character": "",
-        "audioUrl": "audio/sopranos/018_dissed_the_bing.mp3"
-      },
-      {
-        "text": "Don't Be Late",
+        "text": "Don't be late",
         "character": "",
         "audioUrl": "audio/sopranos/019_don_t_be_late.mp3"
       },
       {
-        "text": "Don't know what your saying - ******",
-        "character": "",
-        "audioUrl": "audio/sopranos/020_don_t_know_what_your_saying.mp3"
-      },
-      {
-        "text": "Dress Like a Man",
+        "text": "Dress like a man",
         "character": "",
         "audioUrl": "audio/sopranos/021_dress_like_a_man.mp3"
       },
       {
-        "text": "Dust Up My Crack",
+        "text": "Dust up my crack",
         "character": "",
         "audioUrl": "audio/sopranos/022_dust_up_my_crack.mp3"
-      },
-      {
-        "text": "Endangered",
-        "character": "",
-        "audioUrl": "audio/sopranos/023_endangered.mp3"
-      },
-      {
-        "text": "Even a Broken Clock",
-        "character": "",
-        "audioUrl": "audio/sopranos/024_even_a_broken_clock.mp3"
-      },
-      {
-        "text": "Expensive piece",
-        "character": "",
-        "audioUrl": "audio/sopranos/025_expensive_piece.mp3"
-      },
-      {
-        "text": "F-ckin Internet",
-        "character": "",
-        "audioUrl": "audio/sopranos/026_f_ckin_internet.mp3"
       },
       {
         "text": "Finally",
@@ -7147,49 +5367,24 @@ const shows = [
         "audioUrl": "audio/sopranos/027_finally.mp3"
       },
       {
-        "text": "Fresh produce",
-        "character": "",
-        "audioUrl": "audio/sopranos/028_fresh_produce.mp3"
-      },
-      {
-        "text": "Fucking Depressing",
-        "character": "",
-        "audioUrl": "audio/sopranos/029_fucking_depressing.mp3"
-      },
-      {
-        "text": "Get Out of Here",
+        "text": "Get out of here",
         "character": "",
         "audioUrl": "audio/sopranos/030_get_out_of_here.mp3"
       },
       {
-        "text": "Get To the Fucking Point",
+        "text": "Get to the fucking point",
         "character": "",
         "audioUrl": "audio/sopranos/031_get_to_the_fucking_point.mp3"
       },
       {
-        "text": "Get Your Hearing Checked",
+        "text": "Get your hearing checked",
         "character": "",
         "audioUrl": "audio/sopranos/032_get_your_hearing_checked.mp3"
       },
       {
-        "text": "God damn Opinion",
-        "character": "",
-        "audioUrl": "audio/sopranos/033_god_damn_opinion.mp3"
-      },
-      {
-        "text": "Going to hell",
-        "character": "",
-        "audioUrl": "audio/sopranos/034_going_to_hell.mp3"
-      },
-      {
-        "text": "He Told You That?",
+        "text": "He told you that?",
         "character": "",
         "audioUrl": "audio/sopranos/035_he_told_you_that.mp3"
-      },
-      {
-        "text": "He’s a faaaaag",
-        "character": "",
-        "audioUrl": "audio/sopranos/036_he_s_a_faaaaag.mp3"
       },
       {
         "text": "Hinkey Shit",
@@ -7197,24 +5392,14 @@ const shows = [
         "audioUrl": "audio/sopranos/037_hinkey_shit.mp3"
       },
       {
-        "text": "His Car was Out Front",
+        "text": "His car was out front",
         "character": "",
         "audioUrl": "audio/sopranos/038_his_car_was_out_front.mp3"
       },
       {
-        "text": "I don't like that talk - ******",
-        "character": "",
-        "audioUrl": "audio/sopranos/039_i_don_t_like_that_talk.mp3"
-      },
-      {
-        "text": "I Guess You Could Call That a Dick",
+        "text": "I guess you could call that a dick",
         "character": "",
         "audioUrl": "audio/sopranos/040_i_guess_you_could_call_that_a_dick.mp3"
-      },
-      {
-        "text": "I like this girl",
-        "character": "",
-        "audioUrl": "audio/sopranos/041_i_like_this_girl.mp3"
       },
       {
         "text": "I love you, baby",
@@ -7222,17 +5407,12 @@ const shows = [
         "audioUrl": "audio/sopranos/042_i_love_you_baby.mp3"
       },
       {
-        "text": "I Thought We Understood",
+        "text": "I thought we understood",
         "character": "",
         "audioUrl": "audio/sopranos/043_i_thought_we_understood.mp3"
       },
       {
-        "text": "If I was Smart",
-        "character": "",
-        "audioUrl": "audio/sopranos/044_if_i_was_smart.mp3"
-      },
-      {
-        "text": "If My Dentist Looked Like You",
+        "text": "If my dentist looked like you",
         "character": "",
         "audioUrl": "audio/sopranos/045_if_my_dentist_looked_like_you.mp3"
       },
@@ -7252,19 +5432,9 @@ const shows = [
         "audioUrl": "audio/sopranos/048_join_the_party.mp3"
       },
       {
-        "text": "Just Wanted To Talk",
-        "character": "",
-        "audioUrl": "audio/sopranos/049_just_wanted_to_talk.mp3"
-      },
-      {
         "text": "Leave town",
         "character": "",
         "audioUrl": "audio/sopranos/050_leave_town.mp3"
-      },
-      {
-        "text": "Let Sleeping Dogs Lie",
-        "character": "",
-        "audioUrl": "audio/sopranos/051_let_sleeping_dogs_lie.mp3"
       },
       {
         "text": "Looking into the Distance",
@@ -7272,22 +5442,7 @@ const shows = [
         "audioUrl": "audio/sopranos/052_looking_into_the_distance.mp3"
       },
       {
-        "text": "Nephew Christopher",
-        "character": "",
-        "audioUrl": "audio/sopranos/053_nephew_christopher.mp3"
-      },
-      {
-        "text": "Nicotine is Addictive",
-        "character": "",
-        "audioUrl": "audio/sopranos/054_nicotine_is_addictive.mp3"
-      },
-      {
-        "text": "No hello?",
-        "character": "",
-        "audioUrl": "audio/sopranos/055_no_hello.mp3"
-      },
-      {
-        "text": "Nobody's Talking to You",
+        "text": "Nobody's talking to you",
         "character": "",
         "audioUrl": "audio/sopranos/056_nobody_s_talking_to_you.mp3"
       },
@@ -7297,12 +5452,7 @@ const shows = [
         "audioUrl": "audio/sopranos/057_nothing_did.mp3"
       },
       {
-        "text": "Oh Yeah - Tony",
-        "character": "",
-        "audioUrl": "audio/sopranos/058_oh_yeah_tony.mp3"
-      },
-      {
-        "text": "Paulie And Chrissy",
+        "text": "Paulie and Chrissy",
         "character": "",
         "audioUrl": "audio/sopranos/059_paulie_and_chrissy.mp3"
       },
@@ -7317,7 +5467,7 @@ const shows = [
         "audioUrl": "audio/sopranos/061_pull_me_back_in_impression.mp3"
       },
       {
-        "text": "Put Our Cards Out",
+        "text": "Put our cards out",
         "character": "",
         "audioUrl": "audio/sopranos/062_put_our_cards_out.mp3"
       },
@@ -7337,19 +5487,14 @@ const shows = [
         "audioUrl": "audio/sopranos/065_setting_up_a_secure_line.mp3"
       },
       {
-        "text": "Shared His Wealth",
+        "text": "Shared his wealth",
         "character": "",
         "audioUrl": "audio/sopranos/066_shared_his_wealth.mp3"
       },
       {
-        "text": "Sil - Dark Moods",
+        "text": "Sil - dark moods",
         "character": "",
         "audioUrl": "audio/sopranos/067_sil_dark_moods.mp3"
-      },
-      {
-        "text": "Smart Alecky - Tony",
-        "character": "",
-        "audioUrl": "audio/sopranos/068_smart_alecky_tony.mp3"
       },
       {
         "text": "Somebodies Talkin to much",
@@ -7357,12 +5502,12 @@ const shows = [
         "audioUrl": "audio/sopranos/069_somebodies_talkin_to_much.mp3"
       },
       {
-        "text": "Sorry Sack of Shit",
+        "text": "Sorry sack of shit",
         "character": "",
         "audioUrl": "audio/sopranos/070_sorry_sack_of_shit.mp3"
       },
       {
-        "text": "Stick it Up Your Ass",
+        "text": "Stick it up your ass",
         "character": "",
         "audioUrl": "audio/sopranos/071_stick_it_up_your_ass.mp3"
       },
@@ -7375,16 +5520,6 @@ const shows = [
         "text": "Talk more than 6 barbers",
         "character": "",
         "audioUrl": "audio/sopranos/073_talk_more_than_6_barbers.mp3"
-      },
-      {
-        "text": "Thank you, Daddy",
-        "character": "",
-        "audioUrl": "audio/sopranos/074_thank_you_daddy.mp3"
-      },
-      {
-        "text": "That's cause I'm not talkin to you",
-        "character": "",
-        "audioUrl": "audio/sopranos/075_that_s_cause_i_m_not_talkin_to_you.mp3"
       },
       {
         "text": "The Family",
@@ -7407,12 +5542,12 @@ const shows = [
         "audioUrl": "audio/sopranos/079_theme_song.mp3"
       },
       {
-        "text": "This is How You Try?!",
+        "text": "This is how you try?!",
         "character": "",
         "audioUrl": "audio/sopranos/080_this_is_how_you_try.mp3"
       },
       {
-        "text": "This Isn't Funny",
+        "text": "This isn't funny",
         "character": "",
         "audioUrl": "audio/sopranos/081_this_isn_t_funny.mp3"
       },
@@ -7427,14 +5562,9 @@ const shows = [
         "audioUrl": "audio/sopranos/083_tony_montana.mp3"
       },
       {
-        "text": "Tony Soprano - Ducks",
+        "text": "Tony Soprano - ducks",
         "character": "",
         "audioUrl": "audio/sopranos/084_tony_soprano_ducks.mp3"
-      },
-      {
-        "text": "Tony Soprano Clapping",
-        "character": "",
-        "audioUrl": "audio/sopranos/085_tony_soprano_clapping.mp3"
       },
       {
         "text": "Uncle Junior",
@@ -7447,11 +5577,6 @@ const shows = [
         "audioUrl": "audio/sopranos/087_wait_in_the_car.mp3"
       },
       {
-        "text": "Way out of line",
-        "character": "",
-        "audioUrl": "audio/sopranos/088_way_out_of_line.mp3"
-      },
-      {
         "text": "What is This?",
         "character": "",
         "audioUrl": "audio/sopranos/089_what_is_this.mp3"
@@ -7462,17 +5587,12 @@ const shows = [
         "audioUrl": "audio/sopranos/090_what_the_fuck.mp3"
       },
       {
-        "text": "What you gonna do - Tony",
-        "character": "",
-        "audioUrl": "audio/sopranos/091_what_you_gonna_do_tony.mp3"
-      },
-      {
-        "text": "Whining to the Big Man",
+        "text": "Whining to the big man",
         "character": "",
         "audioUrl": "audio/sopranos/092_whining_to_the_big_man.mp3"
       },
       {
-        "text": "Who Do You Think You Are?",
+        "text": "Who do you think you are?",
         "character": "",
         "audioUrl": "audio/sopranos/093_who_do_you_think_you_are.mp3"
       },
@@ -7482,27 +5602,7 @@ const shows = [
         "audioUrl": "audio/sopranos/094_why_would_i_trust.mp3"
       },
       {
-        "text": "Wormy",
-        "character": "",
-        "audioUrl": "audio/sopranos/095_wormy.mp3"
-      },
-      {
-        "text": "Worry about what you give me",
-        "character": "",
-        "audioUrl": "audio/sopranos/096_worry_about_what_you_give_me.mp3"
-      },
-      {
-        "text": "Yeah right, what man",
-        "character": "",
-        "audioUrl": "audio/sopranos/097_yeah_right_what_man.mp3"
-      },
-      {
-        "text": "Yeah, Zebra",
-        "character": "",
-        "audioUrl": "audio/sopranos/098_yeah_zebra.mp3"
-      },
-      {
-        "text": "You are What You Are",
+        "text": "You are what you are",
         "character": "",
         "audioUrl": "audio/sopranos/099_you_are_what_you_are.mp3"
       },
@@ -7512,34 +5612,9 @@ const shows = [
         "audioUrl": "audio/sopranos/100_you_don_t_know_me.mp3"
       },
       {
-        "text": "You Gotta Rest",
+        "text": "You gotta rest",
         "character": "",
         "audioUrl": "audio/sopranos/101_you_gotta_rest.mp3"
-      },
-      {
-        "text": "You Haven't Heard Ours",
-        "character": "",
-        "audioUrl": "audio/sopranos/102_you_haven_t_heard_ours.mp3"
-      },
-      {
-        "text": "You oughta be ashamed- Mom",
-        "character": "",
-        "audioUrl": "audio/sopranos/103_you_oughta_be_ashamed_mom.mp3"
-      },
-      {
-        "text": "You were like a brother to me",
-        "character": "",
-        "audioUrl": "audio/sopranos/104_you_were_like_a_brother_to_me.mp3"
-      },
-      {
-        "text": "You're Sleeping Over?",
-        "character": "",
-        "audioUrl": "audio/sopranos/105_you_re_sleeping_over.mp3"
-      },
-      {
-        "text": "***** on the brain - Tony",
-        "character": "",
-        "audioUrl": "audio/sopranos/106_on_the_brain_tony.mp3"
       }
     ]
   },
@@ -7555,12 +5630,12 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "A Good Church Man Is Always Up in Everybody's Shit",
+        "text": "A good church man is always up in everybody's shit",
         "character": "",
         "audioUrl": "audio/the-wire/001_a_good_church_man_is_always_up_in_everybody_s_shit.mp3"
       },
       {
-        "text": "A Man Must Have A Code",
+        "text": "A man must have a code",
         "character": "",
         "audioUrl": "audio/the-wire/002_a_man_must_have_a_code.mp3"
       },
@@ -7580,22 +5655,22 @@ const shows = [
         "audioUrl": "audio/the-wire/005_all_in_the_game_yo.mp3"
       },
       {
-        "text": "Barksdale Got to Go",
+        "text": "Barksdale got to go",
         "character": "",
         "audioUrl": "audio/the-wire/006_barksdale_got_to_go.mp3"
       },
       {
-        "text": "Bunk Freeman Interrogation",
+        "text": "Bunk Freeman interrogation",
         "character": "",
         "audioUrl": "audio/the-wire/007_bunk_freeman_interrogation.mp3"
       },
       {
-        "text": "But I Want My Corners",
+        "text": "But I want my corners",
         "character": "",
         "audioUrl": "audio/the-wire/008_but_i_want_my_corners.mp3"
       },
       {
-        "text": "But If You Start to Follow the Money",
+        "text": "But if you start to follow the money",
         "character": "",
         "audioUrl": "audio/the-wire/009_but_if_you_start_to_follow_the_money.mp3"
       },
@@ -7615,17 +5690,12 @@ const shows = [
         "audioUrl": "audio/the-wire/012_finger_wag.mp3"
       },
       {
-        "text": "Happy Now, Bitch?",
-        "character": "",
-        "audioUrl": "audio/the-wire/013_happy_now_bitch.mp3"
-      },
-      {
-        "text": "I Got the Shotgun",
+        "text": "I got the shotgun",
         "character": "",
         "audioUrl": "audio/the-wire/014_i_got_the_shotgun.mp3"
       },
       {
-        "text": "I See A Man without a Country",
+        "text": "I see a man without a country",
         "character": "",
         "audioUrl": "audio/the-wire/015_i_see_a_man_without_a_country.mp3"
       },
@@ -7635,32 +5705,22 @@ const shows = [
         "audioUrl": "audio/the-wire/016_i_swear_to_fucking_christ_we_we_will_beat_you_longer.mp3"
       },
       {
-        "text": "I'll take any money",
-        "character": "",
-        "audioUrl": "audio/the-wire/017_i_ll_take_any_mother_fucker_s_money_if_he_s_giving_it_away.mp3"
-      },
-      {
-        "text": "If I Hear the Music, I'm Gonna Dance",
-        "character": "",
-        "audioUrl": "audio/the-wire/018_if_i_hear_the_music_i_m_gonna_dance.mp3"
-      },
-      {
         "text": "Indeed",
         "character": "",
         "audioUrl": "audio/the-wire/019_indeed.mp3"
       },
       {
-        "text": "It's 85 Degrees Out Here",
+        "text": "It's 85 degrees out here",
         "character": "",
         "audioUrl": "audio/the-wire/020_it_s_85_degrees_out_here.mp3"
       },
       {
-        "text": "It's Baltimore, Gentlemen",
+        "text": "It's Baltimore, gentlemen",
         "character": "",
         "audioUrl": "audio/the-wire/021_it_s_baltimore_gentlemen.mp3"
       },
       {
-        "text": "It's Play, or Get Played",
+        "text": "It's play, or get played",
         "character": "",
         "audioUrl": "audio/the-wire/022_it_s_play_or_get_played.mp3"
       },
@@ -7670,7 +5730,7 @@ const shows = [
         "audioUrl": "audio/the-wire/023_juking_the_stats.mp3"
       },
       {
-        "text": "My Name is My Name",
+        "text": "My name is my name",
         "character": "",
         "audioUrl": "audio/the-wire/024_my_name_is_my_name.mp3"
       },
@@ -7678,11 +5738,6 @@ const shows = [
         "text": "Never mind you why",
         "character": "",
         "audioUrl": "audio/the-wire/025_never_mind_you_why.mp3"
-      },
-      {
-        "text": "Oh indeed",
-        "character": "",
-        "audioUrl": "audio/the-wire/026_oh_indeed.mp3"
       },
       {
         "text": "Omar Whistles",
@@ -7700,42 +5755,22 @@ const shows = [
         "audioUrl": "audio/the-wire/029_prez_shoots_a_wall.mp3"
       },
       {
-        "text": "Sheeeee it",
-        "character": "",
-        "audioUrl": "audio/the-wire/030_sheeeee_it.mp3"
-      },
-      {
         "text": "Sunday Truce",
         "character": "",
         "audioUrl": "audio/the-wire/031_sunday_truce.mp3"
       },
       {
-        "text": "That's fucking stupid",
-        "character": "",
-        "audioUrl": "audio/the-wire/032_that_s_fucking_stupid.mp3"
-      },
-      {
-        "text": "The Game Ain't In Me No More",
-        "character": "",
-        "audioUrl": "audio/the-wire/033_the_game_ain_t_in_me_no_more.mp3"
-      },
-      {
-        "text": "The King Stay the King",
-        "character": "",
-        "audioUrl": "audio/the-wire/034_the_king_stay_the_king.mp3"
-      },
-      {
-        "text": "The Sunday Truce",
+        "text": "The Sunday truce",
         "character": "",
         "audioUrl": "audio/the-wire/035_the_sunday_truce.mp3"
       },
       {
-        "text": "The Wire This is BS",
+        "text": "This is bullshit",
         "character": "",
         "audioUrl": "audio/the-wire/036_the_wire_this_is_bs.mp3"
       },
       {
-        "text": "These Are For You McNulty",
+        "text": "These are for you McNulty",
         "character": "",
         "audioUrl": "audio/the-wire/037_these_are_for_you_mcnulty.mp3"
       },
@@ -7745,12 +5780,12 @@ const shows = [
         "audioUrl": "audio/the-wire/038_this_is_bullshit.mp3"
       },
       {
-        "text": "This Look Like Money?",
+        "text": "This look like money?",
         "character": "",
         "audioUrl": "audio/the-wire/039_this_look_like_money.mp3"
       },
       {
-        "text": "Thought I Might Legalize Drugs",
+        "text": "Thought I might legalize drugs",
         "character": "",
         "audioUrl": "audio/the-wire/040_thought_i_might_legalize_drugs.mp3"
       },
@@ -7760,17 +5795,12 @@ const shows = [
         "audioUrl": "audio/the-wire/041_wars_end.mp3"
       },
       {
-        "text": "We Used to Make Shit in this Country",
+        "text": "We used to make shit in this country",
         "character": "",
         "audioUrl": "audio/the-wire/042_we_used_to_make_shit_in_this_country.mp3"
       },
       {
-        "text": "Wee Bey is shocked",
-        "character": "",
-        "audioUrl": "audio/the-wire/043_wee_bey_is_shocked.mp3"
-      },
-      {
-        "text": "When I Fuck You Over, You'll Know It",
+        "text": "When I fuck you over, you'll know it",
         "character": "",
         "audioUrl": "audio/the-wire/044_when_i_fuck_you_over_you_ll_know_it.mp3"
       },
@@ -7790,24 +5820,19 @@ const shows = [
         "audioUrl": "audio/the-wire/047_yo_the_man_asked_you_a_simple_question.mp3"
       },
       {
-        "text": "You Cannot Lose if You Do Not Play",
+        "text": "You cannot lose if you do not play",
         "character": "",
         "audioUrl": "audio/the-wire/048_you_cannot_lose_if_you_do_not_play.mp3"
       },
       {
-        "text": "You Come at the King",
+        "text": "You come at the king",
         "character": "",
         "audioUrl": "audio/the-wire/049_you_come_at_the_king.mp3"
       },
       {
-        "text": "You McNulty, are a Gaping Asshole",
+        "text": "You McNulty, are a gaping asshole",
         "character": "",
         "audioUrl": "audio/the-wire/050_you_mcnulty_are_a_gaping_asshole.mp3"
-      },
-      {
-        "text": "Rather live in shit",
-        "character": "",
-        "audioUrl": "audio/the-wire/051_you_d_rather_live_in_shit_than_let_the_world_see_you_work_a.mp3"
       }
     ]
   },
@@ -7833,12 +5858,7 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/002_a_lot_of_vodka.mp3"
       },
       {
-        "text": "Alan Rails - All Aboard, Motherfucker!",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/003_alan_rails_all_aboard_motherfucker.mp3"
-      },
-      {
-        "text": "Almost Always Dressed as Superman",
+        "text": "Almost always dressed as Superman",
         "character": "",
         "audioUrl": "audio/rick-and-morty/004_almost_always_dressed_as_superman.mp3"
       },
@@ -7848,14 +5868,9 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/005_alternative_interrogation.mp3"
       },
       {
-        "text": "And That's How We Play Hands",
+        "text": "And that's how we play hands",
         "character": "",
         "audioUrl": "audio/rick-and-morty/006_and_that_s_how_we_play_hands.mp3"
-      },
-      {
-        "text": "Anomaly Raad habibi allahu akbar",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/007_anomaly_raad_habibi_allahu_akbar.mp3"
       },
       {
         "text": "Ants in my eyes Johnson",
@@ -7868,7 +5883,7 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/009_are_you_a_simulation.mp3"
       },
       {
-        "text": "Are You Hungry for Apples",
+        "text": "Are you hungry for apples",
         "character": "",
         "audioUrl": "audio/rick-and-morty/010_are_you_hungry_for_apples.mp3"
       },
@@ -7883,37 +5898,12 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/012_banana_rick.mp3"
       },
       {
-        "text": "Be Ashamed Of Your Gender",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/013_be_ashamed_of_your_gender.mp3"
-      },
-      {
-        "text": "Because I'm Having a Party..",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/014_because_i_m_having_a_party.mp3"
-      },
-      {
-        "text": "Because I'm the Rickest Rick there is",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/015_because_i_m_the_rickest_rick_there_is.mp3"
-      },
-      {
-        "text": "Being Nice",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/016_being_nice.mp3"
-      },
-      {
         "text": "Bigot Attack",
         "character": "",
         "audioUrl": "audio/rick-and-morty/017_bigot_attack.mp3"
       },
       {
-        "text": "Bitch, my generation gets traumatized for breakfast",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/018_bitch_my_generation_gets_traumatized_for_breakfast.mp3"
-      },
-      {
-        "text": "Blips And Chitz",
+        "text": "Blips and Chitz",
         "character": "",
         "audioUrl": "audio/rick-and-morty/019_blips_and_chitz.mp3"
       },
@@ -7923,19 +5913,9 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/020_bully_attack.mp3"
       },
       {
-        "text": "Butt Morty caught watching faces",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/021_butt_morty_caught_watching_faces.mp3"
-      },
-      {
         "text": "Can do!",
         "character": "",
         "audioUrl": "audio/rick-and-morty/022_can_do.mp3"
-      },
-      {
-        "text": "Caught Wanking",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/023_caught_wanking.mp3"
       },
       {
         "text": "Christmas Drums",
@@ -7943,7 +5923,7 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/024_christmas_drums.mp3"
       },
       {
-        "text": "Christmas Is a Special Time",
+        "text": "Christmas is a special time",
         "character": "",
         "audioUrl": "audio/rick-and-morty/025_christmas_is_a_special_time.mp3"
       },
@@ -7963,24 +5943,9 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/028_come_on_football.mp3"
       },
       {
-        "text": "Considered a dick move",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/029_considered_a_dick_move.mp3"
-      },
-      {
-        "text": "Cool",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/030_cool.mp3"
-      },
-      {
         "text": "Crying and drinking wine",
         "character": "",
         "audioUrl": "audio/rick-and-morty/031_crying_and_drinking_wine.mp3"
-      },
-      {
-        "text": "Cut the high road routine",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/032_cut_the_high_road_routine.mp3"
       },
       {
         "text": "Da Doi",
@@ -7998,32 +5963,12 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/035_do_you_know_what_wubba_lubba_dub_dub_means.mp3"
       },
       {
-        "text": "Do You Like It?",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/036_do_you_like_it.mp3"
-      },
-      {
-        "text": "Don't even trip, dawg",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/037_don_t_even_trip_dawg.mp3"
-      },
-      {
         "text": "Eat Shit",
         "character": "",
         "audioUrl": "audio/rick-and-morty/038_eat_shit.mp3"
       },
       {
-        "text": "Eat the baby",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/039_eat_the_baby.mp3"
-      },
-      {
-        "text": "Everybody's Gonna Die",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/040_everybody_s_gonna_die.mp3"
-      },
-      {
-        "text": "Evil Morty Theme Earrape",
+        "text": "Evil Morty theme earrape",
         "character": "",
         "audioUrl": "audio/rick-and-morty/041_evil_morty_theme_earrape.mp3"
       },
@@ -8033,12 +5978,12 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/042_fart.mp3"
       },
       {
-        "text": "Fuck You I'm through here",
+        "text": "Fuck you I'm through here",
         "character": "",
         "audioUrl": "audio/rick-and-morty/043_fuck_you_i_m_through_here.mp3"
       },
       {
-        "text": "Fuck You Summer, and Fuck the Government",
+        "text": "Fuck you Summer, and fuck the government",
         "character": "",
         "audioUrl": "audio/rick-and-morty/044_fuck_you_summer_and_fuck_the_government.mp3"
       },
@@ -8083,7 +6028,7 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/052_get_your_shit_together.mp3"
       },
       {
-        "text": "Get Your Shit Together",
+        "text": "Get your shit together",
         "character": "",
         "audioUrl": "audio/rick-and-morty/053_get_your_shit_together.mp3"
       },
@@ -8098,7 +6043,7 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/055_giant_prison.mp3"
       },
       {
-        "text": "Going to Make Love to My Wife",
+        "text": "Going to make love to my wife",
         "character": "",
         "audioUrl": "audio/rick-and-morty/056_going_to_make_love_to_my_wife.mp3"
       },
@@ -8123,12 +6068,7 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/060_goodbye.mp3"
       },
       {
-        "text": "Goodbye",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/061_goodbye.mp3"
-      },
-      {
-        "text": "Gotta Take it Real Serious",
+        "text": "Gotta take it real serious",
         "character": "",
         "audioUrl": "audio/rick-and-morty/062_gotta_take_it_real_serious.mp3"
       },
@@ -8138,44 +6078,14 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/063_grass_taste_bad.mp3"
       },
       {
-        "text": "Greetings",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/064_greetings.mp3"
-      },
-      {
         "text": "Gross",
         "character": "",
         "audioUrl": "audio/rick-and-morty/065_gross.mp3"
       },
       {
-        "text": "Gross, what is that thing?",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/066_gross_what_is_that_thing.mp3"
-      },
-      {
-        "text": "He's just grumpy from the flight",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/067_he_s_just_grumpy_from_the_flight.mp3"
-      },
-      {
-        "text": "Help Me I'm Gonna Die",
+        "text": "Help me I'm gonna die",
         "character": "",
         "audioUrl": "audio/rick-and-morty/068_help_me_i_m_gonna_die.mp3"
-      },
-      {
-        "text": "Here I Go Killin Again",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/069_here_i_go_killin_again.mp3"
-      },
-      {
-        "text": "Hey 1995 called",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/070_hey_1995_called.mp3"
-      },
-      {
-        "text": "Hey ya you doing ok?",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/071_hey_ya_you_doing_ok.mp3"
       },
       {
         "text": "Hi, I am Mr",
@@ -8188,22 +6098,12 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/073_high_iq_to_understand_rick_and_morty.mp3"
       },
       {
-        "text": "Holy Shit, Thanks kids you figured it out",
+        "text": "Holy shit, thanks kids you figured it out",
         "character": "",
         "audioUrl": "audio/rick-and-morty/074_holy_shit_thanks_kids_you_figured_it_out.mp3"
       },
       {
-        "text": "I can answer that, for money",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/075_i_can_answer_that_for_money.mp3"
-      },
-      {
-        "text": "I can't take it anymore",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/076_i_can_t_take_it_anymore.mp3"
-      },
-      {
-        "text": "I Choose To Get C's",
+        "text": "I choose to get C's",
         "character": "",
         "audioUrl": "audio/rick-and-morty/077_i_choose_to_get_c_s.mp3"
       },
@@ -8223,7 +6123,7 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/080_i_dunno_why_i_said_that_but_i_stand_by_it.mp3"
       },
       {
-        "text": "I Just Want to Die!",
+        "text": "I just want to die!",
         "character": "",
         "audioUrl": "audio/rick-and-morty/081_i_just_want_to_die.mp3"
       },
@@ -8258,24 +6158,9 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/087_i_was_not_in_control_of_that_situation.mp3"
       },
       {
-        "text": "I'll See You at the Dance",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/088_i_ll_see_you_at_the_dance.mp3"
-      },
-      {
-        "text": "I'll talk to you after lunch",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/089_i_ll_talk_to_you_after_lunch.mp3"
-      },
-      {
         "text": "I'm Cool Rick",
         "character": "",
         "audioUrl": "audio/rick-and-morty/090_i_m_cool_rick_you_re_outnumbered.mp3"
-      },
-      {
-        "text": "I'm gonna go take a shit",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/091_i_m_gonna_go_take_a_shit.mp3"
       },
       {
         "text": "I'm in, you son of a bitch",
@@ -8293,19 +6178,9 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/094_i_m_late_to_class_b_tch.mp3"
       },
       {
-        "text": "I'm mr Meseeks!! look at me Rick and Morty",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/095_i_m_mr_meseeks_look_at_me_rick_and_morty.mp3"
-      },
-      {
-        "text": "I'm Peeing on Your Guns",
+        "text": "I'm peeing on your guns",
         "character": "",
         "audioUrl": "audio/rick-and-morty/096_i_m_peeing_on_your_guns.mp3"
-      },
-      {
-        "text": "I'm Pickle Rick",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/097_i_m_pickle_rick.mp3"
       },
       {
         "text": "I'm Scary Terry",
@@ -8313,39 +6188,14 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/098_i_m_scary_terry.mp3"
       },
       {
-        "text": "I'm sorry you think you need an apology",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/099_i_m_sorry_you_think_you_need_an_apology.mp3"
-      },
-      {
-        "text": "In Bird Culture",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/100_in_bird_culture.mp3"
-      },
-      {
         "text": "Interdimensional Cable II",
         "character": "",
         "audioUrl": "audio/rick-and-morty/101_interdimensional_cable_ii.mp3"
       },
       {
-        "text": "Is This Organic?",
+        "text": "Is this organic?",
         "character": "",
         "audioUrl": "audio/rick-and-morty/102_is_this_organic.mp3"
-      },
-      {
-        "text": "It was supposed to be a surprise",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/103_it_was_supposed_to_be_a_surprise.mp3"
-      },
-      {
-        "text": "It's your house whatever you say",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/104_it_s_your_house_whatever_you_say.mp3"
-      },
-      {
-        "text": "Join in the poopin?",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/105_join_in_the_poopin.mp3"
       },
       {
         "text": "Judge Morty",
@@ -8353,19 +6203,9 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/106_judge_morty.mp3"
       },
       {
-        "text": "Just a yes or no",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/107_just_a_yes_or_no.mp3"
-      },
-      {
         "text": "Just stick with me",
         "character": "",
         "audioUrl": "audio/rick-and-morty/108_just_stick_with_me.mp3"
-      },
-      {
-        "text": "Keep Summer Safe",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/109_keep_summer_safe.mp3"
       },
       {
         "text": "King of Shit",
@@ -8373,7 +6213,7 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/110_king_of_shit.mp3"
       },
       {
-        "text": "Left The Portal Gun at Home",
+        "text": "Left the portal gun at home",
         "character": "",
         "audioUrl": "audio/rick-and-morty/111_left_the_portal_gun_at_home.mp3"
       },
@@ -8393,19 +6233,9 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/114_let_me_out_dance.mp3"
       },
       {
-        "text": "Let's Do this as a Team",
+        "text": "Let's do this as a team",
         "character": "",
         "audioUrl": "audio/rick-and-morty/115_let_s_do_this_as_a_team.mp3"
-      },
-      {
-        "text": "Lick my balls",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/116_lick_my_balls.mp3"
-      },
-      {
-        "text": "Lil bits",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/117_lil_bits.mp3"
       },
       {
         "text": "Look through my eye holes!",
@@ -8433,24 +6263,9 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/122_meeting_mr.mp3"
       },
       {
-        "text": "Merry Christmas!",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/123_merry_christmas.mp3"
-      },
-      {
-        "text": "Mind Your Own Business Gene!",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/124_mind_your_own_business_gene.mp3"
-      },
-      {
         "text": "Morty killed the Simpsons",
         "character": "",
         "audioUrl": "audio/rick-and-morty/125_morty_killed_the_simpsons.mp3"
-      },
-      {
-        "text": "Mother F***er",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/126_mother_f_er.mp3"
       },
       {
         "text": "Mr",
@@ -8478,22 +6293,12 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/131_mr.mp3"
       },
       {
-        "text": "Mr Meeseeks Look at Me",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/132_mr_meeseeks_look_at_me.mp3"
-      },
-      {
         "text": "Mr poopy",
         "character": "",
         "audioUrl": "audio/rick-and-morty/133_mr_poopy.mp3"
       },
       {
-        "text": "My Man",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/134_my_man.mp3"
-      },
-      {
-        "text": "Neo Nazi Attack",
+        "text": "Neo Nazi attack",
         "character": "",
         "audioUrl": "audio/rick-and-morty/135_neo_nazi_attack.mp3"
       },
@@ -8513,39 +6318,14 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/138_nobody_exists_on_purpose.mp3"
       },
       {
-        "text": "Noob Noob Goddamn First Time",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/139_noob_noob_goddamn_first_time.mp3"
-      },
-      {
-        "text": "Noob Noob Goddamn Second Time",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/140_noob_noob_goddamn_second_time.mp3"
-      },
-      {
         "text": "Noob Noob's first mission",
         "character": "",
         "audioUrl": "audio/rick-and-morty/141_noob_noob_s_first_mission.mp3"
       },
       {
-        "text": "Nothing matters",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/142_nothing_matters.mp3"
-      },
-      {
-        "text": "Now is the Time for Action",
+        "text": "Now is the time for action",
         "character": "",
         "audioUrl": "audio/rick-and-morty/143_now_is_the_time_for_action.mp3"
-      },
-      {
-        "text": "Oh !@",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/144_oh.mp3"
-      },
-      {
-        "text": "Oh and this disappoints you?",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/145_oh_and_this_disappoints_you.mp3"
       },
       {
         "text": "Oh fuck",
@@ -8553,19 +6333,9 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/146_oh_fuck.mp3"
       },
       {
-        "text": "Oh Jeeze, OK",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/147_oh_jeeze_ok.mp3"
-      },
-      {
         "text": "Oh man, oh jeez",
         "character": "",
         "audioUrl": "audio/rick-and-morty/148_oh_man_oh_jeez.mp3"
-      },
-      {
-        "text": "Oh my god!",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/149_oh_my_god.mp3"
       },
       {
         "text": "Oh no, I'm not wearing any pants!",
@@ -8583,27 +6353,22 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/152_oh_yeah_i_want_you.mp3"
       },
       {
-        "text": "Oh Yeah! Fight! Pickle Rick!",
+        "text": "Oh yeah! Fight! Pickle Rick!",
         "character": "",
         "audioUrl": "audio/rick-and-morty/153_oh_yeah_fight_pickle_rick.mp3"
       },
       {
-        "text": "Okay, Okay?",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/154_okay_okay.mp3"
-      },
-      {
-        "text": "OMG are you drunk?!",
+        "text": "Oh my god are you drunk?!",
         "character": "",
         "audioUrl": "audio/rick-and-morty/155_omg_are_you_drunk.mp3"
       },
       {
-        "text": "OMG caught wanking it",
+        "text": "Oh my god caught wanking it",
         "character": "",
         "audioUrl": "audio/rick-and-morty/156_omg_caught_wanking_it.mp3"
       },
       {
-        "text": "Ooo Weee Long",
+        "text": "Ooo weee long",
         "character": "",
         "audioUrl": "audio/rick-and-morty/157_ooo_weee_long.mp3"
       },
@@ -8613,19 +6378,9 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/158_oooweee.mp3"
       },
       {
-        "text": "Pat On The Back",
+        "text": "Pat on the back",
         "character": "",
         "audioUrl": "audio/rick-and-morty/159_pat_on_the_back.mp3"
-      },
-      {
-        "text": "Peace out",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/160_peace_out.mp3"
-      },
-      {
-        "text": "Pickle Rick",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/161_pickle_rick.mp3"
       },
       {
         "text": "Pickle rick",
@@ -8633,19 +6388,14 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/162_pickle_rick.mp3"
       },
       {
-        "text": "Pickle Rick Escapes the Sewer!",
+        "text": "Pickle Rick escapes the sewer!",
         "character": "",
         "audioUrl": "audio/rick-and-morty/163_pickle_rick_escapes_the_sewer.mp3"
       },
       {
-        "text": "Pickle Rick Transformation",
+        "text": "Pickle Rick transformation",
         "character": "",
         "audioUrl": "audio/rick-and-morty/164_pickle_rick_transformation.mp3"
-      },
-      {
-        "text": "Play Something",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/165_play_something.mp3"
       },
       {
         "text": "Pluto is a planet",
@@ -8653,7 +6403,7 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/166_pluto_is_a_planet.mp3"
       },
       {
-        "text": "Put Your Burka On",
+        "text": "Put your burka on",
         "character": "",
         "audioUrl": "audio/rick-and-morty/167_put_your_burka_on.mp3"
       },
@@ -8673,22 +6423,17 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/170_rhetorical_question.mp3"
       },
       {
-        "text": "Rick actually compliments Morty",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/171_rick_actually_compliments_morty.mp3"
-      },
-      {
-        "text": "Rick And Morty",
+        "text": "Rick and Morty",
         "character": "",
         "audioUrl": "audio/rick-and-morty/172_rick_and_morty.mp3"
       },
       {
-        "text": "Rick And Morty",
+        "text": "Rick and Morty",
         "character": "",
         "audioUrl": "audio/rick-and-morty/173_rick_and_morty.mp3"
       },
       {
-        "text": "Rick And Morty",
+        "text": "Rick and Morty",
         "character": "",
         "audioUrl": "audio/rick-and-morty/174_rick_and_morty.mp3"
       },
@@ -8698,29 +6443,14 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/175_rick_and_morty.mp3"
       },
       {
-        "text": "Rick and Morty ah shit dog",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/176_rick_and_morty_ah_shit_dog.mp3"
-      },
-      {
-        "text": "Rick and Morty i want you",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/177_rick_and_morty_i_want_you.mp3"
-      },
-      {
-        "text": "Rick and Morty red heads",
+        "text": "Red heads",
         "character": "",
         "audioUrl": "audio/rick-and-morty/178_rick_and_morty_red_heads.mp3"
       },
       {
-        "text": "Rick and Morty shit",
+        "text": "Shit",
         "character": "",
         "audioUrl": "audio/rick-and-morty/179_rick_and_morty_shit.mp3"
-      },
-      {
-        "text": "Rick and Morty Aids",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/180_rick_and_morty_aids.mp3"
       },
       {
         "text": "Intro (loud)",
@@ -8728,49 +6458,34 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/181_rick_and_morty_intro_ear_rape.mp3"
       },
       {
-        "text": "Rick and Morty Leprechaun",
+        "text": "Leprechaun",
         "character": "",
         "audioUrl": "audio/rick-and-morty/182_rick_and_morty_leprechaun.mp3"
       },
       {
-        "text": "Rick And Morty S**t",
+        "text": "S**t",
         "character": "",
         "audioUrl": "audio/rick-and-morty/183_rick_and_morty_s_t.mp3"
       },
       {
-        "text": "Rick And Morty Sad F",
+        "text": "Sad f",
         "character": "",
         "audioUrl": "audio/rick-and-morty/184_rick_and_morty_sad_f.mp3"
       },
       {
-        "text": "Rick and Morty Shake That Ass",
+        "text": "Shake that ass",
         "character": "",
         "audioUrl": "audio/rick-and-morty/185_rick_and_morty_shake_that_ass.mp3"
       },
       {
-        "text": "Rick and Morty Snap Yes",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/186_rick_and_morty_snap_yes.mp3"
-      },
-      {
-        "text": "Rick and morty song",
+        "text": "Song",
         "character": "",
         "audioUrl": "audio/rick-and-morty/187_rick_and_morty_song.mp3"
       },
       {
-        "text": "Evil Morty's Theme",
+        "text": "Evil Morty's theme",
         "character": "",
         "audioUrl": "audio/rick-and-morty/188_rick_and_morty_soundtrack_evil_morty_s_theme_qua.mp3"
-      },
-      {
-        "text": "Yes",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/189_rick_and_morty_yes_better.mp3"
-      },
-      {
-        "text": "Rick Belching Rick and Morty",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/190_rick_belching_rick_and_morty.mp3"
       },
       {
         "text": "Rick Fredie",
@@ -8788,22 +6503,17 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/193_rick_schwifty.mp3"
       },
       {
-        "text": "Riggity riggity Wreaked Son! Rick and Morty",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/194_riggity_riggity_wreaked_son_rick_and_morty.mp3"
-      },
-      {
-        "text": "Riggity Riggity Wrecked Son",
+        "text": "Riggity riggity wrecked son",
         "character": "",
         "audioUrl": "audio/rick-and-morty/195_riggity_riggity_wrecked_son.mp3"
       },
       {
-        "text": "Rise above Focus on Science",
+        "text": "Rise above focus on science",
         "character": "",
         "audioUrl": "audio/rick-and-morty/196_rise_above_focus_on_science.mp3"
       },
       {
-        "text": "Save it for the Semantics Dome",
+        "text": "Save it for the semantics dome",
         "character": "",
         "audioUrl": "audio/rick-and-morty/197_save_it_for_the_semantics_dome.mp3"
       },
@@ -8815,20 +6525,15 @@ const shows = [
       {
         "text": "Scary Terry",
         "character": "",
-        "audioUrl": "audio/rick-and-morty/199_scary_terry.mp3"
-      },
-      {
-        "text": "Scary Terry",
-        "character": "",
         "audioUrl": "audio/rick-and-morty/200_scary_terry.mp3"
       },
       {
-        "text": "Schezwan Sauce Speech - Rick and Morty Season 3",
+        "text": "Schezwan sauce speech - Rick and Morty season 3",
         "character": "",
         "audioUrl": "audio/rick-and-morty/201_schezwan_sauce_speech_rick_and_morty_season_3.mp3"
       },
       {
-        "text": "Screaming Sun - Rick and Morty",
+        "text": "Screaming sun - Rick and Morty",
         "character": "",
         "audioUrl": "audio/rick-and-morty/202_screaming_sun_rick_and_morty.mp3"
       },
@@ -8841,11 +6546,6 @@ const shows = [
         "text": "See this?",
         "character": "",
         "audioUrl": "audio/rick-and-morty/204_see_this.mp3"
-      },
-      {
-        "text": "See you mother f*ckers at the dance!",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/205_see_you_mother_f_ckers_at_the_dance.mp3"
       },
       {
         "text": "Shake that ass",
@@ -8868,17 +6568,12 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/209_show_me_what_you_got.mp3"
       },
       {
-        "text": "Singing Cowboy Meme",
+        "text": "Singing cowboy meme",
         "character": "",
         "audioUrl": "audio/rick-and-morty/210_singing_cowboy_meme.mp3"
       },
       {
-        "text": "Six Days Later",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/211_six_days_later.mp3"
-      },
-      {
-        "text": "Songify This R And M",
+        "text": "Songify this R and M",
         "character": "",
         "audioUrl": "audio/rick-and-morty/212_songify_this_r_and_m.mp3"
       },
@@ -8891,16 +6586,6 @@ const shows = [
         "text": "Stop Fighting",
         "character": "",
         "audioUrl": "audio/rick-and-morty/214_stop_fighting.mp3"
-      },
-      {
-        "text": "Stupid dumb bitch",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/215_stupid_dumb_bitch.mp3"
-      },
-      {
-        "text": "Stupid Little Garbage Person",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/216_stupid_little_garbage_person.mp3"
       },
       {
         "text": "Suck my dick",
@@ -8933,19 +6618,9 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/222_thank_you.mp3"
       },
       {
-        "text": "Thank You",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/223_thank_you.mp3"
-      },
-      {
         "text": "Thanks Mr",
         "character": "",
         "audioUrl": "audio/rick-and-morty/224_thanks_mr.mp3"
-      },
-      {
-        "text": "That is so sweet!",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/225_that_is_so_sweet.mp3"
       },
       {
         "text": "That's a relief",
@@ -8953,42 +6628,27 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/226_that_s_a_relief.mp3"
       },
       {
-        "text": "That's insane",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/227_that_s_insane.mp3"
-      },
-      {
-        "text": "That's retarded",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/228_that_s_retarded.mp3"
-      },
-      {
-        "text": "That's why you want it?",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/229_that_s_why_you_want_it.mp3"
-      },
-      {
-        "text": "The 12 Days of Rickmas",
+        "text": "The 12 days of Rickmas",
         "character": "",
         "audioUrl": "audio/rick-and-morty/230_the_12_days_of_rickmas.mp3"
       },
       {
-        "text": "The Ghost Train Guy Would've Used a Ghost Train",
+        "text": "The ghost train guy would've used a ghost train",
         "character": "",
         "audioUrl": "audio/rick-and-morty/231_the_ghost_train_guy_would_ve_used_a_ghost_train.mp3"
       },
       {
-        "text": "The Mental Breakdown",
+        "text": "The mental breakdown",
         "character": "",
         "audioUrl": "audio/rick-and-morty/232_the_mental_breakdown.mp3"
       },
       {
-        "text": "The Rick Dance",
+        "text": "The Rick dance",
         "character": "",
         "audioUrl": "audio/rick-and-morty/233_the_rick_dance.mp3"
       },
       {
-        "text": "The Rick Dance",
+        "text": "The Rick dance",
         "character": "",
         "audioUrl": "audio/rick-and-morty/234_the_rick_dance.mp3"
       },
@@ -8998,27 +6658,12 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/235_this_guys_taking_roy_off_the_grid.mp3"
       },
       {
-        "text": "This holiday is about humanity",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/236_this_holiday_is_about_humanity.mp3"
-      },
-      {
         "text": "This lawyer has made sexual advances on me",
         "character": "",
         "audioUrl": "audio/rick-and-morty/237_this_lawyer_has_made_sexual_advances_on_me.mp3"
       },
       {
-        "text": "This Shit is Delicious",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/238_this_shit_is_delicious.mp3"
-      },
-      {
-        "text": "This Shit is Delicious",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/239_this_shit_is_delicious.mp3"
-      },
-      {
-        "text": "Tiny Rick Hunting a Vampire",
+        "text": "Tiny Rick hunting a vampire",
         "character": "",
         "audioUrl": "audio/rick-and-morty/240_tiny_rick_hunting_a_vampire.mp3"
       },
@@ -9038,34 +6683,14 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/243_vasectomy.mp3"
       },
       {
-        "text": "Wait? What?",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/244_wait_what.mp3"
-      },
-      {
         "text": "We are connecting this Christmas!",
         "character": "",
         "audioUrl": "audio/rick-and-morty/245_we_are_connecting_this_christmas.mp3"
       },
       {
-        "text": "We need a vacation",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/246_we_need_a_vacation.mp3"
-      },
-      {
-        "text": "We Need Food When We're Hungry",
+        "text": "We need food when we're hungry",
         "character": "",
         "audioUrl": "audio/rick-and-morty/247_we_need_food_when_we_re_hungry.mp3"
-      },
-      {
-        "text": "We need to go on a quick adventure",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/248_we_need_to_go_on_a_quick_adventure.mp3"
-      },
-      {
-        "text": "We're so screwed",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/249_we_re_so_screwed.mp3"
       },
       {
         "text": "Weeping breakdown",
@@ -9073,14 +6698,9 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/250_weeping_breakdown.mp3"
       },
       {
-        "text": "Welcome to Your Nightmare",
+        "text": "Welcome to your nightmare",
         "character": "",
         "audioUrl": "audio/rick-and-morty/251_welcome_to_your_nightmare.mp3"
-      },
-      {
-        "text": "What am I eating?",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/252_what_am_i_eating.mp3"
       },
       {
         "text": "What is my purpose?",
@@ -9088,24 +6708,9 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/253_what_is_my_purpose.mp3"
       },
       {
-        "text": "What the hell",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/254_what_the_hell.mp3"
-      },
-      {
-        "text": "What?!",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/255_what.mp3"
-      },
-      {
         "text": "Whatever you say, Stone Cold Steve Austin",
         "character": "",
         "audioUrl": "audio/rick-and-morty/256_whatever_you_say_stone_cold_steve_austin.mp3"
-      },
-      {
-        "text": "Wheeee",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/257_wheeee.mp3"
       },
       {
         "text": "Where am I?!",
@@ -9113,29 +6718,9 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/258_where_am_i.mp3"
       },
       {
-        "text": "Where is the Anger Coming From",
+        "text": "Where is the anger coming from",
         "character": "",
         "audioUrl": "audio/rick-and-morty/259_where_is_the_anger_coming_from.mp3"
-      },
-      {
-        "text": "White People Problems",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/260_white_people_problems.mp3"
-      },
-      {
-        "text": "Who the f* are you?",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/261_who_the_f_are_you.mp3"
-      },
-      {
-        "text": "Whoo Wee",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/262_whoo_wee.mp3"
-      },
-      {
-        "text": "Why do you keep doing this to us?",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/263_why_do_you_keep_doing_this_to_us.mp3"
       },
       {
         "text": "Woolly Mammoths",
@@ -9148,24 +6733,9 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/265_woopie_loopie_doop_doop.mp3"
       },
       {
-        "text": "Wow! I'm so smart!",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/266_wow_i_m_so_smart.mp3"
-      },
-      {
-        "text": "WUBALUBADUBDUB Rick",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/267_wubalubadubdub_rick.mp3"
-      },
-      {
         "text": "Wubba Lubba Dub Dub I am in great pain",
         "character": "",
         "audioUrl": "audio/rick-and-morty/268_wubba_lubba_dub_dub_i_am_in_great_pain.mp3"
-      },
-      {
-        "text": "Wubba Lubba Dub Dub Rick and Morty",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/269_wubba_lubba_dub_dub_rick_and_morty.mp3"
       },
       {
         "text": "Wubba Lubba Dub Dub",
@@ -9173,7 +6743,7 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/270_wubba_lubba_dub_dub.mp3"
       },
       {
-        "text": "Wubba Lubba Dub Dub Fart",
+        "text": "Wubba Lubba Dub Dub fart",
         "character": "",
         "audioUrl": "audio/rick-and-morty/271_wubba_lubba_dub_dub_fart.mp3"
       },
@@ -9183,17 +6753,7 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/272_x_gon_give_it_to_ya.mp3"
       },
       {
-        "text": "Yeah! You know it, dog!",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/273_yeah_you_know_it_dog.mp3"
-      },
-      {
-        "text": "Yes. Yes. Yes",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/274_yes_yes_yes.mp3"
-      },
-      {
-        "text": "You Aren't Special",
+        "text": "You aren't special",
         "character": "",
         "audioUrl": "audio/rick-and-morty/275_you_aren_t_special.mp3"
       },
@@ -9203,19 +6763,9 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/276_you_can_be_very_inconsiderate_sometimes.mp3"
       },
       {
-        "text": "You can run, but you can't hide",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/277_you_can_run_but_you_can_t_hide.mp3"
-      },
-      {
-        "text": "You F*cked with Squirrels!",
+        "text": "You f*cked with squirrels!",
         "character": "",
         "audioUrl": "audio/rick-and-morty/278_you_f_cked_with_squirrels.mp3"
-      },
-      {
-        "text": "You Have the Right to Kiss My Dick",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/279_you_have_the_right_to_kiss_my_dick.mp3"
       },
       {
         "text": "You're both pieces of shit, I can prove it mathematically",
@@ -9228,24 +6778,9 @@ const shows = [
         "audioUrl": "audio/rick-and-morty/281_you_re_killing_the_vibe_in_here.mp3"
       },
       {
-        "text": "Your opinion means very little to me",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/282_your_opinion_means_very_little_to_me.mp3"
-      },
-      {
-        "text": "Your The reason this species is a failure",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/283_your_the_reason_this_species_is_a_failure.mp3"
-      },
-      {
         "text": "3 Weeks Earlier",
         "character": "",
         "audioUrl": "audio/rick-and-morty/284_3_weeks_earlier.mp3"
-      },
-      {
-        "text": "::Sigh::",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/285_sigh.mp3"
       }
     ]
   },
@@ -9261,11 +6796,6 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "A little yeah",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/001_a_little_yeah.mp3"
-      },
-      {
         "text": "All your life you've been an ugly chick",
         "character": "",
         "audioUrl": "audio/silicon-valley/002_all_your_life_you_ve_been_an_ugly_chick.mp3"
@@ -9274,21 +6804,6 @@ const shows = [
         "text": "Alone",
         "character": "",
         "audioUrl": "audio/silicon-valley/003_alone.mp3"
-      },
-      {
-        "text": "Alright I'll bite",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/004_alright_i_ll_bite.mp3"
-      },
-      {
-        "text": "Am I right?",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/005_am_i_right.mp3"
-      },
-      {
-        "text": "And you are too legit too quit",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/006_and_you_are_too_legit_too_quit.mp3"
       },
       {
         "text": "Angry",
@@ -9301,7 +6816,7 @@ const shows = [
         "audioUrl": "audio/silicon-valley/008_anton_is_really_starting_to_sweat.mp3"
       },
       {
-        "text": "Apple Maps Bad",
+        "text": "Apple Maps bad",
         "character": "",
         "audioUrl": "audio/silicon-valley/009_apple_maps_bad.mp3"
       },
@@ -9309,21 +6824,6 @@ const shows = [
         "text": "Are you a farter?",
         "character": "",
         "audioUrl": "audio/silicon-valley/010_are_you_a_farter.mp3"
-      },
-      {
-        "text": "Are you fucking kidding me dude",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/011_are_you_fucking_kidding_me_dude.mp3"
-      },
-      {
-        "text": "At least we can all agree",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/012_at_least_we_can_all_agree.mp3"
-      },
-      {
-        "text": "AVIATO",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/013_aviato.mp3"
       },
       {
         "text": "Aviato",
@@ -9336,19 +6836,9 @@ const shows = [
         "audioUrl": "audio/silicon-valley/015_awkward_greetings.mp3"
       },
       {
-        "text": "Bachman vs Jian Yang",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/016_bachman_vs_jing_yang_silicon_valley_compilation.mp3"
-      },
-      {
         "text": "Back to normal",
         "character": "",
         "audioUrl": "audio/silicon-valley/017_back_to_normal.mp3"
-      },
-      {
-        "text": "Balls deep in your inbox",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/018_balls_deep_in_your_inbox.mp3"
       },
       {
         "text": "Bestfriend",
@@ -9366,19 +6856,9 @@ const shows = [
         "audioUrl": "audio/silicon-valley/021_blacksite.mp3"
       },
       {
-        "text": "But I had nothing to do with it",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/022_but_i_had_nothing_to_do_with_it.mp3"
-      },
-      {
         "text": "Cancer fucking sucks",
         "character": "",
         "audioUrl": "audio/silicon-valley/023_cancer_fucking_sucks.mp3"
-      },
-      {
-        "text": "Check you out!",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/024_check_you_out.mp3"
       },
       {
         "text": "Codebase blame",
@@ -9391,34 +6871,14 @@ const shows = [
         "audioUrl": "audio/silicon-valley/026_deliver_the_information_with_warmth_and_compassion.mp3"
       },
       {
-        "text": "DICK..",
+        "text": "Dick..",
         "character": "",
         "audioUrl": "audio/silicon-valley/027_dick.mp3"
-      },
-      {
-        "text": "Do not call a man a fool",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/028_do_not_call_a_man_a_fool.mp3"
-      },
-      {
-        "text": "Do you need the real me for this conversation?",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/029_do_you_need_the_real_me_for_this_conversation.mp3"
       },
       {
         "text": "Do you speak Mandarin?",
         "character": "",
         "audioUrl": "audio/silicon-valley/030_do_you_speak_mandarin.mp3"
-      },
-      {
-        "text": "Don't pander to me",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/031_don_t_pander_to_me.mp3"
-      },
-      {
-        "text": "Don't tell me this is Zune bad",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/032_don_t_tell_me_this_is_zune_bad.mp3"
       },
       {
         "text": "Doors",
@@ -9429,21 +6889,6 @@ const shows = [
         "text": "Doors that open like this",
         "character": "",
         "audioUrl": "audio/silicon-valley/034_doors_that_open_like_this.mp3"
-      },
-      {
-        "text": "Drumroll",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/035_drumroll.mp3"
-      },
-      {
-        "text": "Dude that was badass",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/036_dude_that_was_badass.mp3"
-      },
-      {
-        "text": "Dude you are fucked up right now",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/037_dude_you_are_fucked_up_right_now.mp3"
       },
       {
         "text": "Dumbing down machines that are superior",
@@ -9461,34 +6906,14 @@ const shows = [
         "audioUrl": "audio/silicon-valley/040_erlich_bachman_this_is_your_mom_you_are_not_my_baby.mp3"
       },
       {
-        "text": "Erlich: Nice, using that dick",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/041_erlich_nice_using_that_dick.mp3"
-      },
-      {
         "text": "Feels good to laugh",
         "character": "",
         "audioUrl": "audio/silicon-valley/042_feels_good_to_laugh.mp3"
       },
       {
-        "text": "Fish",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/043_fish.mp3"
-      },
-      {
-        "text": "Fuck off, we're working",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/044_fuck_off_we_re_working.mp3"
-      },
-      {
         "text": "Fuck you",
         "character": "",
         "audioUrl": "audio/silicon-valley/045_fuck_you.mp3"
-      },
-      {
-        "text": "Fucking billionares",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/046_fucking_billionares.mp3"
       },
       {
         "text": "Garbage",
@@ -9501,12 +6926,7 @@ const shows = [
         "audioUrl": "audio/silicon-valley/048_getting_some_swag.mp3"
       },
       {
-        "text": "Go for Chambers",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/049_go_for_chambers.mp3"
-      },
-      {
-        "text": "God Damn AWS charges! F*cking Bezos.",
+        "text": "God damn AWS charges! F*cking Bezos.",
         "character": "",
         "audioUrl": "audio/silicon-valley/050_god_damn_aws_charges_f_cking_bezos.mp3"
       },
@@ -9521,29 +6941,9 @@ const shows = [
         "audioUrl": "audio/silicon-valley/052_guys.mp3"
       },
       {
-        "text": "Haaa",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/053_haaa.mp3"
-      },
-      {
-        "text": "Have a nice night, thank you",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/054_have_a_nice_night_thank_you.mp3"
-      },
-      {
-        "text": "Haven't tried it probably won't",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/055_haven_t_tried_it_probably_won_t.mp3"
-      },
-      {
         "text": "He asked me if he could pitch me..",
         "character": "",
         "audioUrl": "audio/silicon-valley/056_he_asked_me_if_he_could_pitch_me.mp3"
-      },
-      {
-        "text": "He's the least cool guy",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/057_he_s_the_least_cool_guy.mp3"
       },
       {
         "text": "He's the most positive person",
@@ -9554,31 +6954,6 @@ const shows = [
         "text": "Hella lame",
         "character": "",
         "audioUrl": "audio/silicon-valley/059_hella_lame.mp3"
-      },
-      {
-        "text": "Hello, my cold friend",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/060_hello_my_cold_friend.mp3"
-      },
-      {
-        "text": "Hey what's up, Al Qaeda?",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/061_hey_what_s_up_al_qaeda.mp3"
-      },
-      {
-        "text": "Hotdog. Not hotdog.",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/062_hotdog_not_hotdog.mp3"
-      },
-      {
-        "text": "How are they doing this?",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/063_how_are_they_doing_this.mp3"
-      },
-      {
-        "text": "How would you like to die today, motherfucker?",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/064_how_would_you_like_to_die_today_motherfucker.mp3"
       },
       {
         "text": "Huge amount to gain",
@@ -9596,24 +6971,9 @@ const shows = [
         "audioUrl": "audio/silicon-valley/067_i_do_have_a_slight_preference_for_tabs.mp3"
       },
       {
-        "text": "I don't know how to respond",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/068_i_don_t_know_how_to_respond.mp3"
-      },
-      {
         "text": "Don't count our chickens",
         "character": "",
         "audioUrl": "audio/silicon-valley/069_i_don_t_want_to_count_our_chickens_before_they_hatch_but.mp3"
-      },
-      {
-        "text": "I eat the fish",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/070_i_eat_the_fish_jian_yang.mp3"
-      },
-      {
-        "text": "I hope I don't end up fired over this",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/071_i_hope_i_don_t_end_up_fired_over_this.mp3"
       },
       {
         "text": "I hope you took some time to celebrate",
@@ -9631,11 +6991,6 @@ const shows = [
         "audioUrl": "audio/silicon-valley/074_i_mean_she_s_attractive.mp3"
       },
       {
-        "text": "I see you still take your snack at 3:17",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/075_i_see_you_still_take_your_snack_at_3_17.mp3"
-      },
-      {
         "text": "I see you're fluent in Japanese",
         "character": "",
         "audioUrl": "audio/silicon-valley/076_i_see_you_re_fluent_in_japanese.mp3"
@@ -9646,24 +7001,9 @@ const shows = [
         "audioUrl": "audio/silicon-valley/077_i_terrify_you_as_i_should.mp3"
       },
       {
-        "text": "I think we look rad",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/078_i_think_we_look_rad.mp3"
-      },
-      {
-        "text": "I wanna talk business",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/079_i_wanna_talk_business.mp3"
-      },
-      {
         "text": "What kind of childhood",
         "character": "",
         "audioUrl": "audio/silicon-valley/080_i_want_to_know_what_kind_of_childhood_this_guy_had.mp3"
-      },
-      {
-        "text": "I was right",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/081_i_was_right.mp3"
       },
       {
         "text": "I'd have sex with that",
@@ -9681,29 +7021,9 @@ const shows = [
         "audioUrl": "audio/silicon-valley/084_i_ll_kill_them.mp3"
       },
       {
-        "text": "I'm a very rich",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/085_i_m_a_very_rich.mp3"
-      },
-      {
         "text": "I'm busting your balls",
         "character": "",
         "audioUrl": "audio/silicon-valley/086_i_m_busting_your_balls.mp3"
-      },
-      {
-        "text": "I'm busting your balls",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/087_i_m_busting_your_balls.mp3"
-      },
-      {
-        "text": "I'm Erlich Bachman",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/088_i_m_erlich_bachman.mp3"
-      },
-      {
-        "text": "I'm guessing there's a story here",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/089_i_m_guessing_there_s_a_story_here.mp3"
       },
       {
         "text": "I'm not crazy",
@@ -9736,11 +7056,6 @@ const shows = [
         "audioUrl": "audio/silicon-valley/095_i_ve_forgotten_to_take_a_shit.mp3"
       },
       {
-        "text": "I've got it under control",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/096_i_ve_got_it_under_control.mp3"
-      },
-      {
         "text": "If you don't fund us, you're a fucking slut",
         "character": "",
         "audioUrl": "audio/silicon-valley/097_if_you_don_t_fund_us_you_re_a_fucking_slut.mp3"
@@ -9754,11 +7069,6 @@ const shows = [
         "text": "If you keep screaming your name",
         "character": "",
         "audioUrl": "audio/silicon-valley/099_if_you_keep_screaming_your_name.mp3"
-      },
-      {
-        "text": "Imrich",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/100_imrich.mp3"
       },
       {
         "text": "Incredible Codebase",
@@ -9821,16 +7131,6 @@ const shows = [
         "audioUrl": "audio/silicon-valley/112_it_s_like_when_someone_says.mp3"
       },
       {
-        "text": "It's sexist but.",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/113_it_s_sexist_but.mp3"
-      },
-      {
-        "text": "It's totally lost on me",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/114_it_s_totally_lost_on_me.mp3"
-      },
-      {
         "text": "Jerking at an angle",
         "character": "",
         "audioUrl": "audio/silicon-valley/115_jerking_at_an_angle.mp3"
@@ -9841,7 +7141,7 @@ const shows = [
         "audioUrl": "audio/silicon-valley/116_kiss.mp3"
       },
       {
-        "text": "Kiss My Piss",
+        "text": "Kiss my piss",
         "character": "",
         "audioUrl": "audio/silicon-valley/117_kiss_my_piss.mp3"
       },
@@ -9851,34 +7151,14 @@ const shows = [
         "audioUrl": "audio/silicon-valley/118_let_s_fuck_this_thing_right_in_the_pussy.mp3"
       },
       {
-        "text": "Let's not jump to conclusions",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/119_let_s_not_jump_to_conclusions.mp3"
-      },
-      {
-        "text": "Let's pivot",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/120_let_s_pivot.mp3"
-      },
-      {
         "text": "Let's put our phones down",
         "character": "",
         "audioUrl": "audio/silicon-valley/121_let_s_put_our_phones_down.mp3"
       },
       {
-        "text": "Maybe start after lunch?",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/122_maybe_start_after_lunch.mp3"
-      },
-      {
         "text": "Soak it in hawk urine",
         "character": "",
         "audioUrl": "audio/silicon-valley/123_maybe_we_can_take_a_day_and_soak_it_in_hawk_urine.mp3"
-      },
-      {
-        "text": "Mf",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/124_mf.mp3"
       },
       {
         "text": "Swallow your pride",
@@ -9901,29 +7181,9 @@ const shows = [
         "audioUrl": "audio/silicon-valley/128_more_dick_in_here_than.mp3"
       },
       {
-        "text": "Mother fuck!",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/129_mother_fuck.mp3"
-      },
-      {
-        "text": "Motherfuck!",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/130_motherfuck.mp3"
-      },
-      {
-        "text": "My nickname as a kid was Pakistani Denzel",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/131_my_nickname_as_a_kid_was_pakistani_denzel.mp3"
-      },
-      {
-        "text": "Nail Biting Advice",
+        "text": "Nail biting advice",
         "character": "",
         "audioUrl": "audio/silicon-valley/132_nail_biting_advice.mp3"
-      },
-      {
-        "text": "Nice, using that dick",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/133_nice_using_that_dick.mp3"
       },
       {
         "text": "No sleep, the edges of things are getting dancey",
@@ -9936,24 +7196,9 @@ const shows = [
         "audioUrl": "audio/silicon-valley/135_no_let_me_finish.mp3"
       },
       {
-        "text": "No, that's silly",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/136_no_that_s_silly.mp3"
-      },
-      {
         "text": "Norent",
         "character": "",
         "audioUrl": "audio/silicon-valley/137_norent.mp3"
-      },
-      {
-        "text": "Not now Jing Yang",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/138_not_now_jing_yang.mp3"
-      },
-      {
-        "text": "Nothing.",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/139_nothing.mp3"
       },
       {
         "text": "Oil",
@@ -9966,24 +7211,9 @@ const shows = [
         "audioUrl": "audio/silicon-valley/141_oooooooooooh_no.mp3"
       },
       {
-        "text": "Paytoo",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/142_paytoo.mp3"
-      },
-      {
-        "text": "Pied Piper",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/143_pied_piper.mp3"
-      },
-      {
         "text": "Pizza defense",
         "character": "",
         "audioUrl": "audio/silicon-valley/144_pizza_defense.mp3"
-      },
-      {
-        "text": "Please be as specific as possible",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/145_please_be_as_specific_as_possible.mp3"
       },
       {
         "text": "Please please please please",
@@ -10006,49 +7236,14 @@ const shows = [
         "audioUrl": "audio/silicon-valley/149_richard_hendricks_meets_his_lawyer.mp3"
       },
       {
-        "text": "Richard we need to talk",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/150_richard_we_need_to_talk.mp3"
-      },
-      {
-        "text": "Richard what're you doing?",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/151_richard_what_re_you_doing.mp3"
-      },
-      {
         "text": "Richard you are a bad guy",
         "character": "",
         "audioUrl": "audio/silicon-valley/152_richard_you_are_a_bad_guy.mp3"
       },
       {
-        "text": "Richard, you are ugly",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/153_richard_you_are_ugly.mp3"
-      },
-      {
-        "text": "Room",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/154_room.mp3"
-      },
-      {
         "text": "RSVP'd pesca pescatarian",
         "character": "",
         "audioUrl": "audio/silicon-valley/155_rsvp_d_pesca_pescatarian.mp3"
-      },
-      {
-        "text": "She's a founder hounder",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/156_she_s_a_founder_hounder.mp3"
-      },
-      {
-        "text": "She's magnificent",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/157_she_s_magnificent.mp3"
-      },
-      {
-        "text": "Silicon Valley",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/158_silicon_valley.mp3"
       },
       {
         "text": "Snack dick",
@@ -10066,19 +7261,9 @@ const shows = [
         "audioUrl": "audio/silicon-valley/161_something_sexy_about_a_woman_that_can_code.mp3"
       },
       {
-        "text": "Special occasion",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/163_special_occasion.mp3"
-      },
-      {
         "text": "Stallions",
         "character": "",
         "audioUrl": "audio/silicon-valley/164_stallions.mp3"
-      },
-      {
-        "text": "Starved a virgin to death",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/165_starved_a_virgin_to_death.mp3"
       },
       {
         "text": "Stay Calm",
@@ -10086,29 +7271,9 @@ const shows = [
         "audioUrl": "audio/silicon-valley/166_stay_calm.mp3"
       },
       {
-        "text": "Suck It, Jin Yang",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/167_suck_it_jin_yang.mp3"
-      },
-      {
-        "text": "Suckit",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/168_suckit.mp3"
-      },
-      {
         "text": "SWAG",
         "character": "",
         "audioUrl": "audio/silicon-valley/169_swag.mp3"
-      },
-      {
-        "text": "That might be the last time",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/170_that_might_be_the_last_time.mp3"
-      },
-      {
-        "text": "That was a bad decision",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/171_that_was_a_bad_decision.mp3"
       },
       {
         "text": "That was amazing",
@@ -10116,24 +7281,9 @@ const shows = [
         "audioUrl": "audio/silicon-valley/172_that_was_amazing.mp3"
       },
       {
-        "text": "Too much to do",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/173_that_s_a_kind_invitation_but_i_have_too_much_to_do.mp3"
-      },
-      {
         "text": "That's the frothiest space in the Valley",
         "character": "",
         "audioUrl": "audio/silicon-valley/174_that_s_the_frothiest_space_in_the_valley.mp3"
-      },
-      {
-        "text": "The fuck you will be",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/175_the_fuck_you_will_be.mp3"
-      },
-      {
-        "text": "The future is female",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/176_the_future_is_female.mp3"
       },
       {
         "text": "The money is gone",
@@ -10156,19 +7306,9 @@ const shows = [
         "audioUrl": "audio/silicon-valley/180_these_are_not_the_door_s_of_a_billionaire.mp3"
       },
       {
-        "text": "These are not the doors of a billionaire",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/181_these_are_not_the_doors_of_a_billionaire.mp3"
-      },
-      {
         "text": "This guy fucks!",
         "character": "",
         "audioUrl": "audio/silicon-valley/182_this_guy_fucks.mp3"
-      },
-      {
-        "text": "This guy fucks. Am I right?",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/183_this_guy_fucks_am_i_right.mp3"
       },
       {
         "text": "This is already the best job I've ever had",
@@ -10186,24 +7326,9 @@ const shows = [
         "audioUrl": "audio/silicon-valley/186_this_is_my_own_brand_tres_comas.mp3"
       },
       {
-        "text": "This is Piped Piper",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/187_this_is_piped_piper.mp3"
-      },
-      {
-        "text": "This is your mom",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/188_this_is_your_mom.mp3"
-      },
-      {
         "text": "This product is stupid",
         "character": "",
         "audioUrl": "audio/silicon-valley/189_this_product_is_stupid.mp3"
-      },
-      {
-        "text": "Thisguy",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/190_thisguy.mp3"
       },
       {
         "text": "Those belong to an underage kid",
@@ -10211,19 +7336,9 @@ const shows = [
         "audioUrl": "audio/silicon-valley/191_those_belong_to_an_underage_kid.mp3"
       },
       {
-        "text": "Those guys are clowns",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/192_those_guys_are_clowns.mp3"
-      },
-      {
         "text": "Two assholes",
         "character": "",
         "audioUrl": "audio/silicon-valley/193_two_assholes.mp3"
-      },
-      {
-        "text": "Two shitty fucking commas",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/194_two_shitty_fucking_commas.mp3"
       },
       {
         "text": "VCs will hurl bricks of cash at him",
@@ -10241,16 +7356,6 @@ const shows = [
         "audioUrl": "audio/silicon-valley/197_very_interested_not_interested.mp3"
       },
       {
-        "text": "VR is rad now",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/198_vr_is_rad_now.mp3"
-      },
-      {
-        "text": "Wait what?",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/199_wait_what.mp3"
-      },
-      {
         "text": "We appear to have a technical problem",
         "character": "",
         "audioUrl": "audio/silicon-valley/200_we_appear_to_have_a_technical_problem.mp3"
@@ -10261,26 +7366,6 @@ const shows = [
         "audioUrl": "audio/silicon-valley/201_we_are_essentially_a_criminal_operation.mp3"
       },
       {
-        "text": "We are not shutting down",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/202_we_are_not_shutting_down.mp3"
-      },
-      {
-        "text": "We did?",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/203_we_did.mp3"
-      },
-      {
-        "text": "We go all Ocean's Eleven on his ass",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/204_we_go_all_ocean_s_eleven_on_his_ass.mp3"
-      },
-      {
-        "text": "We just need a new idea, something people want",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/205_we_just_need_a_new_idea_something_people_want.mp3"
-      },
-      {
         "text": "We're about to max out the amperage",
         "character": "",
         "audioUrl": "audio/silicon-valley/206_we_re_about_to_max_out_the_amperage.mp3"
@@ -10289,21 +7374,6 @@ const shows = [
         "text": "We're going to win",
         "character": "",
         "audioUrl": "audio/silicon-valley/207_we_re_going_to_win.mp3"
-      },
-      {
-        "text": "What in God's name is that",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/208_what_in_god_s_name_is_that.mp3"
-      },
-      {
-        "text": "What tension?",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/209_what_tension.mp3"
-      },
-      {
-        "text": "What the good fuck?",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/210_what_the_good_fuck.mp3"
       },
       {
         "text": "What's it going to take",
@@ -10326,39 +7396,9 @@ const shows = [
         "audioUrl": "audio/silicon-valley/214_who_the_fuck_are_you.mp3"
       },
       {
-        "text": "Why would I be offended by that?",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/215_why_would_i_be_offended_by_that.mp3"
-      },
-      {
         "text": "Woo!",
         "character": "",
         "audioUrl": "audio/silicon-valley/216_woo.mp3"
-      },
-      {
-        "text": "Would it make you feel better",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/217_would_it_make_you_feel_better.mp3"
-      },
-      {
-        "text": "Yes, I eat the fish",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/218_yes_i_eat_the_fish.mp3"
-      },
-      {
-        "text": "Yikes",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/219_yikes.mp3"
-      },
-      {
-        "text": "You all thought I was crazy",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/220_you_all_thought_i_was_crazy.mp3"
-      },
-      {
-        "text": "You are an asshole",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/221_you_are_an_asshole.mp3"
       },
       {
         "text": "You are wearing the same exact pajamas",
@@ -10391,39 +7431,14 @@ const shows = [
         "audioUrl": "audio/silicon-valley/227_you_just_brought_piss_to_a_shit_fight.mp3"
       },
       {
-        "text": "You married poorly",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/228_you_married_poorly.mp3"
-      },
-      {
         "text": "You need me",
         "character": "",
         "audioUrl": "audio/silicon-valley/229_you_need_me.mp3"
       },
       {
-        "text": "You Reckless Child!",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/230_you_reckless_child.mp3"
-      },
-      {
-        "text": "You saved my ass",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/231_you_saved_my_ass.mp3"
-      },
-      {
-        "text": "You say that like it's a bad thing",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/232_you_say_that_like_it_s_a_bad_thing.mp3"
-      },
-      {
         "text": "You'll never know",
         "character": "",
         "audioUrl": "audio/silicon-valley/233_you_ll_never_know.mp3"
-      },
-      {
-        "text": "You're code gay",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/234_you_re_code_gay.mp3"
       },
       {
         "text": "You're going to do what, bitch?",
@@ -10453,11 +7468,6 @@ const shows = [
     },
     "text_style": "title",
     "quotes": [
-      {
-        "text": "Ahh I knew it!",
-        "character": "",
-        "audioUrl": "audio/arrested-development/001_ahh_i_knew_it.mp3"
-      },
       {
         "text": "Arrested Development",
         "character": "",
@@ -10494,29 +7504,9 @@ const shows = [
         "audioUrl": "audio/arrested-development/008_crying_in_the_shower.mp3"
       },
       {
-        "text": "Did \"nothing\" cancel?",
-        "character": "",
-        "audioUrl": "audio/arrested-development/009_did_nothing_cancel.mp3"
-      },
-      {
-        "text": "Don't give me that look",
-        "character": "",
-        "audioUrl": "audio/arrested-development/010_don_t_give_me_that_look.mp3"
-      },
-      {
         "text": "Everything they do is so dramatic",
         "character": "",
         "audioUrl": "audio/arrested-development/011_everything_they_do_is_so_dramatic.mp3"
-      },
-      {
-        "text": "Eye Roll",
-        "character": "",
-        "audioUrl": "audio/arrested-development/012_eye_roll.mp3"
-      },
-      {
-        "text": "Eyeroll",
-        "character": "",
-        "audioUrl": "audio/arrested-development/013_eyeroll.mp3"
       },
       {
         "text": "FinalCountdown Choir",
@@ -10529,29 +7519,9 @@ const shows = [
         "audioUrl": "audio/arrested-development/015_fire_sale.mp3"
       },
       {
-        "text": "Get a job",
-        "character": "",
-        "audioUrl": "audio/arrested-development/016_get_a_job.mp3"
-      },
-      {
-        "text": "Giggle",
-        "character": "",
-        "audioUrl": "audio/arrested-development/017_giggle.mp3"
-      },
-      {
-        "text": "Go see a Star War",
-        "character": "",
-        "audioUrl": "audio/arrested-development/018_go_see_a_star_war.mp3"
-      },
-      {
         "text": "Gob's final countdown",
         "character": "",
         "audioUrl": "audio/arrested-development/019_gob_s_final_countdown.mp3"
-      },
-      {
-        "text": "Handcuff the King of the Jews",
-        "character": "",
-        "audioUrl": "audio/arrested-development/020_handcuff_the_king_of_the_jews.mp3"
       },
       {
         "text": "Hello Darkness",
@@ -10564,39 +7534,19 @@ const shows = [
         "audioUrl": "audio/arrested-development/022_her.mp3"
       },
       {
-        "text": "His words",
-        "character": "",
-        "audioUrl": "audio/arrested-development/023_his_words.mp3"
-      },
-      {
         "text": "Hot",
         "character": "",
         "audioUrl": "audio/arrested-development/024_hot.mp3"
       },
       {
-        "text": "Hot Ham Water",
+        "text": "Hot ham water",
         "character": "",
         "audioUrl": "audio/arrested-development/025_hot_ham_water.mp3"
-      },
-      {
-        "text": "Huh, Oscar",
-        "character": "",
-        "audioUrl": "audio/arrested-development/026_huh_oscar.mp3"
-      },
-      {
-        "text": "Huzzah!",
-        "character": "",
-        "audioUrl": "audio/arrested-development/027_huzzah.mp3"
       },
       {
         "text": "I am not threatened",
         "character": "",
         "audioUrl": "audio/arrested-development/028_i_am_not_threatened.mp3"
-      },
-      {
-        "text": "I don't know who that is",
-        "character": "",
-        "audioUrl": "audio/arrested-development/029_i_don_t_know_who_that_is.mp3"
       },
       {
         "text": "I don't understand the question",
@@ -10609,14 +7559,9 @@ const shows = [
         "audioUrl": "audio/arrested-development/031_i_don_t_understand_the_question.mp3"
       },
       {
-        "text": "I dont know what I expected",
+        "text": "I don't know what I expected",
         "character": "",
         "audioUrl": "audio/arrested-development/032_i_dont_know_what_i_expected.mp3"
-      },
-      {
-        "text": "I knew it!",
-        "character": "",
-        "audioUrl": "audio/arrested-development/033_i_knew_it.mp3"
       },
       {
         "text": "I knew you would throw that in my face",
@@ -10629,11 +7574,6 @@ const shows = [
         "audioUrl": "audio/arrested-development/035_i_understand_more_than_you_ll_never_know.mp3"
       },
       {
-        "text": "I will not stand for this",
-        "character": "",
-        "audioUrl": "audio/arrested-development/036_i_will_not_stand_for_this.mp3"
-      },
-      {
         "text": "I wine em and dine em",
         "character": "",
         "audioUrl": "audio/arrested-development/037_i_wine_em_and_dine_em_but_i_don_t_let_em_tell_me_what_to_do.mp3"
@@ -10644,24 +7584,9 @@ const shows = [
         "audioUrl": "audio/arrested-development/038_i_won_t_hear_or_respond_to_it.mp3"
       },
       {
-        "text": "I'll drink you for it",
-        "character": "",
-        "audioUrl": "audio/arrested-development/039_i_ll_drink_you_for_it.mp3"
-      },
-      {
-        "text": "I'll leave when I'm ready",
-        "character": "",
-        "audioUrl": "audio/arrested-development/040_i_ll_leave_when_i_m_ready.mp3"
-      },
-      {
         "text": "I'm not gay",
         "character": "",
         "audioUrl": "audio/arrested-development/041_i_m_not_gay.mp3"
-      },
-      {
-        "text": "I've made a huge mistake",
-        "character": "",
-        "audioUrl": "audio/arrested-development/042_i_ve_made_a_huge_mistake.mp3"
       },
       {
         "text": "I've made a huge mistake",
@@ -10672,16 +7597,6 @@ const shows = [
         "text": "I've made a huge mistake",
         "character": "",
         "audioUrl": "audio/arrested-development/044_i_ve_made_a_huge_mistake.mp3"
-      },
-      {
-        "text": "I've made a huge mistake",
-        "character": "",
-        "audioUrl": "audio/arrested-development/045_i_ve_made_a_huge_mistake.mp3"
-      },
-      {
-        "text": "I've made a huge mistake",
-        "character": "",
-        "audioUrl": "audio/arrested-development/046_i_ve_made_a_huge_mistake.mp3"
       },
       {
         "text": "I’m having the time of my life",
@@ -10704,16 +7619,6 @@ const shows = [
         "audioUrl": "audio/arrested-development/050_it_s_good.mp3"
       },
       {
-        "text": "Just blue myself",
-        "character": "",
-        "audioUrl": "audio/arrested-development/051_just_blue_myself.mp3"
-      },
-      {
-        "text": "Let me know when you're ready",
-        "character": "",
-        "audioUrl": "audio/arrested-development/052_let_me_know_when_you_re_ready.mp3"
-      },
-      {
         "text": "Mom, it's breakfast",
         "character": "",
         "audioUrl": "audio/arrested-development/053_mom_it_s_breakfast.mp3"
@@ -10729,11 +7634,6 @@ const shows = [
         "audioUrl": "audio/arrested-development/055_never_nude.mp3"
       },
       {
-        "text": "Ninja Please!",
-        "character": "",
-        "audioUrl": "audio/arrested-development/056_ninja_please.mp3"
-      },
-      {
         "text": "No",
         "character": "",
         "audioUrl": "audio/arrested-development/057_no.mp3"
@@ -10742,21 +7642,6 @@ const shows = [
         "text": "No touching!",
         "character": "",
         "audioUrl": "audio/arrested-development/058_no_touching.mp3"
-      },
-      {
-        "text": "Not let you into the country club",
-        "character": "",
-        "audioUrl": "audio/arrested-development/059_not_let_you_into_the_country_club.mp3"
-      },
-      {
-        "text": "Oh! Go right to that!",
-        "character": "",
-        "audioUrl": "audio/arrested-development/060_oh_go_right_to_that.mp3"
-      },
-      {
-        "text": "Oh! Is there such a thing?",
-        "character": "",
-        "audioUrl": "audio/arrested-development/061_oh_is_there_such_a_thing.mp3"
       },
       {
         "text": "Panic!",
@@ -10784,11 +7669,6 @@ const shows = [
         "audioUrl": "audio/arrested-development/066_somewhere_over_the_rainbow.mp3"
       },
       {
-        "text": "Spring break WOOO!",
-        "character": "",
-        "audioUrl": "audio/arrested-development/067_spring_break_wooo.mp3"
-      },
-      {
         "text": "Spring break, woo!",
         "character": "",
         "audioUrl": "audio/arrested-development/068_spring_break_woo.mp3"
@@ -10802,11 +7682,6 @@ const shows = [
         "text": "That one didn't count",
         "character": "",
         "audioUrl": "audio/arrested-development/070_that_one_didn_t_count.mp3"
-      },
-      {
-        "text": "That's another fault of her's",
-        "character": "",
-        "audioUrl": "audio/arrested-development/071_that_s_another_fault_of_her_s.mp3"
       },
       {
         "text": "Heart of an angel",
@@ -10824,34 +7699,14 @@ const shows = [
         "audioUrl": "audio/arrested-development/074_the_milk_of_mothers_kindess.mp3"
       },
       {
-        "text": "There are dozens of us",
-        "character": "",
-        "audioUrl": "audio/arrested-development/075_there_are_dozens_of_us.mp3"
-      },
-      {
-        "text": "There's always money in the banana stand",
-        "character": "",
-        "audioUrl": "audio/arrested-development/076_there_s_always_money_in_the_banana_stand.mp3"
-      },
-      {
         "text": "There's always money in the banana stand!",
         "character": "",
         "audioUrl": "audio/arrested-development/077_there_s_always_money_in_the_banana_stand.mp3"
       },
       {
-        "text": "This does not bode well",
-        "character": "",
-        "audioUrl": "audio/arrested-development/078_this_does_not_bode_well.mp3"
-      },
-      {
         "text": "This is joyous news",
         "character": "",
         "audioUrl": "audio/arrested-development/079_this_is_joyous_news.mp3"
-      },
-      {
-        "text": "This should be easy for you",
-        "character": "",
-        "audioUrl": "audio/arrested-development/080_this_should_be_easy_for_you.mp3"
       },
       {
         "text": "Tobias Balls",
@@ -10864,7 +7719,7 @@ const shows = [
         "audioUrl": "audio/arrested-development/082_tobias_funke.mp3"
       },
       {
-        "text": "Tobias Is A Thug",
+        "text": "Tobias is a thug",
         "character": "",
         "audioUrl": "audio/arrested-development/083_tobias_is_a_thug.mp3"
       },
@@ -10884,19 +7739,9 @@ const shows = [
         "audioUrl": "audio/arrested-development/086_well_no_one_s_gonna_top_that.mp3"
       },
       {
-        "text": "What an adventure, gang!",
-        "character": "",
-        "audioUrl": "audio/arrested-development/087_what_an_adventure_gang.mp3"
-      },
-      {
         "text": "Who'd wanna mess with any of us, huh?",
         "character": "",
         "audioUrl": "audio/arrested-development/088_who_d_wanna_mess_with_any_of_us_huh.mp3"
-      },
-      {
-        "text": "Who's gonna believe that?",
-        "character": "",
-        "audioUrl": "audio/arrested-development/089_who_s_gonna_believe_that.mp3"
       },
       {
         "text": "Why would anybody take a limo?",
@@ -10914,19 +7759,9 @@ const shows = [
         "audioUrl": "audio/arrested-development/092_you_can_t_handle_your_booze.mp3"
       },
       {
-        "text": "You don't work and you're lazy",
-        "character": "",
-        "audioUrl": "audio/arrested-development/093_you_don_t_work_and_you_re_lazy.mp3"
-      },
-      {
         "text": "You're a chicken",
         "character": "",
         "audioUrl": "audio/arrested-development/094_you_re_a_chicken.mp3"
-      },
-      {
-        "text": "\"Caring\" about our family",
-        "character": "",
-        "audioUrl": "audio/arrested-development/095_caring_about_our_family.mp3"
       }
     ]
   },
@@ -10942,7 +7777,7 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "April Ludgate Wine Tasting",
+        "text": "April Ludgate wine tasting",
         "character": "",
         "audioUrl": "audio/parks-and-rec/001_april_ludgate_wine_tasting.mp3"
       },
@@ -10952,39 +7787,19 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/002_be_a_man.mp3"
       },
       {
-        "text": "Ben Wyatt Depressed",
-        "character": "",
-        "audioUrl": "audio/parks-and-rec/003_ben_wyatt_depressed.mp3"
-      },
-      {
-        "text": "Clear alcohols are for rich women on diets",
-        "character": "",
-        "audioUrl": "audio/parks-and-rec/004_clear_alcohols_are_for_rich_women_on_diets.mp3"
-      },
-      {
         "text": "Destroys phone",
         "character": "",
         "audioUrl": "audio/parks-and-rec/005_destroys_phone.mp3"
       },
       {
-        "text": "Don't Be Suspicious",
+        "text": "Don't be suspicious",
         "character": "",
         "audioUrl": "audio/parks-and-rec/006_don_t_be_suspicious.mp3"
-      },
-      {
-        "text": "Don't Even Care",
-        "character": "",
-        "audioUrl": "audio/parks-and-rec/007_don_t_even_care.mp3"
       },
       {
         "text": "Don’t be suspicious",
         "character": "",
         "audioUrl": "audio/parks-and-rec/008_don_t_be_suspicious.mp3"
-      },
-      {
-        "text": "Everything Hurts and I Am Dying",
-        "character": "",
-        "audioUrl": "audio/parks-and-rec/009_everything_hurts_and_i_am_dying.mp3"
       },
       {
         "text": "Galentine's Day",
@@ -11007,19 +7822,9 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/013_government_is_a_greedy_piglet.mp3"
       },
       {
-        "text": "How little we thought about this",
-        "character": "",
-        "audioUrl": "audio/parks-and-rec/014_how_little_we_thought_about_this.mp3"
-      },
-      {
         "text": "I hate everything",
         "character": "",
         "audioUrl": "audio/parks-and-rec/015_i_hate_everything.mp3"
-      },
-      {
-        "text": "I Hate People",
-        "character": "",
-        "audioUrl": "audio/parks-and-rec/016_i_hate_people.mp3"
       },
       {
         "text": "I have done nothing wrong, ever in my life",
@@ -11027,12 +7832,7 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/017_i_have_done_nothing_wrong_ever_in_my_life.mp3"
       },
       {
-        "text": "I Know More Than You",
-        "character": "",
-        "audioUrl": "audio/parks-and-rec/018_i_know_more_than_you.mp3"
-      },
-      {
-        "text": "I Need to Lie Down for a Full Hour",
+        "text": "I need to lie down for a full hour",
         "character": "",
         "audioUrl": "audio/parks-and-rec/019_i_need_to_lie_down_for_a_full_hour.mp3"
       },
@@ -11082,14 +7882,9 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/028_lunch_and_taxes.mp3"
       },
       {
-        "text": "Medical Condition of Caring Too Much",
+        "text": "Medical condition of caring too much",
         "character": "",
         "audioUrl": "audio/parks-and-rec/029_medical_condition_of_caring_too_much.mp3"
-      },
-      {
-        "text": "Money PLEASE",
-        "character": "",
-        "audioUrl": "audio/parks-and-rec/030_money_please.mp3"
       },
       {
         "text": "Never ending wipe",
@@ -11097,29 +7892,14 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/031_never_ending_wipe.mp3"
       },
       {
-        "text": "Oh for cripes sake",
-        "character": "",
-        "audioUrl": "audio/parks-and-rec/032_oh_for_cripes_sake.mp3"
-      },
-      {
         "text": "Rethink that move, son",
         "character": "",
         "audioUrl": "audio/parks-and-rec/033_rethink_that_move_son.mp3"
       },
       {
-        "text": "Ron swanson fist",
-        "character": "",
-        "audioUrl": "audio/parks-and-rec/034_ron_swanson_fist.mp3"
-      },
-      {
-        "text": "She is THE WORST",
+        "text": "She is the worst",
         "character": "",
         "audioUrl": "audio/parks-and-rec/035_she_is_the_worst.mp3"
-      },
-      {
-        "text": "Stay back, slut",
-        "character": "",
-        "audioUrl": "audio/parks-and-rec/036_stay_back_slut.mp3"
       },
       {
         "text": "Stop pooping",
@@ -11127,7 +7907,7 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/037_stop_pooping.mp3"
       },
       {
-        "text": "Teach a Man to Fish",
+        "text": "Teach a man to fish",
         "character": "",
         "audioUrl": "audio/parks-and-rec/038_teach_a_man_to_fish.mp3"
       },
@@ -11142,19 +7922,9 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/040_that_was_hilarious.mp3"
       },
       {
-        "text": "Three Words: Treat Yo Self",
-        "character": "",
-        "audioUrl": "audio/parks-and-rec/041_three_words_treat_yo_self.mp3"
-      },
-      {
         "text": "Tried to be Reasonable",
         "character": "",
         "audioUrl": "audio/parks-and-rec/042_tried_to_be_reasonable.mp3"
-      },
-      {
-        "text": "Turn the thermostat to 90 and leave me alone",
-        "character": "",
-        "audioUrl": "audio/parks-and-rec/043_turn_the_thermostat_to_90_and_leave_me_alone.mp3"
       },
       {
         "text": "Uh huh!",
@@ -11162,24 +7932,14 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/044_uh_huh_dancing.mp3"
       },
       {
-        "text": "What!?",
-        "character": "",
-        "audioUrl": "audio/parks-and-rec/045_what.mp3"
-      },
-      {
-        "text": "Why Don't You Ask Him About His Penis?",
+        "text": "Why don't you ask him about his penis?",
         "character": "",
         "audioUrl": "audio/parks-and-rec/046_why_don_t_you_ask_him_about_his_penis.mp3"
       },
       {
-        "text": "Would You Like A Salad?",
+        "text": "Would you like a salad?",
         "character": "",
         "audioUrl": "audio/parks-and-rec/047_would_you_like_a_salad.mp3"
-      },
-      {
-        "text": "Yeah Rock That Scoober",
-        "character": "",
-        "audioUrl": "audio/parks-and-rec/048_yeah_rock_that_scoober.mp3"
       },
       {
         "text": "You are looking at a Prime customer!",
@@ -11187,22 +7947,12 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/049_you_are_looking_at_a_prime_customer.mp3"
       },
       {
-        "text": "You're Ridiculous and Men's Rights is Nothing",
-        "character": "",
-        "audioUrl": "audio/parks-and-rec/050_you_re_ridiculous_and_men_s_rights_is_nothing.mp3"
-      },
-      {
         "text": "Amazon baby, that's how",
         "character": "",
         "audioUrl": "audio/parks-and-rec/051_amazon_baby_that_s_how.mp3"
       },
       {
-        "text": "Anything is a toy if you play with it.Andy Dwyer",
-        "character": "",
-        "audioUrl": "audio/parks-and-rec/052_anything_is_a_toy_if_you_play_with_it_andy_dwyer.mp3"
-      },
-      {
-        "text": "April Becomes Ron's Assistant",
+        "text": "April becomes Ron's assistant",
         "character": "",
         "audioUrl": "audio/parks-and-rec/053_april_becomes_ron_s_assistant.mp3"
       },
@@ -11217,12 +7967,7 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/055_capitalism_god_s_way_of_determining_who_is_smart_and_who_is.mp3"
       },
       {
-        "text": "Don't Sass Me, Burkas",
-        "character": "",
-        "audioUrl": "audio/parks-and-rec/056_don_t_sass_me_burkas.mp3"
-      },
-      {
-        "text": "Don't Teach a Man to Fish, and You Feed Yourself",
+        "text": "Don't teach a man to fish, and you feed yourself",
         "character": "",
         "audioUrl": "audio/parks-and-rec/057_don_t_teach_a_man_to_fish_and_you_feed_yourself.mp3"
       },
@@ -11237,17 +7982,17 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/059_fbi.mp3"
       },
       {
-        "text": "Fishing Relaxes Me",
+        "text": "Fishing relaxes me",
         "character": "",
         "audioUrl": "audio/parks-and-rec/060_fishing_relaxes_me.mp3"
       },
       {
-        "text": "Flush With Cash",
+        "text": "Flush with cash",
         "character": "",
         "audioUrl": "audio/parks-and-rec/061_flush_with_cash.mp3"
       },
       {
-        "text": "History Began on July 4th 1776",
+        "text": "History began on July 4th 1776",
         "character": "",
         "audioUrl": "audio/parks-and-rec/062_history_began_on_july_4th_1776.mp3"
       },
@@ -11257,27 +8002,27 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/063_horse_funeral.mp3"
       },
       {
-        "text": "I Dont Care",
+        "text": "I don't care",
         "character": "",
         "audioUrl": "audio/parks-and-rec/064_i_dont_care.mp3"
       },
       {
-        "text": "I Have A Joke For You",
+        "text": "I have a joke for you",
         "character": "",
         "audioUrl": "audio/parks-and-rec/065_i_have_a_joke_for_you.mp3"
       },
       {
-        "text": "I Know More Than You",
+        "text": "I know more than you",
         "character": "",
         "audioUrl": "audio/parks-and-rec/066_i_know_more_than_you.mp3"
       },
       {
-        "text": "I Like Saying 'No'",
+        "text": "I like saying 'no'",
         "character": "",
         "audioUrl": "audio/parks-and-rec/067_i_like_saying_no.mp3"
       },
       {
-        "text": "I Like to Call People by the Wrong Name",
+        "text": "I like to call people by the wrong name",
         "character": "",
         "audioUrl": "audio/parks-and-rec/068_i_like_to_call_people_by_the_wrong_name.mp3"
       },
@@ -11287,17 +8032,12 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/069_i_once_worked_with_a_guy_for_three_years_and_never_learned_h.mp3"
       },
       {
-        "text": "I Regret Nothing",
-        "character": "",
-        "audioUrl": "audio/parks-and-rec/070_i_regret_nothing.mp3"
-      },
-      {
-        "text": "I Will Mold You Into Swansons",
+        "text": "I will mold you into Swansons",
         "character": "",
         "audioUrl": "audio/parks-and-rec/071_i_will_mold_you_into_swansons.mp3"
       },
       {
-        "text": "I'd Work All Night If It Meant Nothing Got Done",
+        "text": "I'd work all night if it meant nothing got done",
         "character": "",
         "audioUrl": "audio/parks-and-rec/072_i_d_work_all_night_if_it_meant_nothing_got_done.mp3"
       },
@@ -11312,17 +8052,17 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/074_i_m_ron_swanson.mp3"
       },
       {
-        "text": "If Anything at All..",
+        "text": "If anything at all..",
         "character": "",
         "audioUrl": "audio/parks-and-rec/075_if_anything_at_all.mp3"
       },
       {
-        "text": "Just Give Me All the Bacon and Eggs You Have",
+        "text": "Just give me all the bacon and eggs you have",
         "character": "",
         "audioUrl": "audio/parks-and-rec/076_just_give_me_all_the_bacon_and_eggs_you_have.mp3"
       },
       {
-        "text": "Lets Do It To It",
+        "text": "Let's do it to it",
         "character": "",
         "audioUrl": "audio/parks-and-rec/077_lets_do_it_to_it.mp3"
       },
@@ -11332,12 +8072,12 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/078_letter_to_canada.mp3"
       },
       {
-        "text": "Lil Sebastian Died Last Night",
+        "text": "Lil Sebastian died last night",
         "character": "",
         "audioUrl": "audio/parks-and-rec/079_lil_sebastian_died_last_night.mp3"
       },
       {
-        "text": "Look, A Clock",
+        "text": "Look, a clock",
         "character": "",
         "audioUrl": "audio/parks-and-rec/080_look_a_clock.mp3"
       },
@@ -11357,47 +8097,47 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/083_on_principle_i_never_say_anything_that_another_person_is_obv.mp3"
       },
       {
-        "text": "One Shelf of Alcohol",
+        "text": "One shelf of alcohol",
         "character": "",
         "audioUrl": "audio/parks-and-rec/084_one_shelf_of_alcohol.mp3"
       },
       {
-        "text": "Pawnee Ranger Manual",
+        "text": "Pawnee Ranger manual",
         "character": "",
         "audioUrl": "audio/parks-and-rec/085_pawnee_ranger_manual.mp3"
       },
       {
-        "text": "Ron Describes Punching Someone",
+        "text": "Ron describes punching someone",
         "character": "",
         "audioUrl": "audio/parks-and-rec/086_ron_describes_punching_someone.mp3"
       },
       {
-        "text": "Ron Does Not Want to Move to Canada",
+        "text": "Ron does not want to move to Canada",
         "character": "",
         "audioUrl": "audio/parks-and-rec/087_ron_does_not_want_to_move_to_canada.mp3"
       },
       {
-        "text": "Ron Gets a Circular Desk",
+        "text": "Ron gets a circular desk",
         "character": "",
         "audioUrl": "audio/parks-and-rec/088_ron_gets_a_circular_desk.mp3"
       },
       {
-        "text": "Ron Goes to a Health Food Store",
+        "text": "Ron goes to a health food store",
         "character": "",
         "audioUrl": "audio/parks-and-rec/089_ron_goes_to_a_health_food_store.mp3"
       },
       {
-        "text": "Ron Means ALL THE BACON AND EGGS YOU HAVE!",
+        "text": "Ron means all the bacon and eggs you have!",
         "character": "",
         "audioUrl": "audio/parks-and-rec/090_ron_means_all_the_bacon_and_eggs_you_have.mp3"
       },
       {
-        "text": "Ron Reacts to the News of Lil Sebastian dying",
+        "text": "Ron reacts to the news of Lil Sebastian dying",
         "character": "",
         "audioUrl": "audio/parks-and-rec/091_ron_reacts_to_the_news_of_lil_sebastian_dying.mp3"
       },
       {
-        "text": "Ron Saves the World from Meatless Bacon",
+        "text": "Ron saves the world from meatless bacon",
         "character": "",
         "audioUrl": "audio/parks-and-rec/092_ron_saves_the_world_from_meatless_bacon.mp3"
       },
@@ -11407,102 +8147,97 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/093_ron_swanson.mp3"
       },
       {
-        "text": "Ron Swanson Goes to Motel with Ex Wife",
+        "text": "Ron Swanson goes to motel with ex wife",
         "character": "",
         "audioUrl": "audio/parks-and-rec/094_ron_swanson_goes_to_motel_with_ex_wife.mp3"
       },
       {
-        "text": "Ron Swanson Has Sawdust in his Ear",
+        "text": "Ron Swanson has sawdust in his ear",
         "character": "",
         "audioUrl": "audio/parks-and-rec/095_ron_swanson_has_sawdust_in_his_ear.mp3"
       },
       {
-        "text": "Ron Swanson is Ticklish",
+        "text": "Ron Swanson is ticklish",
         "character": "",
         "audioUrl": "audio/parks-and-rec/096_ron_swanson_is_ticklish.mp3"
       },
       {
-        "text": "Ron Swanson Likes Ron Dunn",
+        "text": "Ron Swanson likes Ron Dunn",
         "character": "",
         "audioUrl": "audio/parks-and-rec/097_ron_swanson_likes_ron_dunn.mp3"
       },
       {
-        "text": "Ron Swanson Snake Juice",
+        "text": "Ron Swanson snake juice",
         "character": "",
         "audioUrl": "audio/parks-and-rec/098_ron_swanson_snake_juice.mp3"
       },
       {
-        "text": "Ron Swanson Throws Burger at Mouth",
+        "text": "Ron Swanson throws burger at mouth",
         "character": "",
         "audioUrl": "audio/parks-and-rec/099_ron_swanson_throws_burger_at_mouth.mp3"
       },
       {
-        "text": "Ron Swanson's Allergies",
-        "character": "",
-        "audioUrl": "audio/parks-and-rec/100_ron_swanson_s_allergies.mp3"
-      },
-      {
-        "text": "Ron Swanson's Automatic Office Doors",
+        "text": "Ron Swanson's automatic office doors",
         "character": "",
         "audioUrl": "audio/parks-and-rec/101_ron_swanson_s_automatic_office_doors.mp3"
       },
       {
-        "text": "Ron Swanson's Crazy Night",
+        "text": "Ron Swanson's crazy night",
         "character": "",
         "audioUrl": "audio/parks-and-rec/102_ron_swanson_s_crazy_night.mp3"
       },
       {
-        "text": "Ron Swanson's Death Bed Wish",
+        "text": "Ron Swanson's death bed wish",
         "character": "",
         "audioUrl": "audio/parks-and-rec/103_ron_swanson_s_death_bed_wish.mp3"
       },
       {
-        "text": "Ron Swanson's Idea of Exercise",
+        "text": "Ron Swanson's idea of exercise",
         "character": "",
         "audioUrl": "audio/parks-and-rec/104_ron_swanson_s_idea_of_exercise.mp3"
       },
       {
-        "text": "Ron Swanson's Idea of Hydration",
+        "text": "Ron Swanson's idea of hydration",
         "character": "",
         "audioUrl": "audio/parks-and-rec/105_ron_swanson_s_idea_of_hydration.mp3"
       },
       {
-        "text": "Ron Swanson's Idea of Mental Illness",
+        "text": "Ron Swanson's idea of mental illness",
         "character": "",
         "audioUrl": "audio/parks-and-rec/106_ron_swanson_s_idea_of_mental_illness.mp3"
       },
       {
-        "text": "Ron Swanson's Mustache Rubbed Off From Friction",
+        "text": "Ron Swanson's mustache rubbed off from friction",
         "character": "",
         "audioUrl": "audio/parks-and-rec/107_ron_swanson_s_mustache_rubbed_off_from_friction.mp3"
       },
       {
-        "text": "Ron Swanson's Video to Himself",
+        "text": "Ron Swanson's video to himself",
         "character": "",
         "audioUrl": "audio/parks-and-rec/108_ron_swanson_s_video_to_himself.mp3"
       },
       {
-        "text": "Ron Tries Salad",
+        "text": "Ron tries salad",
         "character": "",
         "audioUrl": "audio/parks-and-rec/109_ron_tries_salad.mp3"
       },
       {
-        "text": "Ron's Permit to Slaughter a Pig",
+        "text": "Ron's permit to slaughter a pig",
         "character": "",
         "audioUrl": "audio/parks-and-rec/110_ron_s_permit_to_slaughter_a_pig.mp3"
       },
       {
-        "text": "Ron's Wife Shows Off Engagement Ring",
+        "text": "Ron's wife shows off engagement ring",
         "character": "",
         "audioUrl": "audio/parks-and-rec/111_ron_s_wife_shows_off_engagement_ring.mp3"
       },
       {
-        "text": "Say My Club is Better",
+        "text": "Say my club is better",
         "character": "",
         "audioUrl": "audio/parks-and-rec/112_say_my_club_is_better.mp3"
       },
       {
-        "text": "Shut Up And Look At Me",
+        "text": "Shut up and look at me",
         "character": "",
         "audioUrl": "audio/parks-and-rec/113_shut_up_and_look_at_me.mp3"
       },
@@ -11512,7 +8247,7 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/114_sorry.mp3"
       },
       {
-        "text": "The Many Tammys of Ron Swanson's Life",
+        "text": "The many Tammys of Ron Swanson's life",
         "character": "",
         "audioUrl": "audio/parks-and-rec/115_the_many_tammys_of_ron_swanson_s_life.mp3"
       },
@@ -11532,7 +8267,7 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/118_tom_haverford_in_court.mp3"
       },
       {
-        "text": "What in the Devil's Name is This?",
+        "text": "What in the devil's name is this?",
         "character": "",
         "audioUrl": "audio/parks-and-rec/119_what_in_the_devil_s_name_is_this.mp3"
       },
@@ -11547,12 +8282,12 @@ const shows = [
         "audioUrl": "audio/parks-and-rec/121_when_it_comes_to_government_hearings_the_only_type_of_witnes.mp3"
       },
       {
-        "text": "Why Government Matters",
+        "text": "Why government matters",
         "character": "",
         "audioUrl": "audio/parks-and-rec/122_why_government_matters.mp3"
       },
       {
-        "text": "You Could Have at Least Used Mahogany",
+        "text": "You could have at least used mahogany",
         "character": "",
         "audioUrl": "audio/parks-and-rec/123_you_could_have_at_least_used_mahogany.mp3"
       }
@@ -11570,394 +8305,104 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "We signed a new recruit",
+        "text": "Can I get a kids meal?",
         "character": "",
-        "audioUrl": "audio/atlanta/001_all_right_all_right_we_just_signed_a_new_recruit_so_i_m_gonn.mp3"
+        "audioUrl": "audio/atlanta/002_can_i_get_a_kids_meal.mp3"
       },
       {
-        "text": "FX promo: The Americans",
+        "text": "Can I measure your tree?",
         "character": "",
-        "audioUrl": "audio/atlanta/002_an_fx_original_series_the_americans_the_riveting_final_seaso.mp3"
+        "audioUrl": "audio/atlanta/003_can_i_measure_your_tree.mp3"
       },
       {
-        "text": "Are you coming back tonight?",
+        "text": "Excuse me sir",
         "character": "",
-        "audioUrl": "audio/atlanta/003_are_you_coming_back_tonight_um_no.mp3"
+        "audioUrl": "audio/atlanta/005_excuse_me_sir.mp3"
       },
       {
-        "text": "Are you high? Not really",
+        "text": "Facepalm",
         "character": "",
-        "audioUrl": "audio/atlanta/004_are_you_high_not_really_jesus.mp3"
+        "audioUrl": "audio/atlanta/006_facepalm.mp3"
       },
       {
-        "text": "Can you hand me those?",
+        "text": "Got Eem",
         "character": "",
-        "audioUrl": "audio/atlanta/005_can_you_hand_me_those_um_this_yeah_thank_you_no_problem.mp3"
+        "audioUrl": "audio/atlanta/007_got_eem.mp3"
       },
       {
-        "text": "Jewish dude, man",
+        "text": "I'm White",
         "character": "",
-        "audioUrl": "audio/atlanta/006_come_on_jewish_yeah_jewish_dude_man_yeah_i_got_you.mp3"
+        "audioUrl": "audio/atlanta/008_i_m_white.mp3"
       },
       {
-        "text": "I've never seen a parlor",
+        "text": "If we do this right",
         "character": "",
-        "audioUrl": "audio/atlanta/007_come_on_please_come_sit_in_the_parlor_oh_cool_i_ve_never_bee.mp3"
+        "audioUrl": "audio/atlanta/009_if_we_do_this_right.mp3"
       },
       {
-        "text": "Fuck, go, go!",
+        "text": "If you could use a rat as a phone",
         "character": "",
-        "audioUrl": "audio/atlanta/008_curtis_fuck_go_go_fuck_it_fuck_man_go.mp3"
+        "audioUrl": "audio/atlanta/010_if_you_could_use_a_rat_as_a_phone.mp3"
       },
       {
-        "text": "Where's my underwear?",
+        "text": "Nah, I'm good man",
         "character": "",
-        "audioUrl": "audio/atlanta/009_do_you_know_where_um_my_underwear_or_my_belt_is_uh_do_you_sp.mp3"
+        "audioUrl": "audio/atlanta/011_nah_i_m_good_man.mp3"
       },
       {
-        "text": "No moving around the bus",
+        "text": "Non Confrontational",
         "character": "",
-        "audioUrl": "audio/atlanta/010_driver_no_moving_around_the_bus.mp3"
+        "audioUrl": "audio/atlanta/012_non_confrontational.mp3"
       },
       {
-        "text": "Copy it during lunch",
+        "text": "Not right now",
         "character": "",
-        "audioUrl": "audio/atlanta/012_earn_what_s_up_chillin_cool_shirt_thanks_you_do_the_math_hom.mp3"
+        "audioUrl": "audio/atlanta/013_not_right_now.mp3"
       },
       {
-        "text": "Spring Fling, $60K guaranteed",
+        "text": "Paper Boy",
         "character": "",
-        "audioUrl": "audio/atlanta/013_earn_yo_we_should_probably_get_moving_you_know_the_75_about.mp3"
+        "audioUrl": "audio/atlanta/014_paper_boy.mp3"
       },
       {
-        "text": "Everything is gonna be okay",
+        "text": "Smelly armpits",
         "character": "",
-        "audioUrl": "audio/atlanta/014_everything_is_gonna_be_okay_hugs.mp3"
+        "audioUrl": "audio/atlanta/016_smelly_armpits.mp3"
       },
       {
-        "text": "I lost my belt and underwear",
+        "text": "That's a man",
         "character": "",
-        "audioUrl": "audio/atlanta/015_excuse_me_sir_i_have_to_pat_you_down_lift_up_your_hands_plea.mp3"
+        "audioUrl": "audio/atlanta/017_that_s_a_man.mp3"
       },
       {
-        "text": "FX promo: AHS NYC",
+        "text": "That's not true",
         "character": "",
-        "audioUrl": "audio/atlanta/016_fx_s_american_horror_story_nyc_ll_new_a_ednesdays_at_10_00_o.mp3"
+        "audioUrl": "audio/atlanta/018_that_s_not_true.mp3"
       },
       {
-        "text": "This place is a mess",
+        "text": "What!? ... No",
         "character": "",
-        "audioUrl": "audio/atlanta/017_geez_this_place_is_a_mess_mm_you_ever_hear_of_a_trash_can_an.mp3"
+        "audioUrl": "audio/atlanta/019_what_no.mp3"
       },
       {
-        "text": "You better be up",
+        "text": "Where's my money",
         "character": "",
-        "audioUrl": "audio/atlanta/018_gloria_earn_you_better_be_up_in_there_i_am_here_comes_the_br.mp3"
+        "audioUrl": "audio/atlanta/020_where_s_my_money.mp3"
       },
       {
-        "text": "Paranoid, finger on the trigger",
+        "text": "Who is this dude?",
         "character": "",
-        "audioUrl": "audio/atlanta/019_got_dang_whoo_at_night_i_can_t_sleep_i_toss_and_turn_candles.mp3"
+        "audioUrl": "audio/atlanta/021_who_is_this_dude.mp3"
       },
       {
-        "text": "Here for the pickup",
+        "text": "You lying ass bitch",
         "character": "",
-        "audioUrl": "audio/atlanta/020_hello_um_i_m_here_for_the_the_uh_pick_was_that_mr_wonder.mp3"
+        "audioUrl": "audio/atlanta/022_you_lying_ass_bitch.mp3"
       },
       {
-        "text": "I love you very much",
+        "text": "35 year old white man",
         "character": "",
-        "audioUrl": "audio/atlanta/021_hey_al_whatever_happens_just_know_that_i_love_you_very_much.mp3"
-      },
-      {
-        "text": "I'm a take y'all home",
-        "character": "",
-        "audioUrl": "audio/atlanta/022_hey_are_you_okay_i_m_just_so_happy_y_all_pretty_i_m_a_take_y.mp3"
-      },
-      {
-        "text": "You threw the yogurt out?",
-        "character": "",
-        "audioUrl": "audio/atlanta/024_hey_man_i_m_sorry_though_i_didn_t_mean_to_yo_you_threw_that.mp3"
-      },
-      {
-        "text": "Who did that?",
-        "character": "",
-        "audioUrl": "audio/atlanta/025_hey_who_did_that_huh_i_said_who_did_that_aw.mp3"
-      },
-      {
-        "text": "Come on, Gizmo, we're late",
-        "character": "",
-        "audioUrl": "audio/atlanta/026_hi_morning_come_on_gizmo_we_re_gonna_be_late.mp3"
-      },
-      {
-        "text": "How much for that hat?",
-        "character": "",
-        "audioUrl": "audio/atlanta/028_how_much_for_that_hat_and_this_ten_dollars_bet.mp3"
-      },
-      {
-        "text": "You're paying rent",
-        "character": "",
-        "audioUrl": "audio/atlanta/029_i_do_know_one_thing_though_if_you_re_still_in_my_house_when.mp3"
-      },
-      {
-        "text": "I've thought about it a lot",
-        "character": "",
-        "audioUrl": "audio/atlanta/030_i_mean_yeah_i_ve_thought_about_it_a_lot_actually.mp3"
-      },
-      {
-        "text": "Thank you, fate",
-        "character": "",
-        "audioUrl": "audio/atlanta/031_i_ll_pay_for_it_man_damn_just_move_thank_you_fate_i_ll_have.mp3"
-      },
-      {
-        "text": "Call me Teddy",
-        "character": "",
-        "audioUrl": "audio/atlanta/032_i_m_darius_apologies_i_m_theodore_perkins_please_call_me_ted.mp3"
-      },
-      {
-        "text": "I've been inconsiderate",
-        "character": "",
-        "audioUrl": "audio/atlanta/033_i_ve_been_inconsiderate_i_get_it_i_m_sorry.mp3"
-      },
-      {
-        "text": "I love Stevie",
-        "character": "",
-        "audioUrl": "audio/atlanta/034_in_the_car_oh_yeah_music_of_my_mind_masterpiece_i_love_stevi.mp3"
-      },
-      {
-        "text": "That made me hungry",
-        "character": "",
-        "audioUrl": "audio/atlanta/035_is_it_weird_that_made_me_hungry_you_too.mp3"
-      },
-      {
-        "text": "You help me, Earn?",
-        "character": "",
-        "audioUrl": "audio/atlanta/037_let_me_get_daddy_over_here_ooh_you_help_me_earn.mp3"
-      },
-      {
-        "text": "This is my truth (FX promo)",
-        "character": "",
-        "audioUrl": "audio/atlanta/038_man_this_is_who_i_am_this_is_my_truth_announcer_fx_presents.mp3"
-      },
-      {
-        "text": "Fuck with me",
-        "character": "",
-        "audioUrl": "audio/atlanta/039_mm_hmm_fuck_with_me_mm_hmm.mp3"
-      },
-      {
-        "text": "Oh, look at you",
-        "character": "",
-        "audioUrl": "audio/atlanta/041_oh_look_at_you.mp3"
-      },
-      {
-        "text": "Oh, shit",
-        "character": "",
-        "audioUrl": "audio/atlanta/042_oh_coughing_shit_sighs.mp3"
-      },
-      {
-        "text": "Everything's made up, stay woke",
-        "character": "",
-        "audioUrl": "audio/atlanta/043_paper_mail_paper_mail_all_about_my_paper_mail_chewing_mm_mm.mp3"
-      },
-      {
-        "text": "Dehydrated mango, ginger?",
-        "character": "",
-        "audioUrl": "audio/atlanta/044_sh_sorry_do_you_got_any_dehydrated_mango_ginger_jicama_perha.mp3"
-      },
-      {
-        "text": "Thought more about L.A.?",
-        "character": "",
-        "audioUrl": "audio/atlanta/045_so_have_you_thought_more_about_l_a.mp3"
-      },
-      {
-        "text": "Sorry, coming through",
-        "character": "",
-        "audioUrl": "audio/atlanta/046_sorry_coming_through_sorry_sorry_miss_i_m_gonna_let_him_thro.mp3"
-      },
-      {
-        "text": "Where was I?",
-        "character": "",
-        "audioUrl": "audio/atlanta/047_sorry_um_where_where_was_i_i_don_t_probation_princeton_right.mp3"
-      },
-      {
-        "text": "Thanks",
-        "character": "",
-        "audioUrl": "audio/atlanta/049_thanks_piano_music.mp3"
-      },
-      {
-        "text": "We made it",
-        "character": "",
-        "audioUrl": "audio/atlanta/050_this_it_yeah_we_made_it.mp3"
-      },
-      {
-        "text": "This thing kills everyone",
-        "character": "",
-        "audioUrl": "audio/atlanta/051_this_thing_kills_everyone.mp3"
-      },
-      {
-        "text": "Are we missing a pole?",
-        "character": "",
-        "audioUrl": "audio/atlanta/052_those_ones_i_think_go_by_the_door_hmm_are_we_missing_a_pole.mp3"
-      },
-      {
-        "text": "Told ya",
-        "character": "",
-        "audioUrl": "audio/atlanta/053_told_ya_music_playing_inside.mp3"
-      },
-      {
-        "text": "It's me, Candice",
-        "character": "",
-        "audioUrl": "audio/atlanta/054_van_it_s_me_it_s_candice_non_non_no_d_sol_e_candice_i_m_so_s.mp3"
-      },
-      {
-        "text": "Whenever you want",
-        "character": "",
-        "audioUrl": "audio/atlanta/055_we_were_gonna_talk_about_it_a_little_later_yeah_whenever_you.mp3"
-      },
-      {
-        "text": "FX promo: Archer",
-        "character": "",
-        "audioUrl": "audio/atlanta/057_whoo_hoo_hoo_announcer_archer_danger_island_all_new_wednesda.mp3"
-      },
-      {
-        "text": "Paul's having a difficult time",
-        "character": "",
-        "audioUrl": "audio/atlanta/058_woman_paul_s_been_having_a_difficult_time_of_late.mp3"
-      },
-      {
-        "text": "A glass of water",
-        "character": "",
-        "audioUrl": "audio/atlanta/059_would_you_like_a_glass_of_water_yeah_kind_of_parched_darius.mp3"
-      },
-      {
-        "text": "I should probably... yeah",
-        "character": "",
-        "audioUrl": "audio/atlanta/060_wow_i_should_probably_yeah_okay.mp3"
-      },
-      {
-        "text": "My favorite, that's real nice",
-        "character": "",
-        "audioUrl": "audio/atlanta/061_yeah_all_right_okay_my_favorite_that_s_real_nice.mp3"
-      },
-      {
-        "text": "I love you. I know.",
-        "character": "",
-        "audioUrl": "audio/atlanta/063_aaron_what_i_love_you_oh_my_god_i_know_jesus.mp3"
-      },
-      {
-        "text": "Let me see that bag",
-        "character": "",
-        "audioUrl": "audio/atlanta/065_here_you_go_thank_you_all_right_now_let_me_see_that_bag_too.mp3"
-      },
-      {
-        "text": "I need to see your bag",
-        "character": "",
-        "audioUrl": "audio/atlanta/066_hi_morning_hey_good_morning_can_i_see_your_license_uh_yes_h.mp3"
-      },
-      {
-        "text": "Probation ended",
-        "character": "",
-        "audioUrl": "audio/atlanta/067_how_was_your_week_fine_uh_probation_ended_uh_my_alma_mater.mp3"
-      },
-      {
-        "text": "Is this your first time?",
-        "character": "",
-        "audioUrl": "audio/atlanta/068_is_this_your_first_time_here_oh_yeah_it_s_great_isn_t_it_ye.mp3"
-      },
-      {
-        "text": "Tell me you love me",
-        "character": "",
-        "audioUrl": "audio/atlanta/069_mm_tell_me_you_love_me_laughs_why_did_you_just_laugh_cause.mp3"
-      },
-      {
-        "text": "Sylvia walks me to class",
-        "character": "",
-        "audioUrl": "audio/atlanta/070_mommy_yes_bash_sylvia_walks_me_to_my_class_oh_okay.mp3"
-      },
-      {
-        "text": "She's got a knife!",
-        "character": "",
-        "audioUrl": "audio/atlanta/071_oh_shit_she_s_got_a_knife_oh_shit_oh_oh_shit_shit_oh_oh.mp3"
-      },
-      {
-        "text": "Sylvia died",
-        "character": "",
-        "audioUrl": "audio/atlanta/072_sylvia_died_w_what_what_happened_how_they_don_t_know.mp3"
-      },
-      {
-        "text": "That was Nando's",
-        "character": "",
-        "audioUrl": "audio/atlanta/073_that_was_nando_s_yeah.mp3"
-      },
-      {
-        "text": "Whoa! Dope!",
-        "character": "",
-        "audioUrl": "audio/atlanta/074_whoa_dope.mp3"
-      },
-      {
-        "text": "Keep eating, please",
-        "character": "",
-        "audioUrl": "audio/atlanta/075_yeah_okay_keep_eating_please.mp3"
-      },
-      {
-        "text": "Where's the storage closet?",
-        "character": "",
-        "audioUrl": "audio/atlanta/077_anita_i_need_you_on_the_register_after_this_i_i_i_m_lil_tay.mp3"
-      },
-      {
-        "text": "FX promo: Legion",
-        "character": "",
-        "audioUrl": "audio/atlanta/078_david_david_syd_announcer_legion_all_new_tuesdays_at_10_00.mp3"
-      },
-      {
-        "text": "I'm a pay you back",
-        "character": "",
-        "audioUrl": "audio/atlanta/079_hey_man_nigga_i_m_i_m_sorry_about_this_shit_man_i_m_a_pay_y.mp3"
-      },
-      {
-        "text": "This place kind of stinks",
-        "character": "",
-        "audioUrl": "audio/atlanta/081_this_place_kind_of_stinks_damn_alfred_the_fuck_yeah_man_shi.mp3"
-      },
-      {
-        "text": "A drink while you wait?",
-        "character": "",
-        "audioUrl": "audio/atlanta/082_it_s_forever_by_the_ebonys_would_you_like_a_drink_while_you.mp3"
-      },
-      {
-        "text": "Muffled music",
-        "character": "",
-        "audioUrl": "audio/atlanta/083_muffled_music_playing_through_headphones_oh.mp3"
-      },
-      {
-        "text": "Hip-hop instrumental",
-        "character": "",
-        "audioUrl": "audio/atlanta/084_music_continues_upbeat_hip_hop_instrumental_music.mp3"
-      },
-      {
-        "text": "Paper Boi verse",
-        "character": "",
-        "audioUrl": "audio/atlanta/085_eat_sleep_everybody_wanna_be_a_nigga_but_nobody_wanna_be_a.mp3"
-      },
-      {
-        "text": "Here for the pickup",
-        "character": "",
-        "audioUrl": "audio/atlanta/086_girl_i_m_in_love_hello_hey_yeah_um_i_m_here_for_the_pickup.mp3"
-      },
-      {
-        "text": "Warrior, warrior",
-        "character": "",
-        "audioUrl": "audio/atlanta/087_keed_talk_to_em_warrior_warrior_warrior_warrior_warrior_ah.mp3"
-      },
-      {
-        "text": "Sweet little girl",
-        "character": "",
-        "audioUrl": "audio/atlanta/088_sweet_little_girl_you_know_your_baby_loves_you_your_love_is.mp3"
-      },
-      {
-        "text": "We're almost there, Lottie",
-        "character": "",
-        "audioUrl": "audio/atlanta/090_your_heart_has_called_me_closer_to_you_i_will_be_all_that_y.mp3"
+        "audioUrl": "audio/atlanta/023_35_year_old_white_man.mp3"
       }
     ]
   },
@@ -11973,29 +8418,9 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "Absotively",
-        "character": "",
-        "audioUrl": "audio/himym/001_absotively.mp3"
-      },
-      {
-        "text": "Adorable",
-        "character": "",
-        "audioUrl": "audio/himym/002_adorable.mp3"
-      },
-      {
         "text": "After 2 AM",
         "character": "",
         "audioUrl": "audio/himym/003_after_2_am.mp3"
-      },
-      {
-        "text": "Air guitar",
-        "character": "",
-        "audioUrl": "audio/himym/004_air_guitar.mp3"
-      },
-      {
-        "text": "Baby with your butt",
-        "character": "",
-        "audioUrl": "audio/himym/005_baby_with_your_butt.mp3"
       },
       {
         "text": "Bang bang bangity bang",
@@ -12008,19 +8433,9 @@ const shows = [
         "audioUrl": "audio/himym/007_barney_meets_his_daughter.mp3"
       },
       {
-        "text": "Barney self five",
-        "character": "",
-        "audioUrl": "audio/himym/008_barney_self_five.mp3"
-      },
-      {
         "text": "Barney shoots himself",
         "character": "",
         "audioUrl": "audio/himym/009_barney_shoots_himself.mp3"
-      },
-      {
-        "text": "Barney Stinson Air Guitar",
-        "character": "",
-        "audioUrl": "audio/himym/010_barney_stinson_air_guitar.mp3"
       },
       {
         "text": "Basketball",
@@ -12028,7 +8443,7 @@ const shows = [
         "audioUrl": "audio/himym/011_basketball.mp3"
       },
       {
-        "text": "BEERCULES",
+        "text": "Beercules",
         "character": "",
         "audioUrl": "audio/himym/012_beercules.mp3"
       },
@@ -12038,39 +8453,14 @@ const shows = [
         "audioUrl": "audio/himym/013_being_friends_with_me_is_hard_i_m_awesome.mp3"
       },
       {
-        "text": "Best day of your life",
-        "character": "",
-        "audioUrl": "audio/himym/014_best_day_of_your_life.mp3"
-      },
-      {
-        "text": "Big Brother",
-        "character": "",
-        "audioUrl": "audio/himym/015_big_brother.mp3"
-      },
-      {
         "text": "Blackout orgasms",
         "character": "",
         "audioUrl": "audio/himym/016_blackout_orgasms.mp3"
       },
       {
-        "text": "BOATS BOATS BOATS",
+        "text": "Boats boats boats",
         "character": "",
         "audioUrl": "audio/himym/017_boats_boats_boats.mp3"
-      },
-      {
-        "text": "Boobs?",
-        "character": "",
-        "audioUrl": "audio/himym/018_boobs.mp3"
-      },
-      {
-        "text": "Bowl o' pornflakes",
-        "character": "",
-        "audioUrl": "audio/himym/019_bowl_o_pornflakes.mp3"
-      },
-      {
-        "text": "Bro..",
-        "character": "",
-        "audioUrl": "audio/himym/020_bro.mp3"
       },
       {
         "text": "Calling people names is hurtful, ass face",
@@ -12078,44 +8468,9 @@ const shows = [
         "audioUrl": "audio/himym/021_calling_people_names_is_hurtful_ass_face.mp3"
       },
       {
-        "text": "Can't think straight!",
-        "character": "",
-        "audioUrl": "audio/himym/022_can_t_think_straight.mp3"
-      },
-      {
-        "text": "Can't you do anything right, Patrice?",
-        "character": "",
-        "audioUrl": "audio/himym/023_can_t_you_do_anything_right_patrice.mp3"
-      },
-      {
         "text": "Car alarm",
         "character": "",
         "audioUrl": "audio/himym/024_car_alarm.mp3"
-      },
-      {
-        "text": "Celebrate",
-        "character": "",
-        "audioUrl": "audio/himym/025_celebrate.mp3"
-      },
-      {
-        "text": "Challenge accepted",
-        "character": "",
-        "audioUrl": "audio/himym/026_challenge_accepted.mp3"
-      },
-      {
-        "text": "Champagne Celebration",
-        "character": "",
-        "audioUrl": "audio/himym/027_champagne_celebration.mp3"
-      },
-      {
-        "text": "Cheerful!",
-        "character": "",
-        "audioUrl": "audio/himym/028_cheerful.mp3"
-      },
-      {
-        "text": "Come at You",
-        "character": "",
-        "audioUrl": "audio/himym/029_come_at_you.mp3"
       },
       {
         "text": "Come on",
@@ -12128,24 +8483,9 @@ const shows = [
         "audioUrl": "audio/himym/031_damnit_patrice_stop_smothering_me.mp3"
       },
       {
-        "text": "Dead batteries",
-        "character": "",
-        "audioUrl": "audio/himym/032_dead_batteries.mp3"
-      },
-      {
         "text": "Dead squirrel",
         "character": "",
         "audioUrl": "audio/himym/033_dead_squirrel.mp3"
-      },
-      {
-        "text": "Diarrhea",
-        "character": "",
-        "audioUrl": "audio/himym/034_diarrhea.mp3"
-      },
-      {
-        "text": "Eliminated",
-        "character": "",
-        "audioUrl": "audio/himym/035_eliminated.mp3"
       },
       {
         "text": "Friendship Over",
@@ -12153,37 +8493,22 @@ const shows = [
         "audioUrl": "audio/himym/036_friendship_over.mp3"
       },
       {
-        "text": "Hashtag burn",
-        "character": "",
-        "audioUrl": "audio/himym/037_hashtag_burn.mp3"
-      },
-      {
         "text": "Have you met Ted?",
         "character": "",
         "audioUrl": "audio/himym/038_have_you_met_ted.mp3"
       },
       {
-        "text": "HEE YA! MOVE ALONG!",
+        "text": "Hee ya! Move along!",
         "character": "",
         "audioUrl": "audio/himym/039_hee_ya_move_along.mp3"
       },
       {
-        "text": "Hell's Kitchen",
-        "character": "",
-        "audioUrl": "audio/himym/040_hell_s_kitchen.mp3"
-      },
-      {
-        "text": "Himym Tv Tone",
+        "text": "TV tone",
         "character": "",
         "audioUrl": "audio/himym/041_himym_tv_tone.mp3"
       },
       {
-        "text": "Hit of the sandwich",
-        "character": "",
-        "audioUrl": "audio/himym/042_hit_of_the_sandwich.mp3"
-      },
-      {
-        "text": "Hot Crazy Scale",
+        "text": "Hot crazy scale",
         "character": "",
         "audioUrl": "audio/himym/043_hot_crazy_scale.mp3"
       },
@@ -12193,22 +8518,17 @@ const shows = [
         "audioUrl": "audio/himym/044_husband_s_condoms.mp3"
       },
       {
-        "text": "I accept your challenge",
-        "character": "",
-        "audioUrl": "audio/himym/045_i_accept_your_challenge.mp3"
-      },
-      {
         "text": "I am sick of being smarter than everyone else",
         "character": "",
         "audioUrl": "audio/himym/046_i_am_sick_of_being_smarter_than_everyone_else.mp3"
       },
       {
-        "text": "I Can Woo",
+        "text": "I can woo",
         "character": "",
         "audioUrl": "audio/himym/047_i_can_woo.mp3"
       },
       {
-        "text": "I Dare You Guys to Dare Us to Makeout",
+        "text": "I dare you guys to dare us to makeout",
         "character": "",
         "audioUrl": "audio/himym/048_i_dare_you_guys_to_dare_us_to_makeout.mp3"
       },
@@ -12221,11 +8541,6 @@ const shows = [
         "text": "Reevaluate my life decisions",
         "character": "",
         "audioUrl": "audio/himym/050_i_need_to_go_home_reevaluate_how_i_make_life_decisions.mp3"
-      },
-      {
-        "text": "I request the highest of fives",
-        "character": "",
-        "audioUrl": "audio/himym/051_i_request_the_highest_of_fives.mp3"
       },
       {
         "text": "I said good day!",
@@ -12243,34 +8558,9 @@ const shows = [
         "audioUrl": "audio/himym/054_i_m_awesome.mp3"
       },
       {
-        "text": "I'm in twouble!",
-        "character": "",
-        "audioUrl": "audio/himym/055_i_m_in_twouble.mp3"
-      },
-      {
-        "text": "I'm not crazy",
-        "character": "",
-        "audioUrl": "audio/himym/056_i_m_not_crazy.mp3"
-      },
-      {
-        "text": "Ice cream",
-        "character": "",
-        "audioUrl": "audio/himym/057_ice_cream.mp3"
-      },
-      {
-        "text": "Ice Cream! Air guitar",
+        "text": "Ice cream! Air guitar",
         "character": "",
         "audioUrl": "audio/himym/058_ice_cream_air_guitar.mp3"
-      },
-      {
-        "text": "It was awesome!",
-        "character": "",
-        "audioUrl": "audio/himym/059_it_was_awesome.mp3"
-      },
-      {
-        "text": "It's going to be legendary",
-        "character": "",
-        "audioUrl": "audio/himym/060_it_s_going_to_be_legendary.mp3"
       },
       {
         "text": "It's gonna be legen..",
@@ -12278,24 +8568,9 @@ const shows = [
         "audioUrl": "audio/himym/061_it_s_gonna_be_legen.mp3"
       },
       {
-        "text": "Law suit up",
-        "character": "",
-        "audioUrl": "audio/himym/062_law_suit_up.mp3"
-      },
-      {
-        "text": "Leave the Chateau",
-        "character": "",
-        "audioUrl": "audio/himym/063_leave_the_chateau.mp3"
-      },
-      {
         "text": "Legend..",
         "character": "",
         "audioUrl": "audio/himym/064_legend.mp3"
-      },
-      {
-        "text": "Let's dance",
-        "character": "",
-        "audioUrl": "audio/himym/065_let_s_dance.mp3"
       },
       {
         "text": "Living in America",
@@ -12313,19 +8588,9 @@ const shows = [
         "audioUrl": "audio/himym/068_mermaid_becomes_manatee.mp3"
       },
       {
-        "text": "Much of What I Do Does Not Make Me Cry",
-        "character": "",
-        "audioUrl": "audio/himym/069_much_of_what_i_do_does_not_make_me_cry.mp3"
-      },
-      {
-        "text": "My Chair Is Reasonably Comfortable",
+        "text": "My chair is reasonably comfortable",
         "character": "",
         "audioUrl": "audio/himym/070_my_chair_is_reasonably_comfortable.mp3"
-      },
-      {
-        "text": "My life rocks",
-        "character": "",
-        "audioUrl": "audio/himym/071_my_life_rocks.mp3"
       },
       {
         "text": "New is always better",
@@ -12348,27 +8613,12 @@ const shows = [
         "audioUrl": "audio/himym/075_peace_out_hombres.mp3"
       },
       {
-        "text": "Pee on a stick",
-        "character": "",
-        "audioUrl": "audio/himym/076_pee_on_a_stick.mp3"
-      },
-      {
-        "text": "Pick me up I needed",
-        "character": "",
-        "audioUrl": "audio/himym/077_pick_me_up_i_needed.mp3"
-      },
-      {
-        "text": "Prayer Five",
-        "character": "",
-        "audioUrl": "audio/himym/078_prayer_five.mp3"
-      },
-      {
         "text": "Robin's birthday lesson",
         "character": "",
         "audioUrl": "audio/himym/079_robin_s_birthday_lesson.mp3"
       },
       {
-        "text": "Rock U Til Canada Day",
+        "text": "Rock you til Canada Day",
         "character": "",
         "audioUrl": "audio/himym/080_rock_u_til_canada_day.mp3"
       },
@@ -12383,24 +8633,9 @@ const shows = [
         "audioUrl": "audio/himym/082_slap_countdown.mp3"
       },
       {
-        "text": "Son of a bitch!",
-        "character": "",
-        "audioUrl": "audio/himym/083_son_of_a_bitch.mp3"
-      },
-      {
-        "text": "Song of a bitch",
-        "character": "",
-        "audioUrl": "audio/himym/084_song_of_a_bitch.mp3"
-      },
-      {
         "text": "Spinter sized splinter",
         "character": "",
         "audioUrl": "audio/himym/085_spinter_sized_splinter.mp3"
-      },
-      {
-        "text": "Tall dark and awesome",
-        "character": "",
-        "audioUrl": "audio/himym/086_tall_dark_and_awesome.mp3"
       },
       {
         "text": "Thank you",
@@ -12413,32 +8648,7 @@ const shows = [
         "audioUrl": "audio/himym/088_thank_you_linus.mp3"
       },
       {
-        "text": "Thank YOU!",
-        "character": "",
-        "audioUrl": "audio/himym/089_thank_you.mp3"
-      },
-      {
-        "text": "That's a penis!",
-        "character": "",
-        "audioUrl": "audio/himym/090_that_s_a_penis.mp3"
-      },
-      {
-        "text": "That's love, bitch",
-        "character": "",
-        "audioUrl": "audio/himym/091_that_s_love_bitch.mp3"
-      },
-      {
-        "text": "That's the dream",
-        "character": "",
-        "audioUrl": "audio/himym/092_that_s_the_dream.mp3"
-      },
-      {
-        "text": "That's a penis!",
-        "character": "",
-        "audioUrl": "audio/himym/093_thats_a_penis_slow_motion.mp3"
-      },
-      {
-        "text": "Thats what your mom said",
+        "text": "That's what your mom said",
         "character": "",
         "audioUrl": "audio/himym/094_thats_what_your_mom_said.mp3"
       },
@@ -12453,24 +8663,9 @@ const shows = [
         "audioUrl": "audio/himym/096_think_of_me_like_yoda_instead_of.mp3"
       },
       {
-        "text": "Tiny five!",
-        "character": "",
-        "audioUrl": "audio/himym/097_tiny_five.mp3"
-      },
-      {
-        "text": "Top Model",
-        "character": "",
-        "audioUrl": "audio/himym/098_top_model.mp3"
-      },
-      {
         "text": "Two out of three times, guaranteed",
         "character": "",
         "audioUrl": "audio/himym/099_two_out_of_three_times_guaranteed.mp3"
-      },
-      {
-        "text": "Wait for it",
-        "character": "",
-        "audioUrl": "audio/himym/100_wait_for_it.mp3"
       },
       {
         "text": "Wait for it..",
@@ -12493,11 +8688,6 @@ const shows = [
         "audioUrl": "audio/himym/104_well_that_s_not_what_you_want.mp3"
       },
       {
-        "text": "Wet myself",
-        "character": "",
-        "audioUrl": "audio/himym/105_wet_myself.mp3"
-      },
-      {
         "text": "What I love about halloween",
         "character": "",
         "audioUrl": "audio/himym/106_what_i_love_about_halloween.mp3"
@@ -12508,24 +8698,9 @@ const shows = [
         "audioUrl": "audio/himym/107_what_no.mp3"
       },
       {
-        "text": "What up",
-        "character": "",
-        "audioUrl": "audio/himym/108_what_up.mp3"
-      },
-      {
         "text": "What's in the Box",
         "character": "",
         "audioUrl": "audio/himym/109_what_s_in_the_box.mp3"
-      },
-      {
-        "text": "What's up New York!",
-        "character": "",
-        "audioUrl": "audio/himym/110_what_s_up_new_york.mp3"
-      },
-      {
-        "text": "Worst idea ever",
-        "character": "",
-        "audioUrl": "audio/himym/111_worst_idea_ever.mp3"
       },
       {
         "text": "You can slap him",
@@ -12536,21 +8711,6 @@ const shows = [
         "text": "You just got slapped",
         "character": "",
         "audioUrl": "audio/himym/113_you_just_got_slapped_chorus.mp3"
-      },
-      {
-        "text": "You spooned me against my will",
-        "character": "",
-        "audioUrl": "audio/himym/114_you_spooned_me_against_my_will.mp3"
-      },
-      {
-        "text": "You've been lawyered",
-        "character": "",
-        "audioUrl": "audio/himym/115_you_ve_been_lawyered.mp3"
-      },
-      {
-        "text": "Your time is up",
-        "character": "",
-        "audioUrl": "audio/himym/116_your_time_is_up.mp3"
       }
     ]
   },
@@ -12566,7 +8726,7 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "A Lame Attempt at Humor",
+        "text": "A lame attempt at humor",
         "character": "",
         "audioUrl": "audio/the-office/001_a_lame_attempt_at_humor.mp3"
       },
@@ -12581,24 +8741,9 @@ const shows = [
         "audioUrl": "audio/the-office/003_ahhhh_i_m_going_to_kill_myself_and_it_s_your_fault.mp3"
       },
       {
-        "text": "Also Bono",
-        "character": "",
-        "audioUrl": "audio/the-office/004_also_bono.mp3"
-      },
-      {
         "text": "Am I a hero?",
         "character": "",
         "audioUrl": "audio/the-office/005_am_i_a_hero.mp3"
-      },
-      {
-        "text": "And That is How It’s Done",
-        "character": "",
-        "audioUrl": "audio/the-office/006_and_that_is_how_it_s_done.mp3"
-      },
-      {
-        "text": "Andy They called me Buzz",
-        "character": "",
-        "audioUrl": "audio/the-office/007_andy_they_called_me_buzz.mp3"
       },
       {
         "text": "Andy Bernard",
@@ -12606,22 +8751,12 @@ const shows = [
         "audioUrl": "audio/the-office/008_andy_bernard.mp3"
       },
       {
-        "text": "Andy Bernard",
-        "character": "",
-        "audioUrl": "audio/the-office/009_andy_bernard.mp3"
-      },
-      {
-        "text": "Andy Bernard Nail",
-        "character": "",
-        "audioUrl": "audio/the-office/010_andy_bernard_nail.mp3"
-      },
-      {
-        "text": "Andy Bernard Punches Wall",
+        "text": "Andy Bernard punches wall",
         "character": "",
         "audioUrl": "audio/the-office/011_andy_bernard_punches_wall.mp3"
       },
       {
-        "text": "Andy Punches A Wall",
+        "text": "Andy punches a wall",
         "character": "",
         "audioUrl": "audio/the-office/012_andy_punches_a_wall.mp3"
       },
@@ -12636,27 +8771,17 @@ const shows = [
         "audioUrl": "audio/the-office/014_andy_s_ringtone.mp3"
       },
       {
-        "text": "ARE YOU EVEN CERTIFIED?",
+        "text": "Are you even certified?",
         "character": "",
         "audioUrl": "audio/the-office/015_are_you_even_certified.mp3"
       },
       {
-        "text": "Awkward Clapping",
-        "character": "",
-        "audioUrl": "audio/the-office/016_awkward_clapping.mp3"
-      },
-      {
-        "text": "Babies I Don't Care About",
+        "text": "Babies I don't care about",
         "character": "",
         "audioUrl": "audio/the-office/017_babies_i_don_t_care_about.mp3"
       },
       {
-        "text": "Badum Tss",
-        "character": "",
-        "audioUrl": "audio/the-office/018_badum_tss.mp3"
-      },
-      {
-        "text": "Bears, Beets, Battlestar Galactica",
+        "text": "Bears, beets, Battlestar Galactica",
         "character": "",
         "audioUrl": "audio/the-office/019_bears_beets_battlestar_galactica.mp3"
       },
@@ -12671,29 +8796,14 @@ const shows = [
         "audioUrl": "audio/the-office/021_birthday_surprise.mp3"
       },
       {
-        "text": "Bitch",
-        "character": "",
-        "audioUrl": "audio/the-office/022_bitch.mp3"
-      },
-      {
         "text": "Boboddy Acronym",
         "character": "",
         "audioUrl": "audio/the-office/023_boboddy_acronym.mp3"
       },
       {
-        "text": "Boo! Weird!",
-        "character": "",
-        "audioUrl": "audio/the-office/024_boo_weird.mp3"
-      },
-      {
-        "text": "Bros Before Hoes",
+        "text": "Bros before hoes",
         "character": "",
         "audioUrl": "audio/the-office/025_bros_before_hoes.mp3"
-      },
-      {
-        "text": "BUTTLICKER",
-        "character": "",
-        "audioUrl": "audio/the-office/026_buttlicker.mp3"
       },
       {
         "text": "Buttlicker",
@@ -12716,11 +8826,6 @@ const shows = [
         "audioUrl": "audio/the-office/030_casual_friday.mp3"
       },
       {
-        "text": "Catch you guys on the flippity flip!",
-        "character": "",
-        "audioUrl": "audio/the-office/031_catch_you_guys_on_the_flippity_flip.mp3"
-      },
-      {
         "text": "Champagne celebration",
         "character": "",
         "audioUrl": "audio/the-office/032_champagne_celebration.mp3"
@@ -12736,11 +8841,6 @@ const shows = [
         "audioUrl": "audio/the-office/034_christmas_prank_on_dwight.mp3"
       },
       {
-        "text": "Clapping",
-        "character": "",
-        "audioUrl": "audio/the-office/035_clapping.mp3"
-      },
-      {
         "text": "Classic Dawhg",
         "character": "",
         "audioUrl": "audio/the-office/036_classic_dawhg.mp3"
@@ -12751,22 +8851,12 @@ const shows = [
         "audioUrl": "audio/the-office/037_could_be_one_month_could_be_two_months.mp3"
       },
       {
-        "text": "Count me in! Nope",
-        "character": "",
-        "audioUrl": "audio/the-office/038_count_me_in_nope.mp3"
-      },
-      {
-        "text": "Crazy world lotta smells",
-        "character": "",
-        "audioUrl": "audio/the-office/039_crazy_world_lotta_smells.mp3"
-      },
-      {
-        "text": "Creed Plays Hooky",
+        "text": "Creed plays hooky",
         "character": "",
         "audioUrl": "audio/the-office/040_creed_plays_hooky.mp3"
       },
       {
-        "text": "Crunch Those Numbers",
+        "text": "Crunch those numbers",
         "character": "",
         "audioUrl": "audio/the-office/041_crunch_those_numbers.mp3"
       },
@@ -12781,7 +8871,7 @@ const shows = [
         "audioUrl": "audio/the-office/043_dance_party.mp3"
       },
       {
-        "text": "Darryl Kelly Breakup",
+        "text": "Darryl Kelly breakup",
         "character": "",
         "audioUrl": "audio/the-office/044_darryl_kelly_breakup.mp3"
       },
@@ -12791,12 +8881,7 @@ const shows = [
         "audioUrl": "audio/the-office/045_depression.mp3"
       },
       {
-        "text": "Did I Stutter",
-        "character": "",
-        "audioUrl": "audio/the-office/046_did_i_stutter.mp3"
-      },
-      {
-        "text": "Did I Stutter?",
+        "text": "Did I stutter?",
         "character": "",
         "audioUrl": "audio/the-office/047_did_i_stutter.mp3"
       },
@@ -12811,11 +8896,6 @@ const shows = [
         "audioUrl": "audio/the-office/049_difference_in_our_sizes.mp3"
       },
       {
-        "text": "Disgusting",
-        "character": "",
-        "audioUrl": "audio/the-office/050_disgusting.mp3"
-      },
-      {
         "text": "Do I need to be liked?",
         "character": "",
         "audioUrl": "audio/the-office/051_do_i_need_to_be_liked.mp3"
@@ -12826,14 +8906,9 @@ const shows = [
         "audioUrl": "audio/the-office/052_doing_alcohol.mp3"
       },
       {
-        "text": "Don't Thank Me",
+        "text": "Don't thank me",
         "character": "",
         "audioUrl": "audio/the-office/053_don_t_thank_me.mp3"
-      },
-      {
-        "text": "Drinks are on me",
-        "character": "",
-        "audioUrl": "audio/the-office/054_drinks_are_on_me.mp3"
       },
       {
         "text": "Drop a deuce",
@@ -12851,7 +8926,7 @@ const shows = [
         "audioUrl": "audio/the-office/057_dwight_and_michael_howling.mp3"
       },
       {
-        "text": "Dwight Cd Intro",
+        "text": "Dwight CD intro",
         "character": "",
         "audioUrl": "audio/the-office/058_dwight_cd_intro.mp3"
       },
@@ -12861,12 +8936,7 @@ const shows = [
         "audioUrl": "audio/the-office/059_dwight_horses.mp3"
       },
       {
-        "text": "Dwight Idiot",
-        "character": "",
-        "audioUrl": "audio/the-office/060_dwight_idiot.mp3"
-      },
-      {
-        "text": "Dwight Idiot V2",
+        "text": "Dwight idiot V2",
         "character": "",
         "audioUrl": "audio/the-office/061_dwight_idiot_v2.mp3"
       },
@@ -12906,7 +8976,7 @@ const shows = [
         "audioUrl": "audio/the-office/068_enablers.mp3"
       },
       {
-        "text": "Even for the Internet it’s Pretty Shocking",
+        "text": "Even for the Internet it’s pretty shocking",
         "character": "",
         "audioUrl": "audio/the-office/069_even_for_the_internet_it_s_pretty_shocking.mp3"
       },
@@ -12921,7 +8991,7 @@ const shows = [
         "audioUrl": "audio/the-office/071_everybody_dance_now.mp3"
       },
       {
-        "text": "Everybody Hurts Dwight",
+        "text": "Everybody hurts Dwight",
         "character": "",
         "audioUrl": "audio/the-office/072_everybody_hurts_dwight.mp3"
       },
@@ -12931,7 +9001,7 @@ const shows = [
         "audioUrl": "audio/the-office/073_everyone_i_work_with_is_an_idiot.mp3"
       },
       {
-        "text": "Explain What You Think That Is",
+        "text": "Explain what you think that is",
         "character": "",
         "audioUrl": "audio/the-office/074_explain_what_you_think_that_is.mp3"
       },
@@ -12939,11 +9009,6 @@ const shows = [
         "text": "Fail",
         "character": "",
         "audioUrl": "audio/the-office/075_fail.mp3"
-      },
-      {
-        "text": "False",
-        "character": "",
-        "audioUrl": "audio/the-office/076_false.mp3"
       },
       {
         "text": "Favorite Flavor",
@@ -12966,22 +9031,12 @@ const shows = [
         "audioUrl": "audio/the-office/080_finger_gun_standoff.mp3"
       },
       {
-        "text": "Fingers up",
-        "character": "",
-        "audioUrl": "audio/the-office/081_fingers_up.mp3"
-      },
-      {
         "text": "Fire Drill the office",
         "character": "",
         "audioUrl": "audio/the-office/082_fire_drill_the_office.mp3"
       },
       {
-        "text": "Fire Shooting At Us",
-        "character": "",
-        "audioUrl": "audio/the-office/083_fire_shooting_at_us.mp3"
-      },
-      {
-        "text": "Fool Me Once, Strike One",
+        "text": "Fool me once, strike one",
         "character": "",
         "audioUrl": "audio/the-office/084_fool_me_once_strike_one.mp3"
       },
@@ -13041,32 +9096,17 @@ const shows = [
         "audioUrl": "audio/the-office/095_happy_birthday_to_you.mp3"
       },
       {
-        "text": "Happy Holidays",
-        "character": "",
-        "audioUrl": "audio/the-office/096_happy_holidays.mp3"
-      },
-      {
-        "text": "Happy Holidays, Dwight",
-        "character": "",
-        "audioUrl": "audio/the-office/097_happy_holidays_dwight.mp3"
-      },
-      {
         "text": "Hardcore Parkour",
         "character": "",
         "audioUrl": "audio/the-office/098_hardcore_parkour.mp3"
       },
       {
-        "text": "HATES BLACKBERRY",
+        "text": "Hates Blackberry",
         "character": "",
         "audioUrl": "audio/the-office/099_hates_blackberry.mp3"
       },
       {
-        "text": "He is a good guy, not a terrorist",
-        "character": "",
-        "audioUrl": "audio/the-office/100_he_is_a_good_guy_not_a_terrorist.mp3"
-      },
-      {
-        "text": "He's Got Potential",
+        "text": "He's got potential",
         "character": "",
         "audioUrl": "audio/the-office/101_he_s_got_potential.mp3"
       },
@@ -13091,7 +9131,7 @@ const shows = [
         "audioUrl": "audio/the-office/105_here_s_to_good_friends.mp3"
       },
       {
-        "text": "Hey, Hey, Hey, you idiot",
+        "text": "Hey, hey, hey, you idiot",
         "character": "",
         "audioUrl": "audio/the-office/106_hey_hey_hey_you_idiot.mp3"
       },
@@ -13099,21 +9139,6 @@ const shows = [
         "text": "Hired Guy",
         "character": "",
         "audioUrl": "audio/the-office/107_hired_guy.mp3"
-      },
-      {
-        "text": "How dare you",
-        "character": "",
-        "audioUrl": "audio/the-office/108_how_dare_you.mp3"
-      },
-      {
-        "text": "How dare you?",
-        "character": "",
-        "audioUrl": "audio/the-office/109_how_dare_you.mp3"
-      },
-      {
-        "text": "How Much Pot Did You Smoke",
-        "character": "",
-        "audioUrl": "audio/the-office/110_how_much_pot_did_you_smoke.mp3"
       },
       {
         "text": "How the turn tables",
@@ -13136,16 +9161,6 @@ const shows = [
         "audioUrl": "audio/the-office/114_i_already_won_the_lottery.mp3"
       },
       {
-        "text": "I am aware of the effect I have on women",
-        "character": "",
-        "audioUrl": "audio/the-office/115_i_am_aware_of_the_effect_i_have_on_women.mp3"
-      },
-      {
-        "text": "I Am Dead Inside",
-        "character": "",
-        "audioUrl": "audio/the-office/116_i_am_dead_inside.mp3"
-      },
-      {
         "text": "I am really proud of you",
         "character": "",
         "audioUrl": "audio/the-office/117_i_am_really_proud_of_you.mp3"
@@ -13156,14 +9171,9 @@ const shows = [
         "audioUrl": "audio/the-office/118_i_brought_you_into_this_world_and_i_can_take_you_out.mp3"
       },
       {
-        "text": "I Can't Do This Forever",
+        "text": "I can't do this forever",
         "character": "",
         "audioUrl": "audio/the-office/119_i_can_t_do_this_forever.mp3"
-      },
-      {
-        "text": "I Can't Help But Feel Partially Responsible",
-        "character": "",
-        "audioUrl": "audio/the-office/120_i_can_t_help_but_feel_partially_responsible.mp3"
       },
       {
         "text": "I declare bankruptcy!",
@@ -13176,11 +9186,6 @@ const shows = [
         "audioUrl": "audio/the-office/122_i_do_my_best_work_when_people_don_t_believe_in_me.mp3"
       },
       {
-        "text": "I do not understand what you spend your money on",
-        "character": "",
-        "audioUrl": "audio/the-office/123_i_do_not_understand_what_you_spend_your_money_on.mp3"
-      },
-      {
         "text": "I don't wanna work",
         "character": "",
         "audioUrl": "audio/the-office/124_i_don_t_wanna_work.mp3"
@@ -13191,16 +9196,6 @@ const shows = [
         "audioUrl": "audio/the-office/125_i_don_t_wanna_work.mp3"
       },
       {
-        "text": "I DONT CARE",
-        "character": "",
-        "audioUrl": "audio/the-office/126_i_dont_care.mp3"
-      },
-      {
-        "text": "I feel like I'm dying inside",
-        "character": "",
-        "audioUrl": "audio/the-office/127_i_feel_like_i_m_dying_inside.mp3"
-      },
-      {
         "text": "I feel so bad for Angela",
         "character": "",
         "audioUrl": "audio/the-office/128_i_feel_so_bad_for_angela.mp3"
@@ -13209,11 +9204,6 @@ const shows = [
         "text": "I forbid anybody to freak out",
         "character": "",
         "audioUrl": "audio/the-office/129_i_forbid_anybody_to_freak_out.mp3"
-      },
-      {
-        "text": "I forgot I have to support him no matter what",
-        "character": "",
-        "audioUrl": "audio/the-office/130_i_forgot_i_have_to_support_him_no_matter_what.mp3"
       },
       {
         "text": "I had no idea",
@@ -13231,19 +9221,9 @@ const shows = [
         "audioUrl": "audio/the-office/133_i_heard_a_joke_today.mp3"
       },
       {
-        "text": "I hope you're happy",
-        "character": "",
-        "audioUrl": "audio/the-office/134_i_hope_you_re_happy.mp3"
-      },
-      {
         "text": "I know about Angela",
         "character": "",
         "audioUrl": "audio/the-office/135_i_know_about_angela.mp3"
-      },
-      {
-        "text": "I Like It",
-        "character": "",
-        "audioUrl": "audio/the-office/136_i_like_it.mp3"
       },
       {
         "text": "I like pretzel day",
@@ -13251,17 +9231,12 @@ const shows = [
         "audioUrl": "audio/the-office/137_i_like_pretzel_day.mp3"
       },
       {
-        "text": "I Love It",
-        "character": "",
-        "audioUrl": "audio/the-office/138_i_love_it.mp3"
-      },
-      {
-        "text": "I Never Smile",
+        "text": "I never smile",
         "character": "",
         "audioUrl": "audio/the-office/139_i_never_smile.mp3"
       },
       {
-        "text": "I Respond to Strong Leadership",
+        "text": "I respond to strong leadership",
         "character": "",
         "audioUrl": "audio/the-office/140_i_respond_to_strong_leadership.mp3"
       },
@@ -13271,7 +9246,7 @@ const shows = [
         "audioUrl": "audio/the-office/141_i_send_it_back.mp3"
       },
       {
-        "text": "I should kick your F***ing Ass",
+        "text": "I should kick your f***ing ass",
         "character": "",
         "audioUrl": "audio/the-office/142_i_should_kick_your_f_ing_ass.mp3"
       },
@@ -13286,7 +9261,7 @@ const shows = [
         "audioUrl": "audio/the-office/144_i_state_my_regret.mp3"
       },
       {
-        "text": "I Thought We Had the Same Birthday",
+        "text": "I thought we had the same birthday",
         "character": "",
         "audioUrl": "audio/the-office/145_i_thought_we_had_the_same_birthday.mp3"
       },
@@ -13316,11 +9291,6 @@ const shows = [
         "audioUrl": "audio/the-office/150_i_ll_catch_you_on_the_flippity_flip.mp3"
       },
       {
-        "text": "I'll Kill You",
-        "character": "",
-        "audioUrl": "audio/the-office/151_i_ll_kill_you.mp3"
-      },
-      {
         "text": "I'm Awesome",
         "character": "",
         "audioUrl": "audio/the-office/152_i_m_awesome.mp3"
@@ -13331,19 +9301,9 @@ const shows = [
         "audioUrl": "audio/the-office/153_i_m_going_wherever_they_value_loyalty_the_most.mp3"
       },
       {
-        "text": "I'm Gonna Kill Myself",
+        "text": "I'm gonna kill myself",
         "character": "",
         "audioUrl": "audio/the-office/154_i_m_gonna_kill_myself.mp3"
-      },
-      {
-        "text": "I'm gonna kill you",
-        "character": "",
-        "audioUrl": "audio/the-office/155_i_m_gonna_kill_you.mp3"
-      },
-      {
-        "text": "I'm just worried about my friend",
-        "character": "",
-        "audioUrl": "audio/the-office/156_i_m_just_worried_about_my_friend.mp3"
       },
       {
         "text": "I'm not superstitious, but I am a little stitious",
@@ -13354,16 +9314,6 @@ const shows = [
         "text": "I'm not your father",
         "character": "",
         "audioUrl": "audio/the-office/158_i_m_not_your_father.mp3"
-      },
-      {
-        "text": "I'm really smart now",
-        "character": "",
-        "audioUrl": "audio/the-office/159_i_m_really_smart_now.mp3"
-      },
-      {
-        "text": "I'm super proud of you guys",
-        "character": "",
-        "audioUrl": "audio/the-office/160_i_m_super_proud_of_you_guys.mp3"
       },
       {
         "text": "Ideal party",
@@ -13381,7 +9331,7 @@ const shows = [
         "audioUrl": "audio/the-office/163_identity_theft_is_not_a_joke.mp3"
       },
       {
-        "text": "Idiot Quote Dwight Schrute",
+        "text": "Idiot quote Dwight Schrute",
         "character": "",
         "audioUrl": "audio/the-office/164_idiot_quote_dwight_schrute.mp3"
       },
@@ -13396,7 +9346,7 @@ const shows = [
         "audioUrl": "audio/the-office/166_if_someone_gives_you_10_000_to_1_on_anything_you_take_it.mp3"
       },
       {
-        "text": "If that’s Flashing then Lock Me Up",
+        "text": "If that’s flashing then lock me up",
         "character": "",
         "audioUrl": "audio/the-office/167_if_that_s_flashing_then_lock_me_up.mp3"
       },
@@ -13406,12 +9356,12 @@ const shows = [
         "audioUrl": "audio/the-office/168_if_we_did_something_to_upset_you_i_m_sure_it_was_inadvertent.mp3"
       },
       {
-        "text": "Im Fine B***h",
+        "text": "I'm fine b***h",
         "character": "",
         "audioUrl": "audio/the-office/169_im_fine_b_h.mp3"
       },
       {
-        "text": "In Sales, ABC Means..",
+        "text": "In sales, ABC means..",
         "character": "",
         "audioUrl": "audio/the-office/170_in_sales_abc_means.mp3"
       },
@@ -13436,14 +9386,9 @@ const shows = [
         "audioUrl": "audio/the-office/174_it_is_smells_like_throw_up_in_here.mp3"
       },
       {
-        "text": "It is Your Birthday",
+        "text": "It is your birthday",
         "character": "",
         "audioUrl": "audio/the-office/175_it_is_your_birthday.mp3"
-      },
-      {
-        "text": "It smells like popcorn",
-        "character": "",
-        "audioUrl": "audio/the-office/176_it_smells_like_popcorn.mp3"
       },
       {
         "text": "It's about to get all stupid up in here",
@@ -13451,29 +9396,14 @@ const shows = [
         "audioUrl": "audio/the-office/177_it_s_about_to_get_all_stupid_up_in_here.mp3"
       },
       {
-        "text": "It's been 17 days",
-        "character": "",
-        "audioUrl": "audio/the-office/178_it_s_been_17_days.mp3"
-      },
-      {
         "text": "It's happening!",
         "character": "",
         "audioUrl": "audio/the-office/179_it_s_happening.mp3"
       },
       {
-        "text": "It’s a Christmas Miracle",
-        "character": "",
-        "audioUrl": "audio/the-office/180_it_s_a_christmas_miracle.mp3"
-      },
-      {
-        "text": "It’s Britney Bitch",
+        "text": "It’s Britney bitch",
         "character": "",
         "audioUrl": "audio/the-office/181_it_s_britney_bitch.mp3"
-      },
-      {
-        "text": "It’s True",
-        "character": "",
-        "audioUrl": "audio/the-office/182_it_s_true.mp3"
       },
       {
         "text": "Jan throws Dundee",
@@ -13481,7 +9411,7 @@ const shows = [
         "audioUrl": "audio/the-office/183_jan_throws_dundee.mp3"
       },
       {
-        "text": "Jessica Did You Just Fart?",
+        "text": "Jessica did you just fart?",
         "character": "",
         "audioUrl": "audio/the-office/184_jessica_did_you_just_fart.mp3"
       },
@@ -13491,17 +9421,12 @@ const shows = [
         "audioUrl": "audio/the-office/185_jim_michael.mp3"
       },
       {
-        "text": "Jim Bears Beats",
-        "character": "",
-        "audioUrl": "audio/the-office/186_jim_bears_beats.mp3"
-      },
-      {
         "text": "Jim's Snowball",
         "character": "",
         "audioUrl": "audio/the-office/187_jim_s_snowball.mp3"
       },
       {
-        "text": "Just Made the List",
+        "text": "Just made the list",
         "character": "",
         "audioUrl": "audio/the-office/188_just_made_the_list.mp3"
       },
@@ -13511,7 +9436,7 @@ const shows = [
         "audioUrl": "audio/the-office/189_just_poopin.mp3"
       },
       {
-        "text": "Just Stop You’re Going to Drive Me Crazy",
+        "text": "Just stop you’re going to drive me crazy",
         "character": "",
         "audioUrl": "audio/the-office/190_just_stop_you_re_going_to_drive_me_crazy.mp3"
       },
@@ -13546,7 +9471,7 @@ const shows = [
         "audioUrl": "audio/the-office/196_let_s_all_start_clapping.mp3"
       },
       {
-        "text": "Let's Assess the Situation",
+        "text": "Let's assess the situation",
         "character": "",
         "audioUrl": "audio/the-office/197_let_s_assess_the_situation.mp3"
       },
@@ -13556,34 +9481,19 @@ const shows = [
         "audioUrl": "audio/the-office/198_let_s_party.mp3"
       },
       {
-        "text": "Let's Put a Smile on that Face",
-        "character": "",
-        "audioUrl": "audio/the-office/199_let_s_put_a_smile_on_that_face.mp3"
-      },
-      {
-        "text": "Magic Magic Magic Magic Magic",
+        "text": "Magic magic magic magic magic",
         "character": "",
         "audioUrl": "audio/the-office/200_magic_magic_magic_magic_magic.mp3"
       },
       {
-        "text": "Meredith Drinks A Lot",
+        "text": "Meredith drinks a lot",
         "character": "",
         "audioUrl": "audio/the-office/201_meredith_drinks_a_lot.mp3"
       },
       {
-        "text": "Michael Dance Off",
+        "text": "Michael dance off",
         "character": "",
         "audioUrl": "audio/the-office/202_michael_dance_off.mp3"
-      },
-      {
-        "text": "Michael Scarn",
-        "character": "",
-        "audioUrl": "audio/the-office/203_michael_scarn.mp3"
-      },
-      {
-        "text": "Michael Scott Hi",
-        "character": "",
-        "audioUrl": "audio/the-office/204_michael_scott_hi.mp3"
       },
       {
         "text": "Michael Scott drives into a lake",
@@ -13591,7 +9501,7 @@ const shows = [
         "audioUrl": "audio/the-office/205_michael_scott_drives_into_a_lake.mp3"
       },
       {
-        "text": "Michael Scott Happy Birthday",
+        "text": "Michael Scott happy birthday",
         "character": "",
         "audioUrl": "audio/the-office/206_michael_scott_happy_birthday.mp3"
       },
@@ -13601,24 +9511,14 @@ const shows = [
         "audioUrl": "audio/the-office/207_michael_scott_in_victoria_s_secret.mp3"
       },
       {
-        "text": "Michael Scott's Toast",
+        "text": "Michael Scott's toast",
         "character": "",
         "audioUrl": "audio/the-office/208_michael_scott_s_toast.mp3"
       },
       {
-        "text": "Michael Scott's Toast Part II",
+        "text": "Michael Scott's toast part II",
         "character": "",
         "audioUrl": "audio/the-office/209_michael_scott_s_toast_part_ii.mp3"
-      },
-      {
-        "text": "Michael!",
-        "character": "",
-        "audioUrl": "audio/the-office/210_michael.mp3"
-      },
-      {
-        "text": "Michael!",
-        "character": "",
-        "audioUrl": "audio/the-office/211_michael.mp3"
       },
       {
         "text": "Michael's colonoscopy",
@@ -13636,11 +9536,6 @@ const shows = [
         "audioUrl": "audio/the-office/214_motel_art.mp3"
       },
       {
-        "text": "Mr",
-        "character": "",
-        "audioUrl": "audio/the-office/215_mr.mp3"
-      },
-      {
         "text": "My heart soars",
         "character": "",
         "audioUrl": "audio/the-office/216_my_heart_soars.mp3"
@@ -13656,19 +9551,9 @@ const shows = [
         "audioUrl": "audio/the-office/218_my_humps_micheal.mp3"
       },
       {
-        "text": "Nailed it",
-        "character": "",
-        "audioUrl": "audio/the-office/219_nailed_it.mp3"
-      },
-      {
         "text": "Narc",
         "character": "",
         "audioUrl": "audio/the-office/220_narc.mp3"
-      },
-      {
-        "text": "Nick Middle Finger",
-        "character": "",
-        "audioUrl": "audio/the-office/221_nick_middle_finger.mp3"
       },
       {
         "text": "No",
@@ -13681,12 +9566,7 @@ const shows = [
         "audioUrl": "audio/the-office/223_no_billy_michael_sc.mp3"
       },
       {
-        "text": "No Don't Like That",
-        "character": "",
-        "audioUrl": "audio/the-office/224_no_don_t_like_that.mp3"
-      },
-      {
-        "text": "No God No God Please No No No NOOOOOOO",
+        "text": "No God no God please no no no nooooooo",
         "character": "",
         "audioUrl": "audio/the-office/225_no_god_no_god_please_no_no_no_nooooooo.mp3"
       },
@@ -13696,12 +9576,12 @@ const shows = [
         "audioUrl": "audio/the-office/226_no_god_please.mp3"
       },
       {
-        "text": "No God Please No",
+        "text": "No God please no",
         "character": "",
         "audioUrl": "audio/the-office/227_no_god_please_no.mp3"
       },
       {
-        "text": "No God Please No Noo",
+        "text": "No God please no noo",
         "character": "",
         "audioUrl": "audio/the-office/228_no_god_please_no_noo.mp3"
       },
@@ -13716,7 +9596,7 @@ const shows = [
         "audioUrl": "audio/the-office/230_no_i_don_t_want_to_do_any_of_that.mp3"
       },
       {
-        "text": "No! God! No god please no",
+        "text": "No! God! No God please no",
         "character": "",
         "audioUrl": "audio/the-office/231_no_god_no_god_please_no.mp3"
       },
@@ -13731,22 +9611,17 @@ const shows = [
         "audioUrl": "audio/the-office/233_nooo_the_office.mp3"
       },
       {
-        "text": "Office dancer",
+        "text": "Dancer",
         "character": "",
         "audioUrl": "audio/the-office/234_office_dancer.mp3"
       },
       {
-        "text": "Office Parkour",
+        "text": "Parkour",
         "character": "",
         "audioUrl": "audio/the-office/235_office_parkour.mp3"
       },
       {
-        "text": "Office Theme",
-        "character": "",
-        "audioUrl": "audio/the-office/236_office_theme.mp3"
-      },
-      {
-        "text": "Office why are you the way",
+        "text": "Why are you the way",
         "character": "",
         "audioUrl": "audio/the-office/237_office_why_are_you_the_way.mp3"
       },
@@ -13754,21 +9629,6 @@ const shows = [
         "text": "Ogodno",
         "character": "",
         "audioUrl": "audio/the-office/238_ogodno.mp3"
-      },
-      {
-        "text": "Oh d",
-        "character": "",
-        "audioUrl": "audio/the-office/239_oh_d.mp3"
-      },
-      {
-        "text": "Oh D!",
-        "character": "",
-        "audioUrl": "audio/the-office/240_oh_d.mp3"
-      },
-      {
-        "text": "Oh god, oh no no no!",
-        "character": "",
-        "audioUrl": "audio/the-office/241_oh_god_oh_no_no_no.mp3"
       },
       {
         "text": "Oh my god",
@@ -13779,26 +9639,6 @@ const shows = [
         "text": "Oh my god!",
         "character": "",
         "audioUrl": "audio/the-office/243_oh_my_god.mp3"
-      },
-      {
-        "text": "Oh, Lazy",
-        "character": "",
-        "audioUrl": "audio/the-office/244_oh_lazy.mp3"
-      },
-      {
-        "text": "Ok boomer",
-        "character": "",
-        "audioUrl": "audio/the-office/245_ok_boomer.mp3"
-      },
-      {
-        "text": "Omg Its Happening",
-        "character": "",
-        "audioUrl": "audio/the-office/246_omg_its_happening.mp3"
-      },
-      {
-        "text": "OMG, wouldn't that be hilarious?",
-        "character": "",
-        "audioUrl": "audio/the-office/247_omg_wouldn_t_that_be_hilarious.mp3"
       },
       {
         "text": "Oscar",
@@ -13816,24 +9656,9 @@ const shows = [
         "audioUrl": "audio/the-office/250_our_prices_have_never_been_lower.mp3"
       },
       {
-        "text": "Out out out idiot",
-        "character": "",
-        "audioUrl": "audio/the-office/251_out_out_out_idiot.mp3"
-      },
-      {
         "text": "Pam helping Dwight",
         "character": "",
         "audioUrl": "audio/the-office/252_pam_helping_dwight.mp3"
-      },
-      {
-        "text": "Pam Says Yep",
-        "character": "",
-        "audioUrl": "audio/the-office/253_pam_says_yep.mp3"
-      },
-      {
-        "text": "Parkour The Office",
-        "character": "",
-        "audioUrl": "audio/the-office/254_parkour_the_office.mp3"
       },
       {
         "text": "Parkour parkour!",
@@ -13846,12 +9671,12 @@ const shows = [
         "audioUrl": "audio/the-office/256_pee_corner.mp3"
       },
       {
-        "text": "People Have Been Filtering In and Out",
+        "text": "People have been filtering in and out",
         "character": "",
         "audioUrl": "audio/the-office/257_people_have_been_filtering_in_and_out.mp3"
       },
       {
-        "text": "People Have Been Filtering In and Out",
+        "text": "People have been filtering in and out",
         "character": "",
         "audioUrl": "audio/the-office/258_people_have_been_filtering_in_and_out.mp3"
       },
@@ -13906,11 +9731,6 @@ const shows = [
         "audioUrl": "audio/the-office/268_report.mp3"
       },
       {
-        "text": "Right back at ya, bitch",
-        "character": "",
-        "audioUrl": "audio/the-office/269_right_back_at_ya_bitch.mp3"
-      },
-      {
         "text": "Russian Roulette",
         "character": "",
         "audioUrl": "audio/the-office/270_russian_roulette.mp3"
@@ -13931,11 +9751,6 @@ const shows = [
         "audioUrl": "audio/the-office/273_ryan_is_being_a_little_bitch_again.mp3"
       },
       {
-        "text": "Ryan Started FIRE",
-        "character": "",
-        "audioUrl": "audio/the-office/274_ryan_started_fire.mp3"
-      },
-      {
         "text": "Saboteur",
         "character": "",
         "audioUrl": "audio/the-office/275_saboteur.mp3"
@@ -13951,7 +9766,7 @@ const shows = [
         "audioUrl": "audio/the-office/277_saying_fewer_words.mp3"
       },
       {
-        "text": "Schrute Farms Bed and Breakfast",
+        "text": "Schrute Farms bed and breakfast",
         "character": "",
         "audioUrl": "audio/the-office/278_schrute_farms_bed_and_breakfast.mp3"
       },
@@ -13981,14 +9796,9 @@ const shows = [
         "audioUrl": "audio/the-office/283_she_ll_do.mp3"
       },
       {
-        "text": "SHUT UP ABOUT THE SUN",
+        "text": "Shut up about the sun",
         "character": "",
         "audioUrl": "audio/the-office/284_shut_up_about_the_sun.mp3"
-      },
-      {
-        "text": "Shut up, shut up",
-        "character": "",
-        "audioUrl": "audio/the-office/285_shut_up_shut_up.mp3"
       },
       {
         "text": "Smiling through the blinds",
@@ -13996,14 +9806,9 @@ const shows = [
         "audioUrl": "audio/the-office/286_smiling_through_the_blinds.mp3"
       },
       {
-        "text": "So Suck On That",
+        "text": "So suck on that",
         "character": "",
         "audioUrl": "audio/the-office/287_so_suck_on_that.mp3"
-      },
-      {
-        "text": "Someone should write a song about that",
-        "character": "",
-        "audioUrl": "audio/the-office/288_someone_should_write_a_song_about_that.mp3"
       },
       {
         "text": "Sometimes I'll start a sentence..",
@@ -14011,12 +9816,7 @@ const shows = [
         "audioUrl": "audio/the-office/289_sometimes_i_ll_start_a_sentence.mp3"
       },
       {
-        "text": "Sorry",
-        "character": "",
-        "audioUrl": "audio/the-office/290_sorry.mp3"
-      },
-      {
-        "text": "Sorry I annoyed You With My Friendship",
+        "text": "Sorry I annoyed you with my friendship",
         "character": "",
         "audioUrl": "audio/the-office/291_sorry_i_annoyed_you_with_my_friendship.mp3"
       },
@@ -14031,12 +9831,12 @@ const shows = [
         "audioUrl": "audio/the-office/293_stanley.mp3"
       },
       {
-        "text": "Stanley Hudson Jury Duty",
+        "text": "Stanley Hudson jury duty",
         "character": "",
         "audioUrl": "audio/the-office/294_stanley_hudson_jury_duty.mp3"
       },
       {
-        "text": "Stanley Hudson Not Pleased",
+        "text": "Stanley Hudson not pleased",
         "character": "",
         "audioUrl": "audio/the-office/295_stanley_hudson_not_pleased.mp3"
       },
@@ -14051,7 +9851,7 @@ const shows = [
         "audioUrl": "audio/the-office/297_stanley_yelled_at_me_today.mp3"
       },
       {
-        "text": "Stanley's View on Jury Duty",
+        "text": "Stanley's view on jury duty",
         "character": "",
         "audioUrl": "audio/the-office/298_stanley_s_view_on_jury_duty.mp3"
       },
@@ -14066,24 +9866,14 @@ const shows = [
         "audioUrl": "audio/the-office/300_staying_alive.mp3"
       },
       {
-        "text": "Strike, Scream, Run",
+        "text": "Strike, scream, run",
         "character": "",
         "audioUrl": "audio/the-office/301_strike_scream_run.mp3"
       },
       {
-        "text": "Strike, Scream, Run",
+        "text": "Strike, scream, run",
         "character": "",
         "audioUrl": "audio/the-office/302_strike_scream_run.mp3"
-      },
-      {
-        "text": "Stuff In Jello Again",
-        "character": "",
-        "audioUrl": "audio/the-office/303_stuff_in_jello_again.mp3"
-      },
-      {
-        "text": "Suck it, Oscar!",
-        "character": "",
-        "audioUrl": "audio/the-office/304_suck_it_oscar.mp3"
       },
       {
         "text": "Take me home, country roads",
@@ -14091,22 +9881,12 @@ const shows = [
         "audioUrl": "audio/the-office/305_take_me_home_country_roads.mp3"
       },
       {
-        "text": "Thank you",
-        "character": "",
-        "audioUrl": "audio/the-office/306_thank_you.mp3"
-      },
-      {
         "text": "Thank you sir, I don't think you will regret it",
         "character": "",
         "audioUrl": "audio/the-office/307_thank_you_sir_i_don_t_think_you_will_regret_it.mp3"
       },
       {
-        "text": "That is totally inappropriate",
-        "character": "",
-        "audioUrl": "audio/the-office/308_that_is_totally_inappropriate.mp3"
-      },
-      {
-        "text": "That Was an Overreaction",
+        "text": "That was an overreaction",
         "character": "",
         "audioUrl": "audio/the-office/309_that_was_an_overreaction.mp3"
       },
@@ -14121,69 +9901,19 @@ const shows = [
         "audioUrl": "audio/the-office/311_that_s_what_she_said_the_office.mp3"
       },
       {
-        "text": "That's what she said",
-        "character": "",
-        "audioUrl": "audio/the-office/312_that_s_what_she_said.mp3"
-      },
-      {
-        "text": "That's what she said",
-        "character": "",
-        "audioUrl": "audio/the-office/313_that_s_what_she_said.mp3"
-      },
-      {
-        "text": "That's what she said",
-        "character": "",
-        "audioUrl": "audio/the-office/314_that_s_what_she_said.mp3"
-      },
-      {
-        "text": "That's what she said",
-        "character": "",
-        "audioUrl": "audio/the-office/315_that_s_what_she_said.mp3"
-      },
-      {
-        "text": "Thats a bummer",
-        "character": "",
-        "audioUrl": "audio/the-office/316_thats_a_bummer.mp3"
-      },
-      {
-        "text": "Thats a very rude thing to say kevin",
+        "text": "That's a very rude thing to say Kevin",
         "character": "",
         "audioUrl": "audio/the-office/317_thats_a_very_rude_thing_to_say_kevin.mp3"
       },
       {
-        "text": "Thats what he said",
-        "character": "",
-        "audioUrl": "audio/the-office/318_thats_what_he_said.mp3"
-      },
-      {
-        "text": "Thats What She Said",
+        "text": "That's what she said",
         "character": "",
         "audioUrl": "audio/the-office/319_thats_what_she_said.mp3"
       },
       {
-        "text": "Thats what she said",
-        "character": "",
-        "audioUrl": "audio/the-office/320_thats_what_she_said.mp3"
-      },
-      {
-        "text": "Thats what she said",
+        "text": "That's what she said",
         "character": "",
         "audioUrl": "audio/the-office/321_thats_what_she_said.mp3"
-      },
-      {
-        "text": "Thatswhatshesaid the office",
-        "character": "",
-        "audioUrl": "audio/the-office/322_thatswhatshesaid_the_office.mp3"
-      },
-      {
-        "text": "The eyes are the groin of the head",
-        "character": "",
-        "audioUrl": "audio/the-office/323_the_eyes_are_the_groin_of_the_head.mp3"
-      },
-      {
-        "text": "The Fire’s Shooting at Us",
-        "character": "",
-        "audioUrl": "audio/the-office/324_the_fire_s_shooting_at_us.mp3"
       },
       {
         "text": "The hospital will provide dictionaries",
@@ -14191,14 +9921,9 @@ const shows = [
         "audioUrl": "audio/the-office/325_the_hospital_will_provide_dictionaries.mp3"
       },
       {
-        "text": "The Inner Circle",
+        "text": "The inner circle",
         "character": "",
         "audioUrl": "audio/the-office/326_the_inner_circle.mp3"
-      },
-      {
-        "text": "The office",
-        "character": "",
-        "audioUrl": "audio/the-office/327_the_office.mp3"
       },
       {
         "text": "The Office",
@@ -14206,137 +9931,112 @@ const shows = [
         "audioUrl": "audio/the-office/328_the_office.mp3"
       },
       {
-        "text": "The office Thats what she said",
+        "text": "That's what she said",
         "character": "",
         "audioUrl": "audio/the-office/329_the_office_thats_what_she_said.mp3"
       },
       {
-        "text": "The Office Aaaa I’m gonna kill my self",
+        "text": "Aaaa I’m gonna kill my self",
         "character": "",
         "audioUrl": "audio/the-office/330_the_office_aaaa_i_m_gonna_kill_my_self.mp3"
       },
       {
-        "text": "The office I am so scared",
-        "character": "",
-        "audioUrl": "audio/the-office/331_the_office_i_am_so_scared.mp3"
-      },
-      {
-        "text": "The Office I understand nothing",
+        "text": "I understand nothing",
         "character": "",
         "audioUrl": "audio/the-office/332_the_office_i_understand_nothing.mp3"
       },
       {
-        "text": "The Office Identity theft is not a joke",
+        "text": "Identity theft is not a joke",
         "character": "",
         "audioUrl": "audio/the-office/333_the_office_identity_theft_is_not_a_joke.mp3"
       },
       {
-        "text": "The Office No God please nooo",
+        "text": "No God please nooo",
         "character": "",
         "audioUrl": "audio/the-office/334_the_office_no_god_please_nooo.mp3"
       },
       {
-        "text": "The office Oh no its bad. It's 'real' bad.",
+        "text": "Oh no it's bad. It's 'real' bad.",
         "character": "",
         "audioUrl": "audio/the-office/335_the_office_oh_no_its_bad_it_s_real_bad.mp3"
       },
       {
-        "text": "The office Omg! Ok, it's happening!",
+        "text": "Oh my god! Ok, it's happening!",
         "character": "",
         "audioUrl": "audio/the-office/336_the_office_omg_ok_it_s_happening.mp3"
       },
       {
-        "text": "The office Thank you",
-        "character": "",
-        "audioUrl": "audio/the-office/337_the_office_thank_you.mp3"
-      },
-      {
-        "text": "That's what she said (slow)",
-        "character": "",
-        "audioUrl": "audio/the-office/338_the_office_that_s_what_she_said_slow.mp3"
-      },
-      {
-        "text": "The Office Why are you the way that you are?",
-        "character": "",
-        "audioUrl": "audio/the-office/339_the_office_why_are_you_the_way_that_you_are.mp3"
-      },
-      {
-        "text": "The Office Bathroom",
+        "text": "Bathroom",
         "character": "",
         "audioUrl": "audio/the-office/340_the_office_bathroom.mp3"
       },
       {
-        "text": "The Office Birthday",
+        "text": "Birthday",
         "character": "",
         "audioUrl": "audio/the-office/341_the_office_birthday.mp3"
       },
       {
-        "text": "The Office Jim",
+        "text": "Jim",
         "character": "",
         "audioUrl": "audio/the-office/342_the_office_jim.mp3"
       },
       {
-        "text": "The office stay calm",
+        "text": "Stay calm",
         "character": "",
         "audioUrl": "audio/the-office/343_the_office_stay_calm.mp3"
       },
       {
-        "text": "The Office STAY CALM",
+        "text": "Stay calm",
         "character": "",
         "audioUrl": "audio/the-office/344_the_office_stay_calm.mp3"
       },
       {
-        "text": "The Office Thank you",
-        "character": "",
-        "audioUrl": "audio/the-office/345_the_office_thank_you.mp3"
-      },
-      {
-        "text": "The Office Theme",
+        "text": "Theme",
         "character": "",
         "audioUrl": "audio/the-office/346_the_office_theme.mp3"
       },
       {
-        "text": "The Office Theme",
+        "text": "Theme",
         "character": "",
         "audioUrl": "audio/the-office/347_the_office_theme.mp3"
       },
       {
-        "text": "The office theme remix",
+        "text": "Theme remix",
         "character": "",
         "audioUrl": "audio/the-office/348_the_office_theme_remix.mp3"
       },
       {
-        "text": "The Office Theme Son",
+        "text": "Theme son",
         "character": "",
         "audioUrl": "audio/the-office/349_the_office_theme_son.mp3"
       },
       {
-        "text": "The Office Theme Song",
+        "text": "Theme song",
         "character": "",
         "audioUrl": "audio/the-office/350_the_office_theme_song.mp3"
       },
       {
-        "text": "The Office Trap Mix",
+        "text": "Trap mix",
         "character": "",
         "audioUrl": "audio/the-office/351_the_office_trap_mix.mp3"
       },
       {
-        "text": "The office twins",
+        "text": "Twins",
         "character": "",
         "audioUrl": "audio/the-office/352_the_office_twins.mp3"
       },
       {
-        "text": "The Office Ugly",
+        "text": "Ugly",
         "character": "",
         "audioUrl": "audio/the-office/353_the_office_ugly.mp3"
       },
       {
-        "text": "The Office UK Theme",
+        "text": "UK theme",
         "character": "",
         "audioUrl": "audio/the-office/354_the_office_uk_theme.mp3"
       },
       {
-        "text": "The Office: Andy's Ringtone",
+        "text": "The Office: Andy's ringtone",
         "character": "",
         "audioUrl": "audio/the-office/355_the_office_andy_s_ringtone.mp3"
       },
@@ -14346,7 +10046,7 @@ const shows = [
         "audioUrl": "audio/the-office/356_the_password.mp3"
       },
       {
-        "text": "The Prodigal Son Returns",
+        "text": "The prodigal son returns",
         "character": "",
         "audioUrl": "audio/the-office/357_the_prodigal_son_returns.mp3"
       },
@@ -14361,7 +10061,7 @@ const shows = [
         "audioUrl": "audio/the-office/359_the_scarn.mp3"
       },
       {
-        "text": "The Scarn Dance",
+        "text": "The Scarn dance",
         "character": "",
         "audioUrl": "audio/the-office/360_the_scarn_dance.mp3"
       },
@@ -14371,12 +10071,7 @@ const shows = [
         "audioUrl": "audio/the-office/361_the_stress_of_my_modern_office_has_caused_me_to_go_into_depr.mp3"
       },
       {
-        "text": "There are always a million reasons not to do something",
-        "character": "",
-        "audioUrl": "audio/the-office/362_there_are_always_a_million_reasons_not_to_do_something.mp3"
-      },
-      {
-        "text": "These are Our Demands",
+        "text": "These are our demands",
         "character": "",
         "audioUrl": "audio/the-office/363_these_are_our_demands.mp3"
       },
@@ -14386,19 +10081,9 @@ const shows = [
         "audioUrl": "audio/the-office/364_this_has_been_the_worst_most_backwards_day_of_my_life.mp3"
       },
       {
-        "text": "This is a damn shame",
-        "character": "",
-        "audioUrl": "audio/the-office/365_this_is_a_damn_shame.mp3"
-      },
-      {
         "text": "This is Christmas",
         "character": "",
         "audioUrl": "audio/the-office/366_this_is_christmas.mp3"
-      },
-      {
-        "text": "This is huge",
-        "character": "",
-        "audioUrl": "audio/the-office/367_this_is_huge.mp3"
       },
       {
         "text": "This is the worst",
@@ -14406,24 +10091,14 @@ const shows = [
         "audioUrl": "audio/the-office/368_this_is_the_worst.mp3"
       },
       {
-        "text": "This Place Is Freaking Awesome",
-        "character": "",
-        "audioUrl": "audio/the-office/369_this_place_is_freaking_awesome.mp3"
-      },
-      {
         "text": "This plantation",
         "character": "",
         "audioUrl": "audio/the-office/370_this_plantation.mp3"
       },
       {
-        "text": "Tickets to the Gun Show",
+        "text": "Tickets to the gun show",
         "character": "",
         "audioUrl": "audio/the-office/371_tickets_to_the_gun_show.mp3"
-      },
-      {
-        "text": "Timburrr",
-        "character": "",
-        "audioUrl": "audio/the-office/372_timburrr.mp3"
       },
       {
         "text": "Time to carbo load",
@@ -14431,7 +10106,7 @@ const shows = [
         "audioUrl": "audio/the-office/373_time_to_carbo_load.mp3"
       },
       {
-        "text": "Try My Gookie",
+        "text": "Try my gookie",
         "character": "",
         "audioUrl": "audio/the-office/374_try_my_gookie.mp3"
       },
@@ -14441,7 +10116,7 @@ const shows = [
         "audioUrl": "audio/the-office/375_tube_city.mp3"
       },
       {
-        "text": "Two Thumbs Down",
+        "text": "Two thumbs down",
         "character": "",
         "audioUrl": "audio/the-office/376_two_thumbs_down.mp3"
       },
@@ -14449,11 +10124,6 @@ const shows = [
         "text": "Ugh",
         "character": "",
         "audioUrl": "audio/the-office/377_ugh.mp3"
-      },
-      {
-        "text": "Walk away bitch",
-        "character": "",
-        "audioUrl": "audio/the-office/378_walk_away_bitch.mp3"
       },
       {
         "text": "We are screwed",
@@ -14466,19 +10136,9 @@ const shows = [
         "audioUrl": "audio/the-office/380_we_can_no_longer_be_friends.mp3"
       },
       {
-        "text": "We Could Make Things Very Difficult for You",
+        "text": "We could make things very difficult for you",
         "character": "",
         "audioUrl": "audio/the-office/381_we_could_make_things_very_difficult_for_you.mp3"
-      },
-      {
-        "text": "We Need a New Manager",
-        "character": "",
-        "audioUrl": "audio/the-office/382_we_need_a_new_manager.mp3"
-      },
-      {
-        "text": "We Need a New Manager",
-        "character": "",
-        "audioUrl": "audio/the-office/383_we_need_a_new_manager.mp3"
       },
       {
         "text": "We need to talk",
@@ -14486,27 +10146,12 @@ const shows = [
         "audioUrl": "audio/the-office/384_we_need_to_talk.mp3"
       },
       {
-        "text": "We will ask the questions",
-        "character": "",
-        "audioUrl": "audio/the-office/385_we_will_ask_the_questions.mp3"
-      },
-      {
-        "text": "We're dying here",
-        "character": "",
-        "audioUrl": "audio/the-office/386_we_re_dying_here.mp3"
-      },
-      {
-        "text": "We're on full quarantine",
-        "character": "",
-        "audioUrl": "audio/the-office/387_we_re_on_full_quarantine.mp3"
-      },
-      {
         "text": "We're screwed (short)",
         "character": "",
         "audioUrl": "audio/the-office/388_we_re_screwed_short.mp3"
       },
       {
-        "text": "Well, Happy Birthday Jesus..",
+        "text": "Well, happy birthday Jesus..",
         "character": "",
         "audioUrl": "audio/the-office/389_well_happy_birthday_jesus.mp3"
       },
@@ -14514,16 +10159,6 @@ const shows = [
         "text": "What a great boss you turned out to be",
         "character": "",
         "audioUrl": "audio/the-office/390_what_a_great_boss_you_turned_out_to_be.mp3"
-      },
-      {
-        "text": "What Are We Doing",
-        "character": "",
-        "audioUrl": "audio/the-office/391_what_are_we_doing.mp3"
-      },
-      {
-        "text": "What did I tell you about Yeppers?",
-        "character": "",
-        "audioUrl": "audio/the-office/392_what_did_i_tell_you_about_yeppers.mp3"
       },
       {
         "text": "What is wrong with me today",
@@ -14536,27 +10171,7 @@ const shows = [
         "audioUrl": "audio/the-office/394_what_is_wrong_with_me_today.mp3"
       },
       {
-        "text": "What seems to be the officer?",
-        "character": "",
-        "audioUrl": "audio/the-office/395_what_seems_to_be_the_officer.mp3"
-      },
-      {
-        "text": "What?",
-        "character": "",
-        "audioUrl": "audio/the-office/396_what.mp3"
-      },
-      {
-        "text": "What’s All the Fuss",
-        "character": "",
-        "audioUrl": "audio/the-office/397_what_s_all_the_fuss.mp3"
-      },
-      {
-        "text": "Whats the matter, cant fight your own battles?",
-        "character": "",
-        "audioUrl": "audio/the-office/398_whats_the_matter_cant_fight_your_own_battles.mp3"
-      },
-      {
-        "text": "WHERE ARE THE TURTLES?!",
+        "text": "Where are the turtles?!",
         "character": "",
         "audioUrl": "audio/the-office/399_where_are_the_turtles.mp3"
       },
@@ -14611,37 +10226,12 @@ const shows = [
         "audioUrl": "audio/the-office/409_women_should_dress_the_way_that_they_want.mp3"
       },
       {
-        "text": "Wooo",
-        "character": "",
-        "audioUrl": "audio/the-office/410_wooo.mp3"
-      },
-      {
         "text": "Ya. Okay",
         "character": "",
         "audioUrl": "audio/the-office/411_ya_okay.mp3"
       },
       {
-        "text": "Yeah, true",
-        "character": "",
-        "audioUrl": "audio/the-office/412_yeah_true.mp3"
-      },
-      {
-        "text": "Yes and dont call me shirley",
-        "character": "",
-        "audioUrl": "audio/the-office/413_yes_and_dont_call_me_shirley.mp3"
-      },
-      {
-        "text": "You are a traitor",
-        "character": "",
-        "audioUrl": "audio/the-office/414_you_are_a_traitor.mp3"
-      },
-      {
-        "text": "You Are Murdering the Nard Dog",
-        "character": "",
-        "audioUrl": "audio/the-office/415_you_are_murdering_the_nard_dog.mp3"
-      },
-      {
-        "text": "You Encouraged It",
+        "text": "You encouraged it",
         "character": "",
         "audioUrl": "audio/the-office/416_you_encouraged_it.mp3"
       },
@@ -14649,11 +10239,6 @@ const shows = [
         "text": "You gotta be kidding me",
         "character": "",
         "audioUrl": "audio/the-office/417_you_gotta_be_kidding_me.mp3"
-      },
-      {
-        "text": "You Guys I'm Like Really Smart Now",
-        "character": "",
-        "audioUrl": "audio/the-office/418_you_guys_i_m_like_really_smart_now.mp3"
       },
       {
         "text": "You have a lot to learn about this town, sweetie",
@@ -14671,12 +10256,12 @@ const shows = [
         "audioUrl": "audio/the-office/421_you_owe_me_one.mp3"
       },
       {
-        "text": "YOU WERE IN THE PARKING LOT EARLEIR!",
+        "text": "You were in the parking lot earleir!",
         "character": "",
         "audioUrl": "audio/the-office/422_you_were_in_the_parking_lot_earleir.mp3"
       },
       {
-        "text": "You, Me, Bars, Beers, Buzzed",
+        "text": "You, me, bars, beers, buzzed",
         "character": "",
         "audioUrl": "audio/the-office/423_you_me_bars_beers_buzzed.mp3"
       },
@@ -14701,12 +10286,12 @@ const shows = [
         "audioUrl": "audio/the-office/427_you_re_a_jerk.mp3"
       },
       {
-        "text": "You’re On Facebook",
+        "text": "You’re on Facebook",
         "character": "",
         "audioUrl": "audio/the-office/428_you_re_on_facebook.mp3"
       },
       {
-        "text": "Your Company Cannot Be Worth That Much",
+        "text": "Your company cannot be worth that much",
         "character": "",
         "audioUrl": "audio/the-office/429_your_company_cannot_be_worth_that_much.mp3"
       },
@@ -14714,11 +10299,6 @@ const shows = [
         "text": "Yummy yummy, thank you",
         "character": "",
         "audioUrl": "audio/the-office/430_yummy_yummy_thank_you.mp3"
-      },
-      {
-        "text": "Yup",
-        "character": "",
-        "audioUrl": "audio/the-office/431_yup.mp3"
       }
     ]
   },
@@ -14733,11 +10313,6 @@ const shows = [
     },
     "text_style": "title",
     "quotes": [
-      {
-        "text": "A girl has no name",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/001_a_girl_has_no_name.mp3"
-      },
       {
         "text": "A girl is Arya Stark of Winterfell",
         "character": "",
@@ -14824,34 +10399,19 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/019_blackfish_likes_wet_shits_more_than_waldur_frey.mp3"
       },
       {
-        "text": "Bow Before Ye King, Bow ye Shits",
+        "text": "Bow before ye king, bow ye shits",
         "character": "",
         "audioUrl": "audio/game-of-thrones/020_bow_before_ye_king_bow_ye_shits.mp3"
       },
       {
-        "text": "Bran Stark Stare",
+        "text": "Bran Stark stare",
         "character": "",
         "audioUrl": "audio/game-of-thrones/021_bran_stark_stare.mp3"
       },
       {
-        "text": "Bring me his head",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/022_bring_me_his_head.mp3"
-      },
-      {
-        "text": "Burn Them All",
+        "text": "Burn them all",
         "character": "",
         "audioUrl": "audio/game-of-thrones/023_burn_them_all.mp3"
-      },
-      {
-        "text": "Burn them all!",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/024_burn_them_all.mp3"
-      },
-      {
-        "text": "Cersei Slapped",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/025_cersei_slapped.mp3"
       },
       {
         "text": "Chaos is a ladder",
@@ -14869,7 +10429,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/028_crown_for_a_king.mp3"
       },
       {
-        "text": "Crypts of Winterfell Teaser",
+        "text": "Crypts of Winterfell teaser",
         "character": "",
         "audioUrl": "audio/game-of-thrones/029_crypts_of_winterfell_teaser.mp3"
       },
@@ -14879,24 +10439,19 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/030_daenerys_eating_horse_heart.mp3"
       },
       {
-        "text": "Daenerys Riding Drogon",
+        "text": "Daenerys riding Drogon",
         "character": "",
         "audioUrl": "audio/game-of-thrones/031_daenerys_riding_drogon.mp3"
       },
       {
-        "text": "Daenerys Targaryen destroys Kings landing",
+        "text": "Daenerys Targaryen destroys Kings Landing",
         "character": "",
         "audioUrl": "audio/game-of-thrones/032_daenerys_targaryen_destroys_kings_landing.mp3"
       },
       {
-        "text": "Daenerys with the Dragon Wings",
+        "text": "Daenerys with the dragon wings",
         "character": "",
         "audioUrl": "audio/game-of-thrones/033_daenerys_with_the_dragon_wings.mp3"
-      },
-      {
-        "text": "Daenerys: An oath is an oath",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/034_daenerys_an_oath_is_an_oath.mp3"
       },
       {
         "text": "Daenerys: Faith",
@@ -14909,7 +10464,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/036_daenerys_i_have_been_sold.mp3"
       },
       {
-        "text": "Daenerys: The Wheel",
+        "text": "Daenerys: the wheel",
         "character": "",
         "audioUrl": "audio/game-of-thrones/037_daenerys_the_wheel.mp3"
       },
@@ -14927,16 +10482,6 @@ const shows = [
         "text": "Dany and Drogo sex scene",
         "character": "",
         "audioUrl": "audio/game-of-thrones/040_dany_and_drogo_sex_scene.mp3"
-      },
-      {
-        "text": "Do I have my facts wrong?",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/041_do_i_have_my_facts_wrong.mp3"
-      },
-      {
-        "text": "Do you really think a crown gives you power?",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/042_do_you_really_think_a_crown_gives_you_power.mp3"
       },
       {
         "text": "Do you understand?",
@@ -14969,7 +10514,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/048_dracarys.mp3"
       },
       {
-        "text": "Drogon destroys The Iron Throne",
+        "text": "Drogon destroys the Iron Throne",
         "character": "",
         "audioUrl": "audio/game-of-thrones/049_drogon_destroys_the_iron_throne.mp3"
       },
@@ -14994,7 +10539,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/053_even_game_of_thrones_has_an_end.mp3"
       },
       {
-        "text": "Every Breath You Draw Annoys Me",
+        "text": "Every breath you draw annoys me",
         "character": "",
         "audioUrl": "audio/game-of-thrones/054_every_breath_you_draw_annoys_me.mp3"
       },
@@ -15014,11 +10559,6 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/057_figs_help_move_the_bowels.mp3"
       },
       {
-        "text": "Fire and blood",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/058_fire_and_blood.mp3"
-      },
-      {
         "text": "For the night is dark and full of terrors",
         "character": "",
         "audioUrl": "audio/game-of-thrones/059_for_the_night_is_dark_and_full_of_terrors.mp3"
@@ -15034,44 +10574,24 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/061_game_of_thrones.mp3"
       },
       {
-        "text": "Game of Thrones music",
+        "text": "Music",
         "character": "",
         "audioUrl": "audio/game-of-thrones/062_game_of_thrones_music.mp3"
       },
       {
-        "text": "Game of Thrones Shade",
+        "text": "Shade",
         "character": "",
         "audioUrl": "audio/game-of-thrones/063_game_of_thrones_shade.mp3"
       },
       {
-        "text": "Game Of Thrones Theme",
+        "text": "Theme",
         "character": "",
         "audioUrl": "audio/game-of-thrones/064_game_of_thrones_theme.mp3"
-      },
-      {
-        "text": "Game Over",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/065_game_over.mp3"
-      },
-      {
-        "text": "Gather the elders and let's talk",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/066_gather_the_elders_and_let_s_talk.mp3"
       },
       {
         "text": "Get him out of my sight",
         "character": "",
         "audioUrl": "audio/game-of-thrones/067_get_him_out_of_my_sight.mp3"
-      },
-      {
-        "text": "Go",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/068_go.mp3"
-      },
-      {
-        "text": "Go drink until it feels you did the right thing",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/069_go_drink_until_it_feels_you_did_the_right_thing.mp3"
       },
       {
         "text": "Go find the breastplate stretcher!",
@@ -15089,11 +10609,6 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/072_happy_ending.mp3"
       },
       {
-        "text": "Happy Tormund",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/073_happy_tormund.mp3"
-      },
-      {
         "text": "Hard truths cut both ways",
         "character": "",
         "audioUrl": "audio/game-of-thrones/074_hard_truths_cut_both_ways.mp3"
@@ -15104,29 +10619,9 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/075_have_you_ever_considered_learning_how_to_lie_every_now_and_t.mp3"
       },
       {
-        "text": "He sounds like quite a man",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/076_he_sounds_like_quite_a_man.mp3"
-      },
-      {
-        "text": "He's a monster",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/077_he_s_a_monster.mp3"
-      },
-      {
-        "text": "Hodor",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/078_hodor.mp3"
-      },
-      {
         "text": "Hodor",
         "character": "",
         "audioUrl": "audio/game-of-thrones/079_hodor.mp3"
-      },
-      {
-        "text": "Hodor Simple",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/080_hodor_simple.mp3"
       },
       {
         "text": "Hold the door!",
@@ -15149,11 +10644,6 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/084_i_am_about_to_step_into_a_room_with_a_most_murderous_woman_i.mp3"
       },
       {
-        "text": "I am an excellent judge of character",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/085_i_am_an_excellent_judge_of_character.mp3"
-      },
-      {
         "text": "I am going to break the wheel",
         "character": "",
         "audioUrl": "audio/game-of-thrones/086_i_am_going_to_break_the_wheel.mp3"
@@ -15162,11 +10652,6 @@ const shows = [
         "text": "I am not afraid",
         "character": "",
         "audioUrl": "audio/game-of-thrones/087_i_am_not_afraid.mp3"
-      },
-      {
-        "text": "I am not gonna swear an oath I can't uphold",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/088_i_am_not_gonna_swear_an_oath_i_can_t_uphold.mp3"
       },
       {
         "text": "I am the gift",
@@ -15179,11 +10664,6 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/090_i_am_the_god_of_tits_and_wine.mp3"
       },
       {
-        "text": "I am the king",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/091_i_am_the_king.mp3"
-      },
-      {
         "text": "I beat you because I'm better than you",
         "character": "",
         "audioUrl": "audio/game-of-thrones/092_i_beat_you_because_i_m_better_than_you.mp3"
@@ -15194,29 +10674,9 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/093_i_brought_you_a_gift.mp3"
       },
       {
-        "text": "I Choose Violence",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/094_i_choose_violence.mp3"
-      },
-      {
-        "text": "I choose you",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/095_i_choose_you.mp3"
-      },
-      {
         "text": "I demand a trial by combat",
         "character": "",
         "audioUrl": "audio/game-of-thrones/096_i_demand_a_trial_by_combat.mp3"
-      },
-      {
-        "text": "I did not do it",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/097_i_did_not_do_it.mp3"
-      },
-      {
-        "text": "I didn't come here to argue grammar",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/098_i_didn_t_come_here_to_argue_grammar.mp3"
       },
       {
         "text": "I don't care about making the world a better place",
@@ -15224,34 +10684,9 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/099_i_don_t_care_about_making_the_world_a_better_place.mp3"
       },
       {
-        "text": "I don't want it, I never have",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/100_i_don_t_want_it_i_never_have.mp3"
-      },
-      {
-        "text": "I Drink and I Know Things",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/101_i_drink_and_i_know_things.mp3"
-      },
-      {
-        "text": "I just want you all to myself",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/102_i_just_want_you_all_to_myself.mp3"
-      },
-      {
-        "text": "I look forward to seeing this one",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/103_i_look_forward_to_seeing_this_one.mp3"
-      },
-      {
         "text": "I miss him",
         "character": "",
         "audioUrl": "audio/game-of-thrones/104_i_miss_him.mp3"
-      },
-      {
-        "text": "I need to tell you something",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/105_i_need_to_tell_you_something.mp3"
       },
       {
         "text": "I promise to fight for the living",
@@ -15259,24 +10694,9 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/106_i_promise_to_fight_for_the_living.mp3"
       },
       {
-        "text": "I respect your wishes",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/107_i_respect_your_wishes.mp3"
-      },
-      {
-        "text": "I swear it my queen",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/108_i_swear_it_my_queen.mp3"
-      },
-      {
         "text": "I want peace and quiet",
         "character": "",
         "audioUrl": "audio/game-of-thrones/109_i_want_peace_and_quiet.mp3"
-      },
-      {
-        "text": "I want you to tell me the truth",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/110_i_want_you_to_tell_me_the_truth.mp3"
       },
       {
         "text": "Born to rule the seven kingdoms",
@@ -15284,19 +10704,9 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/111_i_was_born_to_rule_the_seven_kingdoms_and_i_will.mp3"
       },
       {
-        "text": "I Will Be Your Champion",
+        "text": "I will be your champion",
         "character": "",
         "audioUrl": "audio/game-of-thrones/112_i_will_be_your_champion.mp3"
-      },
-      {
-        "text": "I will burn you alive",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/113_i_will_burn_you_alive.mp3"
-      },
-      {
-        "text": "I will not hear it",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/114_i_will_not_hear_it.mp3"
       },
       {
         "text": "I will take what is mine!",
@@ -15309,7 +10719,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/116_i_wish_i_was_the_monster_you_think_i_am.mp3"
       },
       {
-        "text": "I Wish You Good Fortune in the Wars to Come",
+        "text": "I wish you good fortune in the wars to come",
         "character": "",
         "audioUrl": "audio/game-of-thrones/117_i_wish_you_good_fortune_in_the_wars_to_come.mp3"
       },
@@ -15334,19 +10744,9 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/121_i_m_not_tired.mp3"
       },
       {
-        "text": "I'm sure your men will line up behind you",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/122_i_m_sure_your_men_will_line_up_behind_you.mp3"
-      },
-      {
         "text": "The biggest fire the North has seen",
         "character": "",
         "audioUrl": "audio/game-of-thrones/123_i_m_going_to_light_the_biggest_fire_the_north_has_ever_seen.mp3"
-      },
-      {
-        "text": "I’ve been sitting here for days!",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/124_i_ve_been_sitting_here_for_days.mp3"
       },
       {
         "text": "Ice Dragon attacks the Wall",
@@ -15354,14 +10754,9 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/125_ice_dragon_attacks_the_wall.mp3"
       },
       {
-        "text": "Ice Dragon Viserion",
+        "text": "Ice dragon Viserion",
         "character": "",
         "audioUrl": "audio/game-of-thrones/126_ice_dragon_viserion.mp3"
-      },
-      {
-        "text": "I will get a proper fool",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/127_if_i_want_jokes_i_will_get_myself_a_proper_fool.mp3"
       },
       {
         "text": "If you think this has a happy ending..",
@@ -15374,16 +10769,6 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/129_if_you_think_this_has_a_happy_ending.mp3"
       },
       {
-        "text": "It is known",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/130_it_is_known.mp3"
-      },
-      {
-        "text": "It is known",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/131_it_is_known.mp3"
-      },
-      {
         "text": "The food I paid for",
         "character": "",
         "audioUrl": "audio/game-of-thrones/132_it_is_time_i_ate_some_of_this_food_i_paid_for.mp3"
@@ -15392,11 +10777,6 @@ const shows = [
         "text": "It was so beautiful, and you were so beautiful",
         "character": "",
         "audioUrl": "audio/game-of-thrones/133_it_was_so_beautiful_and_you_were_so_beautiful.mp3"
-      },
-      {
-        "text": "It would be my honor",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/134_it_would_be_my_honor.mp3"
       },
       {
         "text": "Its better to be cruel than weak",
@@ -15414,11 +10794,6 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/137_jon_the_king_of_the_free_folk.mp3"
       },
       {
-        "text": "Kill me!",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/138_kill_me.mp3"
-      },
-      {
         "text": "King of the ashes",
         "character": "",
         "audioUrl": "audio/game-of-thrones/139_king_of_the_ashes.mp3"
@@ -15434,7 +10809,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/141_lannisters_pay_their_debts.mp3"
       },
       {
-        "text": "Lyanna Mormont: He is my king",
+        "text": "Lyanna Mormont: he is my king",
         "character": "",
         "audioUrl": "audio/game-of-thrones/142_lyanna_mormont_he_is_my_king.mp3"
       },
@@ -15449,14 +10824,9 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/144_man_who_fights_for_gold_can_t_afford_to_lose_to_a_girl.mp3"
       },
       {
-        "text": "Margaery Tyrell: Women like different men",
+        "text": "Margaery Tyrell: women like different men",
         "character": "",
         "audioUrl": "audio/game-of-thrones/145_margaery_tyrell_women_like_different_men.mp3"
-      },
-      {
-        "text": "Maybe you're just a coward",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/146_maybe_you_re_just_a_coward.mp3"
       },
       {
         "text": "Money enhances friendship",
@@ -15514,11 +10884,6 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/157_no_one_here_by_that_name.mp3"
       },
       {
-        "text": "Noone here by that name",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/158_noone_here_by_that_name.mp3"
-      },
-      {
         "text": "Now it ends",
         "character": "",
         "audioUrl": "audio/game-of-thrones/159_now_it_ends.mp3"
@@ -15534,16 +10899,6 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/161_oberyn_martell_has_an_ear_for_accents.mp3"
       },
       {
-        "text": "Oh fuck loyalty",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/162_oh_fuck_loyalty.mp3"
-      },
-      {
-        "text": "Oh fuck loyalty!",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/163_oh_fuck_loyalty.mp3"
-      },
-      {
         "text": "Oh! ..",
         "character": "",
         "audioUrl": "audio/game-of-thrones/164_oh.mp3"
@@ -15554,7 +10909,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/165_old_old.mp3"
       },
       {
-        "text": "Only One War That Matters",
+        "text": "Only one war that matters",
         "character": "",
         "audioUrl": "audio/game-of-thrones/166_only_one_war_that_matters.mp3"
       },
@@ -15569,19 +10924,9 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/168_our_little_secret.mp3"
       },
       {
-        "text": "Perhaps you should try wanting something else",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/169_perhaps_you_should_try_wanting_something_else.mp3"
-      },
-      {
         "text": "Pig shit",
         "character": "",
         "audioUrl": "audio/game-of-thrones/170_pig_shit.mp3"
-      },
-      {
-        "text": "Prophesies are dangerous things",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/171_prophesies_are_dangerous_things.mp3"
       },
       {
         "text": "Reek. My name is Reek",
@@ -15592,11 +10937,6 @@ const shows = [
         "text": "Rhaegal is killed by Euron",
         "character": "",
         "audioUrl": "audio/game-of-thrones/173_rhaegal_is_killed_by_euron.mp3"
-      },
-      {
-        "text": "Rich man's disease",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/174_rich_man_s_disease.mp3"
       },
       {
         "text": "Run! Run!",
@@ -15631,15 +10971,10 @@ const shows = [
       {
         "text": "Shall we begin",
         "character": "",
-        "audioUrl": "audio/game-of-thrones/181_shall_we_begin.mp3"
-      },
-      {
-        "text": "Shall we begin",
-        "character": "",
         "audioUrl": "audio/game-of-thrones/182_shall_we_begin.mp3"
       },
       {
-        "text": "SHAME SHAME SHAME *TilinTilin*",
+        "text": "Shame shame shame *tilintilin*",
         "character": "",
         "audioUrl": "audio/game-of-thrones/183_shame_shame_shame_tilintilin.mp3"
       },
@@ -15654,12 +10989,12 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/185_she_s_an_interesting_girl.mp3"
       },
       {
-        "text": "Sirio Forel More Respect",
+        "text": "Sirio Forel more respect",
         "character": "",
         "audioUrl": "audio/game-of-thrones/186_sirio_forel_more_respect.mp3"
       },
       {
-        "text": "Sirio Forel,More Respect,Short",
+        "text": "Sirio Forel,more respect,short",
         "character": "",
         "audioUrl": "audio/game-of-thrones/187_sirio_forel_more_respect_short.mp3"
       },
@@ -15689,11 +11024,6 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/192_stealing_away_a_lovely_bride.mp3"
       },
       {
-        "text": "Still makes me more clever than you",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/193_still_makes_me_more_clever_than_you.mp3"
-      },
-      {
         "text": "Talkers make me thirsty",
         "character": "",
         "audioUrl": "audio/game-of-thrones/194_talkers_make_me_thirsty.mp3"
@@ -15702,11 +11032,6 @@ const shows = [
         "text": "Thank the gods for Bessie, and her tits",
         "character": "",
         "audioUrl": "audio/game-of-thrones/195_thank_the_gods_for_bessie_and_her_tits.mp3"
-      },
-      {
-        "text": "Thank You",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/196_thank_you.mp3"
       },
       {
         "text": "That's how I got so strong ..",
@@ -15722,11 +11047,6 @@ const shows = [
         "text": "The battle is over. We have won",
         "character": "",
         "audioUrl": "audio/game-of-thrones/199_the_battle_is_over_we_have_won.mp3"
-      },
-      {
-        "text": "The Big Woman Still Here?",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/200_the_big_woman_still_here.mp3"
       },
       {
         "text": "The cheese will be served when I want it served",
@@ -15759,11 +11079,6 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/206_the_lone_wolf_dies_but_the_pack_survives.mp3"
       },
       {
-        "text": "The more immediate problem is that we are fucked",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/207_the_more_immediate_problem_is_that_we_are_fucked.mp3"
-      },
-      {
         "text": "The Night King",
         "character": "",
         "audioUrl": "audio/game-of-thrones/208_the_night_king.mp3"
@@ -15774,24 +11089,14 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/209_the_night_king_is_coming.mp3"
       },
       {
-        "text": "The Night King looking at Sam",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/210_the_night_king_looking_at_sam.mp3"
-      },
-      {
-        "text": "The North Remembers",
+        "text": "The North remembers",
         "character": "",
         "audioUrl": "audio/game-of-thrones/211_the_north_remembers.mp3"
       },
       {
-        "text": "The North Remembers!",
+        "text": "The North remembers!",
         "character": "",
         "audioUrl": "audio/game-of-thrones/212_the_north_remembers.mp3"
-      },
-      {
-        "text": "The northerners will never forget",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/213_the_northerners_will_never_forget.mp3"
       },
       {
         "text": "The Queen in the North!",
@@ -15799,7 +11104,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/214_the_queen_in_the_north.mp3"
       },
       {
-        "text": "The Seed is Strong",
+        "text": "The seed is strong",
         "character": "",
         "audioUrl": "audio/game-of-thrones/215_the_seed_is_strong.mp3"
       },
@@ -15807,11 +11112,6 @@ const shows = [
         "text": "The truth and the faith",
         "character": "",
         "audioUrl": "audio/game-of-thrones/216_the_truth_and_the_faith.mp3"
-      },
-      {
-        "text": "Then we're fucked, best hurry",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/217_then_we_re_fucked_best_hurry.mp3"
       },
       {
         "text": "There is only one thing we say to death ..",
@@ -15824,16 +11124,6 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/219_there_is_only_one_war_that_matters.mp3"
       },
       {
-        "text": "There's no cure for being a cunt",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/220_there_s_no_cure_for_being_a_cunt.mp3"
-      },
-      {
-        "text": "They'll bend the knee or I'll destroy them",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/221_they_ll_bend_the_knee_or_i_ll_destroy_them.mp3"
-      },
-      {
         "text": "The only thing that terrifies me",
         "character": "",
         "audioUrl": "audio/game-of-thrones/222_this_is_the_only_thing_i_have_ever_seen_that_terrifies_me.mp3"
@@ -15844,12 +11134,7 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/223_this_is_what_i_want_to_do_for_the_rest_of_my_life.mp3"
       },
       {
-        "text": "Titles, titles",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/224_titles_titles.mp3"
-      },
-      {
-        "text": "Tommen Baratheon's Death",
+        "text": "Tommen Baratheon's death",
         "character": "",
         "audioUrl": "audio/game-of-thrones/225_tommen_baratheon_s_death.mp3"
       },
@@ -15869,11 +11154,6 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/228_tormund_loves_brienne.mp3"
       },
       {
-        "text": "Tougher girls than you have tried to kill me",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/229_tougher_girls_than_you_have_tried_to_kill_me.mp3"
-      },
-      {
         "text": "Two terrible children of two terrible fathers",
         "character": "",
         "audioUrl": "audio/game-of-thrones/230_two_terrible_children_of_two_terrible_fathers.mp3"
@@ -15887,11 +11167,6 @@ const shows = [
         "text": "Tyrion's axe",
         "character": "",
         "audioUrl": "audio/game-of-thrones/232_tyrion_s_axe.mp3"
-      },
-      {
-        "text": "Use small words",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/233_use_small_words.mp3"
       },
       {
         "text": "Valar Morghulis",
@@ -15934,24 +11209,9 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/241_we_are_entirely_capable_of_waging_war_against_each_other.mp3"
       },
       {
-        "text": "We are fucked",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/242_we_are_fucked.mp3"
-      },
-      {
-        "text": "We gasp",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/243_we_gasp.mp3"
-      },
-      {
         "text": "We're fucked",
         "character": "",
         "audioUrl": "audio/game-of-thrones/244_we_re_fucked.mp3"
-      },
-      {
-        "text": "What are you talking about?",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/245_what_are_you_talking_about.mp3"
       },
       {
         "text": "What is our plan? Pig shit",
@@ -15959,19 +11219,9 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/246_what_is_our_plan_pig_shit.mp3"
       },
       {
-        "text": "What would you have me do?",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/247_what_would_you_have_me_do.mp3"
-      },
-      {
         "text": "What's our plan?",
         "character": "",
         "audioUrl": "audio/game-of-thrones/248_what_s_our_plan.mp3"
-      },
-      {
-        "text": "What's your excuse",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/249_what_s_your_excuse.mp3"
       },
       {
         "text": "When enough people make false promises, words stop meaning anything",
@@ -15982,16 +11232,6 @@ const shows = [
         "text": "When you play the game of thrones",
         "character": "",
         "audioUrl": "audio/game-of-thrones/251_when_you_play_the_game_of_thrones.mp3"
-      },
-      {
-        "text": "Where are my dragons?",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/252_where_are_my_dragons.mp3"
-      },
-      {
-        "text": "White walker",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/253_white_walker.mp3"
       },
       {
         "text": "White Walkers",
@@ -16011,16 +11251,6 @@ const shows = [
       {
         "text": "Winter is coming",
         "character": "",
-        "audioUrl": "audio/game-of-thrones/257_winter_is_coming.mp3"
-      },
-      {
-        "text": "Winter is coming",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/258_winter_is_coming.mp3"
-      },
-      {
-        "text": "Winter is coming",
-        "character": "",
         "audioUrl": "audio/game-of-thrones/259_winter_is_coming.mp3"
       },
       {
@@ -16034,22 +11264,12 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/261_winter_is_coming.mp3"
       },
       {
-        "text": "Winter is coming",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/262_winter_is_coming.mp3"
-      },
-      {
         "text": "Winter is here",
         "character": "",
         "audioUrl": "audio/game-of-thrones/263_winter_is_here.mp3"
       },
       {
-        "text": "Winterfell is yours, Your grace",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/264_winterfell_is_yours_your_grace.mp3"
-      },
-      {
-        "text": "Wish You Good Fortune In The Wars to Come",
+        "text": "Wish you good fortune in the wars to come",
         "character": "",
         "audioUrl": "audio/game-of-thrones/265_wish_you_good_fortune_in_the_wars_to_come.mp3"
       },
@@ -16057,11 +11277,6 @@ const shows = [
         "text": "You are an awful traveling companion",
         "character": "",
         "audioUrl": "audio/game-of-thrones/266_you_are_an_awful_traveling_companion.mp3"
-      },
-      {
-        "text": "You are my lady",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/267_you_are_my_lady.mp3"
       },
       {
         "text": "You are my lady now",
@@ -16074,27 +11289,12 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/269_you_are_my_queen.mp3"
       },
       {
-        "text": "You can't insult me",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/270_you_can_t_insult_me.mp3"
-      },
-      {
         "text": "You don't fight with honor",
         "character": "",
         "audioUrl": "audio/game-of-thrones/271_you_don_t_fight_with_honor.mp3"
       },
       {
-        "text": "You had a good sized cock",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/272_you_had_a_good_sized_cock.mp3"
-      },
-      {
         "text": "You haven't been paying attention",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/273_you_haven_t_been_paying_attention.mp3"
-      },
-      {
-        "text": "You Haven't Been Paying Attention",
         "character": "",
         "audioUrl": "audio/game-of-thrones/274_you_haven_t_been_paying_attention.mp3"
       },
@@ -16104,19 +11304,9 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/275_you_idiot_you_fucking_idiot.mp3"
       },
       {
-        "text": "You know nothing Jon Snow",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/276_you_know_nothing_jon_snow.mp3"
-      },
-      {
         "text": "You know nothing, Jon Snow",
         "character": "",
         "audioUrl": "audio/game-of-thrones/277_you_know_nothing_jon_snow.mp3"
-      },
-      {
-        "text": "You must have hoped for something",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/278_you_must_have_hoped_for_something.mp3"
       },
       {
         "text": "You pay me to kill people who bother you",
@@ -16127,16 +11317,6 @@ const shows = [
         "text": "You win, or you die",
         "character": "",
         "audioUrl": "audio/game-of-thrones/280_you_win_or_you_die.mp3"
-      },
-      {
-        "text": "You're a clever man",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/281_you_re_a_clever_man.mp3"
-      },
-      {
-        "text": "You're a lucky man",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/282_you_re_a_lucky_man.mp3"
       },
       {
         "text": "Your surrender, not mine",
@@ -16157,814 +11337,1019 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "Big attitude problem",
+        "text": "Affectionate kiss",
         "character": "",
-        "audioUrl": "audio/friends/001_all_of_a_sudden_had_this_big_attitude_problem.mp3"
+        "audioUrl": "audio/friends/004_affectionate_kiss.mp3"
       },
       {
-        "text": "Cough it up, pay the piper",
+        "text": "Ahhh",
         "character": "",
-        "audioUrl": "audio/friends/002_alright_10_bucks_for_kid_over_cough_it_up_pay_the_piper_give.mp3"
+        "audioUrl": "audio/friends/005_ahhh.mp3"
       },
       {
-        "text": "Hang on a second there, Custer",
+        "text": "Always a pleasure",
         "character": "",
-        "audioUrl": "audio/friends/004_alright_hang_on_a_second_there_custer.mp3"
+        "audioUrl": "audio/friends/007_always_a_pleasure.mp3"
       },
       {
-        "text": "School is in session",
+        "text": "Always room for Jello",
         "character": "",
-        "audioUrl": "audio/friends/005_alright_that_s_it_school_is_in_session.mp3"
+        "audioUrl": "audio/friends/008_always_room_for_jello.mp3"
       },
       {
-        "text": "My butt will be smack free",
+        "text": "Am I 19 or what?",
         "character": "",
-        "audioUrl": "audio/friends/006_and_if_all_goes_as_planned_my_butt_will_be_smack_free.mp3"
+        "audioUrl": "audio/friends/009_am_i_19_or_what.mp3"
       },
       {
-        "text": "Out of my mind?",
+        "text": "Anything you want!",
         "character": "",
-        "audioUrl": "audio/friends/007_are_you_crazy_am_i_am_i_am_i_out_of_my_mind_about_losing_my.mp3"
+        "audioUrl": "audio/friends/014_anything_you_want.mp3"
       },
       {
-        "text": "Are you going to kiss me?",
+        "text": "Baby girl arrival",
         "character": "",
-        "audioUrl": "audio/friends/008_are_you_going_to_kiss_me_was_thinking_about_it_ok.mp3"
+        "audioUrl": "audio/friends/017_baby_girl_arrival.mp3"
       },
       {
-        "text": "Little fetus, I'll buy you Adidas",
+        "text": "Bring on the yams",
         "character": "",
-        "audioUrl": "audio/friends/009_are_you_in_there_little_fetus_in_nine_months_will_you_come_g.mp3"
+        "audioUrl": "audio/friends/024_bring_on_the_yams.mp3"
       },
       {
-        "text": "Are you the cutest?",
+        "text": "But see, they don't know that we know that they know",
         "character": "",
-        "audioUrl": "audio/friends/010_are_you_the_cutest_i_m_afraid_i_might_just_be.mp3"
+        "audioUrl": "audio/friends/026_but_see_they_don_t_know_that_we_know_that_they_know.mp3"
       },
       {
-        "text": "Are you watching Star Trek?",
+        "text": "Can I interest you in a sarcastic comment?",
         "character": "",
-        "audioUrl": "audio/friends/011_are_you_watching_star_trek.mp3"
+        "audioUrl": "audio/friends/028_can_i_interest_you_in_a_sarcastic_comment.mp3"
       },
       {
-        "text": "The 10th Bing Bong message",
+        "text": "Can you people not see me?",
         "character": "",
-        "audioUrl": "audio/friends/012_aren_t_you_going_to_answer_her_that_s_like_the_10th_bing_bon.mp3"
+        "audioUrl": "audio/friends/029_can_you_people_not_see_me.mp3"
       },
       {
-        "text": "On behalf of everyone",
+        "text": "Can't look",
         "character": "",
-        "audioUrl": "audio/friends/013_behalf_of_everyone_i_just_like_to_say_my_hand.mp3"
+        "audioUrl": "audio/friends/030_can_t_look.mp3"
       },
       {
-        "text": "I gave you my snack pack",
+        "text": "Candy for a treat",
         "character": "",
-        "audioUrl": "audio/friends/014_beta_beta_give_me_rhonda_from_ps129_i_shared_my_pudding_with.mp3"
+        "audioUrl": "audio/friends/031_candy_for_a_treat.mp3"
       },
       {
-        "text": "Big fat bummer.",
+        "text": "Celebration",
         "character": "",
-        "audioUrl": "audio/friends/015_big_fat_bummer.mp3"
+        "audioUrl": "audio/friends/032_celebration.mp3"
       },
       {
-        "text": "Bite me.",
+        "text": "Chandler & Janice kiss",
         "character": "",
-        "audioUrl": "audio/friends/016_bite_me.mp3"
+        "audioUrl": "audio/friends/034_chandler_janice_kiss.mp3"
       },
       {
-        "text": "Lay the tile, Cinderelly",
+        "text": "Chandler dance",
         "character": "",
-        "audioUrl": "audio/friends/017_build_the_units_and_are_really_lay_the_tile_cinderelly.mp3"
+        "audioUrl": "audio/friends/035_chandler_dance.mp3"
       },
       {
-        "text": "But did you see the ass on her?",
+        "text": "Chandler makes a gift",
         "character": "",
-        "audioUrl": "audio/friends/018_but_did_you_see_the_ass_on_her.mp3"
+        "audioUrl": "audio/friends/036_chandler_makes_a_gift.mp3"
       },
       {
-        "text": "But this is such geeks",
+        "text": "Cheeto",
         "character": "",
-        "audioUrl": "audio/friends/019_but_this_is_such_geeks.mp3"
+        "audioUrl": "audio/friends/038_cheeto.mp3"
       },
       {
-        "text": "The guy who peed on me",
+        "text": "Coin toss",
         "character": "",
-        "audioUrl": "audio/friends/020_but_you_will_always_be_the_guy_who_peed_on_me.mp3"
+        "audioUrl": "audio/friends/039_coin_toss.mp3"
       },
       {
-        "text": "Play that funky music",
+        "text": "Crying",
         "character": "",
-        "audioUrl": "audio/friends/021_come_on_play_that_funky_music_white_boy.mp3"
+        "audioUrl": "audio/friends/043_crying.mp3"
       },
       {
-        "text": "Come on, quit yanking me",
+        "text": "Cut it out",
         "character": "",
-        "audioUrl": "audio/friends/022_come_on_quit_yanking_me.mp3"
+        "audioUrl": "audio/friends/044_cut_it_out.mp3"
       },
       {
-        "text": "Watch naked girls dance",
+        "text": "Damn you fifteens",
         "character": "",
-        "audioUrl": "audio/friends/023_come_with_us_to_watch_naked_girls_dance_around.mp3"
+        "audioUrl": "audio/friends/045_damn_you_fifteens.mp3"
       },
       {
-        "text": "Crossed the line into useless",
+        "text": "Damnit, we can eat!",
         "character": "",
-        "audioUrl": "audio/friends/024_congratulations_you_just_crossed_the_line_into_completely_us.mp3"
+        "audioUrl": "audio/friends/047_damnit_we_can_eat.mp3"
       },
       {
-        "text": "Cookies and porn",
+        "text": "Danger!",
         "character": "",
-        "audioUrl": "audio/friends/025_cookies_and_porn_you_re_the_best_mom_ever.mp3"
+        "audioUrl": "audio/friends/048_danger.mp3"
       },
       {
-        "text": "Don't cry out loud.",
+        "text": "Dangle the dream and take it away",
         "character": "",
-        "audioUrl": "audio/friends/026_don_t_cry_out_loud.mp3"
+        "audioUrl": "audio/friends/050_dangle_the_dream_and_take_it_away.mp3"
       },
       {
-        "text": "Don't touch the computer",
+        "text": "Dear God, this parachute is a knapsack",
         "character": "",
-        "audioUrl": "audio/friends/027_don_t_touch_the_computer_don_t_ever_touch_the_computer.mp3"
+        "audioUrl": "audio/friends/051_dear_god_this_parachute_is_a_knapsack.mp3"
       },
       {
-        "text": "Dude, we are so gonna party",
+        "text": "Does it have to be so loud",
         "character": "",
-        "audioUrl": "audio/friends/028_dude_we_are_so_gonna_party.mp3"
+        "audioUrl": "audio/friends/054_does_it_have_to_be_so_loud.mp3"
       },
       {
-        "text": "Dude, what are you doing?",
+        "text": "Doing it",
         "character": "",
-        "audioUrl": "audio/friends/029_dude_what_are_you_doing.mp3"
+        "audioUrl": "audio/friends/056_doing_it.mp3"
       },
       {
-        "text": "Electrifying infinite time",
+        "text": "Don't need you or anybody else",
         "character": "",
-        "audioUrl": "audio/friends/030_electrifying_infinite_time.mp3"
+        "audioUrl": "audio/friends/057_don_t_need_you_or_anybody_else.mp3"
       },
       {
-        "text": "Friends sound 1",
+        "text": "Don’t get up",
         "character": "",
-        "audioUrl": "audio/friends/031_friends_tv_show_soundboard_sound.mp3"
+        "audioUrl": "audio/friends/060_don_t_get_up.mp3"
       },
       {
-        "text": "Friends sound 2",
+        "text": "Dude! We are so gonna party",
         "character": "",
-        "audioUrl": "audio/friends/032_friends_tv_show_soundboard_sound.mp3"
+        "audioUrl": "audio/friends/061_dude_we_are_so_gonna_party.mp3"
       },
       {
-        "text": "Friends sound 3",
+        "text": "Ecstatic Estelle",
         "character": "",
-        "audioUrl": "audio/friends/033_friends_tv_show_soundboard_sound.mp3"
+        "audioUrl": "audio/friends/063_ecstatic_estelle.mp3"
       },
       {
-        "text": "Geek.",
+        "text": "Eddie laughing",
         "character": "",
-        "audioUrl": "audio/friends/034_geek.mp3"
+        "audioUrl": "audio/friends/064_eddie_laughing.mp3"
       },
       {
-        "text": "Get out of my chair, dillhole",
+        "text": "Evil laugh",
         "character": "",
-        "audioUrl": "audio/friends/035_get_out_of_my_chair_dillhole.mp3"
+        "audioUrl": "audio/friends/067_evil_laugh.mp3"
       },
       {
-        "text": "GI Joe",
+        "text": "Excited Ross",
         "character": "",
-        "audioUrl": "audio/friends/036_gi_joe_cool_correctly.mp3"
+        "audioUrl": "audio/friends/070_excited_ross.mp3"
       },
       {
-        "text": "Century 21 jackets",
+        "text": "Fake laugh",
         "character": "",
-        "audioUrl": "audio/friends/037_give_me_a_century_21_real_estate_agent_to_get_to_wear_those.mp3"
+        "audioUrl": "audio/friends/071_fake_laugh.mp3"
       },
       {
-        "text": "Nice breast, by the way",
+        "text": "Favorite trick or treater",
         "character": "",
-        "audioUrl": "audio/friends/038_good_morning_nice_breast_by_the_way.mp3"
+        "audioUrl": "audio/friends/072_favorite_trick_or_treater.mp3"
       },
       {
-        "text": "Firm but tender",
+        "text": "Feet",
         "character": "",
-        "audioUrl": "audio/friends/039_good_very_good_firm_but_tender_i_recommend_it_to_a_friend.mp3"
+        "audioUrl": "audio/friends/073_feet.mp3"
       },
       {
-        "text": "Spin the dreidel, Rachel",
+        "text": "Fine by me! (fake cry)",
         "character": "",
-        "audioUrl": "audio/friends/040_happy_hanukkah_god_will_christmas_be_snowy_joe_he_happy_new.mp3"
+        "audioUrl": "audio/friends/074_fine_by_me_fake_cry.mp3"
       },
       {
-        "text": "Have a hubba bubba birthday",
+        "text": "Fire",
         "character": "",
-        "audioUrl": "audio/friends/041_have_a_hubba_bubba_birthday.mp3"
+        "audioUrl": "audio/friends/075_fire.mp3"
       },
       {
-        "text": "He said",
+        "text": "Frankie Say Relax",
         "character": "",
-        "audioUrl": "audio/friends/042_he_said.mp3"
+        "audioUrl": "audio/friends/077_frankie_say_relax.mp3"
       },
       {
-        "text": "No barnacles on your butt",
+        "text": "Joey dance",
         "character": "",
-        "audioUrl": "audio/friends/043_he_s_just_going_to_be_so_glad_that_you_don_t_have_barnacles.mp3"
+        "audioUrl": "audio/friends/084_friends_joey_dance.mp3"
       },
       {
-        "text": "Hey hey, good looking",
+        "text": "Thanksgiving",
         "character": "",
-        "audioUrl": "audio/friends/044_hey_hey_good_looking.mp3"
+        "audioUrl": "audio/friends/085_friends_thanksgiving.mp3"
       },
       {
-        "text": "Hey, how you doing?",
+        "text": "Fun Bobby hardware stores",
         "character": "",
-        "audioUrl": "audio/friends/045_hey_how_you_doing.mp3"
+        "audioUrl": "audio/friends/086_fun_bobby_hardware_stores.mp3"
       },
       {
-        "text": "You're not my real mom",
+        "text": "Funny",
         "character": "",
-        "audioUrl": "audio/friends/047_hey_shut_up_you_re_not_my_real_mom.mp3"
+        "audioUrl": "audio/friends/087_funny.mp3"
       },
       {
-        "text": "Flabby gut, saggy man breasts",
+        "text": "Get out",
         "character": "",
-        "audioUrl": "audio/friends/048_hey_don_t_you_want_a_washboard_stomach_and_rock_hard_pecs_no.mp3"
+        "audioUrl": "audio/friends/088_get_out.mp3"
       },
       {
-        "text": "Stick a fork in me",
+        "text": "Get out of the way!",
         "character": "",
-        "audioUrl": "audio/friends/049_hey_stick_a_fork_in_me_i_am_done.mp3"
+        "audioUrl": "audio/friends/089_get_out_of_the_way.mp3"
       },
       {
-        "text": "Hi tushy",
+        "text": "Get there faster",
         "character": "",
-        "audioUrl": "audio/friends/050_hi_tushy.mp3"
+        "audioUrl": "audio/friends/090_get_there_faster.mp3"
       },
       {
-        "text": "Hi.",
+        "text": "Get up, get up, get up!",
         "character": "",
-        "audioUrl": "audio/friends/051_hi.mp3"
+        "audioUrl": "audio/friends/091_get_up_get_up_get_up.mp3"
       },
       {
-        "text": "How do you not fall down more?",
+        "text": "Getting depressed",
         "character": "",
-        "audioUrl": "audio/friends/053_how_do_you_not_fall_down_more.mp3"
+        "audioUrl": "audio/friends/092_getting_depressed.mp3"
+      },
+      {
+        "text": "Give me that coffee now!",
+        "character": "",
+        "audioUrl": "audio/friends/094_give_me_that_coffee_now.mp3"
+      },
+      {
+        "text": "Good luck song",
+        "character": "",
+        "audioUrl": "audio/friends/097_good_luck_song.mp3"
+      },
+      {
+        "text": "Guys do that?",
+        "character": "",
+        "audioUrl": "audio/friends/099_guys_do_that.mp3"
+      },
+      {
+        "text": "Happy New Year!",
+        "character": "",
+        "audioUrl": "audio/friends/101_happy_new_year.mp3"
+      },
+      {
+        "text": "Hard to take you seriously when you look like that",
+        "character": "",
+        "audioUrl": "audio/friends/103_hard_to_take_you_seriously_when_you_look_like_that.mp3"
+      },
+      {
+        "text": "He’s out of here",
+        "character": "",
+        "audioUrl": "audio/friends/107_he_s_out_of_here.mp3"
+      },
+      {
+        "text": "Hiiii",
+        "character": "",
+        "audioUrl": "audio/friends/110_hiiii.mp3"
+      },
+      {
+        "text": "Household decision maker",
+        "character": "",
+        "audioUrl": "audio/friends/116_household_decision_maker.mp3"
+      },
+      {
+        "text": "How much do you weigh, Ross?",
+        "character": "",
+        "audioUrl": "audio/friends/119_how_much_do_you_weigh_ross.mp3"
+      },
+      {
+        "text": "How you doin?",
+        "character": "",
+        "audioUrl": "audio/friends/121_how_u_doin.mp3"
       },
       {
         "text": "How you doin'",
         "character": "",
-        "audioUrl": "audio/friends/054_how_you_doin.mp3"
+        "audioUrl": "audio/friends/122_how_you_doin.mp3"
       },
       {
-        "text": "I picture your mom",
+        "text": "Hug for her, roll for you",
         "character": "",
-        "audioUrl": "audio/friends/055_i_always_picture_your_mom_when_i_m_having_sex.mp3"
+        "audioUrl": "audio/friends/124_hug_for_her_roll_for_you.mp3"
       },
       {
-        "text": "My exact words",
+        "text": "I am still carrying a little holiday weight",
         "character": "",
-        "audioUrl": "audio/friends/056_i_believe_my_exact_words_were_flying_instant.mp3"
+        "audioUrl": "audio/friends/125_i_am_still_carrying_a_little_holiday_weight.mp3"
       },
       {
-        "text": "Lung capacity of a two year old",
+        "text": "I can sleep with my eyes open",
         "character": "",
-        "audioUrl": "audio/friends/057_i_have_a_lung_capacity_of_two_year_old.mp3"
+        "audioUrl": "audio/friends/127_i_can_sleep_with_my_eyes_open.mp3"
       },
       {
-        "text": "Kiss him again",
+        "text": "I can't say that didn't hurt",
         "character": "",
-        "audioUrl": "audio/friends/058_i_kiss_him_before_i_can_do_it_again.mp3"
+        "audioUrl": "audio/friends/128_i_can_t_say_that_didn_t_hurt.mp3"
       },
       {
-        "text": "You suck like never before",
+        "text": "I could eat some chicken",
         "character": "",
-        "audioUrl": "audio/friends/059_i_mean_you_suck_like_you_ve_never_sucked_before.mp3"
+        "audioUrl": "audio/friends/129_i_could_eat_some_chicken.mp3"
       },
       {
-        "text": "A land where people can feel",
+        "text": "I don't know",
         "character": "",
-        "audioUrl": "audio/friends/060_i_need_to_live_in_a_land_where_people_can_fill.mp3"
+        "audioUrl": "audio/friends/130_i_don_t_know.mp3"
       },
       {
-        "text": "I said share, not scare",
+        "text": "I don’t know",
         "character": "",
-        "audioUrl": "audio/friends/061_i_said_share_not_scare.mp3"
+        "audioUrl": "audio/friends/133_i_don_t_know.mp3"
       },
       {
-        "text": "I tell people secrets",
+        "text": "I got tricked into all those things",
         "character": "",
-        "audioUrl": "audio/friends/062_i_tell_people_secrets_it_makes_them_like_me.mp3"
+        "audioUrl": "audio/friends/135_i_got_tricked_into_all_those_things.mp3"
       },
       {
-        "text": "My boyfriend's so dreamy",
+        "text": "I gotta do what I gotta do",
         "character": "",
-        "audioUrl": "audio/friends/063_i_think_my_boyfriend_never_so_dreamy.mp3"
+        "audioUrl": "audio/friends/136_i_gotta_do_what_i_gotta_do.mp3"
       },
       {
-        "text": "Somebody needs a lap dance",
+        "text": "I hate you (mouthed)",
         "character": "",
-        "audioUrl": "audio/friends/064_i_think_somebody_needs_another_lap_dance.mp3"
-      },
-      {
-        "text": "Capital R, capital T",
-        "character": "",
-        "audioUrl": "audio/friends/065_i_think_this_could_be_the_real_thing_capital_r_capital_t.mp3"
-      },
-      {
-        "text": "Gone to the bad place",
-        "character": "",
-        "audioUrl": "audio/friends/066_i_think_you_ve_gone_over_to_the_bad_place.mp3"
-      },
-      {
-        "text": "I'm going commando too",
-        "character": "",
-        "audioUrl": "audio/friends/067_i_m_going_commando_too.mp3"
-      },
-      {
-        "text": "Desperate for love",
-        "character": "",
-        "audioUrl": "audio/friends/068_i_m_hopeless_and_awkward_and_desperate_for_love.mp3"
-      },
-      {
-        "text": "I don't know squat about dinosaurs",
-        "character": "",
-        "audioUrl": "audio/friends/069_i_m_joey_i_m_an_actor_i_don_t_know_squat_about_dinosaurs.mp3"
-      },
-      {
-        "text": "We don't have your sheep",
-        "character": "",
-        "audioUrl": "audio/friends/070_i_m_sorry_we_don_t_have_your_sheep.mp3"
-      },
-      {
-        "text": "Now I have to pee",
-        "character": "",
-        "audioUrl": "audio/friends/071_i_m_still_awake_and_now_i_have_to_pee.mp3"
-      },
-      {
-        "text": "I'm such a grown up",
-        "character": "",
-        "audioUrl": "audio/friends/072_i_m_such_a_grown_up.mp3"
-      },
-      {
-        "text": "You big big freak",
-        "character": "",
-        "audioUrl": "audio/friends/073_i_m_talking_about_you_you_big_big_freak.mp3"
-      },
-      {
-        "text": "This thing won't print",
-        "character": "",
-        "audioUrl": "audio/friends/074_i_m_telling_you_this_thing_won_t_print.mp3"
-      },
-      {
-        "text": "If I had two IPs",
-        "character": "",
-        "audioUrl": "audio/friends/075_if_i_had_two_ip_on_anyone_of_you.mp3"
-      },
-      {
-        "text": "Fly and be invisible",
-        "character": "",
-        "audioUrl": "audio/friends/076_if_i_was_a_superhero_who_could_fly_and_be_invisible_that_wou.mp3"
-      },
-      {
-        "text": "Totally aroused by that",
-        "character": "",
-        "audioUrl": "audio/friends/078_is_it_wrong_that_i_was_totally_aroused_by_that.mp3"
-      },
-      {
-        "text": "Is this what it's like to be you?",
-        "character": "",
-        "audioUrl": "audio/friends/079_is_this_what_it_s_like_to_be_you.mp3"
-      },
-      {
-        "text": "A bloodbath in here",
-        "character": "",
-        "audioUrl": "audio/friends/080_it_s_just_like_a_bloodbath_in_here_today.mp3"
-      },
-      {
-        "text": "My worst nightmare for $32",
-        "character": "",
-        "audioUrl": "audio/friends/081_it_s_like_somebody_literally_wrote_down_my_worst_nightmare_a.mp3"
-      },
-      {
-        "text": "Joey and Janice's Day of Fun!",
-        "character": "",
-        "audioUrl": "audio/friends/082_joey_and_janice_s_day_of_fun.mp3"
-      },
-      {
-        "text": "Let me show you my underwear",
-        "character": "",
-        "audioUrl": "audio/friends/083_let_me_show_you_my_underwear.mp3"
-      },
-      {
-        "text": "Since I've been flung",
-        "character": "",
-        "audioUrl": "audio/friends/084_let_me_tell_you_something_in_a_long_time_since_i_ve_been_flu.mp3"
-      },
-      {
-        "text": "Like a dirty math problem",
-        "character": "",
-        "audioUrl": "audio/friends/085_like_a_dirty_math_problem.mp3"
-      },
-      {
-        "text": "Look at kids, he's coming",
-        "character": "",
-        "audioUrl": "audio/friends/086_look_at_kids_he_s_coming.mp3"
-      },
-      {
-        "text": "Protects U.S. oil interests",
-        "character": "",
-        "audioUrl": "audio/friends/087_look_ben_it_s_a_toy_that_protects_u_s_oil_interests_overseas.mp3"
-      },
-      {
-        "text": "Me on my computer",
-        "character": "",
-        "audioUrl": "audio/friends/088_me_on_my_computer.mp3"
-      },
-      {
-        "text": "Third wife sold separately",
-        "character": "",
-        "audioUrl": "audio/friends/089_mr_millionaire_new_from_snooty_playthings_third_wife_sold_se.mp3"
-      },
-      {
-        "text": "My breasts are coming out my back",
-        "character": "",
-        "audioUrl": "audio/friends/090_my_breasts_are_coming_out_my_back.mp3"
-      },
-      {
-        "text": "My breasts are really strong",
-        "character": "",
-        "audioUrl": "audio/friends/091_my_breasts_are_really_strong.mp3"
-      },
-      {
-        "text": "Get out before they go down",
-        "character": "",
-        "audioUrl": "audio/friends/092_no_my_motto_is_get_out_before_they_go_down_that_is_so_not_my.mp3"
-      },
-      {
-        "text": "Commando in another man's fatigues",
-        "character": "",
-        "audioUrl": "audio/friends/093_not_going_to_go_commando_in_another_man_s_fatigue.mp3"
-      },
-      {
-        "text": "Change your kitty litter",
-        "character": "",
-        "audioUrl": "audio/friends/095_now_problem_litter_in_the_litter_box_don_t_change_your_kitty.mp3"
-      },
-      {
-        "text": "Oh dear God, what have I done?",
-        "character": "",
-        "audioUrl": "audio/friends/096_oh_dear_god_what_have_i_done.mp3"
-      },
-      {
-        "text": "So excited I may vomit",
-        "character": "",
-        "audioUrl": "audio/friends/097_oh_man_i_m_so_excited_i_may_vomit.mp3"
-      },
-      {
-        "text": "Oh my.",
-        "character": "",
-        "audioUrl": "audio/friends/098_oh_my.mp3"
-      },
-      {
-        "text": "Oh no no no no.",
-        "character": "",
-        "audioUrl": "audio/friends/099_oh_no_no_no_no.mp3"
+        "audioUrl": "audio/friends/139_i_hate_you_mouthed.mp3"
       },
       {
         "text": "I have no one",
         "character": "",
-        "audioUrl": "audio/friends/100_oh_no_wait_a_minute_i_have_no_one.mp3"
+        "audioUrl": "audio/friends/142_i_have_no_one.mp3"
       },
       {
-        "text": "Oh no.",
+        "text": "I just don't see why those two can't work things out!",
         "character": "",
-        "audioUrl": "audio/friends/101_oh_no.mp3"
+        "audioUrl": "audio/friends/144_i_just_don_t_see_why_those_two_can_t_work_things_out.mp3"
       },
       {
-        "text": "Oh, dark mother",
+        "text": "I like it!",
         "character": "",
-        "audioUrl": "audio/friends/102_oh_dark_mother_once_again_i_saw_collector_smoke_eat_eat.mp3"
+        "audioUrl": "audio/friends/145_i_like_it.mp3"
       },
       {
-        "text": "Oh, it's a website",
+        "text": "I like to be surprised",
         "character": "",
-        "audioUrl": "audio/friends/103_oh_it_s_a_website.mp3"
+        "audioUrl": "audio/friends/146_i_like_to_be_surprised.mp3"
       },
       {
-        "text": "The panty raid was uncalled for",
+        "text": "I wanna go",
         "character": "",
-        "audioUrl": "audio/friends/104_oh_then_i_guess_the_panty_raid_last_night_was_totally_uncall.mp3"
+        "audioUrl": "audio/friends/150_i_wanna_go.mp3"
       },
       {
-        "text": "Most romantic disease ever",
+        "text": "I want to quit the gym",
         "character": "",
-        "audioUrl": "audio/friends/105_ok_this_is_most_romantic_disease_i_ve_ever_had.mp3"
+        "audioUrl": "audio/friends/151_i_want_to_quit_the_gym.mp3"
       },
       {
-        "text": "Blah blah blah",
+        "text": "I'm a laundry virgin",
         "character": "",
-        "audioUrl": "audio/friends/106_ok_you_know_what_i_just_heard_blah_blah_blah_blah_blah_blah.mp3"
+        "audioUrl": "audio/friends/153_i_m_a_laundry_virgin.mp3"
       },
       {
-        "text": "Over my dead body.",
+        "text": "I'm an eight!",
         "character": "",
-        "audioUrl": "audio/friends/108_over_my_dead_body.mp3"
+        "audioUrl": "audio/friends/154_i_m_an_eight.mp3"
       },
       {
-        "text": "Pair aye",
+        "text": "I'm exhausted",
         "character": "",
-        "audioUrl": "audio/friends/109_pair_aye.mp3"
+        "audioUrl": "audio/friends/156_i_m_exhausted.mp3"
       },
       {
-        "text": "Pee into the wind",
+        "text": "I'm fine Who else is fine?",
         "character": "",
-        "audioUrl": "audio/friends/110_pee_into_the_wind.mp3"
+        "audioUrl": "audio/friends/157_i_m_fine_who_else_is_fine.mp3"
       },
       {
-        "text": "Please pass the pie",
+        "text": "I'm fine",
         "character": "",
-        "audioUrl": "audio/friends/111_please_pass_the_pie.mp3"
+        "audioUrl": "audio/friends/158_i_m_fine.mp3"
       },
       {
-        "text": "Princess Leia gold bikini",
+        "text": "I'm free",
         "character": "",
-        "audioUrl": "audio/friends/112_princess_leia_gold_bikini.mp3"
+        "audioUrl": "audio/friends/159_i_m_free.mp3"
       },
       {
-        "text": "So I can kick your butt",
+        "text": "I'm going to be happy this year",
         "character": "",
-        "audioUrl": "audio/friends/113_put_some_pants_on_kids_so_i_can_kick_your_butt.mp3"
+        "audioUrl": "audio/friends/160_i_m_going_to_be_happy_this_year.mp3"
       },
       {
-        "text": "What finger I'm holding up",
+        "text": "I'm having a baby",
         "character": "",
-        "audioUrl": "audio/friends/114_put_the_shame_you_can_t_see_what_finger_i_m_holding_up.mp3"
+        "audioUrl": "audio/friends/162_i_m_having_a_baby.mp3"
       },
       {
-        "text": "Drunk Santa wet himself",
+        "text": "I'm sorry",
         "character": "",
-        "audioUrl": "audio/friends/115_seeing_that_drunk_santa_wet_himself_really_perked_up_my_chri.mp3"
+        "audioUrl": "audio/friends/167_i_m_sorry.mp3"
       },
       {
-        "text": "Slut.",
+        "text": "I'm very happy we're gonna have all the sex",
         "character": "",
-        "audioUrl": "audio/friends/116_slut.mp3"
+        "audioUrl": "audio/friends/168_i_m_very_happy_we_re_gonna_have_all_the_sex.mp3"
       },
       {
-        "text": "So far it kind of blows",
+        "text": "I’m hurt I’m actually hurt",
         "character": "",
-        "audioUrl": "audio/friends/117_so_far_it_kind_of_blows.mp3"
+        "audioUrl": "audio/friends/170_i_m_hurt_i_m_actually_hurt.mp3"
       },
       {
-        "text": "Your cyber chip day",
+        "text": "I’m not gonna lie to you but I am gonna run away from you",
         "character": "",
-        "audioUrl": "audio/friends/118_so_how_s_your_day_with_your_cyber_chip_going.mp3"
+        "audioUrl": "audio/friends/171_i_m_not_gonna_lie_to_you_but_i_am_gonna_run_away_from_you.mp3"
       },
       {
-        "text": "Down for 2 years at a time",
+        "text": "I’m sorry",
         "character": "",
-        "audioUrl": "audio/friends/119_so_if_this_guy_goes_down_for_like_2_years_at_a_time.mp3"
+        "audioUrl": "audio/friends/172_i_m_sorry.mp3"
       },
       {
-        "text": "I can still hear the screaming",
+        "text": "Idiot",
         "character": "",
-        "audioUrl": "audio/friends/120_sometimes_late_at_night_i_can_still_hear_the_screaming.mp3"
+        "audioUrl": "audio/friends/173_idiot.mp3"
       },
       {
-        "text": "Sometimes men love men",
+        "text": "If you don't want to get me on my mobile, then don't call me on my mobile",
         "character": "",
-        "audioUrl": "audio/friends/121_sometimes_men_love_women_sometimes_men_love_men_then_there_a.mp3"
+        "audioUrl": "audio/friends/175_if_you_don_t_want_to_get_me_on_my_mobile_then_don_t_call_me.mp3"
       },
       {
-        "text": "Step away from the duck",
+        "text": "Is it obvious I'm wearing six sweaters?",
         "character": "",
-        "audioUrl": "audio/friends/122_step_away_from_the_duck.mp3"
+        "audioUrl": "audio/friends/178_is_it_obvious_i_m_wearing_six_sweaters.mp3"
       },
       {
-        "text": "Stud",
+        "text": "Is this friendship? I think so",
         "character": "",
-        "audioUrl": "audio/friends/123_stud.mp3"
+        "audioUrl": "audio/friends/179_is_this_friendship_i_think_so.mp3"
       },
       {
-        "text": "That is so sad.",
+        "text": "It just got interesting!",
         "character": "",
-        "audioUrl": "audio/friends/124_that_is_so_sad.mp3"
+        "audioUrl": "audio/friends/181_it_just_got_interesting.mp3"
       },
       {
-        "text": "Lick my muffin",
+        "text": "It so does not",
         "character": "",
-        "audioUrl": "audio/friends/125_that_ll_teach_you_lick_my_muffin.mp3"
+        "audioUrl": "audio/friends/182_it_so_does_not.mp3"
       },
       {
-        "text": "How radio stars escape stalkers",
+        "text": "It's a moo point",
         "character": "",
-        "audioUrl": "audio/friends/126_that_s_how_radio_stars_escape_stalkers.mp3"
+        "audioUrl": "audio/friends/184_it_s_a_moo_point.mp3"
       },
       {
-        "text": "They call me cookie dude",
+        "text": "It's not my first time",
         "character": "",
-        "audioUrl": "audio/friends/127_they_call_me_cookie_dude.mp3"
+        "audioUrl": "audio/friends/186_it_s_not_my_first_time.mp3"
       },
       {
-        "text": "She must leave",
+        "text": "It's the humidity!",
         "character": "",
-        "audioUrl": "audio/friends/128_they_had_little_like_she_must_leave.mp3"
+        "audioUrl": "audio/friends/187_it_s_the_humidity.mp3"
       },
       {
-        "text": "They're kind of Papa",
+        "text": "It’s a Kundis",
         "character": "",
-        "audioUrl": "audio/friends/129_they_re_kind_of_papa.mp3"
+        "audioUrl": "audio/friends/189_it_s_a_kundis.mp3"
       },
       {
-        "text": "Turkey, oh giving thanks",
+        "text": "It’s a stupid game",
         "character": "",
-        "audioUrl": "audio/friends/130_turkey_oh_giving_thanks.mp3"
+        "audioUrl": "audio/friends/190_it_s_a_stupid_game.mp3"
       },
       {
-        "text": "How dumb are you?",
+        "text": "Jingle B*tch",
         "character": "",
-        "audioUrl": "audio/friends/132_well_before_we_answer_that_i_think_we_should_address_the_mor.mp3"
+        "audioUrl": "audio/friends/191_jingle_b_tch.mp3"
       },
       {
-        "text": "Nice move, dumbass",
+        "text": "Joey",
         "character": "",
-        "audioUrl": "audio/friends/133_well_that_was_a_nice_move_dumb_ass.mp3"
+        "audioUrl": "audio/friends/192_joey.mp3"
       },
       {
-        "text": "You can't make that statement",
+        "text": "Joey air quotes",
         "character": "",
-        "audioUrl": "audio/friends/134_well_i_don_t_think_you_can_make_that_statement_unless_you_ve.mp3"
+        "audioUrl": "audio/friends/193_joey_air_quotes.mp3"
       },
       {
-        "text": "The crying Indian might save us",
+        "text": "Joey and the social worker",
         "character": "",
-        "audioUrl": "audio/friends/135_well_i_thought_if_i_littered_that_crying_indian_might_come_b.mp3"
+        "audioUrl": "audio/friends/194_joey_and_the_social_worker.mp3"
       },
       {
-        "text": "I'm going to kill you",
+        "text": "Joey bothers Chandler",
         "character": "",
-        "audioUrl": "audio/friends/136_well_i_m_going_to_kill_you.mp3"
+        "audioUrl": "audio/friends/195_joey_bothers_chandler.mp3"
       },
       {
-        "text": "We talked all night online",
+        "text": "Joey doesn't share food",
         "character": "",
-        "audioUrl": "audio/friends/137_well_we_haven_t_actually_met_we_just_stayed_up_all_night_tal.mp3"
+        "audioUrl": "audio/friends/196_joey_doesn_t_share_food.mp3"
       },
       {
-        "text": "What a wank",
+        "text": "Just a nurse",
         "character": "",
-        "audioUrl": "audio/friends/139_what_a_wank.mp3"
+        "audioUrl": "audio/friends/197_just_a_nurse.mp3"
       },
       {
-        "text": "Such a weenie",
+        "text": "Kiss me",
         "character": "",
-        "audioUrl": "audio/friends/140_what_are_you_being_such_a_weenie_for.mp3"
+        "audioUrl": "audio/friends/198_kiss_me.mp3"
       },
       {
-        "text": "Buff the maniac",
+        "text": "Kissing",
         "character": "",
-        "audioUrl": "audio/friends/141_what_are_you_looking_at_me_for_he_s_the_one_who_wants_to_buf.mp3"
+        "audioUrl": "audio/friends/200_kissing.mp3"
       },
       {
-        "text": "Threw her leg on the fire",
+        "text": "Lean Christmas",
         "character": "",
-        "audioUrl": "audio/friends/142_what_did_you_do_after_you_threw_her_leg_on_the_fire.mp3"
+        "audioUrl": "audio/friends/202_lean_christmas.mp3"
       },
       {
-        "text": "What just happened?",
+        "text": "Let the others grow old not me",
         "character": "",
-        "audioUrl": "audio/friends/143_what_just_happened.mp3"
+        "audioUrl": "audio/friends/203_let_the_others_grow_old_not_me.mp3"
       },
       {
-        "text": "What's the worst that could happen?",
+        "text": "Let’s go outside",
         "character": "",
-        "audioUrl": "audio/friends/144_what_s_the_worst_thing_that_could_happen_i_could_die.mp3"
+        "audioUrl": "audio/friends/204_let_s_go_outside.mp3"
       },
       {
-        "text": "Naked, people throw garbage",
+        "text": "London time",
         "character": "",
-        "audioUrl": "audio/friends/145_when_i_walk_outside_naked_people_throw_garbage_at_me.mp3"
+        "audioUrl": "audio/friends/206_london_time.mp3"
       },
       {
-        "text": "Why would they do this?",
+        "text": "Merry Christmas",
         "character": "",
-        "audioUrl": "audio/friends/146_why_why_why_why_why_why_would_they_do_this.mp3"
+        "audioUrl": "audio/friends/211_merry_christmas.mp3"
       },
       {
-        "text": "Wow, that ripped",
+        "text": "Monica and Chandler wedding",
         "character": "",
-        "audioUrl": "audio/friends/147_wow_that_ripped.mp3"
+        "audioUrl": "audio/friends/214_monica_and_chandler_wedding.mp3"
       },
       {
-        "text": "Wow, what's that like?",
+        "text": "Monica turkey dance",
         "character": "",
-        "audioUrl": "audio/friends/148_wow_what_s_that_like.mp3"
+        "audioUrl": "audio/friends/216_monica_turkey_dance.mp3"
       },
       {
-        "text": "Your lip",
+        "text": "Monica whistle",
         "character": "",
-        "audioUrl": "audio/friends/149_wow_your_lip_wet_bulb.mp3"
+        "audioUrl": "audio/friends/217_monica_whistle.mp3"
       },
       {
-        "text": "Yay.",
+        "text": "Morning's here",
         "character": "",
-        "audioUrl": "audio/friends/150_yay.mp3"
+        "audioUrl": "audio/friends/218_morning_s_here.mp3"
       },
       {
-        "text": "Nice to meet you",
+        "text": "Move in day",
         "character": "",
-        "audioUrl": "audio/friends/151_yeah_hey_nice_to_meet_you_a_really.mp3"
+        "audioUrl": "audio/friends/219_move_in_day.mp3"
       },
       {
-        "text": "Life's just that kind",
+        "text": "Not even sorry",
         "character": "",
-        "audioUrl": "audio/friends/152_yeah_cause_life_s_just_that_kind.mp3"
+        "audioUrl": "audio/friends/231_not_even_sorry.mp3"
       },
       {
-        "text": "Bing, what's that about?",
+        "text": "Not too shabby",
         "character": "",
-        "audioUrl": "audio/friends/153_yeah_bing_what_s_that_about.mp3"
+        "audioUrl": "audio/friends/232_not_too_shabby.mp3"
       },
       {
-        "text": "Yeah, my rock",
+        "text": "Oh my eyes!",
         "character": "",
-        "audioUrl": "audio/friends/154_yeah_my_rock.mp3"
+        "audioUrl": "audio/friends/237_oh_my_eyes.mp3"
       },
       {
-        "text": "That was a tricky one",
+        "text": "Oh my God",
         "character": "",
-        "audioUrl": "audio/friends/155_yeah_that_was_a_tricky_one.mp3"
+        "audioUrl": "audio/friends/238_oh_my_god.mp3"
       },
       {
-        "text": "Humor as a defense mechanism",
+        "text": "Oh the tears are real",
         "character": "",
-        "audioUrl": "audio/friends/156_yes_back_then_i_use_humor_as_a_defense_mechanism_thank_god_i.mp3"
+        "audioUrl": "audio/friends/246_oh_the_tears_are_real.mp3"
       },
       {
-        "text": "Over the frying pan",
+        "text": "Oh my god",
         "character": "",
-        "audioUrl": "audio/friends/157_yes_getting_over_the_frying_pan_is_a_good_idea_we_might_want.mp3"
+        "audioUrl": "audio/friends/253_omg.mp3"
       },
       {
-        "text": "I press that button 100 times",
+        "text": "One good minute",
         "character": "",
-        "audioUrl": "audio/friends/158_yes_i_press_that_button_like_100_times.mp3"
+        "audioUrl": "audio/friends/256_one_good_minute.mp3"
       },
       {
-        "text": "Start with a little one",
+        "text": "Passionate kiss",
         "character": "",
-        "audioUrl": "audio/friends/160_you_could_start_out_with_a_little_one_i_do_a1233_the_five_a.mp3"
+        "audioUrl": "audio/friends/257_passionate_kiss.mp3"
       },
       {
-        "text": "You don't think I'm cute?",
+        "text": "Perfect family",
         "character": "",
-        "audioUrl": "audio/friends/161_you_don_t_think_i_m_cute.mp3"
+        "audioUrl": "audio/friends/259_perfect_family.mp3"
       },
       {
-        "text": "You guys wanna play Doom?",
+        "text": "Pity laughs",
         "character": "",
-        "audioUrl": "audio/friends/162_you_guys_wanna_play_doom.mp3"
+        "audioUrl": "audio/friends/261_pity_laughs.mp3"
       },
       {
-        "text": "Up on his computer",
+        "text": "Pivot",
         "character": "",
-        "audioUrl": "audio/friends/163_you_know_channel_and_put_it_up_on_his_computer.mp3"
+        "audioUrl": "audio/friends/262_pivot.mp3"
       },
       {
-        "text": "The amazing Chandler",
+        "text": "Powering through",
         "character": "",
-        "audioUrl": "audio/friends/164_you_must_have_me_confused_with_the_amazing_chandler.mp3"
+        "audioUrl": "audio/friends/266_powering_through.mp3"
       },
       {
-        "text": "You owe me, I know",
+        "text": "Pregnancy scare",
         "character": "",
-        "audioUrl": "audio/friends/165_you_owe_me_i_know.mp3"
+        "audioUrl": "audio/friends/267_pregnancy_scare.mp3"
       },
       {
-        "text": "Never allowed to talk to people",
+        "text": "Pull yourself together",
         "character": "",
-        "audioUrl": "audio/friends/166_you_should_never_be_allowed_to_talk_to_people.mp3"
+        "audioUrl": "audio/friends/268_pull_yourself_together.mp3"
       },
       {
-        "text": "Stop talking now",
+        "text": "Quiet please",
         "character": "",
-        "audioUrl": "audio/friends/167_you_will_be_talking_stop_talking_now.mp3"
+        "audioUrl": "audio/friends/270_quiet_please.mp3"
       },
       {
-        "text": "Some fake flirting",
+        "text": "Rachel gets off the plane",
         "character": "",
-        "audioUrl": "audio/friends/168_you_re_going_to_do_some_fake_flirting.mp3"
+        "audioUrl": "audio/friends/271_rachel_gets_off_the_plane.mp3"
       },
       {
-        "text": "You're not the boss of me",
+        "text": "Repel women",
         "character": "",
-        "audioUrl": "audio/friends/169_you_re_not_the_boss_of_me.mp3"
+        "audioUrl": "audio/friends/273_repel_women.mp3"
       },
       {
-        "text": "You're stupid.",
+        "text": "Ross and Rachel goodbye",
         "character": "",
-        "audioUrl": "audio/friends/170_you_re_stupid.mp3"
+        "audioUrl": "audio/friends/274_ross_and_rachel_goodbye.mp3"
       },
       {
-        "text": "You're swell.",
+        "text": "Ross's middle finger sign",
         "character": "",
-        "audioUrl": "audio/friends/171_you_re_swell.mp3"
+        "audioUrl": "audio/friends/277_ross_s_middle_finger_sign.mp3"
+      },
+      {
+        "text": "Rubbed a magazine on myself earlier",
+        "character": "",
+        "audioUrl": "audio/friends/278_rubbed_a_magazine_on_myself_earlier.mp3"
+      },
+      {
+        "text": "Sarcastic clap",
+        "character": "",
+        "audioUrl": "audio/friends/281_sarcastic_clap.mp3"
+      },
+      {
+        "text": "Seven, seven, seven",
+        "character": "",
+        "audioUrl": "audio/friends/284_seven_seven_seven.mp3"
+      },
+      {
+        "text": "Sexual intercourse",
+        "character": "",
+        "audioUrl": "audio/friends/285_sexual_intercourse.mp3"
+      },
+      {
+        "text": "She means nothing to me",
+        "character": "",
+        "audioUrl": "audio/friends/288_she_means_nothing_to_me.mp3"
+      },
+      {
+        "text": "She's your lobster",
+        "character": "",
+        "audioUrl": "audio/friends/289_she_s_your_lobster.mp3"
+      },
+      {
+        "text": "She’s back in the game",
+        "character": "",
+        "audioUrl": "audio/friends/290_she_s_back_in_the_game.mp3"
+      },
+      {
+        "text": "She’s lying",
+        "character": "",
+        "audioUrl": "audio/friends/291_she_s_lying.mp3"
+      },
+      {
+        "text": "Showering together",
+        "character": "",
+        "audioUrl": "audio/friends/293_showering_together.mp3"
+      },
+      {
+        "text": "Smelly cat",
+        "character": "",
+        "audioUrl": "audio/friends/297_smelly_cat.mp3"
+      },
+      {
+        "text": "Smoking is cool and you know it",
+        "character": "",
+        "audioUrl": "audio/friends/298_smoking_is_cool_and_you_know_it.mp3"
+      },
+      {
+        "text": "Someone comment on the pants",
+        "character": "",
+        "audioUrl": "audio/friends/299_someone_comment_on_the_pants.mp3"
+      },
+      {
+        "text": "Spend more time together",
+        "character": "",
+        "audioUrl": "audio/friends/300_spend_more_time_together.mp3"
+      },
+      {
+        "text": "Stealing date's food",
+        "character": "",
+        "audioUrl": "audio/friends/301_stealing_date_s_food.mp3"
+      },
+      {
+        "text": "Still no baby",
+        "character": "",
+        "audioUrl": "audio/friends/302_still_no_baby.mp3"
+      },
+      {
+        "text": "Stop that now",
+        "character": "",
+        "audioUrl": "audio/friends/303_stop_that_now.mp3"
+      },
+      {
+        "text": "Stop the Q Tip when there’s resistance",
+        "character": "",
+        "audioUrl": "audio/friends/304_stop_the_q_tip_when_there_s_resistance.mp3"
+      },
+      {
+        "text": "Thank you my babies",
+        "character": "",
+        "audioUrl": "audio/friends/306_thank_you_my_babies.mp3"
+      },
+      {
+        "text": "Thank you so much",
+        "character": "",
+        "audioUrl": "audio/friends/307_thank_you_so_much.mp3"
+      },
+      {
+        "text": "Thank you, thank you, yes, thank you",
+        "character": "",
+        "audioUrl": "audio/friends/308_thank_you_thank_you_yes_thank_you.mp3"
+      },
+      {
+        "text": "That is brand new information!",
+        "character": "",
+        "audioUrl": "audio/friends/311_that_is_brand_new_information.mp3"
+      },
+      {
+        "text": "That was the best nap I ever had!",
+        "character": "",
+        "audioUrl": "audio/friends/314_that_was_the_best_nap_i_ever_had.mp3"
+      },
+      {
+        "text": "The camera adds ten pounds",
+        "character": "",
+        "audioUrl": "audio/friends/322_the_camera_adds_ten_pounds.mp3"
+      },
+      {
+        "text": "The days and nights are hard",
+        "character": "",
+        "audioUrl": "audio/friends/323_the_days_and_nights_are_hard.mp3"
+      },
+      {
+        "text": "The hills are alive with the sound of music",
+        "character": "",
+        "audioUrl": "audio/friends/324_the_hills_are_alive_with_the_sound_of_music.mp3"
+      },
+      {
+        "text": "The nights are the hardest",
+        "character": "",
+        "audioUrl": "audio/friends/325_the_nights_are_the_hardest.mp3"
+      },
+      {
+        "text": "These are my Thanksgiving pants",
+        "character": "",
+        "audioUrl": "audio/friends/329_these_are_my_thanksgiving_pants.mp3"
+      },
+      {
+        "text": "They don't know that we know they know we know",
+        "character": "",
+        "audioUrl": "audio/friends/330_they_don_t_know_that_we_know_they_know_we_know.mp3"
+      },
+      {
+        "text": "They should put that on the box",
+        "character": "",
+        "audioUrl": "audio/friends/331_they_should_put_that_on_the_box.mp3"
+      },
+      {
+        "text": "This is the best game ever!",
+        "character": "",
+        "audioUrl": "audio/friends/332_this_is_the_best_game_ever.mp3"
+      },
+      {
+        "text": "This man is my God!",
+        "character": "",
+        "audioUrl": "audio/friends/334_this_man_is_my_god.mp3"
+      },
+      {
+        "text": "This year, I'll try something new every day",
+        "character": "",
+        "audioUrl": "audio/friends/335_this_year_i_ll_try_something_new_every_day.mp3"
+      },
+      {
+        "text": "Told ya!",
+        "character": "",
+        "audioUrl": "audio/friends/337_told_ya.mp3"
+      },
+      {
+        "text": "True love kiss",
+        "character": "",
+        "audioUrl": "audio/friends/338_true_love_kiss.mp3"
+      },
+      {
+        "text": "Turkey scare",
+        "character": "",
+        "audioUrl": "audio/friends/339_turkey_scare.mp3"
+      },
+      {
+        "text": "Unagi",
+        "character": "",
+        "audioUrl": "audio/friends/342_unagi.mp3"
+      },
+      {
+        "text": "Upset",
+        "character": "",
+        "audioUrl": "audio/friends/343_upset.mp3"
+      },
+      {
+        "text": "Verbal contract",
+        "character": "",
+        "audioUrl": "audio/friends/344_verbal_contract.mp3"
+      },
+      {
+        "text": "We know, we know, we know!",
+        "character": "",
+        "audioUrl": "audio/friends/348_we_know_we_know_we_know.mp3"
+      },
+      {
+        "text": "We will call you back",
+        "character": "",
+        "audioUrl": "audio/friends/351_we_will_call_you_back.mp3"
+      },
+      {
+        "text": "We're all getting so old",
+        "character": "",
+        "audioUrl": "audio/friends/352_we_re_all_getting_so_old.mp3"
+      },
+      {
+        "text": "Were you on a gay cruise?",
+        "character": "",
+        "audioUrl": "audio/friends/355_were_you_on_a_gay_cruise.mp3"
+      },
+      {
+        "text": "What are you doing to me",
+        "character": "",
+        "audioUrl": "audio/friends/357_what_are_you_doing_to_me.mp3"
+      },
+      {
+        "text": "What did the police say?",
+        "character": "",
+        "audioUrl": "audio/friends/358_what_did_the_police_say.mp3"
+      },
+      {
+        "text": "What is that, pie?",
+        "character": "",
+        "audioUrl": "audio/friends/360_what_is_that_pie.mp3"
+      },
+      {
+        "text": "Where are all the men?",
+        "character": "",
+        "audioUrl": "audio/friends/365_where_are_all_the_men.mp3"
+      },
+      {
+        "text": "Whichever one you want",
+        "character": "",
+        "audioUrl": "audio/friends/366_whichever_one_you_want.mp3"
+      },
+      {
+        "text": "Whip it out!",
+        "character": "",
+        "audioUrl": "audio/friends/367_whip_it_out.mp3"
+      },
+      {
+        "text": "Whoa!",
+        "character": "",
+        "audioUrl": "audio/friends/373_whoa.mp3"
+      },
+      {
+        "text": "Wife work problems",
+        "character": "",
+        "audioUrl": "audio/friends/378_wife_work_problems.mp3"
+      },
+      {
+        "text": "Worms",
+        "character": "",
+        "audioUrl": "audio/friends/380_worms.mp3"
+      },
+      {
+        "text": "Wrong seats",
+        "character": "",
+        "audioUrl": "audio/friends/382_wrong_seats.mp3"
+      },
+      {
+        "text": "Yea you will and are you kidding me!",
+        "character": "",
+        "audioUrl": "audio/friends/384_yea_you_will_and_are_you_kidding_me.mp3"
+      },
+      {
+        "text": "Yes please",
+        "character": "",
+        "audioUrl": "audio/friends/387_yes_please.mp3"
+      },
+      {
+        "text": "You are so sweet",
+        "character": "",
+        "audioUrl": "audio/friends/390_you_are_so_sweet.mp3"
+      },
+      {
+        "text": "You ate my sandwich?",
+        "character": "",
+        "audioUrl": "audio/friends/391_you_ate_my_sandwich.mp3"
+      },
+      {
+        "text": "You bitch",
+        "character": "",
+        "audioUrl": "audio/friends/392_you_bitch.mp3"
+      },
+      {
+        "text": "You can’t make stuff up",
+        "character": "",
+        "audioUrl": "audio/friends/394_you_can_t_make_stuff_up.mp3"
+      },
+      {
+        "text": "You love me",
+        "character": "",
+        "audioUrl": "audio/friends/402_you_love_me.mp3"
+      },
+      {
+        "text": "You never listen to anything I ever say",
+        "character": "",
+        "audioUrl": "audio/friends/403_you_never_listen_to_anything_i_ever_say.mp3"
+      },
+      {
+        "text": "You're dead inside",
+        "character": "",
+        "audioUrl": "audio/friends/409_you_re_dead_inside.mp3"
+      },
+      {
+        "text": "You're right, that did cheer me up",
+        "character": "",
+        "audioUrl": "audio/friends/411_you_re_right_that_did_cheer_me_up.mp3"
+      },
+      {
+        "text": "You’re a funny guy",
+        "character": "",
+        "audioUrl": "audio/friends/415_you_re_a_funny_guy.mp3"
+      },
+      {
+        "text": "Zero down, zero a month, for a long long time",
+        "character": "",
+        "audioUrl": "audio/friends/416_zero_down_zero_a_month_for_a_long_long_time.mp3"
       }
     ]
   },
@@ -16980,54 +12365,14 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "Absolutely not.",
-        "character": "",
-        "audioUrl": "audio/american-dad/001_absolutely_not.mp3"
-      },
-      {
-        "text": "All periods will now be called Steves.",
-        "character": "",
-        "audioUrl": "audio/american-dad/002_all_periods_will_now_be_called_steves.mp3"
-      },
-      {
-        "text": "At Gazuntech.",
-        "character": "",
-        "audioUrl": "audio/american-dad/003_at_gazuntech.mp3"
-      },
-      {
-        "text": "Like your first apartment",
-        "character": "",
-        "audioUrl": "audio/american-dad/004_basically_the_whole_country_is_gonna_look_like_your_first_ap.mp3"
-      },
-      {
-        "text": "Big girl, Big girl.",
-        "character": "",
-        "audioUrl": "audio/american-dad/005_big_girl_big_girl.mp3"
-      },
-      {
-        "text": "But hey, better with your brother than some stranger, right?",
-        "character": "",
-        "audioUrl": "audio/american-dad/006_but_hey_better_with_your_brother_than_some_stranger_right.mp3"
-      },
-      {
         "text": "Dangerous.",
         "character": "",
         "audioUrl": "audio/american-dad/007_dangerous.mp3"
       },
       {
-        "text": "Did you see Memento?",
-        "character": "",
-        "audioUrl": "audio/american-dad/008_did_you_see_memento.mp3"
-      },
-      {
         "text": "You cardigan Jezebel",
         "character": "",
         "audioUrl": "audio/american-dad/009_don_t_play_coy_you_cardigan_jezebel_i_have_photographic_evid.mp3"
-      },
-      {
-        "text": "Terror alert orange",
-        "character": "",
-        "audioUrl": "audio/american-dad/010_francine_you_ll_be_very_careful_out_there_today_where_a_terr.mp3"
       },
       {
         "text": "He's gonna pee",
@@ -17045,34 +12390,9 @@ const shows = [
         "audioUrl": "audio/american-dad/013_happy_hour.mp3"
       },
       {
-        "text": "Have you managed to contact your home planet yet?",
-        "character": "",
-        "audioUrl": "audio/american-dad/014_have_you_managed_to_contact_your_home_planet_yet.mp3"
-      },
-      {
-        "text": "Help me.",
-        "character": "",
-        "audioUrl": "audio/american-dad/015_help_me.mp3"
-      },
-      {
-        "text": "Hey, listen, Mom, Dad, can I have a dog?",
-        "character": "",
-        "audioUrl": "audio/american-dad/016_hey_listen_mom_dad_can_i_have_a_dog.mp3"
-      },
-      {
         "text": "Waitressing at the Olive Garden",
         "character": "",
         "audioUrl": "audio/american-dad/017_hey_you_think_that_diploma_will_help_you_land_a_better_secti.mp3"
-      },
-      {
-        "text": "I forgot.",
-        "character": "",
-        "audioUrl": "audio/american-dad/018_i_forgot.mp3"
-      },
-      {
-        "text": "I have to study for my term paper.",
-        "character": "",
-        "audioUrl": "audio/american-dad/019_i_have_to_study_for_my_term_paper.mp3"
       },
       {
         "text": "Pet my schnauzer",
@@ -17085,21 +12405,6 @@ const shows = [
         "audioUrl": "audio/american-dad/021_i_m_thinking_of_cutting_third_steve_you_in_yeah_as_long_as_i.mp3"
       },
       {
-        "text": "It's not as good the second time.",
-        "character": "",
-        "audioUrl": "audio/american-dad/022_it_s_not_as_good_the_second_time.mp3"
-      },
-      {
-        "text": "Mr. Phillips, may I be excused? I'm having my Steve.",
-        "character": "",
-        "audioUrl": "audio/american-dad/023_mr_phillips_may_i_be_excused_i_m_having_my_steve.mp3"
-      },
-      {
-        "text": "No, Roger, you cannot borrow the car.",
-        "character": "",
-        "audioUrl": "audio/american-dad/024_no_roger_you_cannot_borrow_the_car.mp3"
-      },
-      {
         "text": "Hey, my purse",
         "character": "",
         "audioUrl": "audio/american-dad/025_oh_my_god_my_mom_always_caught_me_throwing_up_last_night_and.mp3"
@@ -17108,21 +12413,6 @@ const shows = [
         "text": "Oh my God. Score. Score. Score Score.",
         "character": "",
         "audioUrl": "audio/american-dad/026_oh_my_god_score_score_score_score.mp3"
-      },
-      {
-        "text": "Oh my god。",
-        "character": "",
-        "audioUrl": "audio/american-dad/027_oh_my_god.mp3"
-      },
-      {
-        "text": "Oh, oh, sorry about that.",
-        "character": "",
-        "audioUrl": "audio/american-dad/028_oh_oh_sorry_about_that.mp3"
-      },
-      {
-        "text": "A contract with IKEA",
-        "character": "",
-        "audioUrl": "audio/american-dad/029_oh_we_just_signed_a_contract_with_ikea_to_furnish_a_rack.mp3"
       },
       {
         "text": "I got distracted",
@@ -17135,26 +12425,6 @@ const shows = [
         "audioUrl": "audio/american-dad/031_oh_my_god_how_good_are_these.mp3"
       },
       {
-        "text": "OK, I got a little carried away back there.",
-        "character": "",
-        "audioUrl": "audio/american-dad/032_ok_i_got_a_little_carried_away_back_there.mp3"
-      },
-      {
-        "text": "Osama, is that you?",
-        "character": "",
-        "audioUrl": "audio/american-dad/033_osama_is_that_you.mp3"
-      },
-      {
-        "text": "Rigging elections is my bread and butter, Roger.",
-        "character": "",
-        "audioUrl": "audio/american-dad/034_rigging_elections_is_my_bread_and_butter_roger.mp3"
-      },
-      {
-        "text": "Followed by a Steve",
-        "character": "",
-        "audioUrl": "audio/american-dad/035_so_if_it_s_a_statement_it_should_always_be_followed_by_a_ste.mp3"
-      },
-      {
         "text": "Steve's big boy hair",
         "character": "",
         "audioUrl": "audio/american-dad/036_steve_s_big_boy_hair_isn_t_going_to_come_in_any_faster_with.mp3"
@@ -17163,11 +12433,6 @@ const shows = [
         "text": "Voting for a prostitute",
         "character": "",
         "audioUrl": "audio/american-dad/037_sure_you_can_vote_for_shelley_maxwell_if_you_don_t_mind_voti.mp3"
-      },
-      {
-        "text": "That's my boy.",
-        "character": "",
-        "audioUrl": "audio/american-dad/038_that_s_my_boy.mp3"
       },
       {
         "text": "Look sharp",
@@ -17180,24 +12445,14 @@ const shows = [
         "audioUrl": "audio/american-dad/040_whoa_you_hear_that_hillary_looks_like_you_re_a_winner_with_s.mp3"
       },
       {
-        "text": "Yeah, baby.",
-        "character": "",
-        "audioUrl": "audio/american-dad/041_yeah_baby.mp3"
-      },
-      {
-        "text": "American Dad prank call",
+        "text": "Prank call",
         "character": "",
         "audioUrl": "audio/american-dad/042_american_dad_prank_call.mp3"
       },
       {
-        "text": "American Dad Time for a Vacation",
+        "text": "Time for a vacation",
         "character": "",
         "audioUrl": "audio/american-dad/043_american_dad_time_for_a_vacation.mp3"
-      },
-      {
-        "text": "American Dad Trick or Treat",
-        "character": "",
-        "audioUrl": "audio/american-dad/044_american_dad_trick_or_treat.mp3"
       },
       {
         "text": "Boob Inspection",
@@ -17205,24 +12460,9 @@ const shows = [
         "audioUrl": "audio/american-dad/045_boob_inspection.mp3"
       },
       {
-        "text": "Bullock's Classroom applause",
-        "character": "",
-        "audioUrl": "audio/american-dad/046_bullock_s_classroom_applause.mp3"
-      },
-      {
-        "text": "Butt kissing to undo the damage",
-        "character": "",
-        "audioUrl": "audio/american-dad/047_butt_kissing_to_undo_the_damage.mp3"
-      },
-      {
         "text": "Calling Dad",
         "character": "",
         "audioUrl": "audio/american-dad/048_calling_dad.mp3"
-      },
-      {
-        "text": "A dance with a nerd",
-        "character": "",
-        "audioUrl": "audio/american-dad/049_can_t_believe_i_am_going_to_a_dance_with_a_nerd.mp3"
       },
       {
         "text": "Christmas isn't something we skip",
@@ -17230,12 +12470,7 @@ const shows = [
         "audioUrl": "audio/american-dad/050_christmas_isn_t_something_we_skip.mp3"
       },
       {
-        "text": "Cute as a button",
-        "character": "",
-        "audioUrl": "audio/american-dad/051_cute_as_a_button.mp3"
-      },
-      {
-        "text": "Deck The Halls",
+        "text": "Deck the Halls",
         "character": "",
         "audioUrl": "audio/american-dad/052_deck_the_halls.mp3"
       },
@@ -17260,22 +12495,7 @@ const shows = [
         "audioUrl": "audio/american-dad/056_flash.mp3"
       },
       {
-        "text": "Francine Smith happy yell",
-        "character": "",
-        "audioUrl": "audio/american-dad/057_francine_smith_happy_yell.mp3"
-      },
-      {
-        "text": "Freaking out",
-        "character": "",
-        "audioUrl": "audio/american-dad/058_freaking_out.mp3"
-      },
-      {
-        "text": "Ginger slap",
-        "character": "",
-        "audioUrl": "audio/american-dad/059_ginger_slap.mp3"
-      },
-      {
-        "text": "Good Weed Steveses",
+        "text": "Good weed Steveses",
         "character": "",
         "audioUrl": "audio/american-dad/060_good_weed_steveses.mp3"
       },
@@ -17295,29 +12515,9 @@ const shows = [
         "audioUrl": "audio/american-dad/063_he_and_i_are_spending_our_vacation_reconnecting.mp3"
       },
       {
-        "text": "Hey champ",
-        "character": "",
-        "audioUrl": "audio/american-dad/064_hey_champ.mp3"
-      },
-      {
         "text": "Hi",
         "character": "",
         "audioUrl": "audio/american-dad/065_hi.mp3"
-      },
-      {
-        "text": "Hi",
-        "character": "",
-        "audioUrl": "audio/american-dad/066_hi.mp3"
-      },
-      {
-        "text": "I am a big man i need a big car",
-        "character": "",
-        "audioUrl": "audio/american-dad/067_i_am_a_big_man_i_need_a_big_car.mp3"
-      },
-      {
-        "text": "I am just so hung over",
-        "character": "",
-        "audioUrl": "audio/american-dad/068_i_am_just_so_hung_over.mp3"
       },
       {
         "text": "Waiting for the perfect time",
@@ -17330,39 +12530,9 @@ const shows = [
         "audioUrl": "audio/american-dad/070_i_did_a_great_job.mp3"
       },
       {
-        "text": "I have a special anniversary surprise for you",
-        "character": "",
-        "audioUrl": "audio/american-dad/071_i_have_a_special_anniversary_surprise_for_you.mp3"
-      },
-      {
-        "text": "I is alright sir, i should be better by tomorrow",
-        "character": "",
-        "audioUrl": "audio/american-dad/072_i_is_alright_sir_i_should_be_better_by_tomorrow.mp3"
-      },
-      {
-        "text": "I promise stuff all the time, it means nothing",
-        "character": "",
-        "audioUrl": "audio/american-dad/073_i_promise_stuff_all_the_time_it_means_nothing.mp3"
-      },
-      {
         "text": "About what you just saw",
         "character": "",
         "audioUrl": "audio/american-dad/074_i_wanted_to_talk_to_you_about_what_you_just_saw.mp3"
-      },
-      {
-        "text": "I'm done",
-        "character": "",
-        "audioUrl": "audio/american-dad/075_i_m_done.mp3"
-      },
-      {
-        "text": "I'm the man of the house",
-        "character": "",
-        "audioUrl": "audio/american-dad/076_i_m_the_man_of_the_house.mp3"
-      },
-      {
-        "text": "It is time to let Christmas go",
-        "character": "",
-        "audioUrl": "audio/american-dad/077_it_is_time_to_let_christmas_go.mp3"
       },
       {
         "text": "Klaus crying",
@@ -17370,7 +12540,7 @@ const shows = [
         "audioUrl": "audio/american-dad/078_klaus_crying.mp3"
       },
       {
-        "text": "Lavate Las Manos",
+        "text": "Lavate las manos",
         "character": "",
         "audioUrl": "audio/american-dad/079_lavate_las_manos.mp3"
       },
@@ -17378,11 +12548,6 @@ const shows = [
         "text": "Look i am rolling my own tampons!",
         "character": "",
         "audioUrl": "audio/american-dad/080_look_i_am_rolling_my_own_tampons.mp3"
-      },
-      {
-        "text": "Mmmm Ok",
-        "character": "",
-        "audioUrl": "audio/american-dad/081_mmmm_ok.mp3"
       },
       {
         "text": "Momma's hiding from Arnie",
@@ -17400,34 +12565,9 @@ const shows = [
         "audioUrl": "audio/american-dad/084_no.mp3"
       },
       {
-        "text": "No girl forgets the 88th time she has sex",
-        "character": "",
-        "audioUrl": "audio/american-dad/085_no_girl_forgets_the_88th_time_she_has_sex.mp3"
-      },
-      {
-        "text": "No more boners I am a man now",
-        "character": "",
-        "audioUrl": "audio/american-dad/086_no_more_boners_i_am_a_man_now.mp3"
-      },
-      {
         "text": "Oh boy",
         "character": "",
         "audioUrl": "audio/american-dad/087_oh_boy.mp3"
-      },
-      {
-        "text": "Oh damn",
-        "character": "",
-        "audioUrl": "audio/american-dad/088_oh_damn.mp3"
-      },
-      {
-        "text": "Oh it's always about you",
-        "character": "",
-        "audioUrl": "audio/american-dad/089_oh_it_s_always_about_you.mp3"
-      },
-      {
-        "text": "Oh my goodness",
-        "character": "",
-        "audioUrl": "audio/american-dad/090_oh_my_goodness.mp3"
       },
       {
         "text": "Oh you are a special kind of bitch",
@@ -17440,24 +12580,9 @@ const shows = [
         "audioUrl": "audio/american-dad/092_oopsy_daisy.mp3"
       },
       {
-        "text": "Pardon Me Sir",
-        "character": "",
-        "audioUrl": "audio/american-dad/093_pardon_me_sir.mp3"
-      },
-      {
         "text": "Pathetic rants",
         "character": "",
         "audioUrl": "audio/american-dad/094_pathetic_rants.mp3"
-      },
-      {
-        "text": "Power Top American Dad",
-        "character": "",
-        "audioUrl": "audio/american-dad/095_power_top_american_dad.mp3"
-      },
-      {
-        "text": "Roger and Klaus Kiss",
-        "character": "",
-        "audioUrl": "audio/american-dad/096_roger_and_klaus_kiss.mp3"
       },
       {
         "text": "Roger hyped",
@@ -17488,16 +12613,6 @@ const shows = [
         "text": "Singing No",
         "character": "",
         "audioUrl": "audio/american-dad/102_singing_no.mp3"
-      },
-      {
-        "text": "Sir i am on vacation!",
-        "character": "",
-        "audioUrl": "audio/american-dad/103_sir_i_am_on_vacation.mp3"
-      },
-      {
-        "text": "Sorry sir i am on vacation",
-        "character": "",
-        "audioUrl": "audio/american-dad/104_sorry_sir_i_am_on_vacation.mp3"
       },
       {
         "text": "Stan and Bullock sick scene",
@@ -17535,49 +12650,9 @@ const shows = [
         "audioUrl": "audio/american-dad/111_that_jerk_forgot_our_anniversary.mp3"
       },
       {
-        "text": "That's it!",
-        "character": "",
-        "audioUrl": "audio/american-dad/112_that_s_it.mp3"
-      },
-      {
-        "text": "That's what your mom said last night",
-        "character": "",
-        "audioUrl": "audio/american-dad/113_that_s_what_your_mom_said_last_night.mp3"
-      },
-      {
         "text": "Good in the business suit",
         "character": "",
         "audioUrl": "audio/american-dad/114_the_only_girl_in_the_office_who_looks_good_in_the_business_s.mp3"
-      },
-      {
-        "text": "Things are always what they appear",
-        "character": "",
-        "audioUrl": "audio/american-dad/115_things_are_always_what_they_appear.mp3"
-      },
-      {
-        "text": "This is gonna be the best Christmas ever!",
-        "character": "",
-        "audioUrl": "audio/american-dad/116_this_is_gonna_be_the_best_christmas_ever.mp3"
-      },
-      {
-        "text": "This is so exciting",
-        "character": "",
-        "audioUrl": "audio/american-dad/117_this_is_so_exciting.mp3"
-      },
-      {
-        "text": "This was not that",
-        "character": "",
-        "audioUrl": "audio/american-dad/118_this_was_not_that.mp3"
-      },
-      {
-        "text": "Today Mortimer James",
-        "character": "",
-        "audioUrl": "audio/american-dad/119_today_mortimer_james.mp3"
-      },
-      {
-        "text": "We just need to get back on top!",
-        "character": "",
-        "audioUrl": "audio/american-dad/120_we_just_need_to_get_back_on_top.mp3"
       },
       {
         "text": "What the hell is that?",
@@ -17588,21 +12663,6 @@ const shows = [
         "text": "Whatever you need just get better!",
         "character": "",
         "audioUrl": "audio/american-dad/122_whatever_you_need_just_get_better.mp3"
-      },
-      {
-        "text": "Woo hoo",
-        "character": "",
-        "audioUrl": "audio/american-dad/123_woo_hoo.mp3"
-      },
-      {
-        "text": "You are hired!",
-        "character": "",
-        "audioUrl": "audio/american-dad/124_you_are_hired.mp3"
-      },
-      {
-        "text": "You can have a boner for Christmas again",
-        "character": "",
-        "audioUrl": "audio/american-dad/125_you_can_have_a_boner_for_christmas_again.mp3"
       },
       {
         "text": "You little rascal",
@@ -17936,7 +12996,7 @@ const shows = [
         "audioUrl": "audio/nathan-for-you/011_i_am_so_sad.mp3"
       },
       {
-        "text": "I Feel Like a Beer",
+        "text": "I feel like a beer",
         "character": "",
         "audioUrl": "audio/nathan-for-you/012_i_feel_like_a_beer.mp3"
       },
@@ -17956,12 +13016,12 @@ const shows = [
         "audioUrl": "audio/nathan-for-you/015_i_love_you.mp3"
       },
       {
-        "text": "I Love You..",
+        "text": "I love you..",
         "character": "",
         "audioUrl": "audio/nathan-for-you/016_i_love_you.mp3"
       },
       {
-        "text": "I Should've Married Her",
+        "text": "I should've married her",
         "character": "",
         "audioUrl": "audio/nathan-for-you/017_i_should_ve_married_her.mp3"
       },
@@ -17996,17 +13056,17 @@ const shows = [
         "audioUrl": "audio/nathan-for-you/023_liar_and_cool_guy.mp3"
       },
       {
-        "text": "Nathan Fielder Asian Accent",
+        "text": "Nathan Fielder Asian accent",
         "character": "",
         "audioUrl": "audio/nathan-for-you/024_nathan_fielder_asian_accent.mp3"
       },
       {
-        "text": "Nathan Likes Sex",
+        "text": "Nathan likes sex",
         "character": "",
         "audioUrl": "audio/nathan-for-you/025_nathan_likes_sex.mp3"
       },
       {
-        "text": "Nobody Listens When You Speak",
+        "text": "Nobody listens when you speak",
         "character": "",
         "audioUrl": "audio/nathan-for-you/026_nobody_listens_when_you_speak.mp3"
       },
@@ -18051,7 +13111,7 @@ const shows = [
         "audioUrl": "audio/nathan-for-you/034_thinking_about_superheroes.mp3"
       },
       {
-        "text": "This Is So Sad song",
+        "text": "This is so sad song",
         "character": "",
         "audioUrl": "audio/nathan-for-you/035_this_is_so_sad_song.mp3"
       },
@@ -18066,7 +13126,7 @@ const shows = [
         "audioUrl": "audio/nathan-for-you/037_tuck_you_in_bed.mp3"
       },
       {
-        "text": "TURN OFF THE MUSIC",
+        "text": "Turn off the music",
         "character": "",
         "audioUrl": "audio/nathan-for-you/038_turn_off_the_music.mp3"
       },
@@ -18086,7 +13146,7 @@ const shows = [
         "audioUrl": "audio/nathan-for-you/041_you_are_a_little_shit.mp3"
       },
       {
-        "text": "You Have To Go",
+        "text": "You have to go",
         "character": "",
         "audioUrl": "audio/nathan-for-you/042_you_have_to_go.mp3"
       },
@@ -18119,7 +13179,7 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "A Jesus Fish!",
+        "text": "A Jesus fish!",
         "character": "",
         "audioUrl": "audio/seinfeld/001_a_jesus_fish.mp3"
       },
@@ -18127,11 +13187,6 @@ const shows = [
         "text": "A Festivus for the rest of us",
         "character": "",
         "audioUrl": "audio/seinfeld/002_a_new_holiday_was_born_a_festivus_for_the_rest_of_us.mp3"
-      },
-      {
-        "text": "And I'm assuming I need it right away",
-        "character": "",
-        "audioUrl": "audio/seinfeld/004_and_i_m_assuming_i_need_it_right_away.mp3"
       },
       {
         "text": "And you wanna be my latex sailor.",
@@ -18149,39 +13204,19 @@ const shows = [
         "audioUrl": "audio/seinfeld/007_and_you_want_to_be_my_latex_salesman.mp3"
       },
       {
-        "text": "Another Festivus Miracle!",
-        "character": "",
-        "audioUrl": "audio/seinfeld/008_another_festivus_miracle.mp3"
-      },
-      {
         "text": "Apartheid RSA + Seinfeld",
         "character": "",
         "audioUrl": "audio/seinfeld/011_apartheid_rsa_seinfeld.mp3"
       },
       {
-        "text": "Are These Free?",
-        "character": "",
-        "audioUrl": "audio/seinfeld/013_are_these_free.mp3"
-      },
-      {
-        "text": "Are You Crazy",
+        "text": "Are you crazy",
         "character": "",
         "audioUrl": "audio/seinfeld/014_are_you_crazy.mp3"
       },
       {
-        "text": "Are You Crazy",
+        "text": "Are you crazy",
         "character": "",
         "audioUrl": "audio/seinfeld/015_are_you_crazy.mp3"
-      },
-      {
-        "text": "Are You Crazy?!",
-        "character": "",
-        "audioUrl": "audio/seinfeld/016_are_you_crazy.mp3"
-      },
-      {
-        "text": "Awful, I hate it",
-        "character": "",
-        "audioUrl": "audio/seinfeld/017_awful_i_hate_it.mp3"
       },
       {
         "text": "Back it up",
@@ -18199,11 +13234,6 @@ const shows = [
         "audioUrl": "audio/seinfeld/022_blow_it_off.mp3"
       },
       {
-        "text": "But I don't wanna be a pirate!",
-        "character": "",
-        "audioUrl": "audio/seinfeld/023_but_i_don_t_wanna_be_a_pirate.mp3"
-      },
-      {
         "text": "Child named seven",
         "character": "",
         "audioUrl": "audio/seinfeld/024_child_named_seven.mp3"
@@ -18212,11 +13242,6 @@ const shows = [
         "text": "Chiropractor didn't do anything",
         "character": "",
         "audioUrl": "audio/seinfeld/025_chiropractor_didn_t_do_anything.mp3"
-      },
-      {
-        "text": "Come and listen to the idiot!",
-        "character": "",
-        "audioUrl": "audio/seinfeld/027_come_and_listen_to_the_idiot.mp3"
       },
       {
         "text": "Cucumbers on Pizza",
@@ -18239,7 +13264,7 @@ const shows = [
         "audioUrl": "audio/seinfeld/032_didn_t_they_notice_it_no_i_could_they_not_notice_it_because.mp3"
       },
       {
-        "text": "Dinners, Movies, Talking",
+        "text": "Dinners, movies, talking",
         "character": "",
         "audioUrl": "audio/seinfeld/033_dinners_movies_talking.mp3"
       },
@@ -18249,12 +13274,7 @@ const shows = [
         "audioUrl": "audio/seinfeld/034_do_you_ever_get_down_on_one_knee_and_thank_god_for_me.mp3"
       },
       {
-        "text": "Embarrassing to know you",
-        "character": "",
-        "audioUrl": "audio/seinfeld/035_do_you_know_how_it_s_getting_telling_people_i_even_know_you.mp3"
-      },
-      {
-        "text": "Do You Want To Have Sex With Me Right Now",
+        "text": "Do you want to have sex with me right now",
         "character": "",
         "audioUrl": "audio/seinfeld/036_do_you_want_to_have_sex_with_me_right_now.mp3"
       },
@@ -18269,12 +13289,12 @@ const shows = [
         "audioUrl": "audio/seinfeld/039_eating_in_bed.mp3"
       },
       {
-        "text": "Elaine Christmas Card",
+        "text": "Elaine Christmas card",
         "character": "",
         "audioUrl": "audio/seinfeld/041_elaine_christmas_card.mp3"
       },
       {
-        "text": "Elaine No More Soup for You..",
+        "text": "Elaine no more soup for you..",
         "character": "",
         "audioUrl": "audio/seinfeld/043_elaine_no_more_soup_for_you.mp3"
       },
@@ -18289,64 +13309,34 @@ const shows = [
         "audioUrl": "audio/seinfeld/045_everytime_i_think_i_m_out_the_pull_me_back_in.mp3"
       },
       {
-        "text": "Festivus is back!",
-        "character": "",
-        "audioUrl": "audio/seinfeld/046_festivus_is_back.mp3"
-      },
-      {
         "text": "George and the fire",
         "character": "",
         "audioUrl": "audio/seinfeld/049_george_and_the_fire.mp3"
       },
       {
-        "text": "George Costanza Sleeping Under Desk",
+        "text": "George Costanza sleeping under desk",
         "character": "",
         "audioUrl": "audio/seinfeld/050_george_costanza_sleeping_under_desk.mp3"
       },
       {
-        "text": "George is getting upset",
-        "character": "",
-        "audioUrl": "audio/seinfeld/051_george_is_getting_upset.mp3"
-      },
-      {
-        "text": "George likes his Chicken Spicy",
+        "text": "George likes his chicken spicy",
         "character": "",
         "audioUrl": "audio/seinfeld/052_george_likes_his_chicken_spicy.mp3"
       },
       {
-        "text": "Get A Picture Of Him With His Shirt Off",
-        "character": "",
-        "audioUrl": "audio/seinfeld/053_get_a_picture_of_him_with_his_shirt_off.mp3"
-      },
-      {
-        "text": "Get In The Mood",
+        "text": "Get in the mood",
         "character": "",
         "audioUrl": "audio/seinfeld/054_get_in_the_mood.mp3"
       },
       {
-        "text": "Get Well Cake",
+        "text": "Get well cake",
         "character": "",
         "audioUrl": "audio/seinfeld/056_get_well_cake.mp3"
       },
       {
-        "text": "Get well, get well soon!",
-        "character": "",
-        "audioUrl": "audio/seinfeld/057_get_well_get_well_soon.mp3"
-      },
-      {
-        "text": "Give Me A Big Smile",
+        "text": "Give me a big smile",
         "character": "",
         "audioUrl": "audio/seinfeld/060_give_me_a_big_smile.mp3"
-      },
-      {
-        "text": "George is getting upset",
-        "character": "",
-        "audioUrl": "audio/seinfeld/061_goerge_is_getting_upset.mp3"
-      },
-      {
-        "text": "Good Let's keep it that way",
-        "character": "",
-        "audioUrl": "audio/seinfeld/062_good_let_s_keep_it_that_way.mp3"
       },
       {
         "text": "Grab a broom! Sweep! Sweep! Sweep!",
@@ -18354,19 +13344,14 @@ const shows = [
         "audioUrl": "audio/seinfeld/063_grab_a_broom_sweep_sweep_sweep.mp3"
       },
       {
-        "text": "Happy Festivus, Everyone!",
+        "text": "Happy Festivus, everyone!",
         "character": "",
         "audioUrl": "audio/seinfeld/069_happy_festivus_everyone.mp3"
       },
       {
-        "text": "He Took It Out",
-        "character": "",
-        "audioUrl": "audio/seinfeld/070_he_took_it_out.mp3"
-      },
-      {
         "text": "He took it out",
         "character": "",
-        "audioUrl": "audio/seinfeld/071_he_took_it_out.mp3"
+        "audioUrl": "audio/seinfeld/070_he_took_it_out.mp3"
       },
       {
         "text": "He took. Get out.",
@@ -18379,26 +13364,6 @@ const shows = [
         "audioUrl": "audio/seinfeld/073_he_s_a_little_hot.mp3"
       },
       {
-        "text": "He's Got A Great Butt",
-        "character": "",
-        "audioUrl": "audio/seinfeld/074_he_s_got_a_great_butt.mp3"
-      },
-      {
-        "text": "His Buttocks Are Sublime",
-        "character": "",
-        "audioUrl": "audio/seinfeld/081_his_buttocks_are_sublime.mp3"
-      },
-      {
-        "text": "His wife is in a coma.",
-        "character": "",
-        "audioUrl": "audio/seinfeld/082_his_wife_is_in_a_coma.mp3"
-      },
-      {
-        "text": "How did I not think of this earlier",
-        "character": "",
-        "audioUrl": "audio/seinfeld/083_how_did_i_not_think_of_this_earlier.mp3"
-      },
-      {
         "text": "The keys were in it",
         "character": "",
         "audioUrl": "audio/seinfeld/084_how_do_you_cross_those_wires_i_didn_t_cross_any_wires_the_ke.mp3"
@@ -18407,11 +13372,6 @@ const shows = [
         "text": "How you doin over there?",
         "character": "",
         "audioUrl": "audio/seinfeld/086_how_you_doin_over_there.mp3"
-      },
-      {
-        "text": "I can browse around on my own",
-        "character": "",
-        "audioUrl": "audio/seinfeld/087_i_can_browse_around_on_my_own.mp3"
       },
       {
         "text": "I can’t help you",
@@ -18429,16 +13389,6 @@ const shows = [
         "audioUrl": "audio/seinfeld/090_i_could_drop_you_like_a_bag_of_dirt.mp3"
       },
       {
-        "text": "I don't even know what you're talking about",
-        "character": "",
-        "audioUrl": "audio/seinfeld/091_i_don_t_even_know_what_you_re_talking_about.mp3"
-      },
-      {
-        "text": "I don't even really work here",
-        "character": "",
-        "audioUrl": "audio/seinfeld/092_i_don_t_even_really_work_here.mp3"
-      },
-      {
         "text": "I can't even make spaghetti",
         "character": "",
         "audioUrl": "audio/seinfeld/093_i_don_t_understand_how_do_these_thieves_start_the_car_do_the.mp3"
@@ -18449,14 +13399,9 @@ const shows = [
         "audioUrl": "audio/seinfeld/094_i_don_t_wanna_be_remembered_i_wanna_be_forgotten.mp3"
       },
       {
-        "text": "I Find You Extremely Ugly",
+        "text": "I find you extremely ugly",
         "character": "",
         "audioUrl": "audio/seinfeld/095_i_find_you_extremely_ugly.mp3"
-      },
-      {
-        "text": "I find your belief system, fascinating",
-        "character": "",
-        "audioUrl": "audio/seinfeld/096_i_find_your_belief_system_fascinating.mp3"
       },
       {
         "text": "I got a lot of problems with you people",
@@ -18464,7 +13409,7 @@ const shows = [
         "audioUrl": "audio/seinfeld/097_i_got_a_lot_of_problems_with_you_people_now_you_re_gonna_hea.mp3"
       },
       {
-        "text": "I Got It",
+        "text": "I got it",
         "character": "",
         "audioUrl": "audio/seinfeld/098_i_got_it.mp3"
       },
@@ -18484,22 +13429,12 @@ const shows = [
         "audioUrl": "audio/seinfeld/101_i_gotta_focus_i_m_shifting_into_soup_mode.mp3"
       },
       {
-        "text": "I Gotta Get Out Of This City",
-        "character": "",
-        "audioUrl": "audio/seinfeld/102_i_gotta_get_out_of_this_city.mp3"
-      },
-      {
-        "text": "I Hate Him",
-        "character": "",
-        "audioUrl": "audio/seinfeld/103_i_hate_him.mp3"
-      },
-      {
         "text": "I despise him",
         "character": "",
         "audioUrl": "audio/seinfeld/104_i_hate_you_hate_him_i_despise_him_why_i_ll_tell_you_why_let.mp3"
       },
       {
-        "text": "I Intend To Undertake This",
+        "text": "I intend to undertake this",
         "character": "",
         "audioUrl": "audio/seinfeld/105_i_intend_to_undertake_this.mp3"
       },
@@ -18514,7 +13449,7 @@ const shows = [
         "audioUrl": "audio/seinfeld/107_i_like_to_think_i_have_a_little_grace.mp3"
       },
       {
-        "text": "I Loathe You",
+        "text": "I loathe you",
         "character": "",
         "audioUrl": "audio/seinfeld/108_i_loathe_you.mp3"
       },
@@ -18529,27 +13464,12 @@ const shows = [
         "audioUrl": "audio/seinfeld/110_i_pinch_yourself_because_you_have_to_do_this_all_day_for_ver.mp3"
       },
       {
-        "text": "I Realized There Had to Be Another Way",
-        "character": "",
-        "audioUrl": "audio/seinfeld/111_i_realized_there_had_to_be_another_way.mp3"
-      },
-      {
-        "text": "I really think we need to talk",
-        "character": "",
-        "audioUrl": "audio/seinfeld/112_i_really_think_we_need_to_talk.mp3"
-      },
-      {
-        "text": "I Really Think We Need To Talk",
-        "character": "",
-        "audioUrl": "audio/seinfeld/113_i_really_think_we_need_to_talk.mp3"
-      },
-      {
         "text": "I said spread em!",
         "character": "",
         "audioUrl": "audio/seinfeld/114_i_said_spread_em.mp3"
       },
       {
-        "text": "I Stepped on Your Last Rose",
+        "text": "I stepped on your last rose",
         "character": "",
         "audioUrl": "audio/seinfeld/115_i_stepped_on_your_last_rose.mp3"
       },
@@ -18557,16 +13477,6 @@ const shows = [
         "text": "I stopped short",
         "character": "",
         "audioUrl": "audio/seinfeld/116_i_stopped_short.mp3"
-      },
-      {
-        "text": "I tell ya, I gotta plead ignorance on this thing",
-        "character": "",
-        "audioUrl": "audio/seinfeld/117_i_tell_ya_i_gotta_plead_ignorance_on_this_thing.mp3"
-      },
-      {
-        "text": "I think you have me confused",
-        "character": "",
-        "audioUrl": "audio/seinfeld/118_i_think_you_have_me_confused.mp3"
       },
       {
         "text": "I was in the pool!",
@@ -18579,12 +13489,7 @@ const shows = [
         "audioUrl": "audio/seinfeld/120_i_m_a_damn_good_cop.mp3"
       },
       {
-        "text": "I'm Back Baby",
-        "character": "",
-        "audioUrl": "audio/seinfeld/121_i_m_back_baby.mp3"
-      },
-      {
-        "text": "I'm Back Baby!",
+        "text": "I'm back baby!",
         "character": "",
         "audioUrl": "audio/seinfeld/122_i_m_back_baby.mp3"
       },
@@ -18599,26 +13504,6 @@ const shows = [
         "audioUrl": "audio/seinfeld/124_i_m_distrubed_i_m_depressed.mp3"
       },
       {
-        "text": "I'm gonna have to keep my eye on that",
-        "character": "",
-        "audioUrl": "audio/seinfeld/125_i_m_gonna_have_to_keep_my_eye_on_that.mp3"
-      },
-      {
-        "text": "I'm gonna let you off",
-        "character": "",
-        "audioUrl": "audio/seinfeld/126_i_m_gonna_let_you_off.mp3"
-      },
-      {
-        "text": "I'm gonna need some water",
-        "character": "",
-        "audioUrl": "audio/seinfeld/127_i_m_gonna_need_some_water.mp3"
-      },
-      {
-        "text": "I'm Gonna Need Some Water Here",
-        "character": "",
-        "audioUrl": "audio/seinfeld/128_i_m_gonna_need_some_water_here.mp3"
-      },
-      {
         "text": "I'm hip to the whole scene",
         "character": "",
         "audioUrl": "audio/seinfeld/129_i_m_hip_to_the_whole_scene.mp3"
@@ -18629,24 +13514,9 @@ const shows = [
         "audioUrl": "audio/seinfeld/130_i_m_keith_hernandez.mp3"
       },
       {
-        "text": "I'm not gonna betray that trust",
-        "character": "",
-        "audioUrl": "audio/seinfeld/131_i_m_not_gonna_betray_that_trust.mp3"
-      },
-      {
         "text": "I'm not treating you to lunch anymore!",
         "character": "",
         "audioUrl": "audio/seinfeld/132_i_m_not_treating_you_to_lunch_anymore.mp3"
-      },
-      {
-        "text": "I'm really sorry.",
-        "character": "",
-        "audioUrl": "audio/seinfeld/134_i_m_really_sorry.mp3"
-      },
-      {
-        "text": "I'm So Sorry",
-        "character": "",
-        "audioUrl": "audio/seinfeld/135_i_m_so_sorry.mp3"
       },
       {
         "text": "I'm sorry, the card says Moops.",
@@ -18654,7 +13524,7 @@ const shows = [
         "audioUrl": "audio/seinfeld/136_i_m_sorry_the_card_says_moops.mp3"
       },
       {
-        "text": "I'm The Opposite Of Every Guy",
+        "text": "I'm the opposite of every guy",
         "character": "",
         "audioUrl": "audio/seinfeld/137_i_m_the_opposite_of_every_guy.mp3"
       },
@@ -18679,24 +13549,14 @@ const shows = [
         "audioUrl": "audio/seinfeld/141_if_a_doctor_can_do_it_why_can_t_we.mp3"
       },
       {
-        "text": "In A Sack",
+        "text": "In a sack",
         "character": "",
         "audioUrl": "audio/seinfeld/142_in_a_sack.mp3"
       },
       {
-        "text": "Installing a Clarkman Garbage Disposal",
+        "text": "Installing a Clarkman garbage disposal",
         "character": "",
         "audioUrl": "audio/seinfeld/143_installing_a_clarkman_garbage_disposal.mp3"
-      },
-      {
-        "text": "Is That How You're Going To Say It",
-        "character": "",
-        "audioUrl": "audio/seinfeld/144_is_that_how_you_re_going_to_say_it.mp3"
-      },
-      {
-        "text": "It's a Festivus Miracle!",
-        "character": "",
-        "audioUrl": "audio/seinfeld/146_it_s_a_festivus_miracle.mp3"
       },
       {
         "text": "It's a perfect plan",
@@ -18709,7 +13569,7 @@ const shows = [
         "audioUrl": "audio/seinfeld/148_it_s_an_eyelash_make_a_wish_i_don_t_want_to_make_a_wish_didn.mp3"
       },
       {
-        "text": "It's Not A Lie If You Believe It",
+        "text": "It's not a lie if you believe it",
         "character": "",
         "audioUrl": "audio/seinfeld/150_it_s_not_a_lie_if_you_believe_it.mp3"
       },
@@ -18719,17 +13579,12 @@ const shows = [
         "audioUrl": "audio/seinfeld/151_it_s_not_a_lie_if_you_believe_it.mp3"
       },
       {
-        "text": "It's not the same",
-        "character": "",
-        "audioUrl": "audio/seinfeld/152_it_s_not_the_same.mp3"
-      },
-      {
-        "text": "It's Not The SATs",
+        "text": "It's not the SATs",
         "character": "",
         "audioUrl": "audio/seinfeld/153_it_s_not_the_sats.mp3"
       },
       {
-        "text": "It's Not You, It's Me",
+        "text": "It's not you, it's me",
         "character": "",
         "audioUrl": "audio/seinfeld/154_it_s_not_you_it_s_me.mp3"
       },
@@ -18759,19 +13614,9 @@ const shows = [
         "audioUrl": "audio/seinfeld/176_kramer_he_s_just_a_dentist_yeah_and_you_re_an_anti_dentite_i.mp3"
       },
       {
-        "text": "Let's Have A Looksy",
-        "character": "",
-        "audioUrl": "audio/seinfeld/179_let_s_have_a_looksy.mp3"
-      },
-      {
         "text": "Let’s get nuts",
         "character": "",
         "audioUrl": "audio/seinfeld/181_let_s_get_nuts.mp3"
-      },
-      {
-        "text": "Lets keep it that way",
-        "character": "",
-        "audioUrl": "audio/seinfeld/182_lets_keep_it_that_way.mp3"
       },
       {
         "text": "Living in the past man",
@@ -18779,12 +13624,7 @@ const shows = [
         "audioUrl": "audio/seinfeld/183_living_in_the_past_man.mp3"
       },
       {
-        "text": "Look At This",
-        "character": "",
-        "audioUrl": "audio/seinfeld/184_look_at_this.mp3"
-      },
-      {
-        "text": "Look Away I'm Hideous",
+        "text": "Look away I'm hideous",
         "character": "",
         "audioUrl": "audio/seinfeld/185_look_away_i_m_hideous.mp3"
       },
@@ -18804,7 +13644,7 @@ const shows = [
         "audioUrl": "audio/seinfeld/189_make_love_to_that_wall_pervert.mp3"
       },
       {
-        "text": "Movie Theater Noise",
+        "text": "Movie theater noise",
         "character": "",
         "audioUrl": "audio/seinfeld/190_movie_theater_noise.mp3"
       },
@@ -18829,7 +13669,7 @@ const shows = [
         "audioUrl": "audio/seinfeld/194_my_mother_always_said_i_m_not_special.mp3"
       },
       {
-        "text": "My Mother Caught Me",
+        "text": "My mother caught me",
         "character": "",
         "audioUrl": "audio/seinfeld/195_my_mother_caught_me.mp3"
       },
@@ -18839,12 +13679,12 @@ const shows = [
         "audioUrl": "audio/seinfeld/196_name_baby_seven.mp3"
       },
       {
-        "text": "Newman Insult Full Scene",
+        "text": "Newman insult full scene",
         "character": "",
         "audioUrl": "audio/seinfeld/197_newman_insult_full_scene.mp3"
       },
       {
-        "text": "No No No No No",
+        "text": "No no no no no",
         "character": "",
         "audioUrl": "audio/seinfeld/199_no_no_no_no_no.mp3"
       },
@@ -18854,47 +13694,12 @@ const shows = [
         "audioUrl": "audio/seinfeld/200_no_offense_this_holiday_s_a_little_out_there.mp3"
       },
       {
-        "text": "No soup for you!",
-        "character": "",
-        "audioUrl": "audio/seinfeld/202_no_soup_for_you.mp3"
-      },
-      {
-        "text": "No Tippy Toe?",
-        "character": "",
-        "audioUrl": "audio/seinfeld/203_no_tippy_toe.mp3"
-      },
-      {
-        "text": "No, no, I'm working on it.",
-        "character": "",
-        "audioUrl": "audio/seinfeld/204_no_no_i_m_working_on_it.mp3"
-      },
-      {
         "text": "You don't know how to act",
         "character": "",
         "audioUrl": "audio/seinfeld/205_no_no_see_that_s_no_good_see_you_don_t_know_how_to_act.mp3"
       },
       {
-        "text": "Nobody came up. I hang up.",
-        "character": "",
-        "audioUrl": "audio/seinfeld/206_nobody_came_up_i_hang_up.mp3"
-      },
-      {
-        "text": "Not an Orgy Guy",
-        "character": "",
-        "audioUrl": "audio/seinfeld/207_not_an_orgy_guy.mp3"
-      },
-      {
-        "text": "Not that there's anything wrong with that",
-        "character": "",
-        "audioUrl": "audio/seinfeld/208_not_that_there_s_anything_wrong_with_that.mp3"
-      },
-      {
-        "text": "Not To Run",
-        "character": "",
-        "audioUrl": "audio/seinfeld/209_not_to_run.mp3"
-      },
-      {
-        "text": "The Feats of Strength",
+        "text": "The feats of strength",
         "character": "",
         "audioUrl": "audio/seinfeld/211_now_as_festivus_rolls_on_we_come_to_the_feats_of_strength.mp3"
       },
@@ -18909,24 +13714,9 @@ const shows = [
         "audioUrl": "audio/seinfeld/214_oh_i_m_stressed.mp3"
       },
       {
-        "text": "Oh my God.",
-        "character": "",
-        "audioUrl": "audio/seinfeld/215_oh_my_god.mp3"
-      },
-      {
-        "text": "Oh not a problem",
-        "character": "",
-        "audioUrl": "audio/seinfeld/216_oh_not_a_problem.mp3"
-      },
-      {
         "text": "Oh, the humanity!",
         "character": "",
         "audioUrl": "audio/seinfeld/217_oh_the_humanity.mp3"
-      },
-      {
-        "text": "One in a Million Hand",
-        "character": "",
-        "audioUrl": "audio/seinfeld/219_one_in_a_million_hand.mp3"
       },
       {
         "text": "Outrageous, egregious, preposterous!",
@@ -18934,27 +13724,17 @@ const shows = [
         "audioUrl": "audio/seinfeld/220_outrageous_egregious_preposterous.mp3"
       },
       {
-        "text": "Problem For Them",
+        "text": "Problem for them",
         "character": "",
         "audioUrl": "audio/seinfeld/224_problem_for_them.mp3"
       },
       {
-        "text": "Serenity Now, Insanity Later",
+        "text": "Serenity now, insanity later",
         "character": "",
         "audioUrl": "audio/seinfeld/252_serenity_now_insanity_later.mp3"
       },
       {
-        "text": "Serenity now!",
-        "character": "",
-        "audioUrl": "audio/seinfeld/255_serenity_now_cantsantya.mp3"
-      },
-      {
-        "text": "Shut up. Shut up.",
-        "character": "",
-        "audioUrl": "audio/seinfeld/256_shut_up_shut_up.mp3"
-      },
-      {
-        "text": "Shut Your Mouth",
+        "text": "Shut your mouth",
         "character": "",
         "audioUrl": "audio/seinfeld/257_shut_your_mouth.mp3"
       },
@@ -18984,7 +13764,7 @@ const shows = [
         "audioUrl": "audio/seinfeld/267_sweep_yes_sweep.mp3"
       },
       {
-        "text": "Sweet Fancy Moses",
+        "text": "Sweet fancy Moses",
         "character": "",
         "audioUrl": "audio/seinfeld/268_sweet_fancy_moses.mp3"
       },
@@ -18999,34 +13779,14 @@ const shows = [
         "audioUrl": "audio/seinfeld/270_taking_care_of_business.mp3"
       },
       {
-        "text": "That is so cool!",
-        "character": "",
-        "audioUrl": "audio/seinfeld/271_that_is_so_cool.mp3"
-      },
-      {
-        "text": "That's a shame",
-        "character": "",
-        "audioUrl": "audio/seinfeld/272_that_s_a_shame.mp3"
-      },
-      {
-        "text": "That's Gold Jerry, Gold",
+        "text": "That's gold Jerry, gold",
         "character": "",
         "audioUrl": "audio/seinfeld/274_that_s_gold_jerry_gold.mp3"
       },
       {
-        "text": "That's GOLD Jerry!",
+        "text": "That's gold Jerry!",
         "character": "",
         "audioUrl": "audio/seinfeld/275_that_s_gold_jerry.mp3"
-      },
-      {
-        "text": "That's my car.",
-        "character": "",
-        "audioUrl": "audio/seinfeld/276_that_s_my_car.mp3"
-      },
-      {
-        "text": "That's No Good",
-        "character": "",
-        "audioUrl": "audio/seinfeld/277_that_s_no_good.mp3"
       },
       {
         "text": "That's not going to be good for business",
@@ -19034,27 +13794,22 @@ const shows = [
         "audioUrl": "audio/seinfeld/278_that_s_not_going_to_be_good_for_business.mp3"
       },
       {
-        "text": "The Answering Machine",
+        "text": "The answering machine",
         "character": "",
         "audioUrl": "audio/seinfeld/279_the_answering_machine.mp3"
       },
       {
-        "text": "The best, Jerry, the best! (Kenny Bania)",
-        "character": "",
-        "audioUrl": "audio/seinfeld/280_the_best_jerry_the_best_kenny_bania.mp3"
-      },
-      {
-        "text": "The Big Salad",
+        "text": "The big salad",
         "character": "",
         "audioUrl": "audio/seinfeld/281_the_big_salad.mp3"
       },
       {
-        "text": "The Festivus Dinner",
+        "text": "The Festivus dinner",
         "character": "",
         "audioUrl": "audio/seinfeld/282_the_festivus_dinner.mp3"
       },
       {
-        "text": "The Jerk Store Called",
+        "text": "The jerk store called",
         "character": "",
         "audioUrl": "audio/seinfeld/283_the_jerk_store_called.mp3"
       },
@@ -19074,7 +13829,7 @@ const shows = [
         "audioUrl": "audio/seinfeld/287_the_tradition_of_festivus_begins_with_the_airing_of_grievanc.mp3"
       },
       {
-        "text": "There's Nothing Funny About That",
+        "text": "There's nothing funny about that",
         "character": "",
         "audioUrl": "audio/seinfeld/288_there_s_nothing_funny_about_that.mp3"
       },
@@ -19084,7 +13839,7 @@ const shows = [
         "audioUrl": "audio/seinfeld/289_these_pretzels_are_making_me_thirsty.mp3"
       },
       {
-        "text": "These Pretzels are Making Me Thirsty",
+        "text": "These pretzels are making me thirsty",
         "character": "",
         "audioUrl": "audio/seinfeld/290_these_pretzels_are_making_me_thirsty.mp3"
       },
@@ -19104,37 +13859,17 @@ const shows = [
         "audioUrl": "audio/seinfeld/293_they_re_real_and_they_re_spectacular.mp3"
       },
       {
-        "text": "This Is Anarchy!",
-        "character": "",
-        "audioUrl": "audio/seinfeld/294_this_is_anarchy.mp3"
-      },
-      {
-        "text": "This man is a genius",
-        "character": "",
-        "audioUrl": "audio/seinfeld/295_this_man_is_a_genius.mp3"
-      },
-      {
-        "text": "This whole place is going downhill",
-        "character": "",
-        "audioUrl": "audio/seinfeld/296_this_whole_place_is_going_downhill.mp3"
-      },
-      {
-        "text": "Today is your lucky day junior",
-        "character": "",
-        "audioUrl": "audio/seinfeld/298_today_is_your_lucky_day_junior.mp3"
-      },
-      {
-        "text": "Toilet Paper Elaine",
+        "text": "Toilet paper Elaine",
         "character": "",
         "audioUrl": "audio/seinfeld/299_toilet_paper_elaine.mp3"
       },
       {
-        "text": "Tried to Be Nice",
+        "text": "Tried to be nice",
         "character": "",
         "audioUrl": "audio/seinfeld/300_tried_to_be_nice.mp3"
       },
       {
-        "text": "Unfortunately The Immutable Laws Of Physics",
+        "text": "Unfortunately the immutable laws of physics",
         "character": "",
         "audioUrl": "audio/seinfeld/301_unfortunately_the_immutable_laws_of_physics.mp3"
       },
@@ -19144,27 +13879,22 @@ const shows = [
         "audioUrl": "audio/seinfeld/302_unfortunately_we_ran_out_of_cars_but_the_reservation_keeps_t.mp3"
       },
       {
-        "text": "UNO MOMENTO, POR FAVOR!",
+        "text": "Uno momento, por favor!",
         "character": "",
         "audioUrl": "audio/seinfeld/303_uno_momento_por_favor.mp3"
       },
       {
-        "text": "Was that wrong?",
-        "character": "",
-        "audioUrl": "audio/seinfeld/305_was_that_wrong.mp3"
-      },
-      {
-        "text": "Wasn't Talking To You",
+        "text": "Wasn't talking to you",
         "character": "",
         "audioUrl": "audio/seinfeld/306_wasn_t_talking_to_you.mp3"
       },
       {
-        "text": "We All Want the Hand",
+        "text": "We all want the hand",
         "character": "",
         "audioUrl": "audio/seinfeld/307_we_all_want_the_hand.mp3"
       },
       {
-        "text": "We Are In A Society",
+        "text": "We are in a society",
         "character": "",
         "audioUrl": "audio/seinfeld/308_we_are_in_a_society.mp3"
       },
@@ -19174,7 +13904,7 @@ const shows = [
         "audioUrl": "audio/seinfeld/309_we_are_living_in_a_society_act_in_a_civilized_way.mp3"
       },
       {
-        "text": "We Want You to Get Well",
+        "text": "We want you to get well",
         "character": "",
         "audioUrl": "audio/seinfeld/310_we_want_you_to_get_well.mp3"
       },
@@ -19184,44 +13914,9 @@ const shows = [
         "audioUrl": "audio/seinfeld/311_we_re_moving_to_florida.mp3"
       },
       {
-        "text": "Well Now We’re Gettin’ Somewhere",
+        "text": "Well now we’re gettin’ somewhere",
         "character": "",
         "audioUrl": "audio/seinfeld/312_well_now_we_re_gettin_somewhere.mp3"
-      },
-      {
-        "text": "What Are We Going To Do There",
-        "character": "",
-        "audioUrl": "audio/seinfeld/313_what_are_we_going_to_do_there.mp3"
-      },
-      {
-        "text": "What are you eating?",
-        "character": "",
-        "audioUrl": "audio/seinfeld/314_what_are_you_eating.mp3"
-      },
-      {
-        "text": "What do you mean you're not gonna do it?",
-        "character": "",
-        "audioUrl": "audio/seinfeld/315_what_do_you_mean_you_re_not_gonna_do_it.mp3"
-      },
-      {
-        "text": "What the hell do I know about cooking a shirt?",
-        "character": "",
-        "audioUrl": "audio/seinfeld/316_what_the_hell_do_i_know_about_cooking_a_shirt.mp3"
-      },
-      {
-        "text": "What the hell does that mean?",
-        "character": "",
-        "audioUrl": "audio/seinfeld/317_what_the_hell_does_that_mean.mp3"
-      },
-      {
-        "text": "Who Could Love Me?",
-        "character": "",
-        "audioUrl": "audio/seinfeld/318_who_could_love_me.mp3"
-      },
-      {
-        "text": "Who Could Love Me?",
-        "character": "",
-        "audioUrl": "audio/seinfeld/319_who_could_love_me.mp3"
       },
       {
         "text": "Would it kill you not to be funny?",
@@ -19229,7 +13924,7 @@ const shows = [
         "audioUrl": "audio/seinfeld/321_would_it_kill_you_not_to_be_so_funny_all_the_time.mp3"
       },
       {
-        "text": "Would It Kill You To Not Be Funny",
+        "text": "Would it kill you to not be funny",
         "character": "",
         "audioUrl": "audio/seinfeld/322_would_it_kill_you_to_not_be_funny.mp3"
       },
@@ -19237,11 +13932,6 @@ const shows = [
         "text": "Would you like to come up for some coffee?",
         "character": "",
         "audioUrl": "audio/seinfeld/323_would_you_like_to_come_up_for_some_coffee.mp3"
-      },
-      {
-        "text": "Wow, that was fast",
-        "character": "",
-        "audioUrl": "audio/seinfeld/324_wow_that_was_fast.mp3"
       },
       {
         "text": "She's gonna get you next",
@@ -19254,27 +13944,12 @@ const shows = [
         "audioUrl": "audio/seinfeld/326_yada_yada_yada.mp3"
       },
       {
-        "text": "Yada yada yada, I'm still single",
-        "character": "",
-        "audioUrl": "audio/seinfeld/327_yada_yada_yada_i_m_still_single.mp3"
-      },
-      {
-        "text": "Yadda yadda yadda. I'm really tired today.",
-        "character": "",
-        "audioUrl": "audio/seinfeld/328_yadda_yadda_yadda_i_m_really_tired_today.mp3"
-      },
-      {
         "text": "I hate everybody",
         "character": "",
         "audioUrl": "audio/seinfeld/330_yeah_well_he_s_in_perfect_health_he_works_out_he_s_vibrant_h.mp3"
       },
       {
-        "text": "You Anti Dentite bastard",
-        "character": "",
-        "audioUrl": "audio/seinfeld/332_you_anti_dentite_bastard.mp3"
-      },
-      {
-        "text": "You Are Nothing But a Piece of Crap",
+        "text": "You are nothing but a piece of crap",
         "character": "",
         "audioUrl": "audio/seinfeld/333_you_are_nothing_but_a_piece_of_crap.mp3"
       },
@@ -19289,39 +13964,19 @@ const shows = [
         "audioUrl": "audio/seinfeld/335_you_don_t_ask_you_tell.mp3"
       },
       {
-        "text": "You Emit a Foul and Unpleasant Odor",
+        "text": "You emit a foul and unpleasant odor",
         "character": "",
         "audioUrl": "audio/seinfeld/336_you_emit_a_foul_and_unpleasant_odor.mp3"
       },
       {
-        "text": "You Gotta Get Some Lifts for Your Shoes",
+        "text": "You gotta get some lifts for your shoes",
         "character": "",
         "audioUrl": "audio/seinfeld/337_you_gotta_get_some_lifts_for_your_shoes.mp3"
-      },
-      {
-        "text": "You hurt the maestro's feelings",
-        "character": "",
-        "audioUrl": "audio/seinfeld/338_you_hurt_the_maestro_s_feelings.mp3"
-      },
-      {
-        "text": "You just blew my mind",
-        "character": "",
-        "audioUrl": "audio/seinfeld/339_you_just_blew_my_mind.mp3"
       },
       {
         "text": "Dentists came here just like everybody",
         "character": "",
         "audioUrl": "audio/seinfeld/340_you_think_that_dentists_are_so_different_from_me_and_you_the.mp3"
-      },
-      {
-        "text": "You wanna piece of me?",
-        "character": "",
-        "audioUrl": "audio/seinfeld/341_you_wanna_piece_of_me.mp3"
-      },
-      {
-        "text": "You're An Idiot",
-        "character": "",
-        "audioUrl": "audio/seinfeld/342_you_re_an_idiot.mp3"
       },
       {
         "text": "You're banned from the store",
@@ -19332,11 +13987,6 @@ const shows = [
         "text": "You're not very bright, are you?",
         "character": "",
         "audioUrl": "audio/seinfeld/344_you_re_not_very_bright_are_you.mp3"
-      },
-      {
-        "text": "You're scheming arent you?",
-        "character": "",
-        "audioUrl": "audio/seinfeld/345_you_re_scheming_arent_you.mp3"
       },
       {
         "text": "You're telling me wine is better than pepsi?",
@@ -19372,29 +14022,14 @@ const shows = [
         "audioUrl": "audio/the-simpsons/001_a_free_sample_on_gasoline.mp3"
       },
       {
-        "text": "Ah faithful toilet",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/002_ah_faithful_toilet.mp3"
-      },
-      {
         "text": "Obese man in a fat man's body",
         "character": "",
         "audioUrl": "audio/the-simpsons/004_all_my_life_i_ve_been_obese_man_trapped_inside_a_fat_man_s_b.mp3"
       },
       {
-        "text": "Computer hacking makes me thirsty",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/005_all_this_computer_hacking_is_making_me_thirsty.mp3"
-      },
-      {
         "text": "Wizards went straight to Hell",
         "character": "",
         "audioUrl": "audio/the-simpsons/006_and_all_his_wizard_friends_went_straight_to_hell_for_practic.mp3"
-      },
-      {
-        "text": "And clean up that mess",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/007_and_clean_up_that_mess.mp3"
       },
       {
         "text": "Not mere objects with curves",
@@ -19405,26 +14040,6 @@ const shows = [
         "text": "No help from their parents",
         "character": "",
         "audioUrl": "audio/the-simpsons/009_and_special_awards_go_to_the_two_students_who_obviously_had.mp3"
-      },
-      {
-        "text": "Another chance to be bad",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/010_another_chance_to_be_bad.mp3"
-      },
-      {
-        "text": "Apu Nisa Federal",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/011_apu_nisa_federal.mp3"
-      },
-      {
-        "text": "I'm stuck, help me!",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/012_argh_i_m_stuck_help_me.mp3"
-      },
-      {
-        "text": "Trying new things",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/014_at_least_i_m_out_there_trying_new_things.mp3"
       },
       {
         "text": "These women are guilty",
@@ -19442,24 +14057,9 @@ const shows = [
         "audioUrl": "audio/the-simpsons/020_barney_don_t_steal_any_beer_while_i_m_gone.mp3"
       },
       {
-        "text": "Bart talking gibberish",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/021_bart_talking_gibberish.mp3"
-      },
-      {
         "text": "Wanna see my new chainsaw?",
         "character": "",
         "audioUrl": "audio/the-simpsons/022_bart_do_you_want_to_see_my_new_chainsaw_oh_sorry_what_am_i_t.mp3"
-      },
-      {
-        "text": "We're the parents, you're the children",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/023_because_we_re_the_parents_and_you_re_the_children.mp3"
-      },
-      {
-        "text": "Begun to my sect",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/025_begun_to_my_sect.mp3"
       },
       {
         "text": "You've got the shinin",
@@ -19472,21 +14072,6 @@ const shows = [
         "audioUrl": "audio/the-simpsons/027_but_not_i_was_funny_that_was_funny_yet_taken_away_my_dignity.mp3"
       },
       {
-        "text": "Can I throw up in your bathroom?",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/028_can_i_throw_up_in_your_bathroom.mp3"
-      },
-      {
-        "text": "Come on, I dare ya",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/029_come_on_i_dare_ya.mp3"
-      },
-      {
-        "text": "My trademark change of heart",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/030_cool_in_the_sweet_i_did_with_my_trademark_changes_of_heart.mp3"
-      },
-      {
         "text": "It's brain surgery",
         "character": "",
         "audioUrl": "audio/the-simpsons/033_damn_it_smithers_this_isn_t_rocket_science_it_s_brain_surger.mp3"
@@ -19497,44 +14082,14 @@ const shows = [
         "audioUrl": "audio/the-simpsons/034_dispatch_this_is_chief_wiggum_back_in_persuit_of_the_rebelli.mp3"
       },
       {
-        "text": "Do we have to?",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/035_do_we_have_to.mp3"
-      },
-      {
-        "text": "Shake to do work committee",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/036_do_you_gotta_go_shake_to_do_work_committee.mp3"
-      },
-      {
         "text": "Humming",
         "character": "",
         "audioUrl": "audio/the-simpsons/039_doh_deh_doh_dah_dih_dah.mp3"
       },
       {
-        "text": "Doh, doh, doh",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/040_doh_doh_doh.mp3"
-      },
-      {
         "text": "Don't feel bad for losin",
         "character": "",
         "audioUrl": "audio/the-simpsons/043_don_t_feel_bad_for_losin.mp3"
-      },
-      {
-        "text": "Don't have a cow",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/044_don_t_have_a_cow.mp3"
-      },
-      {
-        "text": "Don't have a cow, dad",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/045_don_t_have_a_cow_dad.mp3"
-      },
-      {
-        "text": "Don't lie to me boy",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/046_don_t_lie_to_me_boy.mp3"
       },
       {
         "text": "Purple's a fruit",
@@ -19550,11 +14105,6 @@ const shows = [
         "text": "Humming",
         "character": "",
         "audioUrl": "audio/the-simpsons/051_dum_dee_dum_dah.mp3"
-      },
-      {
-        "text": "Eat my shorts",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/052_eat_my_shorts.mp3"
       },
       {
         "text": "English, who needs that?",
@@ -19587,44 +14137,9 @@ const shows = [
         "audioUrl": "audio/the-simpsons/060_go_ahead_water_it_down_some_more.mp3"
       },
       {
-        "text": "Go to bed!",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/061_go_to_bed.mp3"
-      },
-      {
         "text": "Build yourself an Arky Arky",
         "character": "",
         "audioUrl": "audio/the-simpsons/062_god_said_to_noah_build_yourself_an_arky_arky.mp3"
-      },
-      {
-        "text": "Guess who likes you?",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/063_guess_who_likes_you.mp3"
-      },
-      {
-        "text": "Scaredy cat",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/064_ha_ha_ha_scaredy_cat.mp3"
-      },
-      {
-        "text": "Some idiot actually called in",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/065_ha_ha_some_idiot_actually_called_in.mp3"
-      },
-      {
-        "text": "Have a good life",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/067_have_a_good_life.mp3"
-      },
-      {
-        "text": "Have you got any grease?",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/068_have_you_got_any_greese.mp3"
-      },
-      {
-        "text": "Have you started smoking?",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/069_have_you_started_smoking.mp3"
       },
       {
         "text": "You can't handle the truth",
@@ -19642,79 +14157,14 @@ const shows = [
         "audioUrl": "audio/the-simpsons/073_hello_i_m_doctor_cheeks_i_do_my_rounds_and_i_m_a_little_behi.mp3"
       },
       {
-        "text": "Hello steady customer",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/074_hello_steady_customer_how_are_you_this_evening_sir.mp3"
-      },
-      {
-        "text": "Hello, what's your name?",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/075_hello_what_s_your_name.mp3"
-      },
-      {
         "text": "Hello-dilly-dally",
         "character": "",
         "audioUrl": "audio/the-simpsons/076_hello_hello_hello_dailodily.mp3"
       },
       {
-        "text": "Hi, I'm Troy McClure",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/077_hi_i_m_troy_mcclure.mp3"
-      },
-      {
-        "text": "Hi, join the party!",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/078_hi_join_the_party.mp3"
-      },
-      {
-        "text": "Only if you hold me",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/079_hold_me_only_if_you_hold_me.mp3"
-      },
-      {
-        "text": "How can you desert your children?",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/082_how_can_you_desert_your_children.mp3"
-      },
-      {
-        "text": "How sweet it is",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/083_how_sweet_it_is.mp3"
-      },
-      {
         "text": "I am evil Homer",
         "character": "",
         "audioUrl": "audio/the-simpsons/084_i_am_evil_homer_i_am_evil_homer_i_am_evil_homer_i_am_evil_ho.mp3"
-      },
-      {
-        "text": "The thing from Uranus",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/085_i_am_the_thing_from_uranus.mp3"
-      },
-      {
-        "text": "Gotta take my wife to the ballet",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/086_i_can_t_i_got_to_take_my_wife_to_the_ballet.mp3"
-      },
-      {
-        "text": "If I put my mind to it",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/087_i_could_do_anything_if_i_just_put_my_mind_to_it.mp3"
-      },
-      {
-        "text": "I didn't do it",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/088_i_didn_t_do_it.mp3"
-      },
-      {
-        "text": "I don't know",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/089_i_don_t_know.mp3"
-      },
-      {
-        "text": "Didn't expect him to say that",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/090_i_don_t_think_any_of_us_expected_him_to_say_that.mp3"
       },
       {
         "text": "I passed, I kissed the teacher",
@@ -19727,11 +14177,6 @@ const shows = [
         "audioUrl": "audio/the-simpsons/092_i_heard_your_dad_went_into_a_restaurant_it_ain_t_everything.mp3"
       },
       {
-        "text": "Admiral Butt Head",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/093_i_i_admiral_butt_head.mp3"
-      },
-      {
         "text": "The fireman wrote me a note",
         "character": "",
         "audioUrl": "audio/the-simpsons/094_i_know_you_didn_t_believe_me_about_the_vending_machine_that.mp3"
@@ -19740,16 +14185,6 @@ const shows = [
         "text": "No any key",
         "character": "",
         "audioUrl": "audio/the-simpsons/095_i_see_esc_ctrl_and_pg_up_there_doesn_t_seem_to_be_any_any_ke.mp3"
-      },
-      {
-        "text": "Cut of your gibberish",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/096_i_sure_like_the_cut_of_your_gibberish.mp3"
-      },
-      {
-        "text": "I'll have some wine",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/097_i_think_i_ll_have_some_wine.mp3"
       },
       {
         "text": "Fat disgusting slob (burp)",
@@ -19767,49 +14202,9 @@ const shows = [
         "audioUrl": "audio/the-simpsons/100_i_was_just_going_through_your_garbage_and_i_couldn_t_help_ov.mp3"
       },
       {
-        "text": "More animal than man",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/101_i_was_more_animal_than_ma.mp3"
-      },
-      {
-        "text": "I won, I won!",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/102_i_won_i_won.mp3"
-      },
-      {
-        "text": "Sell my soul for a donut",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/103_i_d_sell_my_soul_for_a_donut.mp3"
-      },
-      {
-        "text": "I'm a Star Wars!",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/104_i_m_a_star_wars.mp3"
-      },
-      {
-        "text": "Sorry doesn't cut it with this Pope",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/105_i_m_afraid_sorry_doesn_t_cut_it_with_this_pope.mp3"
-      },
-      {
-        "text": "I'm really, really sorry",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/106_i_m_really_really_really_sorry.mp3"
-      },
-      {
-        "text": "Magical man from happy land",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/107_i_m_the_magical_man_from_happy_land.mp3"
-      },
-      {
         "text": "Turn you all to cinders",
         "character": "",
         "audioUrl": "audio/the-simpsons/108_if_elected_mayor_my_first_act_will_be_to_kill_the_whole_lot.mp3"
-      },
-      {
-        "text": "Work and go to church",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/109_if_it_were_up_to_you_all_we_would_ever_do_is_work_and_go_to.mp3"
       },
       {
         "text": "If it's hard, it's not worth doing",
@@ -19837,44 +14232,14 @@ const shows = [
         "audioUrl": "audio/the-simpsons/114_is_punishment_for_your_decision_it_s_company_policy_to_give.mp3"
       },
       {
-        "text": "Isn't life grand?",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/115_isn_t_life_grand.mp3"
-      },
-      {
-        "text": "Isn't that the wrong way?",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/116_isn_t_that_the_wrong_way.mp3"
-      },
-      {
         "text": "Cheese-eating surrender monkeys",
         "character": "",
         "audioUrl": "audio/the-simpsons/117_it_isn_t_that_groundskeeper_willie_teaching_french_then_you.mp3"
       },
       {
-        "text": "It sure does",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/118_it_sure_does.mp3"
-      },
-      {
-        "text": "It was like that when I got here",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/119_it_was_like_that_when_i_got_here.mp3"
-      },
-      {
-        "text": "It's all yours",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/120_it_s_all_yours.mp3"
-      },
-      {
-        "text": "First and last Blackberry Schnapps",
+        "text": "First and last blackberry schnapps",
         "character": "",
         "audioUrl": "audio/the-simpsons/121_it_s_been_4000_days_since_my_last_drink_it_was_my_first_and.mp3"
-      },
-      {
-        "text": "It's time for Church!",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/122_it_s_time_for_church.mp3"
       },
       {
         "text": "Itchy and Scratchy theme",
@@ -19882,34 +14247,9 @@ const shows = [
         "audioUrl": "audio/the-simpsons/123_itchy_and_scratchy_theme.mp3"
       },
       {
-        "text": "Just like Oscar the Grouch",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/124_just_like_oscar_the_grouch.mp3"
-      },
-      {
         "text": "You failed miserably",
         "character": "",
         "audioUrl": "audio/the-simpsons/125_kids_you_ve_tried_your_best_and_you_failed_miserably.mp3"
-      },
-      {
-        "text": "Quick nine at the Pitch 'n' Putt",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/126_let_s_get_in_a_quick_nine_down_at_the_pitch_n_putt.mp3"
-      },
-      {
-        "text": "That kid's got bosoms!",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/127_look_that_kid_s_got_bosoms.mp3"
-      },
-      {
-        "text": "Classic compulsive behavior",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/128_man_this_classic_compulsive_behavior.mp3"
-      },
-      {
-        "text": "What's gotten into you?",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/129_man_what_s_gotten_into_you.mp3"
       },
       {
         "text": "Meats of our cultural stew",
@@ -19927,16 +14267,6 @@ const shows = [
         "audioUrl": "audio/the-simpsons/133_me_fail_english_that_s_unpossible.mp3"
       },
       {
-        "text": "Mmm, forbidden doughnut",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/135_mmm_forbidden_doughnut.mp3"
-      },
-      {
-        "text": "Mmm, invisible cola",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/136_mmm_invisible_cola.mp3"
-      },
-      {
         "text": "Mmm, urinal fresh",
         "character": "",
         "audioUrl": "audio/the-simpsons/138_mmm_urinal_fresh.mp3"
@@ -19947,64 +14277,14 @@ const shows = [
         "audioUrl": "audio/the-simpsons/140_my_fee_is_175_an_hour.mp3"
       },
       {
-        "text": "My name is Ned",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/141_my_name_is_ned.mp3"
-      },
-      {
-        "text": "No jokes, no taunting",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/143_no_jokes_no_taunting.mp3"
-      },
-      {
-        "text": "No beer bring pain",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/144_no_no_beer_bring_pain.mp3"
-      },
-      {
-        "text": "No she won't",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/145_no_she_won_t.mp3"
-      },
-      {
         "text": "Marge's time to shine",
         "character": "",
         "audioUrl": "audio/the-simpsons/147_now_it_s_marge_is_time_to_shine.mp3"
       },
       {
-        "text": "Let's burn rubber baby",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/148_now_let_s_burn_rubber_baby.mp3"
-      },
-      {
-        "text": "Oakily doakily doo!",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/149_oakily_doakily_doo.mp3"
-      },
-      {
         "text": "Magical man from happy land",
         "character": "",
         "audioUrl": "audio/the-simpsons/150_oh_look_at_me_i_m_making_people_happy_i_m_the_magical_man_fr.mp3"
-      },
-      {
-        "text": "Oh oh oh",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/151_oh_oh_oh.mp3"
-      },
-      {
-        "text": "Oh, a wise guy, eh?",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/152_oh_a_wise_guy_eh.mp3"
-      },
-      {
-        "text": "Good idea boss",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/153_oh_good_idea_boss.mp3"
-      },
-      {
-        "text": "Oh, I don't know",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/154_oh_i_don_t_know.mp3"
       },
       {
         "text": "Under the earth's sun",
@@ -20027,16 +14307,6 @@ const shows = [
         "audioUrl": "audio/the-simpsons/158_overload_pleasure_overload.mp3"
       },
       {
-        "text": "Dad, you're embarrassing us",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/159_please_dad_your_embarrassing_us.mp3"
-      },
-      {
-        "text": "Get out and come again",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/160_please_pay_for_your_purchases_and_get_out_and_come_again.mp3"
-      },
-      {
         "text": "You cannot hurt the Twinkie!",
         "character": "",
         "audioUrl": "audio/the-simpsons/164_silly_customer_you_cannot_hurt_the_twinkie.mp3"
@@ -20045,11 +14315,6 @@ const shows = [
         "text": "Sixty four slices of American cheese",
         "character": "",
         "audioUrl": "audio/the-simpsons/165_sixty_four_slices_of_american_cheese.mp3"
-      },
-      {
-        "text": "Smithers, dismember the corpse",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/166_smithers_dismember_the_corpse.mp3"
       },
       {
         "text": "Dental plan / Lisa needs braces",
@@ -20062,17 +14327,7 @@ const shows = [
         "audioUrl": "audio/the-simpsons/169_someone_smells_stinky.mp3"
       },
       {
-        "text": "What am I thinking?",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/171_sorry_what_am_i_thinking.mp3"
-      },
-      {
-        "text": "Stupid TV, be more funny!",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/172_stupid_tv_be_more_funny.mp3"
-      },
-      {
-        "text": "Looking for Mister Smith",
+        "text": "Looking for Mr. Smithers",
         "character": "",
         "audioUrl": "audio/the-simpsons/173_success_it_s_ringing_most_haven_t_looking_for_mister_smith_i.mp3"
       },
@@ -20087,31 +14342,6 @@ const shows = [
         "audioUrl": "audio/the-simpsons/176_that_i_am_out_of_here.mp3"
       },
       {
-        "text": "That was easy",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/177_that_was_easy.mp3"
-      },
-      {
-        "text": "That would be delightful!",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/178_that_would_be_delightful.mp3"
-      },
-      {
-        "text": "That's a crock",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/179_that_s_a_crock.mp3"
-      },
-      {
-        "text": "That's good enough for me",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/180_that_s_good_enough_for_me.mp3"
-      },
-      {
-        "text": "I'm calling my buddies",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/181_that_s_it_i_m_calling_my_buddies.mp3"
-      },
-      {
         "text": "I'm going to Clown College",
         "character": "",
         "audioUrl": "audio/the-simpsons/182_that_s_it_you_people_have_stood_in_my_way_long_enough_i_m_go.mp3"
@@ -20120,16 +14350,6 @@ const shows = [
         "text": "That name again is Mister Plow",
         "character": "",
         "audioUrl": "audio/the-simpsons/183_that_s_my_name_that_name_again_is_mister_plow.mp3"
-      },
-      {
-        "text": "That's not a knife, that's a spoon",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/184_that_s_not_a_knife_that_s_a_spoo.mp3"
-      },
-      {
-        "text": "That's the American way",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/185_that_s_the_american_way.mp3"
       },
       {
         "text": "We're all fine the way we are",
@@ -20142,29 +14362,9 @@ const shows = [
         "audioUrl": "audio/the-simpsons/187_that_s_why_you_re_bulletproof_vest_sanjay_it_s_time_for_anot.mp3"
       },
       {
-        "text": "That's your advice?",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/188_that_s_your_advice.mp3"
-      },
-      {
         "text": "Keep my finger out of there",
         "character": "",
         "audioUrl": "audio/the-simpsons/189_the_doctor_said_i_wouldn_t_have_so_many_nosebleeds_if_i_kept.mp3"
-      },
-      {
-        "text": "The mail is here, ooh!",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/190_the_mail_the_mail_is_here_ooh.mp3"
-      },
-      {
-        "text": "Then grease me up woman!",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/193_then_grease_me_up_woman.mp3"
-      },
-      {
-        "text": "Ghost cars all over the highways",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/194_there_are_ghost_cars_all_over_these_highways.mp3"
       },
       {
         "text": "Rambling intro",
@@ -20197,11 +14397,6 @@ const shows = [
         "audioUrl": "audio/the-simpsons/200_this_may_be_hard_to_believe_but_i_m_trapped_inside_two_vendi.mp3"
       },
       {
-        "text": "Stick it to the man",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/201_time_to_stick_it_to_the_man.mp3"
-      },
-      {
         "text": "To alcohol!",
         "character": "",
         "audioUrl": "audio/the-simpsons/202_to_alcohol_the_cause_of_and_solution_to_all_of_life_s_proble.mp3"
@@ -20217,16 +14412,6 @@ const shows = [
         "audioUrl": "audio/the-simpsons/204_to_start_press_any_key_where_s_the_any_key.mp3"
       },
       {
-        "text": "Wait a minute, who is this?",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/207_wait_a_minute_who_is_this.mp3"
-      },
-      {
-        "text": "We don't need a babysitter",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/209_we_don_t_need_a_baby_sitter.mp3"
-      },
-      {
         "text": "We're done diddly done for",
         "character": "",
         "audioUrl": "audio/the-simpsons/210_we_re_done_for_we_re_done_diddly_done_for.mp3"
@@ -20235,21 +14420,6 @@ const shows = [
         "text": "Something you created makes people happy",
         "character": "",
         "audioUrl": "audio/the-simpsons/211_well_homer_maybe_you_can_take_some_consolation_in_the_fact_t.mp3"
-      },
-      {
-        "text": "Ooh-la-dee-da Mr. Frenchman!",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/213_well_ooh_la_dee_da_mr_frenchman.mp3"
-      },
-      {
-        "text": "What a day",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/215_what_a_day.mp3"
-      },
-      {
-        "text": "What do you think, Smithers?",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/216_what_do_you_think_smithers.mp3"
       },
       {
         "text": "Six barrel Holley carb?",
@@ -20262,11 +14432,6 @@ const shows = [
         "audioUrl": "audio/the-simpsons/218_what_the_hell_oh_we_got_a_call.mp3"
       },
       {
-        "text": "What's the deal?",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/219_what_s_the_deal.mp3"
-      },
-      {
         "text": "Now I've come to love",
         "character": "",
         "audioUrl": "audio/the-simpsons/220_when_i_first_arrived_but_now_i_ve_come_to_love.mp3"
@@ -20275,16 +14440,6 @@ const shows = [
         "text": "Going to Bovine University",
         "character": "",
         "audioUrl": "audio/the-simpsons/221_when_i_grow_up_i_m_going_to_bovine_university.mp3"
-      },
-      {
-        "text": "When will you be home?",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/222_when_will_you_be_home.mp3"
-      },
-      {
-        "text": "Where you going?",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/223_where_you_going.mp3"
       },
       {
         "text": "That's leprosy for you!",
@@ -20302,19 +14457,9 @@ const shows = [
         "audioUrl": "audio/the-simpsons/228_woo_ah_hee_ahh_woo_yeargh_yee.mp3"
       },
       {
-        "text": "Wrong wrong wrong",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/230_wrong_wrong_wrong.mp3"
-      },
-      {
         "text": "Looking for Amanda Huggenkiss",
         "character": "",
         "audioUrl": "audio/the-simpsons/231_yeah_just_like_object_amanda_huggenkiss_hey_i_m_looking_for.mp3"
-      },
-      {
-        "text": "Yeah, no number",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/232_yeah_no_number.mp3"
       },
       {
         "text": "I do not speak English",
@@ -20325,16 +14470,6 @@ const shows = [
         "text": "Sleep, that's where I'm a Viking",
         "character": "",
         "audioUrl": "audio/the-simpsons/234_yes_ralph_what_is_it_no_ralph_their_arms_anymore_just_try_to.mp3"
-      },
-      {
-        "text": "You're in deep doo now",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/235_yes_you_re_in_deep_doo_now.mp3"
-      },
-      {
-        "text": "No more crimes, OK?",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/237_you_have_to_promise_not_to_commit_any_more_crimes_ok.mp3"
       },
       {
         "text": "You magnificent bastard",
@@ -20357,19 +14492,9 @@ const shows = [
         "audioUrl": "audio/the-simpsons/241_you_tried_your_best_and_you_failed_miserably_the_lesson_is_n.mp3"
       },
       {
-        "text": "You'll make Sergeant for this",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/242_you_ll_make_sargeant_for_this.mp3"
-      },
-      {
         "text": "I thought I was in Vegas",
         "character": "",
         "audioUrl": "audio/the-simpsons/243_your_have_your_house_she_had_so_glamorously_decorated_i_thou.mp3"
-      },
-      {
-        "text": "Your silk wedding",
-        "character": "",
-        "audioUrl": "audio/the-simpsons/244_your_silk_wedding.mp3"
       }
     ]
   },
@@ -20395,7 +14520,7 @@ const shows = [
         "audioUrl": "audio/drake-and-josh/002_bless_you.mp3"
       },
       {
-        "text": "Cockle Doodle Doo the Cow Says Moo",
+        "text": "Cockle doodle doo the cow says moo",
         "character": "",
         "audioUrl": "audio/drake-and-josh/003_cockle_doodle_doo_the_cow_says_moo.mp3"
       },
@@ -20415,7 +14540,7 @@ const shows = [
         "audioUrl": "audio/drake-and-josh/006_drake_where_s_the_door_hole.mp3"
       },
       {
-        "text": "Embarrassed Sweaty Josh",
+        "text": "Embarrassed sweaty Josh",
         "character": "",
         "audioUrl": "audio/drake-and-josh/007_embarrassed_sweaty_josh.mp3"
       },
@@ -20435,7 +14560,7 @@ const shows = [
         "audioUrl": "audio/drake-and-josh/010_finger_guns.mp3"
       },
       {
-        "text": "Happy Birthday Brother",
+        "text": "Happy birthday brother",
         "character": "",
         "audioUrl": "audio/drake-and-josh/011_happy_birthday_brother.mp3"
       },
@@ -20445,7 +14570,7 @@ const shows = [
         "audioUrl": "audio/drake-and-josh/012_here_s_a_little_song_for_you.mp3"
       },
       {
-        "text": "Hug Me Brotha",
+        "text": "Hug me brotha",
         "character": "",
         "audioUrl": "audio/drake-and-josh/013_hug_me_brotha.mp3"
       },
@@ -20455,7 +14580,7 @@ const shows = [
         "audioUrl": "audio/drake-and-josh/014_idiots.mp3"
       },
       {
-        "text": "Intense Ping Pong",
+        "text": "Intense ping pong",
         "character": "",
         "audioUrl": "audio/drake-and-josh/015_intense_ping_pong.mp3"
       },
@@ -20470,7 +14595,7 @@ const shows = [
         "audioUrl": "audio/drake-and-josh/017_it_s_a_little_warm_in_here.mp3"
       },
       {
-        "text": "Its My Birthday",
+        "text": "It's my birthday",
         "character": "",
         "audioUrl": "audio/drake-and-josh/018_its_my_birthday.mp3"
       },
@@ -20485,7 +14610,7 @@ const shows = [
         "audioUrl": "audio/drake-and-josh/020_josh_laughing_from_outside_of_the_cell.mp3"
       },
       {
-        "text": "Josh Peck EVIL",
+        "text": "Josh Peck evil",
         "character": "",
         "audioUrl": "audio/drake-and-josh/021_josh_peck_evil.mp3"
       },
@@ -20999,12 +15124,12 @@ const shows = [
         "audioUrl": "audio/tropic-thunder/001_big_ass_titties.mp3"
       },
       {
-        "text": "Big Dick Playa",
+        "text": "Big dick playa",
         "character": "",
         "audioUrl": "audio/tropic-thunder/002_big_dick_playa.mp3"
       },
       {
-        "text": "F*ck Your Own Face",
+        "text": "F*ck your own face",
         "character": "",
         "audioUrl": "audio/tropic-thunder/003_f_ck_your_own_face.mp3"
       },
@@ -21059,17 +15184,17 @@ const shows = [
         "audioUrl": "audio/tropic-thunder/013_jeff_portnoy.mp3"
       },
       {
-        "text": "Jeff Portnoy And Jelly Beans",
+        "text": "Jeff Portnoy and jelly beans",
         "character": "",
         "audioUrl": "audio/tropic-thunder/014_jeff_portnoy_and_jelly_beans.mp3"
       },
       {
-        "text": "Kirk Gets A Second Opinion",
+        "text": "Kirk gets a second opinion",
         "character": "",
         "audioUrl": "audio/tropic-thunder/015_kirk_gets_a_second_opinion.mp3"
       },
       {
-        "text": "Kirk Lazarus Compliments Tugg Speedman",
+        "text": "Kirk Lazarus compliments Tugg Speedman",
         "character": "",
         "audioUrl": "audio/tropic-thunder/016_kirk_lazarus_compliments_tugg_speedman.mp3"
       },
@@ -21079,7 +15204,7 @@ const shows = [
         "audioUrl": "audio/tropic-thunder/017_kirklazarus_imadude.mp3"
       },
       {
-        "text": "Ma Make Me Happy",
+        "text": "Ma make me happy",
         "character": "",
         "audioUrl": "audio/tropic-thunder/018_ma_make_me_happy.mp3"
       },
@@ -21094,7 +15219,7 @@ const shows = [
         "audioUrl": "audio/tropic-thunder/020_maybe.mp3"
       },
       {
-        "text": "Never Go Full Retard",
+        "text": "Never go full retard",
         "character": "",
         "audioUrl": "audio/tropic-thunder/021_never_go_full_retard.mp3"
       },
@@ -21144,7 +15269,7 @@ const shows = [
         "audioUrl": "audio/tropic-thunder/030_take_a_big_step_back_and_fuck_your_own_face.mp3"
       },
       {
-        "text": "Take Them Off The Fucking Grid!",
+        "text": "Take them off the fucking grid!",
         "character": "",
         "audioUrl": "audio/tropic-thunder/031_take_them_off_the_fucking_grid.mp3"
       },
@@ -21159,27 +15284,27 @@ const shows = [
         "audioUrl": "audio/tropic-thunder/033_this_motherfucker_s_dead.mp3"
       },
       {
-        "text": "Tropic Thunder Insubordination",
+        "text": "Insubordination",
         "character": "",
         "audioUrl": "audio/tropic-thunder/034_tropic_thunder_insubordination.mp3"
       },
       {
-        "text": "We Don't Negotiate with Terrorists",
+        "text": "We don't negotiate with terrorists",
         "character": "",
         "audioUrl": "audio/tropic-thunder/035_we_don_t_negotiate_with_terrorists.mp3"
       },
       {
-        "text": "Welcome To The Goodie Room",
+        "text": "Welcome to the goodie room",
         "character": "",
         "audioUrl": "audio/tropic-thunder/036_welcome_to_the_goodie_room.mp3"
       },
       {
-        "text": "What Do You Mean, \"You People?\"",
+        "text": "What do you mean, \"you people?\"",
         "character": "",
         "audioUrl": "audio/tropic-thunder/037_what_do_you_mean_you_people.mp3"
       },
       {
-        "text": "Who Left the Fridge Open",
+        "text": "Who left the fridge open",
         "character": "",
         "audioUrl": "audio/tropic-thunder/038_who_left_the_fridge_open.mp3"
       },
@@ -21450,7 +15575,7 @@ const shows = [
         "audioUrl": "audio/talladega-nights/002_because_i_like_to_party.mp3"
       },
       {
-        "text": "Bob Dawson's Diet Pork Rinds",
+        "text": "Bob Dawson's diet pork rinds",
         "character": "",
         "audioUrl": "audio/talladega-nights/003_bob_dawson_s_diet_pork_rinds.mp3"
       },
@@ -21465,12 +15590,12 @@ const shows = [
         "audioUrl": "audio/talladega-nights/005_cause_i_like_to_party.mp3"
       },
       {
-        "text": "Help Me, Jesus!",
+        "text": "Help me, Jesus!",
         "character": "",
         "audioUrl": "audio/talladega-nights/006_help_me_jesus.mp3"
       },
       {
-        "text": "Help Me, Oprah Winfrey",
+        "text": "Help me, Oprah Winfrey",
         "character": "",
         "audioUrl": "audio/talladega-nights/007_help_me_oprah_winfrey.mp3"
       },
@@ -21485,7 +15610,7 @@ const shows = [
         "audioUrl": "audio/talladega-nights/009_i_feel_like_i_m_in_highlander.mp3"
       },
       {
-        "text": "I Like to Picture Jesus As..",
+        "text": "I like to picture Jesus as..",
         "character": "",
         "audioUrl": "audio/talladega-nights/010_i_like_to_picture_jesus_as.mp3"
       },
@@ -21495,7 +15620,7 @@ const shows = [
         "audioUrl": "audio/talladega-nights/011_i_love_really_thin_pancakes.mp3"
       },
       {
-        "text": "I Play For Keeps",
+        "text": "I play for keeps",
         "character": "",
         "audioUrl": "audio/talladega-nights/012_i_play_for_keeps.mp3"
       },
@@ -21540,7 +15665,7 @@ const shows = [
         "audioUrl": "audio/talladega-nights/020_i_m_here_to_party.mp3"
       },
       {
-        "text": "If You Ain't First, You're Last",
+        "text": "If you ain't first, you're last",
         "character": "",
         "audioUrl": "audio/talladega-nights/021_if_you_ain_t_first_you_re_last.mp3"
       },
@@ -21555,7 +15680,7 @@ const shows = [
         "audioUrl": "audio/talladega-nights/023_it_s_the_fastest_who_gets_laid.mp3"
       },
       {
-        "text": "Jacked Up on Mountain Dew",
+        "text": "Jacked up on Mountain Dew",
         "character": "",
         "audioUrl": "audio/talladega-nights/024_jacked_up_on_mountain_dew.mp3"
       },
@@ -21575,7 +15700,7 @@ const shows = [
         "audioUrl": "audio/talladega-nights/027_no.mp3"
       },
       {
-        "text": "Oh No No No No No Oh",
+        "text": "Oh no no no no no oh",
         "character": "",
         "audioUrl": "audio/talladega-nights/028_oh_no_no_no_no_no_oh.mp3"
       },
@@ -21590,7 +15715,7 @@ const shows = [
         "audioUrl": "audio/talladega-nights/030_please_be_18.mp3"
       },
       {
-        "text": "Ricky Bobby Knife",
+        "text": "Ricky Bobby knife",
         "character": "",
         "audioUrl": "audio/talladega-nights/031_ricky_bobby_knife.mp3"
       },
@@ -21630,7 +15755,7 @@ const shows = [
         "audioUrl": "audio/talladega-nights/038_that_idea_ain_t_worth_a_velvet_painting_of_a_whale_and_a_dol.mp3"
       },
       {
-        "text": "That Just Happened",
+        "text": "That just happened",
         "character": "",
         "audioUrl": "audio/talladega-nights/039_that_just_happened.mp3"
       },
@@ -21660,7 +15785,7 @@ const shows = [
         "audioUrl": "audio/talladega-nights/044_time_to_be_a_man.mp3"
       },
       {
-        "text": "We All Tried Hard",
+        "text": "We all tried hard",
         "character": "",
         "audioUrl": "audio/talladega-nights/045_we_all_tried_hard.mp3"
       },
@@ -21693,19 +15818,9 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "A friend in need is a pest",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/001_a_friend_in_need_is_a_pest.mp3"
-      },
-      {
         "text": "A sailor",
         "character": "",
         "audioUrl": "audio/wedding-crashers/002_a_sailor.mp3"
-      },
-      {
-        "text": "Big Dyke",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/003_big_dyke.mp3"
       },
       {
         "text": "Boo yah! That’s what we call a sack lunch!",
@@ -21718,12 +15833,7 @@ const shows = [
         "audioUrl": "audio/wedding-crashers/005_call_me_kitty_cat.mp3"
       },
       {
-        "text": "Catch That Beautiful Butterfly Pal",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/006_catch_that_beautiful_butterfly_pal.mp3"
-      },
-      {
-        "text": "Cause I'd Find You",
+        "text": "Cause I'd find you",
         "character": "",
         "audioUrl": "audio/wedding-crashers/007_cause_i_d_find_you.mp3"
       },
@@ -21738,11 +15848,6 @@ const shows = [
         "audioUrl": "audio/wedding-crashers/009_crab_cakes.mp3"
       },
       {
-        "text": "Damn, Sluts",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/010_damn_sluts.mp3"
-      },
-      {
         "text": "Erroneous!!",
         "character": "",
         "audioUrl": "audio/wedding-crashers/011_erroneous.mp3"
@@ -21751,11 +15856,6 @@ const shows = [
         "text": "Fried",
         "character": "",
         "audioUrl": "audio/wedding-crashers/012_fried.mp3"
-      },
-      {
-        "text": "Happy Birthday",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/013_happy_birthday.mp3"
       },
       {
         "text": "He's joking around",
@@ -21778,26 +15878,6 @@ const shows = [
         "audioUrl": "audio/wedding-crashers/017_i_almost_nunchucked_you.mp3"
       },
       {
-        "text": "I can do it myself",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/018_i_can_do_it_myself.mp3"
-      },
-      {
-        "text": "I can do it myself asshole",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/019_i_can_do_it_myself_asshole.mp3"
-      },
-      {
-        "text": "I don’t even know what the fuck a quail is?",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/020_i_don_t_even_know_what_the_fuck_a_quail_is.mp3"
-      },
-      {
-        "text": "I find you",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/021_i_find_you.mp3"
-      },
-      {
         "text": "I'll be in my room painting",
         "character": "",
         "audioUrl": "audio/wedding-crashers/022_i_ll_be_in_my_room_painting.mp3"
@@ -21808,22 +15888,12 @@ const shows = [
         "audioUrl": "audio/wedding-crashers/023_i_m_diggin_talking_with_ya.mp3"
       },
       {
-        "text": "I'm Psyched",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/024_i_m_psyched.mp3"
-      },
-      {
-        "text": "I'm sorry not sorry",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/025_i_m_sorry_not_sorry.mp3"
-      },
-      {
         "text": "I've got a stage 5 clinger",
         "character": "",
         "audioUrl": "audio/wedding-crashers/026_i_ve_got_a_stage_5_clinger.mp3"
       },
       {
-        "text": "I’m great I’m Going",
+        "text": "I’m great I’m going",
         "character": "",
         "audioUrl": "audio/wedding-crashers/027_i_m_great_i_m_going.mp3"
       },
@@ -21838,19 +15908,9 @@ const shows = [
         "audioUrl": "audio/wedding-crashers/029_it_s_gonna_be_so_much_fun.mp3"
       },
       {
-        "text": "Jesus",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/030_jesus.mp3"
-      },
-      {
         "text": "A couple kids who like to fuck",
         "character": "",
         "audioUrl": "audio/wedding-crashers/031_just_a_couple_kids_who_like_to_fuck_trying_to_make_it_honest.mp3"
-      },
-      {
-        "text": "Kiss my left nut",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/032_kiss_my_left_nut.mp3"
       },
       {
         "text": "Let's play tummy sticks",
@@ -21863,7 +15923,7 @@ const shows = [
         "audioUrl": "audio/wedding-crashers/034_light_up_cigars.mp3"
       },
       {
-        "text": "MA, THE MEATLOAF! FUCK!",
+        "text": "Ma, the meatloaf! Fuck!",
         "character": "",
         "audioUrl": "audio/wedding-crashers/035_ma_the_meatloaf_fuck.mp3"
       },
@@ -21883,21 +15943,6 @@ const shows = [
         "audioUrl": "audio/wedding-crashers/038_motor_boat.mp3"
       },
       {
-        "text": "My first asian",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/039_my_first_asian.mp3"
-      },
-      {
-        "text": "On my way",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/040_on_my_way.mp3"
-      },
-      {
-        "text": "Pervert!",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/041_pervert.mp3"
-      },
-      {
         "text": "Rule",
         "character": "",
         "audioUrl": "audio/wedding-crashers/042_rule.mp3"
@@ -21908,29 +15953,14 @@ const shows = [
         "audioUrl": "audio/wedding-crashers/043_she_s_not_just_another_notch_in_your_belt.mp3"
       },
       {
-        "text": "Shut your mouth",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/044_shut_your_mouth.mp3"
-      },
-      {
         "text": "Shut your mouth funny guy",
         "character": "",
         "audioUrl": "audio/wedding-crashers/045_shut_your_mouth_funny_guy.mp3"
       },
       {
-        "text": "Shut your mouth when you're talking to me",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/046_shut_your_mouth_when_you_re_talking_to_me.mp3"
-      },
-      {
         "text": "Sock gag",
         "character": "",
         "audioUrl": "audio/wedding-crashers/047_sock_gag.mp3"
-      },
-      {
-        "text": "Stop Crying Like a Little Girl",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/048_stop_crying_like_a_little_girl.mp3"
       },
       {
         "text": "Taking grenades",
@@ -21948,12 +15978,7 @@ const shows = [
         "audioUrl": "audio/wedding-crashers/051_this_feels_borderline_inappropriate.mp3"
       },
       {
-        "text": "This is getting confusing",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/052_this_is_getting_confusing.mp3"
-      },
-      {
-        "text": "We Only Use 10 Percent of our Hearts",
+        "text": "We only use 10 percent of our hearts",
         "character": "",
         "audioUrl": "audio/wedding-crashers/053_we_only_use_10_percent_of_our_hearts.mp3"
       },
@@ -21973,7 +15998,7 @@ const shows = [
         "audioUrl": "audio/wedding-crashers/056_what_an_idiot.mp3"
       },
       {
-        "text": "WHAT AN IDIOT",
+        "text": "What an idiot",
         "character": "",
         "audioUrl": "audio/wedding-crashers/057_what_an_idiot.mp3"
       },
@@ -21983,7 +16008,7 @@ const shows = [
         "audioUrl": "audio/wedding-crashers/058_what_an_idiot.mp3"
       },
       {
-        "text": "What Is She Doing",
+        "text": "What is she doing",
         "character": "",
         "audioUrl": "audio/wedding-crashers/059_what_is_she_doing.mp3"
       },
@@ -22008,12 +16033,7 @@ const shows = [
         "audioUrl": "audio/wedding-crashers/063_why_are_you_yelling.mp3"
       },
       {
-        "text": "You're a homo",
-        "character": "",
-        "audioUrl": "audio/wedding-crashers/064_you_re_a_homo.mp3"
-      },
-      {
-        "text": "'Cause I'd Find You",
+        "text": "'Cause I'd find you",
         "character": "",
         "audioUrl": "audio/wedding-crashers/065_cause_i_d_find_you.mp3"
       }
@@ -22051,7 +16071,7 @@ const shows = [
         "audioUrl": "audio/superbad/004_chill_zone_where_we_chillax.mp3"
       },
       {
-        "text": "Cool Story Bro",
+        "text": "Cool story bro",
         "character": "",
         "audioUrl": "audio/superbad/005_cool_story_bro.mp3"
       },
@@ -22076,7 +16096,7 @@ const shows = [
         "audioUrl": "audio/superbad/009_division_sign.mp3"
       },
       {
-        "text": "Don't Worry about It, I'm Not Worried At All",
+        "text": "Don't worry about it, I'm not worried at all",
         "character": "",
         "audioUrl": "audio/superbad/010_don_t_worry_about_it_i_m_not_worried_at_all.mp3"
       },
@@ -22086,7 +16106,7 @@ const shows = [
         "audioUrl": "audio/superbad/011_down_to_fuck.mp3"
       },
       {
-        "text": "Draw Pictures of Dicks",
+        "text": "Draw pictures of dicks",
         "character": "",
         "audioUrl": "audio/superbad/012_draw_pictures_of_dicks.mp3"
       },
@@ -22096,7 +16116,7 @@ const shows = [
         "audioUrl": "audio/superbad/013_fake_id.mp3"
       },
       {
-        "text": "Fake ID Fake ID",
+        "text": "Fake ID fake ID",
         "character": "",
         "audioUrl": "audio/superbad/014_fake_id_fake_id.mp3"
       },
@@ -22141,7 +16161,7 @@ const shows = [
         "audioUrl": "audio/superbad/023_i_have_to_eat_alone.mp3"
       },
       {
-        "text": "I'm Gettin' That Fa Sho",
+        "text": "I'm gettin' that fa sho",
         "character": "",
         "audioUrl": "audio/superbad/024_i_m_gettin_that_fa_sho.mp3"
       },
@@ -22261,7 +16281,7 @@ const shows = [
         "audioUrl": "audio/superbad/048_whats_up.mp3"
       },
       {
-        "text": "You Guys On Myspace",
+        "text": "You guys on Myspace",
         "character": "",
         "audioUrl": "audio/superbad/049_you_guys_on_myspace.mp3"
       },
@@ -22294,7 +16314,7 @@ const shows = [
         "audioUrl": "audio/this-is-the-end/001_anywhere_i_want.mp3"
       },
       {
-        "text": "Bang Bang Your'e dead",
+        "text": "Bang bang you're dead",
         "character": "",
         "audioUrl": "audio/this-is-the-end/002_bang_bang_your_e_dead.mp3"
       },
@@ -22314,7 +16334,7 @@ const shows = [
         "audioUrl": "audio/this-is-the-end/005_does_this_coke_smell_funny.mp3"
       },
       {
-        "text": "Does this Coke Smell Funny",
+        "text": "Does this Coke smell funny",
         "character": "",
         "audioUrl": "audio/this-is-the-end/006_does_this_coke_smell_funny.mp3"
       },
@@ -22334,7 +16354,7 @@ const shows = [
         "audioUrl": "audio/this-is-the-end/009_fuck_yeah.mp3"
       },
       {
-        "text": "Good Morning Sunshine",
+        "text": "Good morning sunshine",
         "character": "",
         "audioUrl": "audio/this-is-the-end/010_good_morning_sunshine.mp3"
       },
@@ -22344,7 +16364,7 @@ const shows = [
         "audioUrl": "audio/this-is-the-end/011_guys_guys_wake_up_danny_s_alive_he_s_eating_all_the_fucking.mp3"
       },
       {
-        "text": "He's Eating All the Fucking Food",
+        "text": "He's eating all the fucking food",
         "character": "",
         "audioUrl": "audio/this-is-the-end/012_he_s_eating_all_the_fucking_food.mp3"
       },
@@ -22379,7 +16399,7 @@ const shows = [
         "audioUrl": "audio/this-is-the-end/018_i_m_not_gonna_shoot_emma_watson.mp3"
       },
       {
-        "text": "Jonah Plays With The Gun",
+        "text": "Jonah plays with the gun",
         "character": "",
         "audioUrl": "audio/this-is-the-end/019_jonah_plays_with_the_gun.mp3"
       },
@@ -22394,7 +16414,7 @@ const shows = [
         "audioUrl": "audio/this-is-the-end/021_list_of_supplies.mp3"
       },
       {
-        "text": "Lol, That's Why Y'all is",
+        "text": "That's why y'all is",
         "character": "",
         "audioUrl": "audio/this-is-the-end/022_lol_that_s_why_y_all_is.mp3"
       },
@@ -22424,12 +16444,12 @@ const shows = [
         "audioUrl": "audio/this-is-the-end/027_say_cheese_baby.mp3"
       },
       {
-        "text": "Sick Reference Bro",
+        "text": "Sick reference bro",
         "character": "",
         "audioUrl": "audio/this-is-the-end/028_sick_reference_bro.mp3"
       },
       {
-        "text": "Sink Hole de Mayo",
+        "text": "Sink hole de Mayo",
         "character": "",
         "audioUrl": "audio/this-is-the-end/029_sink_hole_de_mayo.mp3"
       },
@@ -22444,7 +16464,7 @@ const shows = [
         "audioUrl": "audio/this-is-the-end/031_take_yo_panties_off.mp3"
       },
       {
-        "text": "That Fuckers Gotta Go",
+        "text": "That fuckers gotta go",
         "character": "",
         "audioUrl": "audio/this-is-the-end/032_that_fuckers_gotta_go.mp3"
       },
@@ -22542,7 +16562,7 @@ const shows = [
         "audioUrl": "audio/40-year-old-virgin/008_how_i_know_you_re_gay.mp3"
       },
       {
-        "text": "Know How I Know?",
+        "text": "Know how I know?",
         "character": "",
         "audioUrl": "audio/40-year-old-virgin/009_know_how_i_know.mp3"
       },
@@ -22557,12 +16577,12 @@ const shows = [
         "audioUrl": "audio/40-year-old-virgin/011_oh_yeah_right.mp3"
       },
       {
-        "text": "On The House",
+        "text": "On the house",
         "character": "",
         "audioUrl": "audio/40-year-old-virgin/012_on_the_house.mp3"
       },
       {
-        "text": "Please Don't Do This",
+        "text": "Please don't do this",
         "character": "",
         "audioUrl": "audio/40-year-old-virgin/013_please_don_t_do_this.mp3"
       },
@@ -22640,17 +16660,17 @@ const shows = [
         "audioUrl": "audio/anchorman/004_anchorman.mp3"
       },
       {
-        "text": "Anchorman Come See",
+        "text": "Come see",
         "character": "",
         "audioUrl": "audio/anchorman/005_anchorman_come_see.mp3"
       },
       {
-        "text": "Anchorman nopantsdan",
+        "text": "Nopantsdan",
         "character": "",
         "audioUrl": "audio/anchorman/006_anchorman_nopantsdan.mp3"
       },
       {
-        "text": "Anchorman Whammy",
+        "text": "Whammy",
         "character": "",
         "audioUrl": "audio/anchorman/007_anchorman_whammy.mp3"
       },
@@ -22670,16 +16690,6 @@ const shows = [
         "audioUrl": "audio/anchorman/010_bears_can_smell_the_menstration.mp3"
       },
       {
-        "text": "Blue you're my boy thank you sir",
-        "character": "",
-        "audioUrl": "audio/anchorman/011_blue_you_re_my_boy_thank_you_sir.mp3"
-      },
-      {
-        "text": "Boo Will Ferrell Sounds",
-        "character": "",
-        "audioUrl": "audio/anchorman/012_boo_will_ferrell_sounds.mp3"
-      },
-      {
         "text": "Boy, that escalated quickly",
         "character": "",
         "audioUrl": "audio/anchorman/013_boy_that_escalated_quickly.mp3"
@@ -22688,21 +16698,6 @@ const shows = [
         "text": "Breathtaking Hiney",
         "character": "",
         "audioUrl": "audio/anchorman/014_breathtaking_hiney.mp3"
-      },
-      {
-        "text": "Brick From Anchorman",
-        "character": "",
-        "audioUrl": "audio/anchorman/015_brick_from_anchorman.mp3"
-      },
-      {
-        "text": "Brick Tamland Yelling",
-        "character": "",
-        "audioUrl": "audio/anchorman/016_brick_tamland_yelling.mp3"
-      },
-      {
-        "text": "Brick Yells",
-        "character": "",
-        "audioUrl": "audio/anchorman/017_brick_yells.mp3"
       },
       {
         "text": "God's green goodness",
@@ -22725,17 +16720,12 @@ const shows = [
         "audioUrl": "audio/anchorman/021_come_see_how_good_i_look.mp3"
       },
       {
-        "text": "Como Estan Bitches",
+        "text": "Como estan bitches",
         "character": "",
         "audioUrl": "audio/anchorman/022_como_estan_bitches.mp3"
       },
       {
-        "text": "Como estan bitches!",
-        "character": "",
-        "audioUrl": "audio/anchorman/023_como_estan_bitches.mp3"
-      },
-      {
-        "text": "Dear god Will Ferrell Sounds",
+        "text": "Dear God Will Ferrell sounds",
         "character": "",
         "audioUrl": "audio/anchorman/024_dear_god_will_ferrell_sounds.mp3"
       },
@@ -22755,11 +16745,6 @@ const shows = [
         "audioUrl": "audio/anchorman/027_don_t_act_like_you_re_not_impressed.mp3"
       },
       {
-        "text": "For god 's tricky",
-        "character": "",
-        "audioUrl": "audio/anchorman/028_for_god_s_tricky.mp3"
-      },
-      {
         "text": "Get Out!",
         "character": "",
         "audioUrl": "audio/anchorman/029_get_out.mp3"
@@ -22770,7 +16755,7 @@ const shows = [
         "audioUrl": "audio/anchorman/030_glass_case_of_emotion.mp3"
       },
       {
-        "text": "Go F' Yourself San Diego",
+        "text": "Go f' yourself San Diego",
         "character": "",
         "audioUrl": "audio/anchorman/031_go_f_yourself_san_diego.mp3"
       },
@@ -22785,11 +16770,6 @@ const shows = [
         "audioUrl": "audio/anchorman/033_good_one.mp3"
       },
       {
-        "text": "Great story, compelling and rich",
-        "character": "",
-        "audioUrl": "audio/anchorman/034_great_story_compelling_and_rich.mp3"
-      },
-      {
         "text": "Haha..",
         "character": "",
         "audioUrl": "audio/anchorman/035_haha.mp3"
@@ -22798,16 +16778,6 @@ const shows = [
         "text": "Hard time in a pickle",
         "character": "",
         "audioUrl": "audio/anchorman/036_hard_time_in_a_pickle.mp3"
-      },
-      {
-        "text": "Hello neighbor Will Ferrell Sounds",
-        "character": "",
-        "audioUrl": "audio/anchorman/037_hello_neighbor_will_ferrell_sounds.mp3"
-      },
-      {
-        "text": "Hello Neighbor",
-        "character": "",
-        "audioUrl": "audio/anchorman/038_hello_neighbor.mp3"
       },
       {
         "text": "Hey sweet cheeks",
@@ -22865,16 +16835,6 @@ const shows = [
         "audioUrl": "audio/anchorman/049_i_have_more_talent_and_more_intelligence_in_my_finger.mp3"
       },
       {
-        "text": "I immediately regret this decision",
-        "character": "",
-        "audioUrl": "audio/anchorman/050_i_immediately_regret_this_decision.mp3"
-      },
-      {
-        "text": "I immediately regret this decision",
-        "character": "",
-        "audioUrl": "audio/anchorman/051_i_immediately_regret_this_decision.mp3"
-      },
-      {
         "text": "I like the way your put together",
         "character": "",
         "audioUrl": "audio/anchorman/052_i_like_the_way_your_put_together.mp3"
@@ -22885,12 +16845,7 @@ const shows = [
         "audioUrl": "audio/anchorman/053_i_look_good_i_mean_really_good_everyone_coming_feel_goo.mp3"
       },
       {
-        "text": "I look like hell",
-        "character": "",
-        "audioUrl": "audio/anchorman/054_i_look_like_hell.mp3"
-      },
-      {
-        "text": "I Love Lamp",
+        "text": "I love lamp",
         "character": "",
         "audioUrl": "audio/anchorman/055_i_love_lamp.mp3"
       },
@@ -22910,7 +16865,7 @@ const shows = [
         "audioUrl": "audio/anchorman/058_i_make_fart_noises_with_my_mouth.mp3"
       },
       {
-        "text": "I Miss You",
+        "text": "I miss you",
         "character": "",
         "audioUrl": "audio/anchorman/059_i_miss_you.mp3"
       },
@@ -22940,7 +16895,7 @@ const shows = [
         "audioUrl": "audio/anchorman/064_i_thought_you_were_kidding.mp3"
       },
       {
-        "text": "I Wanna Be On You",
+        "text": "I wanna be on you",
         "character": "",
         "audioUrl": "audio/anchorman/065_i_wanna_be_on_you.mp3"
       },
@@ -22950,27 +16905,17 @@ const shows = [
         "audioUrl": "audio/anchorman/066_i_want_to_be_on_you.mp3"
       },
       {
-        "text": "I will not eat cat poop",
-        "character": "",
-        "audioUrl": "audio/anchorman/067_i_will_not_eat_cat_poop.mp3"
-      },
-      {
-        "text": "I'm a man",
-        "character": "",
-        "audioUrl": "audio/anchorman/068_i_m_a_man.mp3"
-      },
-      {
         "text": "I'm going to punch you in the ovaries",
         "character": "",
         "audioUrl": "audio/anchorman/069_i_m_going_to_punch_you_in_the_ovaries.mp3"
       },
       {
-        "text": "I'm Going To Throw This Out There",
+        "text": "I'm going to throw this out there",
         "character": "",
         "audioUrl": "audio/anchorman/070_i_m_going_to_throw_this_out_there.mp3"
       },
       {
-        "text": "I'm Kind Of A Big Deal",
+        "text": "I'm kind of a big deal",
         "character": "",
         "audioUrl": "audio/anchorman/071_i_m_kind_of_a_big_deal.mp3"
       },
@@ -22978,11 +16923,6 @@ const shows = [
         "text": "I'm kind of a big deal",
         "character": "",
         "audioUrl": "audio/anchorman/072_i_m_kind_of_a_big_deal.mp3"
-      },
-      {
-        "text": "I'm sorry",
-        "character": "",
-        "audioUrl": "audio/anchorman/073_i_m_sorry.mp3"
       },
       {
         "text": "I'm sorry, it's the pleats",
@@ -23010,16 +16950,6 @@ const shows = [
         "audioUrl": "audio/anchorman/078_if_you_were_a_man_i_d_punch_you.mp3"
       },
       {
-        "text": "Im very aroused",
-        "character": "",
-        "audioUrl": "audio/anchorman/079_im_very_aroused.mp3"
-      },
-      {
-        "text": "It's Science",
-        "character": "",
-        "audioUrl": "audio/anchorman/080_it_s_science.mp3"
-      },
-      {
         "text": "Jack Johnson and Tom O'Leary",
         "character": "",
         "audioUrl": "audio/anchorman/081_jack_johnson_and_tom_o_leary.mp3"
@@ -23045,29 +16975,9 @@ const shows = [
         "audioUrl": "audio/anchorman/085_ladies_can_do_stuff_now.mp3"
       },
       {
-        "text": "Let's dance dick weed",
-        "character": "",
-        "audioUrl": "audio/anchorman/086_let_s_dance_dick_weed.mp3"
-      },
-      {
         "text": "Let's Fight",
         "character": "",
         "audioUrl": "audio/anchorman/087_let_s_fight.mp3"
-      },
-      {
-        "text": "Loud Noises",
-        "character": "",
-        "audioUrl": "audio/anchorman/088_loud_noises.mp3"
-      },
-      {
-        "text": "LOUD NOISES!",
-        "character": "",
-        "audioUrl": "audio/anchorman/089_loud_noises.mp3"
-      },
-      {
-        "text": "Maybe don't wear a bra next time",
-        "character": "",
-        "audioUrl": "audio/anchorman/090_maybe_don_t_wear_a_bra_next_time.mp3"
       },
       {
         "text": "Milk was a bad choice",
@@ -23078,11 +16988,6 @@ const shows = [
         "text": "Miss you",
         "character": "",
         "audioUrl": "audio/anchorman/092_miss_you.mp3"
-      },
-      {
-        "text": "Never ceases to amaze me",
-        "character": "",
-        "audioUrl": "audio/anchorman/093_never_ceases_to_amaze_me.mp3"
       },
       {
         "text": "News crew laughing",
@@ -23100,7 +17005,7 @@ const shows = [
         "audioUrl": "audio/anchorman/096_no_brick.mp3"
       },
       {
-        "text": "No Pants Dance",
+        "text": "No pants dance",
         "character": "",
         "audioUrl": "audio/anchorman/097_no_pants_dance.mp3"
       },
@@ -23120,24 +17025,9 @@ const shows = [
         "audioUrl": "audio/anchorman/100_no.mp3"
       },
       {
-        "text": "Of course",
-        "character": "",
-        "audioUrl": "audio/anchorman/101_of_course.mp3"
-      },
-      {
-        "text": "Oh. This is awkward",
-        "character": "",
-        "audioUrl": "audio/anchorman/102_oh_this_is_awkward.mp3"
-      },
-      {
-        "text": "OMG, what is that smell?",
+        "text": "Oh my god, what is that smell?",
         "character": "",
         "audioUrl": "audio/anchorman/103_omg_what_is_that_smell.mp3"
-      },
-      {
-        "text": "Ow! Knights of Columbus that hurt!",
-        "character": "",
-        "audioUrl": "audio/anchorman/104_ow_knights_of_columbus_that_hurt.mp3"
       },
       {
         "text": "Pants Party",
@@ -23145,7 +17035,7 @@ const shows = [
         "audioUrl": "audio/anchorman/105_pants_party.mp3"
       },
       {
-        "text": "Periods Attract Bear",
+        "text": "Periods attract bear",
         "character": "",
         "audioUrl": "audio/anchorman/106_periods_attract_bear.mp3"
       },
@@ -23158,11 +17048,6 @@ const shows = [
         "text": "Prime minister of malaysia bad awards come on",
         "character": "",
         "audioUrl": "audio/anchorman/108_prime_minister_of_malaysia_bad_awards_come_on.mp3"
-      },
-      {
-        "text": "Rage",
-        "character": "",
-        "audioUrl": "audio/anchorman/109_rage.mp3"
       },
       {
         "text": "Ron, are you paying attention?",
@@ -23185,11 +17070,6 @@ const shows = [
         "audioUrl": "audio/anchorman/113_sick_tasteless_joke.mp3"
       },
       {
-        "text": "Skyrockets in Flight",
-        "character": "",
-        "audioUrl": "audio/anchorman/114_skyrockets_in_flight.mp3"
-      },
-      {
         "text": "Smell of Desire",
         "character": "",
         "audioUrl": "audio/anchorman/115_smell_of_desire.mp3"
@@ -23203,11 +17083,6 @@ const shows = [
         "text": "Son of a bee sting",
         "character": "",
         "audioUrl": "audio/anchorman/117_son_of_a_bee_sting_she_s_turning_the_entire_office_agai.mp3"
-      },
-      {
-        "text": "Stay Classy San Diego",
-        "character": "",
-        "audioUrl": "audio/anchorman/118_stay_classy_san_diego.mp3"
       },
       {
         "text": "Stings the nostrils",
@@ -23230,34 +17105,14 @@ const shows = [
         "audioUrl": "audio/anchorman/122_take_me_to_pleasure_town.mp3"
       },
       {
-        "text": "That doesn't make sense",
-        "character": "",
-        "audioUrl": "audio/anchorman/123_that_doesn_t_make_sense.mp3"
-      },
-      {
         "text": "That escalated quickly",
         "character": "",
         "audioUrl": "audio/anchorman/124_that_escalated_quickly.mp3"
       },
       {
-        "text": "That's How I Roll",
-        "character": "",
-        "audioUrl": "audio/anchorman/125_that_s_how_i_roll.mp3"
-      },
-      {
         "text": "That's what kind of man I am",
         "character": "",
         "audioUrl": "audio/anchorman/126_that_s_what_kind_of_man_i_am.mp3"
-      },
-      {
-        "text": "That’s wonderful, thank you!",
-        "character": "",
-        "audioUrl": "audio/anchorman/127_that_s_wonderful_thank_you.mp3"
-      },
-      {
-        "text": "The Human Torch was denied a bank loan",
-        "character": "",
-        "audioUrl": "audio/anchorman/128_the_human_torch_was_denied_a_bank_loan.mp3"
       },
       {
         "text": "This burrito is delicious but it is filling",
@@ -23270,11 +17125,6 @@ const shows = [
         "audioUrl": "audio/anchorman/130_time_to_musk_up.mp3"
       },
       {
-        "text": "Tits McGee",
-        "character": "",
-        "audioUrl": "audio/anchorman/131_tits_mcgee.mp3"
-      },
-      {
         "text": "We need you",
         "character": "",
         "audioUrl": "audio/anchorman/132_we_need_you.mp3"
@@ -23285,19 +17135,9 @@ const shows = [
         "audioUrl": "audio/anchorman/133_well_you_have_bad_hair.mp3"
       },
       {
-        "text": "Well..",
-        "character": "",
-        "audioUrl": "audio/anchorman/134_well.mp3"
-      },
-      {
         "text": "What Calone",
         "character": "",
         "audioUrl": "audio/anchorman/135_what_calone.mp3"
-      },
-      {
-        "text": "What did you say?",
-        "character": "",
-        "audioUrl": "audio/anchorman/136_what_did_you_say.mp3"
       },
       {
         "text": "What do say we go out on a date?",
@@ -23305,14 +17145,9 @@ const shows = [
         "audioUrl": "audio/anchorman/137_what_do_say_we_go_out_on_a_date.mp3"
       },
       {
-        "text": "What is this, Amateur Hour?",
+        "text": "What is this, amateur hour?",
         "character": "",
         "audioUrl": "audio/anchorman/138_what_is_this_amateur_hour.mp3"
-      },
-      {
-        "text": "Whore Island",
-        "character": "",
-        "audioUrl": "audio/anchorman/139_whore_island.mp3"
       },
       {
         "text": "You and me should get an apartment together",
@@ -23320,34 +17155,14 @@ const shows = [
         "audioUrl": "audio/anchorman/140_you_and_me_should_get_an_apartment_together.mp3"
       },
       {
-        "text": "You are a smelly pirate hooker",
-        "character": "",
-        "audioUrl": "audio/anchorman/141_you_are_a_smelly_pirate_hooker.mp3"
-      },
-      {
-        "text": "You are acting like a baby",
-        "character": "",
-        "audioUrl": "audio/anchorman/142_you_are_acting_like_a_baby.mp3"
-      },
-      {
-        "text": "A big fat joke",
-        "character": "",
-        "audioUrl": "audio/anchorman/143_you_are_not_a_man_you_are_a_big_fat_joke.mp3"
-      },
-      {
-        "text": "You Ate the Whole Wheel of Cheese?",
+        "text": "You ate the whole wheel of cheese?",
         "character": "",
         "audioUrl": "audio/anchorman/144_you_ate_the_whole_wheel_of_cheese.mp3"
       },
       {
-        "text": "You Have a Dirty Whorish Mouth",
+        "text": "You have a dirty whorish mouth",
         "character": "",
         "audioUrl": "audio/anchorman/145_you_have_a_dirty_whorish_mouth.mp3"
-      },
-      {
-        "text": "You have a massive erection",
-        "character": "",
-        "audioUrl": "audio/anchorman/146_you_have_a_massive_erection.mp3"
       },
       {
         "text": "You have always been a good friend ..",
@@ -23355,24 +17170,9 @@ const shows = [
         "audioUrl": "audio/anchorman/147_you_have_always_been_a_good_friend.mp3"
       },
       {
-        "text": "You have man boobs",
-        "character": "",
-        "audioUrl": "audio/anchorman/148_you_have_man_boobs.mp3"
-      },
-      {
         "text": "You know I don't speak Spanish, in English please",
         "character": "",
         "audioUrl": "audio/anchorman/149_you_know_i_don_t_speak_spanish_in_english_please.mp3"
-      },
-      {
-        "text": "You look awfully nice tonight",
-        "character": "",
-        "audioUrl": "audio/anchorman/150_you_look_awfully_nice_tonight.mp3"
-      },
-      {
-        "text": "You look like a blueberry",
-        "character": "",
-        "audioUrl": "audio/anchorman/151_you_look_like_a_blueberry.mp3"
       },
       {
         "text": "You sound like a gay",
@@ -23385,7 +17185,7 @@ const shows = [
         "audioUrl": "audio/anchorman/153_you_will_eat_this_cat_poop.mp3"
       },
       {
-        "text": "You're Fired Ed",
+        "text": "You're fired Ed",
         "character": "",
         "audioUrl": "audio/anchorman/154_you_re_fired_ed.mp3"
       },
@@ -23400,7 +17200,7 @@ const shows = [
         "audioUrl": "audio/anchorman/156_your_hair_looks_stupid.mp3"
       },
       {
-        "text": "60% of the Time, It Works Every Time",
+        "text": "60% of the time, it works every time",
         "character": "",
         "audioUrl": "audio/anchorman/157_60_of_the_time_it_works_every_time.mp3"
       }
@@ -23438,19 +17238,9 @@ const shows = [
         "audioUrl": "audio/office-space/004_and_so_you_gonna_quit_no_not_really_i_m_just_going_to_stop_g.mp3"
       },
       {
-        "text": "Are you any relation to the pop singer",
-        "character": "",
-        "audioUrl": "audio/office-space/006_are_you_any_relation_to_the_pop_singer.mp3"
-      },
-      {
         "text": "Make things run more smoothly",
         "character": "",
         "audioUrl": "audio/office-space/007_asking_some_questions_maybe_seeing_if_there_are_some_ways_we.mp3"
-      },
-      {
-        "text": "Back up in your ass with the resurrection",
-        "character": "",
-        "audioUrl": "audio/office-space/008_back_up_in_your_ass_with_the_resurrection.mp3"
       },
       {
         "text": "Radio at a reasonable volume",
@@ -23473,19 +17263,9 @@ const shows = [
         "audioUrl": "audio/office-space/014_damn_it_feels_good_to_be_a_gangsta.mp3"
       },
       {
-        "text": "Did you get that memo?",
-        "character": "",
-        "audioUrl": "audio/office-space/015_did_you_get_that_memo.mp3"
-      },
-      {
         "text": "Did you see the memo?",
         "character": "",
         "audioUrl": "audio/office-space/016_did_you_see_the_memo.mp3"
-      },
-      {
-        "text": "Didn't you get that memo?",
-        "character": "",
-        "audioUrl": "audio/office-space/017_didn_t_you_get_that_memo.mp3"
       },
       {
         "text": "Excuse me (lights out)",
@@ -23518,11 +17298,6 @@ const shows = [
         "audioUrl": "audio/office-space/032_he_represents_all_that_is_solace_and_wrong_and_you_slept_wit.mp3"
       },
       {
-        "text": "Hey look who's bad",
-        "character": "",
-        "audioUrl": "audio/office-space/035_hey_look_who_s_bad.mp3"
-      },
-      {
         "text": "Hey Peter Man! Check out Channel 9!",
         "character": "",
         "audioUrl": "audio/office-space/036_hey_peter_man_check_out_channel_9.mp3"
@@ -23553,12 +17328,7 @@ const shows = [
         "audioUrl": "audio/office-space/043_i_don_t_know_why_i_can_t_just.mp3"
       },
       {
-        "text": "I found the first one laid off",
-        "character": "",
-        "audioUrl": "audio/office-space/044_i_found_the_first_one_laid_off.mp3"
-      },
-      {
-        "text": "I Had An Idea Like That",
+        "text": "I had an idea like that",
         "character": "",
         "audioUrl": "audio/office-space/045_i_had_an_idea_like_that.mp3"
       },
@@ -23593,34 +17363,9 @@ const shows = [
         "audioUrl": "audio/office-space/051_i_think_that_the_guy_might_actually_be_able_to_help.mp3"
       },
       {
-        "text": "I think the building is on fire,",
-        "character": "",
-        "audioUrl": "audio/office-space/052_i_think_the_building_is_on_fire.mp3"
-      },
-      {
-        "text": "Like Michael Bolton's music",
-        "character": "",
-        "audioUrl": "audio/office-space/053_i_told_us_fudge_packers_are_like_michael_bolton_s_music.mp3"
-      },
-      {
-        "text": "Another copy of that memo",
-        "character": "",
-        "audioUrl": "audio/office-space/054_i_ll_go_ahead_and_make_sure_you_get_another_copy_that_memo.mp3"
-      },
-      {
-        "text": "I'm a Michael Bolton fan",
-        "character": "",
-        "audioUrl": "audio/office-space/055_i_m_a_michael_bolton_fan.mp3"
-      },
-      {
         "text": "Come in on Sunday",
         "character": "",
         "audioUrl": "audio/office-space/056_i_m_also_going_to_need_to_go_ahead_and_come_in_on_sunday.mp3"
-      },
-      {
-        "text": "I'm gonna disagree with you there",
-        "character": "",
-        "audioUrl": "audio/office-space/057_i_m_going_to_have_to_go_ahead_and_sort_of_disagree_with_you.mp3"
       },
       {
         "text": "Come in tomorrow",
@@ -23638,11 +17383,6 @@ const shows = [
         "audioUrl": "audio/office-space/060_i_m_sorry_man_look_i_you_know_i_m_talking_out_of_my_ass.mp3"
       },
       {
-        "text": "I've been a real asshole",
-        "character": "",
-        "audioUrl": "audio/office-space/061_i_ve_been_a_real_asshole.mp3"
-      },
-      {
         "text": "That would be great",
         "character": "",
         "audioUrl": "audio/office-space/062_if_you_could_just_go_ahead_and_make_sure_you_do_that_from_no.mp3"
@@ -23651,11 +17391,6 @@ const shows = [
         "text": "Where's the motivation?",
         "character": "",
         "audioUrl": "audio/office-space/063_is_a_problem_of_motivation_all_right_now_if_i_work_my_ass_of.mp3"
-      },
-      {
-        "text": "Is this good for the company",
-        "character": "",
-        "audioUrl": "audio/office-space/064_is_this_good_for_the_company.mp3"
       },
       {
         "text": "It's not that I'm lazy",
@@ -23668,7 +17403,7 @@ const shows = [
         "audioUrl": "audio/office-space/067_looks_like_you_ve_been_missing_a_lot_of_work_lately.mp3"
       },
       {
-        "text": "Made a Million Dollars",
+        "text": "Made a million dollars",
         "character": "",
         "audioUrl": "audio/office-space/068_made_a_million_dollars.mp3"
       },
@@ -23678,24 +17413,9 @@ const shows = [
         "audioUrl": "audio/office-space/071_next_friday_is_hawaiian_shirt_day.mp3"
       },
       {
-        "text": "No Talent Ass Clown",
+        "text": "No talent ass clown",
         "character": "",
         "audioUrl": "audio/office-space/072_no_talent_ass_clown.mp3"
-      },
-      {
-        "text": "No way what should I change the one who suck",
-        "character": "",
-        "audioUrl": "audio/office-space/073_no_way_what_should_i_change_the_one_who_suck.mp3"
-      },
-      {
-        "text": "Now it's just a coincidence",
-        "character": "",
-        "audioUrl": "audio/office-space/075_now_it_s_just_a_coincidence.mp3"
-      },
-      {
-        "text": "Oh and I almost forgot",
-        "character": "",
-        "audioUrl": "audio/office-space/077_oh_and_i_almost_forgot.mp3"
       },
       {
         "text": "Oh and remember next friday is hawaiian shirt day",
@@ -23728,14 +17448,9 @@ const shows = [
         "audioUrl": "audio/office-space/087_property_has_payable_nina_speaking_just_moments.mp3"
       },
       {
-        "text": "Put Up With All This Shit",
+        "text": "Put up with all this shit",
         "character": "",
         "audioUrl": "audio/office-space/088_put_up_with_all_this_shit.mp3"
-      },
-      {
-        "text": "Question is bullshit to begin with",
-        "character": "",
-        "audioUrl": "audio/office-space/089_question_is_bullshit_to_begin_with.mp3"
       },
       {
         "text": "This is all your idea",
@@ -23773,11 +17488,6 @@ const shows = [
         "audioUrl": "audio/office-space/098_so_if_you_could_be_here_around_nine_that_would_be_great.mp3"
       },
       {
-        "text": "So what we're all screwed that's watch",
-        "character": "",
-        "audioUrl": "audio/office-space/099_so_what_we_re_all_screwed_that_s_watch.mp3"
-      },
-      {
         "text": "I don't want another job",
         "character": "",
         "audioUrl": "audio/office-space/100_so_you_gonna_get_another_job_i_don_t_think_i_d_like_another.mp3"
@@ -23786,11 +17496,6 @@ const shows = [
         "text": "So you know if you want to go ahead and",
         "character": "",
         "audioUrl": "audio/office-space/101_so_you_know_if_you_want_to_go_ahead_and.mp3"
-      },
-      {
-        "text": "So you should ask yourself",
-        "character": "",
-        "audioUrl": "audio/office-space/102_so_you_should_ask_yourself.mp3"
       },
       {
         "text": "Someone has a case of the Monday's",
@@ -23818,24 +17523,9 @@ const shows = [
         "audioUrl": "audio/office-space/107_sounds_like_somebody_s_got_a_case_of_the_mondays.mp3"
       },
       {
-        "text": "That sounds good peter",
-        "character": "",
-        "audioUrl": "audio/office-space/111_that_sounds_good_peter.mp3"
-      },
-      {
-        "text": "That Would be Great, Mmm K",
-        "character": "",
-        "audioUrl": "audio/office-space/112_that_would_be_great_mmm_k.mp3"
-      },
-      {
         "text": "That's the last straw",
         "character": "",
         "audioUrl": "audio/office-space/113_that_s_the_last_straw.mp3"
-      },
-      {
-        "text": "The fuck is that mean",
-        "character": "",
-        "audioUrl": "audio/office-space/114_the_fuck_is_that_mean.mp3"
       },
       {
         "text": "Minimum security is no picnic",
@@ -23851,11 +17541,6 @@ const shows = [
         "text": "Two chicks at the same time",
         "character": "",
         "audioUrl": "audio/office-space/118_two_chicks_at_the_same_time.mp3"
-      },
-      {
-        "text": "Watch out for your cornhole bud",
-        "character": "",
-        "audioUrl": "audio/office-space/123_watch_out_for_your_cornhole_bud.mp3"
       },
       {
         "text": "We fixed the glitch",
@@ -23888,11 +17573,6 @@ const shows = [
         "audioUrl": "audio/office-space/131_well_i_m_just_not_sure_about_that_right_now.mp3"
       },
       {
-        "text": "What am I going to do with forty subscriptions divide",
-        "character": "",
-        "audioUrl": "audio/office-space/132_what_am_i_going_to_do_with_forty_subscriptions_divide.mp3"
-      },
-      {
         "text": "What happened I flipped off my boss",
         "character": "",
         "audioUrl": "audio/office-space/133_what_happened_i_flipped_off_my_boss.mp3"
@@ -23903,12 +17583,7 @@ const shows = [
         "audioUrl": "audio/office-space/134_what_if_we_re_still_doing_this_when_we_re_fifty.mp3"
       },
       {
-        "text": "The worst idea ever",
-        "character": "",
-        "audioUrl": "audio/office-space/135_what_is_the_worst_idea_i_ve_ever_heard_in_my_life.mp3"
-      },
-      {
-        "text": "What the Hell is Wrong With You People",
+        "text": "What the hell is wrong with you people",
         "character": "",
         "audioUrl": "audio/office-space/136_what_the_hell_is_wrong_with_you_people.mp3"
       },
@@ -23921,11 +17596,6 @@ const shows = [
         "text": "What would ya say ya do here?",
         "character": "",
         "audioUrl": "audio/office-space/138_what_would_ya_say_ya_do_here.mp3"
-      },
-      {
-        "text": "What would you do if you had a million dollars",
-        "character": "",
-        "audioUrl": "audio/office-space/139_what_would_you_do_if_you_had_a_million_dollars.mp3"
       },
       {
         "text": "A stock option program",
@@ -23948,11 +17618,6 @@ const shows = [
         "audioUrl": "audio/office-space/147_yeah_exactly_what_i_need.mp3"
       },
       {
-        "text": "Yeah this is horrible this idea",
-        "character": "",
-        "audioUrl": "audio/office-space/148_yeah_this_is_horrible_this_idea.mp3"
-      },
-      {
         "text": "Yeah well i'm just not sure about that right now",
         "character": "",
         "audioUrl": "audio/office-space/149_yeah_well_i_m_just_not_sure_about_that_right_now.mp3"
@@ -23966,11 +17631,6 @@ const shows = [
         "text": "Cover sheets on TPS reports",
         "character": "",
         "audioUrl": "audio/office-space/151_you_apparently_didn_t_put_one_of_the_new_cover_sheets_on_you.mp3"
-      },
-      {
-        "text": "You do want to express yourself, don't you?",
-        "character": "",
-        "audioUrl": "audio/office-space/152_you_do_want_to_express_yourself_don_t_you.mp3"
       },
       {
         "text": "Pieces of flair",
@@ -24018,11 +17678,6 @@ const shows = [
         "audioUrl": "audio/office-space/162_but_do_you_would_i_do_man_two_chicks_at_the_same_time_now.mp3"
       },
       {
-        "text": "A dude like me",
-        "character": "",
-        "audioUrl": "audio/office-space/163_but_that_takes_a_double_up_on_a_dude_like_me_do.mp3"
-      },
-      {
         "text": "But you don't want that peter man 's toasted maine",
         "character": "",
         "audioUrl": "audio/office-space/164_but_you_don_t_want_that_peter_man_s_toasted_maine.mp3"
@@ -24048,24 +17703,9 @@ const shows = [
         "audioUrl": "audio/office-space/169_hey_peter_yeah_watch_out_for_a_cornhole_bud.mp3"
       },
       {
-        "text": "You two still going?",
-        "character": "",
-        "audioUrl": "audio/office-space/170_hey_she_had_been_over_here_in_a_while_you_two_still_going_up.mp3"
-      },
-      {
         "text": "I get that feeling",
         "character": "",
         "audioUrl": "audio/office-space/171_i_don_t_know_man_i_just_get_that_feeling_looking_at_her_like.mp3"
-      },
-      {
-        "text": "I'm sorry man I thought you want to see this",
-        "character": "",
-        "audioUrl": "audio/office-space/172_i_m_sorry_man_i_thought_you_want_to_see_this.mp3"
-      },
-      {
-        "text": "It's a bummer dude could have seen",
-        "character": "",
-        "audioUrl": "audio/office-space/173_it_s_a_bummer_dude_could_have_seen.mp3"
       },
       {
         "text": "Don't fuck up my life",
@@ -24078,44 +17718,9 @@ const shows = [
         "audioUrl": "audio/office-space/177_oh_i_gotta_wake_my_ass_up_at_six_am_everyday_this_week.mp3"
       },
       {
-        "text": "Oh sorry man an over there some",
-        "character": "",
-        "audioUrl": "audio/office-space/178_oh_sorry_man_an_over_there_some.mp3"
-      },
-      {
         "text": "You'll get your ass kicked",
         "character": "",
         "audioUrl": "audio/office-space/179_shit_no_man_i_believe_you_get_your_ass_kicked_saying_so_much.mp3"
-      },
-      {
-        "text": "Tell me about it man",
-        "character": "",
-        "audioUrl": "audio/office-space/180_tell_me_about_it_man.mp3"
-      },
-      {
-        "text": "That's alright I got it",
-        "character": "",
-        "audioUrl": "audio/office-space/181_that_s_alright_i_got_it.mp3"
-      },
-      {
-        "text": "Then I check look like a yeah",
-        "character": "",
-        "audioUrl": "audio/office-space/182_then_i_check_look_like_a_yeah.mp3"
-      },
-      {
-        "text": "We still going fishing this weekend",
-        "character": "",
-        "audioUrl": "audio/office-space/183_we_still_going_fishing_this_weekend.mp3"
-      },
-      {
-        "text": "Yeah I get that feeling too man",
-        "character": "",
-        "audioUrl": "audio/office-space/184_yeah_i_get_that_feeling_too_man.mp3"
-      },
-      {
-        "text": "Drywall at the new McDonald's",
-        "character": "",
-        "audioUrl": "audio/office-space/185_yeah_i_m_doing_the_drywall_up_there_at_the_new_mcdonald_s.mp3"
       }
     ]
   },
@@ -24136,7 +17741,7 @@ const shows = [
         "audioUrl": "audio/pineapple-express/005_both_of_my_best_friends.mp3"
       },
       {
-        "text": "Everyone Should Smoke It",
+        "text": "Everyone should smoke it",
         "character": "",
         "audioUrl": "audio/pineapple-express/009_everyone_should_smoke_it.mp3"
       },
@@ -24151,12 +17756,12 @@ const shows = [
         "audioUrl": "audio/pineapple-express/017_high_as_a_fucking_kite.mp3"
       },
       {
-        "text": "I Don't Trust Him",
+        "text": "I don't trust him",
         "character": "",
         "audioUrl": "audio/pineapple-express/018_i_don_t_trust_him.mp3"
       },
       {
-        "text": "I Don't Wanna Do This",
+        "text": "I don't wanna do this",
         "character": "",
         "audioUrl": "audio/pineapple-express/019_i_don_t_wanna_do_this.mp3"
       },
@@ -24171,7 +17776,7 @@ const shows = [
         "audioUrl": "audio/pineapple-express/021_i_made_a_mistake.mp3"
       },
       {
-        "text": "I Still Don't Understand",
+        "text": "I still don't understand",
         "character": "",
         "audioUrl": "audio/pineapple-express/023_i_still_don_t_understand.mp3"
       },
@@ -24181,7 +17786,7 @@ const shows = [
         "audioUrl": "audio/pineapple-express/024_i_wanna_be_inside_you_homes.mp3"
       },
       {
-        "text": "I'm Taking These With Me",
+        "text": "I'm taking these with me",
         "character": "",
         "audioUrl": "audio/pineapple-express/025_i_m_taking_these_with_me.mp3"
       },
@@ -24191,7 +17796,7 @@ const shows = [
         "audioUrl": "audio/pineapple-express/027_it_s_a_cold_sore.mp3"
       },
       {
-        "text": "It's Like God's ******",
+        "text": "It's like God's ******",
         "character": "",
         "audioUrl": "audio/pineapple-express/028_it_s_like_god_s.mp3"
       },
@@ -24206,7 +17811,7 @@ const shows = [
         "audioUrl": "audio/pineapple-express/030_it_s_my_cats_birthday_today.mp3"
       },
       {
-        "text": "Kill You And Some",
+        "text": "Kill you and some",
         "character": "",
         "audioUrl": "audio/pineapple-express/031_kill_you_and_some.mp3"
       },
@@ -24221,32 +17826,32 @@ const shows = [
         "audioUrl": "audio/pineapple-express/035_monkey_s_out_of_the_bottle.mp3"
       },
       {
-        "text": "Not Ready For Marriage",
+        "text": "Not ready for marriage",
         "character": "",
         "audioUrl": "audio/pineapple-express/036_not_ready_for_marriage.mp3"
       },
       {
-        "text": "Oh I Made A Mistake",
+        "text": "Oh I made a mistake",
         "character": "",
         "audioUrl": "audio/pineapple-express/037_oh_i_made_a_mistake.mp3"
       },
       {
-        "text": "Pineapple express come on down",
+        "text": "Come on down",
         "character": "",
         "audioUrl": "audio/pineapple-express/040_pineapple_express_come_on_down.mp3"
       },
       {
-        "text": "Pineapple Express prostitute gun",
+        "text": "Prostitute gun",
         "character": "",
         "audioUrl": "audio/pineapple-express/041_pineapple_express_prostitute_gun.mp3"
       },
       {
-        "text": "Safety First, then Teamwork",
+        "text": "Safety first, then teamwork",
         "character": "",
         "audioUrl": "audio/pineapple-express/042_safety_first_then_teamwork.mp3"
       },
       {
-        "text": "Special Time With Me",
+        "text": "Special time with me",
         "character": "",
         "audioUrl": "audio/pineapple-express/049_special_time_with_me.mp3"
       },
@@ -24266,7 +17871,7 @@ const shows = [
         "audioUrl": "audio/pineapple-express/054_the_answer_i_m_looking_for.mp3"
       },
       {
-        "text": "Threw Up On My Printer",
+        "text": "Threw up on my printer",
         "character": "",
         "audioUrl": "audio/pineapple-express/056_threw_up_on_my_printer.mp3"
       },
@@ -24311,7 +17916,7 @@ const shows = [
         "audioUrl": "audio/pineapple-express/067_you_didn_t_even_have_herpes.mp3"
       },
       {
-        "text": "You Killed Him Man",
+        "text": "You killed him man",
         "character": "",
         "audioUrl": "audio/pineapple-express/068_you_killed_him_man.mp3"
       },
@@ -24321,12 +17926,12 @@ const shows = [
         "audioUrl": "audio/pineapple-express/069_you_know_what_today_is.mp3"
       },
       {
-        "text": "You Torch Me Please",
+        "text": "You torch me please",
         "character": "",
         "audioUrl": "audio/pineapple-express/070_you_torch_me_please.mp3"
       },
       {
-        "text": "Your Cats Going To Heaven",
+        "text": "Your cats going to heaven",
         "character": "",
         "audioUrl": "audio/pineapple-express/073_your_cats_going_to_heaven.mp3"
       },
@@ -24336,7 +17941,7 @@ const shows = [
         "audioUrl": "audio/pineapple-express/074_your_dick_my_mouth.mp3"
       },
       {
-        "text": "2 And A Half Girls",
+        "text": "2 and a half girls",
         "character": "",
         "audioUrl": "audio/pineapple-express/075_2_and_a_half_girls.mp3"
       }
@@ -24384,16 +17989,6 @@ const shows = [
         "audioUrl": "audio/austin-powers-goldmember/006_assholes_i_have_time_for_a_smoke_and_a_pancake_or_what.mp3"
       },
       {
-        "text": "Bye, mole. Bye.",
-        "character": "",
-        "audioUrl": "audio/austin-powers-goldmember/008_bye_mole_bye.mp3"
-      },
-      {
-        "text": "Call my dad.",
-        "character": "",
-        "audioUrl": "audio/austin-powers-goldmember/009_call_my_dad.mp3"
-      },
-      {
         "text": "You look very switched on",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/010_cool_baby_you_look_very_switched_on.mp3"
@@ -24424,11 +18019,6 @@ const shows = [
         "audioUrl": "audio/austin-powers-goldmember/018_free_kitty_who_i_had_the_best_grades_in_a_class_and_i_didn_t.mp3"
       },
       {
-        "text": "Free Kitty who?",
-        "character": "",
-        "audioUrl": "audio/austin-powers-goldmember/019_free_kitty_who.mp3"
-      },
-      {
         "text": "You have my demands. Peace out.",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/020_gentlemen_you_have_my_demands_peace_out.mp3"
@@ -24444,19 +18034,9 @@ const shows = [
         "audioUrl": "audio/austin-powers-goldmember/022_hey_david_lady_here_s_my_diaper_i_think_i_might_pinch_one_of.mp3"
       },
       {
-        "text": "I'm Dixie Normous",
-        "character": "",
-        "audioUrl": "audio/austin-powers-goldmember/023_hi_i_m_dixie_dixie_normous.mp3"
-      },
-      {
         "text": "How about no, you crazy Dutch b*stard",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/024_how_about_no_you_crazy_dutch_b_stard.mp3"
-      },
-      {
-        "text": "Crackheads make more sense",
-        "character": "",
-        "audioUrl": "audio/austin-powers-goldmember/025_i_know_guys_on_crack_that_makes_more_sense_than_you.mp3"
       },
       {
         "text": "I love gold.",
@@ -24472,11 +18052,6 @@ const shows = [
         "text": "A large mole on my face",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/029_i_realize_i_have_a_large_mole_on_my_face.mp3"
-      },
-      {
-        "text": "Threw up in my mouth a little",
-        "character": "",
-        "audioUrl": "audio/austin-powers-goldmember/030_i_threw_up_in_my_mouth_a_little_bit.mp3"
       },
       {
         "text": "Can I give you my number?",
@@ -24504,19 +18079,9 @@ const shows = [
         "audioUrl": "audio/austin-powers-goldmember/035_ladies_and_gentlemen_welcome_to_my_new_submarine_layer_it_s.mp3"
       },
       {
-        "text": "Mall",
-        "character": "",
-        "audioUrl": "audio/austin-powers-goldmember/036_mall.mp3"
-      },
-      {
         "text": "I thought I smelled cabbage",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/037_meet_mini_me_blind_me_i_thought_i_smelled_cabbage.mp3"
-      },
-      {
-        "text": "Model.",
-        "character": "",
-        "audioUrl": "audio/austin-powers-goldmember/039_model.mp3"
       },
       {
         "text": "Moley, moley, moley, moley!",
@@ -24524,19 +18089,9 @@ const shows = [
         "audioUrl": "audio/austin-powers-goldmember/040_moley_moley_moley_moley.mp3"
       },
       {
-        "text": "Molly molly molly",
-        "character": "",
-        "audioUrl": "audio/austin-powers-goldmember/041_molly_molly_molly_molly_molly.mp3"
-      },
-      {
         "text": "No one would make that connection",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/044_no_one_would_make_that_connection.mp3"
-      },
-      {
-        "text": "No traitor.",
-        "character": "",
-        "audioUrl": "audio/austin-powers-goldmember/045_no_traitor.mp3"
       },
       {
         "text": "The shooting begins",
@@ -24547,11 +18102,6 @@ const shows = [
         "text": "Smarty pants evil",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/047_not_so_much_smarty_pants_evil_you_might_not_want_to_destroy.mp3"
-      },
-      {
-        "text": "Oh shut up!",
-        "character": "",
-        "audioUrl": "audio/austin-powers-goldmember/050_oh_shut_up.mp3"
       },
       {
         "text": "One billion gagillion",
@@ -24574,29 +18124,14 @@ const shows = [
         "audioUrl": "audio/austin-powers-goldmember/058_right_it_looks_like_godzilla_but_due_to_international_copyri.mp3"
       },
       {
-        "text": "Scott is on fire",
-        "character": "",
-        "audioUrl": "audio/austin-powers-goldmember/059_scott_is_on_fire.mp3"
-      },
-      {
         "text": "He is small",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/063_that_anyone_can_take_a_hint_it_doesn_t_understand_he_is_smal.mp3"
       },
       {
-        "text": "That's not right.",
-        "character": "",
-        "audioUrl": "audio/austin-powers-goldmember/064_that_s_not_right.mp3"
-      },
-      {
         "text": "...and the Dutch",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/065_there_are_only_two_things_i_can_t_stand_in_this_world_people.mp3"
-      },
-      {
-        "text": "Up your job, Turkey",
-        "character": "",
-        "audioUrl": "audio/austin-powers-goldmember/066_up_your_job_turkey.mp3"
       },
       {
         "text": "Welcome to 1975",
@@ -24609,34 +18144,14 @@ const shows = [
         "audioUrl": "audio/austin-powers-goldmember/069_well_miss_norma_s_shall_we_shag_now_or_shag_later_oh_often_b.mp3"
       },
       {
-        "text": "I didn't have any corn",
-        "character": "",
-        "audioUrl": "audio/austin-powers-goldmember/070_well_i_didn_t_have_any_corn.mp3"
-      },
-      {
         "text": "I'm foxy Cleopatra",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/071_well_the_future_better_get_ready_for_me_cause_i_m_foxy_cleop.mp3"
       },
       {
-        "text": "Where to go",
-        "character": "",
-        "audioUrl": "audio/austin-powers-goldmember/072_where_to_go_a_whole.mp3"
-      },
-      {
-        "text": "Yeah baby yeah.",
-        "character": "",
-        "audioUrl": "audio/austin-powers-goldmember/073_yeah_baby_yeah.mp3"
-      },
-      {
         "text": "Nice to meet your mole",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/075_yes_nice_to_meet_you_meet_you_nice_to_meet_your_mole_don_t_s.mp3"
-      },
-      {
-        "text": "Right to remain, sugar",
-        "character": "",
-        "audioUrl": "audio/austin-powers-goldmember/076_you_have_the_right_to_remain_60_sugar.mp3"
       },
       {
         "text": "Now I can see your nuts",
@@ -24652,11 +18167,6 @@ const shows = [
         "text": "Cunning linguist, master debater",
         "character": "",
         "audioUrl": "audio/austin-powers-goldmember/079_you_speak_japanese_and_little_well_you_might_be_a_cunning_li.mp3"
-      },
-      {
-        "text": "You under arrest, sugar",
-        "character": "",
-        "audioUrl": "audio/austin-powers-goldmember/080_you_under_arrest_sugar.mp3"
       },
       {
         "text": "That's the way I like it",
@@ -24910,7 +18420,7 @@ const shows = [
         "audioUrl": "audio/the-hangover/005_blood_brothers.mp3"
       },
       {
-        "text": "BOOM",
+        "text": "Boom",
         "character": "",
         "audioUrl": "audio/the-hangover/006_boom.mp3"
       },
@@ -24935,21 +18445,6 @@ const shows = [
         "audioUrl": "audio/the-hangover/010_escalator_down_to_casino.mp3"
       },
       {
-        "text": "Fake Laugh",
-        "character": "",
-        "audioUrl": "audio/the-hangover/011_fake_laugh.mp3"
-      },
-      {
-        "text": "Ha, classic!",
-        "character": "",
-        "audioUrl": "audio/the-hangover/012_ha_classic.mp3"
-      },
-      {
-        "text": "How dare you",
-        "character": "",
-        "audioUrl": "audio/the-hangover/013_how_dare_you.mp3"
-      },
-      {
         "text": "I can feel it coming in the air tonight",
         "character": "",
         "audioUrl": "audio/the-hangover/014_i_can_feel_it_coming_in_the_air_tonight.mp3"
@@ -24965,7 +18460,7 @@ const shows = [
         "audioUrl": "audio/the-hangover/016_i_m_a_steel_trap.mp3"
       },
       {
-        "text": "In The Face",
+        "text": "In the face",
         "character": "",
         "audioUrl": "audio/the-hangover/017_in_the_face.mp3"
       },
@@ -25000,27 +18495,12 @@ const shows = [
         "audioUrl": "audio/the-hangover/023_nice.mp3"
       },
       {
-        "text": "No thank you",
-        "character": "",
-        "audioUrl": "audio/the-hangover/024_no_thank_you.mp3"
-      },
-      {
         "text": "Not you fat jesus",
         "character": "",
         "audioUrl": "audio/the-hangover/025_not_you_fat_jesus.mp3"
       },
       {
-        "text": "Oh my god!",
-        "character": "",
-        "audioUrl": "audio/the-hangover/026_oh_my_god.mp3"
-      },
-      {
-        "text": "Ok byeeee",
-        "character": "",
-        "audioUrl": "audio/the-hangover/027_ok_byeeee.mp3"
-      },
-      {
-        "text": "One Man Wolf Pack",
+        "text": "One man wolf pack",
         "character": "",
         "audioUrl": "audio/the-hangover/028_one_man_wolf_pack.mp3"
       },
@@ -25040,12 +18520,7 @@ const shows = [
         "audioUrl": "audio/the-hangover/031_so_long_gay_boys.mp3"
       },
       {
-        "text": "Suck my dick",
-        "character": "",
-        "audioUrl": "audio/the-hangover/032_suck_my_dick.mp3"
-      },
-      {
-        "text": "Thanks a Lot Bin Laden",
+        "text": "Thanks a lot Bin Laden",
         "character": "",
         "audioUrl": "audio/the-hangover/033_thanks_a_lot_bin_laden.mp3"
       },
@@ -25060,7 +18535,7 @@ const shows = [
         "audioUrl": "audio/the-hangover/035_that_s_a_fake_laugh_by_the_way.mp3"
       },
       {
-        "text": "The Doug Song",
+        "text": "The Doug song",
         "character": "",
         "audioUrl": "audio/the-hangover/036_the_doug_song.mp3"
       },
@@ -25070,24 +18545,14 @@ const shows = [
         "audioUrl": "audio/the-hangover/037_this_isn_t_the_real_caesar_s_palace_is_it.mp3"
       },
       {
-        "text": "Three Best Friends That Anyone Could Have",
+        "text": "Three best friends that anyone could have",
         "character": "",
         "audioUrl": "audio/the-hangover/038_three_best_friends_that_anyone_could_have.mp3"
       },
       {
-        "text": "Thumbs Up",
-        "character": "",
-        "audioUrl": "audio/the-hangover/039_thumbs_up.mp3"
-      },
-      {
-        "text": "Toodaloo, Mother F**cker",
+        "text": "Toodaloo, mother f**cker",
         "character": "",
         "audioUrl": "audio/the-hangover/040_toodaloo_mother_f_cker.mp3"
-      },
-      {
-        "text": "Vegas!",
-        "character": "",
-        "audioUrl": "audio/the-hangover/041_vegas.mp3"
       },
       {
         "text": "We fucked up",
@@ -25095,19 +18560,9 @@ const shows = [
         "audioUrl": "audio/the-hangover/042_we_fucked_up.mp3"
       },
       {
-        "text": "What you talking about",
-        "character": "",
-        "audioUrl": "audio/the-hangover/043_what_you_talking_about.mp3"
-      },
-      {
         "text": "What's his name?",
         "character": "",
         "audioUrl": "audio/the-hangover/044_what_s_his_name.mp3"
-      },
-      {
-        "text": "Where is Doug",
-        "character": "",
-        "audioUrl": "audio/the-hangover/045_where_is_doug.mp3"
       },
       {
         "text": "Woo! Road trip!",
@@ -25120,24 +18575,9 @@ const shows = [
         "audioUrl": "audio/the-hangover/047_yeah_that_s_not_gonna_happen.mp3"
       },
       {
-        "text": "You are Too Stupid to Insult",
-        "character": "",
-        "audioUrl": "audio/the-hangover/048_you_are_too_stupid_to_insult.mp3"
-      },
-      {
         "text": "You gonna fuck on me?",
         "character": "",
         "audioUrl": "audio/the-hangover/049_you_gonna_fuck_on_me.mp3"
-      },
-      {
-        "text": "Your choice, bitches",
-        "character": "",
-        "audioUrl": "audio/the-hangover/050_your_choice_bitches.mp3"
-      },
-      {
-        "text": "Your Language is offensive",
-        "character": "",
-        "audioUrl": "audio/the-hangover/051_your_language_is_offensive.mp3"
       }
     ]
   },
@@ -25183,7 +18623,7 @@ const shows = [
         "audioUrl": "audio/the-other-guys/006_at_age_11_i_went_to_school.mp3"
       },
       {
-        "text": "Balls to Do It",
+        "text": "Balls to do it",
         "character": "",
         "audioUrl": "audio/the-other-guys/007_balls_to_do_it.mp3"
       },
@@ -25193,24 +18633,9 @@ const shows = [
         "audioUrl": "audio/the-other-guys/008_bar_mitvahs.mp3"
       },
       {
-        "text": "Barge in",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/009_barge_in.mp3"
-      },
-      {
         "text": "Bullshit on That",
         "character": "",
         "audioUrl": "audio/the-other-guys/010_bullshit_on_that.mp3"
-      },
-      {
-        "text": "Can't have a conscience in the pimp game",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/011_can_t_have_a_conscience_in_the_pimp_game.mp3"
-      },
-      {
-        "text": "Celebrate",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/012_celebrate.mp3"
       },
       {
         "text": "Creep creep",
@@ -25228,22 +18653,7 @@ const shows = [
         "audioUrl": "audio/the-other-guys/015_did_that_go_the_way_you_thought_it_was_going_to_go.mp3"
       },
       {
-        "text": "Does not approve",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/016_does_not_approve.mp3"
-      },
-      {
-        "text": "Don't flatter yourself",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/017_don_t_flatter_yourself.mp3"
-      },
-      {
-        "text": "Don't go chasing waterfalls",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/018_don_t_go_chasing_waterfalls.mp3"
-      },
-      {
-        "text": "Excited for Bath Mats",
+        "text": "Excited for bath mats",
         "character": "",
         "audioUrl": "audio/the-other-guys/019_excited_for_bath_mats.mp3"
       },
@@ -25258,39 +18668,9 @@ const shows = [
         "audioUrl": "audio/the-other-guys/021_gator.mp3"
       },
       {
-        "text": "Gator Don't Play",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/022_gator_don_t_play.mp3"
-      },
-      {
-        "text": "Gators Bitches Better Be Using Jimmies",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/023_gators_bitches_better_be_using_jimmies.mp3"
-      },
-      {
-        "text": "Gentlemen you have a choice",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/024_gentlemen_you_have_a_choice.mp3"
-      },
-      {
         "text": "Go get em",
         "character": "",
         "audioUrl": "audio/the-other-guys/025_go_get_em.mp3"
-      },
-      {
-        "text": "God no!",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/026_god_no.mp3"
-      },
-      {
-        "text": "He's not going to do that, that's a hyperbole",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/027_he_s_not_going_to_do_that_that_s_a_hyperbole.mp3"
-      },
-      {
-        "text": "Hey you monkeys stop!",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/028_hey_you_monkeys_stop.mp3"
       },
       {
         "text": "I am a peacock!",
@@ -25298,19 +18678,9 @@ const shows = [
         "audioUrl": "audio/the-other-guys/029_i_am_a_peacock.mp3"
       },
       {
-        "text": "I could've handled that myself",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/030_i_could_ve_handled_that_myself.mp3"
-      },
-      {
         "text": "I don't like what I see",
         "character": "",
         "audioUrl": "audio/the-other-guys/031_i_don_t_like_what_i_see.mp3"
-      },
-      {
-        "text": "I don't want no scrubs",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/032_i_don_t_want_no_scrubs.mp3"
       },
       {
         "text": "I got to go",
@@ -25328,16 +18698,6 @@ const shows = [
         "audioUrl": "audio/the-other-guys/035_i_made_a_promise_to_her_i_would_never_get_out_of_control_aga.mp3"
       },
       {
-        "text": "I wanna go!",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/036_i_wanna_go.mp3"
-      },
-      {
-        "text": "I was grounded",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/037_i_was_grounded.mp3"
-      },
-      {
         "text": "I was very much looking forward to having a water",
         "character": "",
         "audioUrl": "audio/the-other-guys/038_i_was_very_much_looking_forward_to_having_a_water.mp3"
@@ -25348,37 +18708,12 @@ const shows = [
         "audioUrl": "audio/the-other-guys/039_i_m_gonna_beat_the_shit_outta_you.mp3"
       },
       {
-        "text": "I'm telling you, you were a pimp",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/040_i_m_telling_you_you_were_a_pimp.mp3"
-      },
-      {
-        "text": "I'm your partner you can tell me",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/041_i_m_your_partner_you_can_tell_me.mp3"
-      },
-      {
         "text": "I’m talking about doing some serious drinking!",
         "character": "",
         "audioUrl": "audio/the-other-guys/042_i_m_talking_about_doing_some_serious_drinking.mp3"
       },
       {
-        "text": "Is it?",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/043_is_it.mp3"
-      },
-      {
-        "text": "Is that what's happening huh?!",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/044_is_that_what_s_happening_huh.mp3"
-      },
-      {
-        "text": "It's a partners code I had no choice",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/045_it_s_a_partners_code_i_had_no_choice.mp3"
-      },
-      {
-        "text": "It's a Rape Whistle",
+        "text": "It's a rape whistle",
         "character": "",
         "audioUrl": "audio/the-other-guys/046_it_s_a_rape_whistle.mp3"
       },
@@ -25393,12 +18728,7 @@ const shows = [
         "audioUrl": "audio/the-other-guys/048_it_s_9_15.mp3"
       },
       {
-        "text": "Jeez I'm sorry",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/049_jeez_i_m_sorry.mp3"
-      },
-      {
-        "text": "LOL",
+        "text": "Laughing",
         "character": "",
         "audioUrl": "audio/the-other-guys/050_lol.mp3"
       },
@@ -25408,29 +18738,14 @@ const shows = [
         "audioUrl": "audio/the-other-guys/051_look_at_these_two_jamokes.mp3"
       },
       {
-        "text": "No I was just trying to help a friend",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/052_no_i_was_just_trying_to_help_a_friend.mp3"
-      },
-      {
         "text": "No, are you evening listening to the story?",
         "character": "",
         "audioUrl": "audio/the-other-guys/053_no_are_you_evening_listening_to_the_story.mp3"
       },
       {
-        "text": "Nobody Cares About You",
+        "text": "Nobody cares about you",
         "character": "",
         "audioUrl": "audio/the-other-guys/054_nobody_cares_about_you.mp3"
-      },
-      {
-        "text": "Oh man",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/055_oh_man.mp3"
-      },
-      {
-        "text": "OMG you were a pimp",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/056_omg_you_were_a_pimp.mp3"
       },
       {
         "text": "Pimps don't cry",
@@ -25441,11 +18756,6 @@ const shows = [
         "text": "Put on big boy pants",
         "character": "",
         "audioUrl": "audio/the-other-guys/058_put_on_big_boy_pants.mp3"
-      },
-      {
-        "text": "Shh Shh",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/059_shh_shh.mp3"
       },
       {
         "text": "Shot AROD",
@@ -25463,31 +18773,6 @@ const shows = [
         "audioUrl": "audio/the-other-guys/062_terry_insults_allen.mp3"
       },
       {
-        "text": "That's a weird example",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/063_that_s_a_weird_example.mp3"
-      },
-      {
-        "text": "That's horrible",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/064_that_s_horrible.mp3"
-      },
-      {
-        "text": "The city is dying for a hero",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/065_the_city_is_dying_for_a_hero.mp3"
-      },
-      {
-        "text": "The most stable job I could think of",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/066_the_most_stable_job_i_could_think_of.mp3"
-      },
-      {
-        "text": "These guys are pros",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/067_these_guys_are_pros.mp3"
-      },
-      {
         "text": "They were so convincing",
         "character": "",
         "audioUrl": "audio/the-other-guys/068_they_were_so_convincing.mp3"
@@ -25503,44 +18788,9 @@ const shows = [
         "audioUrl": "audio/the-other-guys/070_we_started_making_a_lot_of_money.mp3"
       },
       {
-        "text": "Wednesday night is taco night",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/071_wednesday_night_is_taco_night.mp3"
-      },
-      {
-        "text": "Well Well Well",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/072_well_well_well.mp3"
-      },
-      {
-        "text": "What the hell are you?",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/073_what_the_hell_are_you.mp3"
-      },
-      {
-        "text": "What the hell is going on here?!",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/074_what_the_hell_is_going_on_here.mp3"
-      },
-      {
         "text": "What're you afraid of man?",
         "character": "",
         "audioUrl": "audio/the-other-guys/075_what_re_you_afraid_of_man.mp3"
-      },
-      {
-        "text": "What're you doing?!",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/076_what_re_you_doing.mp3"
-      },
-      {
-        "text": "Why don't you step back man",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/077_why_don_t_you_step_back_man.mp3"
-      },
-      {
-        "text": "Yes that's exactly what's happening",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/078_yes_that_s_exactly_what_s_happening.mp3"
       },
       {
         "text": "The next hotshot",
@@ -25548,19 +18798,9 @@ const shows = [
         "audioUrl": "audio/the-other-guys/079_you_guys_are_fighting_over_who_s_going_to_be_the_next_hotsho.mp3"
       },
       {
-        "text": "You thinking what I'm thinking partner?",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/080_you_thinking_what_i_m_thinking_partner.mp3"
-      },
-      {
         "text": "You wanna dance brolio?!",
         "character": "",
         "audioUrl": "audio/the-other-guys/081_you_wanna_dance_brolio.mp3"
-      },
-      {
-        "text": "You've got to be shitting me",
-        "character": "",
-        "audioUrl": "audio/the-other-guys/082_you_ve_got_to_be_shitting_me.mp3"
       },
       {
         "text": "Your farts aren't manly",
@@ -25944,11 +19184,6 @@ const shows = [
         "audioUrl": "audio/borat/005_eatmytits.mp3"
       },
       {
-        "text": "Entry please",
-        "character": "",
-        "audioUrl": "audio/borat/006_entryplease.mp3"
-      },
-      {
         "text": "Five woman",
         "character": "",
         "audioUrl": "audio/borat/007_fivewoman.mp3"
@@ -25964,11 +19199,6 @@ const shows = [
         "audioUrl": "audio/borat/009_greatsuccess.mp3"
       },
       {
-        "text": "Happy times",
-        "character": "",
-        "audioUrl": "audio/borat/010_happytimes.mp3"
-      },
-      {
         "text": "Have a drink",
         "character": "",
         "audioUrl": "audio/borat/011_haveadrink.mp3"
@@ -25979,19 +19209,9 @@ const shows = [
         "audioUrl": "audio/borat/012_hotel.mp3"
       },
       {
-        "text": "Howdy partners",
-        "character": "",
-        "audioUrl": "audio/borat/013_howdypartners.mp3"
-      },
-      {
         "text": "How fast",
         "character": "",
         "audioUrl": "audio/borat/014_howfast.mp3"
-      },
-      {
-        "text": "How much",
-        "character": "",
-        "audioUrl": "audio/borat/015_howmuch.mp3"
       },
       {
         "text": "I arrive",
@@ -26009,19 +19229,9 @@ const shows = [
         "audioUrl": "audio/borat/018_itforgirls.mp3"
       },
       {
-        "text": "I will eat your",
-        "character": "",
-        "audioUrl": "audio/borat/019_iwilleatyour.mp3"
-      },
-      {
         "text": "King in the castle",
         "character": "",
         "audioUrl": "audio/borat/020_kinginthecastle.mp3"
-      },
-      {
-        "text": "Let's get drunk",
-        "character": "",
-        "audioUrl": "audio/borat/021_letsgetdrunk.mp3"
       },
       {
         "text": "Lose them",
@@ -26174,11 +19384,6 @@ const shows = [
         "audioUrl": "audio/borat/051_uzbekistan.mp3"
       },
       {
-        "text": "Vanilla face",
-        "character": "",
-        "audioUrl": "audio/borat/052_vanillaface.mp3"
-      },
-      {
         "text": "Very excite",
         "character": "",
         "audioUrl": "audio/borat/053_veryexcite.mp3"
@@ -26252,11 +19457,6 @@ const shows = [
         "audioUrl": "audio/django-unchained/002_curiosity_and_attention.mp3"
       },
       {
-        "text": "Fuck all y'all! I'm goin home!",
-        "character": "",
-        "audioUrl": "audio/django-unchained/003_fuck_all_y_all_i_m_goin_home.mp3"
-      },
-      {
         "text": "I'm riding blind",
         "character": "",
         "audioUrl": "audio/django-unchained/004_i_m_riding_blind.mp3"
@@ -26277,31 +19477,6 @@ const shows = [
         "audioUrl": "audio/django-unchained/007_nod.mp3"
       },
       {
-        "text": "Noooo!",
-        "character": "",
-        "audioUrl": "audio/django-unchained/008_noooo.mp3"
-      },
-      {
-        "text": "Not pointing any finngers",
-        "character": "",
-        "audioUrl": "audio/django-unchained/009_not_pointing_any_finngers.mp3"
-      },
-      {
-        "text": "Now we must act as our own bartender",
-        "character": "",
-        "audioUrl": "audio/django-unchained/010_now_we_must_act_as_our_own_bartender.mp3"
-      },
-      {
-        "text": "Say goodnight to them nuts",
-        "character": "",
-        "audioUrl": "audio/django-unchained/011_say_goodnight_to_them_nuts.mp3"
-      },
-      {
-        "text": "The D is Silent",
-        "character": "",
-        "audioUrl": "audio/django-unchained/012_the_d_is_silent.mp3"
-      },
-      {
         "text": "To you sir I say... Goodbye",
         "character": "",
         "audioUrl": "audio/django-unchained/013_to_you_sir_i_say_goodbye.mp3"
@@ -26312,17 +19487,7 @@ const shows = [
         "audioUrl": "audio/django-unchained/014_well_come_on_inside_and_get_yourself_something_cool_to_drink.mp3"
       },
       {
-        "text": "Who dis n**** on dat nag?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/015_who_dis_n_on_dat_nag.mp3"
-      },
-      {
-        "text": "Who dis n**** on dat nag?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/015_who_dis_n_on_dat_nag.mp3"
-      },
-      {
-        "text": "With My Hands Raised Above My Head",
+        "text": "With my hands raised above my head",
         "character": "",
         "audioUrl": "audio/django-unchained/016_with_my_hands_raised_above_my_head.mp3"
       },
@@ -26330,11 +19495,6 @@ const shows = [
         "text": "You will?",
         "character": "",
         "audioUrl": "audio/django-unchained/017_you_will.mp3"
-      },
-      {
-        "text": "Ah, yes. Yes, we were, doctor.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/018_ah_yes_yes_we_were_doctor.mp3"
       },
       {
         "text": "Alexandre Dumas. He wrote The Three Musketeers",
@@ -26345,26 +19505,6 @@ const shows = [
         "text": "And all I can hear is criticize, criticize, criticize!",
         "character": "",
         "audioUrl": "audio/django-unchained/021_and_all_i_can_hear_is_criticize_criticize_criticize.mp3"
-      },
-      {
-        "text": "Not supposed to be on this trip",
-        "character": "",
-        "audioUrl": "audio/django-unchained/022_and_all_y_all_know_i_ain_t_supposed_to_be_on_this_trip.mp3"
-      },
-      {
-        "text": "And do you know what the farmer says?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/023_and_do_you_know_what_the_farmer_says.mp3"
-      },
-      {
-        "text": "And he didn't mind killing people to do it",
-        "character": "",
-        "audioUrl": "audio/django-unchained/024_and_he_didn_t_mind_killing_people_to_do_it.mp3"
-      },
-      {
-        "text": "And I do believe I have... one, two, three, four...",
-        "character": "",
-        "audioUrl": "audio/django-unchained/025_and_i_do_believe_i_have_one_two_three_four.mp3"
       },
       {
         "text": "Take it or leave it",
@@ -26382,59 +19522,14 @@ const shows = [
         "audioUrl": "audio/django-unchained/028_and_it_is_for_these_attributes_we_ve_ridden_from_texas_to_te.mp3"
       },
       {
-        "text": "Won't be worth a damn thing",
-        "character": "",
-        "audioUrl": "audio/django-unchained/029_and_she_ain_t_gonna_be_worth_she_ain_t_gonna_be_worth_a_damn.mp3"
-      },
-      {
         "text": "I have a lawyer",
         "character": "",
         "audioUrl": "audio/django-unchained/030_and_the_way_you_have_your_mr_moguy_i_have_a_lawyer.mp3"
       },
       {
-        "text": "And these are our horses, Tony and Fritz.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/031_and_these_are_our_horses_tony_and_fritz.mp3"
-      },
-      {
-        "text": "And we will again. In a moment",
-        "character": "",
-        "audioUrl": "audio/django-unchained/033_and_we_will_again_in_a_moment.mp3"
-      },
-      {
-        "text": "And what's the golden rule, Frankie, eh?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/034_and_what_s_the_golden_rule_frankie_eh.mp3"
-      },
-      {
-        "text": "And, of course, her freedom papers, doctor.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/035_and_of_course_her_freedom_papers_doctor.mp3"
-      },
-      {
-        "text": "Billy Crash here got his pistol upside her head",
-        "character": "",
-        "audioUrl": "audio/django-unchained/038_billy_crash_here_got_his_pistol_upside_her_head.mp3"
-      },
-      {
-        "text": "But I didn't want you to do anything rash",
-        "character": "",
-        "audioUrl": "audio/django-unchained/040_but_i_didn_t_want_you_to_do_anything_rash.mp3"
-      },
-      {
         "text": "But I'm willing to wager this man was elected sheriff",
         "character": "",
         "audioUrl": "audio/django-unchained/041_but_i_m_willing_to_wager_this_man_was_elected_sheriff.mp3"
-      },
-      {
-        "text": "But now you have my attention.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/042_but_now_you_have_my_attention.mp3"
-      },
-      {
-        "text": "Whip marks, speaks German",
-        "character": "",
-        "audioUrl": "audio/django-unchained/043_but_she_s_a_young_lady_whip_marks_on_her_back_and_speaks_ger.mp3"
       },
       {
         "text": "I don't want to sell him",
@@ -26452,64 +19547,14 @@ const shows = [
         "audioUrl": "audio/django-unchained/050_despite_that_cart_i_haven_t_practiced_dentistry_in_five_year.mp3"
       },
       {
-        "text": "Django, this is Mr. Candie's lawyer, Leonide Moguy.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/051_django_this_is_mr_candie_s_lawyer_leonide_moguy.mp3"
-      },
-      {
-        "text": "Do what I told you, boy!",
-        "character": "",
-        "audioUrl": "audio/django-unchained/053_do_what_i_told_you_boy.mp3"
-      },
-      {
-        "text": "Do you know who the Brittle Brothers are?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/054_do_you_know_who_the_brittle_brothers_are.mp3"
-      },
-      {
-        "text": "Doesn't mean that other bunch of malarkey is.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/055_doesn_t_mean_that_other_bunch_of_malarkey_is.mp3"
-      },
-      {
-        "text": "Don't let that mud slow you down. Keep going.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/056_don_t_let_that_mud_slow_you_down_keep_going.mp3"
-      },
-      {
         "text": "Dr. Schultz. May I introduce to you Broomhilda?",
         "character": "",
         "audioUrl": "audio/django-unchained/057_dr_schultz_may_i_introduce_to_you_broomhilda.mp3"
       },
       {
-        "text": "Frankie, why don't you take them sticks off that horse",
-        "character": "",
-        "audioUrl": "audio/django-unchained/059_frankie_why_don_t_you_take_them_sticks_off_that_horse.mp3"
-      },
-      {
-        "text": "Get her cleaned up and smellin' real nice,",
-        "character": "",
-        "audioUrl": "audio/django-unchained/061_get_her_cleaned_up_and_smellin_real_nice.mp3"
-      },
-      {
         "text": "What's wrong with them dogs",
         "character": "",
         "audioUrl": "audio/django-unchained/062_get_out_there_and_see_what_s_wrong_with_them_goddamn_dogs.mp3"
-      },
-      {
-        "text": "He gonna stay in The Big House?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/071_he_gonna_stay_in_the_big_house.mp3"
-      },
-      {
-        "text": "He gonna stay in The Big House?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/071_he_gonna_stay_in_the_big_house.mp3"
-      },
-      {
-        "text": "He gonna stay in The Big House?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/071_he_gonna_stay_in_the_big_house.mp3"
       },
       {
         "text": "He is a rambunctious sort, ain't he?",
@@ -26522,29 +19567,9 @@ const shows = [
         "audioUrl": "audio/django-unchained/073_he_scales_the_mountain_because_he_s_not_afraid_of_it.mp3"
       },
       {
-        "text": "He's a free man. He can ride what he pleases.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/074_he_s_a_free_man_he_can_ride_what_he_pleases.mp3"
-      },
-      {
-        "text": "How far he get off the property?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/084_how_far_he_get_off_the_property.mp3"
-      },
-      {
-        "text": "How many n****** come and go?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/086_how_many_n_you_think_you_see_come_and_go_huh.mp3"
-      },
-      {
         "text": "They ain't going nowhere",
         "character": "",
         "audioUrl": "audio/django-unchained/087_huh_well_just_leave_em_out_here_they_ain_t_going_nowhere.mp3"
-      },
-      {
-        "text": "I am Dr. King Schultz, a legal representative",
-        "character": "",
-        "audioUrl": "audio/django-unchained/089_i_am_dr_king_schultz_a_legal_representative.mp3"
       },
       {
         "text": "I am that one n***** in 10,000.",
@@ -26552,49 +19577,14 @@ const shows = [
         "audioUrl": "audio/django-unchained/090_i_am_that_one_n_in_10_000.mp3"
       },
       {
-        "text": "I can't fight no more, Monsieur Candie.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/091_i_can_t_fight_no_more_monsieur_candie.mp3"
-      },
-      {
-        "text": "Getting ready to make me",
-        "character": "",
-        "audioUrl": "audio/django-unchained/092_i_do_believe_you_were_just_getting_ready_to_make_me.mp3"
-      },
-      {
-        "text": "I got no use for a n***** with sand.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/094_i_got_no_use_for_a_n_with_sand.mp3"
-      },
-      {
-        "text": "Track, find, kill that man",
-        "character": "",
-        "audioUrl": "audio/django-unchained/097_i_track_that_man_i_find_that_man_i_kill_that_man.mp3"
-      },
-      {
         "text": "The dead man's winter coat",
         "character": "",
         "audioUrl": "audio/django-unchained/098_i_d_take_that_winter_coat_the_dear_departed_speck_left_behin.mp3"
       },
       {
-        "text": "I'm doing business with both y'all.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/102_i_m_doing_business_with_both_y_all.mp3"
-      },
-      {
-        "text": "I'm keeping it funny for you. Now, John, please.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/103_i_m_keeping_it_funny_for_you_now_john_please.mp3"
-      },
-      {
         "text": "A gentleman and businessman",
         "character": "",
         "audioUrl": "audio/django-unchained/105_i_ve_been_led_to_believe_that_you_are_a_gentleman_and_a_busi.mp3"
-      },
-      {
-        "text": "Is that who you was lookin' for?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/106_is_that_who_you_was_lookin_for.mp3"
       },
       {
         "text": "Sleep in that little box?",
@@ -26612,39 +19602,14 @@ const shows = [
         "audioUrl": "audio/django-unchained/109_it_s_against_the_law_for_n_to_ride_horses_in_this_territory.mp3"
       },
       {
-        "text": "Lara Lee! Will you and Cora be responsible",
-        "character": "",
-        "audioUrl": "audio/django-unchained/114_lara_lee_will_you_and_cora_be_responsible.mp3"
-      },
-      {
         "text": "Hands on my...",
         "character": "",
         "audioUrl": "audio/django-unchained/115_last_time_i_seen_you_you_had_your_hands_on_my.mp3"
       },
       {
-        "text": "Lay your hand flat on that tabletop",
-        "character": "",
-        "audioUrl": "audio/django-unchained/116_lay_your_hand_flat_on_that_tabletop.mp3"
-      },
-      {
-        "text": "Let's keep it funny. Django here's a free man.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/118_let_s_keep_it_funny_django_here_s_a_free_man.mp3"
-      },
-      {
-        "text": "Line 'em up to the left here now, boy.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/119_line_em_up_to_the_left_here_now_boy.mp3"
-      },
-      {
         "text": "All fine specimens",
         "character": "",
         "audioUrl": "audio/django-unchained/120_look_monsieur_candie_they_were_all_fine_specimens_no_doubt_a.mp3"
-      },
-      {
-        "text": "Lots of gals where you're from named Broomhilda?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/121_lots_of_gals_where_you_re_from_named_broomhilda.mp3"
       },
       {
         "text": "May I present to you Lara Lee Candie Fitzwilly.",
@@ -26655,11 +19620,6 @@ const shows = [
         "text": "Move that buckboard",
         "character": "",
         "audioUrl": "audio/django-unchained/126_move_that_buckboard_a_long_ways_across_the_street_from_the_s.mp3"
-      },
-      {
-        "text": "Mr. Stonesipher, would you please shut these goddamn dogs up?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/128_mr_stonesipher_would_you_please_shut_these_goddamn_dogs_up.mp3"
       },
       {
         "text": "My partner got killed, Calvin Candie got shot,",
@@ -26677,11 +19637,6 @@ const shows = [
         "audioUrl": "audio/django-unchained/135_now_why_would_a_slave_have_a_wanted_dead_or_alive_handbill_i.mp3"
       },
       {
-        "text": "Now, boy, why do a fool thing like run off?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/136_now_boy_why_do_a_fool_thing_like_run_off.mp3"
-      },
-      {
         "text": "Weary from our travels",
         "character": "",
         "audioUrl": "audio/django-unchained/138_now_gentlemen_i_do_apologize_but_i_am_weary_from_our_travels.mp3"
@@ -26692,29 +19647,9 @@ const shows = [
         "audioUrl": "audio/django-unchained/139_now_may_i_please_remove_the_warrant_from_my_pocket_so_you_ma.mp3"
       },
       {
-        "text": "That uppity son of a bitch",
-        "character": "",
-        "audioUrl": "audio/django-unchained/141_now_why_that_german_gives_a_fuck_who_that_uppity_son_of_a_bi.mp3"
-      },
-      {
-        "text": "Oh, Monsieur Candie, you can't imagine what it's like",
-        "character": "",
-        "audioUrl": "audio/django-unchained/144_oh_monsieur_candie_you_can_t_imagine_what_it_s_like.mp3"
-      },
-      {
         "text": "Django is a free man",
         "character": "",
         "audioUrl": "audio/django-unchained/145_oh_mr_bennett_i_must_remind_you_django_is_a_free_man.mp3"
-      },
-      {
-        "text": "Oh, no. I ain't got no problem with it,",
-        "character": "",
-        "audioUrl": "audio/django-unchained/147_oh_no_i_ain_t_got_no_problem_with_it.mp3"
-      },
-      {
-        "text": "Old Man Carrucan ain't gonna appreciate this, now.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/151_old_man_carrucan_ain_t_gonna_appreciate_this_now.mp3"
       },
       {
         "text": "That's why we run off",
@@ -26722,34 +19657,9 @@ const shows = [
         "audioUrl": "audio/django-unchained/152_old_man_carrucan_didn_t_that_s_why_we_uh_we_run_off.mp3"
       },
       {
-        "text": "Once it catches your ass, you're caught.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/153_once_it_catches_your_ass_you_re_caught.mp3"
-      },
-      {
-        "text": "One could almost say youse a n*****.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/155_one_could_almost_say_youse_a_n.mp3"
-      },
-      {
-        "text": "Take a ride in the Victoria",
-        "character": "",
-        "audioUrl": "audio/django-unchained/156_please_won_t_you_take_a_ride_with_us_here_in_the_victoria.mp3"
-      },
-      {
-        "text": "Put more power in there",
-        "character": "",
-        "audioUrl": "audio/django-unchained/159_see_i_told_you_to_put_some_more_power_in_there.mp3"
-      },
-      {
         "text": "Not many n****** where he's from",
         "character": "",
         "audioUrl": "audio/django-unchained/160_seein_as_how_they_don_t_have_many_n_where_he_come_from.mp3"
-      },
-      {
-        "text": "Shut up, black",
-        "character": "",
-        "audioUrl": "audio/django-unchained/163_shut_up_black_you_ain_t_got_nothing_to_say_i_want_to_hear.mp3"
       },
       {
         "text": "Smitty Bacall and the Smitty Bacall",
@@ -26767,69 +19677,14 @@ const shows = [
         "audioUrl": "audio/django-unchained/166_so_he_puts_her_on_top_of_the_mountain.mp3"
       },
       {
-        "text": "So that's what I'm doing. I'm gettin' dirty.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/167_so_that_s_what_i_m_doing_i_m_gettin_dirty.mp3"
-      },
-      {
-        "text": "Stephen, what the hell are you talking about? Hm?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/169_stephen_what_the_hell_are_you_talking_about_hm.mp3"
-      },
-      {
-        "text": "Thank you for your assistance in creating the opportunity",
-        "character": "",
-        "audioUrl": "audio/django-unchained/170_thank_you_for_your_assistance_in_creating_the_opportunity.mp3"
-      },
-      {
-        "text": "The Black Hercules, isn't that clever?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/172_the_black_hercules_isn_t_that_clever.mp3"
-      },
-      {
-        "text": "The farmer is forced to say yes.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/173_the_farmer_is_forced_to_say_yes.mp3"
-      },
-      {
-        "text": "The man dead in the dirt",
-        "character": "",
-        "audioUrl": "audio/django-unchained/175_the_man_lying_dead_in_the_dirt_who_the_good_people_of_daught.mp3"
-      },
-      {
         "text": "Django Freeman, my deputy",
         "character": "",
         "audioUrl": "audio/django-unchained/176_the_man_to_my_left_is_django_freeman_he_s_my_deputy.mp3"
       },
       {
-        "text": "Their name is Brittle. You know 'em?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/177_their_name_is_brittle_you_know_em.mp3"
-      },
-      {
         "text": "These three dimples",
         "character": "",
         "audioUrl": "audio/django-unchained/179_these_three_dimples_exist_in_the_area_of_the_skull_most_asso.mp3"
-      },
-      {
-        "text": "Dimples in the skull",
-        "character": "",
-        "audioUrl": "audio/django-unchained/180_these_three_dimples_would_be_found_in_the_area_of_the_skull.mp3"
-      },
-      {
-        "text": "They ain't gonna just kill you, n*****!",
-        "character": "",
-        "audioUrl": "audio/django-unchained/181_they_ain_t_gonna_just_kill_you_n.mp3"
-      },
-      {
-        "text": "They gonna find your black ass!",
-        "character": "",
-        "audioUrl": "audio/django-unchained/182_they_gonna_find_your_black_ass.mp3"
-      },
-      {
-        "text": "To the man with the exceptional beard",
-        "character": "",
-        "audioUrl": "audio/django-unchained/185_to_the_man_with_the_exceptional_beard.mp3"
       },
       {
         "text": "Show off your stock",
@@ -26842,66 +19697,6 @@ const shows = [
         "audioUrl": "audio/django-unchained/189_we_were_discussing_the_possibility_of_my_purchasing_broomhil.mp3"
       },
       {
-        "text": "Well, it's not every n***** speaks German, don't ya know.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/190_well_it_s_not_every_n_speaks_german_don_t_ya_know.mp3"
-      },
-      {
-        "text": "Well, let me get this straight.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/191_well_let_me_get_this_straight.mp3"
-      },
-      {
-        "text": "A blind Indian wouldn't bet",
-        "character": "",
-        "audioUrl": "audio/django-unchained/192_well_way_he_looks_now_a_blind_indian_wouldn_t_bet_a_bead_on.mp3"
-      },
-      {
-        "text": "Well, we weren't talkin' business yet.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/193_well_we_weren_t_talkin_business_yet.mp3"
-      },
-      {
-        "text": "What if I don't like you?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/194_well_what_if_i_was_to_say_i_don_t_like_you.mp3"
-      },
-      {
-        "text": "A n***** that speaks German",
-        "character": "",
-        "audioUrl": "audio/django-unchained/198_what_is_the_point_of_havin_a_n_that_speaks_german.mp3"
-      },
-      {
-        "text": "What the fuck is going on?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/200_what_the_fuck_is_going_on.mp3"
-      },
-      {
-        "text": "When we went to boarding school together.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/204_when_we_went_to_boarding_school_together.mp3"
-      },
-      {
-        "text": "Who the hell a you got there?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/205_who_the_hell_a_you_got_there.mp3"
-      },
-      {
-        "text": "Why do you want to get in the Mandingo business?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/208_why_do_you_want_to_get_in_the_mandingo_business.mp3"
-      },
-      {
-        "text": "Why not? Monsieur Candie, you have a deal",
-        "character": "",
-        "audioUrl": "audio/django-unchained/209_why_not_monsieur_candie_you_have_a_deal.mp3"
-      },
-      {
-        "text": "All that trouble for a n*****",
-        "character": "",
-        "audioUrl": "audio/django-unchained/210_why_would_they_go_through_all_that_trouble_for_a_n.mp3"
-      },
-      {
         "text": "Will you make these gentlemen a receipt for $12,000, please?",
         "character": "",
         "audioUrl": "audio/django-unchained/212_will_you_make_these_gentlemen_a_receipt_for_12_000_please.mp3"
@@ -26912,19 +19707,9 @@ const shows = [
         "audioUrl": "audio/django-unchained/213_would_you_be_a_dear_go_out_there_and_give_them_gals_an_eyeba.mp3"
       },
       {
-        "text": "You gonna mess her up",
-        "character": "",
-        "audioUrl": "audio/django-unchained/219_you_could_mess_her_skin_up_and_you_gonna_mess_her_up.mp3"
-      },
-      {
         "text": "You could unshackle yourselves, take that rifle,",
         "character": "",
         "audioUrl": "audio/django-unchained/220_you_could_unshackle_yourselves_take_that_rifle.mp3"
-      },
-      {
-        "text": "You don't have to know why. Do you understand?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/221_you_don_t_have_to_know_why_do_you_understand.mp3"
       },
       {
         "text": "You either hit him or are you ain't?",
@@ -26937,19 +19722,9 @@ const shows = [
         "audioUrl": "audio/django-unchained/224_you_give_up_ain_t_no_harm_gonna_come_to_her.mp3"
       },
       {
-        "text": "You know Jerry, don't you, sugar?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/226_you_know_jerry_don_t_you_sugar.mp3"
-      },
-      {
         "text": "You see, under the laws of Chickasaw County,",
         "character": "",
         "audioUrl": "audio/django-unchained/228_you_see_under_the_laws_of_chickasaw_county.mp3"
-      },
-      {
-        "text": "Buy a beat ass n***** from me",
-        "character": "",
-        "audioUrl": "audio/django-unchained/229_you_see_you_wanna_buy_a_beat_ass_n_from_me.mp3"
       },
       {
         "text": "Till the snow melts",
@@ -26957,44 +19732,14 @@ const shows = [
         "audioUrl": "audio/django-unchained/231_you_work_with_me_through_the_winter_till_the_snow_melts.mp3"
       },
       {
-        "text": "You wouldn't lie to me, now, would you?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/232_you_wouldn_t_lie_to_me_now_would_you.mp3"
-      },
-      {
-        "text": "You're yelling abuse at these poor slaves.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/234_you_re_yelling_abuse_at_these_poor_slaves.mp3"
-      },
-      {
         "text": "Broomhilda Von Shaft",
         "character": "",
         "audioUrl": "audio/django-unchained/235_your_slave_wife_speaks_german_and_her_name_is_broomhilda_von.mp3"
       },
       {
-        "text": "Youse gonna let me pick out my own clothes?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/236_youse_gonna_let_me_pick_out_my_own_clothes.mp3"
-      },
-      {
-        "text": "Are these Broomhilda's papers? Yes, they are",
-        "character": "",
-        "audioUrl": "audio/django-unchained/238_are_these_broomhilda_s_papers_yes_they_are.mp3"
-      },
-      {
-        "text": "Do what now? I said, Tell Miss Lara goodbye.",
+        "text": "Do what now? I said, tell Miss Lara goodbye.",
         "character": "",
         "audioUrl": "audio/django-unchained/240_do_what_now_i_said_tell_miss_lara_goodbye.mp3"
-      },
-      {
-        "text": "Hm! It's like a pool of black tar",
-        "character": "",
-        "audioUrl": "audio/django-unchained/242_hm_it_s_like_a_pool_of_black_tar.mp3"
-      },
-      {
-        "text": "Hurry up, girl. These ready, Miss Cora.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/243_hurry_up_girl_these_ready_miss_cora.mp3"
       },
       {
         "text": "A bad loser, abysmal winner",
@@ -27012,54 +19757,9 @@ const shows = [
         "audioUrl": "audio/django-unchained/248_need_to_have_what_what_panache_uh.mp3"
       },
       {
-        "text": "No! Do what I told ya!",
-        "character": "",
-        "audioUrl": "audio/django-unchained/249_no_do_what_i_told_ya.mp3"
-      },
-      {
-        "text": "Right in front of both y'all! Easy, big fella",
-        "character": "",
-        "audioUrl": "audio/django-unchained/251_right_in_front_of_both_y_all_easy_big_fella.mp3"
-      },
-      {
-        "text": "Right over there on that little table. Thank you.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/252_right_over_there_on_that_little_table_thank_you.mp3"
-      },
-      {
-        "text": "Seven zero zero zero.. Seven thousand.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/253_seven_zero_zero_zero_seven_thousand.mp3"
-      },
-      {
-        "text": "Should we wait inside? Can we just leave?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/255_should_we_wait_inside_can_we_just_leave.mp3"
-      },
-      {
-        "text": "Thank you ever so much. Doctor",
-        "character": "",
-        "audioUrl": "audio/django-unchained/257_thank_you_ever_so_much_doctor.mp3"
-      },
-      {
-        "text": "Buy Candyland?",
-        "character": "",
-        "audioUrl": "audio/django-unchained/258_we_gonna_offer_to_buy_candyland_no_it_s_far_too_big.mp3"
-      },
-      {
         "text": "Yeah. Business never sleeps. Hm mm",
         "character": "",
         "audioUrl": "audio/django-unchained/261_yeah_business_never_sleeps_hm_mm.mp3"
-      },
-      {
-        "text": "Yessir, boss. Oh, now you are one lucky n*****.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/262_yessir_boss_oh_now_you_are_one_lucky_n.mp3"
-      },
-      {
-        "text": "You miss me, huh? Oh, yessir.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/264_you_miss_me_huh_oh_yessir.mp3"
       },
       {
         "text": "You stupid son of a bitch! Sorry, Jessie!",
@@ -27067,19 +19767,9 @@ const shows = [
         "audioUrl": "audio/django-unchained/265_you_stupid_son_of_a_bitch_sorry_jessie.mp3"
       },
       {
-        "text": "...and in my world you gotta get dirty.",
-        "character": "",
-        "audioUrl": "audio/django-unchained/267_and_in_my_world_you_gotta_get_dirty.mp3"
-      },
-      {
         "text": "Can't let you go to Greenville",
         "character": "",
         "audioUrl": "audio/django-unchained/269_but_i_can_t_let_you_go_to_greenville_in_a_good_conscience.mp3"
-      },
-      {
-        "text": "...I will admit you are pretty clever",
-        "character": "",
-        "audioUrl": "audio/django-unchained/271_i_will_admit_you_are_pretty_clever.mp3"
       },
       {
         "text": "...normally, I would say auf Wiedersehen.",
@@ -27125,11 +19815,6 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "Any other questions?",
-        "character": "",
-        "audioUrl": "audio/dodgeball/001_any_other_questions.mp3"
-      },
-      {
         "text": "Are you ready for the hurricane?",
         "character": "",
         "audioUrl": "audio/dodgeball/002_are_you_ready_for_the_hurricane.mp3"
@@ -27145,22 +19830,12 @@ const shows = [
         "audioUrl": "audio/dodgeball/004_bonding.mp3"
       },
       {
-        "text": "Boy, would I",
-        "character": "",
-        "audioUrl": "audio/dodgeball/005_boy_would_i.mp3"
-      },
-      {
         "text": "Effin' A, Cotton, Effin' A!",
         "character": "",
         "audioUrl": "audio/dodgeball/006_effin_a_cotton_effin_a.mp3"
       },
       {
-        "text": "F*ckin Chuck Norris",
-        "character": "",
-        "audioUrl": "audio/dodgeball/007_f_ckin_chuck_norris.mp3"
-      },
-      {
-        "text": "Fast Pitch Dodgeball",
+        "text": "Fast pitch dodgeball",
         "character": "",
         "audioUrl": "audio/dodgeball/008_fast_pitch_dodgeball.mp3"
       },
@@ -27168,11 +19843,6 @@ const shows = [
         "text": "Game face!",
         "character": "",
         "audioUrl": "audio/dodgeball/009_game_face.mp3"
-      },
-      {
-        "text": "Haha",
-        "character": "",
-        "audioUrl": "audio/dodgeball/010_haha.mp3"
       },
       {
         "text": "Hasselhoff Yelling",
@@ -27190,11 +19860,6 @@ const shows = [
         "audioUrl": "audio/dodgeball/013_hit_montage.mp3"
       },
       {
-        "text": "I feel shocked",
-        "character": "",
-        "audioUrl": "audio/dodgeball/014_i_feel_shocked.mp3"
-      },
-      {
         "text": "I sure do like pumpkins, Cotton",
         "character": "",
         "audioUrl": "audio/dodgeball/015_i_sure_do_like_pumpkins_cotton.mp3"
@@ -27208,16 +19873,6 @@ const shows = [
         "text": "Dodge a wrench, dodge a ball",
         "character": "",
         "audioUrl": "audio/dodgeball/017_if_you_can_dodge_a_wrench_you_can_dodge_a_ball.mp3"
-      },
-      {
-        "text": "Just kidding ... but seriously",
-        "character": "",
-        "audioUrl": "audio/dodgeball/018_just_kidding_but_seriously.mp3"
-      },
-      {
-        "text": "Let me hit with you some knowledge",
-        "character": "",
-        "audioUrl": "audio/dodgeball/019_let_me_hit_with_you_some_knowledge.mp3"
       },
       {
         "text": "Look at the show",
@@ -27245,7 +19900,7 @@ const shows = [
         "audioUrl": "audio/dodgeball/024_necessary.mp3"
       },
       {
-        "text": "Nice and Deep Like",
+        "text": "Nice and deep like",
         "character": "",
         "audioUrl": "audio/dodgeball/025_nice_and_deep_like.mp3"
       },
@@ -27275,21 +19930,6 @@ const shows = [
         "audioUrl": "audio/dodgeball/030_oh_my_sweet_jesus.mp3"
       },
       {
-        "text": "Ouch Town",
-        "character": "",
-        "audioUrl": "audio/dodgeball/031_ouch_town.mp3"
-      },
-      {
-        "text": "Patches O'Houlihan!",
-        "character": "",
-        "audioUrl": "audio/dodgeball/032_patches_o_houlihan.mp3"
-      },
-      {
-        "text": "Ready and super psyched!",
-        "character": "",
-        "audioUrl": "audio/dodgeball/033_ready_and_super_psyched.mp3"
-      },
-      {
         "text": "Real freaky naughty",
         "character": "",
         "audioUrl": "audio/dodgeball/034_real_freaky_naughty.mp3"
@@ -27298,11 +19938,6 @@ const shows = [
         "text": "Smelling pizza",
         "character": "",
         "audioUrl": "audio/dodgeball/035_smelling_pizza.mp3"
-      },
-      {
-        "text": "Thank you, Chuck Norris",
-        "character": "",
-        "audioUrl": "audio/dodgeball/036_thank_you_chuck_norris.mp3"
       },
       {
         "text": "That's me taking the bull by the horns",
@@ -27320,11 +19955,6 @@ const shows = [
         "audioUrl": "audio/dodgeball/039_the_5_d_s_of_dodge_ball.mp3"
       },
       {
-        "text": "The deadliest woman on Earth",
-        "character": "",
-        "audioUrl": "audio/dodgeball/040_the_deadliest_woman_on_earth.mp3"
-      },
-      {
         "text": "The Ocho",
         "character": "",
         "audioUrl": "audio/dodgeball/041_the_ocho.mp3"
@@ -27335,27 +19965,12 @@ const shows = [
         "audioUrl": "audio/dodgeball/042_threw_up_in_mouth.mp3"
       },
       {
-        "text": "Thumbs up Chuck",
-        "character": "",
-        "audioUrl": "audio/dodgeball/043_thumbs_up_chuck.mp3"
-      },
-      {
-        "text": "Timeout!",
-        "character": "",
-        "audioUrl": "audio/dodgeball/044_timeout.mp3"
-      },
-      {
-        "text": "Touche",
-        "character": "",
-        "audioUrl": "audio/dodgeball/045_touche.mp3"
-      },
-      {
         "text": "We are the Purple Cobras",
         "character": "",
         "audioUrl": "audio/dodgeball/046_we_are_the_purple_cobras.mp3"
       },
       {
-        "text": "We Should Mate",
+        "text": "We should mate",
         "character": "",
         "audioUrl": "audio/dodgeball/047_we_should_mate.mp3"
       },
@@ -27365,14 +19980,9 @@ const shows = [
         "audioUrl": "audio/dodgeball/048_we_will_rock_you.mp3"
       },
       {
-        "text": "We're Better Than You, And We Know It",
+        "text": "We're better than you, and we know it",
         "character": "",
         "audioUrl": "audio/dodgeball/049_we_re_better_than_you_and_we_know_it.mp3"
-      },
-      {
-        "text": "Wrong",
-        "character": "",
-        "audioUrl": "audio/dodgeball/050_wrong.mp3"
       },
       {
         "text": "You gotta get angry! You gotta get mean!",
@@ -27438,7 +20048,7 @@ const shows = [
         "audioUrl": "audio/white-chicks/006_did_you_know_oysters_are_an_aphrodisiac.mp3"
       },
       {
-        "text": "Didn't somebody tell you this was all White Party?",
+        "text": "Didn't somebody tell you this was all white party?",
         "character": "",
         "audioUrl": "audio/white-chicks/007_didn_t_somebody_tell_you_this_was_all_white_party.mp3"
       },
@@ -27468,7 +20078,7 @@ const shows = [
         "audioUrl": "audio/white-chicks/012_high_five.mp3"
       },
       {
-        "text": "Hold My Poodle",
+        "text": "Hold my poodle",
         "character": "",
         "audioUrl": "audio/white-chicks/013_hold_my_poodle.mp3"
       },
@@ -27588,7 +20198,7 @@ const shows = [
         "audioUrl": "audio/white-chicks/038_why_are_you_talking_to_her.mp3"
       },
       {
-        "text": "Worried All Night",
+        "text": "Worried all night",
         "character": "",
         "audioUrl": "audio/white-chicks/039_worried_all_night.mp3"
       },
@@ -27608,7 +20218,7 @@ const shows = [
         "audioUrl": "audio/white-chicks/042_you_so_can_t_put_it_away.mp3"
       },
       {
-        "text": "50 Thousand Dollar Cash",
+        "text": "50 thousand dollar cash",
         "character": "",
         "audioUrl": "audio/white-chicks/043_50_thousand_dollar_cash.mp3"
       }
@@ -27631,7 +20241,7 @@ const shows = [
         "audioUrl": "audio/dazed-and-confused/001_alright_alright_alright.mp3"
       },
       {
-        "text": "Check Ya Later",
+        "text": "Check ya later",
         "character": "",
         "audioUrl": "audio/dazed-and-confused/002_check_ya_later.mp3"
       },
@@ -27651,7 +20261,7 @@ const shows = [
         "audioUrl": "audio/dazed-and-confused/005_i_wanna_dance.mp3"
       },
       {
-        "text": "It'd Be A Lot Cooler If You Did",
+        "text": "It'd be a lot cooler if you did",
         "character": "",
         "audioUrl": "audio/dazed-and-confused/006_it_d_be_a_lot_cooler_if_you_did.mp3"
       },
@@ -27739,19 +20349,9 @@ const shows = [
         "audioUrl": "audio/idiocracy/010_but_then_in_even_greater_force_emerged_the_un_at_the_en_un_n.mp3"
       },
       {
-        "text": "Can go find his home",
-        "character": "",
-        "audioUrl": "audio/idiocracy/011_can_go_find_his_home.mp3"
-      },
-      {
         "text": "You like money too",
         "character": "",
         "audioUrl": "audio/idiocracy/012_can_t_believe_you_like_money_too_we_should_hang_out.mp3"
-      },
-      {
-        "text": "Fuck you, I'm eating",
-        "character": "",
-        "audioUrl": "audio/idiocracy/013_carl_s_junior_fuck_you_i_m_eating.mp3"
       },
       {
         "text": "Impaled his crotch",
@@ -27777,11 +20377,6 @@ const shows = [
         "text": "Your balance is zero",
         "character": "",
         "audioUrl": "audio/idiocracy/018_enjoy_your_extra_burger_frauds_give_me_no_fries_i_got_an_emp.mp3"
-      },
-      {
-        "text": "This is how I was going to die",
-        "character": "",
-        "audioUrl": "audio/idiocracy/019_everybody_gets_this_is_how_i_was_going_to_die.mp3"
       },
       {
         "text": "You mean like in the toilet?",
@@ -27877,11 +20472,6 @@ const shows = [
         "text": "He's gonna fix it all",
         "character": "",
         "audioUrl": "audio/idiocracy/038_i_give_ya_my_word_he_s_gonna_fix_the_dust_storms_too_and_i_g.mp3"
-      },
-      {
-        "text": "I like money",
-        "character": "",
-        "audioUrl": "audio/idiocracy/039_i_like_money_though_i_like_money.mp3"
       },
       {
         "text": "I like money",
@@ -28019,11 +20609,6 @@ const shows = [
         "audioUrl": "audio/idiocracy/069_or.mp3"
       },
       {
-        "text": "Come back when you can afford it",
-        "character": "",
-        "audioUrl": "audio/idiocracy/070_please_come_back_when_you_can_afford_to_make_a_purchase.mp3"
-      },
-      {
         "text": "Your name is Not Sure",
         "character": "",
         "audioUrl": "audio/idiocracy/071_please_speak_your_name_as_it_appears_on_your_current_federal.mp3"
@@ -28032,11 +20617,6 @@ const shows = [
         "text": "Plenty of tards out there",
         "character": "",
         "audioUrl": "audio/idiocracy/072_plenty_of_tards_out_there.mp3"
-      },
-      {
-        "text": "Police, open the door",
-        "character": "",
-        "audioUrl": "audio/idiocracy/073_police_open_the_door.mp3"
       },
       {
         "text": "It'll be this many dollars",
@@ -28062,11 +20642,6 @@ const shows = [
         "text": "You robbed a hospital",
         "character": "",
         "audioUrl": "audio/idiocracy/078_says_here_you_robbed_a_hospital_why_d_you_do_that_yeah_i_m_n.mp3"
-      },
-      {
-        "text": "That's a good deal",
-        "character": "",
-        "audioUrl": "audio/idiocracy/079_shit_that_s_a_good_deal.mp3"
       },
       {
         "text": "This one goes in your butt",
@@ -28189,11 +20764,6 @@ const shows = [
         "audioUrl": "audio/idiocracy/103_welcome_to_carls_junior_would_you_like_to_try_our_extra_biga.mp3"
       },
       {
-        "text": "Welcome to Costco, I love you",
-        "character": "",
-        "audioUrl": "audio/idiocracy/104_welcome_to_costco_i_love_you.mp3"
-      },
-      {
         "text": "Welcome to the Time Machine",
         "character": "",
         "audioUrl": "audio/idiocracy/105_welcome_to_the_time_machine_we_are_going_to_take_you_back_fi.mp3"
@@ -28217,11 +20787,6 @@ const shows = [
         "text": "Your shit's all retarded",
         "character": "",
         "audioUrl": "audio/idiocracy/109_well_i_don_t_want_to_sound_like_a_dick_or_nothing_but_says_o.mp3"
-      },
-      {
-        "text": "Why come you don't have a tattoo?",
-        "character": "",
-        "audioUrl": "audio/idiocracy/110_why_come_you_don_t_have_a_tattoo.mp3"
       },
       {
         "text": "I get out of the way",
@@ -28264,11 +20829,6 @@ const shows = [
         "audioUrl": "audio/idiocracy/118_you_thought_you_could_really_travel_through_time_huh_yeah_i.mp3"
       },
       {
-        "text": "You're blowing your floors",
-        "character": "",
-        "audioUrl": "audio/idiocracy/119_you_re_blowing_your_floors_now_please.mp3"
-      },
-      {
         "text": "Custody of Carl's Junior",
         "character": "",
         "audioUrl": "audio/idiocracy/120_your_kids_are_starving_carls_junior_believes_no_child_should.mp3"
@@ -28297,11 +20857,6 @@ const shows = [
         "audioUrl": "audio/pirates-of-the-caribbean/001_almostcaught.mp3"
       },
       {
-        "text": "Back to work",
-        "character": "",
-        "audioUrl": "audio/pirates-of-the-caribbean/002_backtowork.mp3"
-      },
-      {
         "text": "Bloody is now",
         "character": "",
         "audioUrl": "audio/pirates-of-the-caribbean/003_bloodyisnow.mp3"
@@ -28310,11 +20865,6 @@ const shows = [
         "text": "Bloody pirates",
         "character": "",
         "audioUrl": "audio/pirates-of-the-caribbean/004_bloodypirates.mp3"
-      },
-      {
-        "text": "Blowing holes",
-        "character": "",
-        "audioUrl": "audio/pirates-of-the-caribbean/005_blowingholes.mp3"
       },
       {
         "text": "Buy you the hat",
@@ -28347,39 +20897,9 @@ const shows = [
         "audioUrl": "audio/pirates-of-the-caribbean/011_dishonestman.mp3"
       },
       {
-        "text": "Drink up",
-        "character": "",
-        "audioUrl": "audio/pirates-of-the-caribbean/012_drinkup.mp3"
-      },
-      {
-        "text": "Easy on the goods",
-        "character": "",
-        "audioUrl": "audio/pirates-of-the-caribbean/013_easyonthegoods.mp3"
-      },
-      {
-        "text": "For breathing",
-        "character": "",
-        "audioUrl": "audio/pirates-of-the-caribbean/014_forbreathing.mp3"
-      },
-      {
         "text": "Have no weapon",
         "character": "",
         "audioUrl": "audio/pirates-of-the-caribbean/015_havenoweapon.mp3"
-      },
-      {
-        "text": "Hello chum",
-        "character": "",
-        "audioUrl": "audio/pirates-of-the-caribbean/016_hellochum.mp3"
-      },
-      {
-        "text": "Hello poppet",
-        "character": "",
-        "audioUrl": "audio/pirates-of-the-caribbean/017_hellopoppet.mp3"
-      },
-      {
-        "text": "I love this song",
-        "character": "",
-        "audioUrl": "audio/pirates-of-the-caribbean/018_ilovethissong.mp3"
       },
       {
         "text": "I love weddings",
@@ -28395,11 +20915,6 @@ const shows = [
         "text": "In a fair fight",
         "character": "",
         "audioUrl": "audio/pirates-of-the-caribbean/021_inafairfight.mp3"
-      },
-      {
-        "text": "Interesting",
-        "character": "",
-        "audioUrl": "audio/pirates-of-the-caribbean/022_interesting.mp3"
       },
       {
         "text": "In the market",
@@ -28437,11 +20952,6 @@ const shows = [
         "audioUrl": "audio/pirates-of-the-caribbean/029_noitsnotyesitis.mp3"
       },
       {
-        "text": "No living with her",
-        "character": "",
-        "audioUrl": "audio/pirates-of-the-caribbean/030_nolivingwithher.mp3"
-      },
-      {
         "text": "No survivors",
         "character": "",
         "audioUrl": "audio/pirates-of-the-caribbean/031_nosurvivors.mp3"
@@ -28462,11 +20972,6 @@ const shows = [
         "audioUrl": "audio/pirates-of-the-caribbean/034_nottobreathe.mp3"
       },
       {
-        "text": "Not very nice",
-        "character": "",
-        "audioUrl": "audio/pirates-of-the-caribbean/035_notverynice.mp3"
-      },
-      {
         "text": "Opportune",
         "character": "",
         "audioUrl": "audio/pirates-of-the-caribbean/036_opportune.mp3"
@@ -28485,16 +20990,6 @@ const shows = [
         "text": "Promised",
         "character": "",
         "audioUrl": "audio/pirates-of-the-caribbean/039_promised.mp3"
-      },
-      {
-        "text": "Really bad eggs",
-        "character": "",
-        "audioUrl": "audio/pirates-of-the-caribbean/040_reallybadeggs.mp3"
-      },
-      {
-        "text": "Shoot him",
-        "character": "",
-        "audioUrl": "audio/pirates-of-the-caribbean/041_shoothim.mp3"
       },
       {
         "text": "So I can kill it",
@@ -28542,34 +21037,9 @@ const shows = [
         "audioUrl": "audio/pirates-of-the-caribbean/050_tosingapore.mp3"
       },
       {
-        "text": "Treasure",
-        "character": "",
-        "audioUrl": "audio/pirates-of-the-caribbean/051_treasure.mp3"
-      },
-      {
-        "text": "Very interesting",
-        "character": "",
-        "audioUrl": "audio/pirates-of-the-caribbean/052_veryinteresting.mp3"
-      },
-      {
         "text": "Welcome to",
         "character": "",
         "audioUrl": "audio/pirates-of-the-caribbean/053_welcometo.mp3"
-      },
-      {
-        "text": "Why is the rum gone?",
-        "character": "",
-        "audioUrl": "audio/pirates-of-the-caribbean/054_whyistherumgone.mp3"
-      },
-      {
-        "text": "Wonderful trick",
-        "character": "",
-        "audioUrl": "audio/pirates-of-the-caribbean/055_wonderfultrick.mp3"
-      },
-      {
-        "text": "You cheated",
-        "character": "",
-        "audioUrl": "audio/pirates-of-the-caribbean/056_youcheated.mp3"
       },
       {
         "text": "Your purpose",
@@ -28675,17 +21145,12 @@ const shows = [
         "audioUrl": "audio/forrest-gump/017_forrest_and_bubba_talkin_shrimp.mp3"
       },
       {
-        "text": "Forrest Gump graduates",
+        "text": "Graduates",
         "character": "",
         "audioUrl": "audio/forrest-gump/018_forrest_gump_graduates.mp3"
       },
       {
-        "text": "Forrest Gump ice cream",
-        "character": "",
-        "audioUrl": "audio/forrest-gump/019_forrest_gump_ice_cream.mp3"
-      },
-      {
-        "text": "Forrest Gump sneaking in",
+        "text": "Sneaking in",
         "character": "",
         "audioUrl": "audio/forrest-gump/020_forrest_gump_sneaking_in.mp3"
       },
@@ -28725,29 +21190,14 @@ const shows = [
         "audioUrl": "audio/forrest-gump/027_he_s_stupid_but_he_sure_is_fast.mp3"
       },
       {
-        "text": "Hello",
-        "character": "",
-        "audioUrl": "audio/forrest-gump/028_hello.mp3"
-      },
-      {
         "text": "That's an order",
         "character": "",
         "audioUrl": "audio/forrest-gump/029_here_goddamnit_that_s_an_order_hot_guy_at_5_baba.mp3"
       },
       {
-        "text": "I got you ice cream",
-        "character": "",
-        "audioUrl": "audio/forrest-gump/030_i_got_you_icecream.mp3"
-      },
-      {
         "text": "I gotta pee",
         "character": "",
         "audioUrl": "audio/forrest-gump/031_i_gotta_pee.mp3"
-      },
-      {
-        "text": "I gotta pee",
-        "character": "",
-        "audioUrl": "audio/forrest-gump/032_i_gotta_pee.mp3"
       },
       {
         "text": "I gotta pee",
@@ -28768,11 +21218,6 @@ const shows = [
         "text": "I miss you, Jenny",
         "character": "",
         "audioUrl": "audio/forrest-gump/036_i_miss_you_jenny.mp3"
-      },
-      {
-        "text": "I miss you, Jenny",
-        "character": "",
-        "audioUrl": "audio/forrest-gump/037_i_miss_you_jenny.mp3"
       },
       {
         "text": "I even played in my sleep",
@@ -28803,11 +21248,6 @@ const shows = [
         "text": "I wanted to be your boyfriend",
         "character": "",
         "audioUrl": "audio/forrest-gump/043_i_wanted_to_be_your_boyfriend.mp3"
-      },
-      {
-        "text": "I'd make a good husband",
-        "character": "",
-        "audioUrl": "audio/forrest-gump/044_i_d_make_a_good_husband.mp3"
       },
       {
         "text": "He liked the F word a lot",
@@ -28898,11 +21338,6 @@ const shows = [
         "text": "I like using my own paddle",
         "character": "",
         "audioUrl": "audio/forrest-gump/062_king_kong_stuff_one_man_even_left_a_check_for_25_000_if_you.mp3"
-      },
-      {
-        "text": "Lieutenant Dan",
-        "character": "",
-        "audioUrl": "audio/forrest-gump/063_lieutenant_dan.mp3"
       },
       {
         "text": "Lieutenant Dan",
@@ -29000,11 +21435,6 @@ const shows = [
         "audioUrl": "audio/forrest-gump/082_particular_reason_why_are_you_doing_this_felt_like_running.mp3"
       },
       {
-        "text": "Peas and carrots",
-        "character": "",
-        "audioUrl": "audio/forrest-gump/083_peas_and_carrots.mp3"
-      },
-      {
         "text": "Run Forrest, run!",
         "character": "",
         "audioUrl": "audio/forrest-gump/084_run_forrest_run.mp3"
@@ -29018,11 +21448,6 @@ const shows = [
         "text": "Seat's taken",
         "character": "",
         "audioUrl": "audio/forrest-gump/086_seat_s_taken.mp3"
-      },
-      {
-        "text": "She tastes like cigarettes",
-        "character": "",
-        "audioUrl": "audio/forrest-gump/087_she_tastes_like_cigarettes.mp3"
       },
       {
         "text": "She tastes like cigarettes",
@@ -29150,11 +21575,6 @@ const shows = [
         "audioUrl": "audio/forrest-gump/112_will_you_marry_me_i_would_make_a_good_husband.mp3"
       },
       {
-        "text": "Yes, drill sergeant",
-        "character": "",
-        "audioUrl": "audio/forrest-gump/113_yes_drill_sergeant.mp3"
-      },
-      {
         "text": "You ain't got no legs, Lieutenant Dan",
         "character": "",
         "audioUrl": "audio/forrest-gump/114_you_aint_got_no_legs_lieutenant_dan.mp3"
@@ -29168,21 +21588,6 @@ const shows = [
         "text": "You call this a storm?",
         "character": "",
         "audioUrl": "audio/forrest-gump/116_you_call_this_a_storm.mp3"
-      },
-      {
-        "text": "You're a goddamn genius",
-        "character": "",
-        "audioUrl": "audio/forrest-gump/117_you_re_a_goddamn_genius.mp3"
-      },
-      {
-        "text": "You're my girl",
-        "character": "",
-        "audioUrl": "audio/forrest-gump/118_you_re_my_girl.mp3"
-      },
-      {
-        "text": "Your boys..",
-        "character": "",
-        "audioUrl": "audio/forrest-gump/119_your_boys.mp3"
       }
     ]
   },
@@ -29696,12 +22101,12 @@ const shows = [
         "audioUrl": "audio/devil-wears-prada/009_everybody_wants_this.mp3"
       },
       {
-        "text": "Florals? For Spring? Groundbreaking",
+        "text": "Florals? For spring? Groundbreaking",
         "character": "",
         "audioUrl": "audio/devil-wears-prada/010_florals_for_spring_groundbreaking.mp3"
       },
       {
-        "text": "Gird Your Loins",
+        "text": "Gird your loins",
         "character": "",
         "audioUrl": "audio/devil-wears-prada/011_gird_your_loins.mp3"
       },
@@ -29844,11 +22249,6 @@ const shows = [
         "audioUrl": "audio/mean-girls/003_all_right_have_a_good_time_everyone.mp3"
       },
       {
-        "text": "Almost as mad as I get",
-        "character": "",
-        "audioUrl": "audio/mean-girls/004_almost_as_mad_as_i_get_when_i_think_about_the_fact.mp3"
-      },
-      {
         "text": "How many people cried",
         "character": "",
         "audioUrl": "audio/mean-girls/005_and_how_many_people_cried_over_it_and_stuff.mp3"
@@ -29884,24 +22284,9 @@ const shows = [
         "audioUrl": "audio/mean-girls/011_and_ok_look_i_m_not_saying_she_s_a_stalker.mp3"
       },
       {
-        "text": "Lip gloss on her snaggletooth",
-        "character": "",
-        "audioUrl": "audio/mean-girls/012_and_she_had_some_99_cent_lip_gloss_on_her_snaggletooth.mp3"
-      },
-      {
         "text": "Some kind of African voodoo",
         "character": "",
         "audioUrl": "audio/mean-girls/013_and_she_said_she_s_gonna_do_some_kind_of_african_voodoo_with.mp3"
-      },
-      {
-        "text": "Wears it under all her clothes",
-        "character": "",
-        "audioUrl": "audio/mean-girls/014_and_she_wears_it_under_all_her_clothes.mp3"
-      },
-      {
-        "text": "Some form of animal ears",
-        "character": "",
-        "audioUrl": "audio/mean-girls/015_and_some_form_of_animal_ears.mp3"
       },
       {
         "text": "Beware of the Plastics",
@@ -29912,11 +22297,6 @@ const shows = [
         "text": "For my Hanukkah",
         "character": "",
         "audioUrl": "audio/mean-girls/017_and_then_for_my_hanukkah_my_parents_got_me_this_pair.mp3"
-      },
-      {
-        "text": "12 years in Africa",
-        "character": "",
-        "audioUrl": "audio/mean-girls/018_and_we_ve_spent_the_last_12_years_in_africa.mp3"
       },
       {
         "text": "Who takes care of her? Me",
@@ -29969,11 +22349,6 @@ const shows = [
         "audioUrl": "audio/mean-girls/032_but_wait_aren_t_you_so_mad_at_gretchen_for_telling_me.mp3"
       },
       {
-        "text": "You're totally gonna laugh",
-        "character": "",
-        "audioUrl": "audio/mean-girls/033_but_you_re_totally_gonna_laugh_when_i_tell_you_so.mp3"
-      },
-      {
         "text": "See you in the principal's office",
         "character": "",
         "audioUrl": "audio/mean-girls/034_cady_heron_they_wanna_see_you_in_the_principal_s_office.mp3"
@@ -29982,21 +22357,6 @@ const shows = [
         "text": "Find the limit",
         "character": "",
         "audioUrl": "audio/mean-girls/035_contestants_find_the_limit_of_this_equation.mp3"
-      },
-      {
-        "text": "Did you have an awesome time?",
-        "character": "",
-        "audioUrl": "audio/mean-girls/036_did_you_have_an_awesome_time.mp3"
-      },
-      {
-        "text": "Did you see her do it?",
-        "character": "",
-        "audioUrl": "audio/mean-girls/037_did_you_see_her_do_it.mp3"
-      },
-      {
-        "text": "Anything to own up to?",
-        "character": "",
-        "audioUrl": "audio/mean-girls/038_do_you_have_anything_you_wanna_own_up_to.mp3"
       },
       {
         "text": "Don't be fooled",
@@ -30014,39 +22374,14 @@ const shows = [
         "audioUrl": "audio/mean-girls/042_don_t_you_bring_me_down_today.mp3"
       },
       {
-        "text": "Not allowed to like Aaron",
-        "character": "",
-        "audioUrl": "audio/mean-girls/043_even_though_i_wasn_t_allowed_to_like_aaron.mp3"
-      },
-      {
         "text": "Pick up your feet",
         "character": "",
         "audioUrl": "audio/mean-girls/045_giddyap_jingle_torse_pick_up_your_feet.mp3"
       },
       {
-        "text": "Can you wrap it up?",
-        "character": "",
-        "audioUrl": "audio/mean-girls/047_god_mr_duvall_can_you_wrap_it_up.mp3"
-      },
-      {
-        "text": "Have you ever walked up to people",
-        "character": "",
-        "audioUrl": "audio/mean-girls/048_have_you_ever_walked_up_to_people.mp3"
-      },
-      {
         "text": "How are my best girlfriends?",
         "character": "",
         "audioUrl": "audio/mean-girls/051_hey_hey_hey_how_are_my_best_girlfriends.mp3"
-      },
-      {
-        "text": "His name was Nfume",
-        "character": "",
-        "audioUrl": "audio/mean-girls/055_his_name_was_nfume_and_we_were_5.mp3"
-      },
-      {
-        "text": "People getting bored with me",
-        "character": "",
-        "audioUrl": "audio/mean-girls/056_i_could_hear_people_getting_bored_with_me.mp3"
       },
       {
         "text": "Police searched my house",
@@ -30059,39 +22394,14 @@ const shows = [
         "audioUrl": "audio/mean-girls/060_i_had_learned_how_to_control_everyone_around_me.mp3"
       },
       {
-        "text": "Never felt this before",
-        "character": "",
-        "audioUrl": "audio/mean-girls/061_i_had_never_felt_this_feeling_before.mp3"
-      },
-      {
         "text": "I have her test results",
         "character": "",
         "audioUrl": "audio/mean-girls/062_i_have_her_test_results_if_you_can_have_her_give_me_a_call_a.mp3"
       },
       {
-        "text": "I have to talk to you",
-        "character": "",
-        "audioUrl": "audio/mean-girls/063_i_have_to_talk_to_you.mp3"
-      },
-      {
         "text": "She's weird, but she's my friend",
         "character": "",
         "audioUrl": "audio/mean-girls/065_i_know_she_s_kind_of_socially_retarded_and_weird_but_she_s_m.mp3"
-      },
-      {
-        "text": "I know what home school is",
-        "character": "",
-        "audioUrl": "audio/mean-girls/066_i_know_what_home_school_is_i_m_not_retarded.mp3"
-      },
-      {
-        "text": "Teachers outside of school",
-        "character": "",
-        "audioUrl": "audio/mean-girls/067_i_love_seeing_teachers_outside_of_school.mp3"
-      },
-      {
-        "text": "She just likes the attention",
-        "character": "",
-        "audioUrl": "audio/mean-girls/068_i_mean_i_guess_she_just_likes_the_attention.mp3"
       },
       {
         "text": "Sign this, you're failing",
@@ -30104,16 +22414,6 @@ const shows = [
         "audioUrl": "audio/mean-girls/070_i_pushed_my_husband_into_law_school_that_was_a_bust.mp3"
       },
       {
-        "text": "Old enough for one night alone",
-        "character": "",
-        "audioUrl": "audio/mean-girls/071_i_think_cady_s_old_enough_to_spend_one_night_on_her_own.mp3"
-      },
-      {
-        "text": "Nominated her as a joke",
-        "character": "",
-        "audioUrl": "audio/mean-girls/072_i_think_somebody_nominated_her_as_a_joke_or_something.mp3"
-      },
-      {
         "text": "People are so jealous of me",
         "character": "",
         "audioUrl": "audio/mean-girls/075_i_m_sorry_that_people_are_so_jealous_of_me.mp3"
@@ -30122,21 +22422,6 @@ const shows = [
         "text": "Voting for Cady, she pushed her",
         "character": "",
         "audioUrl": "audio/mean-girls/076_i_m_voting_for_cady_heron_because_she_pushed_her.mp3"
-      },
-      {
-        "text": "I had to really commit",
-        "character": "",
-        "audioUrl": "audio/mean-girls/077_if_i_was_gonna_keep_this_going_i_was_gonna_have_to_really_co.mp3"
-      },
-      {
-        "text": "Is that your natural hair color?",
-        "character": "",
-        "audioUrl": "audio/mean-girls/079_is_that_your_natural_hair_color.mp3"
-      },
-      {
-        "text": "Full tilt jungle madness",
-        "character": "",
-        "audioUrl": "audio/mean-girls/081_it_was_full_tilt_jungle_madness.mp3"
       },
       {
         "text": "Jock girls weren't afraid of her",
@@ -30169,24 +22454,9 @@ const shows = [
         "audioUrl": "audio/mean-girls/095_no_no_this_is_just_how_they_work.mp3"
       },
       {
-        "text": "When you connect from Information",
-        "character": "",
-        "audioUrl": "audio/mean-girls/098_not_when_you_connect_from_information.mp3"
-      },
-      {
-        "text": "Buy yourself some milk",
-        "character": "",
-        "audioUrl": "audio/mean-girls/099_now_i_put_a_dollar_in_there_so_you_can_buy_some_milk.mp3"
-      },
-      {
         "text": "We already paid the DJ",
         "character": "",
         "audioUrl": "audio/mean-girls/100_now_i_m_not_gonna_do_that_because_we_ve_already_paid_the_dj.mp3"
-      },
-      {
-        "text": "Where you sit is crucial",
-        "character": "",
-        "audioUrl": "audio/mean-girls/101_now_where_you_sit_in_the_cafeteria_is_crucial.mp3"
       },
       {
         "text": "Same gym class",
@@ -30194,34 +22464,9 @@ const shows = [
         "audioUrl": "audio/mean-girls/102_of_course_all_the_plastics_are_in_the_same_gym_class.mp3"
       },
       {
-        "text": "Not gonna make fun of her",
-        "character": "",
-        "audioUrl": "audio/mean-girls/103_of_course_i_m_not_gonna_make_fun_of_her.mp3"
-      },
-      {
-        "text": "I love this song!",
-        "character": "",
-        "audioUrl": "audio/mean-girls/104_oh_my_god_i_love_this_song.mp3"
-      },
-      {
-        "text": "I love your skirt",
-        "character": "",
-        "audioUrl": "audio/mean-girls/105_oh_my_god_i_love_your_skirt.mp3"
-      },
-      {
-        "text": "Pretend you didn't hear that",
-        "character": "",
-        "audioUrl": "audio/mean-girls/106_oh_my_god_pretend_you_didn_t_hear_that.mp3"
-      },
-      {
         "text": "Word vomit",
         "character": "",
         "audioUrl": "audio/mean-girls/107_oh_no_it_was_coming_up_again_word_vomit_no_wait_a_minute.mp3"
-      },
-      {
-        "text": "It must be marked wrong",
-        "character": "",
-        "audioUrl": "audio/mean-girls/109_ok_it_must_be_marked_wrong.mp3"
       },
       {
         "text": "Cheese and crackers for eight",
@@ -30234,29 +22479,14 @@ const shows = [
         "audioUrl": "audio/mean-girls/115_regina_wanted_me_to_tell_you_that_she_was_trying_to_hook_you.mp3"
       },
       {
-        "text": "Regina's spine healed",
-        "character": "",
-        "audioUrl": "audio/mean-girls/117_regina_s_spine_healed_and_her_physical_therapist.mp3"
-      },
-      {
         "text": "The meaner Regina was",
         "character": "",
         "audioUrl": "audio/mean-girls/118_same_with_gretchen_the_meaner_regina_was_to_her.mp3"
       },
       {
-        "text": "Secret? What are you saying?",
-        "character": "",
-        "audioUrl": "audio/mean-girls/119_secret_what_are_you_saying_about.mp3"
-      },
-      {
         "text": "She always looks fierce",
         "character": "",
         "audioUrl": "audio/mean-girls/120_she_always_looks_fierce_she_always_wins_spring_fling_queen.mp3"
-      },
-      {
-        "text": "Not even that good looking",
-        "character": "",
-        "audioUrl": "audio/mean-girls/123_she_s_not_even_that_good_looking_if_you_really_look_at_her.mp3"
       },
       {
         "text": "Shut up, I need to talk to you",
@@ -30269,29 +22499,9 @@ const shows = [
         "audioUrl": "audio/mean-girls/125_snowing_and_blowing_up_bustels_of_fun.mp3"
       },
       {
-        "text": "Like a really huge deal",
-        "character": "",
-        "audioUrl": "audio/mean-girls/127_so_this_is_like_a_really_huge_deal.mp3"
-      },
-      {
-        "text": "When will you see Regina again?",
-        "character": "",
-        "audioUrl": "audio/mean-girls/128_so_when_are_you_gonna_see_regina_again.mp3"
-      },
-      {
-        "text": "Go shave your back now",
-        "character": "",
-        "audioUrl": "audio/mean-girls/129_so_you_can_go_shave_your_back_now.mp3"
-      },
-      {
         "text": "Channel her rage into sports",
         "character": "",
         "audioUrl": "audio/mean-girls/130_taught_her_to_channel_all_her_rage_into_sports.mp3"
-      },
-      {
-        "text": "I feel like I'm getting through",
-        "character": "",
-        "audioUrl": "audio/mean-girls/135_thanks_i_feel_like_i_m_getting_through.mp3"
       },
       {
         "text": "Tallest go in the middle",
@@ -30304,26 +22514,6 @@ const shows = [
         "audioUrl": "audio/mean-girls/140_the_greatest_people_you_will_ever_meet.mp3"
       },
       {
-        "text": "The hardcore girls wear lingerie",
-        "character": "",
-        "audioUrl": "audio/mean-girls/141_the_hard_core_girls_just_wear_lingerie.mp3"
-      },
-      {
-        "text": "Only three girls aren't in it",
-        "character": "",
-        "audioUrl": "audio/mean-girls/144_there_s_only_three_girls_in_the_whole_school_who_aren_t_in_i.mp3"
-      },
-      {
-        "text": "They wanted me socialized",
-        "character": "",
-        "audioUrl": "audio/mean-girls/145_they_wanted_me_to_get_socialized.mp3"
-      },
-      {
-        "text": "They went out for a year",
-        "character": "",
-        "audioUrl": "audio/mean-girls/146_they_went_out_for_a_year.mp3"
-      },
-      {
         "text": "Walker Brothers Pancake House",
         "character": "",
         "audioUrl": "audio/mean-girls/148_to_the_walker_brothers_pancake_house.mp3"
@@ -30334,24 +22524,9 @@ const shows = [
         "audioUrl": "audio/mean-girls/149_wait_i_have_this_really_good_skin_stuff_i_ll_bring_you.mp3"
       },
       {
-        "text": "We have to talk to you",
-        "character": "",
-        "audioUrl": "audio/mean-girls/151_we_have_to_talk_to_you.mp3"
-      },
-      {
         "text": "Opportunities for sabotage",
         "character": "",
         "audioUrl": "audio/mean-girls/152_we_kept_our_eyes_open_for_opportunities_for_sabotage.mp3"
-      },
-      {
-        "text": "Have lunch with us",
-        "character": "",
-        "audioUrl": "audio/mean-girls/153_we_wanna_invite_you_to_have_lunch_with_us.mp3"
-      },
-      {
-        "text": "Best friends in middle school",
-        "character": "",
-        "audioUrl": "audio/mean-girls/154_we_were_best_friends_in_middle_school.mp3"
       },
       {
         "text": "So kick ass at Spring Fling",
@@ -30359,34 +22534,9 @@ const shows = [
         "audioUrl": "audio/mean-girls/155_we_re_gonna_look_so_kick_ass_in_these_when_we_roll_into_spri.mp3"
       },
       {
-        "text": "She has a huge crush on you",
-        "character": "",
-        "audioUrl": "audio/mean-girls/156_well_be_careful_because_she_has_a_huge_crush_on_you.mp3"
-      },
-      {
-        "text": "Maybe we just won't tell her",
-        "character": "",
-        "audioUrl": "audio/mean-girls/157_well_maybe_we_just_won_t_tell_her.mp3"
-      },
-      {
-        "text": "There must be something you're good at",
-        "character": "",
-        "audioUrl": "audio/mean-girls/158_well_there_must_be_something_you_re_good_at.mp3"
-      },
-      {
         "text": "Hold on, other line",
         "character": "",
         "audioUrl": "audio/mean-girls/159_what_are_you_hold_on_other_line.mp3"
-      },
-      {
-        "text": "What's everybody been up to?",
-        "character": "",
-        "audioUrl": "audio/mean-girls/160_what_has_everybody_been_up_to.mp3"
-      },
-      {
-        "text": "What was behind Aaron's head?",
-        "character": "",
-        "audioUrl": "audio/mean-girls/161_what_was_on_the_board_behind_aaron_s_head.mp3"
       },
       {
         "text": "No one would ever see it",
@@ -30404,24 +22554,9 @@ const shows = [
         "audioUrl": "audio/mean-girls/167_yeah_it_was_pretty_bitchy_but_i_m_not_mad.mp3"
       },
       {
-        "text": "That is social suicide",
-        "character": "",
-        "audioUrl": "audio/mean-girls/171_you_cannot_do_that_that_is_social_suicide.mp3"
-      },
-      {
-        "text": "You never made up a rumor?",
-        "character": "",
-        "audioUrl": "audio/mean-girls/173_you_never_made_up_a_rumor_about_anybody.mp3"
-      },
-      {
         "text": "Still an excellent student, right?",
         "character": "",
         "audioUrl": "audio/mean-girls/176_you_re_still_an_excellent_student_right.mp3"
-      },
-      {
-        "text": "No green pen!",
-        "character": "",
-        "audioUrl": "audio/mean-girls/178_don_t_read_ahead_no_green_pen.mp3"
       },
       {
         "text": "Mom, I didn't do it",
@@ -30434,11 +22569,6 @@ const shows = [
         "audioUrl": "audio/mean-girls/181_i_m_not_taking_this_anymore_good_for_you_gretch.mp3"
       },
       {
-        "text": "We could publish it",
-        "character": "",
-        "audioUrl": "audio/mean-girls/183_no_way_oh_come_on_we_could_publish_it.mp3"
-      },
-      {
         "text": "Nobody understands me",
         "character": "",
         "audioUrl": "audio/mean-girls/184_nobody_understands_me_i_understand_you.mp3"
@@ -30447,26 +22577,6 @@ const shows = [
         "text": "You dirty little liar",
         "character": "",
         "audioUrl": "audio/mean-girls/185_oh_god_you_dirty_little_liar.mp3"
-      },
-      {
-        "text": "So you have your cousins",
-        "character": "",
-        "audioUrl": "audio/mean-girls/187_right_so_you_have_your_cousins.mp3"
-      },
-      {
-        "text": "What are we doing this weekend?",
-        "character": "",
-        "audioUrl": "audio/mean-girls/188_so_what_are_we_doing_this_weekend_yeah_what_are_we_doing.mp3"
-      },
-      {
-        "text": "You look awesome!",
-        "character": "",
-        "audioUrl": "audio/mean-girls/193_you_look_awesome_you_look_awesome.mp3"
-      },
-      {
-        "text": "You think I'm an idiot?",
-        "character": "",
-        "audioUrl": "audio/mean-girls/194_you_re_not_gonna_call_him_right_do_you_think_i_m_an_idiot.mp3"
       }
     ]
   },
@@ -30832,7 +22942,7 @@ const shows = [
         "audioUrl": "audio/entourage/081_hip_hop_music_playing_engine_rewing.mp3"
       },
       {
-        "text": "Lights Out, it's Johnny Drama!",
+        "text": "Lights out, it's Johnny Drama!",
         "character": "",
         "audioUrl": "audio/entourage/084_people_cheering_whoa_people_whistling_lights_out_it_s_johnn.mp3"
       },
@@ -31070,7 +23180,7 @@ const shows = [
         "audioUrl": "audio/big-lebowski/042_look_at_our_current_situation_with_that_camel_fucker_in_iraq.mp3"
       },
       {
-        "text": "Stay out of Malibu, Deadbeat",
+        "text": "Stay out of Malibu, deadbeat",
         "character": "",
         "audioUrl": "audio/big-lebowski/043_malibu_police_chief_lions_club_award_on_his_wall_stay_out_of.mp3"
       },
@@ -31323,11 +23433,6 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "Anybody else have anything they want to share?!",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/001_anybody_else_have_anything_they_want_to_share.mp3"
-      },
-      {
         "text": "Are you fucking kidding me?",
         "character": "",
         "audioUrl": "audio/bridesmaids/002_are_you_fucking_kidding_me.mp3"
@@ -31348,21 +23453,6 @@ const shows = [
         "audioUrl": "audio/bridesmaids/005_boob_hit.mp3"
       },
       {
-        "text": "But I don't want to",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/006_but_i_don_t_want_to.mp3"
-      },
-      {
-        "text": "Bye",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/007_bye.mp3"
-      },
-      {
-        "text": "Celebrate",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/008_celebrate.mp3"
-      },
-      {
         "text": "Chocolate meltdown",
         "character": "",
         "audioUrl": "audio/bridesmaids/009_chocolate_meltdown.mp3"
@@ -31378,22 +23468,12 @@ const shows = [
         "audioUrl": "audio/bridesmaids/011_cookie_meltdown.mp3"
       },
       {
-        "text": "Could I Have a Glass of Alcohol",
+        "text": "Could I have a glass of alcohol",
         "character": "",
         "audioUrl": "audio/bridesmaids/012_could_i_have_a_glass_of_alcohol.mp3"
       },
       {
-        "text": "Did you forgot to take you xanax this morning?",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/013_did_you_forgot_to_take_you_xanax_this_morning.mp3"
-      },
-      {
-        "text": "Don't repeat that!",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/014_don_t_repeat_that.mp3"
-      },
-      {
-        "text": "Everybody Has the Flu",
+        "text": "Everybody has the flu",
         "character": "",
         "audioUrl": "audio/bridesmaids/015_everybody_has_the_flu.mp3"
       },
@@ -31403,27 +23483,7 @@ const shows = [
         "audioUrl": "audio/bridesmaids/016_food_poisoning.mp3"
       },
       {
-        "text": "Fuck",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/017_fuck.mp3"
-      },
-      {
-        "text": "Gulp",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/018_gulp.mp3"
-      },
-      {
-        "text": "Hair flip",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/019_hair_flip.mp3"
-      },
-      {
         "text": "Help me I'm poor",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/020_help_me_i_m_poor.mp3"
-      },
-      {
-        "text": "Help Me I'm Poor",
         "character": "",
         "audioUrl": "audio/bridesmaids/021_help_me_i_m_poor.mp3"
       },
@@ -31431,11 +23491,6 @@ const shows = [
         "text": "Holy shit you look amazing",
         "character": "",
         "audioUrl": "audio/bridesmaids/022_holy_shit_you_look_amazing.mp3"
-      },
-      {
-        "text": "I feel bad for your parents",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/023_i_feel_bad_for_your_parents.mp3"
       },
       {
         "text": "I feel fine",
@@ -31448,19 +23503,9 @@ const shows = [
         "audioUrl": "audio/bridesmaids/025_i_need_the_toilet.mp3"
       },
       {
-        "text": "I promise I will thank you!",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/026_i_promise_i_will_thank_you.mp3"
-      },
-      {
         "text": "I promise! Please!",
         "character": "",
         "audioUrl": "audio/bridesmaids/027_i_promise_please.mp3"
-      },
-      {
-        "text": "I want balls in my face",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/028_i_want_balls_in_my_face.mp3"
       },
       {
         "text": "I want you to leave",
@@ -31473,29 +23518,14 @@ const shows = [
         "audioUrl": "audio/bridesmaids/030_i_m_life_and_i_m_gonna_bite_you_in_the_ass.mp3"
       },
       {
-        "text": "I'm not weird",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/031_i_m_not_weird.mp3"
-      },
-      {
         "text": "I'm sure you are very popular",
         "character": "",
         "audioUrl": "audio/bridesmaids/032_i_m_sure_you_are_very_popular.mp3"
       },
       {
-        "text": "I've seen better tennis playing in a tampon commercial",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/033_i_ve_seen_better_tennis_playing_in_a_tampon_commercial.mp3"
-      },
-      {
         "text": "If I was drunk, would I be able to do this?",
         "character": "",
         "audioUrl": "audio/bridesmaids/034_if_i_was_drunk_would_i_be_able_to_do_this.mp3"
-      },
-      {
-        "text": "Jesus Megan",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/035_jesus_megan.mp3"
       },
       {
         "text": "Look away!",
@@ -31528,11 +23558,6 @@ const shows = [
         "audioUrl": "audio/bridesmaids/041_shitting_in_the_street.mp3"
       },
       {
-        "text": "Stove Bridesmaids",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/042_stove_bridesmaids.mp3"
-      },
-      {
         "text": "Taking a dump in the street",
         "character": "",
         "audioUrl": "audio/bridesmaids/043_taking_a_dump_in_the_street.mp3"
@@ -31548,19 +23573,9 @@ const shows = [
         "audioUrl": "audio/bridesmaids/045_what_did_we_eat.mp3"
       },
       {
-        "text": "What? Why??",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/046_what_why.mp3"
-      },
-      {
-        "text": "What's Wrong With Me",
+        "text": "What's wrong with me",
         "character": "",
         "audioUrl": "audio/bridesmaids/047_what_s_wrong_with_me.mp3"
-      },
-      {
-        "text": "When You Gotta Go, You Gotta Go",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/048_when_you_gotta_go_you_gotta_go.mp3"
       },
       {
         "text": "Why can't you just be happy for me?!",
@@ -31571,16 +23586,6 @@ const shows = [
         "text": "Yeah oh shit",
         "character": "",
         "audioUrl": "audio/bridesmaids/050_yeah_oh_shit.mp3"
-      },
-      {
-        "text": "You would be amazed",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/051_you_would_be_amazed.mp3"
-      },
-      {
-        "text": "You're a little cunt",
-        "character": "",
-        "audioUrl": "audio/bridesmaids/052_you_re_a_little_cunt.mp3"
       },
       {
         "text": "You're your problem Annie",
@@ -31611,12 +23616,12 @@ const shows = [
         "audioUrl": "audio/ferris-bueller/002_call_if_you_need_anything.mp3"
       },
       {
-        "text": "Cameron 'I'm Dying'",
+        "text": "Cameron 'I'm dying'",
         "character": "",
         "audioUrl": "audio/ferris-bueller/003_cameron_i_m_dying.mp3"
       },
       {
-        "text": "City Celebration Parade",
+        "text": "City celebration parade",
         "character": "",
         "audioUrl": "audio/ferris-bueller/004_city_celebration_parade.mp3"
       },
@@ -31646,12 +23651,12 @@ const shows = [
         "audioUrl": "audio/ferris-bueller/009_i_need_help.mp3"
       },
       {
-        "text": "I Weep For The Future",
+        "text": "I weep for the future",
         "character": "",
         "audioUrl": "audio/ferris-bueller/010_i_weep_for_the_future.mp3"
       },
       {
-        "text": "I'll Go I'll Go I'll Go I'll Go",
+        "text": "I'll go I'll go I'll go I'll go",
         "character": "",
         "audioUrl": "audio/ferris-bueller/011_i_ll_go_i_ll_go_i_ll_go_i_ll_go.mp3"
       },
@@ -31671,7 +23676,7 @@ const shows = [
         "audioUrl": "audio/ferris-bueller/014_ok_i_ll_go.mp3"
       },
       {
-        "text": "Pardon My French, But You're An Asshole",
+        "text": "Pardon my French, but you're an asshole",
         "character": "",
         "audioUrl": "audio/ferris-bueller/015_pardon_my_french_but_you_re_an_asshole.mp3"
       },
@@ -31691,7 +23696,7 @@ const shows = [
         "audioUrl": "audio/ferris-bueller/018_rooney_calm_down.mp3"
       },
       {
-        "text": "They Think He's A Righteous Dude",
+        "text": "They think he's a righteous dude",
         "character": "",
         "audioUrl": "audio/ferris-bueller/019_they_think_he_s_a_righteous_dude.mp3"
       },
@@ -31734,11 +23739,6 @@ const shows = [
         "audioUrl": "audio/caddyshack/003_a_pool_and_a_pond_a_pond_would_be_good_for_you.mp3"
       },
       {
-        "text": "And put your clothes back on, my dear!",
-        "character": "",
-        "audioUrl": "audio/caddyshack/007_and_put_your_clothes_back_on_my_dear.mp3"
-      },
-      {
         "text": "And you guys... take some more lessons!",
         "character": "",
         "audioUrl": "audio/caddyshack/008_and_you_guys_take_some_more_lessons.mp3"
@@ -31769,16 +23769,6 @@ const shows = [
         "audioUrl": "audio/caddyshack/015_come_here_honey_and_hey_loosen_up_you_re_a_lot_of_woman_you.mp3"
       },
       {
-        "text": "Come on, bark like a dog for me.",
-        "character": "",
-        "audioUrl": "audio/caddyshack/016_come_on_bark_like_a_dog_for_me.mp3"
-      },
-      {
-        "text": "Did you understand what I said? Out!",
-        "character": "",
-        "audioUrl": "audio/caddyshack/020_did_you_understand_what_i_said_out.mp3"
-      },
-      {
         "text": "Don't sell yourself short, Judge. You're a tremendous slouch.",
         "character": "",
         "audioUrl": "audio/caddyshack/021_don_t_sell_yourself_short_judge_you_re_a_tremendous_slouch.mp3"
@@ -31804,29 +23794,14 @@ const shows = [
         "audioUrl": "audio/caddyshack/031_i_christen_thee_the_flying_wasp.mp3"
       },
       {
-        "text": "I feel like a 100 dollars.",
-        "character": "",
-        "audioUrl": "audio/caddyshack/032_i_feel_like_a_100_dollars.mp3"
-      },
-      {
         "text": "I have a number of tees in my hand. Your Honor, odd or even?",
         "character": "",
         "audioUrl": "audio/caddyshack/033_i_have_a_number_of_tees_in_my_hand_your_honor_odd_or_even.mp3"
       },
       {
-        "text": "I heard he swallowed his vomit during a test.",
-        "character": "",
-        "audioUrl": "audio/caddyshack/035_i_heard_he_swallowed_his_vomit_during_a_test.mp3"
-      },
-      {
         "text": "I know how hard it is for young people today and I want to help",
         "character": "",
         "audioUrl": "audio/caddyshack/036_i_know_how_hard_it_is_for_young_people_today_and_i_want_to_h.mp3"
-      },
-      {
-        "text": "I know you're just making this up about the other guys..",
-        "character": "",
-        "audioUrl": "audio/caddyshack/037_i_know_you_re_just_making_this_up_about_the_other_guys.mp3"
       },
       {
         "text": "I think you know why you're here.",
@@ -31844,24 +23819,9 @@ const shows = [
         "audioUrl": "audio/caddyshack/040_i_ll_end_up_working_in_a_lumber_yard_the_rest_of_my_life.mp3"
       },
       {
-        "text": "I've been a little under strain. I have to play with Smails tomorrow...",
-        "character": "",
-        "audioUrl": "audio/caddyshack/042_i_ve_been_a_little_under_strain_i_have_to_play_with_smails_t.mp3"
-      },
-      {
         "text": "Into a 10,000 foot crevice right at the base of this glacier!",
         "character": "",
         "audioUrl": "audio/caddyshack/043_into_a_10_000_foot_crevice_right_at_the_base_of_this_glacier.mp3"
-      },
-      {
-        "text": "It's like reaching under the rug, isn't it?",
-        "character": "",
-        "audioUrl": "audio/caddyshack/045_it_s_like_reaching_under_the_rug_isn_t_it.mp3"
-      },
-      {
-        "text": "Just hold on to your choppers.",
-        "character": "",
-        "audioUrl": "audio/caddyshack/046_just_hold_on_to_your_choppers.mp3"
       },
       {
         "text": "Let's pretend... we're real human beings.",
@@ -31874,16 +23834,6 @@ const shows = [
         "audioUrl": "audio/caddyshack/049_look_at_it_that_s_the_gopher.mp3"
       },
       {
-        "text": "Man... free to kill gophers at will",
-        "character": "",
-        "audioUrl": "audio/caddyshack/050_man_free_to_kill_gophers_at_will.mp3"
-      },
-      {
-        "text": "People say I'm an idiot or something...",
-        "character": "",
-        "audioUrl": "audio/caddyshack/055_people_say_i_m_an_idiot_or_something.mp3"
-      },
-      {
         "text": "She's been plucked more times than the rose of Tralee.",
         "character": "",
         "audioUrl": "audio/caddyshack/057_she_s_been_plucked_more_times_than_the_rose_of_tralee.mp3"
@@ -31892,16 +23842,6 @@ const shows = [
         "text": "Sonja Henie is out. We'll take Danny Noonan",
         "character": "",
         "audioUrl": "audio/caddyshack/060_sonja_henie_is_out_we_ll_take_danny_noonan.mp3"
-      },
-      {
-        "text": "Stop that, you two! All of you!",
-        "character": "",
-        "audioUrl": "audio/caddyshack/061_stop_that_you_two_all_of_you.mp3"
-      },
-      {
-        "text": "Take your hands off her, young man!",
-        "character": "",
-        "audioUrl": "audio/caddyshack/062_take_your_hands_off_her_young_man.mp3"
       },
       {
         "text": "The Judge and Mr. Czervik have a $100,000 match going on!",
@@ -31914,19 +23854,9 @@ const shows = [
         "audioUrl": "audio/caddyshack/065_the_slightest_prick_and_you_wouldn_t_even_know.mp3"
       },
       {
-        "text": "There are more important things than grades.",
-        "character": "",
-        "audioUrl": "audio/caddyshack/066_there_are_more_important_things_than_grades.mp3"
-      },
-      {
         "text": "There's a bunch of them! And a summons.",
         "character": "",
         "audioUrl": "audio/caddyshack/067_there_s_a_bunch_of_them_and_a_summons.mp3"
-      },
-      {
-        "text": "There's a force in the universe..",
-        "character": "",
-        "audioUrl": "audio/caddyshack/068_there_s_a_force_in_the_universe.mp3"
       },
       {
         "text": "Well, if you've been a good caddy, I think they're kind of lenient.",
@@ -31934,19 +23864,9 @@ const shows = [
         "audioUrl": "audio/caddyshack/070_well_if_you_ve_been_a_good_caddy_i_think_they_re_kind_of_len.mp3"
       },
       {
-        "text": "What are we running, a restaurant?",
-        "character": "",
-        "audioUrl": "audio/caddyshack/072_what_are_we_running_a_restaurant.mp3"
-      },
-      {
         "text": "What people here! Look at that one.",
         "character": "",
         "audioUrl": "audio/caddyshack/074_what_people_here_look_at_that_one.mp3"
-      },
-      {
-        "text": "What's your address? You're on Briar, right?",
-        "character": "",
-        "audioUrl": "audio/caddyshack/075_what_s_your_address_you_re_on_briar_right.mp3"
       },
       {
         "text": "Why, I could beat you with one arm.",
@@ -31964,49 +23884,14 @@ const shows = [
         "audioUrl": "audio/caddyshack/081_wrong_you_re_drinking_too_much_your_excellency.mp3"
       },
       {
-        "text": "You better come in until this blows over.",
-        "character": "",
-        "audioUrl": "audio/caddyshack/084_you_better_come_in_until_this_blows_over.mp3"
-      },
-      {
-        "text": "You don't want that scholarship, do you?",
-        "character": "",
-        "audioUrl": "audio/caddyshack/086_you_don_t_want_that_scholarship_do_you.mp3"
-      },
-      {
-        "text": "You go ahead. It looks fine to me.",
-        "character": "",
-        "audioUrl": "audio/caddyshack/087_you_go_ahead_it_looks_fine_to_me.mp3"
-      },
-      {
         "text": "You're a little monkey woman. You're lean...",
         "character": "",
         "audioUrl": "audio/caddyshack/090_you_re_a_little_monkey_woman_you_re_lean.mp3"
       },
       {
-        "text": "You're like a three year old!",
-        "character": "",
-        "audioUrl": "audio/caddyshack/091_you_re_like_a_three_year_old.mp3"
-      },
-      {
-        "text": "...about your ball landing in the road.",
-        "character": "",
-        "audioUrl": "audio/caddyshack/092_about_your_ball_landing_in_the_road.mp3"
-      },
-      {
         "text": "...and all you have to do is get in touch with it",
         "character": "",
         "audioUrl": "audio/caddyshack/093_and_all_you_have_to_do_is_get_in_touch_with_it.mp3"
-      },
-      {
-        "text": "...and I'd like to ask at this time...",
-        "character": "",
-        "audioUrl": "audio/caddyshack/094_and_i_d_like_to_ask_at_this_time.mp3"
-      },
-      {
-        "text": "...and you'll probably be replaced by the rat.",
-        "character": "",
-        "audioUrl": "audio/caddyshack/096_and_you_ll_probably_be_replaced_by_the_rat.mp3"
       },
       {
         "text": "...and you're mean and you're not too far between either...",
@@ -32022,26 +23907,6 @@ const shows = [
         "text": "...manganese. A lot of people don't even know what that is.",
         "character": "",
         "audioUrl": "audio/caddyshack/100_manganese_a_lot_of_people_don_t_even_know_what_that_is.mp3"
-      },
-      {
-        "text": "...or anything that might get me fired.",
-        "character": "",
-        "audioUrl": "audio/caddyshack/101_or_anything_that_might_get_me_fired.mp3"
-      },
-      {
-        "text": "...to come down for quite a while.",
-        "character": "",
-        "audioUrl": "audio/caddyshack/102_to_come_down_for_quite_a_while.mp3"
-      },
-      {
-        "text": "...why don't you drop by the Yacht Club?",
-        "character": "",
-        "audioUrl": "audio/caddyshack/103_why_don_t_you_drop_by_the_yacht_club.mp3"
-      },
-      {
-        "text": "...without the L as we do.",
-        "character": "",
-        "audioUrl": "audio/caddyshack/104_without_the_l_as_we_do.mp3"
       }
     ]
   },
@@ -32067,7 +23932,7 @@ const shows = [
         "audioUrl": "audio/breakfast-club/011_demented_and_sad_but_social.mp3"
       },
       {
-        "text": "Does Barry Manilow Know You Raid His Wardrobe?",
+        "text": "Does Barry Manilow know you raid his wardrobe?",
         "character": "",
         "audioUrl": "audio/breakfast-club/013_does_barry_manilow_know_you_raid_his_wardrobe.mp3"
       },
@@ -32145,7 +24010,7 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "ALRIGHT!",
+        "text": "Alright!",
         "character": "",
         "audioUrl": "audio/big-daddy/001_alright.mp3"
       },
@@ -32155,7 +24020,7 @@ const shows = [
         "audioUrl": "audio/big-daddy/002_bring_it_on_woman.mp3"
       },
       {
-        "text": "Doing the Hibbity Dibbity",
+        "text": "Doing the hibbity dibbity",
         "character": "",
         "audioUrl": "audio/big-daddy/003_doing_the_hibbity_dibbity.mp3"
       },
@@ -32170,7 +24035,7 @@ const shows = [
         "audioUrl": "audio/big-daddy/005_hey_i_love_you.mp3"
       },
       {
-        "text": "Hip Hop Anonymous",
+        "text": "Hip hop anonymous",
         "character": "",
         "audioUrl": "audio/big-daddy/006_hip_hop_anonymous.mp3"
       },
@@ -32200,7 +24065,7 @@ const shows = [
         "audioUrl": "audio/big-daddy/011_old_man_river_zip_it_or_i_ll_break_your_hip.mp3"
       },
       {
-        "text": "Please Don't Do This To Me",
+        "text": "Please don't do this to me",
         "character": "",
         "audioUrl": "audio/big-daddy/012_please_don_t_do_this_to_me.mp3"
       },
@@ -32215,7 +24080,7 @@ const shows = [
         "audioUrl": "audio/big-daddy/014_sausage_mcmuffin.mp3"
       },
       {
-        "text": "Scuba Steve, Damn You!",
+        "text": "Scuba Steve, damn you!",
         "character": "",
         "audioUrl": "audio/big-daddy/015_scuba_steve_damn_you.mp3"
       },
@@ -32225,7 +24090,7 @@ const shows = [
         "audioUrl": "audio/big-daddy/016_stop_yelling_at_me.mp3"
       },
       {
-        "text": "The Goddamn Jets",
+        "text": "The goddamn Jets",
         "character": "",
         "audioUrl": "audio/big-daddy/017_the_goddamn_jets.mp3"
       },
@@ -32245,12 +24110,12 @@ const shows = [
         "audioUrl": "audio/big-daddy/020_you_gave_him_the_easy_ones.mp3"
       },
       {
-        "text": "You Give Him the Easy Ones",
+        "text": "You give him the easy ones",
         "character": "",
         "audioUrl": "audio/big-daddy/021_you_give_him_the_easy_ones.mp3"
       },
       {
-        "text": "5 Year Plan: Don't Die",
+        "text": "5 year plan: don't die",
         "character": "",
         "audioUrl": "audio/big-daddy/022_5_year_plan_don_t_die.mp3"
       }
@@ -32824,7 +24689,7 @@ const shows = [
         "audioUrl": "audio/hot-rod/005_bathroom.mp3"
       },
       {
-        "text": "Big Ass Stunt",
+        "text": "Big ass stunt",
         "character": "",
         "audioUrl": "audio/hot-rod/006_bigassstunt.mp3"
       },
@@ -32849,17 +24714,12 @@ const shows = [
         "audioUrl": "audio/hot-rod/010_coolerheads.mp3"
       },
       {
-        "text": "Dazzled",
-        "character": "",
-        "audioUrl": "audio/hot-rod/011_dazzled.mp3"
-      },
-      {
         "text": "Fight Me",
         "character": "",
         "audioUrl": "audio/hot-rod/012_fightme.mp3"
       },
       {
-        "text": "Get You Better",
+        "text": "Get you better",
         "character": "",
         "audioUrl": "audio/hot-rod/013_getyoubetter.mp3"
       },
@@ -32874,16 +24734,6 @@ const shows = [
         "audioUrl": "audio/hot-rod/015_greentea.mp3"
       },
       {
-        "text": "Have Fun",
-        "character": "",
-        "audioUrl": "audio/hot-rod/016_havefun.mp3"
-      },
-      {
-        "text": "How It's Done",
-        "character": "",
-        "audioUrl": "audio/hot-rod/017_howitsdone.mp3"
-      },
-      {
         "text": "Jackhammer",
         "character": "",
         "audioUrl": "audio/hot-rod/018_jackhammer.mp3"
@@ -32894,19 +24744,14 @@ const shows = [
         "audioUrl": "audio/hot-rod/019_jealousrage.mp3"
       },
       {
-        "text": "Just Bring It",
+        "text": "Just bring it",
         "character": "",
         "audioUrl": "audio/hot-rod/020_justbringit.mp3"
       },
       {
-        "text": "Kiss Was Hot",
+        "text": "Kiss was hot",
         "character": "",
         "audioUrl": "audio/hot-rod/021_kisswashot.mp3"
-      },
-      {
-        "text": "Let's Jump",
-        "character": "",
-        "audioUrl": "audio/hot-rod/022_letsjump.mp3"
       },
       {
         "text": "Let's Party",
@@ -32914,7 +24759,7 @@ const shows = [
         "audioUrl": "audio/hot-rod/023_letsparty.mp3"
       },
       {
-        "text": "Light 'Em Off",
+        "text": "Light 'em off",
         "character": "",
         "audioUrl": "audio/hot-rod/024_lightthemoff.mp3"
       },
@@ -32922,11 +24767,6 @@ const shows = [
         "text": "Look Pretty",
         "character": "",
         "audioUrl": "audio/hot-rod/025_lookpretty.mp3"
-      },
-      {
-        "text": "Mountain Face",
-        "character": "",
-        "audioUrl": "audio/hot-rod/026_mountainface.mp3"
       },
       {
         "text": "Mouth to Mouth",
@@ -32939,7 +24779,7 @@ const shows = [
         "audioUrl": "audio/hot-rod/028_murderhim.mp3"
       },
       {
-        "text": "My Hat Now",
+        "text": "My hat now",
         "character": "",
         "audioUrl": "audio/hot-rod/029_myhatnow.mp3"
       },
@@ -32947,11 +24787,6 @@ const shows = [
         "text": "Nervous",
         "character": "",
         "audioUrl": "audio/hot-rod/030_nervous.mp3"
-      },
-      {
-        "text": "Oh Shit",
-        "character": "",
-        "audioUrl": "audio/hot-rod/031_ohshit.mp3"
       },
       {
         "text": "Party",
@@ -32962,11 +24797,6 @@ const shows = [
         "text": "Prison Rules",
         "character": "",
         "audioUrl": "audio/hot-rod/033_prisonrules.mp3"
-      },
-      {
-        "text": "Quiet Place",
-        "character": "",
-        "audioUrl": "audio/hot-rod/034_quietplace.mp3"
       },
       {
         "text": "Raccoon",
@@ -32994,7 +24824,7 @@ const shows = [
         "audioUrl": "audio/hot-rod/039_respectme.mp3"
       },
       {
-        "text": "So Cool Beans",
+        "text": "So cool beans",
         "character": "",
         "audioUrl": "audio/hot-rod/040_socoolbeans.mp3"
       },
@@ -33009,11 +24839,6 @@ const shows = [
         "audioUrl": "audio/hot-rod/042_superdead.mp3"
       },
       {
-        "text": "Talking",
-        "character": "",
-        "audioUrl": "audio/hot-rod/043_talking.mp3"
-      },
-      {
         "text": "Tears",
         "character": "",
         "audioUrl": "audio/hot-rod/044_tears.mp3"
@@ -33022,16 +24847,6 @@ const shows = [
         "text": "That's Enough",
         "character": "",
         "audioUrl": "audio/hot-rod/045_thatsenough.mp3"
-      },
-      {
-        "text": "The Flavor",
-        "character": "",
-        "audioUrl": "audio/hot-rod/046_theflavor.mp3"
-      },
-      {
-        "text": "The Victim",
-        "character": "",
-        "audioUrl": "audio/hot-rod/047_thevictim.mp3"
       },
       {
         "text": "Throwing Star",
@@ -33049,11 +24864,6 @@ const shows = [
         "audioUrl": "audio/hot-rod/050_trippinballs.mp3"
       },
       {
-        "text": "Ultimate Punch",
-        "character": "",
-        "audioUrl": "audio/hot-rod/051_ultimatepunch.mp3"
-      },
-      {
         "text": "Universe",
         "character": "",
         "audioUrl": "audio/hot-rod/052_universe.mp3"
@@ -33069,19 +24879,9 @@ const shows = [
         "audioUrl": "audio/hot-rod/054_whiskey.mp3"
       },
       {
-        "text": "Who's With Me",
-        "character": "",
-        "audioUrl": "audio/hot-rod/055_whoswithme.mp3"
-      },
-      {
         "text": "Wizards",
         "character": "",
         "audioUrl": "audio/hot-rod/056_wizards.mp3"
-      },
-      {
-        "text": "Yoo-hoo",
-        "character": "",
-        "audioUrl": "audio/hot-rod/057_yoo_hoo.mp3"
       },
       {
         "text": "You're a Kid",
@@ -33099,7 +24899,7 @@ const shows = [
         "audioUrl": "audio/hot-rod/060_you_rewierd.mp3"
       },
       {
-        "text": "You Are Pathetic",
+        "text": "You are pathetic",
         "character": "",
         "audioUrl": "audio/hot-rod/061_youarepathetic.mp3"
       },
@@ -33232,7 +25032,7 @@ const shows = [
         "audioUrl": "audio/nacho-libre/156_nacho_libre.mp3"
       },
       {
-        "text": "Nacho Libre stretchy",
+        "text": "Stretchy",
         "character": "",
         "audioUrl": "audio/nacho-libre/158_nacho_libre_stretchy.mp3"
       },
@@ -33355,7 +25155,7 @@ const shows = [
         "audioUrl": "audio/spaceballs/004_fooled_you.mp3"
       },
       {
-        "text": "He Shot My Hair",
+        "text": "He shot my hair",
         "character": "",
         "audioUrl": "audio/spaceballs/005_he_shot_my_hair.mp3"
       },
@@ -33375,7 +25175,7 @@ const shows = [
         "audioUrl": "audio/spaceballs/008_just_stop_this_thing_i_order_you.mp3"
       },
       {
-        "text": "Knock Next Time",
+        "text": "Knock next time",
         "character": "",
         "audioUrl": "audio/spaceballs/009_knock_next_time.mp3"
       },
@@ -33395,7 +25195,7 @@ const shows = [
         "audioUrl": "audio/spaceballs/012_ludicrous_speed_activated.mp3"
       },
       {
-        "text": "Meet First Time Last Time",
+        "text": "Meet first time last time",
         "character": "",
         "audioUrl": "audio/spaceballs/013_meet_first_time_last_time.mp3"
       },
@@ -33440,7 +25240,7 @@ const shows = [
         "audioUrl": "audio/spaceballs/021_spaceballs.mp3"
       },
       {
-        "text": "Spaceballs shit",
+        "text": "Shit",
         "character": "",
         "audioUrl": "audio/spaceballs/022_spaceballs_shit.mp3"
       },
@@ -33450,7 +25250,7 @@ const shows = [
         "audioUrl": "audio/spaceballs/023_surrounded_by_assholes.mp3"
       },
       {
-        "text": "The Radar Is Jammed",
+        "text": "The radar is jammed",
         "character": "",
         "audioUrl": "audio/spaceballs/024_the_radar_is_jammed.mp3"
       },
@@ -33465,12 +25265,12 @@ const shows = [
         "audioUrl": "audio/spaceballs/026_they_ve_gone_to_plaid.mp3"
       },
       {
-        "text": "We Ain't Found Shit",
+        "text": "We ain't found shit",
         "character": "",
         "audioUrl": "audio/spaceballs/027_we_ain_t_found_shit.mp3"
       },
       {
-        "text": "We're in the Now Now",
+        "text": "We're in the now now",
         "character": "",
         "audioUrl": "audio/spaceballs/028_we_re_in_the_now_now.mp3"
       },
@@ -33485,12 +25285,12 @@ const shows = [
         "audioUrl": "audio/spaceballs/030_what_the_hell.mp3"
       },
       {
-        "text": "Why Didn't Anyone Tell Me",
+        "text": "Why didn't anyone tell me",
         "character": "",
         "audioUrl": "audio/spaceballs/031_why_didn_t_anyone_tell_me.mp3"
       },
       {
-        "text": "Your Schwartz Is as Big as Mine",
+        "text": "Your Schwartz is as big as mine",
         "character": "",
         "audioUrl": "audio/spaceballs/032_your_schwartz_is_as_big_as_mine.mp3"
       }
@@ -33954,7 +25754,7 @@ const shows = [
         "audioUrl": "audio/were-the-millers/035_senior_chacon_we_were_not_expecting_you_i_decided_to_bring_t.mp3"
       },
       {
-        "text": "Not dead in a ditch, LOL",
+        "text": "Not dead in a ditch",
         "character": "",
         "audioUrl": "audio/were-the-millers/036_shit_is_someone_here_yeah_yeah_us_we_re_here_that_s_who_s_he.mp3"
       },
@@ -34340,7 +26140,7 @@ const shows = [
         "audioUrl": "audio/21-jump-street/607_i_didn_t_punch_him_because_he_s_gay_i_punched_him_and_then_h.mp3"
       },
       {
-        "text": "Angry Black Captain",
+        "text": "Angry black captain",
         "character": "",
         "audioUrl": "audio/21-jump-street/680_i_know_what_you_re_thinking_angry_black_captain_it_ain_t_not.mp3"
       },
@@ -34495,7 +26295,7 @@ const shows = [
         "audioUrl": "audio/21-jump-street/1513_the_mission_is_this_infiltrate_the_dealers_find_the_supplier.mp3"
       },
       {
-        "text": "Three Keys of Coolness",
+        "text": "Three keys of coolness",
         "character": "",
         "audioUrl": "audio/21-jump-street/1521_the_three_keys_of_coolness_in_high_school_by_jenko_one_don_t.mp3"
       },
@@ -34582,1895 +26382,1595 @@ const shows = [
     ]
   },
   {
-    "id": "itysl-s1",
-    "name": "I Think You Should Leave (S1)",
+    "id": "f-is-for-family",
+    "name": "F is for Family",
     "type": "show",
     "theme": {
-      "primary": "#d4a017",
-      "accent": "#c0392b",
-      "bg": "#0a0805"
+      "primary": "#d97a2b",
+      "accent": "#8fae6a",
+      "bg": "#0a0806"
     },
     "text_style": "title",
     "quotes": [
       {
-        "text": "A baby on a seven hour flight.",
+        "text": "Ah shit",
         "character": "",
-        "audioUrl": "audio/itysl-s1/001_a_baby_on_a_seven_hour_flight.mp3"
+        "audioUrl": "audio/f-is-for-family/001_ah_shit_overlapping_chatter.mp3"
       },
       {
-        "text": "A man rushed in from a car accident",
+        "text": "Fucking Charlie Brown",
         "character": "",
-        "audioUrl": "audio/itysl-s1/008_a_man_is_rushed_in_cause_he_was_in_a_car_accident.mp3"
+        "audioUrl": "audio/f-is-for-family/002_ah_a_person_pussy_god_damn_it_stop_ripping_fucking_charlie_b.mp3"
       },
       {
-        "text": "Admit it yourself that you suck.",
+        "text": "You fucking turncoat",
         "character": "",
-        "audioUrl": "audio/itysl-s1/011_admit_it_yourself_that_you_suck.mp3"
+        "audioUrl": "audio/f-is-for-family/003_ah_what_the_hell_are_you_doing_here_back_off_bob_just_trying.mp3"
       },
       {
-        "text": "Dump it. Trash it. This one's garbage.",
+        "text": "Through that fuckin' wall",
         "character": "",
-        "audioUrl": "audio/itysl-s1/028_all_right_you_know_what_this_is_dumb_dump_it_trash_it_this_o.mp3"
+        "audioUrl": "audio/f-is-for-family/004_and_i_will_put_you_through_that_fuckin_wall.mp3"
       },
       {
-        "text": "Bring snacks so it feels like a real party.",
+        "text": "Four feets, don't fail me",
         "character": "",
-        "audioUrl": "audio/itysl-s1/037_and_bring_snacks_so_it_feels_like_a_real_party.mp3"
+        "audioUrl": "audio/f-is-for-family/005_and_now_back_to_the_watts_world_travelers_and_the_haunted_di.mp3"
       },
       {
-        "text": "In a tradition... In a tradition.",
+        "text": "Right through the fucking wall",
         "character": "",
-        "audioUrl": "audio/itysl-s1/042_and_friendship_in_a_in_a_tradition_in_a_tradition.mp3"
+        "audioUrl": "audio/f-is-for-family/006_and_put_you_right_through_the_fucking_wall.mp3"
       },
       {
-        "text": "A metal bolt through his head",
+        "text": "Put you through that wall",
         "character": "",
-        "audioUrl": "audio/itysl-s1/044_and_he_has_a_metal_bolt_through_his_head.mp3"
+        "audioUrl": "audio/f-is-for-family/007_and_put_you_through_that_fucking_wall.mp3"
       },
       {
-        "text": "Help him! You got to help him!",
+        "text": "Told a nun: fuck herself",
         "character": "",
-        "audioUrl": "audio/itysl-s1/046_and_he_says_help_him_you_got_to_help_him.mp3"
+        "audioUrl": "audio/f-is-for-family/008_bless_me_father_for_i_have_sinned_i_just_told_a_nun_to_go_fu.mp3"
       },
       {
-        "text": "He'd have been so happy to see you",
+        "text": "Bridget? Bridget?",
         "character": "",
-        "audioUrl": "audio/itysl-s1/047_and_he_would_have_been_so_happy_to_see_all_of_you_here_today.mp3"
+        "audioUrl": "audio/f-is-for-family/011_bridget_bridget_huh.mp3"
       },
       {
-        "text": "He's taking care of catering",
+        "text": "I'm dead! I'm dead!",
         "character": "",
-        "audioUrl": "audio/itysl-s1/048_and_he_s_gonna_take_care_of_catering_for_the_whole_thing.mp3"
+        "audioUrl": "audio/f-is-for-family/012_can_i_get_the_check_i_m_dead_i_m_dead_i_m_dead.mp3"
       },
       {
-        "text": "You know what you didn't say?",
+        "text": "Make it the last night",
         "character": "",
-        "audioUrl": "audio/itysl-s1/052_and_how_it_s_all_i_talk_about_but_you_know_what_you_didn_t_s.mp3"
+        "audioUrl": "audio/f-is-for-family/013_come_on_charlie_make_it_the_last_night_make_it_the_last_nigh.mp3"
       },
       {
-        "text": "I vowed to devote the rest of my life",
+        "text": "Dada? Dada?",
         "character": "",
-        "audioUrl": "audio/itysl-s1/058_and_i_vowed_from_that_day_forward_that_i_would_devote_the_re.mp3"
+        "audioUrl": "audio/f-is-for-family/014_dada_dada_dada_dada_dada.mp3"
       },
       {
-        "text": "I was worried you'd get cold.",
+        "text": "You remember nothing!",
         "character": "",
-        "audioUrl": "audio/itysl-s1/059_and_i_was_worried_you_were_gonna_get_cold.mp3"
+        "audioUrl": "audio/f-is-for-family/015_daddy_wawa_daddy_wawa_oh_my_god_is_that_where_i_almost_drown.mp3"
       },
       {
-        "text": "He brought his own much larger organ",
+        "text": "Christmas in July in December",
         "character": "",
-        "audioUrl": "audio/itysl-s1/063_and_i_m_now_seeing_that_he_brought_his_own_much_larger_organ.mp3"
+        "audioUrl": "audio/f-is-for-family/017_dinner_and_a_hat_it_s_christmas_in_july_in_december_come_and.mp3"
       },
       {
-        "text": "The hole in your toilet had shrunk",
+        "text": "Forced me to eat candy",
         "character": "",
-        "audioUrl": "audio/itysl-s1/067_and_it_looked_like_the_hole_in_your_toilet_had_shrunk.mp3"
+        "audioUrl": "audio/f-is-for-family/018_dolores_a_puerto_rican_kidnapped_me_and_forced_me_to_eat_can.mp3"
       },
       {
-        "text": "Too bad nobody has video or anything",
+        "text": "Don't you father me",
         "character": "",
-        "audioUrl": "audio/itysl-s1/070_and_it_s_too_bad_we_can_t_figure_it_out_cause_nobody_has_vid.mp3"
+        "audioUrl": "audio/f-is-for-family/019_frank_don_t_you_father_me_i_ll_put_you_through_that_fucking.mp3"
       },
       {
-        "text": "Jerked you off until nothing came out",
+        "text": "Frank Murphy, you handsome devil",
         "character": "",
-        "audioUrl": "audio/itysl-s1/072_and_jerked_you_off_until_nothing_came_out.mp3"
+        "audioUrl": "audio/f-is-for-family/020_frank_murphy_you_handsome_devil_you_got_all_the_answers_don.mp3"
       },
       {
-        "text": "Big old mud pie on your butt",
+        "text": "Just spoke from the heart",
         "character": "",
-        "audioUrl": "audio/itysl-s1/077_and_not_have_a_big_old_mud_pie_on_the_bottom_of_your_butt.mp3"
+        "audioUrl": "audio/f-is-for-family/022_frank_no_one_s_talked_to_me_like_that_in_30_years_just_spoke.mp3"
       },
       {
-        "text": "The son of the deceased, to sing",
+        "text": "I never tasted blue before",
         "character": "",
-        "audioUrl": "audio/itysl-s1/079_and_now_to_sing_a_song_the_son_of_the_deceased.mp3"
+        "audioUrl": "audio/f-is-for-family/023_gentiles_with_clubs_but_i_m_still_having_fun_i_never_tasted.mp3"
       },
       {
-        "text": "Now, I will exact my revenge.",
+        "text": "Too bad everybody hates you",
         "character": "",
-        "audioUrl": "audio/itysl-s1/083_and_now_i_will_exact_my_revenge.mp3"
+        "audioUrl": "audio/f-is-for-family/024_good_luck_at_the_auditions_too_bad_everybody_hates_you_cause.mp3"
       },
       {
-        "text": "Raise the kids till they're grown",
+        "text": "A man's gotta do",
         "character": "",
-        "audioUrl": "audio/itysl-s1/085_and_raise_the_kids_until_they_re_out_of_the_house.mp3"
+        "audioUrl": "audio/f-is-for-family/025_here_s_my_chance_but_we_were_in_the_middle_of_a_game_what_ab.mp3"
       },
       {
-        "text": "Beet red for my family photo",
+        "text": "Give me my bean juice",
         "character": "",
-        "audioUrl": "audio/itysl-s1/086_and_rest_up_so_my_face_isn_t_beet_red_for_my_family_photo_to.mp3"
+        "audioUrl": "audio/f-is-for-family/026_here_s_the_coffee_you_wanted_i_didn_t_ask_for_no_bean_juice.mp3"
       },
       {
-        "text": "Santa and his elves worked so hard",
+        "text": "Wuv You Waffles",
         "character": "",
-        "audioUrl": "audio/itysl-s1/087_and_santa_and_all_his_elves_must_have_worked_so_hard_on_it.mp3"
+        "audioUrl": "audio/f-is-for-family/027_hey_phillip_my_girlfriend_s_in_the_paper_bridget_fitzsimmons.mp3"
       },
       {
-        "text": "There's a lot of other stuff, too.",
+        "text": "Try this here electric lasso",
         "character": "",
-        "audioUrl": "audio/itysl-s1/105_and_there_s_a_lot_of_other_stuff_too.mp3"
+        "audioUrl": "audio/f-is-for-family/029_i_can_t_reach_it_hey_ben_try_this_here_electric_lasso_oh_shi.mp3"
       },
       {
-        "text": "Running around the house as fast as they can",
+        "text": "Screw a First Lady",
         "character": "",
-        "audioUrl": "audio/itysl-s1/107_and_they_both_start_running_around_the_house_as_fast_as_they.mp3"
+        "audioUrl": "audio/f-is-for-family/030_i_have_a_question_if_you_had_to_screw_a_first_lady_who_would.mp3"
       },
       {
-        "text": "Bought you the entire dessert menu",
+        "text": "I never missed a day",
         "character": "",
-        "audioUrl": "audio/itysl-s1/110_and_tried_to_make_it_up_to_you_by_buying_you_the_entire_dess.mp3"
+        "audioUrl": "audio/f-is-for-family/031_i_never_missed_a_day_once_i_came_in_when_kennedy_was_shot_wh.mp3"
       },
       {
-        "text": "That little blue shirt",
+        "text": "I swear to God",
         "character": "",
-        "audioUrl": "audio/itysl-s1/114_and_why_would_it_be_wearing_that_little_blue_shirt.mp3"
+        "audioUrl": "audio/f-is-for-family/032_i_swear_to_god_i_will_put_you_through_that_fucking_wall.mp3"
       },
       {
-        "text": "A cold front moving in",
+        "text": "Through that divider curtain",
         "character": "",
-        "audioUrl": "audio/itysl-s1/115_and_with_a_cold_front_moving_in_from_the_northeast_it_s_goin.mp3"
+        "audioUrl": "audio/f-is-for-family/033_i_will_put_you_through_that_fucking_divider_curtain.mp3"
       },
       {
-        "text": "You never bothered to learn my name.",
+        "text": "Kiss me, you splooge socket",
         "character": "",
-        "audioUrl": "audio/itysl-s1/116_and_you_all_never_bothered_to_learn_my_name.mp3"
+        "audioUrl": "audio/f-is-for-family/034_i_like_like_you_bridget_kiss_me_you_splooge_socket_what_is_w.mp3"
       },
       {
-        "text": "Attaboy! Good bone crushing.",
+        "text": "I'll put you through",
         "character": "",
-        "audioUrl": "audio/itysl-s1/141_attaboy_that_s_good_bone_crushing.mp3"
+        "audioUrl": "audio/f-is-for-family/035_i_ll_put_you_through_that_fucking_wall.mp3"
       },
       {
-        "text": "Baby Fubbins, 90th percentile in weight",
+        "text": "Locked out of the house",
         "character": "",
-        "audioUrl": "audio/itysl-s1/144_baby_fubbins_is_also_90th_percentile_in_weight.mp3"
+        "audioUrl": "audio/f-is-for-family/036_i_m_gonna_go_back_inside_now_okay_i_m_locked_out_of_the_hous.mp3"
       },
       {
-        "text": "Baby Porkins is 99th percentile",
+        "text": "I'm good with dogs",
         "character": "",
-        "audioUrl": "audio/itysl-s1/145_baby_porkins_is_99th_percentile.mp3"
+        "audioUrl": "audio/f-is-for-family/037_i_m_good_with_dogs_i_ll_put_you_through_that_fucking_wall_ou.mp3"
       },
       {
-        "text": "Beautiful words, Kyle.",
+        "text": "I was only kidding, water",
         "character": "",
-        "audioUrl": "audio/itysl-s1/151_beautiful_words_kyle_your_father_would_have_been_so_proud.mp3"
+        "audioUrl": "audio/f-is-for-family/039_i_m_not_gonna_let_you_ruin_my_life_anymore_tonight_i_un_drow.mp3"
       },
       {
-        "text": "Too tired to do anything funny!",
+        "text": "Hunky dory from down here",
         "character": "",
-        "audioUrl": "audio/itysl-s1/155_because_of_you_i_was_too_tired_to_do_anything_funny.mp3"
+        "audioUrl": "audio/f-is-for-family/041_i_m_not_sleeping_well_i_feel_so_stressed_frank_s_overworked.mp3"
       },
       {
-        "text": "That's Bozo's voice.",
+        "text": "Come on up, Bob",
         "character": "",
-        "audioUrl": "audio/itysl-s1/170_bozo_is_that_s_bozo_s_voice.mp3"
+        "audioUrl": "audio/f-is-for-family/042_i_m_proud_to_introduce_our_new_vice_president_of_operations.mp3"
       },
       {
-        "text": "Brown pie in my undies",
+        "text": "Taking you down with me",
         "character": "",
-        "audioUrl": "audio/itysl-s1/173_brown_pie_in_my_undies_make_it_look_like_i_shit_my_pants.mp3"
+        "audioUrl": "audio/f-is-for-family/043_i_m_taking_you_down_with_me_i_should_ve_driven_over_you_when.mp3"
       },
       {
-        "text": "Just for anyone who's concerned...",
+        "text": "Don't let me wake up",
         "character": "",
-        "audioUrl": "audio/itysl-s1/175_but_first_i_do_want_to_say_just_for_anyone_who_s_concerned.mp3"
+        "audioUrl": "audio/f-is-for-family/044_i_ve_never_seen_anything_so_beautiful_please_don_t_let_me_wa.mp3"
       },
       {
-        "text": "Guest on The Colgate Comedy Hour",
+        "text": "Is everybody a loser?",
         "character": "",
-        "audioUrl": "audio/itysl-s1/177_but_he_was_also_a_frequent_guest_on_the_colgate_comedy_hour.mp3"
+        "audioUrl": "audio/f-is-for-family/045_is_everybody_in_your_family_a_loser_chuckles_get_the_fuck_ou.mp3"
       },
       {
-        "text": "The dog shouldn't get put down",
+        "text": "Morphine suppositories",
         "character": "",
-        "audioUrl": "audio/itysl-s1/179_but_i_don_t_think_the_dog_should_get_put_down.mp3"
+        "audioUrl": "audio/f-is-for-family/046_it_s_brilliant_that_s_it_that_s_my_new_invention_yes_yes_oh.mp3"
       },
       {
-        "text": "Our gracious host didn't wipe properly.",
+        "text": "Don't wanna go to Pittsburgh",
         "character": "",
-        "audioUrl": "audio/itysl-s1/184_but_i_m_afraid_our_gracious_host_didn_t_wipe_properly.mp3"
+        "audioUrl": "audio/f-is-for-family/047_let_me_out_i_don_t_want_to_go_to_pittsburgh.mp3"
       },
       {
-        "text": "But if Melissa doesn't get sick,",
+        "text": "That flashing fuel light",
         "character": "",
-        "audioUrl": "audio/itysl-s1/188_but_if_melissa_doesn_t_get_sick.mp3"
+        "audioUrl": "audio/f-is-for-family/048_look_that_s_bill_vic_you_found_him_oh_thank_god_i_can_get_ou.mp3"
       },
       {
-        "text": "But most of the time, I don't.",
+        "text": "My witness, that fuckin' wall",
         "character": "",
-        "audioUrl": "audio/itysl-s1/190_but_most_of_the_time_i_don_t.mp3"
+        "audioUrl": "audio/f-is-for-family/049_my_witness_i_will_put_you_through_that_fuckin_wall.mp3"
       },
       {
-        "text": "TC Tuggers has this little knob",
+        "text": "Whippoorwill will dine in you",
         "character": "",
-        "audioUrl": "audio/itysl-s1/191_but_tc_tuggers_has_this_little_knob_on_the_front.mp3"
+        "audioUrl": "audio/f-is-for-family/050_nice_work_jimmy_bell_rings_what_whippoorwill_will_dine_in_yo.mp3"
       },
       {
-        "text": "A joke hole that's just for farts!",
+        "text": "Now that's cold blooded",
         "character": "",
-        "audioUrl": "audio/itysl-s1/199_but_with_a_joke_hole_that_s_just_for_farts.mp3"
+        "audioUrl": "audio/f-is-for-family/051_now_that_s_cold_blooded_ah.mp3"
       },
       {
-        "text": "A little cheese and one nugget of meat",
+        "text": "Oh shit, she's so beautiful",
         "character": "",
-        "audioUrl": "audio/itysl-s1/207_but_like_a_little_bit_of_cheese_and_maybe_one_little_nugget.mp3"
+        "audioUrl": "audio/f-is-for-family/052_oh_shit_oh_shit_she_s_so_beautiful.mp3"
       },
       {
-        "text": "Call Laser Spine Specialists",
+        "text": "Oh yeah, oh yeah",
         "character": "",
-        "audioUrl": "audio/itysl-s1/211_call_laser_spine_specialists_for_your_no_cost_mri_review.mp3"
+        "audioUrl": "audio/f-is-for-family/053_oh_yeah_oh_yeah.mp3"
       },
       {
-        "text": "Corporate actually listened to our request",
+        "text": "A ring and a bottle",
         "character": "",
-        "audioUrl": "audio/itysl-s1/219_can_t_believe_corporate_actually_listened_to_our_request.mp3"
+        "audioUrl": "audio/f-is-for-family/054_ooh_come_on_you_re_a_ring_and_a_bottle_why_do_you_hate_each.mp3"
       },
       {
-        "text": "Chunky eats your points and gets mad",
+        "text": "Two day anniversary cake",
         "character": "",
-        "audioUrl": "audio/itysl-s1/224_chunky_eats_your_points_and_he_gets_very_mad.mp3"
+        "audioUrl": "audio/f-is-for-family/056_otto_it_s_ginny_from_the_softball_game_i_made_you_a_two_day.mp3"
       },
       {
-        "text": "Coach is nicer on international flights.",
+        "text": "Take that dance with you",
         "character": "",
-        "audioUrl": "audio/itysl-s1/226_coach_is_so_much_nicer_on_international_flights.mp3"
+        "audioUrl": "audio/f-is-for-family/058_people_in_this_part_of_town_sure_like_to_stare_at_cars_funk.mp3"
       },
       {
-        "text": "Colleen, pick a square on the board.",
+        "text": "All the meat sauce",
         "character": "",
-        "audioUrl": "audio/itysl-s1/227_colleen_you_re_up_first_pick_a_square_on_the_board.mp3"
+        "audioUrl": "audio/f-is-for-family/059_pretty_soon_we_ll_have_all_the_meat_sauce_we_can_drink_lock.mp3"
       },
       {
-        "text": "Neither is your suit suit.",
+        "text": "Since I'm your father",
         "character": "",
-        "audioUrl": "audio/itysl-s1/234_confidence_is_not_your_strong_suit_neither_is_your_suit_suit.mp3"
+        "audioUrl": "audio/f-is-for-family/060_since_i_m_your_father_and_i_ll_put_you_through_that_fucking.mp3"
       },
       {
-        "text": "Say that about the nachos?",
+        "text": "Everybody's a winner, except her",
         "character": "",
-        "audioUrl": "audio/itysl-s1/243_did_he_ask_you_to_come_over_and_say_that_about_the_nachos.mp3"
+        "audioUrl": "audio/f-is-for-family/061_step_right_up_everybody_s_a_winner_except_her.mp3"
       },
       {
-        "text": "Did you ask him to come say that?",
+        "text": "They're fucking morons",
         "character": "",
-        "audioUrl": "audio/itysl-s1/244_did_you_ask_him_to_come_over_here_and_say_that.mp3"
+        "audioUrl": "audio/f-is-for-family/064_thanks_a_million_chet_i_was_about_to_lose_my_mind_with_those.mp3"
       },
       {
-        "text": "Does that count as my Christmas gift?",
+        "text": "That's my Maureen",
         "character": "",
-        "audioUrl": "audio/itysl-s1/248_does_that_count_as_what_i_get_for_christmas_as_my_gift.mp3"
+        "audioUrl": "audio/f-is-for-family/066_that_s_two_well_look_who_s_on_a_roll_that_s_my_maureen_that.mp3"
       },
       {
-        "text": "Big fan of his Angels and Archways clothing",
+        "text": "You scared me half to...",
         "character": "",
-        "audioUrl": "audio/itysl-s1/263_dude_i_am_such_a_big_fan_of_his_angels_and_archways_clothing.mp3"
+        "audioUrl": "audio/f-is-for-family/067_there_you_are_maureen_you_scared_me_half_to.mp3"
       },
       {
-        "text": "Replace your hairpiece with a balder one",
+        "text": "Free to enjoy my day",
         "character": "",
-        "audioUrl": "audio/itysl-s1/266_every_17_hours_replace_your_hairpiece_with_the_next_most_bal.mp3"
+        "audioUrl": "audio/f-is-for-family/068_there_all_done_sighs_now_i_m_free_to_enjoy_the_rest_of_my_da.mp3"
       },
       {
-        "text": "Everybody's going to party at my house.",
+        "text": "Bear shit in the woods",
         "character": "",
-        "audioUrl": "audio/itysl-s1/268_everybody_s_going_to_party_at_my_house.mp3"
+        "audioUrl": "audio/f-is-for-family/069_vic_we_need_music_when_are_you_gonna_start_playing_some_reco.mp3"
       },
       {
-        "text": "50 Stanzo brand fedoras",
+        "text": "Well, shine my shoes",
         "character": "",
-        "audioUrl": "audio/itysl-s1/283_for_200_i_could_probably_get_50_stanzo_brand_fedoras.mp3"
+        "audioUrl": "audio/f-is-for-family/070_well_shine_my_shoes_at_least_the_spin_cycle_works_now_we_sho.mp3"
       },
       {
-        "text": "A thousand plastic meatballs",
+        "text": "Shit cock! Fuck that guy",
         "character": "",
-        "audioUrl": "audio/itysl-s1/284_for_200_i_could_probably_get_a_thousand_plastic_meatballs.mp3"
+        "audioUrl": "audio/f-is-for-family/071_what_a_dick_shit_cock_ugh_fuck_that_guy_bullshit_hey_move_it.mp3"
       },
       {
-        "text": "A toilet the exact same size as yours",
+        "text": "How to rearrange a face",
         "character": "",
-        "audioUrl": "audio/itysl-s1/285_for_a_toilet_the_exact_same_size_as_yours.mp3"
+        "audioUrl": "audio/f-is-for-family/072_what_the_fuck_is_wrong_with_you_maybe_if_you_didn_t_cut_clas.mp3"
       },
       {
-        "text": "Michael Patrick Porkins",
+        "text": "I grew it myself",
         "character": "",
-        "audioUrl": "audio/itysl-s1/292_from_salisbury_north_carolina_michael_patrick_porkins.mp3"
+        "audioUrl": "audio/f-is-for-family/073_you_have_beautiful_hair_thank_you_i_grew_it_myself_oh_you_re.mp3"
       },
       {
-        "text": "Get her out! Goddamn it!",
+        "text": "Bath in your own blood",
         "character": "",
-        "audioUrl": "audio/itysl-s1/296_get_her_out_goddamn_it.mp3"
+        "audioUrl": "audio/f-is-for-family/074_1x01_the_bleedin_in_sweden_crickets_chirring_man_on_tv_and_n.mp3"
       },
       {
-        "text": "Get in that random hot dog car...",
+        "text": "I'm not killing anybody today",
         "character": "",
-        "audioUrl": "audio/itysl-s1/297_get_in_that_random_hot_dog_car.mp3"
+        "audioUrl": "audio/f-is-for-family/075_heya_rosie_frank_murphy_if_you_re_here_to_shoot_up_the_plac.mp3"
       },
       {
-        "text": "Get him out of here!",
+        "text": "Supposed to watch me",
         "character": "",
-        "audioUrl": "audio/itysl-s1/300_get_him_out_of_here.mp3"
+        "audioUrl": "audio/f-is-for-family/076_i_m_gonna_crash_stick_that_landing_oh_i_m_gonna_crash_maure.mp3"
       },
       {
-        "text": "That sounds like a good idea, yeah.",
+        "text": "It's vanilla extract",
         "character": "",
-        "audioUrl": "audio/itysl-s1/312_good_that_sounds_like_a_good_idea_yeah.mp3"
+        "audioUrl": "audio/f-is-for-family/077_mm_your_cologne_smells_sweet_it_s_vanilla_extract_bob_pogo.mp3"
       },
       {
-        "text": "Hung like a horse?",
+        "text": "My prisoner in the dungeon",
         "character": "",
-        "audioUrl": "audio/itysl-s1/315_ha_is_that_what_they_mean_by_hung_like_a_horse.mp3"
+        "audioUrl": "audio/f-is-for-family/078_where_the_hell_have_you_been_nowhere_what_dinner_s_ready_oh.mp3"
       },
       {
-        "text": "Victim of unfair treatment by a business?",
+        "text": "Don't know what you saw",
         "character": "",
-        "audioUrl": "audio/itysl-s1/320_have_you_been_the_victim_of_unfair_treatment_by_a_business_o.mp3"
+        "audioUrl": "audio/f-is-for-family/079_both_screaming_leave_leave_leave_kevin_i_don_t_know_what_yo.mp3"
       },
       {
-        "text": "He always had time for his kids.",
+        "text": "I will blow a horse",
         "character": "",
-        "audioUrl": "audio/itysl-s1/325_he_always_had_time_for_his_kids.mp3"
+        "audioUrl": "audio/f-is-for-family/080_chanting_murphy_murphy_murphy_murphy_man_on_tv_there_you_ha.mp3"
       },
       {
-        "text": "Pulled your little dick out in front of everyone",
+        "text": "The shit outta the ropes",
         "character": "",
-        "audioUrl": "audio/itysl-s1/327_he_basically_pulled_your_little_dick_out_in_front_of_everyon.mp3"
+        "audioUrl": "audio/f-is-for-family/081_clattering_jesus_jesus_sorry_lord_man_that_s_ok_no_biggie_w.mp3"
       },
       {
-        "text": "I am a star. Nobody tricked me.",
+        "text": "They'll try, Sweet Cakes",
         "character": "",
-        "audioUrl": "audio/itysl-s1/333_he_didn_t_trick_me_i_am_a_star_nobody_tricked_me.mp3"
+        "audioUrl": "audio/f-is-for-family/082_clicking_frank_oh_he_s_out_of_bullets_woman_on_tv_colt_they.mp3"
       },
       {
-        "text": "At least he didn't beat up Matt Simms",
+        "text": "Keep your head up",
         "character": "",
-        "audioUrl": "audio/itysl-s1/341_he_may_be_weird_but_at_least_he_didn_t_beat_up_matt_simms.mp3"
+        "audioUrl": "audio/f-is-for-family/083_grunts_remember_to_keep_your_head_up_you_redheaded_fag_that.mp3"
       },
       {
-        "text": "Mookie Kramer and the Eight Balls",
+        "text": "Eeny Meeny Meiny Dead",
         "character": "",
-        "audioUrl": "audio/itysl-s1/347_he_was_one_of_the_eight_balls_in_mookie_kramer_and_the_eight.mp3"
+        "audioUrl": "audio/f-is-for-family/084_man_colt_luger_starring_reid_harrison_with_edison_hurrell_j.mp3"
       },
       {
-        "text": "He was trying to hump your head.",
+        "text": "Sobbing: oh God",
         "character": "",
-        "audioUrl": "audio/itysl-s1/348_he_was_trying_to_hump_your_head.mp3"
-      },
-      {
-        "text": "The tobacco shop my mom buys cigars at",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/349_he_works_at_the_tobacco_shop_my_mom_buys_cigars_at.mp3"
-      },
-      {
-        "text": "I just got this new beat",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/372_hey_listen_i_just_got_this_new_beat.mp3"
-      },
-      {
-        "text": "I just heard an interview of this guy!",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/375_hey_i_just_heard_an_interview_of_this_guy.mp3"
-      },
-      {
-        "text": "How to search for it.",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/391_how_to_search_for_it.mp3"
-      },
-      {
-        "text": "I have not gone to the bathroom yet today",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/395_i_am_now_sanitizing_my_hands_i_have_not_gone_to_the_bathroom.mp3"
-      },
-      {
-        "text": "Finally fight my wife's new husband",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/400_i_can_finally_fight_my_wife_s_new_husband_danny_crouse.mp3"
-      },
-      {
-        "text": "You can't eat that.",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/411_i_could_save_your_life_right_now_don_t_eat_you_can_t_eat_tha.mp3"
-      },
-      {
-        "text": "Addicted to your phone",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/412_i_criticized_you_for_being_addicted_to_your_phone.mp3"
-      },
-      {
-        "text": "I don't know why I got the sticker, man!",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/418_i_don_t_know_why_i_got_the_fucking_sticker_man.mp3"
-      },
-      {
-        "text": "A different guy is dubbing over it",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/425_i_feel_like_it_makes_more_sense_that_a_different_guy_is_dubb.mp3"
-      },
-      {
-        "text": "I fucking hate her. Such an idiot.",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/426_i_fucking_hate_her_such_an_idiot.mp3"
-      },
-      {
-        "text": "I guess if nobody wants this car,",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/431_i_guess_if_nobody_wants_this_car.mp3"
-      },
-      {
-        "text": "A viral video where Bozo dubs over",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/432_i_guess_it_s_like_a_viral_video_where_bozo_dubs_over.mp3"
-      },
-      {
-        "text": "Hope nobody goes home and fucks my mom",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/443_i_hope_nobody_goes_home_and_fucks_my_mom.mp3"
-      },
-      {
-        "text": "Can't remember how you type it in",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/447_i_just_can_t_remember_exactly_how_you_type_it_in.mp3"
-      },
-      {
-        "text": "I know these names better than my grandmother's",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/454_i_know_these_names_better_than_i_know_my_own_grandmother_s.mp3"
-      },
-      {
-        "text": "I make ten times as much as you.",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/462_i_make_ten_times_as_much_as_you.mp3"
-      },
-      {
-        "text": "Fedoras for a baby shower, though?",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/464_i_mean_i_don_t_know_about_fedoras_for_a_baby_shower_though.mp3"
-      },
-      {
-        "text": "All my money on the Jim Davis house",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/474_i_saw_how_you_said_i_spent_all_my_money_on_the_jim_davis_hou.mp3"
-      },
-      {
-        "text": "I was gonna embarrass you, Barry.",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/483_i_told_you_i_told_you_i_was_gonna_embarrass_you_barry.mp3"
-      },
-      {
-        "text": "You said no PDA. Remember?",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/487_i_tried_to_give_you_those_little_kisses_and_you_said_no_pda.mp3"
-      },
-      {
-        "text": "It goes both ways",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/492_i_was_here_yesterday_and_it_actually_goes_both_ways.mp3"
-      },
-      {
-        "text": "Complain about the rule",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/495_i_went_up_there_to_complain_about_the_rule.mp3"
-      },
-      {
-        "text": "Call up Paul's daughter Olivia",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/499_i_would_like_to_now_call_up_paul_s_daughter_olivia.mp3"
-      },
-      {
-        "text": "Hope I didn't talk too much",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/500_i_i_feel_good_about_it_i_hope_i_didn_t_do_too_much_talking.mp3"
-      },
-      {
-        "text": "Any volunteer from the audience",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/503_i_d_like_to_pick_from_the_audience_any_volunteer.mp3"
-      },
-      {
-        "text": "I'm chill, huge fan",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/513_i_m_chill_i_m_just_like_such_a_huge_fan_of_his_music_and_his.mp3"
-      },
-      {
-        "text": "Take as many suits as I can grab",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/521_i_m_just_gonna_take_as_many_suits_as_i_can_grab.mp3"
-      },
-      {
-        "text": "Rushed to the hospital",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/527_i_m_rushed_to_the_hospital_and_there_for_hours.mp3"
-      },
-      {
-        "text": "Another ten, fifteen, hang tight?",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/531_i_m_sorry_guys_it_s_gonna_be_another_ten_fifteen_if_you_can.mp3"
-      },
-      {
-        "text": "Taffy Lee Fubbins, Best Baby",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/544_if_taffy_lee_fubbins_isn_t_the_best_baby_of_the_year.mp3"
-      },
-      {
-        "text": "If two people order nachos to share",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/546_if_two_people_order_nachos_to_share.mp3"
-      },
-      {
-        "text": "Keep asking, I'll beat the crap out of you",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/549_if_you_keep_asking_me_questions_i_m_gonna_beat_the_crap_out.mp3"
-      },
-      {
-        "text": "Talk about the hit and run, I'll kill you",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/550_if_you_keep_talking_about_the_hit_and_run_i_m_gonna_fucking.mp3"
-      },
-      {
-        "text": "If you love it as much as you say",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/551_if_you_love_it_as_much_as_you_say_you_do.mp3"
-      },
-      {
-        "text": "Something that's more you",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/552_if_you_want_to_exchange_it_for_something_that_s_more_you.mp3"
-      },
-      {
-        "text": "This year we were excited to welcome",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/555_in_fact_this_year_we_were_excited_to_welcome.mp3"
-      },
+        "audioUrl": "audio/f-is-for-family/085_wailing_muffled_sobs_whining_sobbing_oh_god.mp3"
+      }
+    ]
+  },
+  {
+    "id": "fight-club",
+    "name": "Fight Club",
+    "type": "movie",
+    "theme": {
+      "primary": "#c0392b",
+      "accent": "#7f8c8d",
+      "bg": "#08080a"
+    },
+    "text_style": "title",
+    "quotes": [
       {
-        "text": "In the locker room, in front of everyone",
+        "text": "Bob had bitch tits",
         "character": "",
-        "audioUrl": "audio/itysl-s1/559_in_the_locker_room_in_front_of_everyone.mp3"
+        "audioUrl": "audio/fight-club/001_bob_had_bitch_tits.mp3"
       },
       {
-        "text": "10th percentile in height",
+        "text": "Clever",
         "character": "",
-        "audioUrl": "audio/itysl-s1/561_in_weight_and_10th_percentile_in_height.mp3"
+        "audioUrl": "audio/fight-club/002_clever.mp3"
       },
       {
-        "text": "Instead of a real smile",
+        "text": "Did I call you?",
         "character": "",
-        "audioUrl": "audio/itysl-s1/562_instead_of_giving_someone_a_real_smile.mp3"
+        "audioUrl": "audio/fight-club/003_did_i_call_you.mp3"
       },
       {
-        "text": "A horse with a short peanut",
+        "text": "The ass or the crotch?",
         "character": "",
-        "audioUrl": "audio/itysl-s1/566_is_it_easy_to_find_a_horse_with_a_short_peanut_like_this.mp3"
+        "audioUrl": "audio/fight-club/004_do_i_give_you_the_ass_or_the_crotch.mp3"
       },
       {
-        "text": "Sunday funday with these idiots",
+        "text": "His name is Robert Paulson",
         "character": "",
-        "audioUrl": "audio/itysl-s1/574_is_this_good_i_said_sunday_funday_with_these_idiots.mp3"
+        "audioUrl": "audio/fight-club/005_his_name_is_robert_paulson.mp3"
       },
       {
-        "text": "Could be any one of us. Ooh ooh!",
+        "text": "I am Jack's smirking revenge",
         "character": "",
-        "audioUrl": "audio/itysl-s1/578_it_could_literally_be_any_one_of_us_ooh_ooh.mp3"
+        "audioUrl": "audio/fight-club/006_i_am_jack_s_smirking_revenge.mp3"
       },
       {
-        "text": "One view, uploaded at 6 a.m.",
+        "text": "Cheaper than a movie",
         "character": "",
-        "audioUrl": "audio/itysl-s1/580_it_has_one_view_and_it_says_it_was_uploaded_at_6_00_a_m_this.mp3"
+        "audioUrl": "audio/fight-club/007_it_s_cheaper_than_a_movie_and_there_s_free_coffee.mp3"
       },
       {
-        "text": "You said you don't like any PDA",
+        "text": "Free to do anything",
         "character": "",
-        "audioUrl": "audio/itysl-s1/588_it_was_the_same_dinner_that_you_said_you_don_t_like_any_pda.mp3"
+        "audioUrl": "audio/fight-club/008_its_only_after_we_ve_lost_everything_that_we_re_free_to_do_a.mp3"
       },
       {
-        "text": "He was just faking it",
+        "text": "Slide",
         "character": "",
-        "audioUrl": "audio/itysl-s1/589_it_wasn_t_stuck_at_all_he_was_just_faking_it.mp3"
+        "audioUrl": "audio/fight-club/009_slide.mp3"
       },
       {
-        "text": "Riding with a loved one",
+        "text": "Surprise me",
         "character": "",
-        "audioUrl": "audio/itysl-s1/592_it_s_a_beautiful_fall_day_and_you_re_riding_with_a_loved_one.mp3"
+        "audioUrl": "audio/fight-club/011_surprise_me.mp3"
       },
       {
-        "text": "It's a Chunky!",
+        "text": "Stupidest thing I've ever heard",
         "character": "",
-        "audioUrl": "audio/itysl-s1/593_it_s_a_chunky.mp3"
+        "audioUrl": "audio/fight-club/012_that_s_the_stupidest_thing_i_ve_ever_heard.mp3"
       },
       {
-        "text": "Wilson's sends 500 little wigs",
+        "text": "The first rule of Fight Club",
         "character": "",
-        "audioUrl": "audio/itysl-s1/600_it_s_easy_when_you_sign_up_wilson_s_will_send_500_little_wig.mp3"
+        "audioUrl": "audio/fight-club/013_the_first_two_rules_of_fight_club.mp3"
       },
       {
-        "text": "Marcus 'The Worm' Hicks",
+        "text": "Urine is sterile",
         "character": "",
-        "audioUrl": "audio/itysl-s1/608_it_s_jazz_legend_marcus_the_worm_hicks.mp3"
+        "audioUrl": "audio/fight-club/014_urine_is_sterile.mp3"
       },
       {
-        "text": "Not exactly in my Q zone",
+        "text": "Welcome to Fight Club",
         "character": "",
-        "audioUrl": "audio/itysl-s1/614_it_s_not_exactly_in_my_q_zone_is_it.mp3"
+        "audioUrl": "audio/fight-club/015_welcome_to_fight_club.mp3"
       },
       {
-        "text": "It's a rule the restaurant has",
+        "text": "You're never really asleep",
         "character": "",
-        "audioUrl": "audio/itysl-s1/617_it_s_not_you_it_s_a_rule_the_restaurant_has.mp3"
+        "audioUrl": "audio/fight-club/016_when_you_have_insomnia_you_re_never_really_asleep_and_you_re.mp3"
       },
       {
-        "text": "He hasn't touched my gift receipt",
+        "text": "Why? I dunno why",
         "character": "",
-        "audioUrl": "audio/itysl-s1/631_jacob_hasn_t_touched_my_gift_receipt_because_he_likes_my_gif.mp3"
+        "audioUrl": "audio/fight-club/017_why_i_dunno_why.mp3"
       },
       {
-        "text": "You don't remember that night",
+        "text": "Hurt the ones you love",
         "character": "",
-        "audioUrl": "audio/itysl-s1/634_jeez_you_don_t_remember_that_night.mp3"
+        "audioUrl": "audio/fight-club/018_you_know_how_they_say_you_only_hurt_the_ones_you_love_well_i.mp3"
       },
       {
-        "text": "Jerk your little boy dick off",
+        "text": "Punches self",
         "character": "",
-        "audioUrl": "audio/itysl-s1/635_jerk_your_little_boy_dick_off.mp3"
-      },
-      {
-        "text": "Take your car and get out of here",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/648_just_take_your_car_and_get_out_of_here.mp3"
-      },
-      {
-        "text": "Like I was a representative",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/667_like_i_was_some_sort_of_representative_or_something.mp3"
-      },
-      {
-        "text": "Like mostly just chips",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/668_like_mostly_just_chips.mp3"
-      },
-      {
-        "text": "Like, no records of 'em",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/673_like_there_s_like_no_records_of_em.mp3"
-      },
-      {
-        "text": "Not supposed to be around here",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/674_like_they_re_not_even_supposed_to_be_around_in_the_area.mp3"
-      },
-      {
-        "text": "Gazpacho soup in your fridge",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/675_listen_i_saw_you_had_some_gazpacho_soup_in_your_fridge.mp3"
-      },
-      {
-        "text": "Meatball down my leg",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/702_meatball_down_my_leg_make_it_look_like_my_ball_sack_ripped_o.mp3"
-      },
-      {
-        "text": "Over time, it will grow mold",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/704_melted_or_cold_from_the_cow_s_udders_over_time_it_will_grow.mp3"
-      },
-      {
-        "text": "Motorcycle with no motor?",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/707_motorcycle_with_no_motor.mp3"
-      },
-      {
-        "text": "Most aggressive baby I've ever met",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/709_mr_jarvis_is_one_of_the_most_aggressive_babies_i_ve_ever_met.mp3"
-      },
-      {
-        "text": "One mean bastard to give this so early",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/710_must_be_one_mean_bastard_to_give_us_this_so_early.mp3"
-      },
-      {
-        "text": "It's a studded leather belt",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/711_my_belt_right_now_it_s_a_studded_leather_belt.mp3"
-      },
-      {
-        "text": "Crap from your mob movie",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/717_my_friends_aren_t_gonna_buy_the_crap_from_your_mob_movie.mp3"
-      },
-      {
-        "text": "No matter how busy he was",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/723_no_matter_how_busy_he_was.mp3"
-      },
-      {
-        "text": "Scamming adults into thinking they're stars",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/724_no_more_scamming_adults_into_thinking_they_re_stars.mp3"
-      },
-      {
-        "text": "No space for mother in law",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/727_no_space_for_mother_in_law.mp3"
-      },
-      {
-        "text": "He was a funny magician",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/728_no_he_was_just_joking_around_he_was_a_funny_magician.mp3"
-      },
-      {
-        "text": "Saying what he wanted to say",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/729_no_he_s_saying_what_he_wanted_to_say_on_the_show_now.mp3"
-      },
-      {
-        "text": "I eat paper all the time!",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/730_no_i_eat_paper_all_the_time.mp3"
-      },
-      {
-        "text": "Nothing rare in there",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/733_no_it_just_means_you_don_t_have_anything_rare_in_there.mp3"
-      },
-      {
-        "text": "Just say the restaurant has a rule",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/735_no_just_say_the_restaurant_has_a_rule.mp3"
-      },
-      {
-        "text": "This is Caleb fucking Went",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/740_no_what_the_fuck_are_you_doing_this_is_caleb_fucking_went_ju.mp3"
-      },
-      {
-        "text": "The style is just basically this",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/741_no_yeah_the_style_is_just_is_just_basically_this.mp3"
-      },
-      {
-        "text": "Nobody should feel sad at all",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/749_nobody_should_feel_sad_at_all.mp3"
-      },
-      {
-        "text": "Nobody wants a thousand plastic meatballs!",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/750_nobody_wants_a_thousand_plastic_meatballs.mp3"
-      },
-      {
-        "text": "My stomach's absolutely fucked",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/756_now_my_stomach_s_absolutely_fucked.mp3"
-      },
-      {
-        "text": "Clown mask lady falls off the couch",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/764_of_the_dancing_lady_in_the_clown_mask_who_falls_off_the_couc.mp3"
-      },
-      {
-        "text": "Thought this guy was bald!",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/769_oh_fuck_i_thought_this_guy_s_supposed_to_be_bald.mp3"
-      },
-      {
-        "text": "Little individual bottles of champagne",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/778_oh_maybe_we_could_give_everybody_little_individual_bottles_o.mp3"
-      },
-      {
-        "text": "It was just a magic act, Brenda",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/780_oh_my_god_it_was_just_a_magic_act_brenda.mp3"
-      },
-      {
-        "text": "Oh my, this is perfect",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/792_oh_my_this_is_perfect.mp3"
-      },
-      {
-        "text": "Our organist Peg is under the weather",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/799_oh_our_organist_peg_is_under_the_weather.mp3"
-      },
-      {
-        "text": "Oh, shit! Shit!",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/800_oh_shit_shit.mp3"
-      },
-      {
-        "text": "Household names like Roy Donk",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/808_oh_you_mean_like_household_names_like_roy_donk.mp3"
-      },
-      {
-        "text": "She was a pretty woman",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/828_okay_she_was_a_pretty_woman.mp3"
-      },
-      {
-        "text": "I've got Lev in my car, follow us",
-        "character": "",
-        "audioUrl": "audio/itysl-s1/838_okay_you_guys_i_ve_got_lev_in_my_car_so_just_follow_us.mp3"
-      },
+        "audioUrl": "audio/fight-club/019_punches_self.mp3"
+      }
+    ]
+  },
+  {
+    "id": "barbie",
+    "name": "Barbie",
+    "type": "movie",
+    "theme": {
+      "primary": "#e0218a",
+      "accent": "#f7d6e6",
+      "bg": "#0d060a"
+    },
+    "text_style": "title",
+    "quotes": [
       {
-        "text": "Welcome him on stage, come on up",
+        "text": "Just email it, EOD",
         "character": "",
-        "audioUrl": "audio/itysl-s1/850_okay_let_s_welcome_him_on_stage_come_on_up.mp3"
+        "audioUrl": "audio/barbie/001_aaron_dinkins_i_think_you_re_gonna_want_to_hear_this_sir_mat.mp3"
       },
       {
-        "text": "Okay, that's fine, uh...",
+        "text": "You healed",
         "character": "",
-        "audioUrl": "audio/itysl-s1/851_okay_okay_that_s_fine_uh.mp3"
+        "audioUrl": "audio/barbie/002_actually_in_the_time_that_it_took_for_me_to_say_that_sentenc.mp3"
       },
       {
-        "text": "Can't take all the ones with meat",
+        "text": "Depression Barbie",
         "character": "",
-        "audioUrl": "audio/itysl-s1/857_one_person_can_t_take_the_ones_with_meat_and_stuff.mp3"
+        "audioUrl": "audio/barbie/003_advertising_voice_okay_kids_it_s_time_to_run_out_and_get_the.mp3"
       },
       {
-        "text": "Pub crawls in 'em like the Snuggie",
+        "text": "These women are Barbie",
         "character": "",
-        "audioUrl": "audio/itysl-s1/861_or_do_pub_crawls_in_em_like_the_snuggie.mp3"
+        "audioUrl": "audio/barbie/004_all_of_these_women_are_barbie_and_barbie_is_all_of_these_wom.mp3"
       },
       {
-        "text": "Wrote The Munsters' theme song",
+        "text": "Let's beach off",
         "character": "",
-        "audioUrl": "audio/itysl-s1/862_or_jack_marshall_who_wrote_the_munsters_theme_song.mp3"
+        "audioUrl": "audio/barbie/005_all_right_ken_you_re_on_let_s_beach_off.mp3"
       },
       {
-        "text": "Spanking my bare butt, balls and back",
+        "text": "It expands my powers",
         "character": "",
-        "audioUrl": "audio/itysl-s1/866_or_would_you_be_spanking_my_bare_butt_balls_and_back.mp3"
+        "audioUrl": "audio/barbie/006_and_it_does_not_diminish_my_powers_it_expands_them.mp3"
       },
       {
-        "text": "Why would it be allowed in here",
+        "text": "It's not lifeguard",
         "character": "",
-        "audioUrl": "audio/itysl-s1/867_otherwise_why_would_it_be_allowed_in_here.mp3"
+        "audioUrl": "audio/barbie/007_and_it_is_not_lifeguard_which_is_a_common_misconception.mp3"
       },
       {
-        "text": "Our first five inch horse penis",
+        "text": "And so is yesterday",
         "character": "",
-        "audioUrl": "audio/itysl-s1/869_our_first_five_inch_horse_penis.mp3"
+        "audioUrl": "audio/barbie/008_and_so_is_yesterday_and_so_is_tomorrow_and_so_is_the_day_aft.mp3"
       },
       {
-        "text": "Ow! What is this?",
+        "text": "Nobel Prize for Literature",
         "character": "",
-        "audioUrl": "audio/itysl-s1/871_ow_what_is_this.mp3"
+        "audioUrl": "audio/barbie/009_and_the_nobel_prize_for_literature_goes_to_barbie.mp3"
       },
       {
-        "text": "Panty jobs, homegrown Simpsons stuff",
+        "text": "Beach me off first",
         "character": "",
-        "audioUrl": "audio/itysl-s1/872_panty_jobs_homegrown_simpsons_stuff.mp3"
+        "audioUrl": "audio/barbie/010_anyone_who_wants_to_beach_him_off_has_to_beach_me_off_first.mp3"
       },
       {
-        "text": "Oral on the mystery judge",
+        "text": "If Barbie looks at him",
         "character": "",
-        "audioUrl": "audio/itysl-s1/878_performing_oral_on_the_mystery_judge_of_the_competition.mp3"
+        "audioUrl": "audio/barbie/011_barbie_has_a_great_day_every_day_but_ken_only_has_a_great_da.mp3"
       },
       {
-        "text": "Permission to go home and watch TV",
+        "text": "You don't need my permission",
         "character": "",
-        "audioUrl": "audio/itysl-s1/879_permission_to_go_home_lie_down_and_watch_some_tv.mp3"
+        "audioUrl": "audio/barbie/012_barbie_do_you_give_me_permission_to_become_human_ruth_you_do.mp3"
       },
       {
-        "text": "Planning on relaxing? [chuckling]",
+        "text": "Stereotypical Barbie's bad day",
         "character": "",
-        "audioUrl": "audio/itysl-s1/880_planning_on_relaxing_chuckling.mp3"
+        "audioUrl": "audio/barbie/013_barbie_i_know_i_m_stereotypical_barbie_and_therefore_don_t_f.mp3"
       },
       {
-        "text": "It's already a party house",
+        "text": "I've never wanted change",
         "character": "",
-        "audioUrl": "audio/itysl-s1/881_plus_it_s_already_like_a_party_house_so_he_ll_want_to_go_the.mp3"
+        "audioUrl": "audio/barbie/014_barbie_i_ve_never_wanted_anything_to_change_gloria_oh_honey.mp3"
       },
       {
-        "text": "Pornhub, Xtube...",
+        "text": "It's okay if you're crying",
         "character": "",
-        "audioUrl": "audio/itysl-s1/882_pornhub_xtube.mp3"
+        "audioUrl": "audio/barbie/015_barbie_it_s_okay_if_you_re_crying_you_know_i_cried_too_it_s.mp3"
       },
       {
-        "text": "Reggie, did you make this last night?",
+        "text": "Roll with it, tiny baby",
         "character": "",
-        "audioUrl": "audio/itysl-s1/889_reggie_did_you_make_this_thing_last_night_so_you_d_have_a_vi.mp3"
+        "audioUrl": "audio/barbie/016_barbie_ken_what_have_you_done_what_are_you_wearing_ken_don_t.mp3"
       },
       {
-        "text": "Santa himself brought this early",
+        "text": "Ken's Mojo Dojo Casa House",
         "character": "",
-        "audioUrl": "audio/itysl-s1/894_santa_himself_brought_this_here_early.mp3"
+        "audioUrl": "audio/barbie/017_barbie_no_ken_this_is_my_dreamhouse_it_is_my_dreamhouse_it_s.mp3"
       },
       {
-        "text": "Santa should have wrapped it",
+        "text": "That's cellulite",
         "character": "",
-        "audioUrl": "audio/itysl-s1/895_santa_should_have_wrapped_it_when_he_gave_it_early.mp3"
+        "audioUrl": "audio/barbie/018_barbie_oh_you_ve_done_it_you_ve_opened_a_portal_barbie_i_did.mp3"
       },
       {
-        "text": "Shit! Shit! No! No!",
+        "text": "You're not even beach",
         "character": "",
-        "audioUrl": "audio/itysl-s1/907_shit_shit_no_no.mp3"
+        "audioUrl": "audio/barbie/019_barbie_okay_ken_you_have_to_figure_out_who_you_are_without_m.mp3"
       },
       {
-        "text": "It's a new arrangement",
+        "text": "Nice looking little protein pot",
         "character": "",
-        "audioUrl": "audio/itysl-s1/913_sir_it_s_not_a_gospel_song_it_s_a_new_arrangement.mp3"
+        "audioUrl": "audio/barbie/020_barbie_that_ken_of_yours_he_is_one_nice_looking_little_prote.mp3"
       },
       {
-        "text": "Skeletrex and his Bone Brigade",
+        "text": "Literally and figuratively, watch me",
         "character": "",
-        "audioUrl": "audio/itysl-s1/919_skeletrex_and_his_bone_brigade_have_enslaved_the_human_race.mp3"
+        "audioUrl": "audio/barbie/021_barbie_wow_and_now_you_re_making_it_permanent_with_a_special.mp3"
       },
       {
-        "text": "Pig dicks or bags of meat?",
+        "text": "We take back Barbie Land",
         "character": "",
-        "audioUrl": "audio/itysl-s1/920_so_are_we_the_pig_dicks_or_the_bags_of_meat.mp3"
+        "audioUrl": "audio/barbie/022_barbie_you_play_on_their_egos_and_their_petty_jealousies_and.mp3"
       },
       {
-        "text": "Babysitter did art with the kids",
+        "text": "Barbie can be anything",
         "character": "",
-        "audioUrl": "audio/itysl-s1/931_so_the_babysitter_did_art_with_the_kids_that_s_cool.mp3"
+        "audioUrl": "audio/barbie/023_because_barbie_can_be_anything_women_can_be_anything.mp3"
       },
       {
-        "text": "A replacement organist for the day",
+        "text": "Beach both of us off",
         "character": "",
-        "audioUrl": "audio/itysl-s1/933_so_we_have_a_replacement_organist_for_the_day.mp3"
+        "audioUrl": "audio/barbie/024_but_you_don_t_even_know_how_to_beach_yourself_off_how_you_go.mp3"
       },
       {
-        "text": "Hot dog car through the window!",
+        "text": "Nobody's gonna beach anyone off",
         "character": "",
-        "audioUrl": "audio/itysl-s1/950_someone_drove_a_hot_dog_shaped_car_through_the_window.mp3"
+        "audioUrl": "audio/barbie/025_come_on_kens_nobody_s_gonna_beach_anyone_off.mp3"
       },
       {
-        "text": "Sorry I'm late, very rude of me",
+        "text": "Compliment your fellow Barbie",
         "character": "",
-        "audioUrl": "audio/itysl-s1/953_sorry_i_m_late_everyone_it_s_very_rude_of_me_i_apologize.mp3"
+        "audioUrl": "audio/barbie/026_everybody_turn_to_the_barbie_next_to_you_tell_her_how_much_y.mp3"
       },
       {
-        "text": "Steve makes one Christmas joke",
+        "text": "Girls can grow into women",
         "character": "",
-        "audioUrl": "audio/itysl-s1/963_steve_makes_one_christmas_joke.mp3"
+        "audioUrl": "audio/barbie/027_girls_can_grow_into_women_who_can_achieve_everything_and_any.mp3"
       },
       {
-        "text": "Huge mud pies and over flushing?",
+        "text": "You've never seen The Godfather",
         "character": "",
-        "audioUrl": "audio/itysl-s1/973_taking_huge_mud_pies_and_over_flushing.mp3"
+        "audioUrl": "audio/barbie/028_gloria_you_can_tell_him_that_you_ve_never_seen_the_godfather.mp3"
       },
       {
-        "text": "More bone soldiers",
+        "text": "Make them believe you're complacent",
         "character": "",
-        "audioUrl": "audio/itysl-s1/974_taking_their_bones_and_using_them_to_make_more_bone_soldiers.mp3"
+        "audioUrl": "audio/barbie/029_gloria_you_have_to_make_them_believe_that_you_re_complacent.mp3"
       },
       {
-        "text": "Made you look like a fool, Charlie",
+        "text": "Hi Barbie, oh hi Allan",
         "character": "",
-        "audioUrl": "audio/itysl-s1/992_that_fat_piece_of_shit_made_you_look_like_a_fool_charlie.mp3"
+        "audioUrl": "audio/barbie/030_hi_barbie_hi_barbie_hi_barbies_bye_barbies_bye_barbie_hi_bar.mp3"
       },
       {
-        "text": "I bought the creator of Garfield's house",
+        "text": "I'm just dying to dance",
         "character": "",
-        "audioUrl": "audio/itysl-s1/995_that_i_bought_jim_davis_house_the_creator_of_garfield.mp3"
+        "audioUrl": "audio/barbie/031_i_don_t_know_why_i_just_said_that_i_m_just_dying_to_dance.mp3"
       },
       {
-        "text": "That I miss my family photo tonight?",
+        "text": "Both logic and feeling",
         "character": "",
-        "audioUrl": "audio/itysl-s1/998_that_i_miss_my_family_photo_tonight.mp3"
+        "audioUrl": "audio/barbie/032_i_have_no_difficulty_holding_both_logic_and_feeling_at_the_s.mp3"
       },
       {
-        "text": "A termite infestation in the moldings",
+        "text": "Because we're girlfriend boyfriend",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1010_that_there_was_a_termite_infestation_in_the_walls_and_in_the.mp3"
+        "audioUrl": "audio/barbie/033_i_thought_i_might_stay_over_tonight_why_because_we_re_girlfr.mp3"
       },
       {
-        "text": "Christine is gonna love that",
+        "text": "Beach you both at once",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1025_that_s_perfect_christine_is_gonna_love_that.mp3"
+        "audioUrl": "audio/barbie/034_i_will_beach_both_of_you_off_at_the_same_time.mp3"
       },
       {
-        "text": "Cops were like, oh yeah, this is fine",
+        "text": "If I wasn't severely injured",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1035_the_cops_were_just_like_oh_yeah_this_is_fine.mp3"
+        "audioUrl": "audio/barbie/036_if_i_wasn_t_severely_injured_i_would_beach_you_off_right_now.mp3"
       },
       {
-        "text": "The deceased taught us a lot about life",
+        "text": "Money is not speech",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1037_the_deceased_taught_us_all_a_lot_about_life.mp3"
+        "audioUrl": "audio/barbie/037_in_our_assessment_money_is_not_speech_and_corporations_have.mp3"
       },
       {
-        "text": "Voice of the Road Runner. Beep beep",
+        "text": "Corporations have no free speech",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1044_the_guy_who_did_the_voice_of_the_road_runner_beep_beep.mp3"
+        "audioUrl": "audio/barbie/038_in_our_assessment_money_is_not_speech_and_corporations_have.mp3"
       },
       {
-        "text": "The mouth on the thing doesn't move!",
+        "text": "Choreography and a bespoke song",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1049_the_mouth_on_the_thing_doesn_t_move.mp3"
+        "audioUrl": "audio/barbie/039_just_a_giant_blowout_party_with_all_the_barbies_and_planned.mp3"
       },
       {
-        "text": "Kept me out of college",
+        "text": "I'm just Ken",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1050_the_next_trick_is_something_that_kept_me_out_of_college_for.mp3"
+        "audioUrl": "audio/barbie/040_ken_singing_i_m_just_ken_anywhere_else_i_d_be_a_ten_is_it_my.mp3"
       },
       {
-        "text": "KFC sign through their front window",
+        "text": "Nobel Prize for horses",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1052_the_one_where_you_can_see_the_kfc_sign_through_their_front_w.mp3"
+        "audioUrl": "audio/barbie/041_ken_and_the_nobel_prize_for_horses_goes_to_ken.mp3"
       },
       {
-        "text": "Society of Arts and Music",
+        "text": "Not the Palazzos!",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1057_the_president_of_the_marjorie_caldwell_society_of_arts_and_m.mp3"
+        "audioUrl": "audio/barbie/042_ken_barbie_take_your_lady_fashions_with_you_take_your_celebr.mp3"
       },
       {
-        "text": "Third phase, we hit up Instagram",
+        "text": "Can I come over tonight?",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1062_the_third_phase_we_hit_up_instagram_and.mp3"
+        "audioUrl": "audio/barbie/043_ken_can_i_come_to_your_house_tonight_barbie_sure_i_don_t_hav.mp3"
       },
       {
-        "text": "Two hours, in and out of there",
+        "text": "Every night is girls' night",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1069_then_for_over_two_hours_they_take_turns_going_in_and_out_of.mp3"
+        "audioUrl": "audio/barbie/044_ken_every_night_is_girls_night.mp3"
       },
       {
-        "text": "If I take the receipt back",
+        "text": "Hi Barbie, hi Ken",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1072_then_it_shouldn_t_be_a_problem_if_i_take_the_receipt_back.mp3"
+        "audioUrl": "audio/barbie/045_ken_hi_barbie_barbie_hi_ken_barbie_hi_barbie_barbie_hi_barbi.mp3"
       },
       {
-        "text": "Not important, they don't matter",
+        "text": "I'm a liberated man",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1103_they_re_just_like_not_important_like_they_don_t_matter.mp3"
+        "audioUrl": "audio/barbie/046_ken_i_m_a_liberated_man_i_know_crying_is_not_weak.mp3"
       },
       {
-        "text": "This guy's about to jack off",
+        "text": "Here, I'm just a dude",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1112_this_guy_s_about_to_jack_off.mp3"
+        "audioUrl": "audio/barbie/047_ken_out_there_i_was_somebody_and_when_i_walked_down_the_stre.mp3"
       },
       {
-        "text": "A betrayal no one's ever seen!",
+        "text": "Talk singing of Lou Reed",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1113_this_is_a_betrayal_on_levels_that_no_one_s_ever_seen.mp3"
+        "audioUrl": "audio/barbie/048_ken_stephen_malkamus_really_harnessed_the_acerbic_talk_singi.mp3"
       },
       {
-        "text": "It's somber, all right to cry",
+        "text": "No, we go to war",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1121_this_one_is_somber_so_it_s_all_right_to_cry.mp3"
+        "audioUrl": "audio/barbie/049_ken_what_do_we_do_ken_we_beach_every_individual_one_of_them.mp3"
       },
       {
-        "text": "Covered head to toe in shit",
+        "text": "Too much beach for you",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1123_this_place_is_covered_head_to_toe_in_shit.mp3"
+        "audioUrl": "audio/barbie/050_looks_like_this_beach_was_a_little_too_much_beach_for_you_ke.mp3"
       },
       {
-        "text": "To ask if we could switch tables",
+        "text": "Let's just tickle each other",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1132_to_ask_if_we_could_switch_tables.mp3"
+        "audioUrl": "audio/barbie/051_mattel_ceo_let_s_have_a_company_retreat_and_just_tickle_each.mp3"
       },
       {
-        "text": "My revenge on you, little baby",
+        "text": "They've gone to Barbie Land",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1136_to_getting_my_revenge_on_you_little_baby.mp3"
+        "audioUrl": "audio/barbie/052_mattel_ceo_they_ve_gone_to_barbie_land_aaron_dinkins_oh_no_m.mp3"
       },
       {
-        "text": "Tons that just blow me away",
+        "text": "Get in the box, Jezebel",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1144_tons_i_can_think_of_that_just_blow_me_away.mp3"
+        "audioUrl": "audio/barbie/053_mattel_ceo_what_i_m_trying_to_say_is_get_in_the_box_you_jeze.mp3"
       },
       {
-        "text": "Tragically, he passed this year",
+        "text": "Midge, the pregnant doll",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1147_tragically_he_passed_early_this_year.mp3"
+        "audioUrl": "audio/barbie/055_narrator_midge_was_barbie_s_pregnant_friend_let_s_not_show_m.mp3"
       },
       {
-        "text": "Type in Bozo Dubbed Over",
+        "text": "Kens have to start somewhere",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1152_type_in_bozo_dubbed_over.mp3"
+        "audioUrl": "audio/barbie/056_narrator_well_the_kens_have_to_start_somewhere_and_one_day_t.mp3"
       },
       {
-        "text": "Can't eat all the fully loaded nachos",
+        "text": "Barbie changed everything",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1158_uh_one_person_can_t_just_eat_all_the_fully_loaded_nachos.mp3"
+        "audioUrl": "audio/barbie/057_narrator_yes_barbie_changed_everything_then_she_changed_it_a.mp3"
       },
       {
-        "text": "I don't have any qualms",
+        "text": "Just a boring mom",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1164_uh_i_don_t_have_any_qualms.mp3"
+        "audioUrl": "audio/barbie/059_sasha_are_you_shining_with_a_real_barbie_gloria_no_i_mean_ma.mp3"
       },
       {
-        "text": "Newscaster on the roller coaster",
+        "text": "Kens can't resist a damsel",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1187_we_have_to_watch_the_guy_with_the_newscaster_on_the_roller_c.mp3"
+        "audioUrl": "audio/barbie/060_sasha_distract_them_by_appearing_helpless_and_confused_kens.mp3"
       },
       {
-        "text": "Get this thing really popping off!",
+        "text": "I don't have an ending",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1191_we_just_need_a_couple_more_dollars_to_get_this_thing_really.mp3"
+        "audioUrl": "audio/barbie/061_sasha_hey_what_about_barbie_mattel_ceo_what_do_you_mean_sash.mp3"
       },
       {
-        "text": "Gospel records ain't selling no more",
+        "text": "The old standby: wearing glasses",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1213_we_re_sorry_gospel_records_ain_t_selling_no_more.mp3"
+        "audioUrl": "audio/barbie/062_sasha_or_distract_them_with_the_old_standby_wearing_glasses.mp3"
       },
       {
-        "text": "Guest on The Colgate Comedy Hour",
+        "text": "Exactly what I thought",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1217_well_he_was_a_frequent_guest_on_the_colgate_comedy_hour.mp3"
+        "audioUrl": "audio/barbie/063_sasha_you_know_i_almost_feel_bad_for_you_but_you_are_exactly.mp3"
       },
       {
-        "text": "Mark nearly hit his head on the counter",
+        "text": "Shredding waves is dangerous",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1221_well_last_night_mark_fell_down_and_nearly_hit_his_head_on_th.mp3"
+        "audioUrl": "audio/barbie/064_shredding_waves_is_much_more_dangerous_than_people_realize.mp3"
       },
       {
-        "text": "Not if you go through someone's trash",
+        "text": "Since the beginning of time",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1222_well_not_if_you_go_through_someone_s_trash.mp3"
+        "audioUrl": "audio/barbie/065_since_the_beginning_of_time_since_the_first_little_girl_ever.mp3"
       },
       {
-        "text": "What game show had swearing in it?",
+        "text": "Always and forever baby dolls",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1250_what_game_show_have_you_ever_seen_that_had_swearing_in_it.mp3"
+        "audioUrl": "audio/barbie/066_since_the_beginning_of_time_since_the_first_little_girl_ever.mp3"
       },
       {
-        "text": "What I don't make a habit of doing",
+        "text": "Democracy into a plutocracy",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1255_what_i_don_t_like_to_make_a_habit_of_doing.mp3"
+        "audioUrl": "audio/barbie/067_so_any_claim_on_their_part_to_be_exercising_a_right_is_just.mp3"
       },
       {
-        "text": "What society, that we tape everything?",
+        "text": "Best day ever",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1262_what_is_this_society_that_we_tape_everything.mp3"
+        "audioUrl": "audio/barbie/068_so_do_i_this_is_the_best_day_ever_it_is_the_best_day_ever_an.mp3"
       },
       {
-        "text": "What the fuck?",
+        "text": "All problems of feminism solved",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1267_what_the_fuck.mp3"
+        "audioUrl": "audio/barbie/069_thanks_to_barbie_all_problems_of_feminism_and_equal_rights_h.mp3"
       },
       {
-        "text": "Chunky, you can't wreck his shirt",
+        "text": "This night is just perfect",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1270_what_the_hell_are_you_doing_chunky_you_can_t_wreck_his_shirt.mp3"
+        "audioUrl": "audio/barbie/070_thanks_barbie_gosh_this_night_is_just_perfect.mp3"
       },
       {
-        "text": "What the hell are you talking about?",
+        "text": "Nobel Prize for Journalism",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1272_what_the_hell_are_you_talking_about.mp3"
+        "audioUrl": "audio/barbie/071_the_nobel_prize_for_journalism_goes_to_barbie.mp3"
       },
       {
-        "text": "I had a whole song wrote",
+        "text": "No multiples of Allan",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1275_what_the_hell_was_that_man_i_had_a_whole_song_wrote.mp3"
+        "audioUrl": "audio/barbie/072_there_are_no_multiples_of_allan_he_s_just_allan_yeah_i_m_i_c.mp3"
       },
       {
-        "text": "Make sure nobody hit my car",
+        "text": "This makes me emotional",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1276_what_the_i_got_to_check_this_out_to_make_sure_that_nobody_hi.mp3"
+        "audioUrl": "audio/barbie/073_this_makes_me_emotional_and_i_m_expressing_it_i_have_no_diff.mp3"
       },
       {
-        "text": "Never heard anything like that before",
+        "text": "My job, it's just beach",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1287_what_i_ve_never_heard_anything_like_that_before.mp3"
+        "audioUrl": "audio/barbie/074_very_common_because_actually_my_job_it_s_just_beach_right_an.mp3"
       },
       {
-        "text": "Made to feel less of a man",
+        "text": "You use your imagination",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1296_when_all_of_a_sudden_you_re_made_to_feel_less_of_a_man.mp3"
+        "audioUrl": "audio/barbie/075_when_you_re_playing_with_barbies_hi_barbie_nobody_bothers_to.mp3"
       },
       {
-        "text": "In London, I was a shell of a man",
+        "text": "Ever think about dying?",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1297_when_i_arrived_in_london_i_was_a_shell_of_a_man.mp3"
+        "audioUrl": "audio/barbie/076_you_guys_ever_think_about_dying.mp3"
       },
       {
-        "text": "Everyone watched an adult man",
+        "text": "You should heal up",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1306_while_everyone_else_had_to_watch_an_adult_man.mp3"
+        "audioUrl": "audio/barbie/077_you_should_heal_up_in_no_time_actually_in_the_time_that_it_t.mp3"
       },
       {
-        "text": "Let's enjoy a beautiful song",
+        "text": "Every night, forever",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1319_why_don_t_we_listen_to_and_enjoy_a_beautiful_song.mp3"
-      },
+        "audioUrl": "audio/barbie/078_every_night_is_girls_night_mm_hmm_every_night_forever.mp3"
+      }
+    ]
+  },
+  {
+    "id": "elf",
+    "name": "Elf",
+    "type": "movie",
+    "theme": {
+      "primary": "#2e8b57",
+      "accent": "#e8c547",
+      "bg": "#070a08"
+    },
+    "text_style": "title",
+    "quotes": [
       {
-        "text": "Now you can be the life of the party",
+        "text": "Baby it's cold outside",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1324_wilson_s_now_you_can_be_the_life_of_the_party.mp3"
+        "audioUrl": "audio/elf/001_babyitscold.mp3"
       },
       {
-        "text": "Minimally invasive spine surgery",
+        "text": "Baby it's cold outside (2)",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1327_with_our_minimally_invasive_spine_surgery.mp3"
+        "audioUrl": "audio/elf/002_babyitscold2.mp3"
       },
       {
-        "text": "Fake Gorilla Attack hair removal",
+        "text": "Belch",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1330_with_wilson_s_natural_fake_gorilla_attack_hair_removal_syste.mp3"
+        "audioUrl": "audio/elf/003_belching.mp3"
       },
       {
-        "text": "You're still a great doctor",
+        "text": "I called you",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1379_yeah_don_t_let_it_ruin_your_day_okay_you_re_still_a_great_do.mp3"
+        "audioUrl": "audio/elf/005_calledyou.mp3"
       },
       {
-        "text": "Yes! Yeah!",
+        "text": "I'm a Christmas elf",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1392_yes_yeah.mp3"
+        "audioUrl": "audio/elf/006_christmaself.mp3"
       },
       {
-        "text": "The bell already rang",
+        "text": "The Clausometer",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1399_you_can_t_be_in_the_hall_when_the_bell_rang_the_bell_already.mp3"
+        "audioUrl": "audio/elf/008_clausometer.mp3"
       },
       {
-        "text": "What Herbie's music is against",
+        "text": "The Code of the Elves",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1428_you_know_that_s_what_herbie_s_music_is_against.mp3"
+        "audioUrl": "audio/elf/009_codeoftheelves.mp3"
       },
       {
-        "text": "The weather, obviously",
+        "text": "You don't believe in Santa",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1432_you_know_the_weather_obviously_woman_mm_hm.mp3"
+        "audioUrl": "audio/elf/010_dontbelieve.mp3"
       },
       {
-        "text": "You make ten times what he makes",
+        "text": "Evil box",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1433_you_make_ten_times_what_he_makes_why_didn_t_you_say_that_to.mp3"
+        "audioUrl": "audio/elf/011_evilbox.mp3"
       },
       {
-        "text": "You probably love your mother in law",
+        "text": "The four main food groups",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1437_you_probably_love_your_mother_in_law.mp3"
+        "audioUrl": "audio/elf/013_foodgroups.mp3"
       },
       {
-        "text": "Spent my life savings to go to London",
+        "text": "For the story",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1444_you_see_i_had_spent_my_entire_life_savings_to_go_to_london.mp3"
+        "audioUrl": "audio/elf/014_forthestory.mp3"
       },
       {
-        "text": "Their bones were money, like four times",
+        "text": "Francisco! That's fun to say",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1446_you_talked_about_how_their_bones_were_money_like_four_times.mp3"
+        "audioUrl": "audio/elf/015_francisco.mp3"
       },
       {
-        "text": "Your family, your job, your leisure time",
+        "text": "Fruit spray",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1471_your_family_your_job_even_your_leisure_time.mp3"
+        "audioUrl": "audio/elf/017_fruitspray.mp3"
       },
       {
-        "text": "Very meat and potatoes, Liz",
+        "text": "He got mad at me",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1475_your_record_collection_s_very_meat_and_potatoes_liz.mp3"
+        "audioUrl": "audio/elf/020_hegotmadatme.mp3"
       },
       {
-        "text": "Your shirt gets kind of bunched up",
+        "text": "He's a liar",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1476_your_shirt_gets_kind_of_bunched_up.mp3"
+        "audioUrl": "audio/elf/021_hesaliar.mp3"
       },
       {
-        "text": "Pancaked by drunk dump truck driver",
+        "text": "I'm singing",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1479_92_pancaked_by_drunk_dump_truck_driver.mp3"
+        "audioUrl": "audio/elf/023_imsinging.mp3"
       },
       {
-        "text": "I was just trying Don't talk!",
+        "text": "It's very sucky",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1494_chunky_i_was_just_trying_well_don_t_talk.mp3"
+        "audioUrl": "audio/elf/024_itsverysucky.mp3"
       },
       {
-        "text": "Don't throw away Don't talk!",
+        "text": "The Lincoln Tunnel",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1495_chunky_well_don_t_throw_away_don_t_talk.mp3"
+        "audioUrl": "audio/elf/026_lincolntunnel.mp3"
       },
       {
-        "text": "[horn honking, menacing music]",
+        "text": "He loves the snow",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1497_continuous_horn_honking_menacing_music_playing.mp3"
+        "audioUrl": "audio/elf/027_lovesthesnow.mp3"
       },
       {
-        "text": "[dog barking, horn honking]",
+        "text": "Maple syrup",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1500_dog_barking_continuous_horn_honking.mp3"
+        "audioUrl": "audio/elf/028_maplesyrup.mp3"
       },
       {
-        "text": "[xylophone] Hush little baby",
+        "text": "Smiling's my favorite",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1503_eerie_xylophone_playing_hush_little_baby_don_t_say_a_word.mp3"
+        "audioUrl": "audio/elf/029_myfavorite.mp3"
       },
       {
-        "text": "Paul! You flinch!",
+        "text": "Name on the desk",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1507_group_celebrates_paul_you_flinch.mp3"
+        "audioUrl": "audio/elf/031_nameonthedesk.mp3"
       },
       {
-        "text": "Uh oh! You got a Chunky!",
+        "text": "No it's not!",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1514_hip_hop_beat_playing_uh_oh_you_got_a_chunky.mp3"
+        "audioUrl": "audio/elf/034_noitsnotyesitis.mp3"
       },
       {
-        "text": "You can say anything you want",
+        "text": "One more time",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1519_man_remind_me_the_rules_again_you_can_say_anything_you_want.mp3"
+        "audioUrl": "audio/elf/035_onemoretime.mp3"
       },
       {
-        "text": "Small whimpers at first",
+        "text": "Only an elf",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1522_menacing_music_playing_small_whimpers_at_first.mp3"
+        "audioUrl": "audio/elf/036_onlyanelf.mp3"
       },
       {
-        "text": "You had all summer to think of it",
+        "text": "Peep show",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1537_uptempo_jingle_playing_you_had_all_summer_to_think_of_it.mp3"
+        "audioUrl": "audio/elf/037_peepshow.mp3"
       },
       {
-        "text": "All Garfield. Do you know how hard that is?",
+        "text": "Santa's coming! I know him!",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1539_whispers_all_garfield_do_you_know_how_hard_that_is_for_me.mp3"
+        "audioUrl": "audio/elf/038_santascoming.mp3"
       },
       {
-        "text": "All right, Team One, let's go",
+        "text": "Sing a song",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1550_all_right_team_one_let_s_go_okay.mp3"
+        "audioUrl": "audio/elf/039_singasong.mp3"
       },
       {
-        "text": "I'm sick off of your mud pie",
+        "text": "Did you sleep okay?",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1553_and_now_i_m_sick_off_of_your_mud_pie_what_the_hell_are_you_t.mp3"
+        "audioUrl": "audio/elf/040_sleepokay.mp3"
       },
       {
-        "text": "What the fuck, he wrecked my shirt",
+        "text": "Three jobs",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1557_before_you_come_out_here_go_what_the_fuck_man_he_wrecked_my.mp3"
+        "audioUrl": "audio/elf/043_threejobs.mp3"
       },
       {
-        "text": "You can't just sit wherever",
+        "text": "Want to get tucked in?",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1559_but_can_t_i_stay_here_you_can_t_just_sit_wherever.mp3"
+        "audioUrl": "audio/elf/046_tuckedin.mp3"
       },
       {
-        "text": "Oh my God, Dave",
+        "text": "Up and down",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1570_dave_man_oh_my_god_dave.mp3"
+        "audioUrl": "audio/elf/047_upanddown.mp3"
       },
       {
-        "text": "Don't touch my ride!",
+        "text": "We are buddies",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1571_do_not_touch_me_don_t_touch_my_ride.mp3"
+        "audioUrl": "audio/elf/048_wearebuddies.mp3"
       },
       {
-        "text": "Do you have a solution?",
+        "text": "We'll snuggle",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1596_how_would_i_help_you_out_i_don_t_know_do_you_have_a_solution.mp3"
+        "audioUrl": "audio/elf/049_wellsnuggle.mp3"
       },
       {
-        "text": "It's a guaranteed goddamn hit",
+        "text": "Who sent you?",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1598_i_can_t_sing_it_s_a_guaranteed_goddamn_hit_all_right.mp3"
+        "audioUrl": "audio/elf/051_whosentyou.mp3"
       },
       {
-        "text": "I don't know what The Colgate Hour is",
+        "text": "My work clothes",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1601_i_don_t_know_what_the_colgate_hour_is_okay_pass_okay.mp3"
+        "audioUrl": "audio/elf/052_workclothes.mp3"
       },
       {
-        "text": "I don't know. Not sure",
+        "text": "The workshop",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1602_i_don_t_know_not_sure.mp3"
+        "audioUrl": "audio/elf/053_workshop.mp3"
       },
       {
-        "text": "He's choking. This guy's on the phone",
+        "text": "You're fast",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1611_i_m_with_my_friend_he_s_choking_choked_this_guy_s_on_the_pho.mp3"
+        "audioUrl": "audio/elf/055_you_refast.mp3"
       },
       {
-        "text": "Or what about a little candle?",
+        "text": "You did it",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1648_oh_or_what_about_like_a_little_candle.mp3"
+        "audioUrl": "audio/elf/056_youdidit.mp3"
       },
       {
-        "text": "Previously on River Mountain High",
+        "text": "30 Ray's pizzas",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1663_previously_on_river_mountain_high_you_re_hiding_something.mp3"
-      },
+        "audioUrl": "audio/elf/059_30rayspizzas.mp3"
+      }
+    ]
+  },
+  {
+    "id": "jojo-rabbit",
+    "name": "Jojo Rabbit",
+    "type": "movie",
+    "theme": {
+      "primary": "#c94f4f",
+      "accent": "#e8d9a0",
+      "bg": "#0b0808"
+    },
+    "text_style": "title",
+    "quotes": [
       {
-        "text": "Reggie, what's your favorite?",
+        "text": "You need two eyes",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1665_reggie_what_s_your_favorite_uh_i_don_t_know_what_my_favorite.mp3"
+        "audioUrl": "audio/jojo-rabbit/001_and_according_to_my_superiors_you_need_two_eyes_to_be_a_mean.mp3"
       },
       {
-        "text": "Call the police! Yeah, that's one idea",
+        "text": "Apparently we're doing just fine",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1682_someone_call_the_police_yeah_that_s_one_idea.mp3"
+        "audioUrl": "audio/jojo-rabbit/002_and_even_though_it_would_appear_our_country_s_on_the_back_fo.mp3"
       },
       {
-        "text": "A TC Topp from TC Tuggers",
+        "text": "Little titty grabbers",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1691_that_s_a_cool_shirt_yeah_it_s_a_tc_topp_from_tc_tuggers.mp3"
+        "audioUrl": "audio/jojo-rabbit/003_and_why_am_i_here_talking_to_a_bunch_of_little_titty_grabber.mp3"
       },
       {
-        "text": "It is cheese",
+        "text": "Your Deutsches Jungvolk daggers",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1694_that_s_right_it_is_cheese_cheering_and_applause.mp3"
+        "audioUrl": "audio/jojo-rabbit/004_anyway_you_boys_have_all_been_issued_with_your_deutsches_jun.mp3"
       },
       {
-        "text": "Not real people, the cops said",
+        "text": "Mated with a fish, whoa",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1697_they_re_not_like_real_people_kinda_the_cops_said_that.mp3"
+        "audioUrl": "audio/jojo-rabbit/005_because_once_upon_a_time_a_jewish_man_mated_with_a_fish_whoa.mp3"
       },
       {
-        "text": "Mix it professionally",
+        "text": "Once upon a time",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1706_to_mix_it_professionally_you_listen_to_me.mp3"
+        "audioUrl": "audio/jojo-rabbit/006_because_once_upon_a_time_a_jewish_man_mated_with_a_fish.mp3"
       },
       {
-        "text": "Um, the third phase, we...",
+        "text": "Your scars will heal",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1711_um_the_third_phase_we_distant_car_horn_honking.mp3"
+        "audioUrl": "audio/jojo-rabbit/007_besides_your_scars_will_heal_and_you_ll_get_most_of_the_move.mp3"
       },
       {
-        "text": "Poppers are here",
+        "text": "Today you become a man",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1712_unbelievable_poppers_are_here_who_wants_one.mp3"
+        "audioUrl": "audio/jojo-rabbit/008_but_today_you_become_a_man.mp3"
       },
       {
-        "text": "Oh yeah, I almost forgot",
+        "text": "Bestest, most loyal little Nazi",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1717_what_oh_yeah_i_almost_forgot.mp3"
+        "audioUrl": "audio/jojo-rabbit/009_but_you_re_still_the_bestest_most_loyal_little_nazi_i_ve_eve.mp3"
       },
       {
-        "text": "What the hell is all this stuff?",
+        "text": "Frau Betzler, looking fetching",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1722_what_the_hell_is_all_this_stuff_yeah_should_we_do_this_somew.mp3"
+        "audioUrl": "audio/jojo-rabbit/012_frau_betzler_you_re_looking_fetching_as_usual.mp3"
       },
       {
-        "text": "'Cause I didn't ask for that",
+        "text": "We'll just use the boot",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1724_what_cause_i_didn_t_ask_for_that.mp3"
+        "audioUrl": "audio/jojo-rabbit/013_he_might_scream_but_we_ll_just_use_the_boot_to_finish_it_off.mp3"
       },
       {
-        "text": "That's my backpack",
+        "text": "Brave and sneaky and strong",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1734_what_s_this_you_have_a_bag_what_the_hell_that_s_my_backpack.mp3"
+        "audioUrl": "audio/jojo-rabbit/014_he_s_brave_and_sneaky_and_strong.mp3"
       },
       {
-        "text": "Yeah! [cheering]",
+        "text": "Heil Hitler, Heil Hitler!",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1742_yeah_all_cheering.mp3"
+        "audioUrl": "audio/jojo-rabbit/015_heil_hitler_heil_hitler_heil_hitler_heil_hitler.mp3"
       },
       {
-        "text": "A dumdum, term of endearment",
+        "text": "Heil! Heil! Heil!",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1745_you_called_me_a_dumdum_right_it_s_like_a_term_of_endearment.mp3"
+        "audioUrl": "audio/jojo-rabbit/016_heil_heil_heil.mp3"
       },
       {
-        "text": "What's the joke, exactly?",
+        "text": "Ready to give my life",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1751_you_know_it_s_just_a_joke_what_s_the_joke_exactly.mp3"
+        "audioUrl": "audio/jojo-rabbit/017_i_am_willing_and_ready_to_give_up_my_life_for_him.mp3"
       },
       {
-        "text": "Caked in pure shit",
+        "text": "A fat kid's body",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1758_cause_he_s_gonna_pretend_he_s_not_sick_even_if_it_s_caked_i.mp3"
+        "audioUrl": "audio/jojo-rabbit/018_i_guess_i_m_just_a_kid_in_a_fat_kid_s_body.mp3"
       },
       {
-        "text": "Waiting for the private bathroom",
+        "text": "I look stupid",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1767_earlier_today_when_i_was_waiting_to_use_the_private_bathroo.mp3"
+        "audioUrl": "audio/jojo-rabbit/019_i_look_stupid_people_will_stare_enjoy_the_attention_kid_not.mp3"
       },
       {
-        "text": "Steering wheel fly off, I'm toast",
+        "text": "Field Marshall Jojo, top man",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1773_if_the_steering_wheel_fly_off_i_m_toast.mp3"
+        "audioUrl": "audio/jojo-rabbit/020_i_look_stupid_people_will_stare_enjoy_the_attention_kid_not.mp3"
       },
       {
-        "text": "Hardest letter I've had to write",
+        "text": "Devote my strength to Hitler",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1774_mark_this_is_the_hardest_letter_i_ve_ever_had_to_write.mp3"
+        "audioUrl": "audio/jojo-rabbit/021_i_swear_to_devote_all_my_energies_and_my_strength_to_the_sav.mp3"
       },
       {
-        "text": "Not part of the Turbo Team!",
+        "text": "You're my second best friend",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1781_you_re_not_part_of_the_turbo_team_don_t_run.mp3"
+        "audioUrl": "audio/jojo-rabbit/022_i_thought_i_was_your_best_friend_yorki_you_re_my_second_best.mp3"
       },
       {
-        "text": "[Big Flame by Doris Wilson]",
+        "text": "Don't blow your eyes out",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1784_big_flame_is_gonna_break_my_heart_in_two_by_doris_wilson_pl.mp3"
+        "audioUrl": "audio/jojo-rabbit/023_i_will_personally_be_supervising_each_of_you_to_make_sure_yo.mp3"
       },
       {
-        "text": "[Big Flame by Doris Wilson]",
+        "text": "Cursed to look incredibly attractive",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1785_big_flame_is_gonna_break_my_heart_in_two_by_doris_wilson_pl.mp3"
+        "audioUrl": "audio/jojo-rabbit/024_i_for_one_am_cursed_to_look_incredibly_attractive.mp3"
       },
       {
-        "text": "[Big Flame by Doris Wilson]",
+        "text": "The rabbit is no coward",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1786_big_flame_is_gonna_break_my_heart_in_two_by_doris_wilson_pl.mp3"
+        "audioUrl": "audio/jojo-rabbit/025_i_m_gonna_let_you_in_on_a_little_secret_the_rabbit_is_no_cow.mp3"
       },
       {
-        "text": "[Big Flame by Doris Wilson]",
+        "text": "Operation Screw Up",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1787_big_flame_is_gonna_break_my_heart_in_two_by_doris_wilson_pl.mp3"
+        "audioUrl": "audio/jojo-rabbit/026_i_ve_asked_it_myself_every_day_since_operation_screw_up_wher.mp3"
       },
       {
-        "text": "[Big Flame by Doris Wilson]",
+        "text": "18 kids for Germany",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1788_big_flame_is_gonna_break_my_heart_in_two_by_doris_wilson_pl.mp3"
+        "audioUrl": "audio/jojo-rabbit/027_i_ve_had_18_kids_for_germany_such_a_great_year_to_be_a_girl.mp3"
       },
       {
-        "text": "[Big Flame by Doris Wilson]",
+        "text": "Imagine giving one to Hitler",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1789_big_flame_is_gonna_break_my_heart_in_two_by_doris_wilson_pl.mp3"
+        "audioUrl": "audio/jojo-rabbit/028_imagine_catching_one_and_giving_it_to_hitler.mp3"
       },
       {
-        "text": "[Big Flame by Doris Wilson]",
+        "text": "Make men and women",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1793_big_flame_is_gonna_break_my_heart_in_two_by_doris_wilson_pl.mp3"
+        "audioUrl": "audio/jojo-rabbit/029_in_which_we_will_make_men_and_women_of_you_all.mp3"
       },
       {
-        "text": "[Big Flame by Doris Wilson]",
+        "text": "Is it dangerous? Extremely",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1794_big_flame_is_gonna_break_my_heart_in_two_by_doris_wilson_pl.mp3"
+        "audioUrl": "audio/jojo-rabbit/030_is_it_dangerous_extremely.mp3"
       },
       {
-        "text": "[Big Flame by Doris Wilson]",
+        "text": "My son can't walk properly",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1795_big_flame_is_gonna_break_my_heart_in_two_by_doris_wilson.mp3"
+        "audioUrl": "audio/jojo-rabbit/031_it_s_because_of_you_my_son_can_t_walk_properly_and_has_a_mes.mp3"
       },
       {
-        "text": "[Big Flame by Doris Wilson]",
+        "text": "This is Sub Officer Finkel",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1796_big_flame_is_gonna_break_my_heart_in_two_by_doris_wilson.mp3"
+        "audioUrl": "audio/jojo-rabbit/032_ja_and_this_is_sub_officer_finkel.mp3"
       },
       {
-        "text": "[Blending Soul by Soul Blenders]",
+        "text": "Jojo Rabbit, Jojo Rabbit",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1798_blending_soul_by_soul_blenders_playing.mp3"
+        "audioUrl": "audio/jojo-rabbit/033_jojo_rabbit_jojo_rabbit.mp3"
       },
       {
-        "text": "[Blending Soul by Soul Blenders]",
+        "text": "Jojo Rabbit, hunting carrots",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1799_blending_soul_by_soul_blenders_playing.mp3"
+        "audioUrl": "audio/jojo-rabbit/034_jojo_rabbit_jojo_rabbit_hunting_carrots_jojo_rabbit.mp3"
       },
       {
-        "text": "Who took my cigars?",
+        "text": "Welcome to the Hitlerjugend weekend",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1812_as_mob_movie_character_hey_who_took_my_cigars.mp3"
+        "audioUrl": "audio/jojo-rabbit/035_jungvolk_welcome_to_the_hitlerjugend_training_weekend.mp3"
       },
       {
-        "text": "What the hell's going on out there?",
+        "text": "Kill, kill, kill",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1830_choked_what_the_heck_what_the_hell_s_going_on_out_there.mp3"
+        "audioUrl": "audio/jojo-rabbit/036_kill_kill_kill.mp3"
       },
       {
-        "text": "[circus music]",
+        "text": "Kill, kill, kill, kill, kill",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1843_circus_music_playing_on_video.mp3"
+        "audioUrl": "audio/jojo-rabbit/037_kill_kill_kill_kill_kill.mp3"
       },
       {
-        "text": "♪ Who will be Baby of the Year? ♪",
+        "text": "Kill chant, six times",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1862_crooning_who_will_be_the_baby_of_the_year.mp3"
+        "audioUrl": "audio/jojo-rabbit/038_kill_kill_kill_kill_kill_kill.mp3"
       },
       {
-        "text": "I'm sorry! I'm so sorry!",
+        "text": "Some really good advice",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1874_frenzied_driver_i_m_sorry_i_m_so_sorry.mp3"
+        "audioUrl": "audio/jojo-rabbit/039_let_me_give_you_some_really_good_advice.mp3"
       },
       {
-        "text": "[funk music]",
+        "text": "Be the rabbit",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1876_funk_music_playing.mp3"
+        "audioUrl": "audio/jojo-rabbit/040_let_me_give_you_some_really_good_advice_be_the_rabbit_the_hu.mp3"
       },
       {
-        "text": "[funky music]",
+        "text": "Oh, look at that psycho",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1877_funky_music_playing.mp3"
+        "audioUrl": "audio/jojo-rabbit/041_let_them_say_whatever_they_want_people_used_to_say_a_lot_of.mp3"
       },
       {
-        "text": "Gonna embarrass you, Barry",
+        "text": "Like... that",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1888_groans_i_m_gonna_embarrass_you_at_this_party_barry.mp3"
+        "audioUrl": "audio/jojo-rabbit/042_like_that.mp3"
       },
       {
-        "text": "[heavenly music]",
+        "text": "Octopuses, rhinoctopuses",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1896_heavenly_music_playing.mp3"
+        "audioUrl": "audio/jojo-rabbit/043_lions_giraffes_zebras_rhinoceroses_octopuses_rhinoctopuses.mp3"
       },
       {
-        "text": "That naughty old elf",
+        "text": "Mama Lion worries",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1911_in_husky_voice_oh_that_naughty_old_elf.mp3"
+        "audioUrl": "audio/jojo-rabbit/044_mama_lion_worries_about_her_cub_especially_when_papa_lion_is.mp3"
       },
       {
-        "text": "As painful and sad as today is...",
+        "text": "Lucky enough to look stupid",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1938_man_as_painful_and_sad_as_today_is.mp3"
+        "audioUrl": "audio/jojo-rabbit/045_not_everyone_s_lucky_enough_to_look_stupid_i_for_one_am_curs.mp3"
       },
       {
-        "text": "Oh fuck, a clownputer?",
+        "text": "Time to burn some books",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1947_man_oh_fuck_a_clownputer.mp3"
+        "audioUrl": "audio/jojo-rabbit/046_now_get_your_things_together_kids_it_s_time_to_burn_some_boo.mp3"
       },
       {
-        "text": "This bike's a piece of shit",
+        "text": "Show those stick insects",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1956_man_this_little_fucking_bike_s_a_piece_of_shit.mp3"
+        "audioUrl": "audio/jojo-rabbit/047_now_it_s_time_for_jojo_to_show_those_stick_insects_who_is_th.mp3"
       },
       {
-        "text": "[melody stops]",
+        "text": "Ignite and throw a grenade",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1968_melody_stopping.mp3"
+        "audioUrl": "audio/jojo-rabbit/048_now_lads_each_of_you_will_be_given_the_opportunity_to_ignite.mp3"
       },
       {
-        "text": "[muffled wailing]",
+        "text": "Pluck up your courage",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1972_muffled_wailing.mp3"
+        "audioUrl": "audio/jojo-rabbit/049_now_you_re_going_to_pluck_up_your_courage_walk_out_that_door.mp3"
       },
       {
-        "text": "[music stops]",
+        "text": "Looks like a Picasso painting",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1976_music_stopping.mp3"
+        "audioUrl": "audio/jojo-rabbit/050_o_m_gott_he_looks_like_a_picasso_painting.mp3"
       },
       {
-        "text": "[speech drowned out by honking]",
+        "text": "Forgot the Brussels sprouts bit",
         "character": "",
-        "audioUrl": "audio/itysl-s1/1984_priest_s_speech_drowned_out_by_honking.mp3"
+        "audioUrl": "audio/jojo-rabbit/051_oh_yeah_i_forgot_about_the_brussels_sprouts_bit.mp3"
       },
       {
-        "text": "[yelling in agony]",
+        "text": "Of course, I love killing",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2003_yelling_in_agony.mp3"
+        "audioUrl": "audio/jojo-rabbit/052_pfff_of_course_i_love_killing.mp3"
       },
       {
-        "text": "♪ Yah yah yah yah yah yah ♪",
+        "text": "One hard twist",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2004_yah_yah_yah_yah_yah_yah.mp3"
+        "audioUrl": "audio/jojo-rabbit/053_place_both_hands_around_its_neck_and_then_one_hard_twist.mp3"
       },
       {
-        "text": "♪ This big flame's gonna break my heart ♪",
+        "text": "Unless you're Hitler hiding",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2009_this_big_flame_boy_is_gonna_break_my_heart_in_two.mp3"
+        "audioUrl": "audio/jojo-rabbit/054_so_unless_you_re_hitler_hiding_in_a_fat_little_boy_s_body.mp3"
       },
       {
-        "text": "♪ The night the skeletons came to life ♪",
+        "text": "Gonna have a great time",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2014_it_was_also_the_night_that_the_skeletons_came_to_life.mp3"
+        "audioUrl": "audio/jojo-rabbit/055_so_you_re_gonna_get_out_there_and_you_re_gonna_have_a_great.mp3"
       },
       {
-        "text": "♪ Riding shotgun in your car ♪",
+        "text": "You're really good looking",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2017_now_i_m_riding_shotgun_in_your_car.mp3"
+        "audioUrl": "audio/jojo-rabbit/056_sure_you_re_a_little_bit_scrawny_and_a_bit_unpopular_and_you.mp3"
       },
       {
-        "text": "♪ This big flame's gonna break my heart ♪",
+        "text": "Can't tie your shoelaces",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2018_this_big_flame_boy_is_gonna_break_my_heart_in_two.mp3"
+        "audioUrl": "audio/jojo-rabbit/057_sure_you_re_a_little_bit_scrawny_and_a_bit_unpopular_and_you.mp3"
       },
       {
-        "text": "♪ It's burning hot ♪",
+        "text": "Learning how to get pregnant",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2021_and_believe_me_when_i_say_it_s_burning_hot.mp3"
+        "audioUrl": "audio/jojo-rabbit/058_the_girls_will_practice_important_womanly_duties_such_as_dre.mp3"
       },
       {
-        "text": "♪ A big flame in my heart ♪",
+        "text": "Hunting carrots for his country",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2022_a_big_flame_in_my_heart.mp3"
+        "audioUrl": "audio/jojo-rabbit/059_the_humble_little_bunny_faces_a_dangerous_world_every_day_hu.mp3"
       },
       {
-        "text": "♪ Mmm, baby, baby, ba ba bay ♪",
+        "text": "No room in Hitler's army",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2025_mmm_baby_baby_ba_ba_bay.mp3"
+        "audioUrl": "audio/jojo-rabbit/060_there_is_no_room_in_hitler_s_army_for_those_that_lack_streng.mp3"
       },
       {
-        "text": "♪ Whoa, baby, baby, ba ba bay ♪",
+        "text": "Special and expensive weapons",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2027_whoa_baby_baby_ba_ba_bay.mp3"
+        "audioUrl": "audio/jojo-rabbit/061_these_are_very_special_and_expensive_weapons.mp3"
       },
       {
-        "text": "[stirring music]",
+        "text": "War games and womanly duties",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2029_stirring_music.mp3"
+        "audioUrl": "audio/jojo-rabbit/062_today_you_boys_will_be_involved_in_such_activities_as_marchi.mp3"
       },
       {
-        "text": "♪ And He shall set you free ♪",
+        "text": "Bayonet drills, blowing stuff up",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2034_and_he_shall_set_you_free.mp3"
+        "audioUrl": "audio/jojo-rabbit/063_today_you_boys_will_be_involved_in_such_activities_as_marchi.mp3"
       },
       {
-        "text": "♪ Lay your head in the river ♪",
+        "text": "Ranks of the Jungvolk",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2035_and_you_lay_your_head_in_the_river.mp3"
+        "audioUrl": "audio/jojo-rabbit/064_today_you_join_the_ranks_of_the_jungvolk_in_a_very_special_t.mp3"
       },
       {
-        "text": "♪ Who will be Baby of the Year? ♪",
+        "text": "We Aryans are more civilized",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2039_oh_who_will_be_baby_of_the_year.mp3"
+        "audioUrl": "audio/jojo-rabbit/065_we_aryans_are_one_thousand_times_more_civilized_and_advanced.mp3"
       },
       {
-        "text": "♪ This big flame's gonna break my heart ♪",
+        "text": "Who has the stomach?",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2049_this_big_flame_boy_is_gonna_break_my_heart_in_two.mp3"
+        "audioUrl": "audio/jojo-rabbit/066_when_you_stand_before_the_enemy_and_have_to_end_his_life_whi.mp3"
       },
       {
-        "text": "♪ Even though we are through ♪",
+        "text": "Stuff him down the hole",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2050_even_though_we_are_through.mp3"
+        "audioUrl": "audio/jojo-rabbit/067_you_grab_the_rabbit_by_the_tail_wrap_it_around_his_ear_tie_i.mp3"
       },
       {
-        "text": "♪ Friday night ♪",
+        "text": "Scared as a little rabbit",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2055_friday_night.mp3"
+        "audioUrl": "audio/jojo-rabbit/068_you_re_as_scared_as_a_little_rabbit.mp3"
       },
       {
-        "text": "♪ Studded belt, three stacks on the radio ♪",
+        "text": "Wolf body",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2056_studded_belt_pole_cut_three_stacks_on_the_radio.mp3"
+        "audioUrl": "audio/jojo-rabbit/070_and_jojo_betzler_what_is_your_body_wolf_body.mp3"
       },
       {
-        "text": "♪ Hair flying across your face ♪",
+        "text": "A German soul",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2057_blowing_hair_flying_across_your_face.mp3"
+        "audioUrl": "audio/jojo-rabbit/071_and_jojo_betzler_what_is_your_soul_a_german_soul.mp3"
       },
       {
-        "text": "♪ Like explorers going 65 ♪",
+        "text": "Best weekend ever",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2058_we_drive_through_the_city_like_explorers_going_65.mp3"
+        "audioUrl": "audio/jojo-rabbit/072_are_you_ready_for_the_best_weekend_ever_yes_i_am.mp3"
       },
       {
-        "text": "♪ I'm thinking that we just might ♪",
+        "text": "Who's Hitterler?",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2061_i_m_thinking_that_we_just_might.mp3"
+        "audioUrl": "audio/jojo-rabbit/073_heil_hitler_heil_hitterler_who_s_hitterler_do_you_even_spea.mp3"
       },
       {
-        "text": "♪ This big flame's gonna break my heart ♪",
+        "text": "That's not a heil",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2065_this_big_flame_boy_is_gonna_break_my_heart_in_two.mp3"
+        "audioUrl": "audio/jojo-rabbit/074_heil_hitler_that_s_not_a_heil_this_is_a_heil_heil_heil_hitl.mp3"
       },
       {
-        "text": "♪ Even though we are through ♪",
+        "text": "That rabbit incident",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2066_even_though_we_are_through.mp3"
+        "audioUrl": "audio/jojo-rabbit/075_hi_adolf_wanna_tell_me_about_that_rabbit_incident.mp3"
       },
       {
-        "text": "♪ It's burning hot ♪",
+        "text": "You little critters",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2068_and_believe_me_when_i_say_it_s_burning_hot.mp3"
+        "audioUrl": "audio/jojo-rabbit/076_jesus_over_the_next_two_days_you_little_critters_will_get_t.mp3"
       },
       {
-        "text": "♪ A big flame in my heart ♪",
+        "text": "Snake mind",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2071_a_big_flame_in_my_heart.mp3"
+        "audioUrl": "audio/jojo-rabbit/077_now_jojo_betzler_what_is_your_mind_snake_mind.mp3"
       },
       {
-        "text": "♪ Gonna make a big noise ♪",
+        "text": "That's the spirit",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2073_gonna_take_it_to_the_street_now_we_re_gonna_make_a_big_nois.mp3"
+        "audioUrl": "audio/jojo-rabbit/078_okay_that_s_the_spirit_okay.mp3"
       },
       {
-        "text": "♪ Pull it out, they turn to bones ♪",
+        "text": "Ja, Johannes",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2075_but_if_they_pull_it_out_they_turn_to_bones.mp3"
+        "audioUrl": "audio/jojo-rabbit/079_yes_ja_johannes.mp3"
       },
       {
-        "text": "♪ The bones are their dollars ♪",
+        "text": "Gonna get us all killed",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2085_the_bones_are_their_dollars_and.mp3"
-      },
+        "audioUrl": "audio/jojo-rabbit/080_oh_this_guy_s_a_lunatic_oh_look_at_that_psycho_he_s_gonna_g.mp3"
+      }
+    ]
+  },
+  {
+    "id": "oceans-eleven",
+    "name": "Ocean's Eleven",
+    "type": "movie",
+    "theme": {
+      "primary": "#c9a227",
+      "accent": "#3f6fa8",
+      "bg": "#08090c"
+    },
+    "text_style": "title",
+    "quotes": [
       {
-        "text": "♪ The day Robert Palins murdered me ♪",
+        "text": "Chips please",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2094_the_day_robert_palins_murdered_me.mp3"
+        "audioUrl": "audio/oceans-eleven/001_chips_please.mp3"
       },
       {
-        "text": "♪ The day Robert Palins shot me down ♪",
+        "text": "Died your mom for me",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2096_the_day_robert_palins_shot_me_down.mp3"
+        "audioUrl": "audio/oceans-eleven/002_died_your_mom_for_me.mp3"
       },
       {
-        "text": "♪ Baby, baby, ba ba bay ♪",
+        "text": "He doesn't make me cry",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2099_baby_baby_baby_baby_ba_ba_bay.mp3"
+        "audioUrl": "audio/oceans-eleven/003_does_he_make_you_laugh_he_doesn_t_make_me_cry.mp3"
       },
       {
-        "text": "♪ Palm tree girls, palm tree guys ♪",
+        "text": "Don't touch your tie",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2106_palm_tree_girls_the_palm_tree_guys.mp3"
+        "audioUrl": "audio/oceans-eleven/004_don_t_touch_your_tie_look_at_me.mp3"
       },
       {
-        "text": "♪ Palins grabbed the preacher's daughter ♪",
+        "text": "State your name: Daniel Ocean",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2110_they_palins_grabbed_the_preacher_s_daughter.mp3"
+        "audioUrl": "audio/oceans-eleven/005_good_morning_morning_please_state_your_name_for_the_record_d.mp3"
       },
       {
-        "text": "♪ Baby, baby, ba ba bay ♪",
+        "text": "Cell phones and fetus brains",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2111_baby_baby_baby_ba_ba_bay.mp3"
+        "audioUrl": "audio/oceans-eleven/006_hang_it_up_and_put_it_away_do_you_have_any_idea_how_vulnerab.mp3"
       },
       {
-        "text": "♪ My sweet Marie cried for me ♪",
+        "text": "These don't belong to me",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2112_my_sweet_marie_she_cried_for_me.mp3"
+        "audioUrl": "audio/oceans-eleven/007_i_m_not_sure_these_belong_to_me.mp3"
       },
       {
-        "text": "♪ The night the skeletons came to life ♪",
+        "text": "I'm sorry, we've lost him",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2115_and_it_was_also_the_night_that_the_skeletons_came_to_life.mp3"
+        "audioUrl": "audio/oceans-eleven/008_i_m_sorry_we_ve_lost_him.mp3"
       },
       {
-        "text": "♪ Rode into town on a jet black mare ♪",
+        "text": "Animals along the equator",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2116_he_rode_into_town_on_a_jet_black_mare.mp3"
+        "audioUrl": "audio/oceans-eleven/009_if_all_the_animals_along_the_equator_were_capable_of_flatter.mp3"
       },
       {
-        "text": "♪ Just to float and not sink ♪",
+        "text": "Lose 80 million secretly",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2121_just_to_float_and_not_sink.mp3"
+        "audioUrl": "audio/oceans-eleven/010_mr_benedict_you_can_lose_80_million_tonight_secretly_or_you.mp3"
       },
       {
-        "text": "♪ Mama's gonna buy you a mockingbird ♪",
+        "text": "A self-destructive pattern",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2126_mama_s_gonna_buy_you_a_mockingbird.mp3"
+        "audioUrl": "audio/oceans-eleven/011_my_wife_left_me_i_was_upset_i_got_into_a_self_destructive_pa.mp3"
       },
       {
-        "text": "♪ Even though we are through ♪",
+        "text": "She wouldn't leave for kicks",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2128_even_though_we_are_through.mp3"
+        "audioUrl": "audio/oceans-eleven/012_she_already_left_me_once_i_don_t_think_she_d_do_it_again_jus.mp3"
       },
       {
-        "text": "♪ Heads are round, bellies are squishy ♪",
+        "text": "Doctor specializes in skin diseases",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2129_heads_are_round_bellies_are_squishy.mp3"
+        "audioUrl": "audio/oceans-eleven/013_the_doctor_specializes_in_skin_diseases_we_ll_dream_he_has_f.mp3"
       },
       {
-        "text": "Sponsored by TC Topps",
+        "text": "The man who's robbing you",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2132_woman_river_mountain_high_is_sponsored_by_tc_topps_tc_tugge.mp3"
+        "audioUrl": "audio/oceans-eleven/014_who_the_hell_is_this_the_man_who_s_robbing_you.mp3"
       },
       {
-        "text": "♪ Can they be tricked? Can they be chucked? ♪",
+        "text": "You had one job",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2134_can_they_be_tricked_can_they_be_chucked.mp3"
+        "audioUrl": "audio/oceans-eleven/015_you_had_one_job_to_do.mp3"
       },
       {
-        "text": "♪ Left on Friday, now it's Saturday ♪",
+        "text": "I just became a citizen",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2136_we_left_on_friday_now_it_s_saturday.mp3"
+        "audioUrl": "audio/oceans-eleven/016_you_kidding_i_just_became_a_citizen_again.mp3"
       },
       {
-        "text": "♪ Dick watch hanging low ♪",
+        "text": "Let our 80 million go",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2141_sunglasses_flaring_out_dick_watch_hanging_low.mp3"
+        "audioUrl": "audio/oceans-eleven/017_you_let_our_80_million_go_and_you_get_to_keep_yours_that_s_t.mp3"
       },
       {
-        "text": "♪ Run away to someplace ♪",
+        "text": "Don't shift your weight",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2146_run_away_to_someplace_we.mp3"
+        "audioUrl": "audio/oceans-eleven/018_you_look_down_they_know_you_re_lying_and_up_they_know_you_do.mp3"
       },
       {
-        "text": "♪ Even though we are through ♪",
+        "text": "Congratulations, you're a dead man",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2147_even_though_we_are_through.mp3"
+        "audioUrl": "audio/oceans-eleven/019_you_proved_your_point_you_broke_into_my_vault_congratulation.mp3"
       },
       {
-        "text": "♪ It's burning hot ♪",
+        "text": "You're not wearing your ring",
         "character": "",
-        "audioUrl": "audio/itysl-s1/2153_and_believe_me_when_i_say_it_s_burning_hot.mp3"
+        "audioUrl": "audio/oceans-eleven/020_you_re_not_wearing_your_ring_i_sold_it.mp3"
       }
     ]
   },
@@ -36501,7 +28001,7 @@ const shows = [
         "audioUrl": "audio/zombieland/003_are_you_okay.mp3"
       },
       {
-        "text": "Are You Okay? (extended)",
+        "text": "Are you okay? (extended)",
         "character": "",
         "audioUrl": "audio/zombieland/004_are_you_okay_extended.mp3"
       },
@@ -36511,7 +28011,7 @@ const shows = [
         "audioUrl": "audio/zombieland/005_believe_it_or_not_twinkies_have_an_expiration_date.mp3"
       },
       {
-        "text": "Big Trucks Big Guns",
+        "text": "Big trucks big guns",
         "character": "",
         "audioUrl": "audio/zombieland/006_big_trucks_big_guns.mp3"
       },
@@ -36556,7 +28056,7 @@ const shows = [
         "audioUrl": "audio/zombieland/014_drying_eyes_with_money.mp3"
       },
       {
-        "text": "Emma Stone Laughing",
+        "text": "Emma Stone laughing",
         "character": "",
         "audioUrl": "audio/zombieland/015_emma_stone_laughing.mp3"
       },
@@ -36651,7 +28151,7 @@ const shows = [
         "audioUrl": "audio/zombieland/033_rule.mp3"
       },
       {
-        "text": "Thank God for Rednecks",
+        "text": "Thank God for rednecks",
         "character": "",
         "audioUrl": "audio/zombieland/034_thank_god_for_rednecks.mp3"
       },
@@ -37087,7 +28587,7 @@ const shows = [
         "audioUrl": "audio/the-departed/007_cocksucker.mp3"
       },
       {
-        "text": "Go Fuck Yourself",
+        "text": "Go fuck yourself",
         "character": "",
         "audioUrl": "audio/the-departed/008_go_fuck_yourself.mp3"
       },
@@ -37122,12 +28622,12 @@ const shows = [
         "audioUrl": "audio/the-departed/014_i_m_concerned_about_it_china_and_who_thinks_it_s_wise.mp3"
       },
       {
-        "text": "I'm the Guy Who Does His Job",
+        "text": "I'm the guy who does his job",
         "character": "",
         "audioUrl": "audio/the-departed/015_i_m_the_guy_who_does_his_job.mp3"
       },
       {
-        "text": "I'm The Guy Who Does His Job",
+        "text": "I'm the guy who does his job",
         "character": "",
         "audioUrl": "audio/the-departed/016_i_m_the_guy_who_does_his_job.mp3"
       },
@@ -37220,19 +28720,9 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "A Aron, Where Are You?",
+        "text": "A Aron, where are you?",
         "character": "",
         "audioUrl": "audio/key-and-peele/001_a_aron_where_are_you.mp3"
-      },
-      {
-        "text": "A Delight to the Senses",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/003_a_delight_to_the_senses.mp3"
-      },
-      {
-        "text": "Alright",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/004_alright.mp3"
       },
       {
         "text": "Are you out of your goddamn mind?",
@@ -37240,14 +28730,9 @@ const shows = [
         "audioUrl": "audio/key-and-peele/006_are_you_out_of_your_goddamn_mind.mp3"
       },
       {
-        "text": "Army Sound Off",
+        "text": "Army sound off",
         "character": "",
         "audioUrl": "audio/key-and-peele/008_army_sound_off.mp3"
-      },
-      {
-        "text": "But why though?",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/010_but_why_though.mp3"
       },
       {
         "text": "Class laughing",
@@ -37265,11 +28750,6 @@ const shows = [
         "audioUrl": "audio/key-and-peele/015_cool.mp3"
       },
       {
-        "text": "Dick!",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/017_dick.mp3"
-      },
-      {
         "text": "Girlfriend",
         "character": "",
         "audioUrl": "audio/key-and-peele/019_girlfriend.mp3"
@@ -37280,14 +28760,9 @@ const shows = [
         "audioUrl": "audio/key-and-peele/021_groin_kick.mp3"
       },
       {
-        "text": "HAHA",
+        "text": "Haha",
         "character": "",
         "audioUrl": "audio/key-and-peele/023_haha.mp3"
-      },
-      {
-        "text": "I love you",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/024_i_love_you.mp3"
       },
       {
         "text": "I said bitch",
@@ -37305,17 +28780,12 @@ const shows = [
         "audioUrl": "audio/key-and-peele/028_i_wanna_talk_about_it.mp3"
       },
       {
-        "text": "I'll do it",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/029_i_ll_do_it.mp3"
-      },
-      {
-        "text": "I'll Have What I'm Having",
+        "text": "I'll have what I'm having",
         "character": "",
         "audioUrl": "audio/key-and-peele/030_i_ll_have_what_i_m_having.mp3"
       },
       {
-        "text": "I'm a Baseball Player",
+        "text": "I'm a baseball player",
         "character": "",
         "audioUrl": "audio/key-and-peele/031_i_m_a_baseball_player.mp3"
       },
@@ -37325,7 +28795,7 @@ const shows = [
         "audioUrl": "audio/key-and-peele/032_i_m_actually_very_glad_that_you_said_that.mp3"
       },
       {
-        "text": "I'm Blessed and Thankful",
+        "text": "I'm blessed and thankful",
         "character": "",
         "audioUrl": "audio/key-and-peele/033_i_m_blessed_and_thankful.mp3"
       },
@@ -37333,11 +28803,6 @@ const shows = [
         "text": "I'm for real",
         "character": "",
         "audioUrl": "audio/key-and-peele/035_i_m_for_real.mp3"
-      },
-      {
-        "text": "It hurts",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/036_it_hurts.mp3"
       },
       {
         "text": "It's so good",
@@ -37350,34 +28815,9 @@ const shows = [
         "audioUrl": "audio/key-and-peele/040_laugh.mp3"
       },
       {
-        "text": "Let It Out",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/041_let_it_out.mp3"
-      },
-      {
-        "text": "Love it, love it, love it",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/043_love_it_love_it_love_it.mp3"
-      },
-      {
-        "text": "Mhhm",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/045_mhhm.mp3"
-      },
-      {
-        "text": "More Power To You",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/047_more_power_to_you.mp3"
-      },
-      {
-        "text": "No I'm Totally Fine",
+        "text": "No I'm totally fine",
         "character": "",
         "audioUrl": "audio/key-and-peele/048_no_i_m_totally_fine.mp3"
-      },
-      {
-        "text": "Nooice",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/050_nooice.mp3"
       },
       {
         "text": "Noooooooooooooooooo!",
@@ -37385,22 +28825,12 @@ const shows = [
         "audioUrl": "audio/key-and-peele/054_noooooooooooooooooo.mp3"
       },
       {
-        "text": "Oh No",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/056_oh_no.mp3"
-      },
-      {
-        "text": "Oh, That's Fun",
+        "text": "Oh, that's fun",
         "character": "",
         "audioUrl": "audio/key-and-peele/058_oh_that_s_fun.mp3"
       },
       {
-        "text": "Ohhhh snap",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/060_ohhhh_snap.mp3"
-      },
-      {
-        "text": "OHHHHH!!!",
+        "text": "Ohhhhh!!!",
         "character": "",
         "audioUrl": "audio/key-and-peele/062_ohhhhh.mp3"
       },
@@ -37410,37 +28840,22 @@ const shows = [
         "audioUrl": "audio/key-and-peele/064_okay.mp3"
       },
       {
-        "text": "Ookaaaay",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/066_ookaaaay.mp3"
-      },
-      {
         "text": "Ooookkkaaayyy",
         "character": "",
         "audioUrl": "audio/key-and-peele/068_ooookkkaaayyy.mp3"
       },
       {
-        "text": "Oooooh",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/070_oooooh.mp3"
-      },
-      {
-        "text": "Outrageous",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/071_outrageous.mp3"
-      },
-      {
-        "text": "Party dont stop SHOTS",
+        "text": "Party don't stop shots",
         "character": "",
         "audioUrl": "audio/key-and-peele/073_party_dont_stop_shots.mp3"
       },
       {
-        "text": "Requesting Permission to Come Onboard",
+        "text": "Requesting permission to come onboard",
         "character": "",
         "audioUrl": "audio/key-and-peele/074_requesting_permission_to_come_onboard.mp3"
       },
       {
-        "text": "Smoking Reefer and Doing The Hanky Panky",
+        "text": "Smoking reefer and doing the hanky panky",
         "character": "",
         "audioUrl": "audio/key-and-peele/075_smoking_reefer_and_doing_the_hanky_panky.mp3"
       },
@@ -37450,34 +28865,14 @@ const shows = [
         "audioUrl": "audio/key-and-peele/077_son_of_a_bitch.mp3"
       },
       {
-        "text": "Sweating",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/079_sweating.mp3"
-      },
-      {
         "text": "Sweating under pressure",
         "character": "",
         "audioUrl": "audio/key-and-peele/081_sweating_under_pressure.mp3"
       },
       {
-        "text": "Thank you, and may God bless America",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/083_thank_you_and_may_god_bless_america.mp3"
-      },
-      {
-        "text": "That was my joke",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/085_that_was_my_joke.mp3"
-      },
-      {
-        "text": "Totally Not Angry",
+        "text": "Totally not angry",
         "character": "",
         "audioUrl": "audio/key-and-peele/086_totally_not_angry.mp3"
-      },
-      {
-        "text": "WHAT",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/088_what.mp3"
       },
       {
         "text": "Where is A A Ron ?",
@@ -37485,34 +28880,14 @@ const shows = [
         "audioUrl": "audio/key-and-peele/090_where_is_a_a_ron.mp3"
       },
       {
-        "text": "Wild laughter",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/092_wild_laughter.mp3"
-      },
-      {
-        "text": "Yes!",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/093_yes.mp3"
-      },
-      {
-        "text": "You are an idiot!",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/094_you_are_an_idiot.mp3"
-      },
-      {
-        "text": "You Can Do Anything",
+        "text": "You can do anything",
         "character": "",
         "audioUrl": "audio/key-and-peele/096_you_can_do_anything.mp3"
       },
       {
-        "text": "You Can Fly",
+        "text": "You can fly",
         "character": "",
         "audioUrl": "audio/key-and-peele/098_you_can_fly.mp3"
-      },
-      {
-        "text": "You Done Messed Up A Aron",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/100_you_done_messed_up_a_aron.mp3"
       }
     ]
   },
@@ -37656,11 +29031,6 @@ const shows = [
         "audioUrl": "audio/ted-lasso-s1/020_and_i_think_we_all_agree_two_great_tastes_that_go_great_toge.mp3"
       },
       {
-        "text": "A record by five hours",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/029_and_that_s_a_record_by_about_five_hours.mp3"
-      },
-      {
         "text": "Huge breakfast on your tab",
         "character": "",
         "audioUrl": "audio/ted-lasso-s1/031_and_then_i_m_gonna_order_a_huge_breakfast_on_your_tab.mp3"
@@ -37669,16 +29039,6 @@ const shows = [
         "text": "Learned from you",
         "character": "",
         "audioUrl": "audio/ted-lasso-s1/036_and_what_s_mine_well_that_ll_stay_mine_cause_i_ve_learned_fr.mp3"
-      },
-      {
-        "text": "Diamond Dogs it is",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/041_attaboy_nate_diamond_dogs_it_is.mp3"
-      },
-      {
-        "text": "Before I bought a club",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/043_before_i_purchased_a_football_club.mp3"
       },
       {
         "text": "Curl up, weighted blanket",
@@ -37696,11 +29056,6 @@ const shows = [
         "audioUrl": "audio/ted-lasso-s1/064_but_you_you_saw_an_even_greater_jamie_inside_an_already_grea.mp3"
       },
       {
-        "text": "No need to rush out",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/067_but_you_know_you_don_t_need_to_rush_out_or_anything.mp3"
-      },
-      {
         "text": "Bex and I sitting with you",
         "character": "",
         "audioUrl": "audio/ted-lasso-s1/096_especially_since_bex_and_i_are_gonna_be_sitting_with_you.mp3"
@@ -37709,16 +29064,6 @@ const shows = [
         "text": "Drinks on me!",
         "character": "",
         "audioUrl": "audio/ted-lasso-s1/100_everyone_drinks_with_us_it_s_on_me.mp3"
-      },
-      {
-        "text": "Grow up and get over it",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/116_grow_up_and_get_over_it.mp3"
-      },
-      {
-        "text": "Football is life",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/135_hey_football_is_life_capit_n.mp3"
       },
       {
         "text": "No ownership stake",
@@ -37741,11 +29086,6 @@ const shows = [
         "audioUrl": "audio/ted-lasso-s1/195_i_should_ve_been_braver_and_i_m_sorry_for_that_i_am.mp3"
       },
       {
-        "text": "You two are cookies and cream",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/197_i_think_the_idea_of_you_and_keeley_is_like_cookies_and_cream.mp3"
-      },
-      {
         "text": "Call 'em the 2% Milks",
         "character": "",
         "audioUrl": "audio/ted-lasso-s1/210_i_m_gonna_round_that_down_to_two_then_i_can_call_those_gals.mp3"
@@ -37756,54 +29096,9 @@ const shows = [
         "audioUrl": "audio/ted-lasso-s1/226_it_said_be_curious_not_judgmental.mp3"
       },
       {
-        "text": "So I don't look stupid",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/233_it_s_okay_if_you_are_it_s_just_that_i_wanna_know_so_that_i_d.mp3"
-      },
-      {
-        "text": "Winning or losing?",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/239_just_let_me_know_if_i_m_winning_or_losing_all_right.mp3"
-      },
-      {
-        "text": "Keeley Jones, Independent Woman",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/242_keeley_jones_the_independent_woman_online_edition.mp3"
-      },
-      {
-        "text": "Like I said, it's private",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/249_like_i_said_it_s_private.mp3"
-      },
-      {
-        "text": "Not today, I'm busy",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/272_not_today_i_can_t_i_m_busy.mp3"
-      },
-      {
-        "text": "Don't do this to me",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/286_oh_you_fucker_don_t_do_this_to_me.mp3"
-      },
-      {
         "text": "Man City wanted you back",
         "character": "",
         "audioUrl": "audio/ted-lasso-s1/289_oi_come_on_lasso_didn_t_dump_you_man_city_wanted_you_back.mp3"
-      },
-      {
-        "text": "Gonna ask you to leave",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/320_right_i_m_gonna_have_to_ask_you_to_leave.mp3"
-      },
-      {
-        "text": "Walked in on my mother-in-law",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/328_second_place_of_course_is_the_i_just_walked_in_on_my_mother.mp3"
-      },
-      {
-        "text": "Got back at me",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/341_so_you_fucked_him_to_get_back_at_me_for_something_i_didn_t_e.mp3"
       },
       {
         "text": "So... thank you for that",
@@ -37821,29 +29116,9 @@ const shows = [
         "audioUrl": "audio/ted-lasso-s1/357_sure_roy_here_has_slept_with_a_bunch_of_different_people_in.mp3"
       },
       {
-        "text": "Ted Lasso sucks",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/364_thank_god_cause_ted_lasso_sucks.mp3"
-      },
-      {
         "text": "Breakdown at karaoke",
         "character": "",
         "audioUrl": "audio/ted-lasso-s1/368_that_i_went_from_having_a_mental_breakdown_at_a_karaoke_join.mp3"
-      },
-      {
-        "text": "I'll give it a shot",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/381_that_s_okay_i_ll_give_it_a_shot_here_let_s_see.mp3"
-      },
-      {
-        "text": "That's what I'm talking about!",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/383_that_s_what_i_m_talking_about_yeah_yeah.mp3"
-      },
-      {
-        "text": "That's why I have this",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/411_until_she_sets_me_up_with_somewhere_proper_that_s_why_i_have.mp3"
       },
       {
         "text": "Wager say £10,000?",
@@ -37856,11 +29131,6 @@ const shows = [
         "audioUrl": "audio/ted-lasso-s1/418_we_have_ten_thousand_unsold_seats_for_the_final_match_of_the.mp3"
       },
       {
-        "text": "Tell me how you feel",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/428_well_why_don_t_you_just_come_and_tell_me_how_you_feel_about.mp3"
-      },
-      {
         "text": "Thanks for being there",
         "character": "",
         "audioUrl": "audio/ted-lasso-s1/461_yeah_and_hey_i_wanna_thank_you_again_for_being_there_for_me.mp3"
@@ -37869,11 +29139,6 @@ const shows = [
         "text": "You never did the right thing",
         "character": "",
         "audioUrl": "audio/ted-lasso-s1/481_you_had_every_opportunity_to_do_the_right_thing_and_you_neve.mp3"
-      },
-      {
-        "text": "When Lasso dumped me",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/484_you_know_everything_happened_so_fast_when_lasso_dumped_me.mp3"
       },
       {
         "text": "Punishing Rupert won't help",
@@ -37889,11 +29154,6 @@ const shows = [
         "text": "Eggplant or the squirrel",
         "character": "",
         "audioUrl": "audio/ted-lasso-s1/531_like_the_eggplant_or_the_squirting_water_or_the_little_squir.mp3"
-      },
-      {
-        "text": "Double in, double out",
-        "character": "",
-        "audioUrl": "audio/ted-lasso-s1/536_okay_double_in_double_out.mp3"
       },
       {
         "text": "Never done this before",
@@ -37917,11 +29177,6 @@ const shows = [
         "text": "A professor lived here and died",
         "character": "",
         "audioUrl": "audio/old-school/004_a_professor_lived_here_for_like_30_years_and_then_he_died.mp3"
-      },
-      {
-        "text": "Look at the baby",
-        "character": "",
-        "audioUrl": "audio/old-school/025_always_smiling_hi_honey_judging_watching_look_at_the_baby.mp3"
       },
       {
         "text": "The vault competition",
@@ -38587,7 +29842,7 @@ const shows = [
         "audioUrl": "audio/happy-gilmore/241_he_shoots_he_scores_that_was_much_easier_than_putting_i_shou.mp3"
       },
       {
-        "text": "He's going on the Tour. Cute.",
+        "text": "He's going on the tour. Cute.",
         "character": "",
         "audioUrl": "audio/happy-gilmore/247_he_s_going_to_be_on_the_tour_super_that_s_cute.mp3"
       },
@@ -38625,11 +29880,6 @@ const shows = [
         "text": "Bet you can't do it again",
         "character": "",
         "audioUrl": "audio/happy-gilmore/296_i_bet_20_you_can_t_do_it_again_bring_it_on_you_boys_are_goin.mp3"
-      },
-      {
-        "text": "Make things out of clay",
-        "character": "",
-        "audioUrl": "audio/happy-gilmore/303_i_could_make_things_out_of_clay_and_lay_by_the_bay.mp3"
       },
       {
         "text": "To get Grandma's house back",
@@ -38797,7 +30047,7 @@ const shows = [
         "audioUrl": "audio/happy-gilmore/684_son_of_a_bitch_ball_why_didn_t_you_go_home_that_s_your_home.mp3"
       },
       {
-        "text": "The amazing Golf Ball Whacker Guy",
+        "text": "The amazing golf ball whacker guy",
         "character": "",
         "audioUrl": "audio/happy-gilmore/689_step_right_up_folks_see_if_you_can_outdrive_the_amazing_golf.mp3"
       },
@@ -38975,11 +30225,6 @@ const shows = [
         "audioUrl": "audio/billy-madison/001_a_simple_wrong_would_ve_done_just_fine.mp3"
       },
       {
-        "text": "Any more brain busters?",
-        "character": "",
-        "audioUrl": "audio/billy-madison/002_any_more_brain_busters.mp3"
-      },
-      {
         "text": "Back to school",
         "character": "",
         "audioUrl": "audio/billy-madison/003_back_to_school.mp3"
@@ -38993,16 +30238,6 @@ const shows = [
         "text": "Billy Madison",
         "character": "",
         "audioUrl": "audio/billy-madison/005_billy_madison.mp3"
-      },
-      {
-        "text": "Business ethics",
-        "character": "",
-        "audioUrl": "audio/billy-madison/006_billy_madison_business_ethics.mp3"
-      },
-      {
-        "text": "Goo",
-        "character": "",
-        "audioUrl": "audio/billy-madison/007_billy_madison_goo.mp3"
       },
       {
         "text": "PT",
@@ -39045,11 +30280,6 @@ const shows = [
         "audioUrl": "audio/billy-madison/015_cheering.mp3"
       },
       {
-        "text": "Cheese",
-        "character": "",
-        "audioUrl": "audio/billy-madison/016_cheese.mp3"
-      },
-      {
         "text": "Cherish it",
         "character": "",
         "audioUrl": "audio/billy-madison/017_cherish_it.mp3"
@@ -39065,29 +30295,9 @@ const shows = [
         "audioUrl": "audio/billy-madison/019_chris_farley_and_the_penguin.mp3"
       },
       {
-        "text": "Cool",
-        "character": "",
-        "audioUrl": "audio/billy-madison/020_cool.mp3"
-      },
-      {
-        "text": "Correct",
-        "character": "",
-        "audioUrl": "audio/billy-madison/021_correct.mp3"
-      },
-      {
-        "text": "Couch",
-        "character": "",
-        "audioUrl": "audio/billy-madison/022_couch.mp3"
-      },
-      {
         "text": "Dance",
         "character": "",
         "audioUrl": "audio/billy-madison/023_dance.mp3"
-      },
-      {
-        "text": "Did you fall asleep or did you pass out?",
-        "character": "",
-        "audioUrl": "audio/billy-madison/024_did_you_fall_asleep_or_did_you_pass_out.mp3"
       },
       {
         "text": "Do you know where the bathroom is?",
@@ -39100,16 +30310,6 @@ const shows = [
         "audioUrl": "audio/billy-madison/026_don_t_say_that_stay_here_cherish_it.mp3"
       },
       {
-        "text": "Don't screw it up",
-        "character": "",
-        "audioUrl": "audio/billy-madison/027_don_t_screw_it_up.mp3"
-      },
-      {
-        "text": "Don't tell me my business, devil woman",
-        "character": "",
-        "audioUrl": "audio/billy-madison/028_don_t_tell_me_my_business_devil_woman.mp3"
-      },
-      {
         "text": "Empty keg celebration",
         "character": "",
         "audioUrl": "audio/billy-madison/029_empty_keg_celebration.mp3"
@@ -39118,11 +30318,6 @@ const shows = [
         "text": "Eric is pregnant",
         "character": "",
         "audioUrl": "audio/billy-madison/030_eric_is_pregnant.mp3"
-      },
-      {
-        "text": "Eric!",
-        "character": "",
-        "audioUrl": "audio/billy-madison/031_eric.mp3"
       },
       {
         "text": "Everyone is now dumber",
@@ -39140,16 +30335,6 @@ const shows = [
         "audioUrl": "audio/billy-madison/034_frank.mp3"
       },
       {
-        "text": "Goo",
-        "character": "",
-        "audioUrl": "audio/billy-madison/035_goo.mp3"
-      },
-      {
-        "text": "Goo",
-        "character": "",
-        "audioUrl": "audio/billy-madison/036_goo.mp3"
-      },
-      {
         "text": "Good, great, grand, wonderful",
         "character": "",
         "audioUrl": "audio/billy-madison/037_good_great_grand_wonderful.mp3"
@@ -39160,19 +30345,9 @@ const shows = [
         "audioUrl": "audio/billy-madison/038_grossest_thing_i_ve_ever_heard.mp3"
       },
       {
-        "text": "Grossest thing in my life",
-        "character": "",
-        "audioUrl": "audio/billy-madison/039_grossest_thing_in_my_life.mp3"
-      },
-      {
         "text": "Ha ha ha, shut up",
         "character": "",
         "audioUrl": "audio/billy-madison/040_ha_ha_ha_shut_up.mp3"
-      },
-      {
-        "text": "OMG that is funny",
-        "character": "",
-        "audioUrl": "audio/billy-madison/041_haha_omg_that_is_funny.mp3"
       },
       {
         "text": "Have some more sloppy joes",
@@ -39210,19 +30385,9 @@ const shows = [
         "audioUrl": "audio/billy-madison/048_how_bout_you_sideburns.mp3"
       },
       {
-        "text": "How's high school, Billy?",
-        "character": "",
-        "audioUrl": "audio/billy-madison/049_how_s_high_school_billy.mp3"
-      },
-      {
         "text": "I can and I will",
         "character": "",
         "audioUrl": "audio/billy-madison/050_i_can_and_i_will.mp3"
-      },
-      {
-        "text": "I heard he's retarded or something",
-        "character": "",
-        "audioUrl": "audio/billy-madison/051_i_heard_he_s_retarded_or_something.mp3"
       },
       {
         "text": "I know from experience dude",
@@ -39235,19 +30400,9 @@ const shows = [
         "audioUrl": "audio/billy-madison/053_i_see_your_lips_moving_but_i_can_t_make_out_the_words_i_m_de.mp3"
       },
       {
-        "text": "I thank you",
-        "character": "",
-        "audioUrl": "audio/billy-madison/054_i_thank_you.mp3"
-      },
-      {
         "text": "I thought I was your snack pack",
         "character": "",
         "audioUrl": "audio/billy-madison/055_i_thought_i_was_your_snack_pack.mp3"
-      },
-      {
-        "text": "I'd rather have a beer",
-        "character": "",
-        "audioUrl": "audio/billy-madison/056_i_d_rather_have_a_beer.mp3"
       },
       {
         "text": "I'll turn this damn bus around",
@@ -39270,7 +30425,7 @@ const shows = [
         "audioUrl": "audio/billy-madison/060_it_could_be_our_milk.mp3"
       },
       {
-        "text": "It's Poop Again",
+        "text": "It's poop again",
         "character": "",
         "audioUrl": "audio/billy-madison/061_it_s_poop_again.mp3"
       },
@@ -39285,17 +30440,7 @@ const shows = [
         "audioUrl": "audio/billy-madison/063_it_s_too_damn_hot_for_a_penguin_to_be_walking_around_here.mp3"
       },
       {
-        "text": "Jackpot!",
-        "character": "",
-        "audioUrl": "audio/billy-madison/064_jackpot.mp3"
-      },
-      {
-        "text": "Kid can't even read",
-        "character": "",
-        "audioUrl": "audio/billy-madison/065_kid_can_t_even_read.mp3"
-      },
-      {
-        "text": "Knibb High Football Rules",
+        "text": "Knibb High football rules",
         "character": "",
         "audioUrl": "audio/billy-madison/066_knibb_high_football_rules.mp3"
       },
@@ -39303,11 +30448,6 @@ const shows = [
         "text": "Lady you're scaring us",
         "character": "",
         "audioUrl": "audio/billy-madison/067_lady_you_re_scaring_us.mp3"
-      },
-      {
-        "text": "Let's go!",
-        "character": "",
-        "audioUrl": "audio/billy-madison/068_let_s_go.mp3"
       },
       {
         "text": "Lipstick",
@@ -39330,29 +30470,9 @@ const shows = [
         "audioUrl": "audio/billy-madison/072_maybe_we_could_have_some_coffee.mp3"
       },
       {
-        "text": "Miss Lippy Dancing",
+        "text": "Miss Lippy dancing",
         "character": "",
         "audioUrl": "audio/billy-madison/073_miss_lippy_dancing.mp3"
-      },
-      {
-        "text": "Mortified",
-        "character": "",
-        "audioUrl": "audio/billy-madison/074_mortified.mp3"
-      },
-      {
-        "text": "Move it or lose it",
-        "character": "",
-        "audioUrl": "audio/billy-madison/075_move_it_or_lose_it.mp3"
-      },
-      {
-        "text": "My wife, the Tramp",
-        "character": "",
-        "audioUrl": "audio/billy-madison/076_my_wife_the_tramp.mp3"
-      },
-      {
-        "text": "No I will not make out with you",
-        "character": "",
-        "audioUrl": "audio/billy-madison/077_no_i_will_not_make_out_w_you_billy_madison.mp3"
       },
       {
         "text": "No I will not make out with you",
@@ -39370,11 +30490,6 @@ const shows = [
         "audioUrl": "audio/billy-madison/080_no_milk_will_ever_be_our_milk.mp3"
       },
       {
-        "text": "No yelling on the bus",
-        "character": "",
-        "audioUrl": "audio/billy-madison/081_no_yelling_on_the_bus.mp3"
-      },
-      {
         "text": "No!",
         "character": "",
         "audioUrl": "audio/billy-madison/082_no.mp3"
@@ -39390,29 +30505,9 @@ const shows = [
         "audioUrl": "audio/billy-madison/084_nothing_even_close_to_a_rational_thought.mp3"
       },
       {
-        "text": "Now you're all in big trouble",
-        "character": "",
-        "audioUrl": "audio/billy-madison/085_now_you_re_all_in_big_trouble.mp3"
-      },
-      {
         "text": "O'Doyle rules!",
         "character": "",
         "audioUrl": "audio/billy-madison/086_o_doyle_rules.mp3"
-      },
-      {
-        "text": "O'Doyle rules!",
-        "character": "",
-        "audioUrl": "audio/billy-madison/087_odoyle_rules.mp3"
-      },
-      {
-        "text": "Oh",
-        "character": "",
-        "audioUrl": "audio/billy-madison/088_oh.mp3"
-      },
-      {
-        "text": "I knew ya had it in ya",
-        "character": "",
-        "audioUrl": "audio/billy-madison/089_oh_billy_i_knew_ya_had_it_in_ya.mp3"
       },
       {
         "text": "One piece of ace",
@@ -39433,16 +30528,6 @@ const shows = [
         "text": "R",
         "character": "",
         "audioUrl": "audio/billy-madison/093_r.mp3"
-      },
-      {
-        "text": "Relax dude",
-        "character": "",
-        "audioUrl": "audio/billy-madison/094_relax_dude.mp3"
-      },
-      {
-        "text": "Rock on, yes",
-        "character": "",
-        "audioUrl": "audio/billy-madison/095_rock_on_yes.mp3"
       },
       {
         "text": "Shakespeare performance",
@@ -39495,16 +30580,6 @@ const shows = [
         "audioUrl": "audio/billy-madison/105_some_people_have_no_willpower_no_brains_no_vision.mp3"
       },
       {
-        "text": "Sorry, Daddy",
-        "character": "",
-        "audioUrl": "audio/billy-madison/106_sorry_daddy.mp3"
-      },
-      {
-        "text": "Speak for yourself, moron",
-        "character": "",
-        "audioUrl": "audio/billy-madison/107_speak_for_yourself_moron.mp3"
-      },
-      {
         "text": "Stop looking at me, swan",
         "character": "",
         "audioUrl": "audio/billy-madison/108_stop_looking_at_me_swan.mp3"
@@ -39518,16 +30593,6 @@ const shows = [
         "text": "Tearing my ear off",
         "character": "",
         "audioUrl": "audio/billy-madison/110_tearing_my_ear_off.mp3"
-      },
-      {
-        "text": "Thanks",
-        "character": "",
-        "audioUrl": "audio/billy-madison/111_thanks.mp3"
-      },
-      {
-        "text": "That damn sasquatch",
-        "character": "",
-        "audioUrl": "audio/billy-madison/112_that_damn_sasquatch.mp3"
       },
       {
         "text": "That is correct",
@@ -39555,11 +30620,6 @@ const shows = [
         "audioUrl": "audio/billy-madison/117_that_s_quacktastic.mp3"
       },
       {
-        "text": "The offer is on the table",
-        "character": "",
-        "audioUrl": "audio/billy-madison/118_the_offer_is_on_the_table.mp3"
-      },
-      {
         "text": "That's assault, brotha",
         "character": "",
         "audioUrl": "audio/billy-madison/119_touch_her_boobs_that_s_assault_brotha.mp3"
@@ -39568,21 +30628,6 @@ const shows = [
         "text": "Triscuit crackers",
         "character": "",
         "audioUrl": "audio/billy-madison/120_triscuit_crackers.mp3"
-      },
-      {
-        "text": "Weasel laugh",
-        "character": "",
-        "audioUrl": "audio/billy-madison/121_weasel_laugh.mp3"
-      },
-      {
-        "text": "Weasel laugh",
-        "character": "",
-        "audioUrl": "audio/billy-madison/122_weasel_laugh_billy_madison.mp3"
-      },
-      {
-        "text": "What a weirdo",
-        "character": "",
-        "audioUrl": "audio/billy-madison/123_what_a_weirdo.mp3"
       },
       {
         "text": "What is she talkin' about?",
@@ -39600,29 +30645,14 @@ const shows = [
         "audioUrl": "audio/billy-madison/126_what_s_today_october.mp3"
       },
       {
-        "text": "What's up her butt?",
-        "character": "",
-        "audioUrl": "audio/billy-madison/127_what_s_up_her_butt.mp3"
-      },
-      {
         "text": "Who would steal 30 bagged lunches?",
         "character": "",
         "audioUrl": "audio/billy-madison/128_who_would_steal_30_bagged_lunches.mp3"
       },
       {
-        "text": "Woo wee",
-        "character": "",
-        "audioUrl": "audio/billy-madison/129_woo_wee.mp3"
-      },
-      {
         "text": "Yes, I will go back to school",
         "character": "",
         "audioUrl": "audio/billy-madison/130_yes_i_will_go_back_to_school.mp3"
-      },
-      {
-        "text": "You blew it",
-        "character": "",
-        "audioUrl": "audio/billy-madison/131_you_blew_it.mp3"
       },
       {
         "text": "You have a pet. You have a responsibility",
@@ -39633,11 +30663,6 @@ const shows = [
         "text": "3rd grade",
         "character": "",
         "audioUrl": "audio/billy-madison/133_3rd_grade.mp3"
-      },
-      {
-        "text": "69!",
-        "character": "",
-        "audioUrl": "audio/billy-madison/134_69.mp3"
       }
     ]
   },
@@ -39652,11 +30677,6 @@ const shows = [
     },
     "text_style": "title",
     "quotes": [
-      {
-        "text": "A little place",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/001_a_little_place.mp3"
-      },
       {
         "text": "Most annoying sound",
         "character": "",
@@ -39688,11 +30708,6 @@ const shows = [
         "audioUrl": "audio/dumb-and-dumber/007_big_gulps_huh.mp3"
       },
       {
-        "text": "Calm down",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/008_calm_down.mp3"
-      },
-      {
         "text": "Check, please!",
         "character": "",
         "audioUrl": "audio/dumb-and-dumber/009_check_please.mp3"
@@ -39713,11 +30728,6 @@ const shows = [
         "audioUrl": "audio/dumb-and-dumber/012_did_you_pay_the_gas_bill.mp3"
       },
       {
-        "text": "Did you see what he did?!",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/013_did_you_see_what_he_did.mp3"
-      },
-      {
         "text": "Don't you go dying on me!",
         "character": "",
         "audioUrl": "audio/dumb-and-dumber/014_don_t_you_go_dying_on_me.mp3"
@@ -39726,11 +30736,6 @@ const shows = [
         "text": "Don't you go dying on me",
         "character": "",
         "audioUrl": "audio/dumb-and-dumber/015_dont_you_go_dying_on_me.mp3"
-      },
-      {
-        "text": "Dumb and dumber",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/016_dumb_and_dumber.mp3"
       },
       {
         "text": "Toilet doesn't flush",
@@ -39823,29 +30828,14 @@ const shows = [
         "audioUrl": "audio/dumb-and-dumber/034_his_head_fell_off.mp3"
       },
       {
-        "text": "Give it to me straight",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/035_hit_me_with_it_just_give_it_to_me_straight.mp3"
-      },
-      {
         "text": "How about a hug?",
         "character": "",
         "audioUrl": "audio/dumb-and-dumber/036_how_about_a_hug.mp3"
       },
       {
-        "text": "How much you wanna bet?",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/037_how_much_you_wanna_bet.mp3"
-      },
-      {
         "text": "Hug",
         "character": "",
         "audioUrl": "audio/dumb-and-dumber/038_hug.mp3"
-      },
-      {
-        "text": "I am going to kill you",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/039_i_am_going_to_kill_you.mp3"
       },
       {
         "text": "I can't feel my fingers",
@@ -39878,19 +30868,9 @@ const shows = [
         "audioUrl": "audio/dumb-and-dumber/045_i_like_you_a_lot.mp3"
       },
       {
-        "text": "We might have a hustler here",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/046_i_think_we_might_have_a_hustler_here.mp3"
-      },
-      {
         "text": "I took care of it",
         "character": "",
         "audioUrl": "audio/dumb-and-dumber/047_i_took_care_of_it.mp3"
-      },
-      {
-        "text": "I was way off",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/048_i_was_way_off.mp3"
       },
       {
         "text": "I'd do anything to bone her",
@@ -39911,16 +30891,6 @@ const shows = [
         "text": "Kiss my ass",
         "character": "",
         "audioUrl": "audio/dumb-and-dumber/052_kiss_my_ass.mp3"
-      },
-      {
-        "text": "Landed on the moon",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/053_landed_on_the_moon.mp3"
-      },
-      {
-        "text": "Laxative",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/054_laxative.mp3"
       },
       {
         "text": "Lloyd gags",
@@ -39973,11 +30943,6 @@ const shows = [
         "audioUrl": "audio/dumb-and-dumber/064_nice_set_of_hooters.mp3"
       },
       {
-        "text": "No fart games in the car",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/065_no_fart_games_while_in_car.mp3"
-      },
-      {
         "text": "No food, no jobs",
         "character": "",
         "audioUrl": "audio/dumb-and-dumber/066_no_food_no_jobs.mp3"
@@ -39991,11 +30956,6 @@ const shows = [
         "text": "Oh look, frost",
         "character": "",
         "audioUrl": "audio/dumb-and-dumber/068_oh_look_frost.mp3"
-      },
-      {
-        "text": "Okay, kill him",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/069_ok_kill_him.mp3"
       },
       {
         "text": "Pathetic loser",
@@ -40088,11 +31048,6 @@ const shows = [
         "audioUrl": "audio/dumb-and-dumber/087_so_you_re_telling_me_there_s_a_chance.mp3"
       },
       {
-        "text": "Spilling the salt is bad luck",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/088_spilling_the_salt_is_bad_luck.mp3"
-      },
-      {
         "text": "Grandpa's old cough medicine?",
         "character": "",
         "audioUrl": "audio/dumb-and-dumber/089_suckin_back_on_grandpa_s_old_cough_medicine.mp3"
@@ -40163,34 +31118,9 @@ const shows = [
         "audioUrl": "audio/dumb-and-dumber/102_turbo_lax.mp3"
       },
       {
-        "text": "Uh huh!",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/103_uh_huh.mp3"
-      },
-      {
-        "text": "Wanna hear the most annoying sound in the world?",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/104_wanna_hear_the_most_annoying_sound_in_the_world.mp3"
-      },
-      {
-        "text": "We landed on the moon!",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/105_we_landed_on_the_moon.mp3"
-      },
-      {
-        "text": "We're really doing it!",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/106_we_re_really_doing_it.mp3"
-      },
-      {
         "text": "We're there",
         "character": "",
         "audioUrl": "audio/dumb-and-dumber/107_we_re_there.mp3"
-      },
-      {
-        "text": "Welp, see ya later",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/108_welp_see_ya_l8r.mp3"
       },
       {
         "text": "What do you think the chances are of a guy like you and a girl like me",
@@ -40198,24 +31128,9 @@ const shows = [
         "audioUrl": "audio/dumb-and-dumber/109_what_do_you_think_the_chances_are_of_a_guy_like_you_and_a_gi.mp3"
       },
       {
-        "text": "What?",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/110_what.mp3"
-      },
-      {
-        "text": "Where's the booze?",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/111_where_s_the_booze.mp3"
-      },
-      {
         "text": "Flying somewhere?",
         "character": "",
         "audioUrl": "audio/dumb-and-dumber/112_why_you_going_to_the_airport_flying_somewhere.mp3"
-      },
-      {
-        "text": "Will you join me in a good luck toast?",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/113_will_you_join_me_in_a_good_luck_toast.mp3"
       },
       {
         "text": "Yeah, clapping",
@@ -40238,11 +31153,6 @@ const shows = [
         "audioUrl": "audio/dumb-and-dumber/117_you_have_had_this_pair_of_extra_gloves_this_whole_time.mp3"
       },
       {
-        "text": "Tell me where to sign, bud",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/118_you_just_tell_me_where_to_sign_bud.mp3"
-      },
-      {
         "text": "You're a horrible shot",
         "character": "",
         "audioUrl": "audio/dumb-and-dumber/119_you_re_a_horrible_shot.mp3"
@@ -40261,12 +31171,12 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "Alexa, Add Big Hairy Balls to My Shopping List",
+        "text": "Alexa, add big hairy balls to my shopping list",
         "character": "",
         "audioUrl": "audio/south-park/002_alexa_add_big_hairy_balls_to_my_shopping_list.mp3"
       },
       {
-        "text": "An Old Fashioned",
+        "text": "An old fashioned",
         "character": "",
         "audioUrl": "audio/south-park/005_an_old_fashioned.mp3"
       },
@@ -40301,7 +31211,7 @@ const shows = [
         "audioUrl": "audio/south-park/016_bar_bura_bar_bura.mp3"
       },
       {
-        "text": "Bono YEAH YEAH YEAAH!",
+        "text": "Bono yeah yeah yeaah!",
         "character": "",
         "audioUrl": "audio/south-park/020_bono_yeah_yeah_yeaah.mp3"
       },
@@ -40331,12 +31241,12 @@ const shows = [
         "audioUrl": "audio/south-park/027_buffalo_soldier.mp3"
       },
       {
-        "text": "Buying Toilet Paper",
+        "text": "Buying toilet paper",
         "character": "",
         "audioUrl": "audio/south-park/029_buying_toilet_paper.mp3"
       },
       {
-        "text": "Cable Company Customer Service",
+        "text": "Cable company customer service",
         "character": "",
         "audioUrl": "audio/south-park/030_cable_company_customer_service.mp3"
       },
@@ -40366,7 +31276,7 @@ const shows = [
         "audioUrl": "audio/south-park/041_chewbacca_defense.mp3"
       },
       {
-        "text": "Christopher Reeves Stem Cells",
+        "text": "Christopher Reeves stem cells",
         "character": "",
         "audioUrl": "audio/south-park/042_christopher_reeves_stem_cells.mp3"
       },
@@ -40381,7 +31291,7 @@ const shows = [
         "audioUrl": "audio/south-park/045_columbus_day.mp3"
       },
       {
-        "text": "Columbus Day Poem",
+        "text": "Columbus Day poem",
         "character": "",
         "audioUrl": "audio/south-park/046_columbus_day_poem.mp3"
       },
@@ -40451,7 +31361,7 @@ const shows = [
         "audioUrl": "audio/south-park/067_eating_chips.mp3"
       },
       {
-        "text": "Faith In Christ",
+        "text": "Faith in Christ",
         "character": "",
         "audioUrl": "audio/south-park/072_faith_in_christ.mp3"
       },
@@ -40476,7 +31386,7 @@ const shows = [
         "audioUrl": "audio/south-park/086_get_out_to_vote_song.mp3"
       },
       {
-        "text": "Go America Go Broncos",
+        "text": "Go America go Broncos",
         "character": "",
         "audioUrl": "audio/south-park/090_go_america_go_broncos.mp3"
       },
@@ -40516,7 +31426,7 @@ const shows = [
         "audioUrl": "audio/south-park/106_hemp_hat.mp3"
       },
       {
-        "text": "Hey, There's a Bee In Here",
+        "text": "Hey, there's a bee in here",
         "character": "",
         "audioUrl": "audio/south-park/110_hey_there_s_a_bee_in_here.mp3"
       },
@@ -40526,7 +31436,7 @@ const shows = [
         "audioUrl": "audio/south-park/114_how_s_that_filet_mignon.mp3"
       },
       {
-        "text": "I Am Not Chugging Beer",
+        "text": "I am not chugging beer",
         "character": "",
         "audioUrl": "audio/south-park/117_i_am_not_chugging_beer.mp3"
       },
@@ -40551,7 +31461,7 @@ const shows = [
         "audioUrl": "audio/south-park/131_i_sure_am_excited.mp3"
       },
       {
-        "text": "I Thought This Was America",
+        "text": "I thought this was America",
         "character": "",
         "audioUrl": "audio/south-park/132_i_thought_this_was_america.mp3"
       },
@@ -40561,7 +31471,7 @@ const shows = [
         "audioUrl": "audio/south-park/133_i_thought_this_was_america.mp3"
       },
       {
-        "text": "I Wasn't Watching Food Channel",
+        "text": "I wasn't watching Food Channel",
         "character": "",
         "audioUrl": "audio/south-park/135_i_wasn_t_watching_food_channel.mp3"
       },
@@ -40621,17 +31531,17 @@ const shows = [
         "audioUrl": "audio/south-park/153_i_m_so_startled.mp3"
       },
       {
-        "text": "I'm Sorry I Thought This Was America",
+        "text": "I'm sorry I thought this was America",
         "character": "",
         "audioUrl": "audio/south-park/154_i_m_sorry_i_thought_this_was_america.mp3"
       },
       {
-        "text": "I'm Your Father, Put It Back On",
+        "text": "I'm your father, put it back on",
         "character": "",
         "audioUrl": "audio/south-park/155_i_m_your_father_put_it_back_on.mp3"
       },
       {
-        "text": "I've Got Something In My Front Pocket",
+        "text": "I've got something in my front pocket",
         "character": "",
         "audioUrl": "audio/south-park/156_i_ve_got_something_in_my_front_pocket.mp3"
       },
@@ -40641,7 +31551,7 @@ const shows = [
         "audioUrl": "audio/south-park/158_if_you_don_t_like_america_you_can_get_out.mp3"
       },
       {
-        "text": "Ike French Fries",
+        "text": "Ike French fries",
         "character": "",
         "audioUrl": "audio/south-park/160_ike_french_fries.mp3"
       },
@@ -40651,7 +31561,7 @@ const shows = [
         "audioUrl": "audio/south-park/161_ike_south_park.mp3"
       },
       {
-        "text": "In The Ghetto",
+        "text": "In the Ghetto",
         "character": "",
         "audioUrl": "audio/south-park/163_in_the_ghetto.mp3"
       },
@@ -40661,7 +31571,7 @@ const shows = [
         "audioUrl": "audio/south-park/166_it_doesn_t_matter_who_we_are.mp3"
       },
       {
-        "text": "It's All Gone",
+        "text": "It's all gone",
         "character": "",
         "audioUrl": "audio/south-park/168_it_s_all_gone.mp3"
       },
@@ -40676,17 +31586,17 @@ const shows = [
         "audioUrl": "audio/south-park/175_john_travolta_tells_tom_cruise_to_come_out_of_the_closet.mp3"
       },
       {
-        "text": "Just Get It, Man",
+        "text": "Just get it, man",
         "character": "",
         "audioUrl": "audio/south-park/176_just_get_it_man.mp3"
       },
       {
-        "text": "Kyle and Rebecca Kiss",
+        "text": "Kyle and Rebecca kiss",
         "character": "",
         "audioUrl": "audio/south-park/178_kyle_and_rebecca_kiss.mp3"
       },
       {
-        "text": "Kyle's Mom is a Big Fat Bitch",
+        "text": "Kyle's mom is a big fat bitch",
         "character": "",
         "audioUrl": "audio/south-park/179_kyle_s_mom_is_a_big_fat_bitch.mp3"
       },
@@ -40716,7 +31626,7 @@ const shows = [
         "audioUrl": "audio/south-park/184_let_me_get_high_then_i_ll_remember.mp3"
       },
       {
-        "text": "Loan Me Some Lipstick",
+        "text": "Loan me some lipstick",
         "character": "",
         "audioUrl": "audio/south-park/187_loan_me_some_lipstick.mp3"
       },
@@ -40751,7 +31661,7 @@ const shows = [
         "audioUrl": "audio/south-park/199_mom_bathroom.mp3"
       },
       {
-        "text": "My Girl Ain't No Hobbit",
+        "text": "My girl ain't no hobbit",
         "character": "",
         "audioUrl": "audio/south-park/203_my_girl_ain_t_no_hobbit.mp3"
       },
@@ -40771,12 +31681,12 @@ const shows = [
         "audioUrl": "audio/south-park/210_no_no_n_no_no.mp3"
       },
       {
-        "text": "No School On Columbus Day",
+        "text": "No school on Columbus Day",
         "character": "",
         "audioUrl": "audio/south-park/211_no_school_on_columbus_day.mp3"
       },
       {
-        "text": "No Way He Just Said That",
+        "text": "No way he just said that",
         "character": "",
         "audioUrl": "audio/south-park/214_no_way_he_just_said_that.mp3"
       },
@@ -40816,7 +31726,7 @@ const shows = [
         "audioUrl": "audio/south-park/242_putting_out_fire_with_pee.mp3"
       },
       {
-        "text": "Rabble Rabble Rabble",
+        "text": "Rabble rabble rabble",
         "character": "",
         "audioUrl": "audio/south-park/243_rabble_rabble_rabble.mp3"
       },
@@ -40831,7 +31741,7 @@ const shows = [
         "audioUrl": "audio/south-park/245_randy_delivers_bad_news_grandma_died.mp3"
       },
       {
-        "text": "Randy Marsh's Record Poop",
+        "text": "Randy Marsh's record poop",
         "character": "",
         "audioUrl": "audio/south-park/247_randy_marsh_s_record_poop.mp3"
       },
@@ -40851,7 +31761,7 @@ const shows = [
         "audioUrl": "audio/south-park/253_recess_is_over_back_to_class.mp3"
       },
       {
-        "text": "Road Warrior Gas",
+        "text": "Road Warrior gas",
         "character": "",
         "audioUrl": "audio/south-park/258_road_warrior_gas.mp3"
       },
@@ -40871,7 +31781,7 @@ const shows = [
         "audioUrl": "audio/south-park/261_sars_blankets.mp3"
       },
       {
-        "text": "Sars Goes Viral",
+        "text": "SARS goes viral",
         "character": "",
         "audioUrl": "audio/south-park/262_sars_goes_viral.mp3"
       },
@@ -40896,7 +31806,7 @@ const shows = [
         "audioUrl": "audio/south-park/276_sleeping.mp3"
       },
       {
-        "text": "Smokin' Weed Right in Front of a Cop",
+        "text": "Smokin' weed right in front of a cop",
         "character": "",
         "audioUrl": "audio/south-park/277_smokin_weed_right_in_front_of_a_cop.mp3"
       },
@@ -40916,22 +31826,22 @@ const shows = [
         "audioUrl": "audio/south-park/283_south_park.mp3"
       },
       {
-        "text": "South Park Wiener Chorus",
+        "text": "Wiener chorus",
         "character": "",
         "audioUrl": "audio/south-park/285_south_park_wiener_chorus.mp3"
       },
       {
-        "text": "South Park Mom Song",
+        "text": "Mom song",
         "character": "",
         "audioUrl": "audio/south-park/288_south_park_mom_song.mp3"
       },
       {
-        "text": "South Park RE TUS",
+        "text": "RE TUS",
         "character": "",
         "audioUrl": "audio/south-park/289_south_park_re_tus.mp3"
       },
       {
-        "text": "Stanley, Are You Okay?",
+        "text": "Stanley, are you okay?",
         "character": "",
         "audioUrl": "audio/south-park/292_stanley_are_you_okay.mp3"
       },
@@ -40981,7 +31891,7 @@ const shows = [
         "audioUrl": "audio/south-park/329_tom_cruise_is_a_fudge_packer.mp3"
       },
       {
-        "text": "Treat Internet with RESPECT",
+        "text": "Treat internet with respect",
         "character": "",
         "audioUrl": "audio/south-park/331_treat_internet_with_respect.mp3"
       },
@@ -41006,7 +31916,7 @@ const shows = [
         "audioUrl": "audio/south-park/336_turn_left.mp3"
       },
       {
-        "text": "We're Having It Out",
+        "text": "We're having it out",
         "character": "",
         "audioUrl": "audio/south-park/345_we_re_having_it_out.mp3"
       },
@@ -41021,7 +31931,7 @@ const shows = [
         "audioUrl": "audio/south-park/355_what_the_fuck_is_this.mp3"
       },
       {
-        "text": "What's The Big Item This Black Friday",
+        "text": "What's the big item this Black Friday",
         "character": "",
         "audioUrl": "audio/south-park/362_what_s_the_big_item_this_black_friday.mp3"
       },
@@ -41046,7 +31956,7 @@ const shows = [
         "audioUrl": "audio/south-park/368_wow_penis_so_big.mp3"
       },
       {
-        "text": "You Got Nothing On Us",
+        "text": "You got nothing on us",
         "character": "",
         "audioUrl": "audio/south-park/381_you_got_nothing_on_us.mp3"
       },
@@ -41066,7 +31976,7 @@ const shows = [
         "audioUrl": "audio/south-park/387_you_make_little_girls_pt1.mp3"
       },
       {
-        "text": "You May Notice Some Changes To Your Country",
+        "text": "You may notice some changes to your country",
         "character": "",
         "audioUrl": "audio/south-park/388_you_may_notice_some_changes_to_your_country.mp3"
       },
@@ -41134,7 +32044,7 @@ const shows = [
         "audioUrl": "audio/community/018_boo_gay_gay_gay_gay_gay_so_gay_dark_night_club_driving_music.mp3"
       },
       {
-        "text": "Breakfast Club Quote",
+        "text": "Breakfast Club quote",
         "character": "",
         "audioUrl": "audio/community/022_breakfast_club_quote.mp3"
       },
@@ -41179,12 +32089,12 @@ const shows = [
         "audioUrl": "audio/community/040_community_sup_what_s_up.mp3"
       },
       {
-        "text": "Community Fiddla Yo",
+        "text": "Fiddla yo",
         "character": "",
         "audioUrl": "audio/community/041_community_fiddla_yo.mp3"
       },
       {
-        "text": "Conflicts Like These",
+        "text": "Conflicts like these",
         "character": "",
         "audioUrl": "audio/community/045_conflicts_like_these.mp3"
       },
@@ -41204,7 +32114,7 @@ const shows = [
         "audioUrl": "audio/community/053_daybreak_humming.mp3"
       },
       {
-        "text": "Dean Pelton's Rap",
+        "text": "Dean Pelton's rap",
         "character": "",
         "audioUrl": "audio/community/054_dean_pelton_s_rap.mp3"
       },
@@ -41219,7 +32129,7 @@ const shows = [
         "audioUrl": "audio/community/056_disgrace_and_the_sooner_you_leave_this_lovely_community_the.mp3"
       },
       {
-        "text": "Do You Hate This",
+        "text": "Do you hate this",
         "character": "",
         "audioUrl": "audio/community/060_do_you_hate_this.mp3"
       },
@@ -41229,7 +32139,7 @@ const shows = [
         "audioUrl": "audio/community/061_don_t_use_that_tone_with_me_don_t_use_that_tone_with_me_sure.mp3"
       },
       {
-        "text": "Community pants song",
+        "text": "Pants song",
         "character": "",
         "audioUrl": "audio/community/065_elroy_community_pants_song.mp3"
       },
@@ -41239,7 +32149,7 @@ const shows = [
         "audioUrl": "audio/community/066_even_shadow_shadow.mp3"
       },
       {
-        "text": "Every Man Should Be Punched In The Face",
+        "text": "Every man should be punched in the face",
         "character": "",
         "audioUrl": "audio/community/067_every_man_should_be_punched_in_the_face.mp3"
       },
@@ -41269,12 +32179,12 @@ const shows = [
         "audioUrl": "audio/community/072_exchange_rate_but_it_s_springtime_and_i_thought_i_might_move.mp3"
       },
       {
-        "text": "Gay Gay Gay",
+        "text": "Gay gay gay",
         "character": "",
         "audioUrl": "audio/community/077_gay_gay_gay.mp3"
       },
       {
-        "text": "Giant Thumb And A Turtle Neck",
+        "text": "Giant thumb and a turtle neck",
         "character": "",
         "audioUrl": "audio/community/082_giant_thumb_and_a_turtle_neck.mp3"
       },
@@ -41314,7 +32224,7 @@ const shows = [
         "audioUrl": "audio/community/107_hello.mp3"
       },
       {
-        "text": "He Took All The Winter Doodles",
+        "text": "He took all the winter doodles",
         "character": "",
         "audioUrl": "audio/community/110_hi_hi_he_took_all_the_winter_doodles.mp3"
       },
@@ -41324,7 +32234,7 @@ const shows = [
         "audioUrl": "audio/community/112_i_always_like_naseem_taleb_framing_this_where_he_said_with_m.mp3"
       },
       {
-        "text": "I Can Explain, Let Me Explain",
+        "text": "I can explain, let me explain",
         "character": "",
         "audioUrl": "audio/community/116_i_can_explain_let_me_explain.mp3"
       },
@@ -41339,82 +32249,82 @@ const shows = [
         "audioUrl": "audio/community/119_i_control_your_lives_and_there_is_nothing_you_can_do.mp3"
       },
       {
-        "text": "I Couldn't Think Of Another Word",
+        "text": "I couldn't think of another word",
         "character": "",
         "audioUrl": "audio/community/120_i_couldn_t_think_of_another_word.mp3"
       },
       {
-        "text": "My Whole Brain Is Crying",
+        "text": "My whole brain is crying",
         "character": "",
         "audioUrl": "audio/community/125_i_don_t_know_how_to_do_my_whole_brain_is_crying.mp3"
       },
       {
-        "text": "I Don't Know What That Was",
+        "text": "I don't know what that was",
         "character": "",
         "audioUrl": "audio/community/128_i_don_t_know_what_that_was_i_don_t_i_don_t_know_what_that_wo.mp3"
       },
       {
-        "text": "I Don't Know What That Was!",
+        "text": "I don't know what that was!",
         "character": "",
         "audioUrl": "audio/community/129_i_don_t_know_what_that_was.mp3"
       },
       {
-        "text": "I Don't Know Who Told You",
+        "text": "I don't know who told you",
         "character": "",
         "audioUrl": "audio/community/132_i_don_t_know_who_told_you.mp3"
       },
       {
-        "text": "Giant Thumb In A Turtleneck",
+        "text": "Giant thumb in a turtleneck",
         "character": "",
         "audioUrl": "audio/community/135_i_don_t_see_what_all_the_fuss_was_about_giant_thumb_in_a_tur.mp3"
       },
       {
-        "text": "I Hate Being Kept In The Dark",
+        "text": "I hate being kept in the dark",
         "character": "",
         "audioUrl": "audio/community/144_i_hate_being_kept_in_the_dark_waiting_speculating_useless.mp3"
       },
       {
-        "text": "I Have Changnesia",
+        "text": "I have Changnesia",
         "character": "",
         "audioUrl": "audio/community/145_i_have_changnesia.mp3"
       },
       {
-        "text": "I Have Something Better Than Soap",
+        "text": "I have something better than soap",
         "character": "",
         "audioUrl": "audio/community/147_i_have_something_better_than_soap.mp3"
       },
       {
-        "text": "I Just Pretended I Knew",
+        "text": "I just pretended I knew",
         "character": "",
         "audioUrl": "audio/community/150_i_just_pretended_i_knew.mp3"
       },
       {
-        "text": "I Pretended I Knew",
+        "text": "I pretended I knew",
         "character": "",
         "audioUrl": "audio/community/151_i_just_pretended_like_i_knew_because_i_wanted_just_to_think.mp3"
       },
       {
-        "text": "Death Is A Natural Part Of Life",
+        "text": "Death is a natural part of life",
         "character": "",
         "audioUrl": "audio/community/153_i_know_it_s_sad_but_death_is_a_natural_part_of_life_and_by_t.mp3"
       },
       {
-        "text": "I Masturbated Everywhere",
+        "text": "I masturbated everywhere",
         "character": "",
         "audioUrl": "audio/community/159_i_masturbated_everywhere.mp3"
       },
       {
-        "text": "I See Your Value Now",
+        "text": "I see your value now",
         "character": "",
         "audioUrl": "audio/community/163_i_see_your_value_now.mp3"
       },
       {
-        "text": "It's My Penis",
+        "text": "It's my penis",
         "character": "",
         "audioUrl": "audio/community/170_i_ll_show_you_the_tool_that_s_most_important_to_our_survival.mp3"
       },
       {
-        "text": "Thought Police Rant",
+        "text": "Thought police rant",
         "character": "",
         "audioUrl": "audio/community/172_i_ll_start_with_a_quick_look_see_into_someones_bag_and_then.mp3"
       },
@@ -41424,27 +32334,27 @@ const shows = [
         "audioUrl": "audio/community/177_i_m_agnostic.mp3"
       },
       {
-        "text": "Agnostic, Lazy Man's Atheist",
+        "text": "Agnostic, lazy man's atheist",
         "character": "",
         "audioUrl": "audio/community/178_i_m_agnostic_agnostic_lazy_man_s_atheist.mp3"
       },
       {
-        "text": "I Loved You In Anne",
+        "text": "I loved you in Anne",
         "character": "",
         "audioUrl": "audio/community/183_i_m_just_saying_i_loved_you_in_anne.mp3"
       },
       {
-        "text": "I Thought This Was America",
+        "text": "I thought this was America",
         "character": "",
         "audioUrl": "audio/community/187_i_m_not_allowed_to_stand_up_for_myself_i_thought_this_was_am.mp3"
       },
       {
-        "text": "Like I Can't Get Erections",
+        "text": "Like I can't get erections",
         "character": "",
         "audioUrl": "audio/community/190_i_m_sick_of_you_threatening_me_and_talking_to_me_like_a_kid.mp3"
       },
       {
-        "text": "I'm Sick Of You Treating Me Like",
+        "text": "I'm sick of you treating me like",
         "character": "",
         "audioUrl": "audio/community/191_i_m_sick_of_you_treating_me_like.mp3"
       },
@@ -41459,47 +32369,47 @@ const shows = [
         "audioUrl": "audio/community/193_i_m_staying_in_the_sleep_study_lab_all_i_have_to_do_is_wake.mp3"
       },
       {
-        "text": "If You Woke Up As A Donut",
+        "text": "If you woke up as a donut",
         "character": "",
         "audioUrl": "audio/community/198_if_i_ever_like_woke_up_as_a_donor_you_would_eat_yourself_i_w.mp3"
       },
       {
-        "text": "I'll Say The Whole Word Next Time",
+        "text": "I'll say the whole word next time",
         "character": "",
         "audioUrl": "audio/community/199_if_i_never_knew_you_were_a_jew_i_say_the_whole_word_next_tim.mp3"
       },
       {
-        "text": "Party Must Be Saved",
+        "text": "Party must be saved",
         "character": "",
         "audioUrl": "audio/community/200_if_i_stay_there_can_be_no_party_i_must_be_out_there_in_the_n.mp3"
       },
       {
-        "text": "If I Stay, There Can Be No Party",
+        "text": "If I stay, there can be no party",
         "character": "",
         "audioUrl": "audio/community/201_if_i_stay_there_can_be_no_party.mp3"
       },
       {
-        "text": "If I Woke Up As A Donut",
+        "text": "If I woke up as a donut",
         "character": "",
         "audioUrl": "audio/community/202_if_i_woke_up_as_a_donut.mp3"
       },
       {
-        "text": "It All Starts With",
+        "text": "It all starts with",
         "character": "",
         "audioUrl": "audio/community/204_it_all_starts_with.mp3"
       },
       {
-        "text": "A Quick Look-See Into Someone's Bag",
+        "text": "A quick look-see into someone's bag",
         "character": "",
         "audioUrl": "audio/community/205_it_all_starts_with_a_quick_look_see_into_someone_s_bag.mp3"
       },
       {
-        "text": "Cool Cool Cool",
+        "text": "Cool cool cool",
         "character": "",
         "audioUrl": "audio/community/210_it_s_cool_cool_cool_cool_cool_cool_cool_cool_cool_cool_cool.mp3"
       },
       {
-        "text": "Jesus Was One Of Us",
+        "text": "Jesus was one of us",
         "character": "",
         "audioUrl": "audio/community/214_jesus_was_one_of_us.mp3"
       },
@@ -41574,7 +32484,7 @@ const shows = [
         "audioUrl": "audio/community/259_panic.mp3"
       },
       {
-        "text": "Pierce Psychic Community",
+        "text": "Pierce psychic community",
         "character": "",
         "audioUrl": "audio/community/263_pierce_psychic_community.mp3"
       },
@@ -41694,12 +32604,12 @@ const shows = [
         "audioUrl": "audio/community/341_took_all_the_cookies.mp3"
       },
       {
-        "text": "Troy and Abed Rap",
+        "text": "Troy and Abed rap",
         "character": "",
         "audioUrl": "audio/community/342_troy_and_abed_rap.mp3"
       },
       {
-        "text": "Troy and Abed Spanish Rap",
+        "text": "Troy and Abed Spanish rap",
         "character": "",
         "audioUrl": "audio/community/344_troynabed_spanishrap.mp3"
       },
@@ -41744,7 +32654,7 @@ const shows = [
         "audioUrl": "audio/community/358_we_re_trying_to_get_ready_for_the_fire_i_eat_i_can_t_think_o.mp3"
       },
       {
-        "text": "Well Well What Do You Know",
+        "text": "Well well what do you know",
         "character": "",
         "audioUrl": "audio/community/359_well_well_what_do_you_know.mp3"
       },
@@ -41809,7 +32719,7 @@ const shows = [
         "audioUrl": "audio/community/378_what_s_going_on_can_you_guys_hear_me_and_my_deaf_can_you_hea.mp3"
       },
       {
-        "text": "What's Taking So Long",
+        "text": "What's taking so long",
         "character": "",
         "audioUrl": "audio/community/379_what_s_taking_so_long.mp3"
       },
@@ -41819,12 +32729,12 @@ const shows = [
         "audioUrl": "audio/community/383_who_status_eston_sucios_you_are_dirty_too_still.mp3"
       },
       {
-        "text": "Why Did You Stop Talking",
+        "text": "Why did you stop talking",
         "character": "",
         "audioUrl": "audio/community/389_why_did_you_stop_talking.mp3"
       },
       {
-        "text": "Woo Some Chicks",
+        "text": "Woo some chicks",
         "character": "",
         "audioUrl": "audio/community/393_woo_some_chicks.mp3"
       },
@@ -41879,7 +32789,7 @@ const shows = [
         "audioUrl": "audio/community/420_you_know_what_i_got_for_christmas_it_was_a_banner_year_at_th.mp3"
       },
       {
-        "text": "You Made A Commitment",
+        "text": "You made a commitment",
         "character": "",
         "audioUrl": "audio/community/423_you_made_a_commitment.mp3"
       },
@@ -41947,11 +32857,6 @@ const shows = [
         "audioUrl": "audio/role-models/006_and_this_motherfucker_tried_to_grab_on_my_hang_down.mp3"
       },
       {
-        "text": "Aren't you dead yet?",
-        "character": "",
-        "audioUrl": "audio/role-models/009_aren_t_you_dead_yet.mp3"
-      },
-      {
         "text": "He rules the entire realm",
         "character": "",
         "audioUrl": "audio/role-models/012_because_he_s_the_king_and_he_rules_the_entire_realm.mp3"
@@ -41967,11 +32872,6 @@ const shows = [
         "audioUrl": "audio/role-models/016_but_i_can_t_come_home_right_now.mp3"
       },
       {
-        "text": "But I don't care",
-        "character": "",
-        "audioUrl": "audio/role-models/017_but_i_don_t_care.mp3"
-      },
-      {
         "text": "Cacedonia rules forever!",
         "character": "",
         "audioUrl": "audio/role-models/018_cacedonia_is_to_rule_forever.mp3"
@@ -41980,16 +32880,6 @@ const shows = [
         "text": "Give us a story",
         "character": "",
         "audioUrl": "audio/role-models/021_come_on_man_we_re_on_pins_and_needles_give_us_a_story.mp3"
-      },
-      {
-        "text": "Come on. Sing it!",
-        "character": "",
-        "audioUrl": "audio/role-models/025_come_on_sing_it.mp3"
-      },
-      {
-        "text": "Danny, you're not happy",
-        "character": "",
-        "audioUrl": "audio/role-models/028_danny_you_re_not_happy.mp3"
       },
       {
         "text": "Drugs bad, energy drinks good",
@@ -42022,16 +32912,6 @@ const shows = [
         "audioUrl": "audio/role-models/051_he_knows_not_i_m_here.mp3"
       },
       {
-        "text": "Hey, man!",
-        "character": "",
-        "audioUrl": "audio/role-models/054_hey_man.mp3"
-      },
-      {
-        "text": "Or as little time",
-        "character": "",
-        "audioUrl": "audio/role-models/056_hey_or_as_little_time.mp3"
-      },
-      {
         "text": "Sort of into politics",
         "character": "",
         "audioUrl": "audio/role-models/057_hillary_clinton_i_m_sort_of_into_politics.mp3"
@@ -42040,11 +32920,6 @@ const shows = [
         "text": "How many hours left?",
         "character": "",
         "audioUrl": "audio/role-models/061_how_many_hours_do_we_have_left.mp3"
-      },
-      {
-        "text": "Stop yapping away",
-        "character": "",
-        "audioUrl": "audio/role-models/064_i_can_t_take_it_anymore_with_you_yapping_away.mp3"
       },
       {
         "text": "I have a question, Wheeler",
@@ -42082,11 +32957,6 @@ const shows = [
         "audioUrl": "audio/role-models/086_i_m_not_wheeler_happy_in_some_brainless_job.mp3"
       },
       {
-        "text": "Race against the clock",
-        "character": "",
-        "audioUrl": "audio/role-models/096_it_s_the_ultimate_race_against_the_clock.mp3"
-      },
-      {
         "text": "Put your game face on",
         "character": "",
         "audioUrl": "audio/role-models/098_just_put_your_game_face_on.mp3"
@@ -42095,11 +32965,6 @@ const shows = [
         "text": "Kiss? Are you kidding?",
         "character": "",
         "audioUrl": "audio/role-models/100_kiss_are_you_kidding_no_god.mp3"
-      },
-      {
-        "text": "Long live the king",
-        "character": "",
-        "audioUrl": "audio/role-models/107_long_live_the_king.mp3"
       },
       {
         "text": "Magic healing potion",
@@ -42117,11 +32982,6 @@ const shows = [
         "audioUrl": "audio/role-models/114_my_fair_lady_esplen_goddess_of_navalore.mp3"
       },
       {
-        "text": "Don't mean to cause trouble",
-        "character": "",
-        "audioUrl": "audio/role-models/118_no_no_no_i_don_t_mean_to_cause_trouble.mp3"
-      },
-      {
         "text": "Oh yeah, I got it",
         "character": "",
         "audioUrl": "audio/role-models/123_no_wait_oh_yeah_i_got_it.mp3"
@@ -42137,49 +32997,14 @@ const shows = [
         "audioUrl": "audio/role-models/133_oh_i_m_sorry_augie_right_he_ll_be_out_in_a_minute.mp3"
       },
       {
-        "text": "Okay!",
-        "character": "",
-        "audioUrl": "audio/role-models/134_okay.mp3"
-      },
-      {
-        "text": "Okay. Thanks.",
-        "character": "",
-        "audioUrl": "audio/role-models/136_okay_thanks.mp3"
-      },
-      {
         "text": "Down like a sack of elderberries",
         "character": "",
         "audioUrl": "audio/role-models/137_one_slice_to_the_king_s_chest_and_down_like_a_sack_of_elderb.mp3"
       },
       {
-        "text": "Ouch. Oh yeah.",
-        "character": "",
-        "audioUrl": "audio/role-models/138_ouch_ouch_oh_yeah_yeah.mp3"
-      },
-      {
         "text": "I'll pour your juice out",
         "character": "",
         "audioUrl": "audio/role-models/141_please_open_the_door_or_i_ll_pour_your_juice_out.mp3"
-      },
-      {
-        "text": "Schedule wise",
-        "character": "",
-        "audioUrl": "audio/role-models/151_schedule_wise_you_can_elect_to_spend.mp3"
-      },
-      {
-        "text": "Stay off drugs",
-        "character": "",
-        "audioUrl": "audio/role-models/160_stay_off_drugs.mp3"
-      },
-      {
-        "text": "Sure. Great.",
-        "character": "",
-        "audioUrl": "audio/role-models/161_sure_great.mp3"
-      },
-      {
-        "text": "The Demon",
-        "character": "",
-        "audioUrl": "audio/role-models/170_the_demon.mp3"
       },
       {
         "text": "Guy with an acoustic guitar",
@@ -42222,29 +33047,14 @@ const shows = [
         "audioUrl": "audio/role-models/208_yeah_oh_snap_no.mp3"
       },
       {
-        "text": "Yeah. Totally.",
-        "character": "",
-        "audioUrl": "audio/role-models/209_yeah_totally.mp3"
-      },
-      {
         "text": "I already killed you",
         "character": "",
         "audioUrl": "audio/role-models/214_you_can_t_kill_me_after_i_already_killed_you.mp3"
       },
       {
-        "text": "You guys are fucked",
-        "character": "",
-        "audioUrl": "audio/role-models/216_you_guys_are_fucked.mp3"
-      },
-      {
         "text": "Make do with three each",
         "character": "",
         "audioUrl": "audio/role-models/220_you_know_what_don_t_worry_about_it_we_ll_make_do_with_three.mp3"
-      },
-      {
-        "text": "You're the man, Danny!",
-        "character": "",
-        "audioUrl": "audio/role-models/229_you_re_the_man_danny.mp3"
       }
     ]
   },
@@ -42285,11 +33095,6 @@ const shows = [
         "audioUrl": "audio/knocked-up/005_fuck_you_hormones.mp3"
       },
       {
-        "text": "Get out!",
-        "character": "",
-        "audioUrl": "audio/knocked-up/006_get_out.mp3"
-      },
-      {
         "text": "He looks like Jon Favreau",
         "character": "",
         "audioUrl": "audio/knocked-up/007_he_looks_like_fatty_arbuckle_he_looks_like_jon_favreau.mp3"
@@ -42308,11 +33113,6 @@ const shows = [
         "text": "Don't let the door hit your vagina",
         "character": "",
         "audioUrl": "audio/knocked-up/010_hey_guys_don_t_let_the_door_hit_in_the_vagina_on_the_way_out.mp3"
-      },
-      {
-        "text": "Door hit you in the vagina",
-        "character": "",
-        "audioUrl": "audio/knocked-up/011_hey_pete_don_t_let_the_door_hit_you_in_the_vagina_on_the_way.mp3"
       },
       {
         "text": "Good morning, 3 boyfriends",
@@ -42415,132 +33215,102 @@ const shows = [
         "audioUrl": "audio/knocked-up/031_pink_eye.mp3"
       },
       {
-        "text": "Kids Go Ape Shit Over Bubbles",
+        "text": "Kids go ape shit over bubbles",
         "character": "",
         "audioUrl": "audio/knocked-up/032_seem_to_love_bubbles_oh_god_they_go_ape_shit_over_bubbles_re.mp3"
       },
       {
-        "text": "She Like The Way Your Dick Taste",
-        "character": "",
-        "audioUrl": "audio/knocked-up/033_she_like_the_way_your_dick_taste.mp3"
-      },
-      {
-        "text": "Your New Boyfriend?",
+        "text": "Your new boyfriend?",
         "character": "",
         "audioUrl": "audio/knocked-up/034_so_he_came_over_for_breakfast_because_he_s_your_new_boyfrien.mp3"
       },
       {
-        "text": "Come To The Gynecologist",
+        "text": "Come to the gynecologist",
         "character": "",
         "audioUrl": "audio/knocked-up/035_so_what_happens_now_i_don_t_know_how_this_works_i_m_going_to.mp3"
       },
       {
-        "text": "Sex Offenders In Our Neighborhood",
+        "text": "Sex offenders in our neighborhood",
         "character": "",
         "audioUrl": "audio/knocked-up/036_these_are_all_the_sex_offenders_in_our_neighborhood_looks_li.mp3"
       },
       {
-        "text": "They Said That A Lot. That Sucks.",
+        "text": "They said that a lot. That sucks.",
         "character": "",
         "audioUrl": "audio/knocked-up/037_they_said_that_a_lot_that_sucks.mp3"
       },
       {
-        "text": "This Is My Time Machine",
+        "text": "This is my time machine",
         "character": "",
         "audioUrl": "audio/knocked-up/038_this_is_my_time_machine.mp3"
       },
       {
-        "text": "I'm Gonna Hurl",
+        "text": "I'm gonna hurl",
         "character": "",
         "audioUrl": "audio/knocked-up/039_this_one_makes_my_pee_smell_no_more_bubbly_stuff_that_s_maki.mp3"
       },
       {
-        "text": "Tighter",
-        "character": "",
-        "audioUrl": "audio/knocked-up/040_tighter.mp3"
-      },
-      {
-        "text": "We Wants To Rear Your Child",
-        "character": "",
-        "audioUrl": "audio/knocked-up/041_we_wants_to_rear_your_child.mp3"
-      },
-      {
-        "text": "Well Played Sir",
-        "character": "",
-        "audioUrl": "audio/knocked-up/042_well_played_sir.mp3"
-      },
-      {
-        "text": "Dressed Like A Cholo On Easter",
+        "text": "Dressed like a cholo on Easter",
         "character": "",
         "audioUrl": "audio/knocked-up/043_well_that_was_fast_you_pussy_i_m_a_and_you_re_the_one_that_g.mp3"
       },
       {
-        "text": "Treating My Kids Like Dogs",
+        "text": "Treating my kids like dogs",
         "character": "",
         "audioUrl": "audio/knocked-up/044_what_do_you_think_of_him_he_s_funny_right_hmm_snatch_all_rig.mp3"
       },
       {
-        "text": "Shouldn't Have Given Him Meth",
+        "text": "Shouldn't have given him meth",
         "character": "",
         "audioUrl": "audio/knocked-up/045_what_is_there_left_to_want_i_get_to_go_to_legoland_say_it_do.mp3"
       },
       {
-        "text": "What The Hell Is This?",
+        "text": "What the hell is this?",
         "character": "",
         "audioUrl": "audio/knocked-up/046_what_is_this_what_the_hell_is_this_i_think_you_picked_up_the.mp3"
       },
       {
-        "text": "If He Never Existed",
+        "text": "If he never existed",
         "character": "",
         "audioUrl": "audio/knocked-up/047_when_you_look_at_me_do_you_not_think_at_all_like_you_know_if.mp3"
       },
       {
-        "text": "Where Do Babies Come From?",
+        "text": "Where do babies come from?",
         "character": "",
         "audioUrl": "audio/knocked-up/048_where_do_babies_come_from.mp3"
       },
       {
-        "text": "We're Listening To Rent",
+        "text": "We're listening to Rent",
         "character": "",
         "audioUrl": "audio/knocked-up/049_who_wants_to_hear_some_music_i_want_to_hear_when_i_wanna_hea.mp3"
       },
       {
-        "text": "Women Can't Get Pregnant On Top",
-        "character": "",
-        "audioUrl": "audio/knocked-up/050_women_can_t_get_pregnant_on_top.mp3"
-      },
-      {
-        "text": "You Look A Lot Like Your Sister",
+        "text": "You look a lot like your sister",
         "character": "",
         "audioUrl": "audio/knocked-up/051_you_do_look_a_lot_like_your_sister.mp3"
       },
       {
-        "text": "You Stare At Your Balls",
-        "character": "",
-        "audioUrl": "audio/knocked-up/052_you_get_so_bored_you_stare_at_your_balls.mp3"
-      },
-      {
-        "text": "You Googled Murder?",
+        "text": "You googled murder?",
         "character": "",
         "audioUrl": "audio/knocked-up/053_you_googled_murder_why_i_mean_what_did_it_say_show_pictures.mp3"
       },
       {
-        "text": "Stop Commenting On How Fat I Am",
+        "text": "Stop commenting on how fat I am",
         "character": "",
         "audioUrl": "audio/knocked-up/054_you_should_probably_not_comment_so_much_about_how_fat_i_am_r.mp3"
       },
       {
-        "text": "You Have A Thyroid Problem",
+        "text": "You have a thyroid problem",
         "character": "",
         "audioUrl": "audio/knocked-up/055_you_think_i_m_getting_away_with_it_well_if_you_re_standing_n.mp3"
       },
       {
-        "text": "Go To Disneyland",
+        "text": "Go to Disneyland",
         "character": "",
         "audioUrl": "audio/knocked-up/056_you_want_a_good_time_you_go_to_disneyland_all_right_go_to_fr.mp3"
       },
       {
-        "text": "I'm Just Really Constipated",
+        "text": "I'm just really constipated",
         "character": "",
         "audioUrl": "audio/knocked-up/057_you_want_sex_yeah_well_this_is_not_sound_good_at_all_right_n.mp3"
       }
@@ -42611,12 +33381,12 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "Did you just call me a Jive Turkey?",
+        "text": "Did you just call me a jive turkey?",
         "character": "",
         "audioUrl": "audio/semi-pro/001_did_you_just_call_me_a_jive_turkey.mp3"
       },
       {
-        "text": "ELE Everybody Love Everybody",
+        "text": "ELE everybody love everybody",
         "character": "",
         "audioUrl": "audio/semi-pro/002_ele_everybody_love_everybody.mp3"
       },
@@ -42679,16 +33449,6 @@ const shows = [
         "audioUrl": "audio/napoleon-dynamite/001_a_frickin_12_gauge.mp3"
       },
       {
-        "text": "Are you serious?",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/002_are_you_serious.mp3"
-      },
-      {
-        "text": "Are you still going to give your speech tomorrow",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/003_are_you_still_going_to_give_your_speech_tomorrow.mp3"
-      },
-      {
         "text": "Ate all the frickin chips, Kip!",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/004_ate_all_the_frickin_chips_kip.mp3"
@@ -42707,16 +33467,6 @@ const shows = [
         "text": "Bow to your sensei",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/007_bow_to_your_sensei.mp3"
-      },
-      {
-        "text": "Build her a cake or something",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/008_build_her_a_cake_or_something.mp3"
-      },
-      {
-        "text": "But my lips hurt real bad",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/009_but_my_lips_hurt_real_bad.mp3"
       },
       {
         "text": "Can I have your tots",
@@ -42774,16 +33524,6 @@ const shows = [
         "audioUrl": "audio/napoleon-dynamite/020_dang.mp3"
       },
       {
-        "text": "Did you take a dump in your bed last night",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/021_did_you_take_a_dump_in_your_bed_last_night.mp3"
-      },
-      {
-        "text": "Do the chickens have large talons",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/022_do_the_chickens_have_large_talons.mp3"
-      },
-      {
         "text": "Do the chickens have large talons?",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/023_do_the_chickens_have_large_talons.mp3"
@@ -42799,19 +33539,9 @@ const shows = [
         "audioUrl": "audio/napoleon-dynamite/026_dump_in_the_bed.mp3"
       },
       {
-        "text": "Fine!",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/027_fine.mp3"
-      },
-      {
         "text": "Freakin Idiot",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/028_freakin_idiot.mp3"
-      },
-      {
-        "text": "Get off my property I'll call the cops on you",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/029_get_off_my_property_i_ll_call_the_cops_on_you.mp3"
       },
       {
         "text": "Gibberish",
@@ -42819,74 +33549,9 @@ const shows = [
         "audioUrl": "audio/napoleon-dynamite/030_gibberish.mp3"
       },
       {
-        "text": "Girls only want boyfriends who have great skills",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/031_girls_only_want_boyfriends_have_great_skills.mp3"
-      },
-      {
-        "text": "Go for it",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/033_go_for_it.mp3"
-      },
-      {
-        "text": "Gosh",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/034_gosh.mp3"
-      },
-      {
-        "text": "Grandma said you're supposed to go home",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/035_grandma_just_called_and_said_you_re_supposed_to_go_home.mp3"
-      },
-      {
-        "text": "Gross",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/036_gross.mp3"
-      },
-      {
-        "text": "Gross!",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/037_gross.mp3"
-      },
-      {
         "text": "Happy hands club",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/038_happy_hands_club.mp3"
-      },
-      {
-        "text": "Have you ever heard of nylon polymer",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/039_have_you_ever_heard_of_nylon_polymer.mp3"
-      },
-      {
-        "text": "Have you heard about the dance",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/040_have_you_heard_about_the_dance.mp3"
-      },
-      {
-        "text": "Heck yes I did.",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/041_heck_yes_i_did.mp3"
-      },
-      {
-        "text": "Hello",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/042_hello.mp3"
-      },
-      {
-        "text": "Hey",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/043_hey.mp3"
-      },
-      {
-        "text": "Hey can I have one of your key chains",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/044_hey_can_i_have_one_of_your_key_chains.mp3"
-      },
-      {
-        "text": "Hold on I forgot to put in the crystals",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/045_hold_on_i_forgot_to_put_in_the_crystals.mp3"
       },
       {
         "text": "Throw a football over the mountains",
@@ -42899,29 +33564,9 @@ const shows = [
         "audioUrl": "audio/napoleon-dynamite/047_how_to_get_my_haircut_at_the_cotton_corral.mp3"
       },
       {
-        "text": "How's it going",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/048_how_s_it_going.mp3"
-      },
-      {
-        "text": "How's your neck",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/049_how_s_your_neck.mp3"
-      },
-      {
         "text": "Hunting wolverines",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/050_hunting_wolverines.mp3"
-      },
-      {
-        "text": "I can make that much money in 5 seconds",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/051_i_can_make_that_much_money_in_5_seconds.mp3"
-      },
-      {
-        "text": "I caught you a delicious bass",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/052_i_caught_you_a_delicious_bass.mp3"
       },
       {
         "text": "I don't feel very good",
@@ -42929,39 +33574,14 @@ const shows = [
         "audioUrl": "audio/napoleon-dynamite/053_i_don_t_feel_very_good.mp3"
       },
       {
-        "text": "I don't understand a word you just said",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/054_i_don_t_understand_a_word_you_just_said.mp3"
-      },
-      {
         "text": "I forgot to put in the crystals",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/055_i_forgot_to_put_in_the_crystals.mp3"
       },
       {
-        "text": "I got sick",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/056_i_got_sick.mp3"
-      },
-      {
-        "text": "Things are getting pretty serious",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/057_i_guess_we_could_say_things_are_getting_pretty_serious.mp3"
-      },
-      {
-        "text": "I like her bangs",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/058_i_like_her_bangs.mp3"
-      },
-      {
         "text": "I like your sleeves, they're real big",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/059_i_like_your_sleeves_they_re_real_big.mp3"
-      },
-      {
-        "text": "I need you to give me a ride in an hour",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/060_i_need_you_to_give_me_a_ride_in_an_hour.mp3"
       },
       {
         "text": "I say love, it is a flower",
@@ -42979,19 +33599,9 @@ const shows = [
         "audioUrl": "audio/napoleon-dynamite/063_i_want_that.mp3"
       },
       {
-        "text": "I wish you'd get out of my life and shut up",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/064_i_wish_you_get_out_my_life_and_shut_up.mp3"
-      },
-      {
         "text": "I'm voting for Pedro Sanchez",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/066_i_m_voting_for_pedro_sanchez.mp3"
-      },
-      {
-        "text": "Idiot",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/067_idiot.mp3"
       },
       {
         "text": "Idiot!",
@@ -42999,29 +33609,9 @@ const shows = [
         "audioUrl": "audio/napoleon-dynamite/068_idiot.mp3"
       },
       {
-        "text": "Is a sledgehammer",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/069_is_a_sledgehammer.mp3"
-      },
-      {
         "text": "Is grandma there",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/070_is_grandma_there.mp3"
-      },
-      {
-        "text": "Is pedro there",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/071_is_pedro_there.mp3"
-      },
-      {
-        "text": "Is she hot?",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/072_is_she_hot.mp3"
-      },
-      {
-        "text": "It's like a dollar an hour",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/073_it_s_like_a_dollar_an_hour.mp3"
       },
       {
         "text": "It's pretty cool, I guess",
@@ -43029,24 +33619,9 @@ const shows = [
         "audioUrl": "audio/napoleon-dynamite/074_it_s_pretty_cool_i_guess.mp3"
       },
       {
-        "text": "Just kinda TO'd",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/075_just_kinda_to_d.mp3"
-      },
-      {
         "text": "Just listen to your heart",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/076_just_listen_to_your_heart.mp3"
-      },
-      {
-        "text": "K, bye.",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/077_k_bye.mp3"
-      },
-      {
-        "text": "Kids Screaming",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/078_kids_screaming.mp3"
       },
       {
         "text": "Kip and LaFawnduh's first date",
@@ -43059,44 +33634,9 @@ const shows = [
         "audioUrl": "audio/napoleon-dynamite/080_kip_goes_bowling.mp3"
       },
       {
-        "text": "Large Talons",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/081_large_tallons.mp3"
-      },
-      {
         "text": "Detonators to blow Nessie out of the water",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/082_last_week_japanese_scientist_six_place_place_explosive_deton.mp3"
-      },
-      {
-        "text": "Looks like a medieval warrior",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/083_looks_like_a_medieval_warrior.mp3"
-      },
-      {
-        "text": "Lucky",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/084_lucky.mp3"
-      },
-      {
-        "text": "Make yourself a dang quesadilla",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/085_make_yourself_a_dang_quesadilla.mp3"
-      },
-      {
-        "text": "Making some sweet moola with Uncle Rico",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/086_making_some_sweet_moola_with_uncle_rico.mp3"
-      },
-      {
-        "text": "Maybe I did maybe I didn't",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/087_maybe_i_did_maybe_i_didn_t.mp3"
-      },
-      {
-        "text": "Me too",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/088_me_too.mp3"
       },
       {
         "text": "Mole",
@@ -43104,44 +33644,9 @@ const shows = [
         "audioUrl": "audio/napoleon-dynamite/089_mole.mp3"
       },
       {
-        "text": "My lips hurt real bad",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/090_my_lips_hurt_real_bad.mp3"
-      },
-      {
-        "text": "Napoleon Dynamite",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/091_napoleon_dynamite.mp3"
-      },
-      {
-        "text": "No",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/092_no.mp3"
-      },
-      {
         "text": "Nunchuck skills",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/093_nunchuck_skills.mp3"
-      },
-      {
-        "text": "Oh",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/094_oh.mp3"
-      },
-      {
-        "text": "OK",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/095_ok.mp3"
-      },
-      {
-        "text": "Peace out",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/096_peace_out.mp3"
-      },
-      {
-        "text": "Pedro offers you his protection",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/097_pedro_offers_you_his_protection.mp3"
       },
       {
         "text": "Pedro's feeling hot",
@@ -43152,11 +33657,6 @@ const shows = [
         "text": "Probably the best drawing I've ever done",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/099_probably_the_best_drawing_i_ve_ever_done.mp3"
-      },
-      {
-        "text": "Probably the best that I know of",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/100_probably_the_best_that_i_know_of.mp3"
       },
       {
         "text": "Pull me in",
@@ -43174,24 +33674,9 @@ const shows = [
         "audioUrl": "audio/napoleon-dynamite/103_round_house.mp3"
       },
       {
-        "text": "See ya",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/104_see_ya.mp3"
-      },
-      {
         "text": "She doesn't want you here",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/105_she_said_she_doesn_t_want_you_here_when_she_gets_back_becaus.mp3"
-      },
-      {
-        "text": "She's pretty good looking",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/106_she_s_pretty_good_looking.mp3"
-      },
-      {
-        "text": "Shut up I am not",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/107_shut_up_i_am_not.mp3"
       },
       {
         "text": "Slap fight",
@@ -43204,49 +33689,14 @@ const shows = [
         "audioUrl": "audio/napoleon-dynamite/109_so_me_and_you_are_pretty_much_friends_by_now_right.mp3"
       },
       {
-        "text": "Piece of crap doesn't work",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/110_so_piece_of_crap_doesn_t_work.mp3"
-      },
-      {
         "text": "Soaking up the sun",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/111_soaking_up_solely.mp3"
       },
       {
-        "text": "Such an idiot",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/112_such_an_idiot.mp3"
-      },
-      {
-        "text": "Sweet",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/113_sweet.mp3"
-      },
-      {
         "text": "Gonna come out really nice",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/114_that_was_the_one_i_think_that_s_gonna_come_out_really_nice.mp3"
-      },
-      {
-        "text": "That's too bad",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/115_that_s_too_bad.mp3"
-      },
-      {
-        "text": "That's what I'm talkin about",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/116_that_s_what_i_m_talkin_about.mp3"
-      },
-      {
-        "text": "That's what I'm talking about",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/117_that_s_what_i_m_talking_about.mp3"
-      },
-      {
-        "text": "The worst day of my life",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/118_the_worst_day_of_my_life.mp3"
       },
       {
         "text": "What would you do in that situation?",
@@ -43259,16 +33709,6 @@ const shows = [
         "audioUrl": "audio/napoleon-dynamite/120_this_is_a_girl.mp3"
       },
       {
-        "text": "The worst video ever made",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/121_this_is_pretty_much_the_worst_video_ever_made.mp3"
-      },
-      {
-        "text": "Pretty good with a bo staff",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/122_this_one_gang_kept_wanting_me_to_join_because_i_m_pretty_goo.mp3"
-      },
-      {
         "text": "Three feet of air",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/123_three_feet_of_air.mp3"
@@ -43279,34 +33719,9 @@ const shows = [
         "audioUrl": "audio/napoleon-dynamite/124_time_machine.mp3"
       },
       {
-        "text": "Tina come get some ham",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/125_tina_come_get_some_ham.mp3"
-      },
-      {
-        "text": "Tina you fat lard",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/126_tina_you_fat_lard.mp3"
-      },
-      {
-        "text": "Three hours shading your upper lip",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/127_took_me_like_three_hours_to_finish_the_shading_on_your_upper.mp3"
-      },
-      {
         "text": "Tupperware demo fail",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/128_tupperware_demo_fail.mp3"
-      },
-      {
-        "text": "Ugh",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/129_ugh.mp3"
-      },
-      {
-        "text": "Ugh gross",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/130_ugh_gross.mp3"
       },
       {
         "text": "Uncle Rico back in '82",
@@ -43329,34 +33744,9 @@ const shows = [
         "audioUrl": "audio/napoleon-dynamite/134_uncle_rico_go_pro.mp3"
       },
       {
-        "text": "Vote for Pedro",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/135_vote_for_pedro.mp3"
-      },
-      {
-        "text": "Watt",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/136_watt.mp3"
-      },
-      {
         "text": "Nobody's going to go out with me",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/137_well_nobody_s_going_to_go_out_with_me.mp3"
-      },
-      {
-        "text": "Well what's there to eat?",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/138_well_what_s_there_to_eat.mp3"
-      },
-      {
-        "text": "What",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/139_what.mp3"
-      },
-      {
-        "text": "It's a piece of crap",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/140_what_did_you_go_eat_in_to_quote_a_piece_of_crap.mp3"
       },
       {
         "text": "What kind of bike do you have",
@@ -43364,59 +33754,9 @@ const shows = [
         "audioUrl": "audio/napoleon-dynamite/141_what_kind_of_bike_do_you_have.mp3"
       },
       {
-        "text": "Whatever I feel like I want to do",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/142_whatever_i_feel_like_i_want_to_do.mp3"
-      },
-      {
-        "text": "Whatever I feel like I want to say",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/143_whatever_i_feel_like_i_want_to_say.mp3"
-      },
-      {
-        "text": "Go tell your mom to shut up",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/144_where_did_you_go_tell_your_mom_to_shut_up.mp3"
-      },
-      {
-        "text": "Who are you",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/145_who_are_you.mp3"
-      },
-      {
-        "text": "Who are you going to ask",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/146_who_are_you_going_to_ask.mp3"
-      },
-      {
-        "text": "Illegal ninja moves from the government",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/147_who_is_the_only_one_here_knows_illegal_ninja_moves_from_the.mp3"
-      },
-      {
-        "text": "Why",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/148_why.mp3"
-      },
-      {
-        "text": "Worst video ever",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/149_worst_video_ever.mp3"
-      },
-      {
-        "text": "Yeah right",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/150_yeah_right.mp3"
-      },
-      {
         "text": "Yes",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/151_yes.mp3"
-      },
-      {
-        "text": "Yes, I love technology",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/152_yes_i_love_technology.mp3"
       },
       {
         "text": "Yes! Yes! Yes! Yes!",
@@ -43424,49 +33764,9 @@ const shows = [
         "audioUrl": "audio/napoleon-dynamite/153_yes_yes_yes_yes.mp3"
       },
       {
-        "text": "Yessss (Kip)",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/154_yessss_kip.mp3"
-      },
-      {
-        "text": "You already know what you're going to say",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/155_you_already_know_what_you_re_going_to_say.mp3"
-      },
-      {
-        "text": "You can say that again",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/156_you_can_say_that_again.mp3"
-      },
-      {
-        "text": "We're not babies",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/158_you_don_t_have_to_stay_here_with_us_we_re_not_babies.mp3"
-      },
-      {
         "text": "You ever take it off any sweet jumps",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/159_you_ever_take_it_off_any_sweet_jumps.mp3"
-      },
-      {
-        "text": "You gonna eat your tots?",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/160_you_gonna_eat_your_tots.mp3"
-      },
-      {
-        "text": "You guys are retarded",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/161_you_guys_are_retarded.mp3"
-      },
-      {
-        "text": "You guys have any killer time",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/162_you_guys_have_any_killer_time.mp3"
-      },
-      {
-        "text": "You guys having a killer time",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/163_you_guys_having_a_killer_time.mp3"
       },
       {
         "text": "You just come get me",
@@ -43477,11 +33777,6 @@ const shows = [
         "text": "You're good at hooking up with chicks",
         "character": "",
         "audioUrl": "audio/napoleon-dynamite/165_you_re_good_at_hooking_up_with_chicks.mp3"
-      },
-      {
-        "text": "You're such an idiot",
-        "character": "",
-        "audioUrl": "audio/napoleon-dynamite/166_you_re_such_an_idiot.mp3"
       },
       {
         "text": "Your mom goes to college",
@@ -43506,11 +33801,6 @@ const shows = [
     },
     "text_style": "title",
     "quotes": [
-      {
-        "text": "Adam Angry!",
-        "character": "",
-        "audioUrl": "audio/workaholics/001_adam_angry.mp3"
-      },
       {
         "text": "Adam gets a bellybutton ring",
         "character": "",
@@ -43537,14 +33827,9 @@ const shows = [
         "audioUrl": "audio/workaholics/006_are_you_pretending_to_be_gay.mp3"
       },
       {
-        "text": "Around Here It's Alice In Chains Or Nothing",
+        "text": "Around here it's Alice in Chains or nothing",
         "character": "",
         "audioUrl": "audio/workaholics/007_around_here_it_s_alice_in_chains_or_nothing.mp3"
-      },
-      {
-        "text": "Aw Friends",
-        "character": "",
-        "audioUrl": "audio/workaholics/008_aw_friends.mp3"
       },
       {
         "text": "Baby Genius",
@@ -43552,7 +33837,7 @@ const shows = [
         "audioUrl": "audio/workaholics/009_baby_genius.mp3"
       },
       {
-        "text": "Baby Shower Rave scene",
+        "text": "Baby shower rave scene",
         "character": "",
         "audioUrl": "audio/workaholics/010_baby_shower_rave_scene.mp3"
       },
@@ -43562,29 +33847,14 @@ const shows = [
         "audioUrl": "audio/workaholics/011_ball_n_off_government_checks.mp3"
       },
       {
-        "text": "Better Have My Honey",
-        "character": "",
-        "audioUrl": "audio/workaholics/012_better_have_my_honey.mp3"
-      },
-      {
         "text": "Bigfat Beatbox",
         "character": "",
         "audioUrl": "audio/workaholics/013_bigfat_beatbox.mp3"
       },
       {
-        "text": "Can We Go Please",
-        "character": "",
-        "audioUrl": "audio/workaholics/014_can_we_go_please.mp3"
-      },
-      {
         "text": "Catherine Zeta Jones",
         "character": "",
         "audioUrl": "audio/workaholics/015_catherine_zeta_jones.mp3"
-      },
-      {
-        "text": "Cheers!",
-        "character": "",
-        "audioUrl": "audio/workaholics/016_cheers.mp3"
       },
       {
         "text": "Chicks aren't funny dudes are funny",
@@ -43595,11 +33865,6 @@ const shows = [
         "text": "Christmas Caroling",
         "character": "",
         "audioUrl": "audio/workaholics/018_christmas_caroling.mp3"
-      },
-      {
-        "text": "Cool Awesome!",
-        "character": "",
-        "audioUrl": "audio/workaholics/019_cool_awesome.mp3"
       },
       {
         "text": "Dang! What's up with all these books!",
@@ -43622,11 +33887,6 @@ const shows = [
         "audioUrl": "audio/workaholics/023_do_you_have_a_card_swiper.mp3"
       },
       {
-        "text": "Don't make me use my muscles",
-        "character": "",
-        "audioUrl": "audio/workaholics/024_don_t_make_me_use_my_muscles.mp3"
-      },
-      {
         "text": "Don't talk to my friends that way",
         "character": "",
         "audioUrl": "audio/workaholics/025_don_t_talk_to_my_friends_that_way.mp3"
@@ -43635,11 +33895,6 @@ const shows = [
         "text": "Don't worry I played a lot of Area 51",
         "character": "",
         "audioUrl": "audio/workaholics/026_don_t_worry_i_played_a_lot_of_area_51.mp3"
-      },
-      {
-        "text": "Dunk some fools",
-        "character": "",
-        "audioUrl": "audio/workaholics/027_dunk_some_fools.mp3"
       },
       {
         "text": "Edibles? What is that?",
@@ -43652,7 +33907,7 @@ const shows = [
         "audioUrl": "audio/workaholics/029_eggs_tyrone.mp3"
       },
       {
-        "text": "Everyone Takes Acid",
+        "text": "Everyone takes acid",
         "character": "",
         "audioUrl": "audio/workaholics/030_everyone_takes_acid.mp3"
       },
@@ -43660,11 +33915,6 @@ const shows = [
         "text": "Everything cool comes from Mexico",
         "character": "",
         "audioUrl": "audio/workaholics/031_everything_cool_comes_from_mexico.mp3"
-      },
-      {
-        "text": "Eww",
-        "character": "",
-        "audioUrl": "audio/workaholics/032_eww.mp3"
       },
       {
         "text": "Fight! Fight! Fight!",
@@ -43677,12 +33927,7 @@ const shows = [
         "audioUrl": "audio/workaholics/034_finish_these_beers_and_celebrate_at_the_bar.mp3"
       },
       {
-        "text": "For Sure",
-        "character": "",
-        "audioUrl": "audio/workaholics/035_for_sure.mp3"
-      },
-      {
-        "text": "Freak'n Hate You Dudes",
+        "text": "Freak'n hate you dudes",
         "character": "",
         "audioUrl": "audio/workaholics/036_freak_n_hate_you_dudes.mp3"
       },
@@ -43702,11 +33947,6 @@ const shows = [
         "audioUrl": "audio/workaholics/039_gay_dudes_are_like_hot_chicks.mp3"
       },
       {
-        "text": "Get Him!",
-        "character": "",
-        "audioUrl": "audio/workaholics/040_get_him.mp3"
-      },
-      {
         "text": "Give this guy a cigarette",
         "character": "",
         "audioUrl": "audio/workaholics/041_give_this_guy_a_cigarette.mp3"
@@ -43717,17 +33957,12 @@ const shows = [
         "audioUrl": "audio/workaholics/042_good_morning.mp3"
       },
       {
-        "text": "Grass! We're calling it grass now",
-        "character": "",
-        "audioUrl": "audio/workaholics/043_grass_we_re_calling_it_grass_now.mp3"
-      },
-      {
         "text": "Guess who I voted for in 2000?",
         "character": "",
         "audioUrl": "audio/workaholics/044_guess_who_i_voted_for_in_2000.mp3"
       },
       {
-        "text": "Happy Halloween Y'all",
+        "text": "Happy Halloween y'all",
         "character": "",
         "audioUrl": "audio/workaholics/045_happy_halloween_y_all.mp3"
       },
@@ -43735,21 +33970,6 @@ const shows = [
         "text": "Happy Holidaze",
         "character": "",
         "audioUrl": "audio/workaholics/046_happy_holidaze.mp3"
-      },
-      {
-        "text": "Happy Holidaze",
-        "character": "",
-        "audioUrl": "audio/workaholics/047_happy_holidaze.mp3"
-      },
-      {
-        "text": "Have have no idea what any of that meant",
-        "character": "",
-        "audioUrl": "audio/workaholics/048_have_have_no_idea_what_any_of_that_meant.mp3"
-      },
-      {
-        "text": "Heading to pound town?",
-        "character": "",
-        "audioUrl": "audio/workaholics/049_heading_to_pound_town.mp3"
       },
       {
         "text": "Hellooooo!!",
@@ -43772,17 +33992,17 @@ const shows = [
         "audioUrl": "audio/workaholics/053_i_am_back_on_my_ninja_kick.mp3"
       },
       {
-        "text": "I Am Special",
+        "text": "I am special",
         "character": "",
         "audioUrl": "audio/workaholics/054_i_am_special.mp3"
       },
       {
-        "text": "I Am Stoned",
+        "text": "I am stoned",
         "character": "",
         "audioUrl": "audio/workaholics/055_i_am_stoned.mp3"
       },
       {
-        "text": "I haven't seen Beauty And The Beast In 7 years",
+        "text": "I haven't seen Beauty and the Beast in 7 years",
         "character": "",
         "audioUrl": "audio/workaholics/056_i_haven_t_seen_beauty_and_the_beast_in_7_years.mp3"
       },
@@ -43790,11 +34010,6 @@ const shows = [
         "text": "I just charge it to the game",
         "character": "",
         "audioUrl": "audio/workaholics/057_i_just_charge_it_to_the_game.mp3"
-      },
-      {
-        "text": "I Like That",
-        "character": "",
-        "audioUrl": "audio/workaholics/058_i_like_that.mp3"
       },
       {
         "text": "I really like your ingenuity",
@@ -43827,11 +34042,6 @@ const shows = [
         "audioUrl": "audio/workaholics/064_i_m_out.mp3"
       },
       {
-        "text": "I'm Ready",
-        "character": "",
-        "audioUrl": "audio/workaholics/065_i_m_ready.mp3"
-      },
-      {
         "text": "I'm sorry our money is actually for beers",
         "character": "",
         "audioUrl": "audio/workaholics/066_i_m_sorry_our_money_is_actually_for_beers.mp3"
@@ -43847,19 +34057,9 @@ const shows = [
         "audioUrl": "audio/workaholics/068_it_s_about_time_to_get_this_party_started.mp3"
       },
       {
-        "text": "It's Kicking In",
+        "text": "It's kicking in",
         "character": "",
         "audioUrl": "audio/workaholics/069_it_s_kicking_in.mp3"
-      },
-      {
-        "text": "It's Payback Time",
-        "character": "",
-        "audioUrl": "audio/workaholics/070_it_s_payback_time.mp3"
-      },
-      {
-        "text": "Just a regular day in the office",
-        "character": "",
-        "audioUrl": "audio/workaholics/071_just_a_regular_day_in_the_office.mp3"
       },
       {
         "text": "Just tell me where I need to dance",
@@ -43877,12 +34077,7 @@ const shows = [
         "audioUrl": "audio/workaholics/074_lap_hog_condom.mp3"
       },
       {
-        "text": "Let's Blow Dro Bro",
-        "character": "",
-        "audioUrl": "audio/workaholics/075_let_s_blow_dro_bro.mp3"
-      },
-      {
-        "text": "Let's Get Weird!",
+        "text": "Let's get weird!",
         "character": "",
         "audioUrl": "audio/workaholics/076_let_s_get_weird.mp3"
       },
@@ -43892,12 +34087,7 @@ const shows = [
         "audioUrl": "audio/workaholics/077_let_s_go_pound_this_nerd.mp3"
       },
       {
-        "text": "Let's go smoke weed about it",
-        "character": "",
-        "audioUrl": "audio/workaholics/078_let_s_go_smoke_weed_about_it.mp3"
-      },
-      {
-        "text": "Lets Do Acid",
+        "text": "Let's do acid",
         "character": "",
         "audioUrl": "audio/workaholics/079_lets_do_acid.mp3"
       },
@@ -43907,19 +34097,9 @@ const shows = [
         "audioUrl": "audio/workaholics/080_living_that_handicap_life.mp3"
       },
       {
-        "text": "Looking straight grizzly",
-        "character": "",
-        "audioUrl": "audio/workaholics/081_looking_straight_grizzly.mp3"
-      },
-      {
         "text": "May I remind you, you are under oath",
         "character": "",
         "audioUrl": "audio/workaholics/082_may_i_remind_you_you_are_under_oath.mp3"
-      },
-      {
-        "text": "MmHmm",
-        "character": "",
-        "audioUrl": "audio/workaholics/083_mmhmm.mp3"
       },
       {
         "text": "Montez",
@@ -43927,19 +34107,9 @@ const shows = [
         "audioUrl": "audio/workaholics/084_montez.mp3"
       },
       {
-        "text": "Nerd!",
-        "character": "",
-        "audioUrl": "audio/workaholics/085_nerd.mp3"
-      },
-      {
         "text": "Night at the museum of tolerance of alcohol",
         "character": "",
         "audioUrl": "audio/workaholics/086_night_at_the_museum_of_tolerance_of_alcohol.mp3"
-      },
-      {
-        "text": "No!",
-        "character": "",
-        "audioUrl": "audio/workaholics/087_no.mp3"
       },
       {
         "text": "Not better just different",
@@ -43947,27 +34117,12 @@ const shows = [
         "audioUrl": "audio/workaholics/088_not_better_just_different.mp3"
       },
       {
-        "text": "Oh I like that",
-        "character": "",
-        "audioUrl": "audio/workaholics/089_oh_i_like_that.mp3"
-      },
-      {
-        "text": "Oh you wanna yell?",
-        "character": "",
-        "audioUrl": "audio/workaholics/090_oh_you_wanna_yell.mp3"
-      },
-      {
-        "text": "OMG Pauly Shore!!",
+        "text": "Oh my god Pauly Shore!!",
         "character": "",
         "audioUrl": "audio/workaholics/091_omg_pauly_shore.mp3"
       },
       {
-        "text": "Ooooo",
-        "character": "",
-        "audioUrl": "audio/workaholics/092_ooooo.mp3"
-      },
-      {
-        "text": "Pointing Fingers Already?",
+        "text": "Pointing fingers already?",
         "character": "",
         "audioUrl": "audio/workaholics/093_pointing_fingers_already.mp3"
       },
@@ -43977,89 +34132,9 @@ const shows = [
         "audioUrl": "audio/workaholics/094_poop_dollar.mp3"
       },
       {
-        "text": "Scientists better check their hypotenuses dude",
-        "character": "",
-        "audioUrl": "audio/workaholics/095_scientists_better_check_their_hypotenuses_dude.mp3"
-      },
-      {
-        "text": "Screw it",
-        "character": "",
-        "audioUrl": "audio/workaholics/096_screw_it.mp3"
-      },
-      {
-        "text": "Screw it",
-        "character": "",
-        "audioUrl": "audio/workaholics/097_screw_it.mp3"
-      },
-      {
-        "text": "Serve my man up with some of that indo",
-        "character": "",
-        "audioUrl": "audio/workaholics/098_serve_my_man_up_with_some_of_that_indo.mp3"
-      },
-      {
-        "text": "Smart Move",
-        "character": "",
-        "audioUrl": "audio/workaholics/099_smart_move.mp3"
-      },
-      {
-        "text": "Smoking That Damn Hashish",
-        "character": "",
-        "audioUrl": "audio/workaholics/100_smoking_that_damn_hashish.mp3"
-      },
-      {
         "text": "Sock puppets",
         "character": "",
         "audioUrl": "audio/workaholics/101_sock_puppets.mp3"
-      },
-      {
-        "text": "Sorry Dude",
-        "character": "",
-        "audioUrl": "audio/workaholics/102_sorry_dude.mp3"
-      },
-      {
-        "text": "Take a picture it might last longer",
-        "character": "",
-        "audioUrl": "audio/workaholics/103_take_a_picture_it_might_last_longer.mp3"
-      },
-      {
-        "text": "Take A Rip",
-        "character": "",
-        "audioUrl": "audio/workaholics/104_take_a_rip.mp3"
-      },
-      {
-        "text": "Thank you for wasting my time",
-        "character": "",
-        "audioUrl": "audio/workaholics/105_thank_you_for_wasting_my_time.mp3"
-      },
-      {
-        "text": "Thanks for this apron man",
-        "character": "",
-        "audioUrl": "audio/workaholics/106_thanks_for_this_apron_man.mp3"
-      },
-      {
-        "text": "That's a character flaw, but I'll take it",
-        "character": "",
-        "audioUrl": "audio/workaholics/107_that_s_a_character_flaw_but_i_ll_take_it.mp3"
-      },
-      {
-        "text": "That's Bad @$",
-        "character": "",
-        "audioUrl": "audio/workaholics/108_that_s_bad.mp3"
-      },
-      {
-        "text": "That's Not Happening",
-        "character": "",
-        "audioUrl": "audio/workaholics/109_that_s_not_happening.mp3"
-      },
-      {
-        "text": "The snacksters are back",
-        "character": "",
-        "audioUrl": "audio/workaholics/110_the_snacksters_are_back.mp3"
-      },
-      {
-        "text": "They can smell my hog a mile away",
-        "character": "",
-        "audioUrl": "audio/workaholics/111_they_can_smell_my_hog_a_mile_away.mp3"
       },
       {
         "text": "This is so dumb, I'm not gonna do this",
@@ -44067,7 +34142,7 @@ const shows = [
         "audioUrl": "audio/workaholics/112_this_is_so_dumb_i_m_not_gonna_do_this.mp3"
       },
       {
-        "text": "Today is My Birthday",
+        "text": "Today is my birthday",
         "character": "",
         "audioUrl": "audio/workaholics/113_today_is_my_birthday.mp3"
       },
@@ -44077,24 +34152,9 @@ const shows = [
         "audioUrl": "audio/workaholics/114_two_years_of_sobriety_gone.mp3"
       },
       {
-        "text": "We are ninja turtles",
-        "character": "",
-        "audioUrl": "audio/workaholics/115_we_are_ninja_turtles.mp3"
-      },
-      {
-        "text": "We are the rat busters!",
-        "character": "",
-        "audioUrl": "audio/workaholics/116_we_are_the_rat_busters.mp3"
-      },
-      {
         "text": "We're calling it grass now",
         "character": "",
         "audioUrl": "audio/workaholics/117_we_re_calling_it_grass_now.mp3"
-      },
-      {
-        "text": "We're pretty butthurt about it",
-        "character": "",
-        "audioUrl": "audio/workaholics/118_we_re_pretty_butthurt_about_it.mp3"
       },
       {
         "text": "We've got to see that dick",
@@ -44102,7 +34162,7 @@ const shows = [
         "audioUrl": "audio/workaholics/119_we_ve_got_to_see_that_dick.mp3"
       },
       {
-        "text": "We've Run Out of Things We Smeeoke",
+        "text": "We've run out of things we smeeoke",
         "character": "",
         "audioUrl": "audio/workaholics/120_we_ve_run_out_of_things_we_smeeoke.mp3"
       },
@@ -44112,7 +34172,7 @@ const shows = [
         "audioUrl": "audio/workaholics/121_what_do_you_little_boys_know_about_butt_fun_nothin.mp3"
       },
       {
-        "text": "What's In The Box?!",
+        "text": "What's in the box?!",
         "character": "",
         "audioUrl": "audio/workaholics/122_what_s_in_the_box.mp3"
       },
@@ -44122,24 +34182,9 @@ const shows = [
         "audioUrl": "audio/workaholics/123_what_s_the_difference_between_dead_babies_and_sand.mp3"
       },
       {
-        "text": "Where's The Weed?",
-        "character": "",
-        "audioUrl": "audio/workaholics/124_where_s_the_weed.mp3"
-      },
-      {
         "text": "Where's your Half Christmas spirit",
         "character": "",
         "audioUrl": "audio/workaholics/125_where_s_your_half_christmas_spirit.mp3"
-      },
-      {
-        "text": "Who believes in scientists?",
-        "character": "",
-        "audioUrl": "audio/workaholics/126_who_believes_in_scientists.mp3"
-      },
-      {
-        "text": "Who still wears a puka shell necklace?",
-        "character": "",
-        "audioUrl": "audio/workaholics/127_who_still_wears_a_puka_shell_necklace.mp3"
       },
       {
         "text": "Whose weed is that?",
@@ -44164,27 +34209,12 @@ const shows = [
       {
         "text": "Workaholics",
         "character": "",
-        "audioUrl": "audio/workaholics/132_workaholics.mp3"
-      },
-      {
-        "text": "Workaholics",
-        "character": "",
         "audioUrl": "audio/workaholics/133_workaholics.mp3"
       },
       {
-        "text": "Workaholics Kick It",
+        "text": "Kick it",
         "character": "",
         "audioUrl": "audio/workaholics/134_workaholics_kick_it.mp3"
-      },
-      {
-        "text": "Yeah right, come on man",
-        "character": "",
-        "audioUrl": "audio/workaholics/135_yeah_right_come_on_man.mp3"
-      },
-      {
-        "text": "Yeah!",
-        "character": "",
-        "audioUrl": "audio/workaholics/136_yeah.mp3"
       },
       {
         "text": "You are fully torqued, bro",
@@ -44197,39 +34227,14 @@ const shows = [
         "audioUrl": "audio/workaholics/138_you_can_t_be_snacking_on_my_snacks.mp3"
       },
       {
-        "text": "You don't need to be rude",
-        "character": "",
-        "audioUrl": "audio/workaholics/139_you_don_t_need_to_be_rude.mp3"
-      },
-      {
         "text": "You don't think I'm funny?",
         "character": "",
         "audioUrl": "audio/workaholics/140_you_don_t_think_i_m_funny.mp3"
       },
       {
-        "text": "You guys ready to get weird tonight?",
-        "character": "",
-        "audioUrl": "audio/workaholics/141_you_guys_ready_to_get_weird_tonight.mp3"
-      },
-      {
-        "text": "You guys smoke way to much",
-        "character": "",
-        "audioUrl": "audio/workaholics/142_you_guys_smoke_way_to_much.mp3"
-      },
-      {
         "text": "You know how many minutes of tinkering that took me?",
         "character": "",
         "audioUrl": "audio/workaholics/143_you_know_how_many_minutes_of_tinkering_that_took_me.mp3"
-      },
-      {
-        "text": "You lied to me my whole life",
-        "character": "",
-        "audioUrl": "audio/workaholics/144_you_lied_to_me_my_whole_life.mp3"
-      },
-      {
-        "text": "You Look Horrible",
-        "character": "",
-        "audioUrl": "audio/workaholics/145_you_look_horrible.mp3"
       },
       {
         "text": "You make me all flustered",
@@ -44257,11 +34262,6 @@ const shows = [
         "audioUrl": "audio/workaholics/150_you_re_intruding_my_office_space.mp3"
       },
       {
-        "text": "You're Not Funny",
-        "character": "",
-        "audioUrl": "audio/workaholics/151_you_re_not_funny.mp3"
-      },
-      {
         "text": "Your look is the loosest butthole",
         "character": "",
         "audioUrl": "audio/workaholics/152_your_look_is_the_loosest_butthole.mp3"
@@ -44285,7 +34285,7 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "Black Bush: Oil",
+        "text": "Black Bush: oil",
         "character": "",
         "audioUrl": "audio/chappelles-show/001_black_bush_oil.mp3"
       },
@@ -44305,17 +34305,17 @@ const shows = [
         "audioUrl": "audio/chappelles-show/004_dave_chappelle.mp3"
       },
       {
-        "text": "Four Thumbs Down",
+        "text": "Four thumbs down",
         "character": "",
         "audioUrl": "audio/chappelles-show/005_four_thumbs_down.mp3"
       },
       {
-        "text": "Grits N Gravy",
+        "text": "Grits n gravy",
         "character": "",
         "audioUrl": "audio/chappelles-show/006_grits_n_gravy.mp3"
       },
       {
-        "text": "He Tried to Kill My Father",
+        "text": "He tried to kill my father",
         "character": "",
         "audioUrl": "audio/chappelles-show/007_he_tried_to_kill_my_father.mp3"
       },
@@ -44360,7 +34360,7 @@ const shows = [
         "audioUrl": "audio/chappelles-show/015_this_some_good_ass_cheese.mp3"
       },
       {
-        "text": "Yaddy Yaddy Yadda",
+        "text": "Yaddy yaddy yadda",
         "character": "",
         "audioUrl": "audio/chappelles-show/016_yaddy_yaddy_yadda.mp3"
       },
@@ -44393,19 +34393,9 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "A little puff from time to time",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/001_a_little_puff_from_time_to_time.mp3"
-      },
-      {
         "text": "Are you guys crying?",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/002_are_you_guys_crying.mp3"
-      },
-      {
-        "text": "Are you really this stupid?",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/003_are_you_really_this_stupid.mp3"
       },
       {
         "text": "Ask me if I care",
@@ -44418,17 +34408,12 @@ const shows = [
         "audioUrl": "audio/trailer-park-boys/005_ate_nine_cans_of_ravioli.mp3"
       },
       {
-        "text": "Blah Blah Blah",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/006_blah_blah_blah.mp3"
-      },
-      {
         "text": "Bubbles says goodbye to Steve`",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/007_bubbles_says_goodbye_to_steve.mp3"
       },
       {
-        "text": "Bubbles' Breakfast Dream",
+        "text": "Bubbles' breakfast dream",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/008_bubbles_breakfast_dream.mp3"
       },
@@ -44458,27 +34443,12 @@ const shows = [
         "audioUrl": "audio/trailer-park-boys/013_conky_yelling.mp3"
       },
       {
-        "text": "Cory Gets too High",
+        "text": "Cory gets too high",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/014_cory_gets_too_high.mp3"
       },
       {
-        "text": "Don't give me a rough time",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/015_don_t_give_me_a_rough_time.mp3"
-      },
-      {
-        "text": "Falling Down Stairs",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/016_falling_down_stairs.mp3"
-      },
-      {
-        "text": "For Fucks Sakes",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/017_for_fucks_sakes.mp3"
-      },
-      {
-        "text": "Frig Off Barb",
+        "text": "Frig off Barb",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/018_frig_off_barb.mp3"
       },
@@ -44493,19 +34463,9 @@ const shows = [
         "audioUrl": "audio/trailer-park-boys/020_get_off_the_stage.mp3"
       },
       {
-        "text": "Gimmie my cigarette back",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/021_gimmie_my_cigarette_back.mp3"
-      },
-      {
         "text": "Give him his cat!",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/022_give_him_his_cat.mp3"
-      },
-      {
-        "text": "Give me a smoke hairdo!",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/023_give_me_a_smoke_hairdo.mp3"
       },
       {
         "text": "Grammar Nazi",
@@ -44516,11 +34476,6 @@ const shows = [
         "text": "Green Bastard",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/025_green_bastard.mp3"
-      },
-      {
-        "text": "Happy Holidays Everybody",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/026_happy_holidays_everybody.mp3"
       },
       {
         "text": "Here kitty",
@@ -44543,16 +34498,6 @@ const shows = [
         "audioUrl": "audio/trailer-park-boys/030_i_am_the_liquor.mp3"
       },
       {
-        "text": "I beg your pardon",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/031_i_beg_your_pardon.mp3"
-      },
-      {
-        "text": "I don't know you tell me",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/032_i_don_t_know_you_tell_me.mp3"
-      },
-      {
         "text": "I don't wanna talk to you dicks right now",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/033_i_don_t_wanna_talk_to_you_dicks_right_now.mp3"
@@ -44561,16 +34506,6 @@ const shows = [
         "text": "I found him in a storm drain",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/034_i_found_him_in_a_storm_drain.mp3"
-      },
-      {
-        "text": "I guess we're going home then",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/035_i_guess_we_re_going_home_then.mp3"
-      },
-      {
-        "text": "I love the flea market",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/036_i_love_the_flea_market.mp3"
       },
       {
         "text": "I never had a phone before",
@@ -44588,11 +34523,6 @@ const shows = [
         "audioUrl": "audio/trailer-park-boys/039_i_plan_to_get_drunk.mp3"
       },
       {
-        "text": "I quit!",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/040_i_quit.mp3"
-      },
-      {
         "text": "I'm not wanted here",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/041_i_m_not_wanted_here.mp3"
@@ -44603,7 +34533,7 @@ const shows = [
         "audioUrl": "audio/trailer-park-boys/042_i_m_the_guy_that_looks_after_all_the_kitties.mp3"
       },
       {
-        "text": "If I cant smoke and cuss i'm fucked",
+        "text": "If I can't smoke and cuss I'm fucked",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/043_if_i_cant_smoke_and_cuss_i_m_fucked.mp3"
       },
@@ -44611,16 +34541,6 @@ const shows = [
         "text": "If you love something let it go",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/044_if_you_love_something_let_it_go.mp3"
-      },
-      {
-        "text": "It's just not my scene",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/045_it_s_just_not_my_scene.mp3"
-      },
-      {
-        "text": "It's none of your business",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/046_it_s_none_of_your_business.mp3"
       },
       {
         "text": "It's not a big deal",
@@ -44643,7 +34563,7 @@ const shows = [
         "audioUrl": "audio/trailer-park-boys/050_knock_knock.mp3"
       },
       {
-        "text": "Know What I'm Saying (DJ Cat)",
+        "text": "Know what I'm saying (DJ Cat)",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/051_know_what_i_m_saying_dj_cat.mp3"
       },
@@ -44668,47 +34588,27 @@ const shows = [
         "audioUrl": "audio/trailer-park-boys/055_life_isn_t_about_getting_drunk.mp3"
       },
       {
-        "text": "Most fucked up days of my life",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/056_most_fucked_up_days_of_my_life.mp3"
-      },
-      {
-        "text": "No cat of mine is gonna live in a car",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/057_no_cat_of_mine_is_gonna_live_in_a_car.mp3"
-      },
-      {
-        "text": "No Way",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/058_no_way.mp3"
-      },
-      {
-        "text": "None of your business",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/059_none_of_your_business.mp3"
-      },
-      {
         "text": "Obviously you don't know who I am",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/060_obviously_you_don_t_know_who_i_am.mp3"
       },
       {
-        "text": "On Top of the Liquor Part 1",
+        "text": "On top of the liquor part 1",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/061_on_top_of_the_liquor_part_1.mp3"
       },
       {
-        "text": "On Top of the Liquor Part 2",
+        "text": "On top of the liquor part 2",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/062_on_top_of_the_liquor_part_2.mp3"
       },
       {
-        "text": "Open For Business",
+        "text": "Open for business",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/063_open_for_business.mp3"
       },
       {
-        "text": "Peanut Butter and Jam",
+        "text": "Peanut butter and jam",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/064_peanut_butter_and_jam.mp3"
       },
@@ -44718,7 +34618,7 @@ const shows = [
         "audioUrl": "audio/trailer-park-boys/065_people_don_t_realize_how_much_moneys_in_carts.mp3"
       },
       {
-        "text": "Pissed Bubbles and Nunchucks",
+        "text": "Pissed Bubbles and nunchucks",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/066_pissed_bubbles_and_nunchucks.mp3"
       },
@@ -44733,17 +34633,12 @@ const shows = [
         "audioUrl": "audio/trailer-park-boys/068_ricky_throws_turkey.mp3"
       },
       {
-        "text": "Safety always off",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/069_safety_always_off.mp3"
-      },
-      {
         "text": "See This?",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/070_see_this.mp3"
       },
       {
-        "text": "Shit Hawks JL",
+        "text": "Shit hawks JL",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/071_shit_hawks_jl.mp3"
       },
@@ -44758,11 +34653,6 @@ const shows = [
         "audioUrl": "audio/trailer-park-boys/073_shitquake.mp3"
       },
       {
-        "text": "Shut the fuck up dog",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/074_shut_the_fuck_up_dog.mp3"
-      },
-      {
         "text": "Smokes, Let’s go",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/075_smokes_let_s_go.mp3"
@@ -44771,11 +34661,6 @@ const shows = [
         "text": "That's Greasy",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/076_that_s_greasy.mp3"
-      },
-      {
-        "text": "That's no gonna fuckin happen",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/077_that_s_no_gonna_fuckin_happen.mp3"
       },
       {
         "text": "That's one fuckin nice kitty right there",
@@ -44798,19 +34683,9 @@ const shows = [
         "audioUrl": "audio/trailer-park-boys/081_these_are_my_family_show_them_some_respect.mp3"
       },
       {
-        "text": "This guys just drunk",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/082_this_guys_just_drunk.mp3"
-      },
-      {
         "text": "This is fucked up",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/083_this_is_fucked_up.mp3"
-      },
-      {
-        "text": "TPB Hairdo",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/084_tpb_hairdo.mp3"
       },
       {
         "text": "Trying not to cuss",
@@ -44818,7 +34693,7 @@ const shows = [
         "audioUrl": "audio/trailer-park-boys/085_trying_not_to_cuss.mp3"
       },
       {
-        "text": "U lookin at my gut?",
+        "text": "You lookin at my gut?",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/086_u_lookin_at_my_gut.mp3"
       },
@@ -44828,39 +34703,9 @@ const shows = [
         "audioUrl": "audio/trailer-park-boys/087_we_down_with_chilling_peace.mp3"
       },
       {
-        "text": "Well that depends...",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/088_well_that_depends.mp3"
-      },
-      {
-        "text": "What?",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/089_what.mp3"
-      },
-      {
-        "text": "Whats in the bag Mafawker?",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/090_whats_in_the_bag_mafawker.mp3"
-      },
-      {
-        "text": "Which maybe I shouldn't have did",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/091_which_maybe_i_shouldn_t_have_did.mp3"
-      },
-      {
         "text": "Why are you dressed up like a bumble bee",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/092_why_are_you_dressed_up_like_a_bumble_bee.mp3"
-      },
-      {
-        "text": "Why dont you go fuck youself",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/093_why_dont_you_go_fuck_youself.mp3"
-      },
-      {
-        "text": "Why?",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/094_why.mp3"
       },
       {
         "text": "You don't own space NASA does",
@@ -44868,19 +34713,9 @@ const shows = [
         "audioUrl": "audio/trailer-park-boys/095_you_don_t_own_space_nasa_does.mp3"
       },
       {
-        "text": "You Fuckin Want One?",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/096_you_fuckin_want_one.mp3"
-      },
-      {
         "text": "You got any dope man?",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/097_you_got_any_dope_man.mp3"
-      },
-      {
-        "text": "You guys are so stupid",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/098_you_guys_are_so_stupid.mp3"
       },
       {
         "text": "You think you're so smart",
@@ -44888,29 +34723,9 @@ const shows = [
         "audioUrl": "audio/trailer-park-boys/099_you_think_you_re_so_smart.mp3"
       },
       {
-        "text": "You Wouldn't Understand",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/100_you_wouldn_t_understand.mp3"
-      },
-      {
-        "text": "You're being a dick",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/101_you_re_being_a_dick.mp3"
-      },
-      {
-        "text": "You're fucked and always will be",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/102_you_re_fucked_and_always_will_be.mp3"
-      },
-      {
         "text": "You're fucking losing it bud",
         "character": "",
         "audioUrl": "audio/trailer-park-boys/103_you_re_fucking_losing_it_bud.mp3"
-      },
-      {
-        "text": "You're lucky I'm on probation",
-        "character": "",
-        "audioUrl": "audio/trailer-park-boys/104_you_re_lucky_i_m_on_probation.mp3"
       }
     ]
   },
@@ -44931,12 +34746,12 @@ const shows = [
         "audioUrl": "audio/blades-of-glory/001_i_am_never_satisfied.mp3"
       },
       {
-        "text": "I dont even know what that means",
+        "text": "I don't even know what that means",
         "character": "",
         "audioUrl": "audio/blades-of-glory/002_i_dont_even_know_what_that_means.mp3"
       },
       {
-        "text": "I Want You",
+        "text": "I want you",
         "character": "",
         "audioUrl": "audio/blades-of-glory/003_i_want_you.mp3"
       },
@@ -45034,7 +34849,7 @@ const shows = [
         "audioUrl": "audio/grown-ups/010_hey_where_s_saskatchetoon.mp3"
       },
       {
-        "text": "Hey Y Where's M C A.",
+        "text": "Hey Y where's M C A.",
         "character": "",
         "audioUrl": "audio/grown-ups/011_hey_y_where_s_m_c_a.mp3"
       },
@@ -45202,16 +35017,6 @@ const shows = [
         "audioUrl": "audio/the-waterboy/003_and_open_up_some_wood_bash.mp3"
       },
       {
-        "text": "Can't hold anything back now",
-        "character": "",
-        "audioUrl": "audio/the-waterboy/004_can_t_hold_anything_back_now.mp3"
-      },
-      {
-        "text": "Captain Insano shows no mercy",
-        "character": "",
-        "audioUrl": "audio/the-waterboy/005_captain_insano_shows_no_mercy.mp3"
-      },
-      {
         "text": "Why do you sweat so much?",
         "character": "",
         "audioUrl": "audio/the-waterboy/006_captain_latino_i_noticed_sometimes_when_you_are_wrestling_or.mp3"
@@ -45292,19 +35097,9 @@ const shows = [
         "audioUrl": "audio/the-waterboy/021_i_forbid_you_to_talk_to_that_enchantress_she_s_the_devil_she.mp3"
       },
       {
-        "text": "I like them boobies",
-        "character": "",
-        "audioUrl": "audio/the-waterboy/022_i_like_them_boobies.mp3"
-      },
-      {
         "text": "I see a lot of guys too",
         "character": "",
         "audioUrl": "audio/the-waterboy/023_i_see_a_lot_of_guys_too.mp3"
-      },
-      {
-        "text": "I think that's sexy",
-        "character": "",
-        "audioUrl": "audio/the-waterboy/024_i_think_that_s_sexy.mp3"
       },
       {
         "text": "You're fat",
@@ -45312,24 +35107,9 @@ const shows = [
         "audioUrl": "audio/the-waterboy/025_i_want_a_boy_yes_mr_cosper_you_you_re_fat.mp3"
       },
       {
-        "text": "I wish you were my boyfriend",
-        "character": "",
-        "audioUrl": "audio/the-waterboy/026_i_wish_you_were_my_boyfriend.mp3"
-      },
-      {
         "text": "Honored if you play football",
         "character": "",
         "audioUrl": "audio/the-waterboy/027_i_would_be_honored_if_you_play_football_for_this_team_me_pla.mp3"
-      },
-      {
-        "text": "Playing with your momma tonight",
-        "character": "",
-        "audioUrl": "audio/the-waterboy/028_i_ll_be_playing_with_your_momma_tonight.mp3"
-      },
-      {
-        "text": "Whoop ass on Hercules",
-        "character": "",
-        "audioUrl": "audio/the-waterboy/029_i_m_gonna_open_a_can_of_whoop_ass_on_hercules.mp3"
       },
       {
         "text": "Well wake her ass up",
@@ -45337,19 +35117,9 @@ const shows = [
         "audioUrl": "audio/the-waterboy/030_i_m_sorry_to_disappoint_you_all_but_please_keep_your_voices.mp3"
       },
       {
-        "text": "In Japan",
-        "character": "",
-        "audioUrl": "audio/the-waterboy/031_in_japan.mp3"
-      },
-      {
         "text": "I bring them the water",
         "character": "",
         "audioUrl": "audio/the-waterboy/032_it_s_just_that_i_m_a_water_boy_the_team_gets_thirsty_and_i_b.mp3"
-      },
-      {
-        "text": "Little girls are the devil",
-        "character": "",
-        "audioUrl": "audio/the-waterboy/033_little_girls_are_the_devil.mp3"
       },
       {
         "text": "Lock me up is not good",
@@ -45362,19 +35132,9 @@ const shows = [
         "audioUrl": "audio/the-waterboy/035_mama_vicky_is_in_astrology_i_don_t_believe_in_that_sort_of_t.mp3"
       },
       {
-        "text": "Needle dick!",
-        "character": "",
-        "audioUrl": "audio/the-waterboy/036_needle_dick.mp3"
-      },
-      {
         "text": "Now that's high quality H2O",
         "character": "",
         "audioUrl": "audio/the-waterboy/037_now_that_s_what_i_call_high_quality_eight_tools.mp3"
-      },
-      {
-        "text": "Oh no, we suck again",
-        "character": "",
-        "audioUrl": "audio/the-waterboy/038_oh_no_we_suck_again.mp3"
       },
       {
         "text": "We suck again",
@@ -45407,19 +35167,9 @@ const shows = [
         "audioUrl": "audio/the-waterboy/045_rob_gibson_look_michael_shane_after_mark_paul_i_love_my_mama.mp3"
       },
       {
-        "text": "School is for the devil",
-        "character": "",
-        "audioUrl": "audio/the-waterboy/046_school_is_for_the_devil.mp3"
-      },
-      {
         "text": "His medulla oblongata",
         "character": "",
         "audioUrl": "audio/the-waterboy/047_something_wrong_with_his_medulla_oblongata.mp3"
-      },
-      {
-        "text": "Stop making fun of me",
-        "character": "",
-        "audioUrl": "audio/the-waterboy/048_stop_making_fun_of_me.mp3"
       },
       {
         "text": "What's your secret?",
@@ -45455,11 +35205,6 @@ const shows = [
         "text": "Shut up, Brent",
         "character": "",
         "audioUrl": "audio/the-waterboy/055_the_water_boy_just_needed_some_water_wow_dan_you_think_that.mp3"
-      },
-      {
-        "text": "Cut his head off",
-        "character": "",
-        "audioUrl": "audio/the-waterboy/056_the_waterboys_the_cheetah_cut_his_head_off_yeah.mp3"
       },
       {
         "text": "A guy and a girl at the same time",
@@ -45522,24 +35267,9 @@ const shows = [
         "audioUrl": "audio/the-waterboy/068_who_s_bad_enough_for_the_devil_it_s_where_my_barbie.mp3"
       },
       {
-        "text": "You are a bad boy",
-        "character": "",
-        "audioUrl": "audio/the-waterboy/069_you_are_a_bad_boy.mp3"
-      },
-      {
-        "text": "You are so cute",
-        "character": "",
-        "audioUrl": "audio/the-waterboy/070_you_are_so_cute.mp3"
-      },
-      {
         "text": "You can do it",
         "character": "",
         "audioUrl": "audio/the-waterboy/071_you_can_do_it.mp3"
-      },
-      {
-        "text": "Cut this fucking head off",
-        "character": "",
-        "audioUrl": "audio/the-waterboy/072_you_can_do_it_cut_this_fucking_head_off.mp3"
       },
       {
         "text": "You can do it all night long",
@@ -45828,7 +35558,7 @@ const shows = [
         "audioUrl": "audio/futurama/074_fry_dance.mp3"
       },
       {
-        "text": "Funny cuz it's mean",
+        "text": "Funny because it's mean",
         "character": "",
         "audioUrl": "audio/futurama/076_funny_cuz_its_mean.mp3"
       },
@@ -46003,7 +35733,7 @@ const shows = [
         "audioUrl": "audio/futurama/172_let_me_show_you_around_that_s_my_lab_table_and_this_is_my_wo.mp3"
       },
       {
-        "text": "Lick My Frozen Metal Ass",
+        "text": "Lick my frozen metal ass",
         "character": "",
         "audioUrl": "audio/futurama/175_lick_my_frozen_metal_ass.mp3"
       },
@@ -46023,22 +35753,22 @@ const shows = [
         "audioUrl": "audio/futurama/181_murder_hornets.mp3"
       },
       {
-        "text": "Name It, and I'm There",
+        "text": "Name it, and I'm there",
         "character": "",
         "audioUrl": "audio/futurama/182_name_it_and_i_m_there.mp3"
       },
       {
-        "text": "Neutrals Sicken Me",
+        "text": "Neutrals sicken me",
         "character": "",
         "audioUrl": "audio/futurama/185_neutrals_sicken_me.mp3"
       },
       {
-        "text": "New Years Countdown",
+        "text": "New Years countdown",
         "character": "",
         "audioUrl": "audio/futurama/186_new_years_countdown.mp3"
       },
       {
-        "text": "No One is Saying That, But I'm Certainly Thinking It Loudly",
+        "text": "No one is saying that, but I'm certainly thinking it loudly",
         "character": "",
         "audioUrl": "audio/futurama/187_no_one_is_saying_that_but_i_m_certainly_thinking_it_loudly.mp3"
       },
@@ -46053,7 +35783,7 @@ const shows = [
         "audioUrl": "audio/futurama/190_nope.mp3"
       },
       {
-        "text": "Now I'm All You Got",
+        "text": "Now I'm all you got",
         "character": "",
         "audioUrl": "audio/futurama/194_now_i_m_all_you_got.mp3"
       },
@@ -46108,7 +35838,7 @@ const shows = [
         "audioUrl": "audio/futurama/212_robot_santa.mp3"
       },
       {
-        "text": "Robot Scratching Post",
+        "text": "Robot scratching post",
         "character": "",
         "audioUrl": "audio/futurama/213_robot_scratching_post.mp3"
       },
@@ -46198,7 +35928,7 @@ const shows = [
         "audioUrl": "audio/futurama/254_to_shreds_you_say.mp3"
       },
       {
-        "text": "Touch Your Toes",
+        "text": "Touch your toes",
         "character": "",
         "audioUrl": "audio/futurama/255_touch_your_toes.mp3"
       },
@@ -46213,7 +35943,7 @@ const shows = [
         "audioUrl": "audio/futurama/258_tv_party_tonight.mp3"
       },
       {
-        "text": "Vending Machine Coffee",
+        "text": "Vending machine coffee",
         "character": "",
         "audioUrl": "audio/futurama/261_vending_machine_coffee.mp3"
       },
@@ -46233,7 +35963,7 @@ const shows = [
         "audioUrl": "audio/futurama/266_we_are_pretty_and_barely_get_over_with_so_many_guys_develop.mp3"
       },
       {
-        "text": "We Have To Wake Him Up",
+        "text": "We have to wake him up",
         "character": "",
         "audioUrl": "audio/futurama/267_we_have_to_wake_him_up.mp3"
       },
@@ -46288,7 +36018,7 @@ const shows = [
         "audioUrl": "audio/futurama/287_who_are_you_and_you_dear_old_uncle_fry_i_don_t_have_an_uncle.mp3"
       },
       {
-        "text": "Who Will Make Bender Waffles Now",
+        "text": "Who will make Bender waffles now",
         "character": "",
         "audioUrl": "audio/futurama/290_who_will_make_bender_waffles_just_the_way_he_likes_them_now.mp3"
       },
@@ -46298,12 +36028,12 @@ const shows = [
         "audioUrl": "audio/futurama/293_woopwoopwoop.mp3"
       },
       {
-        "text": "Wow, Your Kid is Great",
+        "text": "Wow, your kid is great",
         "character": "",
         "audioUrl": "audio/futurama/294_wow_your_kid_is_great.mp3"
       },
       {
-        "text": "Wreck Up the Place",
+        "text": "Wreck up the place",
         "character": "",
         "audioUrl": "audio/futurama/295_wreck_up_the_place.mp3"
       },
@@ -46323,12 +36053,12 @@ const shows = [
         "audioUrl": "audio/futurama/302_you_can_crush_me_but_you_can_t_crush_my_spirit.mp3"
       },
       {
-        "text": "You Know, It's Funny..",
+        "text": "You know, it's funny..",
         "character": "",
         "audioUrl": "audio/futurama/305_you_know_it_s_funny.mp3"
       },
       {
-        "text": "You Lived Before You Met Me?",
+        "text": "You lived before you met me?",
         "character": "",
         "audioUrl": "audio/futurama/306_you_lived_before_you_met_me.mp3"
       }
@@ -46586,7 +36316,7 @@ const shows = [
         "audioUrl": "audio/i-robot/048_spoon_are_you_sure_you_are_ready_to_be_back_cause_you_can_ta.mp3"
       },
       {
-        "text": "End Program! Shutdown!",
+        "text": "End program! Shutdown!",
         "character": "",
         "audioUrl": "audio/i-robot/049_susan_calvin_looks_at_spooner_s_present_day_cd_stereo_play_o.mp3"
       },
@@ -47127,11 +36857,6 @@ const shows = [
         "audioUrl": "audio/30-rock/001_a_guaranteed_disaster.mp3"
       },
       {
-        "text": "Alec Baldwin thumbs up",
-        "character": "",
-        "audioUrl": "audio/30-rock/002_alec_baldwin_thumbs_up.mp3"
-      },
-      {
         "text": "Big laughs",
         "character": "",
         "audioUrl": "audio/30-rock/003_big_laughs.mp3"
@@ -47182,24 +36907,9 @@ const shows = [
         "audioUrl": "audio/30-rock/012_goodbye_forever.mp3"
       },
       {
-        "text": "Grow up",
-        "character": "",
-        "audioUrl": "audio/30-rock/013_grow_up.mp3"
-      },
-      {
-        "text": "Guaranteed disaster",
-        "character": "",
-        "audioUrl": "audio/30-rock/014_guaranteed_disaster.mp3"
-      },
-      {
         "text": "High maintenance",
         "character": "",
         "audioUrl": "audio/30-rock/015_high_maintenance.mp3"
-      },
-      {
-        "text": "How do you do fellow kids",
-        "character": "",
-        "audioUrl": "audio/30-rock/016_how_do_you_do_fellow_kids.mp3"
       },
       {
         "text": "Humor as a coping mechanism",
@@ -47227,11 +36937,6 @@ const shows = [
         "audioUrl": "audio/30-rock/021_i_wanna_roll_my_eyes_right_now.mp3"
       },
       {
-        "text": "I'm mad at your success",
-        "character": "",
-        "audioUrl": "audio/30-rock/022_i_m_mad_at_your_success.mp3"
-      },
-      {
         "text": "I'm not an executive",
         "character": "",
         "audioUrl": "audio/30-rock/023_i_m_not_an_executive.mp3"
@@ -47250,16 +36955,6 @@ const shows = [
         "text": "My fists will do the talking for me",
         "character": "",
         "audioUrl": "audio/30-rock/026_my_fists_will_do_the_talking_for_me.mp3"
-      },
-      {
-        "text": "Never go with a hippie to a second location",
-        "character": "",
-        "audioUrl": "audio/30-rock/027_never_go_with_a_hippie_to_a_second_location.mp3"
-      },
-      {
-        "text": "Oh no. Someone's going to get more attention than me",
-        "character": "",
-        "audioUrl": "audio/30-rock/028_oh_no_someone_s_going_to_get_more_attention_than_me.mp3"
       },
       {
         "text": "Pregnancy test",
@@ -47312,11 +37007,6 @@ const shows = [
         "audioUrl": "audio/30-rock/038_the_world_is_controlled_by_those_who_do_do.mp3"
       },
       {
-        "text": "This is boring. I'm bored now",
-        "character": "",
-        "audioUrl": "audio/30-rock/039_this_is_boring_i_m_bored_now.mp3"
-      },
-      {
         "text": "Those shoes are definitely bicurious",
         "character": "",
         "audioUrl": "audio/30-rock/040_those_shoes_are_definitely_bicurious.mp3"
@@ -47342,29 +37032,14 @@ const shows = [
         "audioUrl": "audio/30-rock/044_werewolf_bar_mitzvah.mp3"
       },
       {
-        "text": "What a week, huh?",
-        "character": "",
-        "audioUrl": "audio/30-rock/045_what_a_week_huh.mp3"
-      },
-      {
         "text": "What am I, a farmer?",
         "character": "",
         "audioUrl": "audio/30-rock/046_what_am_i_a_farmer.mp3"
       },
       {
-        "text": "What would Oprah do?",
-        "character": "",
-        "audioUrl": "audio/30-rock/047_what_would_oprah_do.mp3"
-      },
-      {
         "text": "Why do you punish yourself with all this mediocrity?",
         "character": "",
         "audioUrl": "audio/30-rock/048_why_do_you_punish_yourself_with_all_this_mediocrity.mp3"
-      },
-      {
-        "text": "You ancient bitch!",
-        "character": "",
-        "audioUrl": "audio/30-rock/049_you_ancient_bitch.mp3"
       },
       {
         "text": "You can't force your fate",
@@ -47380,11 +37055,6 @@ const shows = [
         "text": "You must be ruthless",
         "character": "",
         "audioUrl": "audio/30-rock/052_you_must_be_ruthless.mp3"
-      },
-      {
-        "text": "You should all learn from Pete's mistake",
-        "character": "",
-        "audioUrl": "audio/30-rock/053_you_should_all_learn_from_pete_s_mistake.mp3"
       },
       {
         "text": "You still haven't blown it completely",
@@ -47951,7 +37621,7 @@ const shows = [
         "audioUrl": "audio/tommy-boy/022_i_did_call_earlier_using_the_phone.mp3"
       },
       {
-        "text": "I PASSED!",
+        "text": "I passed!",
         "character": "",
         "audioUrl": "audio/tommy-boy/023_i_passed.mp3"
       },

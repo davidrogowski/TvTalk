@@ -19,7 +19,7 @@
   CHARACTER: 
 
 006_boom.mp3
-  "BOOM"
+  "Boom"
   CHARACTER: 
 
 007_boring_take_nap.mp3
@@ -38,18 +38,6 @@
   "Escalator down to casino"
   CHARACTER: 
 
-011_fake_laugh.mp3
-  "Fake Laugh"
-  CHARACTER: 
-
-012_ha_classic.mp3
-  "Ha, classic!"
-  CHARACTER: 
-
-013_how_dare_you.mp3
-  "How dare you"
-  CHARACTER: 
-
 014_i_can_feel_it_coming_in_the_air_tonight.mp3
   "I can feel it coming in the air tonight"
   CHARACTER: 
@@ -63,7 +51,7 @@
   CHARACTER: 
 
 017_in_the_face.mp3
-  "In The Face"
+  "In the face"
   CHARACTER: 
 
 018_it_s_funny_because_he_s_fat.mp3
@@ -90,24 +78,12 @@
   "Nice"
   CHARACTER: 
 
-024_no_thank_you.mp3
-  "No thank you"
-  CHARACTER: 
-
 025_not_you_fat_jesus.mp3
   "Not you fat jesus"
   CHARACTER: 
 
-026_oh_my_god.mp3
-  "Oh my god!"
-  CHARACTER: 
-
-027_ok_byeeee.mp3
-  "Ok byeeee"
-  CHARACTER: 
-
 028_one_man_wolf_pack.mp3
-  "One Man Wolf Pack"
+  "One man wolf pack"
   CHARACTER: 
 
 029_paging_the_doctor.mp3
@@ -122,12 +98,8 @@
   "So long, gay boys"
   CHARACTER: 
 
-032_suck_my_dick.mp3
-  "Suck my dick"
-  CHARACTER: 
-
 033_thanks_a_lot_bin_laden.mp3
-  "Thanks a Lot Bin Laden"
+  "Thanks a lot Bin Laden"
   CHARACTER: 
 
 034_that_s_a_fake_laugh.mp3
@@ -139,7 +111,7 @@
   CHARACTER: 
 
 036_the_doug_song.mp3
-  "The Doug Song"
+  "The Doug song"
   CHARACTER: 
 
 037_this_isn_t_the_real_caesar_s_palace_is_it.mp3
@@ -147,35 +119,19 @@
   CHARACTER: 
 
 038_three_best_friends_that_anyone_could_have.mp3
-  "Three Best Friends That Anyone Could Have"
-  CHARACTER: 
-
-039_thumbs_up.mp3
-  "Thumbs Up"
+  "Three best friends that anyone could have"
   CHARACTER: 
 
 040_toodaloo_mother_f_cker.mp3
-  "Toodaloo, Mother F**cker"
-  CHARACTER: 
-
-041_vegas.mp3
-  "Vegas!"
+  "Toodaloo, mother f**cker"
   CHARACTER: 
 
 042_we_fucked_up.mp3
   "We fucked up"
   CHARACTER: 
 
-043_what_you_talking_about.mp3
-  "What you talking about"
-  CHARACTER: 
-
 044_what_s_his_name.mp3
   "What's his name?"
-  CHARACTER: 
-
-045_where_is_doug.mp3
-  "Where is Doug"
   CHARACTER: 
 
 046_woo_road_trip.mp3
@@ -186,18 +142,6 @@
   "Yeah, that's not gonna happen"
   CHARACTER: 
 
-048_you_are_too_stupid_to_insult.mp3
-  "You are Too Stupid to Insult"
-  CHARACTER: 
-
 049_you_gonna_fuck_on_me.mp3
   "You gonna fuck on me?"
-  CHARACTER: 
-
-050_your_choice_bitches.mp3
-  "Your choice, bitches"
-  CHARACTER: 
-
-051_your_language_is_offensive.mp3
-  "Your Language is offensive"
   CHARACTER: 

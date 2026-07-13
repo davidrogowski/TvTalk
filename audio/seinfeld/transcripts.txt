@@ -1,13 +1,9 @@
 001_a_jesus_fish.mp3
-  "A Jesus Fish!"
+  "A Jesus fish!"
   CHARACTER: 
 
 002_a_new_holiday_was_born_a_festivus_for_the_rest_of_us.mp3
   "A Festivus for the rest of us"
-  CHARACTER: 
-
-004_and_i_m_assuming_i_need_it_right_away.mp3
-  "And I'm assuming I need it right away"
   CHARACTER: 
 
 005_and_you_wanna_be_my_latex_sailor.mp3
@@ -22,32 +18,16 @@
   "And you want to be my latex salesman?"
   CHARACTER: 
 
-008_another_festivus_miracle.mp3
-  "Another Festivus Miracle!"
-  CHARACTER: 
-
 011_apartheid_rsa_seinfeld.mp3
   "Apartheid RSA + Seinfeld"
   CHARACTER: 
 
-013_are_these_free.mp3
-  "Are These Free?"
-  CHARACTER: 
-
 014_are_you_crazy.mp3
-  "Are You Crazy"
+  "Are you crazy"
   CHARACTER: 
 
 015_are_you_crazy.mp3
-  "Are You Crazy"
-  CHARACTER: 
-
-016_are_you_crazy.mp3
-  "Are You Crazy?!"
-  CHARACTER: 
-
-017_awful_i_hate_it.mp3
-  "Awful, I hate it"
+  "Are you crazy"
   CHARACTER: 
 
 018_back_it_up.mp3
@@ -62,20 +42,12 @@
   "Blow it off"
   CHARACTER: 
 
-023_but_i_don_t_wanna_be_a_pirate.mp3
-  "But I don't wanna be a pirate!"
-  CHARACTER: 
-
 024_child_named_seven.mp3
   "Child named seven"
   CHARACTER: 
 
 025_chiropractor_didn_t_do_anything.mp3
   "Chiropractor didn't do anything"
-  CHARACTER: 
-
-027_come_and_listen_to_the_idiot.mp3
-  "Come and listen to the idiot!"
   CHARACTER: 
 
 028_cucumbers_on_pizza.mp3
@@ -95,19 +67,15 @@
   CHARACTER: 
 
 033_dinners_movies_talking.mp3
-  "Dinners, Movies, Talking"
+  "Dinners, movies, talking"
   CHARACTER: 
 
 034_do_you_ever_get_down_on_one_knee_and_thank_god_for_me.mp3
   "Thank God for me"
   CHARACTER: 
 
-035_do_you_know_how_it_s_getting_telling_people_i_even_know_you.mp3
-  "Embarrassing to know you"
-  CHARACTER: 
-
 036_do_you_want_to_have_sex_with_me_right_now.mp3
-  "Do You Want To Have Sex With Me Right Now"
+  "Do you want to have sex with me right now"
   CHARACTER: 
 
 038_double_dipped_the_chip.mp3
@@ -119,11 +87,11 @@
   CHARACTER: 
 
 041_elaine_christmas_card.mp3
-  "Elaine Christmas Card"
+  "Elaine Christmas card"
   CHARACTER: 
 
 043_elaine_no_more_soup_for_you.mp3
-  "Elaine No More Soup for You.."
+  "Elaine no more soup for you.."
   CHARACTER: 
 
 044_elaine_says_die.mp3
@@ -134,52 +102,28 @@
   "Everytime I think i'm out the pull me back in"
   CHARACTER: 
 
-046_festivus_is_back.mp3
-  "Festivus is back!"
-  CHARACTER: 
-
 049_george_and_the_fire.mp3
   "George and the fire"
   CHARACTER: 
 
 050_george_costanza_sleeping_under_desk.mp3
-  "George Costanza Sleeping Under Desk"
-  CHARACTER: 
-
-051_george_is_getting_upset.mp3
-  "George is getting upset"
+  "George Costanza sleeping under desk"
   CHARACTER: 
 
 052_george_likes_his_chicken_spicy.mp3
-  "George likes his Chicken Spicy"
-  CHARACTER: 
-
-053_get_a_picture_of_him_with_his_shirt_off.mp3
-  "Get A Picture Of Him With His Shirt Off"
+  "George likes his chicken spicy"
   CHARACTER: 
 
 054_get_in_the_mood.mp3
-  "Get In The Mood"
+  "Get in the mood"
   CHARACTER: 
 
 056_get_well_cake.mp3
-  "Get Well Cake"
-  CHARACTER: 
-
-057_get_well_get_well_soon.mp3
-  "Get well, get well soon!"
+  "Get well cake"
   CHARACTER: 
 
 060_give_me_a_big_smile.mp3
-  "Give Me A Big Smile"
-  CHARACTER: 
-
-061_goerge_is_getting_upset.mp3
-  "George is getting upset"
-  CHARACTER: 
-
-062_good_let_s_keep_it_that_way.mp3
-  "Good Let's keep it that way"
+  "Give me a big smile"
   CHARACTER: 
 
 063_grab_a_broom_sweep_sweep_sweep.mp3
@@ -187,14 +131,10 @@
   CHARACTER: 
 
 069_happy_festivus_everyone.mp3
-  "Happy Festivus, Everyone!"
+  "Happy Festivus, everyone!"
   CHARACTER: 
 
 070_he_took_it_out.mp3
-  "He Took It Out"
-  CHARACTER: 
-
-071_he_took_it_out.mp3
   "He took it out"
   CHARACTER: 
 
@@ -206,32 +146,12 @@
   "He's a little hot"
   CHARACTER: 
 
-074_he_s_got_a_great_butt.mp3
-  "He's Got A Great Butt"
-  CHARACTER: 
-
-081_his_buttocks_are_sublime.mp3
-  "His Buttocks Are Sublime"
-  CHARACTER: 
-
-082_his_wife_is_in_a_coma.mp3
-  "His wife is in a coma."
-  CHARACTER: 
-
-083_how_did_i_not_think_of_this_earlier.mp3
-  "How did I not think of this earlier"
-  CHARACTER: 
-
 084_how_do_you_cross_those_wires_i_didn_t_cross_any_wires_the_ke.mp3
   "The keys were in it"
   CHARACTER: 
 
 086_how_you_doin_over_there.mp3
   "How you doin over there?"
-  CHARACTER: 
-
-087_i_can_browse_around_on_my_own.mp3
-  "I can browse around on my own"
   CHARACTER: 
 
 088_i_can_t_help_you.mp3
@@ -246,14 +166,6 @@
   "I could drop you like a bag of dirt"
   CHARACTER: 
 
-091_i_don_t_even_know_what_you_re_talking_about.mp3
-  "I don't even know what you're talking about"
-  CHARACTER: 
-
-092_i_don_t_even_really_work_here.mp3
-  "I don't even really work here"
-  CHARACTER: 
-
 093_i_don_t_understand_how_do_these_thieves_start_the_car_do_the.mp3
   "I can't even make spaghetti"
   CHARACTER: 
@@ -263,11 +175,7 @@
   CHARACTER: 
 
 095_i_find_you_extremely_ugly.mp3
-  "I Find You Extremely Ugly"
-  CHARACTER: 
-
-096_i_find_your_belief_system_fascinating.mp3
-  "I find your belief system, fascinating"
+  "I find you extremely ugly"
   CHARACTER: 
 
 097_i_got_a_lot_of_problems_with_you_people_now_you_re_gonna_hea.mp3
@@ -275,7 +183,7 @@
   CHARACTER: 
 
 098_i_got_it.mp3
-  "I Got It"
+  "I got it"
   CHARACTER: 
 
 099_i_got_it.mp3
@@ -290,20 +198,12 @@
   "I gotta focus, I’m shifting into soup mode"
   CHARACTER: 
 
-102_i_gotta_get_out_of_this_city.mp3
-  "I Gotta Get Out Of This City"
-  CHARACTER: 
-
-103_i_hate_him.mp3
-  "I Hate Him"
-  CHARACTER: 
-
 104_i_hate_you_hate_him_i_despise_him_why_i_ll_tell_you_why_let.mp3
   "I despise him"
   CHARACTER: 
 
 105_i_intend_to_undertake_this.mp3
-  "I Intend To Undertake This"
+  "I intend to undertake this"
   CHARACTER: 
 
 106_i_know_less_about_women_than_anyone.mp3
@@ -315,7 +215,7 @@
   CHARACTER: 
 
 108_i_loathe_you.mp3
-  "I Loathe You"
+  "I loathe you"
   CHARACTER: 
 
 109_i_never_know_what_to_say_to_her_about_it_is_one_of_those_pro.mp3
@@ -326,36 +226,16 @@
   "He's stealing our rickshaw"
   CHARACTER: 
 
-111_i_realized_there_had_to_be_another_way.mp3
-  "I Realized There Had to Be Another Way"
-  CHARACTER: 
-
-112_i_really_think_we_need_to_talk.mp3
-  "I really think we need to talk"
-  CHARACTER: 
-
-113_i_really_think_we_need_to_talk.mp3
-  "I Really Think We Need To Talk"
-  CHARACTER: 
-
 114_i_said_spread_em.mp3
   "I said spread em!"
   CHARACTER: 
 
 115_i_stepped_on_your_last_rose.mp3
-  "I Stepped on Your Last Rose"
+  "I stepped on your last rose"
   CHARACTER: 
 
 116_i_stopped_short.mp3
   "I stopped short"
-  CHARACTER: 
-
-117_i_tell_ya_i_gotta_plead_ignorance_on_this_thing.mp3
-  "I tell ya, I gotta plead ignorance on this thing"
-  CHARACTER: 
-
-118_i_think_you_have_me_confused.mp3
-  "I think you have me confused"
   CHARACTER: 
 
 119_i_was_in_the_pool.mp3
@@ -366,12 +246,8 @@
   "I'm a damn good cop!!"
   CHARACTER: 
 
-121_i_m_back_baby.mp3
-  "I'm Back Baby"
-  CHARACTER: 
-
 122_i_m_back_baby.mp3
-  "I'm Back Baby!"
+  "I'm back baby!"
   CHARACTER: 
 
 123_i_m_back_baby_i_m_back.mp3
@@ -382,22 +258,6 @@
   "I'm disturbed, I'm depressed"
   CHARACTER: 
 
-125_i_m_gonna_have_to_keep_my_eye_on_that.mp3
-  "I'm gonna have to keep my eye on that"
-  CHARACTER: 
-
-126_i_m_gonna_let_you_off.mp3
-  "I'm gonna let you off"
-  CHARACTER: 
-
-127_i_m_gonna_need_some_water.mp3
-  "I'm gonna need some water"
-  CHARACTER: 
-
-128_i_m_gonna_need_some_water_here.mp3
-  "I'm Gonna Need Some Water Here"
-  CHARACTER: 
-
 129_i_m_hip_to_the_whole_scene.mp3
   "I'm hip to the whole scene"
   CHARACTER: 
@@ -406,20 +266,8 @@
   "I'm Keith Hernandez"
   CHARACTER: 
 
-131_i_m_not_gonna_betray_that_trust.mp3
-  "I'm not gonna betray that trust"
-  CHARACTER: 
-
 132_i_m_not_treating_you_to_lunch_anymore.mp3
   "I'm not treating you to lunch anymore!"
-  CHARACTER: 
-
-134_i_m_really_sorry.mp3
-  "I'm really sorry."
-  CHARACTER: 
-
-135_i_m_so_sorry.mp3
-  "I'm So Sorry"
   CHARACTER: 
 
 136_i_m_sorry_the_card_says_moops.mp3
@@ -427,7 +275,7 @@
   CHARACTER: 
 
 137_i_m_the_opposite_of_every_guy.mp3
-  "I'm The Opposite Of Every Guy"
+  "I'm the opposite of every guy"
   CHARACTER: 
 
 138_i_m_the_opposite_of_every_guy_you_ve_ever_met.mp3
@@ -447,19 +295,11 @@
   CHARACTER: 
 
 142_in_a_sack.mp3
-  "In A Sack"
+  "In a sack"
   CHARACTER: 
 
 143_installing_a_clarkman_garbage_disposal.mp3
-  "Installing a Clarkman Garbage Disposal"
-  CHARACTER: 
-
-144_is_that_how_you_re_going_to_say_it.mp3
-  "Is That How You're Going To Say It"
-  CHARACTER: 
-
-146_it_s_a_festivus_miracle.mp3
-  "It's a Festivus Miracle!"
+  "Installing a Clarkman garbage disposal"
   CHARACTER: 
 
 147_it_s_a_perfect_plan_so_inspired_so_devious_yet_so_simple_thi.mp3
@@ -471,23 +311,19 @@
   CHARACTER: 
 
 150_it_s_not_a_lie_if_you_believe_it.mp3
-  "It's Not A Lie If You Believe It"
+  "It's not a lie if you believe it"
   CHARACTER: 
 
 151_it_s_not_a_lie_if_you_believe_it.mp3
   "It's not a lie, if you believe it"
   CHARACTER: 
 
-152_it_s_not_the_same.mp3
-  "It's not the same"
-  CHARACTER: 
-
 153_it_s_not_the_sats.mp3
-  "It's Not The SATs"
+  "It's not the SATs"
   CHARACTER: 
 
 154_it_s_not_you_it_s_me.mp3
-  "It's Not You, It's Me"
+  "It's not you, it's me"
   CHARACTER: 
 
 155_it_s_true_you_can_t_do_the_switch_nobody_can_do_the_switch_i.mp3
@@ -510,28 +346,16 @@
   "You're an anti-dentite"
   CHARACTER: 
 
-179_let_s_have_a_looksy.mp3
-  "Let's Have A Looksy"
-  CHARACTER: 
-
 181_let_s_get_nuts.mp3
   "Let’s get nuts"
-  CHARACTER: 
-
-182_lets_keep_it_that_way.mp3
-  "Lets keep it that way"
   CHARACTER: 
 
 183_living_in_the_past_man.mp3
   "Living in the past man"
   CHARACTER: 
 
-184_look_at_this.mp3
-  "Look At This"
-  CHARACTER: 
-
 185_look_away_i_m_hideous.mp3
-  "Look Away I'm Hideous"
+  "Look away I'm hideous"
   CHARACTER: 
 
 187_looking_at_cleavage_is_like_looking_at_the_sun_you_don_t_sta.mp3
@@ -547,7 +371,7 @@
   CHARACTER: 
 
 190_movie_theater_noise.mp3
-  "Movie Theater Noise"
+  "Movie theater noise"
   CHARACTER: 
 
 191_moving_to_florida.mp3
@@ -567,7 +391,7 @@
   CHARACTER: 
 
 195_my_mother_caught_me.mp3
-  "My Mother Caught Me"
+  "My mother caught me"
   CHARACTER: 
 
 196_name_baby_seven.mp3
@@ -575,51 +399,23 @@
   CHARACTER: 
 
 197_newman_insult_full_scene.mp3
-  "Newman Insult Full Scene"
+  "Newman insult full scene"
   CHARACTER: 
 
 199_no_no_no_no_no.mp3
-  "No No No No No"
+  "No no no no no"
   CHARACTER: 
 
 200_no_offense_this_holiday_s_a_little_out_there.mp3
   "No offense, this holiday's a little out there"
   CHARACTER: 
 
-202_no_soup_for_you.mp3
-  "No soup for you!"
-  CHARACTER: 
-
-203_no_tippy_toe.mp3
-  "No Tippy Toe?"
-  CHARACTER: 
-
-204_no_no_i_m_working_on_it.mp3
-  "No, no, I'm working on it."
-  CHARACTER: 
-
 205_no_no_see_that_s_no_good_see_you_don_t_know_how_to_act.mp3
   "You don't know how to act"
   CHARACTER: 
 
-206_nobody_came_up_i_hang_up.mp3
-  "Nobody came up. I hang up."
-  CHARACTER: 
-
-207_not_an_orgy_guy.mp3
-  "Not an Orgy Guy"
-  CHARACTER: 
-
-208_not_that_there_s_anything_wrong_with_that.mp3
-  "Not that there's anything wrong with that"
-  CHARACTER: 
-
-209_not_to_run.mp3
-  "Not To Run"
-  CHARACTER: 
-
 211_now_as_festivus_rolls_on_we_come_to_the_feats_of_strength.mp3
-  "The Feats of Strength"
+  "The feats of strength"
   CHARACTER: 
 
 212_now_why_don_t_you_give_me_your_home_number_and_i_ll_call_you.mp3
@@ -630,20 +426,8 @@
   "Oh I'm stressed"
   CHARACTER: 
 
-215_oh_my_god.mp3
-  "Oh my God."
-  CHARACTER: 
-
-216_oh_not_a_problem.mp3
-  "Oh not a problem"
-  CHARACTER: 
-
 217_oh_the_humanity.mp3
   "Oh, the humanity!"
-  CHARACTER: 
-
-219_one_in_a_million_hand.mp3
-  "One in a Million Hand"
   CHARACTER: 
 
 220_outrageous_egregious_preposterous.mp3
@@ -651,23 +435,15 @@
   CHARACTER: 
 
 224_problem_for_them.mp3
-  "Problem For Them"
+  "Problem for them"
   CHARACTER: 
 
 252_serenity_now_insanity_later.mp3
-  "Serenity Now, Insanity Later"
-  CHARACTER: 
-
-255_serenity_now_cantsantya.mp3
-  "Serenity now!"
-  CHARACTER: 
-
-256_shut_up_shut_up.mp3
-  "Shut up. Shut up."
+  "Serenity now, insanity later"
   CHARACTER: 
 
 257_shut_your_mouth.mp3
-  "Shut Your Mouth"
+  "Shut your mouth"
   CHARACTER: 
 
 258_sick_is_the_only_way_to_go.mp3
@@ -691,7 +467,7 @@
   CHARACTER: 
 
 268_sweet_fancy_moses.mp3
-  "Sweet Fancy Moses"
+  "Sweet fancy Moses"
   CHARACTER: 
 
 269_t_bone_the_ladies_are_gonna_love_you.mp3
@@ -702,28 +478,12 @@
   "Taking care of business"
   CHARACTER: 
 
-271_that_is_so_cool.mp3
-  "That is so cool!"
-  CHARACTER: 
-
-272_that_s_a_shame.mp3
-  "That's a shame"
-  CHARACTER: 
-
 274_that_s_gold_jerry_gold.mp3
-  "That's Gold Jerry, Gold"
+  "That's gold Jerry, gold"
   CHARACTER: 
 
 275_that_s_gold_jerry.mp3
-  "That's GOLD Jerry!"
-  CHARACTER: 
-
-276_that_s_my_car.mp3
-  "That's my car."
-  CHARACTER: 
-
-277_that_s_no_good.mp3
-  "That's No Good"
+  "That's gold Jerry!"
   CHARACTER: 
 
 278_that_s_not_going_to_be_good_for_business.mp3
@@ -731,23 +491,19 @@
   CHARACTER: 
 
 279_the_answering_machine.mp3
-  "The Answering Machine"
-  CHARACTER: 
-
-280_the_best_jerry_the_best_kenny_bania.mp3
-  "The best, Jerry, the best! (Kenny Bania)"
+  "The answering machine"
   CHARACTER: 
 
 281_the_big_salad.mp3
-  "The Big Salad"
+  "The big salad"
   CHARACTER: 
 
 282_the_festivus_dinner.mp3
-  "The Festivus Dinner"
+  "The Festivus dinner"
   CHARACTER: 
 
 283_the_jerk_store_called.mp3
-  "The Jerk Store Called"
+  "The jerk store called"
   CHARACTER: 
 
 285_the_ocean_called.mp3
@@ -763,7 +519,7 @@
   CHARACTER: 
 
 288_there_s_nothing_funny_about_that.mp3
-  "There's Nothing Funny About That"
+  "There's nothing funny about that"
   CHARACTER: 
 
 289_these_pretzels_are_making_me_thirsty.mp3
@@ -771,7 +527,7 @@
   CHARACTER: 
 
 290_these_pretzels_are_making_me_thirsty.mp3
-  "These Pretzels are Making Me Thirsty"
+  "These pretzels are making me thirsty"
   CHARACTER: 
 
 291_these_pretzels_i_m_making_me_thirsty.mp3
@@ -786,32 +542,16 @@
   "They're real and they're spectacular"
   CHARACTER: 
 
-294_this_is_anarchy.mp3
-  "This Is Anarchy!"
-  CHARACTER: 
-
-295_this_man_is_a_genius.mp3
-  "This man is a genius"
-  CHARACTER: 
-
-296_this_whole_place_is_going_downhill.mp3
-  "This whole place is going downhill"
-  CHARACTER: 
-
-298_today_is_your_lucky_day_junior.mp3
-  "Today is your lucky day junior"
-  CHARACTER: 
-
 299_toilet_paper_elaine.mp3
-  "Toilet Paper Elaine"
+  "Toilet paper Elaine"
   CHARACTER: 
 
 300_tried_to_be_nice.mp3
-  "Tried to Be Nice"
+  "Tried to be nice"
   CHARACTER: 
 
 301_unfortunately_the_immutable_laws_of_physics.mp3
-  "Unfortunately The Immutable Laws Of Physics"
+  "Unfortunately the immutable laws of physics"
   CHARACTER: 
 
 302_unfortunately_we_ran_out_of_cars_but_the_reservation_keeps_t.mp3
@@ -819,23 +559,19 @@
   CHARACTER: 
 
 303_uno_momento_por_favor.mp3
-  "UNO MOMENTO, POR FAVOR!"
-  CHARACTER: 
-
-305_was_that_wrong.mp3
-  "Was that wrong?"
+  "Uno momento, por favor!"
   CHARACTER: 
 
 306_wasn_t_talking_to_you.mp3
-  "Wasn't Talking To You"
+  "Wasn't talking to you"
   CHARACTER: 
 
 307_we_all_want_the_hand.mp3
-  "We All Want the Hand"
+  "We all want the hand"
   CHARACTER: 
 
 308_we_are_in_a_society.mp3
-  "We Are In A Society"
+  "We are in a society"
   CHARACTER: 
 
 309_we_are_living_in_a_society_act_in_a_civilized_way.mp3
@@ -843,7 +579,7 @@
   CHARACTER: 
 
 310_we_want_you_to_get_well.mp3
-  "We Want You to Get Well"
+  "We want you to get well"
   CHARACTER: 
 
 311_we_re_moving_to_florida.mp3
@@ -851,35 +587,7 @@
   CHARACTER: 
 
 312_well_now_we_re_gettin_somewhere.mp3
-  "Well Now We’re Gettin’ Somewhere"
-  CHARACTER: 
-
-313_what_are_we_going_to_do_there.mp3
-  "What Are We Going To Do There"
-  CHARACTER: 
-
-314_what_are_you_eating.mp3
-  "What are you eating?"
-  CHARACTER: 
-
-315_what_do_you_mean_you_re_not_gonna_do_it.mp3
-  "What do you mean you're not gonna do it?"
-  CHARACTER: 
-
-316_what_the_hell_do_i_know_about_cooking_a_shirt.mp3
-  "What the hell do I know about cooking a shirt?"
-  CHARACTER: 
-
-317_what_the_hell_does_that_mean.mp3
-  "What the hell does that mean?"
-  CHARACTER: 
-
-318_who_could_love_me.mp3
-  "Who Could Love Me?"
-  CHARACTER: 
-
-319_who_could_love_me.mp3
-  "Who Could Love Me?"
+  "Well now we’re gettin’ somewhere"
   CHARACTER: 
 
 321_would_it_kill_you_not_to_be_so_funny_all_the_time.mp3
@@ -887,15 +595,11 @@
   CHARACTER: 
 
 322_would_it_kill_you_to_not_be_funny.mp3
-  "Would It Kill You To Not Be Funny"
+  "Would it kill you to not be funny"
   CHARACTER: 
 
 323_would_you_like_to_come_up_for_some_coffee.mp3
   "Would you like to come up for some coffee?"
-  CHARACTER: 
-
-324_wow_that_was_fast.mp3
-  "Wow, that was fast"
   CHARACTER: 
 
 325_wow_that_was_fast_what_was_that_woman_across_the_street_you.mp3
@@ -906,24 +610,12 @@
   "Yada yada yada"
   CHARACTER: 
 
-327_yada_yada_yada_i_m_still_single.mp3
-  "Yada yada yada, I'm still single"
-  CHARACTER: 
-
-328_yadda_yadda_yadda_i_m_really_tired_today.mp3
-  "Yadda yadda yadda. I'm really tired today."
-  CHARACTER: 
-
 330_yeah_well_he_s_in_perfect_health_he_works_out_he_s_vibrant_h.mp3
   "I hate everybody"
   CHARACTER: 
 
-332_you_anti_dentite_bastard.mp3
-  "You Anti Dentite bastard"
-  CHARACTER: 
-
 333_you_are_nothing_but_a_piece_of_crap.mp3
-  "You Are Nothing But a Piece of Crap"
+  "You are nothing but a piece of crap"
   CHARACTER: 
 
 334_you_dip_the_chip_you_took_a_bite_and_you_dipped_again.mp3
@@ -935,31 +627,15 @@
   CHARACTER: 
 
 336_you_emit_a_foul_and_unpleasant_odor.mp3
-  "You Emit a Foul and Unpleasant Odor"
+  "You emit a foul and unpleasant odor"
   CHARACTER: 
 
 337_you_gotta_get_some_lifts_for_your_shoes.mp3
-  "You Gotta Get Some Lifts for Your Shoes"
-  CHARACTER: 
-
-338_you_hurt_the_maestro_s_feelings.mp3
-  "You hurt the maestro's feelings"
-  CHARACTER: 
-
-339_you_just_blew_my_mind.mp3
-  "You just blew my mind"
+  "You gotta get some lifts for your shoes"
   CHARACTER: 
 
 340_you_think_that_dentists_are_so_different_from_me_and_you_the.mp3
   "Dentists came here just like everybody"
-  CHARACTER: 
-
-341_you_wanna_piece_of_me.mp3
-  "You wanna piece of me?"
-  CHARACTER: 
-
-342_you_re_an_idiot.mp3
-  "You're An Idiot"
   CHARACTER: 
 
 343_you_re_banned_from_the_store.mp3
@@ -968,10 +644,6 @@
 
 344_you_re_not_very_bright_are_you.mp3
   "You're not very bright, are you?"
-  CHARACTER: 
-
-345_you_re_scheming_arent_you.mp3
-  "You're scheming arent you?"
   CHARACTER: 
 
 346_you_re_telling_me_wine_is_better_than_pepsi.mp3

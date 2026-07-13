@@ -7,7 +7,7 @@
   CHARACTER: 
 
 013_does_barry_manilow_know_you_raid_his_wardrobe.mp3
-  "Does Barry Manilow Know You Raid His Wardrobe?"
+  "Does Barry Manilow know you raid his wardrobe?"
   CHARACTER: 
 
 014_don_t_mess_with_the_bull_you_ll_get_the_horns.mp3

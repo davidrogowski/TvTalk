@@ -1,12 +1,30 @@
 # Troubleshooting
 
+## "A clip still sounds poisoned — but the verifier says 0"
+
+**This is the most misleading failure mode in the project. Read this before trusting any "0 clips" report.**
+
+There are **three** artifacts, and each detector only sees one of them. A clean bill of health from one tool says nothing about the other two:
+
+| Symptom | Artifact | Detector |
+|---|---|---|
+| Loud chime before the line | Ding chime | `verify_residual_ding.py` |
+| Faint click, then dead air before the line | **Quiet ding tail** (peak ~564, ~1.7% FS) | `strip_lead_artifact.py --show <id>` (dry run) |
+| A voice says "101soundboards dot com" | **Spoken TTS watermark** (~2s) | `strip_tts_watermark.py --show <id>` |
+
+`verify_residual_ding.py` only fires on a **loud** chime (peak ≥ 2000 in the first 60ms). The quiet tail is ~1.7% of full scale and the watermark is speech, so **both pass it silently**. Role Models reported "0 residual ding" while 44 of its 65 clips were reading out a URL.
+
+Run **all three** before believing a show is clean. See [[03 - Workflow#Poison: three different artifacts]].
+
+If a watermarked clip survives a cleanup pass, it is probably a **unique rendition** with no byte-identical twin — add a template for its rendition family to `strip_tts_watermark.py` (`TEMPLATE_SPECS`), sourcing the reference from **git HEAD** if the working tree has already been cleaned.
+
 ## "Audio plays but starts with a notification-ding sound"
 
-101soundboards serves a poisoned MP3 (a 1-second notification chime prepended) to non-browser User-Agents on **legacy community boards**. Modern official boards are unaffected.
+101soundboards serves a poisoned MP3 (a 1-second notification chime prepended) to non-browser User-Agents on **legacy community boards**.
 
-**Detection rule** (works in practice for all observed boards):
-- Board ID < 1,000,000 (5-6 digit IDs, slug ends in `-soundboard`) → **legacy / poisoned**
-- Board ID >= 1,000,000 (7-digit IDs, slug ends in a year like `-2019`) → **clean**
+**Rule for the 1s trim** — and *only* for that; it is **not** a poison test (see above):
+- Board ID < 1,000,000 (5-6 digit IDs, slug ends in `-soundboard`) → **1s ding-trim**
+- Board ID >= 1,000,000, or a low ID with a `-YYYY` slug → **no blunt trim** (may still be poisoned another way — Happy Gilmore is `-1996` and watermarked)
 
 **Fix**: the scraper auto-detects legacy boards from the URL and trims 1.0s off the front of every newly-downloaded MP3 using ffmpeg (`-c copy`, no re-encode). If you ever scrape a board that needs trimming but isn't auto-detected, the manual one-liner is:
 

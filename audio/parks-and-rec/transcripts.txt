@@ -1,17 +1,9 @@
 001_april_ludgate_wine_tasting.mp3
-  "April Ludgate Wine Tasting"
+  "April Ludgate wine tasting"
   CHARACTER: 
 
 002_be_a_man.mp3
   "Be a man"
-  CHARACTER: 
-
-003_ben_wyatt_depressed.mp3
-  "Ben Wyatt Depressed"
-  CHARACTER: 
-
-004_clear_alcohols_are_for_rich_women_on_diets.mp3
-  "Clear alcohols are for rich women on diets"
   CHARACTER: 
 
 005_destroys_phone.mp3
@@ -19,19 +11,11 @@
   CHARACTER: 
 
 006_don_t_be_suspicious.mp3
-  "Don't Be Suspicious"
-  CHARACTER: 
-
-007_don_t_even_care.mp3
-  "Don't Even Care"
+  "Don't be suspicious"
   CHARACTER: 
 
 008_don_t_be_suspicious.mp3
   "Don’t be suspicious"
-  CHARACTER: 
-
-009_everything_hurts_and_i_am_dying.mp3
-  "Everything Hurts and I Am Dying"
   CHARACTER: 
 
 010_galentine_s_day.mp3
@@ -50,28 +34,16 @@
   "Government is a greedy piglet"
   CHARACTER: 
 
-014_how_little_we_thought_about_this.mp3
-  "How little we thought about this"
-  CHARACTER: 
-
 015_i_hate_everything.mp3
   "I hate everything"
-  CHARACTER: 
-
-016_i_hate_people.mp3
-  "I Hate People"
   CHARACTER: 
 
 017_i_have_done_nothing_wrong_ever_in_my_life.mp3
   "I have done nothing wrong, ever in my life"
   CHARACTER: 
 
-018_i_know_more_than_you.mp3
-  "I Know More Than You"
-  CHARACTER: 
-
 019_i_need_to_lie_down_for_a_full_hour.mp3
-  "I Need to Lie Down for a Full Hour"
+  "I need to lie down for a full hour"
   CHARACTER: 
 
 020_i_wanted_to_make_fun_of_stupid_people_while_i_got_drunk.mp3
@@ -111,35 +83,19 @@
   CHARACTER: 
 
 029_medical_condition_of_caring_too_much.mp3
-  "Medical Condition of Caring Too Much"
-  CHARACTER: 
-
-030_money_please.mp3
-  "Money PLEASE"
+  "Medical condition of caring too much"
   CHARACTER: 
 
 031_never_ending_wipe.mp3
   "Never ending wipe"
   CHARACTER: 
 
-032_oh_for_cripes_sake.mp3
-  "Oh for cripes sake"
-  CHARACTER: 
-
 033_rethink_that_move_son.mp3
   "Rethink that move, son"
   CHARACTER: 
 
-034_ron_swanson_fist.mp3
-  "Ron swanson fist"
-  CHARACTER: 
-
 035_she_is_the_worst.mp3
-  "She is THE WORST"
-  CHARACTER: 
-
-036_stay_back_slut.mp3
-  "Stay back, slut"
+  "She is the worst"
   CHARACTER: 
 
 037_stop_pooping.mp3
@@ -147,7 +103,7 @@
   CHARACTER: 
 
 038_teach_a_man_to_fish.mp3
-  "Teach a Man to Fish"
+  "Teach a man to fish"
   CHARACTER: 
 
 039_thank_you_friend.mp3
@@ -158,56 +114,32 @@
   "That was Hilarious"
   CHARACTER: 
 
-041_three_words_treat_yo_self.mp3
-  "Three Words: Treat Yo Self"
-  CHARACTER: 
-
 042_tried_to_be_reasonable.mp3
   "Tried to be Reasonable"
-  CHARACTER: 
-
-043_turn_the_thermostat_to_90_and_leave_me_alone.mp3
-  "Turn the thermostat to 90 and leave me alone"
   CHARACTER: 
 
 044_uh_huh_dancing.mp3
   "Uh huh!"
   CHARACTER: 
 
-045_what.mp3
-  "What!?"
-  CHARACTER: 
-
 046_why_don_t_you_ask_him_about_his_penis.mp3
-  "Why Don't You Ask Him About His Penis?"
+  "Why don't you ask him about his penis?"
   CHARACTER: 
 
 047_would_you_like_a_salad.mp3
-  "Would You Like A Salad?"
-  CHARACTER: 
-
-048_yeah_rock_that_scoober.mp3
-  "Yeah Rock That Scoober"
+  "Would you like a salad?"
   CHARACTER: 
 
 049_you_are_looking_at_a_prime_customer.mp3
   "You are looking at a Prime customer!"
   CHARACTER: 
 
-050_you_re_ridiculous_and_men_s_rights_is_nothing.mp3
-  "You're Ridiculous and Men's Rights is Nothing"
-  CHARACTER: 
-
 051_amazon_baby_that_s_how.mp3
   "Amazon baby, that's how"
   CHARACTER: 
 
-052_anything_is_a_toy_if_you_play_with_it_andy_dwyer.mp3
-  "Anything is a toy if you play with it.Andy Dwyer"
-  CHARACTER: 
-
 053_april_becomes_ron_s_assistant.mp3
-  "April Becomes Ron's Assistant"
+  "April becomes Ron's assistant"
   CHARACTER: 
 
 054_as_long_as_i_don_t_move_my_head_or_torso_i_m_good.mp3
@@ -218,12 +150,8 @@
   "Capitalism: God's way"
   CHARACTER: 
 
-056_don_t_sass_me_burkas.mp3
-  "Don't Sass Me, Burkas"
-  CHARACTER: 
-
 057_don_t_teach_a_man_to_fish_and_you_feed_yourself.mp3
-  "Don't Teach a Man to Fish, and You Feed Yourself"
+  "Don't teach a man to fish, and you feed yourself"
   CHARACTER: 
 
 058_enjoy_the_fact_your_royal_overlords_are_a_frail_old_woman_an.mp3
@@ -235,15 +163,15 @@
   CHARACTER: 
 
 060_fishing_relaxes_me.mp3
-  "Fishing Relaxes Me"
+  "Fishing relaxes me"
   CHARACTER: 
 
 061_flush_with_cash.mp3
-  "Flush With Cash"
+  "Flush with cash"
   CHARACTER: 
 
 062_history_began_on_july_4th_1776.mp3
-  "History Began on July 4th 1776"
+  "History began on July 4th 1776"
   CHARACTER: 
 
 063_horse_funeral.mp3
@@ -251,39 +179,35 @@
   CHARACTER: 
 
 064_i_dont_care.mp3
-  "I Dont Care"
+  "I don't care"
   CHARACTER: 
 
 065_i_have_a_joke_for_you.mp3
-  "I Have A Joke For You"
+  "I have a joke for you"
   CHARACTER: 
 
 066_i_know_more_than_you.mp3
-  "I Know More Than You"
+  "I know more than you"
   CHARACTER: 
 
 067_i_like_saying_no.mp3
-  "I Like Saying 'No'"
+  "I like saying 'no'"
   CHARACTER: 
 
 068_i_like_to_call_people_by_the_wrong_name.mp3
-  "I Like to Call People by the Wrong Name"
+  "I like to call people by the wrong name"
   CHARACTER: 
 
 069_i_once_worked_with_a_guy_for_three_years_and_never_learned_h.mp3
   "Never learned his name"
   CHARACTER: 
 
-070_i_regret_nothing.mp3
-  "I Regret Nothing"
-  CHARACTER: 
-
 071_i_will_mold_you_into_swansons.mp3
-  "I Will Mold You Into Swansons"
+  "I will mold you into Swansons"
   CHARACTER: 
 
 072_i_d_work_all_night_if_it_meant_nothing_got_done.mp3
-  "I'd Work All Night If It Meant Nothing Got Done"
+  "I'd work all night if it meant nothing got done"
   CHARACTER: 
 
 073_i_m_going_to_tell_you_everything_you_need_to_know_about_loca.mp3
@@ -295,15 +219,15 @@
   CHARACTER: 
 
 075_if_anything_at_all.mp3
-  "If Anything at All.."
+  "If anything at all.."
   CHARACTER: 
 
 076_just_give_me_all_the_bacon_and_eggs_you_have.mp3
-  "Just Give Me All the Bacon and Eggs You Have"
+  "Just give me all the bacon and eggs you have"
   CHARACTER: 
 
 077_lets_do_it_to_it.mp3
-  "Lets Do It To It"
+  "Let's do it to it"
   CHARACTER: 
 
 078_letter_to_canada.mp3
@@ -311,11 +235,11 @@
   CHARACTER: 
 
 079_lil_sebastian_died_last_night.mp3
-  "Lil Sebastian Died Last Night"
+  "Lil Sebastian died last night"
   CHARACTER: 
 
 080_look_a_clock.mp3
-  "Look, A Clock"
+  "Look, a clock"
   CHARACTER: 
 
 081_money_please.mp3
@@ -331,39 +255,39 @@
   CHARACTER: 
 
 084_one_shelf_of_alcohol.mp3
-  "One Shelf of Alcohol"
+  "One shelf of alcohol"
   CHARACTER: 
 
 085_pawnee_ranger_manual.mp3
-  "Pawnee Ranger Manual"
+  "Pawnee Ranger manual"
   CHARACTER: 
 
 086_ron_describes_punching_someone.mp3
-  "Ron Describes Punching Someone"
+  "Ron describes punching someone"
   CHARACTER: 
 
 087_ron_does_not_want_to_move_to_canada.mp3
-  "Ron Does Not Want to Move to Canada"
+  "Ron does not want to move to Canada"
   CHARACTER: 
 
 088_ron_gets_a_circular_desk.mp3
-  "Ron Gets a Circular Desk"
+  "Ron gets a circular desk"
   CHARACTER: 
 
 089_ron_goes_to_a_health_food_store.mp3
-  "Ron Goes to a Health Food Store"
+  "Ron goes to a health food store"
   CHARACTER: 
 
 090_ron_means_all_the_bacon_and_eggs_you_have.mp3
-  "Ron Means ALL THE BACON AND EGGS YOU HAVE!"
+  "Ron means all the bacon and eggs you have!"
   CHARACTER: 
 
 091_ron_reacts_to_the_news_of_lil_sebastian_dying.mp3
-  "Ron Reacts to the News of Lil Sebastian dying"
+  "Ron reacts to the news of Lil Sebastian dying"
   CHARACTER: 
 
 092_ron_saves_the_world_from_meatless_bacon.mp3
-  "Ron Saves the World from Meatless Bacon"
+  "Ron saves the world from meatless bacon"
   CHARACTER: 
 
 093_ron_swanson.mp3
@@ -371,83 +295,79 @@
   CHARACTER: 
 
 094_ron_swanson_goes_to_motel_with_ex_wife.mp3
-  "Ron Swanson Goes to Motel with Ex Wife"
+  "Ron Swanson goes to motel with ex wife"
   CHARACTER: 
 
 095_ron_swanson_has_sawdust_in_his_ear.mp3
-  "Ron Swanson Has Sawdust in his Ear"
+  "Ron Swanson has sawdust in his ear"
   CHARACTER: 
 
 096_ron_swanson_is_ticklish.mp3
-  "Ron Swanson is Ticklish"
+  "Ron Swanson is ticklish"
   CHARACTER: 
 
 097_ron_swanson_likes_ron_dunn.mp3
-  "Ron Swanson Likes Ron Dunn"
+  "Ron Swanson likes Ron Dunn"
   CHARACTER: 
 
 098_ron_swanson_snake_juice.mp3
-  "Ron Swanson Snake Juice"
+  "Ron Swanson snake juice"
   CHARACTER: 
 
 099_ron_swanson_throws_burger_at_mouth.mp3
-  "Ron Swanson Throws Burger at Mouth"
-  CHARACTER: 
-
-100_ron_swanson_s_allergies.mp3
-  "Ron Swanson's Allergies"
+  "Ron Swanson throws burger at mouth"
   CHARACTER: 
 
 101_ron_swanson_s_automatic_office_doors.mp3
-  "Ron Swanson's Automatic Office Doors"
+  "Ron Swanson's automatic office doors"
   CHARACTER: 
 
 102_ron_swanson_s_crazy_night.mp3
-  "Ron Swanson's Crazy Night"
+  "Ron Swanson's crazy night"
   CHARACTER: 
 
 103_ron_swanson_s_death_bed_wish.mp3
-  "Ron Swanson's Death Bed Wish"
+  "Ron Swanson's death bed wish"
   CHARACTER: 
 
 104_ron_swanson_s_idea_of_exercise.mp3
-  "Ron Swanson's Idea of Exercise"
+  "Ron Swanson's idea of exercise"
   CHARACTER: 
 
 105_ron_swanson_s_idea_of_hydration.mp3
-  "Ron Swanson's Idea of Hydration"
+  "Ron Swanson's idea of hydration"
   CHARACTER: 
 
 106_ron_swanson_s_idea_of_mental_illness.mp3
-  "Ron Swanson's Idea of Mental Illness"
+  "Ron Swanson's idea of mental illness"
   CHARACTER: 
 
 107_ron_swanson_s_mustache_rubbed_off_from_friction.mp3
-  "Ron Swanson's Mustache Rubbed Off From Friction"
+  "Ron Swanson's mustache rubbed off from friction"
   CHARACTER: 
 
 108_ron_swanson_s_video_to_himself.mp3
-  "Ron Swanson's Video to Himself"
+  "Ron Swanson's video to himself"
   CHARACTER: 
 
 109_ron_tries_salad.mp3
-  "Ron Tries Salad"
+  "Ron tries salad"
   CHARACTER: 
 
 110_ron_s_permit_to_slaughter_a_pig.mp3
-  "Ron's Permit to Slaughter a Pig"
+  "Ron's permit to slaughter a pig"
   CHARACTER: 
 
 111_ron_s_wife_shows_off_engagement_ring.mp3
-  "Ron's Wife Shows Off Engagement Ring"
+  "Ron's wife shows off engagement ring"
   CHARACTER: 
 
 112_say_my_club_is_better.mp3
-  "Say My Club is Better"
+  "Say my club is better"
   CHARACTER: 
 
 113_shut_up_and_look_at_me.mp3
-  "Shut Up And Look At Me"
+  "Shut up and look at me"
   CHARACTER: 
 
 114_sorry.mp3
@@ -455,7 +375,7 @@
   CHARACTER: 
 
 115_the_many_tammys_of_ron_swanson_s_life.mp3
-  "The Many Tammys of Ron Swanson's Life"
+  "The many Tammys of Ron Swanson's life"
   CHARACTER: 
 
 116_the_wooooorst.mp3
@@ -471,7 +391,7 @@
   CHARACTER: 
 
 119_what_in_the_devil_s_name_is_this.mp3
-  "What in the Devil's Name is This?"
+  "What in the devil's name is this?"
   CHARACTER: 
 
 120_when_i_look_at_my_palm_i_see_a_lady_s_mouth_french_kissing_a.mp3
@@ -483,9 +403,9 @@
   CHARACTER: 
 
 122_why_government_matters.mp3
-  "Why Government Matters"
+  "Why government matters"
   CHARACTER: 
 
 123_you_could_have_at_least_used_mahogany.mp3
-  "You Could Have at Least Used Mahogany"
+  "You could have at least used mahogany"
   CHARACTER: 

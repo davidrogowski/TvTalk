@@ -161,7 +161,7 @@ const quotes = [
     "audioUrl": "audio/happy-gilmore/241_he_shoots_he_scores_that_was_much_easier_than_putting_i_shou.mp3"
   },
   {
-    "text": "He's going on the Tour. Cute.",
+    "text": "He's going on the tour. Cute.",
     "character": "",
     "audioUrl": "audio/happy-gilmore/247_he_s_going_to_be_on_the_tour_super_that_s_cute.mp3"
   },
@@ -199,11 +199,6 @@ const quotes = [
     "text": "Bet you can't do it again",
     "character": "",
     "audioUrl": "audio/happy-gilmore/296_i_bet_20_you_can_t_do_it_again_bring_it_on_you_boys_are_goin.mp3"
-  },
-  {
-    "text": "Make things out of clay",
-    "character": "",
-    "audioUrl": "audio/happy-gilmore/303_i_could_make_things_out_of_clay_and_lay_by_the_bay.mp3"
   },
   {
     "text": "To get Grandma's house back",
@@ -371,7 +366,7 @@ const quotes = [
     "audioUrl": "audio/happy-gilmore/684_son_of_a_bitch_ball_why_didn_t_you_go_home_that_s_your_home.mp3"
   },
   {
-    "text": "The amazing Golf Ball Whacker Guy",
+    "text": "The amazing golf ball whacker guy",
     "character": "",
     "audioUrl": "audio/happy-gilmore/689_step_right_up_folks_see_if_you_can_outdrive_the_amazing_golf.mp3"
   },

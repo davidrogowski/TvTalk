@@ -2,10 +2,6 @@
   "A guaranteed disaster"
   CHARACTER: 
 
-002_alec_baldwin_thumbs_up.mp3
-  "Alec Baldwin thumbs up"
-  CHARACTER: 
-
 003_big_laughs.mp3
   "Big laughs"
   CHARACTER: 
@@ -46,20 +42,8 @@
   "Goodbye forever"
   CHARACTER: 
 
-013_grow_up.mp3
-  "Grow up"
-  CHARACTER: 
-
-014_guaranteed_disaster.mp3
-  "Guaranteed disaster"
-  CHARACTER: 
-
 015_high_maintenance.mp3
   "High maintenance"
-  CHARACTER: 
-
-016_how_do_you_do_fellow_kids.mp3
-  "How do you do fellow kids"
   CHARACTER: 
 
 017_humor_as_a_coping_mechanism.mp3
@@ -82,10 +66,6 @@
   "I wanna roll my eyes right now"
   CHARACTER: 
 
-022_i_m_mad_at_your_success.mp3
-  "I'm mad at your success"
-  CHARACTER: 
-
 023_i_m_not_an_executive.mp3
   "I'm not an executive"
   CHARACTER: 
@@ -100,14 +80,6 @@
 
 026_my_fists_will_do_the_talking_for_me.mp3
   "My fists will do the talking for me"
-  CHARACTER: 
-
-027_never_go_with_a_hippie_to_a_second_location.mp3
-  "Never go with a hippie to a second location"
-  CHARACTER: 
-
-028_oh_no_someone_s_going_to_get_more_attention_than_me.mp3
-  "Oh no. Someone's going to get more attention than me"
   CHARACTER: 
 
 029_pregnancy_test.mp3
@@ -150,10 +122,6 @@
   "The world is controlled by those who do do"
   CHARACTER: 
 
-039_this_is_boring_i_m_bored_now.mp3
-  "This is boring. I'm bored now"
-  CHARACTER: 
-
 040_those_shoes_are_definitely_bicurious.mp3
   "Those shoes are definitely bicurious"
   CHARACTER: 
@@ -174,24 +142,12 @@
   "Werewolf Bar Mitzvah"
   CHARACTER: 
 
-045_what_a_week_huh.mp3
-  "What a week, huh?"
-  CHARACTER: 
-
 046_what_am_i_a_farmer.mp3
   "What am I, a farmer?"
   CHARACTER: 
 
-047_what_would_oprah_do.mp3
-  "What would Oprah do?"
-  CHARACTER: 
-
 048_why_do_you_punish_yourself_with_all_this_mediocrity.mp3
   "Why do you punish yourself with all this mediocrity?"
-  CHARACTER: 
-
-049_you_ancient_bitch.mp3
-  "You ancient bitch!"
   CHARACTER: 
 
 050_you_can_t_force_your_fate.mp3
@@ -204,10 +160,6 @@
 
 052_you_must_be_ruthless.mp3
   "You must be ruthless"
-  CHARACTER: 
-
-053_you_should_all_learn_from_pete_s_mistake.mp3
-  "You should all learn from Pete's mistake"
   CHARACTER: 
 
 054_you_still_haven_t_blown_it_completely.mp3

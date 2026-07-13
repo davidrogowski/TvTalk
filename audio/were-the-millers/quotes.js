@@ -176,7 +176,7 @@ const quotes = [
     "audioUrl": "audio/were-the-millers/035_senior_chacon_we_were_not_expecting_you_i_decided_to_bring_t.mp3"
   },
   {
-    "text": "Not dead in a ditch, LOL",
+    "text": "Not dead in a ditch",
     "character": "",
     "audioUrl": "audio/were-the-millers/036_shit_is_someone_here_yeah_yeah_us_we_re_here_that_s_who_s_he.mp3"
   },

@@ -18,10 +18,6 @@
   "Fuck you hormones"
   CHARACTER: 
 
-006_get_out.mp3
-  "Get out!"
-  CHARACTER: 
-
 007_he_looks_like_fatty_arbuckle_he_looks_like_jon_favreau.mp3
   "He looks like Jon Favreau"
   CHARACTER: 
@@ -36,10 +32,6 @@
 
 010_hey_guys_don_t_let_the_door_hit_in_the_vagina_on_the_way_out.mp3
   "Don't let the door hit your vagina"
-  CHARACTER: 
-
-011_hey_pete_don_t_let_the_door_hit_you_in_the_vagina_on_the_way.mp3
-  "Door hit you in the vagina"
   CHARACTER: 
 
 012_hey_good_morning_3_boyfriends_just_kidding_kind_of.mp3
@@ -123,105 +115,81 @@
   CHARACTER: 
 
 032_seem_to_love_bubbles_oh_god_they_go_ape_shit_over_bubbles_re.mp3
-  "Kids Go Ape Shit Over Bubbles"
-  CHARACTER: 
-
-033_she_like_the_way_your_dick_taste.mp3
-  "She Like The Way Your Dick Taste"
+  "Kids go ape shit over bubbles"
   CHARACTER: 
 
 034_so_he_came_over_for_breakfast_because_he_s_your_new_boyfrien.mp3
-  "Your New Boyfriend?"
+  "Your new boyfriend?"
   CHARACTER: 
 
 035_so_what_happens_now_i_don_t_know_how_this_works_i_m_going_to.mp3
-  "Come To The Gynecologist"
+  "Come to the gynecologist"
   CHARACTER: 
 
 036_these_are_all_the_sex_offenders_in_our_neighborhood_looks_li.mp3
-  "Sex Offenders In Our Neighborhood"
+  "Sex offenders in our neighborhood"
   CHARACTER: 
 
 037_they_said_that_a_lot_that_sucks.mp3
-  "They Said That A Lot. That Sucks."
+  "They said that a lot. That sucks."
   CHARACTER: 
 
 038_this_is_my_time_machine.mp3
-  "This Is My Time Machine"
+  "This is my time machine"
   CHARACTER: 
 
 039_this_one_makes_my_pee_smell_no_more_bubbly_stuff_that_s_maki.mp3
-  "I'm Gonna Hurl"
-  CHARACTER: 
-
-040_tighter.mp3
-  "Tighter"
-  CHARACTER: 
-
-041_we_wants_to_rear_your_child.mp3
-  "We Wants To Rear Your Child"
-  CHARACTER: 
-
-042_well_played_sir.mp3
-  "Well Played Sir"
+  "I'm gonna hurl"
   CHARACTER: 
 
 043_well_that_was_fast_you_pussy_i_m_a_and_you_re_the_one_that_g.mp3
-  "Dressed Like A Cholo On Easter"
+  "Dressed like a cholo on Easter"
   CHARACTER: 
 
 044_what_do_you_think_of_him_he_s_funny_right_hmm_snatch_all_rig.mp3
-  "Treating My Kids Like Dogs"
+  "Treating my kids like dogs"
   CHARACTER: 
 
 045_what_is_there_left_to_want_i_get_to_go_to_legoland_say_it_do.mp3
-  "Shouldn't Have Given Him Meth"
+  "Shouldn't have given him meth"
   CHARACTER: 
 
 046_what_is_this_what_the_hell_is_this_i_think_you_picked_up_the.mp3
-  "What The Hell Is This?"
+  "What the hell is this?"
   CHARACTER: 
 
 047_when_you_look_at_me_do_you_not_think_at_all_like_you_know_if.mp3
-  "If He Never Existed"
+  "If he never existed"
   CHARACTER: 
 
 048_where_do_babies_come_from.mp3
-  "Where Do Babies Come From?"
+  "Where do babies come from?"
   CHARACTER: 
 
 049_who_wants_to_hear_some_music_i_want_to_hear_when_i_wanna_hea.mp3
-  "We're Listening To Rent"
-  CHARACTER: 
-
-050_women_can_t_get_pregnant_on_top.mp3
-  "Women Can't Get Pregnant On Top"
+  "We're listening to Rent"
   CHARACTER: 
 
 051_you_do_look_a_lot_like_your_sister.mp3
-  "You Look A Lot Like Your Sister"
-  CHARACTER: 
-
-052_you_get_so_bored_you_stare_at_your_balls.mp3
-  "You Stare At Your Balls"
+  "You look a lot like your sister"
   CHARACTER: 
 
 053_you_googled_murder_why_i_mean_what_did_it_say_show_pictures.mp3
-  "You Googled Murder?"
+  "You googled murder?"
   CHARACTER: 
 
 054_you_should_probably_not_comment_so_much_about_how_fat_i_am_r.mp3
-  "Stop Commenting On How Fat I Am"
+  "Stop commenting on how fat I am"
   CHARACTER: 
 
 055_you_think_i_m_getting_away_with_it_well_if_you_re_standing_n.mp3
-  "You Have A Thyroid Problem"
+  "You have a thyroid problem"
   CHARACTER: 
 
 056_you_want_a_good_time_you_go_to_disneyland_all_right_go_to_fr.mp3
-  "Go To Disneyland"
+  "Go to Disneyland"
   CHARACTER: 
 
 057_you_want_sex_yeah_well_this_is_not_sound_good_at_all_right_n.mp3
-  "I'm Just Really Constipated"
+  "I'm just really constipated"
   CHARACTER: 

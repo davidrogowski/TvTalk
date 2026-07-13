@@ -136,7 +136,7 @@ const quotes = [
     "audioUrl": "audio/21-jump-street/607_i_didn_t_punch_him_because_he_s_gay_i_punched_him_and_then_h.mp3"
   },
   {
-    "text": "Angry Black Captain",
+    "text": "Angry black captain",
     "character": "",
     "audioUrl": "audio/21-jump-street/680_i_know_what_you_re_thinking_angry_black_captain_it_ain_t_not.mp3"
   },
@@ -291,7 +291,7 @@ const quotes = [
     "audioUrl": "audio/21-jump-street/1513_the_mission_is_this_infiltrate_the_dealers_find_the_supplier.mp3"
   },
   {
-    "text": "Three Keys of Coolness",
+    "text": "Three keys of coolness",
     "character": "",
     "audioUrl": "audio/21-jump-street/1521_the_three_keys_of_coolness_in_high_school_by_jenko_one_don_t.mp3"
   },

@@ -2,10 +2,10 @@
 
 A personal soundboard web app. Press a button → random quote from a TV show plays + appears on screen. Multiple shows with a picker; "Random (all shows)" is the default.
 
-## Status (2026-05-28)
+## Status (2026-07-01)
 
 - ✅ Scaffolded and working
-- ✅ **43 titles — 25 TV shows + 18 movies — ~4,860 quotes total** (~650 MB on disk)
+- ✅ **99 titles — 41 TV shows + 58 movies — ~9,055 quotes total**
 - ✅ **Deployed live: https://tvtalk.fun** (Cloudflare Workers + Static Assets; the old `*.workers.dev` URL 301-redirects here) — see [[05 - Deployment]]
 - ✅ Mobile-responsive UI, per-show themes matched to each show's cover art
 - ✅ **Searchable picker** (custom themed combobox with type-to-filter), grouped into **TV Shows / Movies** (`type` field), with three random modes (all / shows / movies)

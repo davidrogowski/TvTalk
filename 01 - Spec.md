@@ -13,7 +13,7 @@ A personal soundboard web app: a virtual button that plays a random audio clip (
 - Docs and code coexist in the same folder, browsable from the parent Obsidian vault.
 
 **Non-goals**
-- No accounts, no sync, no hosting. Personal use only.
+- No accounts, no sync, no hosting. Personal use only. *(Since superseded: the site is now hosted at tvtalk.fun — see [[05 - Deployment]]; verify scripts exist under `scripts/`; mobile is supported.)*
 - No parallel scraping, no proxies, no detection-evasion. The 101soundboards site gets one polite request at a time.
 - No audio editing — clips are used as-is from the source board.
 
@@ -25,8 +25,10 @@ The project lives at `/Users/dave/Desktop/Obsidian/TvTalk/` — directly inside 
 TvTalk/
 ├── 00 - Project Overview.md        Hub. Status, where things live, Dataview index of shows.
 ├── 01 - Spec.md                    This document.
-├── 02 - Workflow.md                Step-by-step: adding a new show, curation, troubleshooting summary.
-├── 03 - Troubleshooting.md         Common scraper / playback issues.
+├── 02 - Implementation Plan.md     Build plan and milestones.
+├── 03 - Workflow.md                Step-by-step: adding a new show, curation, troubleshooting summary.
+├── 04 - Troubleshooting.md         Common scraper / playback issues.
+├── 05 - Deployment.md              Hosting / deploy (Cloudflare Workers, tvtalk.fun).
 ├── README.md                       Plain-text quick-start (for non-Obsidian readers).
 │
 ├── index.html                      The web app. No build step.
@@ -138,10 +140,10 @@ const shows = [
 Extends the existing single-show HTML. Changes:
 
 - Loads `shows.js` via `<script src="shows.js"></script>`. README documents `python3 -m http.server` as a fallback when Chrome blocks the local script.
-- **Show picker** in the header: `<select>` populated from `shows`, sorted alphabetically by name. First option is `🎲 Random (all shows)` (default, value `__random__`, pinned to top regardless of sort).
+- **Show picker** in the header: `<select>` populated from `shows`, sorted alphabetically by name. First option is `🎲 Random (all shows)` (default, value `__random__`, pinned to top regardless of sort). *(Since superseded: the picker is now a searchable combobox with type-to-filter, grouped into TV Shows / Movies.)*
 - **Theme swapping** via CSS variables. The page sets `--primary`, `--accent`, `--bg` on `:root`; every colored element (button, h1 text-shadow, accents, body gradient) references these. On show-change, JS updates the variables to the selected show's theme. The default `__random__` selection uses the dark/gritty Boys-style theme defined in CSS as fallback values.
 - **Random behavior:**
-  - `__random__`: flatten `shows[*].quotes` into one pool; pick uniformly; never repeat the immediately previous quote (track `lastKey = ${showId}::${index}`). With current 19 shows / 2,756 quotes, the pool is dominated by larger boards (Family Guy alone is 558).
+  - `__random__`: flatten `shows[*].quotes` into one pool; pick uniformly; never repeat the immediately previous quote (track `lastKey = ${showId}::${index}`). With the current 99 titles / ~9,055 quotes, the pool is dominated by larger boards (Family Guy alone is 558).
   - specific show: pick from `shows[i].quotes`; never repeat immediately previous quote within that show.
 - **Text rendering:** `showQuote()` looks up the source show by `item.showId`. If the show's `text_style` is `"title"`, the transcript is rendered as-is (no surrounding quote marks); for `"caption"` (default), it's rendered wrapped in `"..."`. This distinction matters because some community boards use clip *titles* like `"A leap of faith"` instead of actual subtitled dialogue.
 - **Title** changes to the show name (or `"TV TALK"` for Random).
@@ -153,7 +155,7 @@ Extends the existing single-show HTML. Changes:
 
 **`00 - Project Overview.md`** — hub. One-paragraph description, "Where things live" table (mirrors DiscoMode's style), Dataview query listing active shows, Quick Add snippet showing the scrape command.
 
-**`02 - Workflow.md`** — step-by-step for adding a new show:
+**`03 - Workflow.md`** — step-by-step for adding a new show:
 1. Find a 101soundboards board URL.
 2. Add an entry to `scripts/shows.yaml` (id, name, url, theme).
 3. Run `python3 scripts/scrape_soundboard.py --show <id>`.
@@ -163,7 +165,7 @@ Extends the existing single-show HTML. Changes:
 7. Create `Shows/<Show Name>.md` from `_Show Template.md`.
 8. Open `index.html` (or `python3 -m http.server` for Chrome).
 
-**`03 - Troubleshooting.md`** — Chrome blocks file://; audio doesn't play (autoplay policy needs user gesture, which a button click satisfies); scraper finds 0 clips (101soundboards changed markup — regex needs adjustment); transcript edits lost (the file was overwritten because you ran the scraper from the wrong dir).
+**`04 - Troubleshooting.md`** — Chrome blocks file://; audio doesn't play (autoplay policy needs user gesture, which a button click satisfies); scraper finds 0 clips (101soundboards changed markup — regex needs adjustment); transcript edits lost (the file was overwritten because you ran the scraper from the wrong dir).
 
 **`Shows/<Show Name>.md`** frontmatter:
 ```yaml
@@ -223,7 +225,7 @@ scripts/shows.yaml ─┐
 
 ## Acceptance criteria
 
-All five are met as of 2026-05-27, with 19 shows and 2,756 quotes scraped.
+All five are met as of 2026-05-27 (the catalog has since grown to 99 titles and ~9,055 quotes).
 
 1. `python3 scripts/scrape_soundboard.py --show <id>` scrapes the named show from `shows.yaml`, saves MP3s to `audio/<id>/`, writes `transcripts.txt` and `quotes.js`. Auto-trims poisoned legacy boards.
 2. Editing `CHARACTER:` lines in `transcripts.txt` and re-running the scraper updates `quotes.js` without re-downloading.
@@ -233,8 +235,8 @@ All five are met as of 2026-05-27, with 19 shows and 2,756 quotes scraped.
 
 ## Out of scope (explicitly)
 
-- Tests. Personal project; manual verification is fine.
-- Mobile-specific styling. Desktop browser only.
+- Tests. Personal project; manual verification is fine. *(Since superseded: Playwright/pytest verify scripts now exist under `scripts/`.)*
+- Mobile-specific styling. Desktop browser only. *(Since superseded: the UI is now mobile-responsive.)*
 - Bypassing 101soundboards' anti-scraping detection at the source. We download what they serve to non-browser UAs (which includes the ding) and trim it after the fact. Reverse-engineering their auth/session flow to get the clean stream wasn't worth the effort for a personal project.
 - Preserving transcript text edits across re-scrapes. Only `CHARACTER:` lines round-trip.
 - Show-weighted random in "All shows" mode. The pool is currently dominated by larger boards but the user's stance has been "it builds over time."

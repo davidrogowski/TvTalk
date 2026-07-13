@@ -11,7 +11,7 @@
   CHARACTER: 
 
 004_are_you_okay_extended.mp3
-  "Are You Okay? (extended)"
+  "Are you okay? (extended)"
   CHARACTER: 
 
 005_believe_it_or_not_twinkies_have_an_expiration_date.mp3
@@ -19,7 +19,7 @@
   CHARACTER: 
 
 006_big_trucks_big_guns.mp3
-  "Big Trucks Big Guns"
+  "Big trucks big guns"
   CHARACTER: 
 
 007_bummer.mp3
@@ -55,7 +55,7 @@
   CHARACTER: 
 
 015_emma_stone_laughing.mp3
-  "Emma Stone Laughing"
+  "Emma Stone laughing"
   CHARACTER: 
 
 016_first_impression.mp3
@@ -131,7 +131,7 @@
   CHARACTER: 
 
 034_thank_god_for_rednecks.mp3
-  "Thank God for Rednecks"
+  "Thank God for rednecks"
   CHARACTER: 
 
 035_that_place_sucks.mp3

@@ -11,7 +11,7 @@ const quotes = [
     "audioUrl": "audio/drake-and-josh/002_bless_you.mp3"
   },
   {
-    "text": "Cockle Doodle Doo the Cow Says Moo",
+    "text": "Cockle doodle doo the cow says moo",
     "character": "",
     "audioUrl": "audio/drake-and-josh/003_cockle_doodle_doo_the_cow_says_moo.mp3"
   },
@@ -31,7 +31,7 @@ const quotes = [
     "audioUrl": "audio/drake-and-josh/006_drake_where_s_the_door_hole.mp3"
   },
   {
-    "text": "Embarrassed Sweaty Josh",
+    "text": "Embarrassed sweaty Josh",
     "character": "",
     "audioUrl": "audio/drake-and-josh/007_embarrassed_sweaty_josh.mp3"
   },
@@ -51,7 +51,7 @@ const quotes = [
     "audioUrl": "audio/drake-and-josh/010_finger_guns.mp3"
   },
   {
-    "text": "Happy Birthday Brother",
+    "text": "Happy birthday brother",
     "character": "",
     "audioUrl": "audio/drake-and-josh/011_happy_birthday_brother.mp3"
   },
@@ -61,7 +61,7 @@ const quotes = [
     "audioUrl": "audio/drake-and-josh/012_here_s_a_little_song_for_you.mp3"
   },
   {
-    "text": "Hug Me Brotha",
+    "text": "Hug me brotha",
     "character": "",
     "audioUrl": "audio/drake-and-josh/013_hug_me_brotha.mp3"
   },
@@ -71,7 +71,7 @@ const quotes = [
     "audioUrl": "audio/drake-and-josh/014_idiots.mp3"
   },
   {
-    "text": "Intense Ping Pong",
+    "text": "Intense ping pong",
     "character": "",
     "audioUrl": "audio/drake-and-josh/015_intense_ping_pong.mp3"
   },
@@ -86,7 +86,7 @@ const quotes = [
     "audioUrl": "audio/drake-and-josh/017_it_s_a_little_warm_in_here.mp3"
   },
   {
-    "text": "Its My Birthday",
+    "text": "It's my birthday",
     "character": "",
     "audioUrl": "audio/drake-and-josh/018_its_my_birthday.mp3"
   },
@@ -101,7 +101,7 @@ const quotes = [
     "audioUrl": "audio/drake-and-josh/020_josh_laughing_from_outside_of_the_cell.mp3"
   },
   {
-    "text": "Josh Peck EVIL",
+    "text": "Josh Peck evil",
     "character": "",
     "audioUrl": "audio/drake-and-josh/021_josh_peck_evil.mp3"
   },

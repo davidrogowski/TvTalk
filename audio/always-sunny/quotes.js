@@ -11,17 +11,12 @@ const quotes = [
     "audioUrl": "audio/always-sunny/002_a_leather_shop_in_arizona.mp3"
   },
   {
-    "text": "Ah shit",
-    "character": "",
-    "audioUrl": "audio/always-sunny/003_ah_shit.mp3"
-  },
-  {
     "text": "You cheap sack of shit",
     "character": "",
     "audioUrl": "audio/always-sunny/004_ah_so_you_come_crawling_back_you_cheap_sack_of_shit.mp3"
   },
   {
-    "text": "AHHHH!",
+    "text": "Ahhhh!",
     "character": "",
     "audioUrl": "audio/always-sunny/005_ahhhh.mp3"
   },
@@ -36,54 +31,14 @@ const quotes = [
     "audioUrl": "audio/always-sunny/007_aww_did_somebody_get_addicted_to_crack.mp3"
   },
   {
-    "text": "Because of the implication",
-    "character": "",
-    "audioUrl": "audio/always-sunny/008_because_of_the_implication.mp3"
-  },
-  {
-    "text": "Because of the implication",
-    "character": "",
-    "audioUrl": "audio/always-sunny/009_because_of_the_implication.mp3"
-  },
-  {
-    "text": "Begone vile man, begone from me",
-    "character": "",
-    "audioUrl": "audio/always-sunny/010_begone_vile_man_begone_from_me.mp3"
-  },
-  {
     "text": "Best goddamn bird lawyer in the world",
     "character": "",
     "audioUrl": "audio/always-sunny/011_best_goddamn_bird_lawyer_in_the_world.mp3"
   },
   {
-    "text": "Big time, don't be jelly",
-    "character": "",
-    "audioUrl": "audio/always-sunny/012_big_time_don_t_be_jelly.mp3"
-  },
-  {
-    "text": "Bitch",
-    "character": "",
-    "audioUrl": "audio/always-sunny/013_bitch.mp3"
-  },
-  {
-    "text": "Bitch",
-    "character": "",
-    "audioUrl": "audio/always-sunny/014_bitch.mp3"
-  },
-  {
     "text": "Boys are out tonight, huh?",
     "character": "",
     "audioUrl": "audio/always-sunny/015_boys_are_out_tonight_huh.mp3"
-  },
-  {
-    "text": "Bullshit",
-    "character": "",
-    "audioUrl": "audio/always-sunny/016_bullshit.mp3"
-  },
-  {
-    "text": "But you don't really know what hot is do you?",
-    "character": "",
-    "audioUrl": "audio/always-sunny/017_but_you_don_t_really_know_what_hot_is_do_you.mp3"
   },
   {
     "text": "Can I offer you an egg in this trying time?",
@@ -101,14 +56,9 @@ const quotes = [
     "audioUrl": "audio/always-sunny/020_charlie_sees_santa.mp3"
   },
   {
-    "text": "Charlie's Butt Dance",
+    "text": "Charlie's butt dance",
     "character": "",
     "audioUrl": "audio/always-sunny/021_charlie_s_butt_dance.mp3"
-  },
-  {
-    "text": "Charlie's Stress",
-    "character": "",
-    "audioUrl": "audio/always-sunny/022_charlie_s_stress.mp3"
   },
   {
     "text": "Charlie's Teeth",
@@ -121,12 +71,12 @@ const quotes = [
     "audioUrl": "audio/always-sunny/024_crying.mp3"
   },
   {
-    "text": "D Gets Stage Fright",
+    "text": "D gets stage fright",
     "character": "",
     "audioUrl": "audio/always-sunny/025_d_gets_stage_fright.mp3"
   },
   {
-    "text": "Day Bow Bow",
+    "text": "Day bow bow",
     "character": "",
     "audioUrl": "audio/always-sunny/026_day_bow_bow.mp3"
   },
@@ -141,14 +91,9 @@ const quotes = [
     "audioUrl": "audio/always-sunny/028_denim_chicken.mp3"
   },
   {
-    "text": "Dennis Choking Maureen Ponderosa",
+    "text": "Dennis choking Maureen Ponderosa",
     "character": "",
     "audioUrl": "audio/always-sunny/029_dennis_choking_maureen_ponderosa.mp3"
-  },
-  {
-    "text": "Derivative",
-    "character": "",
-    "audioUrl": "audio/always-sunny/030_derivative.mp3"
   },
   {
     "text": "Did you bang my wife?",
@@ -186,17 +131,12 @@ const quotes = [
     "audioUrl": "audio/always-sunny/037_ever_been_in_a_storm_wally.mp3"
   },
   {
-    "text": "Facepalm",
-    "character": "",
-    "audioUrl": "audio/always-sunny/038_facepalm.mp3"
-  },
-  {
     "text": "Fight milk",
     "character": "",
     "audioUrl": "audio/always-sunny/039_fight_milk.mp3"
   },
   {
-    "text": "Flip, Flip, Flipadelphia!",
+    "text": "Flip, flip, Flipadelphia!",
     "character": "",
     "audioUrl": "audio/always-sunny/040_flip_flip_flipadelphia.mp3"
   },
@@ -206,7 +146,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/041_frank_loses_the_rum_ham.mp3"
   },
   {
-    "text": "FUCK OFF",
+    "text": "Fuck off",
     "character": "",
     "audioUrl": "audio/always-sunny/042_fuck_off.mp3"
   },
@@ -214,11 +154,6 @@ const quotes = [
     "text": "Getting HAMmered",
     "character": "",
     "audioUrl": "audio/always-sunny/043_getting_hammered.mp3"
-  },
-  {
-    "text": "Give Me One Up Here",
-    "character": "",
-    "audioUrl": "audio/always-sunny/044_give_me_one_up_here.mp3"
   },
   {
     "text": "Go fuck yourselves!",
@@ -229,11 +164,6 @@ const quotes = [
     "text": "Go, go, go!",
     "character": "",
     "audioUrl": "audio/always-sunny/046_go_go_go.mp3"
-  },
-  {
-    "text": "God damn it",
-    "character": "",
-    "audioUrl": "audio/always-sunny/047_god_damn_it.mp3"
   },
   {
     "text": "God damn it! I got milk all over me",
@@ -256,11 +186,6 @@ const quotes = [
     "audioUrl": "audio/always-sunny/051_good_night_bitch.mp3"
   },
   {
-    "text": "Gotta be no dawg",
-    "character": "",
-    "audioUrl": "audio/always-sunny/052_gotta_be_no_dawg.mp3"
-  },
-  {
     "text": "Hand sanitizer",
     "character": "",
     "audioUrl": "audio/always-sunny/053_hand_sanitizer.mp3"
@@ -276,14 +201,9 @@ const quotes = [
     "audioUrl": "audio/always-sunny/055_he_was_wrong_making_everyone_on_earth_look_like_a_bitch_agai.mp3"
   },
   {
-    "text": "Here Let Me Try",
+    "text": "Here let me try",
     "character": "",
     "audioUrl": "audio/always-sunny/056_here_let_me_try.mp3"
-  },
-  {
-    "text": "Here's your toll, troll",
-    "character": "",
-    "audioUrl": "audio/always-sunny/057_here_s_your_toll_troll.mp3"
   },
   {
     "text": "Heyoo what's up bitches?",
@@ -296,11 +216,6 @@ const quotes = [
     "audioUrl": "audio/always-sunny/059_hockey_legends.mp3"
   },
   {
-    "text": "Hot one today, huh?",
-    "character": "",
-    "audioUrl": "audio/always-sunny/060_hot_one_today_huh.mp3"
-  },
-  {
     "text": "How am I supposed to respond to that?",
     "character": "",
     "audioUrl": "audio/always-sunny/061_how_am_i_supposed_to_respond_to_that.mp3"
@@ -309,16 +224,6 @@ const quotes = [
     "text": "How are guys suppose to make friends",
     "character": "",
     "audioUrl": "audio/always-sunny/062_how_are_guys_suppose_to_make_friends.mp3"
-  },
-  {
-    "text": "How do I look? Handsome?",
-    "character": "",
-    "audioUrl": "audio/always-sunny/063_how_do_i_look_handsome.mp3"
-  },
-  {
-    "text": "How do you stickers all the time dude god",
-    "character": "",
-    "audioUrl": "audio/always-sunny/064_how_do_you_stickers_all_the_time_dude_god.mp3"
   },
   {
     "text": "How much cheese is too much cheese before a date?",
@@ -376,11 +281,6 @@ const quotes = [
     "audioUrl": "audio/always-sunny/075_i_don_t_know_how_to_express_myself_unless_its_though_anger.mp3"
   },
   {
-    "text": "The laws of nature",
-    "character": "",
-    "audioUrl": "audio/always-sunny/076_i_don_t_think_there_s_anything_in_the_laws_of_nature_that_wo.mp3"
-  },
-  {
     "text": "You don't get it",
     "character": "",
     "audioUrl": "audio/always-sunny/077_i_feel_like_you_re_saying_you_get_it_but_you_don_t_get_it.mp3"
@@ -389,11 +289,6 @@ const quotes = [
     "text": "I gave him an occular pat down",
     "character": "",
     "audioUrl": "audio/always-sunny/078_i_gave_him_an_occular_pat_down.mp3"
-  },
-  {
-    "text": "I gotta dig a little depper",
-    "character": "",
-    "audioUrl": "audio/always-sunny/079_i_gotta_dig_a_little_depper.mp3"
   },
   {
     "text": "I haven't even begun to peak",
@@ -416,7 +311,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/083_i_won_t_change_my_mind_cause_i_don_t_have_to_design_an_ameri.mp3"
   },
   {
-    "text": "I Won't Change My Mind",
+    "text": "I won't change my mind",
     "character": "",
     "audioUrl": "audio/always-sunny/084_i_won_t_change_my_mind.mp3"
   },
@@ -431,24 +326,9 @@ const quotes = [
     "audioUrl": "audio/always-sunny/086_i_d_like_some_welfare_please.mp3"
   },
   {
-    "text": "I'll Allow it",
-    "character": "",
-    "audioUrl": "audio/always-sunny/087_i_ll_allow_it.mp3"
-  },
-  {
     "text": "Swedish plumber, fix your pipes",
     "character": "",
     "audioUrl": "audio/always-sunny/088_i_m_a_swedish_plumber_i_m_here_to_fix_your_pipes_that_s_good.mp3"
-  },
-  {
-    "text": "I'm eating because i'm very uncomfortable",
-    "character": "",
-    "audioUrl": "audio/always-sunny/089_i_m_eating_because_i_m_very_uncomfortable.mp3"
-  },
-  {
-    "text": "I'm fat",
-    "character": "",
-    "audioUrl": "audio/always-sunny/090_i_m_fat.mp3"
   },
   {
     "text": "I'm gonna whip this little bitch in the face",
@@ -456,19 +336,9 @@ const quotes = [
     "audioUrl": "audio/always-sunny/091_i_m_gonna_whip_this_little_bitch_in_the_face.mp3"
   },
   {
-    "text": "I'm Gunna Get Real Weird With It",
+    "text": "I'm gunna get real weird with it",
     "character": "",
     "audioUrl": "audio/always-sunny/092_i_m_gunna_get_real_weird_with_it.mp3"
-  },
-  {
-    "text": "Best bird lawyer in the world",
-    "character": "",
-    "audioUrl": "audio/always-sunny/093_i_m_just_the_best_god_damn_bird_lawyer_in_the_world.mp3"
-  },
-  {
-    "text": "I'm sorry i'm just playing",
-    "character": "",
-    "audioUrl": "audio/always-sunny/094_i_m_sorry_i_m_just_playing.mp3"
   },
   {
     "text": "I'm starting to swell up",
@@ -528,11 +398,6 @@ const quotes = [
   {
     "text": "Look at me when you're talking to me!",
     "character": "",
-    "audioUrl": "audio/always-sunny/106_look_at_me_when_you_re_talking_to_me.mp3"
-  },
-  {
-    "text": "Look at me when you're talking to me!",
-    "character": "",
     "audioUrl": "audio/always-sunny/107_look_at_me_when_you_re_talking_to_me.mp3"
   },
   {
@@ -556,7 +421,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/111_make_that_whore_my_wife.mp3"
   },
   {
-    "text": "MEOW",
+    "text": "Meow",
     "character": "",
     "audioUrl": "audio/always-sunny/112_meow.mp3"
   },
@@ -591,11 +456,6 @@ const quotes = [
     "audioUrl": "audio/always-sunny/118_never_seen_a_more_embarrassing_display.mp3"
   },
   {
-    "text": "News flash asshole",
-    "character": "",
-    "audioUrl": "audio/always-sunny/119_news_flash_asshole.mp3"
-  },
-  {
     "text": "Night Crawlers",
     "character": "",
     "audioUrl": "audio/always-sunny/120_night_crawlers.mp3"
@@ -604,11 +464,6 @@ const quotes = [
     "text": "No one's in any danger, it's an implication of danger",
     "character": "",
     "audioUrl": "audio/always-sunny/121_no_one_s_in_any_danger_it_s_an_implication_of_danger.mp3"
-  },
-  {
-    "text": "No, You Son of a B*tch",
-    "character": "",
-    "audioUrl": "audio/always-sunny/122_no_you_son_of_a_b_tch.mp3"
   },
   {
     "text": "Nobody look!",
@@ -621,24 +476,14 @@ const quotes = [
     "audioUrl": "audio/always-sunny/124_nooooooo.mp3"
   },
   {
-    "text": "Nope",
-    "character": "",
-    "audioUrl": "audio/always-sunny/125_nope.mp3"
-  },
-  {
     "text": "Oh oh ah",
     "character": "",
     "audioUrl": "audio/always-sunny/126_oh_oh_ah.mp3"
   },
   {
-    "text": "Oh Sandra You Dumb Bitch",
+    "text": "Oh Sandra you dumb bitch",
     "character": "",
     "audioUrl": "audio/always-sunny/127_oh_sandra_you_dumb_bitch.mp3"
-  },
-  {
-    "text": "Oh woops",
-    "character": "",
-    "audioUrl": "audio/always-sunny/128_oh_woops.mp3"
   },
   {
     "text": "Ooooooooh Shit",
@@ -651,7 +496,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/130_pepe_silivia.mp3"
   },
   {
-    "text": "Pepe Silvia Carol Rant",
+    "text": "Pepe Silvia Carol rant",
     "character": "",
     "audioUrl": "audio/always-sunny/131_pepe_silvia_carol_rant.mp3"
   },
@@ -666,11 +511,6 @@ const quotes = [
     "audioUrl": "audio/always-sunny/133_poop_is_funny.mp3"
   },
   {
-    "text": "Pretty boys and girls because he is very kids good",
-    "character": "",
-    "audioUrl": "audio/always-sunny/134_pretty_boys_and_girls_because_he_is_very_kids_good.mp3"
-  },
-  {
     "text": "Pussy!",
     "character": "",
     "audioUrl": "audio/always-sunny/135_pussy.mp3"
@@ -681,19 +521,9 @@ const quotes = [
     "audioUrl": "audio/always-sunny/136_put_your_hands_on_top_of_mine.mp3"
   },
   {
-    "text": "Reason will prevail",
-    "character": "",
-    "audioUrl": "audio/always-sunny/137_reason_will_prevail.mp3"
-  },
-  {
     "text": "Reason will prevail!",
     "character": "",
     "audioUrl": "audio/always-sunny/138_reason_will_prevail.mp3"
-  },
-  {
-    "text": "Relaxing and getting blackout drunk",
-    "character": "",
-    "audioUrl": "audio/always-sunny/139_relaxing_and_getting_blackout_drunk.mp3"
   },
   {
     "text": "Road Rage",
@@ -704,11 +534,6 @@ const quotes = [
     "text": "Road Rage",
     "character": "",
     "audioUrl": "audio/always-sunny/141_road_rage.mp3"
-  },
-  {
-    "text": "Rum ham",
-    "character": "",
-    "audioUrl": "audio/always-sunny/142_rum_ham.mp3"
   },
   {
     "text": "Rum ham rescue",
@@ -726,24 +551,9 @@ const quotes = [
     "audioUrl": "audio/always-sunny/145_science_is_a_liar.mp3"
   },
   {
-    "text": "Science is a liar sometimes",
-    "character": "",
-    "audioUrl": "audio/always-sunny/146_science_is_a_liar_sometimes.mp3"
-  },
-  {
-    "text": "Season 12 Finale Dance",
+    "text": "Season 12 finale dance",
     "character": "",
     "audioUrl": "audio/always-sunny/147_season_12_finale_dance.mp3"
-  },
-  {
-    "text": "Shabooya roka",
-    "character": "",
-    "audioUrl": "audio/always-sunny/148_shabooya_roka.mp3"
-  },
-  {
-    "text": "Shut up, baby dick",
-    "character": "",
-    "audioUrl": "audio/always-sunny/149_shut_up_baby_dick.mp3"
   },
   {
     "text": "Shut up!",
@@ -751,19 +561,14 @@ const quotes = [
     "audioUrl": "audio/always-sunny/150_shut_up.mp3"
   },
   {
-    "text": "Shut up! Shut up! Oh My God I don't care",
+    "text": "Shut up! Shut up! Oh my God I don't care",
     "character": "",
     "audioUrl": "audio/always-sunny/151_shut_up_shut_up_oh_my_god_i_don_t_care.mp3"
   },
   {
-    "text": "Sickness Be Gone",
+    "text": "Sickness be gone",
     "character": "",
     "audioUrl": "audio/always-sunny/152_sickness_be_gone.mp3"
-  },
-  {
-    "text": "Silence",
-    "character": "",
-    "audioUrl": "audio/always-sunny/153_silence.mp3"
   },
   {
     "text": "Slow clap",
@@ -771,7 +576,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/154_slow_clap.mp3"
   },
   {
-    "text": "Smitty's Butt Dance",
+    "text": "Smitty's butt dance",
     "character": "",
     "audioUrl": "audio/always-sunny/155_smitty_s_butt_dance.mp3"
   },
@@ -806,24 +611,9 @@ const quotes = [
     "audioUrl": "audio/always-sunny/161_tell_me_it_was_good_tell_me_i_m_good_tell_me_i_m_good_tell_m.mp3"
   },
   {
-    "text": "That bitch is dead",
-    "character": "",
-    "audioUrl": "audio/always-sunny/162_that_bitch_is_dead.mp3"
-  },
-  {
     "text": "That I love. I absolutely love",
     "character": "",
     "audioUrl": "audio/always-sunny/163_that_i_love_i_absolutely_love.mp3"
-  },
-  {
-    "text": "That's a false equivalence",
-    "character": "",
-    "audioUrl": "audio/always-sunny/164_that_s_a_false_equivalence.mp3"
-  },
-  {
-    "text": "That's how you get off",
-    "character": "",
-    "audioUrl": "audio/always-sunny/165_that_s_how_you_get_off.mp3"
   },
   {
     "text": "The Ass Pounder 4000",
@@ -841,14 +631,9 @@ const quotes = [
     "audioUrl": "audio/always-sunny/168_the_gang_gets_sick.mp3"
   },
   {
-    "text": "The Gang Harmonizes",
+    "text": "The gang harmonizes",
     "character": "",
     "audioUrl": "audio/always-sunny/169_the_gang_harmonizes.mp3"
-  },
-  {
-    "text": "The golden god",
-    "character": "",
-    "audioUrl": "audio/always-sunny/170_the_golden_god.mp3"
   },
   {
     "text": "The music will come",
@@ -856,7 +641,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/171_the_music_will_come.mp3"
   },
   {
-    "text": "The Paint Is For The Beer",
+    "text": "The paint is for the beer",
     "character": "",
     "audioUrl": "audio/always-sunny/172_the_paint_is_for_the_beer.mp3"
   },
@@ -881,7 +666,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/176_this_is_my_p_diddy_boat_dance.mp3"
   },
   {
-    "text": "This Isn't Over Til I Say It Is Over!",
+    "text": "This isn't over til I say it is over!",
     "character": "",
     "audioUrl": "audio/always-sunny/177_this_isn_t_over_til_i_say_it_is_over.mp3"
   },
@@ -889,11 +674,6 @@ const quotes = [
     "text": "Three strikes and you're out",
     "character": "",
     "audioUrl": "audio/always-sunny/178_three_strikes_and_you_re_out.mp3"
-  },
-  {
-    "text": "Thumbs Up",
-    "character": "",
-    "audioUrl": "audio/always-sunny/179_thumbs_up.mp3"
   },
   {
     "text": "Tools",
@@ -911,7 +691,7 @@ const quotes = [
     "audioUrl": "audio/always-sunny/182_toxic_waste_bunch_of_liberal_bullshit.mp3"
   },
   {
-    "text": "TRIVIA BABY",
+    "text": "Trivia baby",
     "character": "",
     "audioUrl": "audio/always-sunny/183_trivia_baby.mp3"
   },
@@ -934,11 +714,6 @@ const quotes = [
     "text": "Unzipped",
     "character": "",
     "audioUrl": "audio/always-sunny/187_unzipped.mp3"
-  },
-  {
-    "text": "We have to quarantine ourselves",
-    "character": "",
-    "audioUrl": "audio/always-sunny/188_we_have_to_quarantine_ourselves.mp3"
   },
   {
     "text": "We need to honor St",
@@ -966,39 +741,9 @@ const quotes = [
     "audioUrl": "audio/always-sunny/193_well_what_show_i_dropped_my_monster_condom_that_i_use_for_my.mp3"
   },
   {
-    "text": "What is your spaghetti policy here?",
-    "character": "",
-    "audioUrl": "audio/always-sunny/194_what_is_your_spaghetti_policy_here.mp3"
-  },
-  {
-    "text": "Whatever, you bitch!",
-    "character": "",
-    "audioUrl": "audio/always-sunny/195_whatever_you_bitch.mp3"
-  },
-  {
-    "text": "Where is our god damn bible",
-    "character": "",
-    "audioUrl": "audio/always-sunny/196_where_is_our_god_damn_bible.mp3"
-  },
-  {
-    "text": "Whip this bitch in the face",
-    "character": "",
-    "audioUrl": "audio/always-sunny/197_whip_this_bitch_in_the_face.mp3"
-  },
-  {
     "text": "Dropped my monster condom",
     "character": "",
     "audioUrl": "audio/always-sunny/198_whoops_i_dropped_my_monster_condom_that_i_use_for_my_magnum.mp3"
-  },
-  {
-    "text": "Why I Oughta",
-    "character": "",
-    "audioUrl": "audio/always-sunny/199_why_i_oughta.mp3"
-  },
-  {
-    "text": "Why you look so stupid?",
-    "character": "",
-    "audioUrl": "audio/always-sunny/200_why_you_look_so_stupid.mp3"
   },
   {
     "text": "Wild card bitches! Yeehaw!",
@@ -1011,16 +756,6 @@ const quotes = [
     "audioUrl": "audio/always-sunny/202_wildcard_bitches.mp3"
   },
   {
-    "text": "WTF is that supposed to mean?",
-    "character": "",
-    "audioUrl": "audio/always-sunny/203_wtf_is_that_supposed_to_mean.mp3"
-  },
-  {
-    "text": "Yeah?!",
-    "character": "",
-    "audioUrl": "audio/always-sunny/204_yeah.mp3"
-  },
-  {
     "text": "Yeeeeessssssss",
     "character": "",
     "audioUrl": "audio/always-sunny/205_yeeeeessssssss.mp3"
@@ -1029,16 +764,6 @@ const quotes = [
     "text": "Yeeeeessssssssssss",
     "character": "",
     "audioUrl": "audio/always-sunny/206_yeeeeessssssssssss.mp3"
-  },
-  {
-    "text": "Yesss!",
-    "character": "",
-    "audioUrl": "audio/always-sunny/207_yesss.mp3"
-  },
-  {
-    "text": "You Dumb Bitch",
-    "character": "",
-    "audioUrl": "audio/always-sunny/208_you_dumb_bitch.mp3"
   },
   {
     "text": "You eat my boogers",
@@ -1056,16 +781,6 @@ const quotes = [
     "audioUrl": "audio/always-sunny/211_you_have_to_be_a_real_piece_of_shit_to_get_involved_in_polit.mp3"
   },
   {
-    "text": "You know for the sherlock holmes look",
-    "character": "",
-    "audioUrl": "audio/always-sunny/212_you_know_for_the_sherlock_holmes_look.mp3"
-  },
-  {
-    "text": "You know what it is bitch",
-    "character": "",
-    "audioUrl": "audio/always-sunny/213_you_know_what_it_is_bitch.mp3"
-  },
-  {
     "text": "You must excuse maine",
     "character": "",
     "audioUrl": "audio/always-sunny/214_you_must_excuse_maine.mp3"
@@ -1079,20 +794,5 @@ const quotes = [
     "text": "You're gonna die tonight",
     "character": "",
     "audioUrl": "audio/always-sunny/216_you_re_gonna_die_tonight.mp3"
-  },
-  {
-    "text": "You're gonna quarantine me inside a quarantine?",
-    "character": "",
-    "audioUrl": "audio/always-sunny/217_you_re_gonna_quarantine_me_inside_a_quarantine.mp3"
-  },
-  {
-    "text": "You're so stupid",
-    "character": "",
-    "audioUrl": "audio/always-sunny/218_you_re_so_stupid.mp3"
-  },
-  {
-    "text": "Your breath is dog shit",
-    "character": "",
-    "audioUrl": "audio/always-sunny/219_your_breath_is_dog_shit.mp3"
   }
 ];

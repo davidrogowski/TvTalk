@@ -11,11 +11,6 @@ const quotes = [
     "audioUrl": "audio/django-unchained/002_curiosity_and_attention.mp3"
   },
   {
-    "text": "Fuck all y'all! I'm goin home!",
-    "character": "",
-    "audioUrl": "audio/django-unchained/003_fuck_all_y_all_i_m_goin_home.mp3"
-  },
-  {
     "text": "I'm riding blind",
     "character": "",
     "audioUrl": "audio/django-unchained/004_i_m_riding_blind.mp3"
@@ -36,31 +31,6 @@ const quotes = [
     "audioUrl": "audio/django-unchained/007_nod.mp3"
   },
   {
-    "text": "Noooo!",
-    "character": "",
-    "audioUrl": "audio/django-unchained/008_noooo.mp3"
-  },
-  {
-    "text": "Not pointing any finngers",
-    "character": "",
-    "audioUrl": "audio/django-unchained/009_not_pointing_any_finngers.mp3"
-  },
-  {
-    "text": "Now we must act as our own bartender",
-    "character": "",
-    "audioUrl": "audio/django-unchained/010_now_we_must_act_as_our_own_bartender.mp3"
-  },
-  {
-    "text": "Say goodnight to them nuts",
-    "character": "",
-    "audioUrl": "audio/django-unchained/011_say_goodnight_to_them_nuts.mp3"
-  },
-  {
-    "text": "The D is Silent",
-    "character": "",
-    "audioUrl": "audio/django-unchained/012_the_d_is_silent.mp3"
-  },
-  {
     "text": "To you sir I say... Goodbye",
     "character": "",
     "audioUrl": "audio/django-unchained/013_to_you_sir_i_say_goodbye.mp3"
@@ -71,17 +41,7 @@ const quotes = [
     "audioUrl": "audio/django-unchained/014_well_come_on_inside_and_get_yourself_something_cool_to_drink.mp3"
   },
   {
-    "text": "Who dis n**** on dat nag?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/015_who_dis_n_on_dat_nag.mp3"
-  },
-  {
-    "text": "Who dis n**** on dat nag?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/015_who_dis_n_on_dat_nag.mp3"
-  },
-  {
-    "text": "With My Hands Raised Above My Head",
+    "text": "With my hands raised above my head",
     "character": "",
     "audioUrl": "audio/django-unchained/016_with_my_hands_raised_above_my_head.mp3"
   },
@@ -89,11 +49,6 @@ const quotes = [
     "text": "You will?",
     "character": "",
     "audioUrl": "audio/django-unchained/017_you_will.mp3"
-  },
-  {
-    "text": "Ah, yes. Yes, we were, doctor.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/018_ah_yes_yes_we_were_doctor.mp3"
   },
   {
     "text": "Alexandre Dumas. He wrote The Three Musketeers",
@@ -104,26 +59,6 @@ const quotes = [
     "text": "And all I can hear is criticize, criticize, criticize!",
     "character": "",
     "audioUrl": "audio/django-unchained/021_and_all_i_can_hear_is_criticize_criticize_criticize.mp3"
-  },
-  {
-    "text": "Not supposed to be on this trip",
-    "character": "",
-    "audioUrl": "audio/django-unchained/022_and_all_y_all_know_i_ain_t_supposed_to_be_on_this_trip.mp3"
-  },
-  {
-    "text": "And do you know what the farmer says?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/023_and_do_you_know_what_the_farmer_says.mp3"
-  },
-  {
-    "text": "And he didn't mind killing people to do it",
-    "character": "",
-    "audioUrl": "audio/django-unchained/024_and_he_didn_t_mind_killing_people_to_do_it.mp3"
-  },
-  {
-    "text": "And I do believe I have... one, two, three, four...",
-    "character": "",
-    "audioUrl": "audio/django-unchained/025_and_i_do_believe_i_have_one_two_three_four.mp3"
   },
   {
     "text": "Take it or leave it",
@@ -141,59 +76,14 @@ const quotes = [
     "audioUrl": "audio/django-unchained/028_and_it_is_for_these_attributes_we_ve_ridden_from_texas_to_te.mp3"
   },
   {
-    "text": "Won't be worth a damn thing",
-    "character": "",
-    "audioUrl": "audio/django-unchained/029_and_she_ain_t_gonna_be_worth_she_ain_t_gonna_be_worth_a_damn.mp3"
-  },
-  {
     "text": "I have a lawyer",
     "character": "",
     "audioUrl": "audio/django-unchained/030_and_the_way_you_have_your_mr_moguy_i_have_a_lawyer.mp3"
   },
   {
-    "text": "And these are our horses, Tony and Fritz.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/031_and_these_are_our_horses_tony_and_fritz.mp3"
-  },
-  {
-    "text": "And we will again. In a moment",
-    "character": "",
-    "audioUrl": "audio/django-unchained/033_and_we_will_again_in_a_moment.mp3"
-  },
-  {
-    "text": "And what's the golden rule, Frankie, eh?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/034_and_what_s_the_golden_rule_frankie_eh.mp3"
-  },
-  {
-    "text": "And, of course, her freedom papers, doctor.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/035_and_of_course_her_freedom_papers_doctor.mp3"
-  },
-  {
-    "text": "Billy Crash here got his pistol upside her head",
-    "character": "",
-    "audioUrl": "audio/django-unchained/038_billy_crash_here_got_his_pistol_upside_her_head.mp3"
-  },
-  {
-    "text": "But I didn't want you to do anything rash",
-    "character": "",
-    "audioUrl": "audio/django-unchained/040_but_i_didn_t_want_you_to_do_anything_rash.mp3"
-  },
-  {
     "text": "But I'm willing to wager this man was elected sheriff",
     "character": "",
     "audioUrl": "audio/django-unchained/041_but_i_m_willing_to_wager_this_man_was_elected_sheriff.mp3"
-  },
-  {
-    "text": "But now you have my attention.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/042_but_now_you_have_my_attention.mp3"
-  },
-  {
-    "text": "Whip marks, speaks German",
-    "character": "",
-    "audioUrl": "audio/django-unchained/043_but_she_s_a_young_lady_whip_marks_on_her_back_and_speaks_ger.mp3"
   },
   {
     "text": "I don't want to sell him",
@@ -211,64 +101,14 @@ const quotes = [
     "audioUrl": "audio/django-unchained/050_despite_that_cart_i_haven_t_practiced_dentistry_in_five_year.mp3"
   },
   {
-    "text": "Django, this is Mr. Candie's lawyer, Leonide Moguy.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/051_django_this_is_mr_candie_s_lawyer_leonide_moguy.mp3"
-  },
-  {
-    "text": "Do what I told you, boy!",
-    "character": "",
-    "audioUrl": "audio/django-unchained/053_do_what_i_told_you_boy.mp3"
-  },
-  {
-    "text": "Do you know who the Brittle Brothers are?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/054_do_you_know_who_the_brittle_brothers_are.mp3"
-  },
-  {
-    "text": "Doesn't mean that other bunch of malarkey is.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/055_doesn_t_mean_that_other_bunch_of_malarkey_is.mp3"
-  },
-  {
-    "text": "Don't let that mud slow you down. Keep going.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/056_don_t_let_that_mud_slow_you_down_keep_going.mp3"
-  },
-  {
     "text": "Dr. Schultz. May I introduce to you Broomhilda?",
     "character": "",
     "audioUrl": "audio/django-unchained/057_dr_schultz_may_i_introduce_to_you_broomhilda.mp3"
   },
   {
-    "text": "Frankie, why don't you take them sticks off that horse",
-    "character": "",
-    "audioUrl": "audio/django-unchained/059_frankie_why_don_t_you_take_them_sticks_off_that_horse.mp3"
-  },
-  {
-    "text": "Get her cleaned up and smellin' real nice,",
-    "character": "",
-    "audioUrl": "audio/django-unchained/061_get_her_cleaned_up_and_smellin_real_nice.mp3"
-  },
-  {
     "text": "What's wrong with them dogs",
     "character": "",
     "audioUrl": "audio/django-unchained/062_get_out_there_and_see_what_s_wrong_with_them_goddamn_dogs.mp3"
-  },
-  {
-    "text": "He gonna stay in The Big House?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/071_he_gonna_stay_in_the_big_house.mp3"
-  },
-  {
-    "text": "He gonna stay in The Big House?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/071_he_gonna_stay_in_the_big_house.mp3"
-  },
-  {
-    "text": "He gonna stay in The Big House?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/071_he_gonna_stay_in_the_big_house.mp3"
   },
   {
     "text": "He is a rambunctious sort, ain't he?",
@@ -281,29 +121,9 @@ const quotes = [
     "audioUrl": "audio/django-unchained/073_he_scales_the_mountain_because_he_s_not_afraid_of_it.mp3"
   },
   {
-    "text": "He's a free man. He can ride what he pleases.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/074_he_s_a_free_man_he_can_ride_what_he_pleases.mp3"
-  },
-  {
-    "text": "How far he get off the property?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/084_how_far_he_get_off_the_property.mp3"
-  },
-  {
-    "text": "How many n****** come and go?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/086_how_many_n_you_think_you_see_come_and_go_huh.mp3"
-  },
-  {
     "text": "They ain't going nowhere",
     "character": "",
     "audioUrl": "audio/django-unchained/087_huh_well_just_leave_em_out_here_they_ain_t_going_nowhere.mp3"
-  },
-  {
-    "text": "I am Dr. King Schultz, a legal representative",
-    "character": "",
-    "audioUrl": "audio/django-unchained/089_i_am_dr_king_schultz_a_legal_representative.mp3"
   },
   {
     "text": "I am that one n***** in 10,000.",
@@ -311,49 +131,14 @@ const quotes = [
     "audioUrl": "audio/django-unchained/090_i_am_that_one_n_in_10_000.mp3"
   },
   {
-    "text": "I can't fight no more, Monsieur Candie.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/091_i_can_t_fight_no_more_monsieur_candie.mp3"
-  },
-  {
-    "text": "Getting ready to make me",
-    "character": "",
-    "audioUrl": "audio/django-unchained/092_i_do_believe_you_were_just_getting_ready_to_make_me.mp3"
-  },
-  {
-    "text": "I got no use for a n***** with sand.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/094_i_got_no_use_for_a_n_with_sand.mp3"
-  },
-  {
-    "text": "Track, find, kill that man",
-    "character": "",
-    "audioUrl": "audio/django-unchained/097_i_track_that_man_i_find_that_man_i_kill_that_man.mp3"
-  },
-  {
     "text": "The dead man's winter coat",
     "character": "",
     "audioUrl": "audio/django-unchained/098_i_d_take_that_winter_coat_the_dear_departed_speck_left_behin.mp3"
   },
   {
-    "text": "I'm doing business with both y'all.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/102_i_m_doing_business_with_both_y_all.mp3"
-  },
-  {
-    "text": "I'm keeping it funny for you. Now, John, please.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/103_i_m_keeping_it_funny_for_you_now_john_please.mp3"
-  },
-  {
     "text": "A gentleman and businessman",
     "character": "",
     "audioUrl": "audio/django-unchained/105_i_ve_been_led_to_believe_that_you_are_a_gentleman_and_a_busi.mp3"
-  },
-  {
-    "text": "Is that who you was lookin' for?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/106_is_that_who_you_was_lookin_for.mp3"
   },
   {
     "text": "Sleep in that little box?",
@@ -371,39 +156,14 @@ const quotes = [
     "audioUrl": "audio/django-unchained/109_it_s_against_the_law_for_n_to_ride_horses_in_this_territory.mp3"
   },
   {
-    "text": "Lara Lee! Will you and Cora be responsible",
-    "character": "",
-    "audioUrl": "audio/django-unchained/114_lara_lee_will_you_and_cora_be_responsible.mp3"
-  },
-  {
     "text": "Hands on my...",
     "character": "",
     "audioUrl": "audio/django-unchained/115_last_time_i_seen_you_you_had_your_hands_on_my.mp3"
   },
   {
-    "text": "Lay your hand flat on that tabletop",
-    "character": "",
-    "audioUrl": "audio/django-unchained/116_lay_your_hand_flat_on_that_tabletop.mp3"
-  },
-  {
-    "text": "Let's keep it funny. Django here's a free man.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/118_let_s_keep_it_funny_django_here_s_a_free_man.mp3"
-  },
-  {
-    "text": "Line 'em up to the left here now, boy.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/119_line_em_up_to_the_left_here_now_boy.mp3"
-  },
-  {
     "text": "All fine specimens",
     "character": "",
     "audioUrl": "audio/django-unchained/120_look_monsieur_candie_they_were_all_fine_specimens_no_doubt_a.mp3"
-  },
-  {
-    "text": "Lots of gals where you're from named Broomhilda?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/121_lots_of_gals_where_you_re_from_named_broomhilda.mp3"
   },
   {
     "text": "May I present to you Lara Lee Candie Fitzwilly.",
@@ -414,11 +174,6 @@ const quotes = [
     "text": "Move that buckboard",
     "character": "",
     "audioUrl": "audio/django-unchained/126_move_that_buckboard_a_long_ways_across_the_street_from_the_s.mp3"
-  },
-  {
-    "text": "Mr. Stonesipher, would you please shut these goddamn dogs up?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/128_mr_stonesipher_would_you_please_shut_these_goddamn_dogs_up.mp3"
   },
   {
     "text": "My partner got killed, Calvin Candie got shot,",
@@ -436,11 +191,6 @@ const quotes = [
     "audioUrl": "audio/django-unchained/135_now_why_would_a_slave_have_a_wanted_dead_or_alive_handbill_i.mp3"
   },
   {
-    "text": "Now, boy, why do a fool thing like run off?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/136_now_boy_why_do_a_fool_thing_like_run_off.mp3"
-  },
-  {
     "text": "Weary from our travels",
     "character": "",
     "audioUrl": "audio/django-unchained/138_now_gentlemen_i_do_apologize_but_i_am_weary_from_our_travels.mp3"
@@ -451,29 +201,9 @@ const quotes = [
     "audioUrl": "audio/django-unchained/139_now_may_i_please_remove_the_warrant_from_my_pocket_so_you_ma.mp3"
   },
   {
-    "text": "That uppity son of a bitch",
-    "character": "",
-    "audioUrl": "audio/django-unchained/141_now_why_that_german_gives_a_fuck_who_that_uppity_son_of_a_bi.mp3"
-  },
-  {
-    "text": "Oh, Monsieur Candie, you can't imagine what it's like",
-    "character": "",
-    "audioUrl": "audio/django-unchained/144_oh_monsieur_candie_you_can_t_imagine_what_it_s_like.mp3"
-  },
-  {
     "text": "Django is a free man",
     "character": "",
     "audioUrl": "audio/django-unchained/145_oh_mr_bennett_i_must_remind_you_django_is_a_free_man.mp3"
-  },
-  {
-    "text": "Oh, no. I ain't got no problem with it,",
-    "character": "",
-    "audioUrl": "audio/django-unchained/147_oh_no_i_ain_t_got_no_problem_with_it.mp3"
-  },
-  {
-    "text": "Old Man Carrucan ain't gonna appreciate this, now.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/151_old_man_carrucan_ain_t_gonna_appreciate_this_now.mp3"
   },
   {
     "text": "That's why we run off",
@@ -481,34 +211,9 @@ const quotes = [
     "audioUrl": "audio/django-unchained/152_old_man_carrucan_didn_t_that_s_why_we_uh_we_run_off.mp3"
   },
   {
-    "text": "Once it catches your ass, you're caught.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/153_once_it_catches_your_ass_you_re_caught.mp3"
-  },
-  {
-    "text": "One could almost say youse a n*****.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/155_one_could_almost_say_youse_a_n.mp3"
-  },
-  {
-    "text": "Take a ride in the Victoria",
-    "character": "",
-    "audioUrl": "audio/django-unchained/156_please_won_t_you_take_a_ride_with_us_here_in_the_victoria.mp3"
-  },
-  {
-    "text": "Put more power in there",
-    "character": "",
-    "audioUrl": "audio/django-unchained/159_see_i_told_you_to_put_some_more_power_in_there.mp3"
-  },
-  {
     "text": "Not many n****** where he's from",
     "character": "",
     "audioUrl": "audio/django-unchained/160_seein_as_how_they_don_t_have_many_n_where_he_come_from.mp3"
-  },
-  {
-    "text": "Shut up, black",
-    "character": "",
-    "audioUrl": "audio/django-unchained/163_shut_up_black_you_ain_t_got_nothing_to_say_i_want_to_hear.mp3"
   },
   {
     "text": "Smitty Bacall and the Smitty Bacall",
@@ -526,69 +231,14 @@ const quotes = [
     "audioUrl": "audio/django-unchained/166_so_he_puts_her_on_top_of_the_mountain.mp3"
   },
   {
-    "text": "So that's what I'm doing. I'm gettin' dirty.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/167_so_that_s_what_i_m_doing_i_m_gettin_dirty.mp3"
-  },
-  {
-    "text": "Stephen, what the hell are you talking about? Hm?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/169_stephen_what_the_hell_are_you_talking_about_hm.mp3"
-  },
-  {
-    "text": "Thank you for your assistance in creating the opportunity",
-    "character": "",
-    "audioUrl": "audio/django-unchained/170_thank_you_for_your_assistance_in_creating_the_opportunity.mp3"
-  },
-  {
-    "text": "The Black Hercules, isn't that clever?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/172_the_black_hercules_isn_t_that_clever.mp3"
-  },
-  {
-    "text": "The farmer is forced to say yes.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/173_the_farmer_is_forced_to_say_yes.mp3"
-  },
-  {
-    "text": "The man dead in the dirt",
-    "character": "",
-    "audioUrl": "audio/django-unchained/175_the_man_lying_dead_in_the_dirt_who_the_good_people_of_daught.mp3"
-  },
-  {
     "text": "Django Freeman, my deputy",
     "character": "",
     "audioUrl": "audio/django-unchained/176_the_man_to_my_left_is_django_freeman_he_s_my_deputy.mp3"
   },
   {
-    "text": "Their name is Brittle. You know 'em?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/177_their_name_is_brittle_you_know_em.mp3"
-  },
-  {
     "text": "These three dimples",
     "character": "",
     "audioUrl": "audio/django-unchained/179_these_three_dimples_exist_in_the_area_of_the_skull_most_asso.mp3"
-  },
-  {
-    "text": "Dimples in the skull",
-    "character": "",
-    "audioUrl": "audio/django-unchained/180_these_three_dimples_would_be_found_in_the_area_of_the_skull.mp3"
-  },
-  {
-    "text": "They ain't gonna just kill you, n*****!",
-    "character": "",
-    "audioUrl": "audio/django-unchained/181_they_ain_t_gonna_just_kill_you_n.mp3"
-  },
-  {
-    "text": "They gonna find your black ass!",
-    "character": "",
-    "audioUrl": "audio/django-unchained/182_they_gonna_find_your_black_ass.mp3"
-  },
-  {
-    "text": "To the man with the exceptional beard",
-    "character": "",
-    "audioUrl": "audio/django-unchained/185_to_the_man_with_the_exceptional_beard.mp3"
   },
   {
     "text": "Show off your stock",
@@ -601,66 +251,6 @@ const quotes = [
     "audioUrl": "audio/django-unchained/189_we_were_discussing_the_possibility_of_my_purchasing_broomhil.mp3"
   },
   {
-    "text": "Well, it's not every n***** speaks German, don't ya know.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/190_well_it_s_not_every_n_speaks_german_don_t_ya_know.mp3"
-  },
-  {
-    "text": "Well, let me get this straight.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/191_well_let_me_get_this_straight.mp3"
-  },
-  {
-    "text": "A blind Indian wouldn't bet",
-    "character": "",
-    "audioUrl": "audio/django-unchained/192_well_way_he_looks_now_a_blind_indian_wouldn_t_bet_a_bead_on.mp3"
-  },
-  {
-    "text": "Well, we weren't talkin' business yet.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/193_well_we_weren_t_talkin_business_yet.mp3"
-  },
-  {
-    "text": "What if I don't like you?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/194_well_what_if_i_was_to_say_i_don_t_like_you.mp3"
-  },
-  {
-    "text": "A n***** that speaks German",
-    "character": "",
-    "audioUrl": "audio/django-unchained/198_what_is_the_point_of_havin_a_n_that_speaks_german.mp3"
-  },
-  {
-    "text": "What the fuck is going on?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/200_what_the_fuck_is_going_on.mp3"
-  },
-  {
-    "text": "When we went to boarding school together.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/204_when_we_went_to_boarding_school_together.mp3"
-  },
-  {
-    "text": "Who the hell a you got there?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/205_who_the_hell_a_you_got_there.mp3"
-  },
-  {
-    "text": "Why do you want to get in the Mandingo business?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/208_why_do_you_want_to_get_in_the_mandingo_business.mp3"
-  },
-  {
-    "text": "Why not? Monsieur Candie, you have a deal",
-    "character": "",
-    "audioUrl": "audio/django-unchained/209_why_not_monsieur_candie_you_have_a_deal.mp3"
-  },
-  {
-    "text": "All that trouble for a n*****",
-    "character": "",
-    "audioUrl": "audio/django-unchained/210_why_would_they_go_through_all_that_trouble_for_a_n.mp3"
-  },
-  {
     "text": "Will you make these gentlemen a receipt for $12,000, please?",
     "character": "",
     "audioUrl": "audio/django-unchained/212_will_you_make_these_gentlemen_a_receipt_for_12_000_please.mp3"
@@ -671,19 +261,9 @@ const quotes = [
     "audioUrl": "audio/django-unchained/213_would_you_be_a_dear_go_out_there_and_give_them_gals_an_eyeba.mp3"
   },
   {
-    "text": "You gonna mess her up",
-    "character": "",
-    "audioUrl": "audio/django-unchained/219_you_could_mess_her_skin_up_and_you_gonna_mess_her_up.mp3"
-  },
-  {
     "text": "You could unshackle yourselves, take that rifle,",
     "character": "",
     "audioUrl": "audio/django-unchained/220_you_could_unshackle_yourselves_take_that_rifle.mp3"
-  },
-  {
-    "text": "You don't have to know why. Do you understand?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/221_you_don_t_have_to_know_why_do_you_understand.mp3"
   },
   {
     "text": "You either hit him or are you ain't?",
@@ -696,19 +276,9 @@ const quotes = [
     "audioUrl": "audio/django-unchained/224_you_give_up_ain_t_no_harm_gonna_come_to_her.mp3"
   },
   {
-    "text": "You know Jerry, don't you, sugar?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/226_you_know_jerry_don_t_you_sugar.mp3"
-  },
-  {
     "text": "You see, under the laws of Chickasaw County,",
     "character": "",
     "audioUrl": "audio/django-unchained/228_you_see_under_the_laws_of_chickasaw_county.mp3"
-  },
-  {
-    "text": "Buy a beat ass n***** from me",
-    "character": "",
-    "audioUrl": "audio/django-unchained/229_you_see_you_wanna_buy_a_beat_ass_n_from_me.mp3"
   },
   {
     "text": "Till the snow melts",
@@ -716,44 +286,14 @@ const quotes = [
     "audioUrl": "audio/django-unchained/231_you_work_with_me_through_the_winter_till_the_snow_melts.mp3"
   },
   {
-    "text": "You wouldn't lie to me, now, would you?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/232_you_wouldn_t_lie_to_me_now_would_you.mp3"
-  },
-  {
-    "text": "You're yelling abuse at these poor slaves.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/234_you_re_yelling_abuse_at_these_poor_slaves.mp3"
-  },
-  {
     "text": "Broomhilda Von Shaft",
     "character": "",
     "audioUrl": "audio/django-unchained/235_your_slave_wife_speaks_german_and_her_name_is_broomhilda_von.mp3"
   },
   {
-    "text": "Youse gonna let me pick out my own clothes?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/236_youse_gonna_let_me_pick_out_my_own_clothes.mp3"
-  },
-  {
-    "text": "Are these Broomhilda's papers? Yes, they are",
-    "character": "",
-    "audioUrl": "audio/django-unchained/238_are_these_broomhilda_s_papers_yes_they_are.mp3"
-  },
-  {
-    "text": "Do what now? I said, Tell Miss Lara goodbye.",
+    "text": "Do what now? I said, tell Miss Lara goodbye.",
     "character": "",
     "audioUrl": "audio/django-unchained/240_do_what_now_i_said_tell_miss_lara_goodbye.mp3"
-  },
-  {
-    "text": "Hm! It's like a pool of black tar",
-    "character": "",
-    "audioUrl": "audio/django-unchained/242_hm_it_s_like_a_pool_of_black_tar.mp3"
-  },
-  {
-    "text": "Hurry up, girl. These ready, Miss Cora.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/243_hurry_up_girl_these_ready_miss_cora.mp3"
   },
   {
     "text": "A bad loser, abysmal winner",
@@ -771,54 +311,9 @@ const quotes = [
     "audioUrl": "audio/django-unchained/248_need_to_have_what_what_panache_uh.mp3"
   },
   {
-    "text": "No! Do what I told ya!",
-    "character": "",
-    "audioUrl": "audio/django-unchained/249_no_do_what_i_told_ya.mp3"
-  },
-  {
-    "text": "Right in front of both y'all! Easy, big fella",
-    "character": "",
-    "audioUrl": "audio/django-unchained/251_right_in_front_of_both_y_all_easy_big_fella.mp3"
-  },
-  {
-    "text": "Right over there on that little table. Thank you.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/252_right_over_there_on_that_little_table_thank_you.mp3"
-  },
-  {
-    "text": "Seven zero zero zero.. Seven thousand.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/253_seven_zero_zero_zero_seven_thousand.mp3"
-  },
-  {
-    "text": "Should we wait inside? Can we just leave?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/255_should_we_wait_inside_can_we_just_leave.mp3"
-  },
-  {
-    "text": "Thank you ever so much. Doctor",
-    "character": "",
-    "audioUrl": "audio/django-unchained/257_thank_you_ever_so_much_doctor.mp3"
-  },
-  {
-    "text": "Buy Candyland?",
-    "character": "",
-    "audioUrl": "audio/django-unchained/258_we_gonna_offer_to_buy_candyland_no_it_s_far_too_big.mp3"
-  },
-  {
     "text": "Yeah. Business never sleeps. Hm mm",
     "character": "",
     "audioUrl": "audio/django-unchained/261_yeah_business_never_sleeps_hm_mm.mp3"
-  },
-  {
-    "text": "Yessir, boss. Oh, now you are one lucky n*****.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/262_yessir_boss_oh_now_you_are_one_lucky_n.mp3"
-  },
-  {
-    "text": "You miss me, huh? Oh, yessir.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/264_you_miss_me_huh_oh_yessir.mp3"
   },
   {
     "text": "You stupid son of a bitch! Sorry, Jessie!",
@@ -826,19 +321,9 @@ const quotes = [
     "audioUrl": "audio/django-unchained/265_you_stupid_son_of_a_bitch_sorry_jessie.mp3"
   },
   {
-    "text": "...and in my world you gotta get dirty.",
-    "character": "",
-    "audioUrl": "audio/django-unchained/267_and_in_my_world_you_gotta_get_dirty.mp3"
-  },
-  {
     "text": "Can't let you go to Greenville",
     "character": "",
     "audioUrl": "audio/django-unchained/269_but_i_can_t_let_you_go_to_greenville_in_a_good_conscience.mp3"
-  },
-  {
-    "text": "...I will admit you are pretty clever",
-    "character": "",
-    "audioUrl": "audio/django-unchained/271_i_will_admit_you_are_pretty_clever.mp3"
   },
   {
     "text": "...normally, I would say auf Wiedersehen.",

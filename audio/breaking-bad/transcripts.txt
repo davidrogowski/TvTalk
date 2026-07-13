@@ -1,11 +1,3 @@
-001_a_strong_force_of_attraction.mp3
-  "A strong force of attraction."
-  CHARACTER: 
-
-002_absolutely_not.mp3
-  "Absolutely not."
-  CHARACTER: 
-
 003_and_all_you_ve_got_to_do_is_let_him_go.mp3
   "All you do is let him go"
   CHARACTER: 
@@ -14,88 +6,12 @@
   "Close enough to ride my bike"
   CHARACTER: 
 
-005_and_you_are.mp3
-  "And you are?"
-  CHARACTER: 
-
-006_because_i_told_you.mp3
-  "Because I told you."
-  CHARACTER: 
-
-007_do_you_know_what_a_bond_is.mp3
-  "Do you know what a bond is?"
-  CHARACTER: 
-
 008_do_you_think_he_is_capable_of_listening_to_reason.mp3
   "Capable of listening to reason?"
   CHARACTER: 
 
-009_does_it_look_like_i_m_doing.mp3
-  "Does it look like I'm doing?"
-  CHARACTER: 
-
-010_doesn_t_matter_it_doesn_t_concern_you.mp3
-  "Doesn't concern you"
-  CHARACTER: 
-
-011_don_t_bullshit_a_bullshitter.mp3
-  "Don't bullshit a bullshitter"
-  CHARACTER: 
-
-012_don_t_you_dare_put_that_on_me.mp3
-  "Don't you dare put that on me"
-  CHARACTER: 
-
-013_emilio_is_going_to_prison.mp3
-  "Emilio is going to prison"
-  CHARACTER: 
-
 014_everything_is_going_to_be_fine_but_we_need_to_leave_right_no.mp3
   "We need to leave right now"
-  CHARACTER: 
-
-015_feel_very_foolish.mp3
-  "Feel very foolish."
-  CHARACTER: 
-
-016_from_what_i_can_tell_you_are_just_a_drug_addict.mp3
-  "You're just a drug addict"
-  CHARACTER: 
-
-017_fuck_you_and_your_eyebrows.mp3
-  "Fuck you and your eyebrows"
-  CHARACTER: 
-
-018_fuck_you.mp3
-  "Fuck you."
-  CHARACTER: 
-
-019_have_a_seat.mp3
-  "Have a seat."
-  CHARACTER: 
-
-020_he_s_got_a_bug_up_his_butt.mp3
-  "He's got a bug up his butt"
-  CHARACTER: 
-
-021_hiding_money_it_s_buried_down_here.mp3
-  "Money's buried down here"
-  CHARACTER: 
-
-022_honestly_i_never_expected_you_to_amount_to_much.mp3
-  "Never expected you to amount to much"
-  CHARACTER: 
-
-023_how_do_you_know_my_name.mp3
-  "How do you know my name?"
-  CHARACTER: 
-
-024_how_does_it_feel_to_be_a_smart_ass.mp3
-  "How does it feel to be a smart ass?"
-  CHARACTER: 
-
-025_i_didn_t_picture_that.mp3
-  "I didn't picture that."
   CHARACTER: 
 
 026_i_feel_like_you_re_upset_with_me_because_you_think_that_i_m.mp3
@@ -110,10 +26,6 @@
   "We will not make garbage"
   CHARACTER: 
 
-029_i_tried_to_save_it.mp3
-  "I tried to save it."
-  CHARACTER: 
-
 030_i_warned_you_for_a_solid_year_you_cross_me_there_will_be_con.mp3
   "There will be consequences"
   CHARACTER: 
@@ -126,40 +38,8 @@
   "Why wouldn't you meet me?"
   CHARACTER: 
 
-033_i_ve_still_got_things_left_to_do.mp3
-  "I've still got things to do"
-  CHARACTER: 
-
-034_it_s_bad.mp3
-  "It's bad."
-  CHARACTER: 
-
-035_it_s_kind_of_funny.mp3
-  "It's kind of funny."
-  CHARACTER: 
-
-036_it_s_nice.mp3
-  "It's nice."
-  CHARACTER: 
-
-037_just_find_jesse.mp3
-  "Just find Jesse."
-  CHARACTER: 
-
-038_just_listen_to_me.mp3
-  "Just listen to me."
-  CHARACTER: 
-
-039_keep_your_damn_mouth_shut.mp3
-  "Keep your damn mouth shut"
-  CHARACTER: 
-
 040_left_hand_and_your_right_hand_are_mirror_images_of_one_anoth.mp3
   "Mirror images of one another"
-  CHARACTER: 
-
-041_let_me_know_when_you_re_ready_and_i_ll_i_ll_give_you_a_holle.mp3
-  "I'll give you a holler"
   CHARACTER: 
 
 042_lingering_on_things_doesn_t_help_believe_me_just_try_and_foc.mp3
@@ -178,36 +58,12 @@
   "Look at the bottom for a triangle"
   CHARACTER: 
 
-046_no_no_no.mp3
-  "No no no."
-  CHARACTER: 
-
-047_no_no_no.mp3
-  "No no no."
-  CHARACTER: 
-
-048_no.mp3
-  "No."
-  CHARACTER: 
-
-049_no.mp3
-  "No."
-  CHARACTER: 
-
 050_not_a_conversation_i_m_even_remotely_ready_to_have.mp3
   "Not a conversation I'm ready for"
   CHARACTER: 
 
-051_not_anymore.mp3
-  "Not anymore."
-  CHARACTER: 
-
 052_now_even_the_small_busted_girls_have_cleavage.mp3
   "Now even small busted girls have cleavage"
-  CHARACTER: 
-
-053_of_course_i_am.mp3
-  "Of course I am."
   CHARACTER: 
 
 054_oh_no_well_what_you_have_to_stop_you_have_to_stop_this_it_s.mp3
@@ -222,92 +78,20 @@
   "I'll explain everything later"
   CHARACTER: 
 
-057_please.mp3
-  "Please."
-  CHARACTER: 
-
-058_put_the_knife_down_please.mp3
-  "Put the knife down, please"
-  CHARACTER: 
-
 059_put_your_arms_around_me_jenna_stand_up_we_re_going_to_look_a.mp3
   "Somewhere nice and safe"
-  CHARACTER: 
-
-060_say_my_name.mp3
-  "Say my name."
-  CHARACTER: 
-
-061_shut_up.mp3
-  "Shut up."
   CHARACTER: 
 
 062_so_i_suggest_let_you_go_then_just_unlock_you_and_audios.mp3
   "Unlock you and adios"
   CHARACTER: 
 
-063_sorry_i_ll_do_it_tomorrow_i_promise.mp3
-  "I'll do it tomorrow, I promise"
-  CHARACTER: 
-
-064_sorry.mp3
-  "Sorry."
-  CHARACTER: 
-
-065_sure.mp3
-  "Sure."
-  CHARACTER: 
-
-066_that_s_me.mp3
-  "That's me."
-  CHARACTER: 
-
-067_then_why_are_you_here.mp3
-  "Then why are you here?"
-  CHARACTER: 
-
-068_there_s_no_net.mp3
-  "There's no net."
-  CHARACTER: 
-
-069_this_is_between_him_and_me.mp3
-  "This is between him and me"
-  CHARACTER: 
-
-070_this_is_walter_white_breaking.mp3
-  "This is Walter White breaking"
-  CHARACTER: 
-
 071_volume_metric_flask_is_for_general_mixing_and_titration_you.mp3
   "Did you learn nothing in my class?"
   CHARACTER: 
 
-072_what_about_the_side_effects.mp3
-  "What about the side effects?"
-  CHARACTER: 
-
-073_what_did_you_just_say.mp3
-  "What did you just say?"
-  CHARACTER: 
-
-074_what_does_your_dad_do.mp3
-  "What does your dad do?"
-  CHARACTER: 
-
 075_what_i_need_is_for_you_to_climb_down_out_of_my_ass.mp3
   "Climb down out of my ass"
-  CHARACTER: 
-
-076_what_is_his_reputation_for_violence.mp3
-  "His reputation for violence?"
-  CHARACTER: 
-
-077_what_the_hell_are_you_doing_here.mp3
-  "What the hell are you doing here?"
-  CHARACTER: 
-
-078_what_the_hell_is_wrong_with_you.mp3
-  "What the hell is wrong with you?"
   CHARACTER: 
 
 079_what_the_hell_is_wrong_with_you_i_m_i_m_really_asking.mp3
@@ -330,92 +114,16 @@
   "It's pretty great"
   CHARACTER: 
 
-084_yeah_no_i_remember_that.mp3
-  "Yeah, I remember that"
-  CHARACTER: 
-
-085_yeah_you_got_it.mp3
-  "Yeah, you got it."
-  CHARACTER: 
-
-086_yes_absolutely.mp3
-  "Yes, absolutely."
-  CHARACTER: 
-
 087_yes_i_would_of_course_i_would.mp3
   "Of course I would"
-  CHARACTER: 
-
-088_yes_yes_indeed.mp3
-  "Yes, yes indeed."
-  CHARACTER: 
-
-089_yes.mp3
-  "Yes."
-  CHARACTER: 
-
-090_yes.mp3
-  "Yes."
-  CHARACTER: 
-
-091_yes.mp3
-  "Yes."
-  CHARACTER: 
-
-092_you_all_know_exactly_who_i_am.mp3
-  "You all know exactly who I am"
-  CHARACTER: 
-
-093_you_and_i_could_partner_up.mp3
-  "You and I could partner up"
   CHARACTER: 
 
 094_you_are_a_pathetic_junkie_too_stupid_to_understand_and_follo.mp3
   "You are a pathetic junkie"
   CHARACTER: 
 
-095_you_are_not_good_at_all.mp3
-  "You are not good at all"
-  CHARACTER: 
-
-096_you_better_not_be_saying_what_i_think_you_re_saying.mp3
-  "Don't say what I think"
-  CHARACTER: 
-
-097_you_can_have_any_future_that_you_want.mp3
-  "Any future that you want"
-  CHARACTER: 
-
 098_you_could_charge_twice_the_current_rate_for_what_i_provide_a.mp3
   "Charge twice the rate"
-  CHARACTER: 
-
-099_you_got_nothing.mp3
-  "You got nothing."
-  CHARACTER: 
-
-100_you_lost_your_partner_today.mp3
-  "You lost your partner today"
-  CHARACTER: 
-
-101_you_stupid_bitch.mp3
-  "You stupid bitch."
-  CHARACTER: 
-
-102_you_wouldn_t_cook_in_one_of_these.mp3
-  "You wouldn't cook in one of these"
-  CHARACTER: 
-
-103_you_re_god_damn_right.mp3
-  "You're God damn right."
-  CHARACTER: 
-
-104_80_million.mp3
-  "$80 million"
-  CHARACTER: 
-
-105_90_000.mp3
-  "$90,000"
   CHARACTER: 
 
 106_aah_god_jesus_god_shut_up_oh_wow.mp3
@@ -744,4 +452,92 @@
 
 195_this_way_to_savings_this_way_to_savings_come_on_save_some_m.mp3
   "This way to savings"
+  CHARACTER: 
+
+196_angry_pizza_throw.mp3
+  "Angry pizza throw"
+  CHARACTER: 
+
+207_explain_yourself.mp3
+  "Explain yourself"
+  CHARACTER: 
+
+208_family_is_all.mp3
+  "Family is all"
+  CHARACTER: 
+
+211_happy_birthday_walt.mp3
+  "Happy Birthday Walt"
+  CHARACTER: 
+
+212_he_can_t_keep_getting_away_with_it.mp3
+  "He can't keep getting away with it"
+  CHARACTER: 
+
+215_i_am_the_one_who_knocks.mp3
+  "I am the One Who Knocks"
+  CHARACTER: 
+
+220_i_m_the_man_who_killed_gus_fring.mp3
+  "I'm the Man Who Killed Gus Fring"
+  CHARACTER: 
+
+221_it_can_be_done.mp3
+  "It can be done"
+  CHARACTER: 
+
+223_jesse_crying.mp3
+  "Jesse Crying"
+  CHARACTER: 
+
+227_no_dice.mp3
+  "No dice"
+  CHARACTER: 
+
+230_recognize_who_s_in_charge.mp3
+  "Recognize who's in charge"
+  CHARACTER: 
+
+232_say_my_name_extended.mp3
+  "Say my name (extended)"
+  CHARACTER: 
+
+236_sleepy.mp3
+  "Sleepy"
+  CHARACTER: 
+
+237_stay_out_of_my_territory.mp3
+  "Stay out of my territory"
+  CHARACTER: 
+
+239_this_is_bullshit.mp3
+  "This is Bullshit"
+  CHARACTER: 
+
+240_tight_tight_tight.mp3
+  "TIGHT TIGHT TIGHT"
+  CHARACTER: 
+
+241_today_is_the_first_day_of_the_rest_of_your_life.mp3
+  "Today is the first day of the rest of your life"
+  CHARACTER: 
+
+242_tomorrow.mp3
+  "Tomorrow"
+  CHARACTER: 
+
+243_tread_lightly.mp3
+  "Tread lightly"
+  CHARACTER: 
+
+248_where_s_my_money.mp3
+  "Where's My Money"
+  CHARACTER: 
+
+249_yeah_bitch_magnets.mp3
+  "Yeah bitch! Magnets!"
+  CHARACTER: 
+
+253_you_got_me.mp3
+  "You got me"
   CHARACTER: 

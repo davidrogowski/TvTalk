@@ -139,7 +139,7 @@
   CHARACTER: 
 
 076_funny_cuz_its_mean.mp3
-  "Funny cuz it's mean"
+  "Funny because it's mean"
   CHARACTER: 
 
 096_get_a_room.mp3
@@ -279,7 +279,7 @@
   CHARACTER: 
 
 175_lick_my_frozen_metal_ass.mp3
-  "Lick My Frozen Metal Ass"
+  "Lick my frozen metal ass"
   CHARACTER: 
 
 178_merry_xmas.mp3
@@ -295,19 +295,19 @@
   CHARACTER: 
 
 182_name_it_and_i_m_there.mp3
-  "Name It, and I'm There"
+  "Name it, and I'm there"
   CHARACTER: 
 
 185_neutrals_sicken_me.mp3
-  "Neutrals Sicken Me"
+  "Neutrals sicken me"
   CHARACTER: 
 
 186_new_years_countdown.mp3
-  "New Years Countdown"
+  "New Years countdown"
   CHARACTER: 
 
 187_no_one_is_saying_that_but_i_m_certainly_thinking_it_loudly.mp3
-  "No One is Saying That, But I'm Certainly Thinking It Loudly"
+  "No one is saying that, but I'm certainly thinking it loudly"
   CHARACTER: 
 
 188_no_you.mp3
@@ -319,7 +319,7 @@
   CHARACTER: 
 
 194_now_i_m_all_you_got.mp3
-  "Now I'm All You Got"
+  "Now I'm all you got"
   CHARACTER: 
 
 196_oh_baby_yeah.mp3
@@ -363,7 +363,7 @@
   CHARACTER: 
 
 213_robot_scratching_post.mp3
-  "Robot Scratching Post"
+  "Robot scratching post"
   CHARACTER: 
 
 216_santa_has_something_special.mp3
@@ -435,7 +435,7 @@
   CHARACTER: 
 
 255_touch_your_toes.mp3
-  "Touch Your Toes"
+  "Touch your toes"
   CHARACTER: 
 
 257_trying_to_hide_the_truth.mp3
@@ -447,7 +447,7 @@
   CHARACTER: 
 
 261_vending_machine_coffee.mp3
-  "Vending Machine Coffee"
+  "Vending machine coffee"
   CHARACTER: 
 
 262_wait_a_second_you_re_a_bender_right_we_can_get_outta_here_if.mp3
@@ -463,7 +463,7 @@
   CHARACTER: 
 
 267_we_have_to_wake_him_up.mp3
-  "We Have To Wake Him Up"
+  "We have to wake him up"
   CHARACTER: 
 
 268_we_share_our_wisdom_with_those_who_seek_it_is_a_life_of_quie.mp3
@@ -507,7 +507,7 @@
   CHARACTER: 
 
 290_who_will_make_bender_waffles_just_the_way_he_likes_them_now.mp3
-  "Who Will Make Bender Waffles Now"
+  "Who will make Bender waffles now"
   CHARACTER: 
 
 293_woopwoopwoop.mp3
@@ -515,11 +515,11 @@
   CHARACTER: 
 
 294_wow_your_kid_is_great.mp3
-  "Wow, Your Kid is Great"
+  "Wow, your kid is great"
   CHARACTER: 
 
 295_wreck_up_the_place.mp3
-  "Wreck Up the Place"
+  "Wreck up the place"
   CHARACTER: 
 
 299_you_are_here_by_quarantine.mp3
@@ -535,9 +535,9 @@
   CHARACTER: 
 
 305_you_know_it_s_funny.mp3
-  "You Know, It's Funny.."
+  "You know, it's funny.."
   CHARACTER: 
 
 306_you_lived_before_you_met_me.mp3
-  "You Lived Before You Met Me?"
+  "You lived before you met me?"
   CHARACTER: 

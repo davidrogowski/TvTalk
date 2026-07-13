@@ -1,5 +1,5 @@
 001_black_bush_oil.mp3
-  "Black Bush: Oil"
+  "Black Bush: oil"
   CHARACTER: 
 
 002_chappelle_show_corny.mp3
@@ -15,15 +15,15 @@
   CHARACTER: 
 
 005_four_thumbs_down.mp3
-  "Four Thumbs Down"
+  "Four thumbs down"
   CHARACTER: 
 
 006_grits_n_gravy.mp3
-  "Grits N Gravy"
+  "Grits n gravy"
   CHARACTER: 
 
 007_he_tried_to_kill_my_father.mp3
-  "He Tried to Kill My Father"
+  "He tried to kill my father"
   CHARACTER: 
 
 008_i_hope_all_the_bad_things_happen_to_you.mp3
@@ -59,7 +59,7 @@
   CHARACTER: 
 
 016_yaddy_yaddy_yadda.mp3
-  "Yaddy Yaddy Yadda"
+  "Yaddy yaddy yadda"
   CHARACTER: 
 
 017_yeah_yeah.mp3

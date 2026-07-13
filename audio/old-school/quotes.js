@@ -6,11 +6,6 @@ const quotes = [
     "audioUrl": "audio/old-school/004_a_professor_lived_here_for_like_30_years_and_then_he_died.mp3"
   },
   {
-    "text": "Look at the baby",
-    "character": "",
-    "audioUrl": "audio/old-school/025_always_smiling_hi_honey_judging_watching_look_at_the_baby.mp3"
-  },
-  {
     "text": "The vault competition",
     "character": "",
     "audioUrl": "audio/old-school/035_and_for_the_vault_competition_oh_i_don_t_know.mp3"

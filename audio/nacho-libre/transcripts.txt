@@ -87,7 +87,7 @@
   CHARACTER: 
 
 158_nacho_libre_stretchy.mp3
-  "Nacho Libre stretchy"
+  "Stretchy"
   CHARACTER: 
 
 165_nachoooooo.mp3

@@ -11,3 +11,5 @@ Clock The Quote/
 node_modules/
 .superpowers/
 .claude/
+dropper-engine/
+docs/

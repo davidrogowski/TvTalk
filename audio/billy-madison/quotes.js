@@ -6,11 +6,6 @@ const quotes = [
     "audioUrl": "audio/billy-madison/001_a_simple_wrong_would_ve_done_just_fine.mp3"
   },
   {
-    "text": "Any more brain busters?",
-    "character": "",
-    "audioUrl": "audio/billy-madison/002_any_more_brain_busters.mp3"
-  },
-  {
     "text": "Back to school",
     "character": "",
     "audioUrl": "audio/billy-madison/003_back_to_school.mp3"
@@ -24,16 +19,6 @@ const quotes = [
     "text": "Billy Madison",
     "character": "",
     "audioUrl": "audio/billy-madison/005_billy_madison.mp3"
-  },
-  {
-    "text": "Business ethics",
-    "character": "",
-    "audioUrl": "audio/billy-madison/006_billy_madison_business_ethics.mp3"
-  },
-  {
-    "text": "Goo",
-    "character": "",
-    "audioUrl": "audio/billy-madison/007_billy_madison_goo.mp3"
   },
   {
     "text": "PT",
@@ -76,11 +61,6 @@ const quotes = [
     "audioUrl": "audio/billy-madison/015_cheering.mp3"
   },
   {
-    "text": "Cheese",
-    "character": "",
-    "audioUrl": "audio/billy-madison/016_cheese.mp3"
-  },
-  {
     "text": "Cherish it",
     "character": "",
     "audioUrl": "audio/billy-madison/017_cherish_it.mp3"
@@ -96,29 +76,9 @@ const quotes = [
     "audioUrl": "audio/billy-madison/019_chris_farley_and_the_penguin.mp3"
   },
   {
-    "text": "Cool",
-    "character": "",
-    "audioUrl": "audio/billy-madison/020_cool.mp3"
-  },
-  {
-    "text": "Correct",
-    "character": "",
-    "audioUrl": "audio/billy-madison/021_correct.mp3"
-  },
-  {
-    "text": "Couch",
-    "character": "",
-    "audioUrl": "audio/billy-madison/022_couch.mp3"
-  },
-  {
     "text": "Dance",
     "character": "",
     "audioUrl": "audio/billy-madison/023_dance.mp3"
-  },
-  {
-    "text": "Did you fall asleep or did you pass out?",
-    "character": "",
-    "audioUrl": "audio/billy-madison/024_did_you_fall_asleep_or_did_you_pass_out.mp3"
   },
   {
     "text": "Do you know where the bathroom is?",
@@ -131,16 +91,6 @@ const quotes = [
     "audioUrl": "audio/billy-madison/026_don_t_say_that_stay_here_cherish_it.mp3"
   },
   {
-    "text": "Don't screw it up",
-    "character": "",
-    "audioUrl": "audio/billy-madison/027_don_t_screw_it_up.mp3"
-  },
-  {
-    "text": "Don't tell me my business, devil woman",
-    "character": "",
-    "audioUrl": "audio/billy-madison/028_don_t_tell_me_my_business_devil_woman.mp3"
-  },
-  {
     "text": "Empty keg celebration",
     "character": "",
     "audioUrl": "audio/billy-madison/029_empty_keg_celebration.mp3"
@@ -149,11 +99,6 @@ const quotes = [
     "text": "Eric is pregnant",
     "character": "",
     "audioUrl": "audio/billy-madison/030_eric_is_pregnant.mp3"
-  },
-  {
-    "text": "Eric!",
-    "character": "",
-    "audioUrl": "audio/billy-madison/031_eric.mp3"
   },
   {
     "text": "Everyone is now dumber",
@@ -171,16 +116,6 @@ const quotes = [
     "audioUrl": "audio/billy-madison/034_frank.mp3"
   },
   {
-    "text": "Goo",
-    "character": "",
-    "audioUrl": "audio/billy-madison/035_goo.mp3"
-  },
-  {
-    "text": "Goo",
-    "character": "",
-    "audioUrl": "audio/billy-madison/036_goo.mp3"
-  },
-  {
     "text": "Good, great, grand, wonderful",
     "character": "",
     "audioUrl": "audio/billy-madison/037_good_great_grand_wonderful.mp3"
@@ -191,19 +126,9 @@ const quotes = [
     "audioUrl": "audio/billy-madison/038_grossest_thing_i_ve_ever_heard.mp3"
   },
   {
-    "text": "Grossest thing in my life",
-    "character": "",
-    "audioUrl": "audio/billy-madison/039_grossest_thing_in_my_life.mp3"
-  },
-  {
     "text": "Ha ha ha, shut up",
     "character": "",
     "audioUrl": "audio/billy-madison/040_ha_ha_ha_shut_up.mp3"
-  },
-  {
-    "text": "OMG that is funny",
-    "character": "",
-    "audioUrl": "audio/billy-madison/041_haha_omg_that_is_funny.mp3"
   },
   {
     "text": "Have some more sloppy joes",
@@ -241,19 +166,9 @@ const quotes = [
     "audioUrl": "audio/billy-madison/048_how_bout_you_sideburns.mp3"
   },
   {
-    "text": "How's high school, Billy?",
-    "character": "",
-    "audioUrl": "audio/billy-madison/049_how_s_high_school_billy.mp3"
-  },
-  {
     "text": "I can and I will",
     "character": "",
     "audioUrl": "audio/billy-madison/050_i_can_and_i_will.mp3"
-  },
-  {
-    "text": "I heard he's retarded or something",
-    "character": "",
-    "audioUrl": "audio/billy-madison/051_i_heard_he_s_retarded_or_something.mp3"
   },
   {
     "text": "I know from experience dude",
@@ -266,19 +181,9 @@ const quotes = [
     "audioUrl": "audio/billy-madison/053_i_see_your_lips_moving_but_i_can_t_make_out_the_words_i_m_de.mp3"
   },
   {
-    "text": "I thank you",
-    "character": "",
-    "audioUrl": "audio/billy-madison/054_i_thank_you.mp3"
-  },
-  {
     "text": "I thought I was your snack pack",
     "character": "",
     "audioUrl": "audio/billy-madison/055_i_thought_i_was_your_snack_pack.mp3"
-  },
-  {
-    "text": "I'd rather have a beer",
-    "character": "",
-    "audioUrl": "audio/billy-madison/056_i_d_rather_have_a_beer.mp3"
   },
   {
     "text": "I'll turn this damn bus around",
@@ -301,7 +206,7 @@ const quotes = [
     "audioUrl": "audio/billy-madison/060_it_could_be_our_milk.mp3"
   },
   {
-    "text": "It's Poop Again",
+    "text": "It's poop again",
     "character": "",
     "audioUrl": "audio/billy-madison/061_it_s_poop_again.mp3"
   },
@@ -316,17 +221,7 @@ const quotes = [
     "audioUrl": "audio/billy-madison/063_it_s_too_damn_hot_for_a_penguin_to_be_walking_around_here.mp3"
   },
   {
-    "text": "Jackpot!",
-    "character": "",
-    "audioUrl": "audio/billy-madison/064_jackpot.mp3"
-  },
-  {
-    "text": "Kid can't even read",
-    "character": "",
-    "audioUrl": "audio/billy-madison/065_kid_can_t_even_read.mp3"
-  },
-  {
-    "text": "Knibb High Football Rules",
+    "text": "Knibb High football rules",
     "character": "",
     "audioUrl": "audio/billy-madison/066_knibb_high_football_rules.mp3"
   },
@@ -334,11 +229,6 @@ const quotes = [
     "text": "Lady you're scaring us",
     "character": "",
     "audioUrl": "audio/billy-madison/067_lady_you_re_scaring_us.mp3"
-  },
-  {
-    "text": "Let's go!",
-    "character": "",
-    "audioUrl": "audio/billy-madison/068_let_s_go.mp3"
   },
   {
     "text": "Lipstick",
@@ -361,29 +251,9 @@ const quotes = [
     "audioUrl": "audio/billy-madison/072_maybe_we_could_have_some_coffee.mp3"
   },
   {
-    "text": "Miss Lippy Dancing",
+    "text": "Miss Lippy dancing",
     "character": "",
     "audioUrl": "audio/billy-madison/073_miss_lippy_dancing.mp3"
-  },
-  {
-    "text": "Mortified",
-    "character": "",
-    "audioUrl": "audio/billy-madison/074_mortified.mp3"
-  },
-  {
-    "text": "Move it or lose it",
-    "character": "",
-    "audioUrl": "audio/billy-madison/075_move_it_or_lose_it.mp3"
-  },
-  {
-    "text": "My wife, the Tramp",
-    "character": "",
-    "audioUrl": "audio/billy-madison/076_my_wife_the_tramp.mp3"
-  },
-  {
-    "text": "No I will not make out with you",
-    "character": "",
-    "audioUrl": "audio/billy-madison/077_no_i_will_not_make_out_w_you_billy_madison.mp3"
   },
   {
     "text": "No I will not make out with you",
@@ -401,11 +271,6 @@ const quotes = [
     "audioUrl": "audio/billy-madison/080_no_milk_will_ever_be_our_milk.mp3"
   },
   {
-    "text": "No yelling on the bus",
-    "character": "",
-    "audioUrl": "audio/billy-madison/081_no_yelling_on_the_bus.mp3"
-  },
-  {
     "text": "No!",
     "character": "",
     "audioUrl": "audio/billy-madison/082_no.mp3"
@@ -421,29 +286,9 @@ const quotes = [
     "audioUrl": "audio/billy-madison/084_nothing_even_close_to_a_rational_thought.mp3"
   },
   {
-    "text": "Now you're all in big trouble",
-    "character": "",
-    "audioUrl": "audio/billy-madison/085_now_you_re_all_in_big_trouble.mp3"
-  },
-  {
     "text": "O'Doyle rules!",
     "character": "",
     "audioUrl": "audio/billy-madison/086_o_doyle_rules.mp3"
-  },
-  {
-    "text": "O'Doyle rules!",
-    "character": "",
-    "audioUrl": "audio/billy-madison/087_odoyle_rules.mp3"
-  },
-  {
-    "text": "Oh",
-    "character": "",
-    "audioUrl": "audio/billy-madison/088_oh.mp3"
-  },
-  {
-    "text": "I knew ya had it in ya",
-    "character": "",
-    "audioUrl": "audio/billy-madison/089_oh_billy_i_knew_ya_had_it_in_ya.mp3"
   },
   {
     "text": "One piece of ace",
@@ -464,16 +309,6 @@ const quotes = [
     "text": "R",
     "character": "",
     "audioUrl": "audio/billy-madison/093_r.mp3"
-  },
-  {
-    "text": "Relax dude",
-    "character": "",
-    "audioUrl": "audio/billy-madison/094_relax_dude.mp3"
-  },
-  {
-    "text": "Rock on, yes",
-    "character": "",
-    "audioUrl": "audio/billy-madison/095_rock_on_yes.mp3"
   },
   {
     "text": "Shakespeare performance",
@@ -526,16 +361,6 @@ const quotes = [
     "audioUrl": "audio/billy-madison/105_some_people_have_no_willpower_no_brains_no_vision.mp3"
   },
   {
-    "text": "Sorry, Daddy",
-    "character": "",
-    "audioUrl": "audio/billy-madison/106_sorry_daddy.mp3"
-  },
-  {
-    "text": "Speak for yourself, moron",
-    "character": "",
-    "audioUrl": "audio/billy-madison/107_speak_for_yourself_moron.mp3"
-  },
-  {
     "text": "Stop looking at me, swan",
     "character": "",
     "audioUrl": "audio/billy-madison/108_stop_looking_at_me_swan.mp3"
@@ -549,16 +374,6 @@ const quotes = [
     "text": "Tearing my ear off",
     "character": "",
     "audioUrl": "audio/billy-madison/110_tearing_my_ear_off.mp3"
-  },
-  {
-    "text": "Thanks",
-    "character": "",
-    "audioUrl": "audio/billy-madison/111_thanks.mp3"
-  },
-  {
-    "text": "That damn sasquatch",
-    "character": "",
-    "audioUrl": "audio/billy-madison/112_that_damn_sasquatch.mp3"
   },
   {
     "text": "That is correct",
@@ -586,11 +401,6 @@ const quotes = [
     "audioUrl": "audio/billy-madison/117_that_s_quacktastic.mp3"
   },
   {
-    "text": "The offer is on the table",
-    "character": "",
-    "audioUrl": "audio/billy-madison/118_the_offer_is_on_the_table.mp3"
-  },
-  {
     "text": "That's assault, brotha",
     "character": "",
     "audioUrl": "audio/billy-madison/119_touch_her_boobs_that_s_assault_brotha.mp3"
@@ -599,21 +409,6 @@ const quotes = [
     "text": "Triscuit crackers",
     "character": "",
     "audioUrl": "audio/billy-madison/120_triscuit_crackers.mp3"
-  },
-  {
-    "text": "Weasel laugh",
-    "character": "",
-    "audioUrl": "audio/billy-madison/121_weasel_laugh.mp3"
-  },
-  {
-    "text": "Weasel laugh",
-    "character": "",
-    "audioUrl": "audio/billy-madison/122_weasel_laugh_billy_madison.mp3"
-  },
-  {
-    "text": "What a weirdo",
-    "character": "",
-    "audioUrl": "audio/billy-madison/123_what_a_weirdo.mp3"
   },
   {
     "text": "What is she talkin' about?",
@@ -631,29 +426,14 @@ const quotes = [
     "audioUrl": "audio/billy-madison/126_what_s_today_october.mp3"
   },
   {
-    "text": "What's up her butt?",
-    "character": "",
-    "audioUrl": "audio/billy-madison/127_what_s_up_her_butt.mp3"
-  },
-  {
     "text": "Who would steal 30 bagged lunches?",
     "character": "",
     "audioUrl": "audio/billy-madison/128_who_would_steal_30_bagged_lunches.mp3"
   },
   {
-    "text": "Woo wee",
-    "character": "",
-    "audioUrl": "audio/billy-madison/129_woo_wee.mp3"
-  },
-  {
     "text": "Yes, I will go back to school",
     "character": "",
     "audioUrl": "audio/billy-madison/130_yes_i_will_go_back_to_school.mp3"
-  },
-  {
-    "text": "You blew it",
-    "character": "",
-    "audioUrl": "audio/billy-madison/131_you_blew_it.mp3"
   },
   {
     "text": "You have a pet. You have a responsibility",
@@ -664,10 +444,5 @@ const quotes = [
     "text": "3rd grade",
     "character": "",
     "audioUrl": "audio/billy-madison/133_3rd_grade.mp3"
-  },
-  {
-    "text": "69!",
-    "character": "",
-    "audioUrl": "audio/billy-madison/134_69.mp3"
   }
 ];

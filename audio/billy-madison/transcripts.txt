@@ -2,10 +2,6 @@
   "A simple "wrong" would've done just fine"
   CHARACTER: 
 
-002_any_more_brain_busters.mp3
-  "Any more brain busters?"
-  CHARACTER: 
-
 003_back_to_school.mp3
   "Back to school"
   CHARACTER: 
@@ -16,14 +12,6 @@
 
 005_billy_madison.mp3
   "Billy Madison"
-  CHARACTER: 
-
-006_billy_madison_business_ethics.mp3
-  "Business ethics"
-  CHARACTER: 
-
-007_billy_madison_goo.mp3
-  "Goo"
   CHARACTER: 
 
 008_billy_madison_pt.mp3
@@ -58,10 +46,6 @@
   "Cheering"
   CHARACTER: 
 
-016_cheese.mp3
-  "Cheese"
-  CHARACTER: 
-
 017_cherish_it.mp3
   "Cherish it"
   CHARACTER: 
@@ -74,24 +58,8 @@
   "Chris Farley and the penguin"
   CHARACTER: 
 
-020_cool.mp3
-  "Cool"
-  CHARACTER: 
-
-021_correct.mp3
-  "Correct"
-  CHARACTER: 
-
-022_couch.mp3
-  "Couch"
-  CHARACTER: 
-
 023_dance.mp3
   "Dance"
-  CHARACTER: 
-
-024_did_you_fall_asleep_or_did_you_pass_out.mp3
-  "Did you fall asleep or did you pass out?"
   CHARACTER: 
 
 025_do_you_know_where_the_bathroom_is.mp3
@@ -102,24 +70,12 @@
   "Stay here. Cherish it"
   CHARACTER: 
 
-027_don_t_screw_it_up.mp3
-  "Don't screw it up"
-  CHARACTER: 
-
-028_don_t_tell_me_my_business_devil_woman.mp3
-  "Don't tell me my business, devil woman"
-  CHARACTER: 
-
 029_empty_keg_celebration.mp3
   "Empty keg celebration"
   CHARACTER: 
 
 030_eric_is_pregnant.mp3
   "Eric is pregnant"
-  CHARACTER: 
-
-031_eric.mp3
-  "Eric!"
   CHARACTER: 
 
 032_everyone_is_now_dumber_because_of_you.mp3
@@ -134,14 +90,6 @@
   "Frank"
   CHARACTER: 
 
-035_goo.mp3
-  "Goo"
-  CHARACTER: 
-
-036_goo.mp3
-  "Goo"
-  CHARACTER: 
-
 037_good_great_grand_wonderful.mp3
   "Good, great, grand, wonderful"
   CHARACTER: 
@@ -150,16 +98,8 @@
   "Grossest thing I've ever heard"
   CHARACTER: 
 
-039_grossest_thing_in_my_life.mp3
-  "Grossest thing in my life"
-  CHARACTER: 
-
 040_ha_ha_ha_shut_up.mp3
   "Ha ha ha, shut up"
-  CHARACTER: 
-
-041_haha_omg_that_is_funny.mp3
-  "OMG that is funny"
   CHARACTER: 
 
 042_have_some_more_sloppy_joes.mp3
@@ -190,16 +130,8 @@
   "How 'bout you, sideburns?"
   CHARACTER: 
 
-049_how_s_high_school_billy.mp3
-  "How's high school, Billy?"
-  CHARACTER: 
-
 050_i_can_and_i_will.mp3
   "I can and I will"
-  CHARACTER: 
-
-051_i_heard_he_s_retarded_or_something.mp3
-  "I heard he's retarded or something"
   CHARACTER: 
 
 052_i_know_from_experience_dude.mp3
@@ -210,16 +142,8 @@
   "I can't make out the words, I'm deaf"
   CHARACTER: 
 
-054_i_thank_you.mp3
-  "I thank you"
-  CHARACTER: 
-
 055_i_thought_i_was_your_snack_pack.mp3
   "I thought I was your snack pack"
-  CHARACTER: 
-
-056_i_d_rather_have_a_beer.mp3
-  "I'd rather have a beer"
   CHARACTER: 
 
 057_i_ll_turn_this_damn_bus_around.mp3
@@ -239,7 +163,7 @@
   CHARACTER: 
 
 061_it_s_poop_again.mp3
-  "It's Poop Again"
+  "It's poop again"
   CHARACTER: 
 
 062_it_s_too_damn_hot_for_a_penguin.mp3
@@ -250,24 +174,12 @@
   "It's too damn hot for a penguin to be walking around here"
   CHARACTER: 
 
-064_jackpot.mp3
-  "Jackpot!"
-  CHARACTER: 
-
-065_kid_can_t_even_read.mp3
-  "Kid can't even read"
-  CHARACTER: 
-
 066_knibb_high_football_rules.mp3
-  "Knibb High Football Rules"
+  "Knibb High football rules"
   CHARACTER: 
 
 067_lady_you_re_scaring_us.mp3
   "Lady you're scaring us"
-  CHARACTER: 
-
-068_let_s_go.mp3
-  "Let's go!"
   CHARACTER: 
 
 069_lipstick.mp3
@@ -287,23 +199,7 @@
   CHARACTER: 
 
 073_miss_lippy_dancing.mp3
-  "Miss Lippy Dancing"
-  CHARACTER: 
-
-074_mortified.mp3
-  "Mortified"
-  CHARACTER: 
-
-075_move_it_or_lose_it.mp3
-  "Move it or lose it"
-  CHARACTER: 
-
-076_my_wife_the_tramp.mp3
-  "My wife, the Tramp"
-  CHARACTER: 
-
-077_no_i_will_not_make_out_w_you_billy_madison.mp3
-  "No I will not make out with you"
+  "Miss Lippy dancing"
   CHARACTER: 
 
 078_no_i_will_not_make_out_with_you.mp3
@@ -318,10 +214,6 @@
   "No milk will ever be our milk"
   CHARACTER: 
 
-081_no_yelling_on_the_bus.mp3
-  "No yelling on the bus"
-  CHARACTER: 
-
 082_no.mp3
   "No!"
   CHARACTER: 
@@ -334,24 +226,8 @@
   "Nothing even close to a rational thought"
   CHARACTER: 
 
-085_now_you_re_all_in_big_trouble.mp3
-  "Now you're all in big trouble"
-  CHARACTER: 
-
 086_o_doyle_rules.mp3
   "O'Doyle rules!"
-  CHARACTER: 
-
-087_odoyle_rules.mp3
-  "O'Doyle rules!"
-  CHARACTER: 
-
-088_oh.mp3
-  "Oh"
-  CHARACTER: 
-
-089_oh_billy_i_knew_ya_had_it_in_ya.mp3
-  "I knew ya had it in ya"
   CHARACTER: 
 
 090_one_piece_of_ace.mp3
@@ -368,14 +244,6 @@
 
 093_r.mp3
   "R"
-  CHARACTER: 
-
-094_relax_dude.mp3
-  "Relax dude"
-  CHARACTER: 
-
-095_rock_on_yes.mp3
-  "Rock on, yes"
   CHARACTER: 
 
 096_shakespeare_performance.mp3
@@ -418,14 +286,6 @@
   "Some people have no willpower, no brains, no vision"
   CHARACTER: 
 
-106_sorry_daddy.mp3
-  "Sorry, Daddy"
-  CHARACTER: 
-
-107_speak_for_yourself_moron.mp3
-  "Speak for yourself, moron"
-  CHARACTER: 
-
 108_stop_looking_at_me_swan.mp3
   "Stop looking at me, swan"
   CHARACTER: 
@@ -436,14 +296,6 @@
 
 110_tearing_my_ear_off.mp3
   "Tearing my ear off"
-  CHARACTER: 
-
-111_thanks.mp3
-  "Thanks"
-  CHARACTER: 
-
-112_that_damn_sasquatch.mp3
-  "That damn sasquatch"
   CHARACTER: 
 
 113_that_is_correct.mp3
@@ -466,28 +318,12 @@
   "That's quacktastic"
   CHARACTER: 
 
-118_the_offer_is_on_the_table.mp3
-  "The offer is on the table"
-  CHARACTER: 
-
 119_touch_her_boobs_that_s_assault_brotha.mp3
   "That's assault, brotha"
   CHARACTER: 
 
 120_triscuit_crackers.mp3
   "Triscuit crackers"
-  CHARACTER: 
-
-121_weasel_laugh.mp3
-  "Weasel laugh"
-  CHARACTER: 
-
-122_weasel_laugh_billy_madison.mp3
-  "Weasel laugh"
-  CHARACTER: 
-
-123_what_a_weirdo.mp3
-  "What a weirdo"
   CHARACTER: 
 
 124_what_is_she_talkin_about.mp3
@@ -502,24 +338,12 @@
   "What's today? October?"
   CHARACTER: 
 
-127_what_s_up_her_butt.mp3
-  "What's up her butt?"
-  CHARACTER: 
-
 128_who_would_steal_30_bagged_lunches.mp3
   "Who would steal 30 bagged lunches?"
   CHARACTER: 
 
-129_woo_wee.mp3
-  "Woo wee"
-  CHARACTER: 
-
 130_yes_i_will_go_back_to_school.mp3
   "Yes, I will go back to school"
-  CHARACTER: 
-
-131_you_blew_it.mp3
-  "You blew it"
   CHARACTER: 
 
 132_you_have_a_pet_you_have_a_responsibility.mp3
@@ -528,8 +352,4 @@
 
 133_3rd_grade.mp3
   "3rd grade"
-  CHARACTER: 
-
-134_69.mp3
-  "69!"
   CHARACTER: 

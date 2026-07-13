@@ -1,0 +1,159 @@
+001_babyitscold.mp3
+  "Baby it's cold outside"
+  CHARACTER: 
+
+002_babyitscold2.mp3
+  "Baby it's cold outside (2)"
+  CHARACTER: 
+
+003_belching.mp3
+  "Belch"
+  CHARACTER: 
+
+005_calledyou.mp3
+  "I called you"
+  CHARACTER: 
+
+006_christmaself.mp3
+  "I'm a Christmas elf"
+  CHARACTER: 
+
+008_clausometer.mp3
+  "The Clausometer"
+  CHARACTER: 
+
+009_codeoftheelves.mp3
+  "The Code of the Elves"
+  CHARACTER: 
+
+010_dontbelieve.mp3
+  "You don't believe in Santa"
+  CHARACTER: 
+
+011_evilbox.mp3
+  "Evil box"
+  CHARACTER: 
+
+013_foodgroups.mp3
+  "The four main food groups"
+  CHARACTER: 
+
+014_forthestory.mp3
+  "For the story"
+  CHARACTER: 
+
+015_francisco.mp3
+  "Francisco! That's fun to say"
+  CHARACTER: 
+
+017_fruitspray.mp3
+  "Fruit spray"
+  CHARACTER: 
+
+020_hegotmadatme.mp3
+  "He got mad at me"
+  CHARACTER: 
+
+021_hesaliar.mp3
+  "He's a liar"
+  CHARACTER: 
+
+023_imsinging.mp3
+  "I'm singing"
+  CHARACTER: 
+
+024_itsverysucky.mp3
+  "It's very sucky"
+  CHARACTER: 
+
+026_lincolntunnel.mp3
+  "The Lincoln Tunnel"
+  CHARACTER: 
+
+027_lovesthesnow.mp3
+  "He loves the snow"
+  CHARACTER: 
+
+028_maplesyrup.mp3
+  "Maple syrup"
+  CHARACTER: 
+
+029_myfavorite.mp3
+  "Smiling's my favorite"
+  CHARACTER: 
+
+031_nameonthedesk.mp3
+  "Name on the desk"
+  CHARACTER: 
+
+034_noitsnotyesitis.mp3
+  "No it's not!"
+  CHARACTER: 
+
+035_onemoretime.mp3
+  "One more time"
+  CHARACTER: 
+
+036_onlyanelf.mp3
+  "Only an elf"
+  CHARACTER: 
+
+037_peepshow.mp3
+  "Peep show"
+  CHARACTER: 
+
+038_santascoming.mp3
+  "Santa's coming! I know him!"
+  CHARACTER: 
+
+039_singasong.mp3
+  "Sing a song"
+  CHARACTER: 
+
+040_sleepokay.mp3
+  "Did you sleep okay?"
+  CHARACTER: 
+
+043_threejobs.mp3
+  "Three jobs"
+  CHARACTER: 
+
+046_tuckedin.mp3
+  "Want to get tucked in?"
+  CHARACTER: 
+
+047_upanddown.mp3
+  "Up and down"
+  CHARACTER: 
+
+048_wearebuddies.mp3
+  "We are buddies"
+  CHARACTER: 
+
+049_wellsnuggle.mp3
+  "We'll snuggle"
+  CHARACTER: 
+
+051_whosentyou.mp3
+  "Who sent you?"
+  CHARACTER: 
+
+052_workclothes.mp3
+  "My work clothes"
+  CHARACTER: 
+
+053_workshop.mp3
+  "The workshop"
+  CHARACTER: 
+
+055_you_refast.mp3
+  "You're fast"
+  CHARACTER: 
+
+056_youdidit.mp3
+  "You did it"
+  CHARACTER: 
+
+059_30rayspizzas.mp3
+  "30 Ray's pizzas"
+  CHARACTER: 

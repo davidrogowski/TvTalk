@@ -96,7 +96,7 @@ const quotes = [
     "audioUrl": "audio/tommy-boy/022_i_did_call_earlier_using_the_phone.mp3"
   },
   {
-    "text": "I PASSED!",
+    "text": "I passed!",
     "character": "",
     "audioUrl": "audio/tommy-boy/023_i_passed.mp3"
   },

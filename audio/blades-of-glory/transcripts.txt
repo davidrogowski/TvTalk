@@ -3,11 +3,11 @@
   CHARACTER: 
 
 002_i_dont_even_know_what_that_means.mp3
-  "I dont even know what that means"
+  "I don't even know what that means"
   CHARACTER: 
 
 003_i_want_you.mp3
-  "I Want You"
+  "I want you"
   CHARACTER: 
 
 004_looking_is_free_touching_is_gonna_cost_you_something.mp3

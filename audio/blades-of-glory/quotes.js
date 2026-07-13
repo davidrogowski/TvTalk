@@ -6,12 +6,12 @@ const quotes = [
     "audioUrl": "audio/blades-of-glory/001_i_am_never_satisfied.mp3"
   },
   {
-    "text": "I dont even know what that means",
+    "text": "I don't even know what that means",
     "character": "",
     "audioUrl": "audio/blades-of-glory/002_i_dont_even_know_what_that_means.mp3"
   },
   {
-    "text": "I Want You",
+    "text": "I want you",
     "character": "",
     "audioUrl": "audio/blades-of-glory/003_i_want_you.mp3"
   },

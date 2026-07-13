@@ -3,7 +3,7 @@
   CHARACTER: 
 
 009_everyone_should_smoke_it.mp3
-  "Everyone Should Smoke It"
+  "Everyone should smoke it"
   CHARACTER: 
 
 014_heard_that_wish_i_didn_t.mp3
@@ -15,11 +15,11 @@
   CHARACTER: 
 
 018_i_don_t_trust_him.mp3
-  "I Don't Trust Him"
+  "I don't trust him"
   CHARACTER: 
 
 019_i_don_t_wanna_do_this.mp3
-  "I Don't Wanna Do This"
+  "I don't wanna do this"
   CHARACTER: 
 
 020_i_feel_like_a_slice_of_butter.mp3
@@ -31,7 +31,7 @@
   CHARACTER: 
 
 023_i_still_don_t_understand.mp3
-  "I Still Don't Understand"
+  "I still don't understand"
   CHARACTER: 
 
 024_i_wanna_be_inside_you_homes.mp3
@@ -39,7 +39,7 @@
   CHARACTER: 
 
 025_i_m_taking_these_with_me.mp3
-  "I'm Taking These With Me"
+  "I'm taking these with me"
   CHARACTER: 
 
 027_it_s_a_cold_sore.mp3
@@ -47,7 +47,7 @@
   CHARACTER: 
 
 028_it_s_like_god_s.mp3
-  "It's Like God's ******"
+  "It's like God's ******"
   CHARACTER: 
 
 029_it_s_my_cat_s_birthday_today.mp3
@@ -59,7 +59,7 @@
   CHARACTER: 
 
 031_kill_you_and_some.mp3
-  "Kill You And Some"
+  "Kill you and some"
   CHARACTER: 
 
 034_mature_for_her_age.mp3
@@ -71,27 +71,27 @@
   CHARACTER: 
 
 036_not_ready_for_marriage.mp3
-  "Not Ready For Marriage"
+  "Not ready for marriage"
   CHARACTER: 
 
 037_oh_i_made_a_mistake.mp3
-  "Oh I Made A Mistake"
+  "Oh I made a mistake"
   CHARACTER: 
 
 040_pineapple_express_come_on_down.mp3
-  "Pineapple express come on down"
+  "Come on down"
   CHARACTER: 
 
 041_pineapple_express_prostitute_gun.mp3
-  "Pineapple Express prostitute gun"
+  "Prostitute gun"
   CHARACTER: 
 
 042_safety_first_then_teamwork.mp3
-  "Safety First, then Teamwork"
+  "Safety first, then teamwork"
   CHARACTER: 
 
 049_special_time_with_me.mp3
-  "Special Time With Me"
+  "Special time with me"
   CHARACTER: 
 
 050_stuff_your_sorries_in_a_sack_bro.mp3
@@ -107,7 +107,7 @@
   CHARACTER: 
 
 056_threw_up_on_my_printer.mp3
-  "Threw Up On My Printer"
+  "Threw up on my printer"
   CHARACTER: 
 
 058_thumb_is_my.mp3
@@ -143,7 +143,7 @@
   CHARACTER: 
 
 068_you_killed_him_man.mp3
-  "You Killed Him Man"
+  "You killed him man"
   CHARACTER: 
 
 069_you_know_what_today_is.mp3
@@ -151,11 +151,11 @@
   CHARACTER: 
 
 070_you_torch_me_please.mp3
-  "You Torch Me Please"
+  "You torch me please"
   CHARACTER: 
 
 073_your_cats_going_to_heaven.mp3
-  "Your Cats Going To Heaven"
+  "Your cats going to heaven"
   CHARACTER: 
 
 074_your_dick_my_mouth.mp3
@@ -163,5 +163,5 @@
   CHARACTER: 
 
 075_2_and_a_half_girls.mp3
-  "2 And A Half Girls"
+  "2 and a half girls"
   CHARACTER: 

@@ -19,7 +19,7 @@
   CHARACTER: 
 
 006_bigassstunt.mp3
-  "Big Ass Stunt"
+  "Big ass stunt"
   CHARACTER: 
 
 007_breakup.mp3
@@ -38,16 +38,12 @@
   "Cooler Heads"
   CHARACTER: 
 
-011_dazzled.mp3
-  "Dazzled"
-  CHARACTER: 
-
 012_fightme.mp3
   "Fight Me"
   CHARACTER: 
 
 013_getyoubetter.mp3
-  "Get You Better"
+  "Get you better"
   CHARACTER: 
 
 014_godsofwar.mp3
@@ -56,14 +52,6 @@
 
 015_greentea.mp3
   "Green Tea"
-  CHARACTER: 
-
-016_havefun.mp3
-  "Have Fun"
-  CHARACTER: 
-
-017_howitsdone.mp3
-  "How It's Done"
   CHARACTER: 
 
 018_jackhammer.mp3
@@ -75,15 +63,11 @@
   CHARACTER: 
 
 020_justbringit.mp3
-  "Just Bring It"
+  "Just bring it"
   CHARACTER: 
 
 021_kisswashot.mp3
-  "Kiss Was Hot"
-  CHARACTER: 
-
-022_letsjump.mp3
-  "Let's Jump"
+  "Kiss was hot"
   CHARACTER: 
 
 023_letsparty.mp3
@@ -91,15 +75,11 @@
   CHARACTER: 
 
 024_lightthemoff.mp3
-  "Light 'Em Off"
+  "Light 'em off"
   CHARACTER: 
 
 025_lookpretty.mp3
   "Look Pretty"
-  CHARACTER: 
-
-026_mountainface.mp3
-  "Mountain Face"
   CHARACTER: 
 
 027_mouthtomouth.mp3
@@ -111,15 +91,11 @@
   CHARACTER: 
 
 029_myhatnow.mp3
-  "My Hat Now"
+  "My hat now"
   CHARACTER: 
 
 030_nervous.mp3
   "Nervous"
-  CHARACTER: 
-
-031_ohshit.mp3
-  "Oh Shit"
   CHARACTER: 
 
 032_party.mp3
@@ -128,10 +104,6 @@
 
 033_prisonrules.mp3
   "Prison Rules"
-  CHARACTER: 
-
-034_quietplace.mp3
-  "Quiet Place"
   CHARACTER: 
 
 035_raccoon.mp3
@@ -155,7 +127,7 @@
   CHARACTER: 
 
 040_socoolbeans.mp3
-  "So Cool Beans"
+  "So cool beans"
   CHARACTER: 
 
 041_started.mp3
@@ -166,24 +138,12 @@
   "Super Dead"
   CHARACTER: 
 
-043_talking.mp3
-  "Talking"
-  CHARACTER: 
-
 044_tears.mp3
   "Tears"
   CHARACTER: 
 
 045_thatsenough.mp3
   "That's Enough"
-  CHARACTER: 
-
-046_theflavor.mp3
-  "The Flavor"
-  CHARACTER: 
-
-047_thevictim.mp3
-  "The Victim"
   CHARACTER: 
 
 048_throwingstar.mp3
@@ -198,10 +158,6 @@
   "Trippin Balls"
   CHARACTER: 
 
-051_ultimatepunch.mp3
-  "Ultimate Punch"
-  CHARACTER: 
-
 052_universe.mp3
   "Universe"
   CHARACTER: 
@@ -214,16 +170,8 @@
   "Whiskey"
   CHARACTER: 
 
-055_whoswithme.mp3
-  "Who's With Me"
-  CHARACTER: 
-
 056_wizards.mp3
   "Wizards"
-  CHARACTER: 
-
-057_yoo_hoo.mp3
-  "Yoo-hoo"
   CHARACTER: 
 
 058_you_reakid.mp3
@@ -239,7 +187,7 @@
   CHARACTER: 
 
 061_youarepathetic.mp3
-  "You Are Pathetic"
+  "You are pathetic"
   CHARACTER: 
 
 062_2legit2quit.mp3

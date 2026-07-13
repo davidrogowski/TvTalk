@@ -43,7 +43,7 @@
   CHARACTER: 
 
 012_i_feel_like_a_beer.mp3
-  "I Feel Like a Beer"
+  "I feel like a beer"
   CHARACTER: 
 
 013_i_have_a_doctor_s_appointment.mp3
@@ -59,11 +59,11 @@
   CHARACTER: 
 
 016_i_love_you.mp3
-  "I Love You.."
+  "I love you.."
   CHARACTER: 
 
 017_i_should_ve_married_her.mp3
-  "I Should've Married Her"
+  "I should've married her"
   CHARACTER: 
 
 018_i_suppose_so.mp3
@@ -91,15 +91,15 @@
   CHARACTER: 
 
 024_nathan_fielder_asian_accent.mp3
-  "Nathan Fielder Asian Accent"
+  "Nathan Fielder Asian accent"
   CHARACTER: 
 
 025_nathan_likes_sex.mp3
-  "Nathan Likes Sex"
+  "Nathan likes sex"
   CHARACTER: 
 
 026_nobody_listens_when_you_speak.mp3
-  "Nobody Listens When You Speak"
+  "Nobody listens when you speak"
   CHARACTER: 
 
 027_not_a_negotiation.mp3
@@ -135,7 +135,7 @@
   CHARACTER: 
 
 035_this_is_so_sad_song.mp3
-  "This Is So Sad song"
+  "This is so sad song"
   CHARACTER: 
 
 036_today_is_very_good.mp3
@@ -147,7 +147,7 @@
   CHARACTER: 
 
 038_turn_off_the_music.mp3
-  "TURN OFF THE MUSIC"
+  "Turn off the music"
   CHARACTER: 
 
 039_weak_handshake.mp3
@@ -163,7 +163,7 @@
   CHARACTER: 
 
 042_you_have_to_go.mp3
-  "You Have To Go"
+  "You have to go"
   CHARACTER: 
 
 043_you_seem_unsure.mp3

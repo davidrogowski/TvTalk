@@ -7,7 +7,7 @@
   CHARACTER: 
 
 003_cockle_doodle_doo_the_cow_says_moo.mp3
-  "Cockle Doodle Doo the Cow Says Moo"
+  "Cockle doodle doo the cow says moo"
   CHARACTER: 
 
 004_disgusted.mp3
@@ -23,7 +23,7 @@
   CHARACTER: 
 
 007_embarrassed_sweaty_josh.mp3
-  "Embarrassed Sweaty Josh"
+  "Embarrassed sweaty Josh"
   CHARACTER: 
 
 008_everyone_raises_their_hands.mp3
@@ -39,7 +39,7 @@
   CHARACTER: 
 
 011_happy_birthday_brother.mp3
-  "Happy Birthday Brother"
+  "Happy birthday brother"
   CHARACTER: 
 
 012_here_s_a_little_song_for_you.mp3
@@ -47,7 +47,7 @@
   CHARACTER: 
 
 013_hug_me_brotha.mp3
-  "Hug Me Brotha"
+  "Hug me brotha"
   CHARACTER: 
 
 014_idiots.mp3
@@ -55,7 +55,7 @@
   CHARACTER: 
 
 015_intense_ping_pong.mp3
-  "Intense Ping Pong"
+  "Intense ping pong"
   CHARACTER: 
 
 016_it_seems_my_antiperspirant_has_failed.mp3
@@ -67,7 +67,7 @@
   CHARACTER: 
 
 018_its_my_birthday.mp3
-  "Its My Birthday"
+  "It's my birthday"
   CHARACTER: 
 
 019_josh_gets_a_wedgie.mp3
@@ -79,7 +79,7 @@
   CHARACTER: 
 
 021_josh_peck_evil.mp3
-  "Josh Peck EVIL"
+  "Josh Peck evil"
   CHARACTER: 
 
 022_leave_me_alone.mp3

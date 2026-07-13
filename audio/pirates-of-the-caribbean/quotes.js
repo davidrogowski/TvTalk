@@ -6,11 +6,6 @@ const quotes = [
     "audioUrl": "audio/pirates-of-the-caribbean/001_almostcaught.mp3"
   },
   {
-    "text": "Back to work",
-    "character": "",
-    "audioUrl": "audio/pirates-of-the-caribbean/002_backtowork.mp3"
-  },
-  {
     "text": "Bloody is now",
     "character": "",
     "audioUrl": "audio/pirates-of-the-caribbean/003_bloodyisnow.mp3"
@@ -19,11 +14,6 @@ const quotes = [
     "text": "Bloody pirates",
     "character": "",
     "audioUrl": "audio/pirates-of-the-caribbean/004_bloodypirates.mp3"
-  },
-  {
-    "text": "Blowing holes",
-    "character": "",
-    "audioUrl": "audio/pirates-of-the-caribbean/005_blowingholes.mp3"
   },
   {
     "text": "Buy you the hat",
@@ -56,39 +46,9 @@ const quotes = [
     "audioUrl": "audio/pirates-of-the-caribbean/011_dishonestman.mp3"
   },
   {
-    "text": "Drink up",
-    "character": "",
-    "audioUrl": "audio/pirates-of-the-caribbean/012_drinkup.mp3"
-  },
-  {
-    "text": "Easy on the goods",
-    "character": "",
-    "audioUrl": "audio/pirates-of-the-caribbean/013_easyonthegoods.mp3"
-  },
-  {
-    "text": "For breathing",
-    "character": "",
-    "audioUrl": "audio/pirates-of-the-caribbean/014_forbreathing.mp3"
-  },
-  {
     "text": "Have no weapon",
     "character": "",
     "audioUrl": "audio/pirates-of-the-caribbean/015_havenoweapon.mp3"
-  },
-  {
-    "text": "Hello chum",
-    "character": "",
-    "audioUrl": "audio/pirates-of-the-caribbean/016_hellochum.mp3"
-  },
-  {
-    "text": "Hello poppet",
-    "character": "",
-    "audioUrl": "audio/pirates-of-the-caribbean/017_hellopoppet.mp3"
-  },
-  {
-    "text": "I love this song",
-    "character": "",
-    "audioUrl": "audio/pirates-of-the-caribbean/018_ilovethissong.mp3"
   },
   {
     "text": "I love weddings",
@@ -104,11 +64,6 @@ const quotes = [
     "text": "In a fair fight",
     "character": "",
     "audioUrl": "audio/pirates-of-the-caribbean/021_inafairfight.mp3"
-  },
-  {
-    "text": "Interesting",
-    "character": "",
-    "audioUrl": "audio/pirates-of-the-caribbean/022_interesting.mp3"
   },
   {
     "text": "In the market",
@@ -146,11 +101,6 @@ const quotes = [
     "audioUrl": "audio/pirates-of-the-caribbean/029_noitsnotyesitis.mp3"
   },
   {
-    "text": "No living with her",
-    "character": "",
-    "audioUrl": "audio/pirates-of-the-caribbean/030_nolivingwithher.mp3"
-  },
-  {
     "text": "No survivors",
     "character": "",
     "audioUrl": "audio/pirates-of-the-caribbean/031_nosurvivors.mp3"
@@ -171,11 +121,6 @@ const quotes = [
     "audioUrl": "audio/pirates-of-the-caribbean/034_nottobreathe.mp3"
   },
   {
-    "text": "Not very nice",
-    "character": "",
-    "audioUrl": "audio/pirates-of-the-caribbean/035_notverynice.mp3"
-  },
-  {
     "text": "Opportune",
     "character": "",
     "audioUrl": "audio/pirates-of-the-caribbean/036_opportune.mp3"
@@ -194,16 +139,6 @@ const quotes = [
     "text": "Promised",
     "character": "",
     "audioUrl": "audio/pirates-of-the-caribbean/039_promised.mp3"
-  },
-  {
-    "text": "Really bad eggs",
-    "character": "",
-    "audioUrl": "audio/pirates-of-the-caribbean/040_reallybadeggs.mp3"
-  },
-  {
-    "text": "Shoot him",
-    "character": "",
-    "audioUrl": "audio/pirates-of-the-caribbean/041_shoothim.mp3"
   },
   {
     "text": "So I can kill it",
@@ -251,34 +186,9 @@ const quotes = [
     "audioUrl": "audio/pirates-of-the-caribbean/050_tosingapore.mp3"
   },
   {
-    "text": "Treasure",
-    "character": "",
-    "audioUrl": "audio/pirates-of-the-caribbean/051_treasure.mp3"
-  },
-  {
-    "text": "Very interesting",
-    "character": "",
-    "audioUrl": "audio/pirates-of-the-caribbean/052_veryinteresting.mp3"
-  },
-  {
     "text": "Welcome to",
     "character": "",
     "audioUrl": "audio/pirates-of-the-caribbean/053_welcometo.mp3"
-  },
-  {
-    "text": "Why is the rum gone?",
-    "character": "",
-    "audioUrl": "audio/pirates-of-the-caribbean/054_whyistherumgone.mp3"
-  },
-  {
-    "text": "Wonderful trick",
-    "character": "",
-    "audioUrl": "audio/pirates-of-the-caribbean/055_wonderfultrick.mp3"
-  },
-  {
-    "text": "You cheated",
-    "character": "",
-    "audioUrl": "audio/pirates-of-the-caribbean/056_youcheated.mp3"
   },
   {
     "text": "Your purpose",

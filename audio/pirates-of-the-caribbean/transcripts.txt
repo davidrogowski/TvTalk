@@ -2,20 +2,12 @@
   "Almost caught"
   CHARACTER: 
 
-002_backtowork.mp3
-  "Back to work"
-  CHARACTER: 
-
 003_bloodyisnow.mp3
   "Bloody is now"
   CHARACTER: 
 
 004_bloodypirates.mp3
   "Bloody pirates"
-  CHARACTER: 
-
-005_blowingholes.mp3
-  "Blowing holes"
   CHARACTER: 
 
 006_buyyouthehat.mp3
@@ -42,32 +34,8 @@
   "Dishonest man"
   CHARACTER: 
 
-012_drinkup.mp3
-  "Drink up"
-  CHARACTER: 
-
-013_easyonthegoods.mp3
-  "Easy on the goods"
-  CHARACTER: 
-
-014_forbreathing.mp3
-  "For breathing"
-  CHARACTER: 
-
 015_havenoweapon.mp3
   "Have no weapon"
-  CHARACTER: 
-
-016_hellochum.mp3
-  "Hello chum"
-  CHARACTER: 
-
-017_hellopoppet.mp3
-  "Hello poppet"
-  CHARACTER: 
-
-018_ilovethissong.mp3
-  "I love this song"
   CHARACTER: 
 
 019_iloveweddings.mp3
@@ -80,10 +48,6 @@
 
 021_inafairfight.mp3
   "In a fair fight"
-  CHARACTER: 
-
-022_interesting.mp3
-  "Interesting"
   CHARACTER: 
 
 023_inthemarket.mp3
@@ -114,10 +78,6 @@
   "No it's not, yes it is"
   CHARACTER: 
 
-030_nolivingwithher.mp3
-  "No living with her"
-  CHARACTER: 
-
 031_nosurvivors.mp3
   "No survivors"
   CHARACTER: 
@@ -134,10 +94,6 @@
   "Not to breathe"
   CHARACTER: 
 
-035_notverynice.mp3
-  "Not very nice"
-  CHARACTER: 
-
 036_opportune.mp3
   "Opportune"
   CHARACTER: 
@@ -152,14 +108,6 @@
 
 039_promised.mp3
   "Promised"
-  CHARACTER: 
-
-040_reallybadeggs.mp3
-  "Really bad eggs"
-  CHARACTER: 
-
-041_shoothim.mp3
-  "Shoot him"
   CHARACTER: 
 
 042_soicankillit.mp3
@@ -198,28 +146,8 @@
   "To Singapore"
   CHARACTER: 
 
-051_treasure.mp3
-  "Treasure"
-  CHARACTER: 
-
-052_veryinteresting.mp3
-  "Very interesting"
-  CHARACTER: 
-
 053_welcometo.mp3
   "Welcome to"
-  CHARACTER: 
-
-054_whyistherumgone.mp3
-  "Why is the rum gone?"
-  CHARACTER: 
-
-055_wonderfultrick.mp3
-  "Wonderful trick"
-  CHARACTER: 
-
-056_youcheated.mp3
-  "You cheated"
   CHARACTER: 
 
 057_yourpurpose.mp3

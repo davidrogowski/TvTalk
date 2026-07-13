@@ -11,11 +11,6 @@ const quotes = [
     "audioUrl": "audio/caddyshack/003_a_pool_and_a_pond_a_pond_would_be_good_for_you.mp3"
   },
   {
-    "text": "And put your clothes back on, my dear!",
-    "character": "",
-    "audioUrl": "audio/caddyshack/007_and_put_your_clothes_back_on_my_dear.mp3"
-  },
-  {
     "text": "And you guys... take some more lessons!",
     "character": "",
     "audioUrl": "audio/caddyshack/008_and_you_guys_take_some_more_lessons.mp3"
@@ -46,16 +41,6 @@ const quotes = [
     "audioUrl": "audio/caddyshack/015_come_here_honey_and_hey_loosen_up_you_re_a_lot_of_woman_you.mp3"
   },
   {
-    "text": "Come on, bark like a dog for me.",
-    "character": "",
-    "audioUrl": "audio/caddyshack/016_come_on_bark_like_a_dog_for_me.mp3"
-  },
-  {
-    "text": "Did you understand what I said? Out!",
-    "character": "",
-    "audioUrl": "audio/caddyshack/020_did_you_understand_what_i_said_out.mp3"
-  },
-  {
     "text": "Don't sell yourself short, Judge. You're a tremendous slouch.",
     "character": "",
     "audioUrl": "audio/caddyshack/021_don_t_sell_yourself_short_judge_you_re_a_tremendous_slouch.mp3"
@@ -81,29 +66,14 @@ const quotes = [
     "audioUrl": "audio/caddyshack/031_i_christen_thee_the_flying_wasp.mp3"
   },
   {
-    "text": "I feel like a 100 dollars.",
-    "character": "",
-    "audioUrl": "audio/caddyshack/032_i_feel_like_a_100_dollars.mp3"
-  },
-  {
     "text": "I have a number of tees in my hand. Your Honor, odd or even?",
     "character": "",
     "audioUrl": "audio/caddyshack/033_i_have_a_number_of_tees_in_my_hand_your_honor_odd_or_even.mp3"
   },
   {
-    "text": "I heard he swallowed his vomit during a test.",
-    "character": "",
-    "audioUrl": "audio/caddyshack/035_i_heard_he_swallowed_his_vomit_during_a_test.mp3"
-  },
-  {
     "text": "I know how hard it is for young people today and I want to help",
     "character": "",
     "audioUrl": "audio/caddyshack/036_i_know_how_hard_it_is_for_young_people_today_and_i_want_to_h.mp3"
-  },
-  {
-    "text": "I know you're just making this up about the other guys..",
-    "character": "",
-    "audioUrl": "audio/caddyshack/037_i_know_you_re_just_making_this_up_about_the_other_guys.mp3"
   },
   {
     "text": "I think you know why you're here.",
@@ -121,24 +91,9 @@ const quotes = [
     "audioUrl": "audio/caddyshack/040_i_ll_end_up_working_in_a_lumber_yard_the_rest_of_my_life.mp3"
   },
   {
-    "text": "I've been a little under strain. I have to play with Smails tomorrow...",
-    "character": "",
-    "audioUrl": "audio/caddyshack/042_i_ve_been_a_little_under_strain_i_have_to_play_with_smails_t.mp3"
-  },
-  {
     "text": "Into a 10,000 foot crevice right at the base of this glacier!",
     "character": "",
     "audioUrl": "audio/caddyshack/043_into_a_10_000_foot_crevice_right_at_the_base_of_this_glacier.mp3"
-  },
-  {
-    "text": "It's like reaching under the rug, isn't it?",
-    "character": "",
-    "audioUrl": "audio/caddyshack/045_it_s_like_reaching_under_the_rug_isn_t_it.mp3"
-  },
-  {
-    "text": "Just hold on to your choppers.",
-    "character": "",
-    "audioUrl": "audio/caddyshack/046_just_hold_on_to_your_choppers.mp3"
   },
   {
     "text": "Let's pretend... we're real human beings.",
@@ -151,16 +106,6 @@ const quotes = [
     "audioUrl": "audio/caddyshack/049_look_at_it_that_s_the_gopher.mp3"
   },
   {
-    "text": "Man... free to kill gophers at will",
-    "character": "",
-    "audioUrl": "audio/caddyshack/050_man_free_to_kill_gophers_at_will.mp3"
-  },
-  {
-    "text": "People say I'm an idiot or something...",
-    "character": "",
-    "audioUrl": "audio/caddyshack/055_people_say_i_m_an_idiot_or_something.mp3"
-  },
-  {
     "text": "She's been plucked more times than the rose of Tralee.",
     "character": "",
     "audioUrl": "audio/caddyshack/057_she_s_been_plucked_more_times_than_the_rose_of_tralee.mp3"
@@ -169,16 +114,6 @@ const quotes = [
     "text": "Sonja Henie is out. We'll take Danny Noonan",
     "character": "",
     "audioUrl": "audio/caddyshack/060_sonja_henie_is_out_we_ll_take_danny_noonan.mp3"
-  },
-  {
-    "text": "Stop that, you two! All of you!",
-    "character": "",
-    "audioUrl": "audio/caddyshack/061_stop_that_you_two_all_of_you.mp3"
-  },
-  {
-    "text": "Take your hands off her, young man!",
-    "character": "",
-    "audioUrl": "audio/caddyshack/062_take_your_hands_off_her_young_man.mp3"
   },
   {
     "text": "The Judge and Mr. Czervik have a $100,000 match going on!",
@@ -191,19 +126,9 @@ const quotes = [
     "audioUrl": "audio/caddyshack/065_the_slightest_prick_and_you_wouldn_t_even_know.mp3"
   },
   {
-    "text": "There are more important things than grades.",
-    "character": "",
-    "audioUrl": "audio/caddyshack/066_there_are_more_important_things_than_grades.mp3"
-  },
-  {
     "text": "There's a bunch of them! And a summons.",
     "character": "",
     "audioUrl": "audio/caddyshack/067_there_s_a_bunch_of_them_and_a_summons.mp3"
-  },
-  {
-    "text": "There's a force in the universe..",
-    "character": "",
-    "audioUrl": "audio/caddyshack/068_there_s_a_force_in_the_universe.mp3"
   },
   {
     "text": "Well, if you've been a good caddy, I think they're kind of lenient.",
@@ -211,19 +136,9 @@ const quotes = [
     "audioUrl": "audio/caddyshack/070_well_if_you_ve_been_a_good_caddy_i_think_they_re_kind_of_len.mp3"
   },
   {
-    "text": "What are we running, a restaurant?",
-    "character": "",
-    "audioUrl": "audio/caddyshack/072_what_are_we_running_a_restaurant.mp3"
-  },
-  {
     "text": "What people here! Look at that one.",
     "character": "",
     "audioUrl": "audio/caddyshack/074_what_people_here_look_at_that_one.mp3"
-  },
-  {
-    "text": "What's your address? You're on Briar, right?",
-    "character": "",
-    "audioUrl": "audio/caddyshack/075_what_s_your_address_you_re_on_briar_right.mp3"
   },
   {
     "text": "Why, I could beat you with one arm.",
@@ -241,49 +156,14 @@ const quotes = [
     "audioUrl": "audio/caddyshack/081_wrong_you_re_drinking_too_much_your_excellency.mp3"
   },
   {
-    "text": "You better come in until this blows over.",
-    "character": "",
-    "audioUrl": "audio/caddyshack/084_you_better_come_in_until_this_blows_over.mp3"
-  },
-  {
-    "text": "You don't want that scholarship, do you?",
-    "character": "",
-    "audioUrl": "audio/caddyshack/086_you_don_t_want_that_scholarship_do_you.mp3"
-  },
-  {
-    "text": "You go ahead. It looks fine to me.",
-    "character": "",
-    "audioUrl": "audio/caddyshack/087_you_go_ahead_it_looks_fine_to_me.mp3"
-  },
-  {
     "text": "You're a little monkey woman. You're lean...",
     "character": "",
     "audioUrl": "audio/caddyshack/090_you_re_a_little_monkey_woman_you_re_lean.mp3"
   },
   {
-    "text": "You're like a three year old!",
-    "character": "",
-    "audioUrl": "audio/caddyshack/091_you_re_like_a_three_year_old.mp3"
-  },
-  {
-    "text": "...about your ball landing in the road.",
-    "character": "",
-    "audioUrl": "audio/caddyshack/092_about_your_ball_landing_in_the_road.mp3"
-  },
-  {
     "text": "...and all you have to do is get in touch with it",
     "character": "",
     "audioUrl": "audio/caddyshack/093_and_all_you_have_to_do_is_get_in_touch_with_it.mp3"
-  },
-  {
-    "text": "...and I'd like to ask at this time...",
-    "character": "",
-    "audioUrl": "audio/caddyshack/094_and_i_d_like_to_ask_at_this_time.mp3"
-  },
-  {
-    "text": "...and you'll probably be replaced by the rat.",
-    "character": "",
-    "audioUrl": "audio/caddyshack/096_and_you_ll_probably_be_replaced_by_the_rat.mp3"
   },
   {
     "text": "...and you're mean and you're not too far between either...",
@@ -299,25 +179,5 @@ const quotes = [
     "text": "...manganese. A lot of people don't even know what that is.",
     "character": "",
     "audioUrl": "audio/caddyshack/100_manganese_a_lot_of_people_don_t_even_know_what_that_is.mp3"
-  },
-  {
-    "text": "...or anything that might get me fired.",
-    "character": "",
-    "audioUrl": "audio/caddyshack/101_or_anything_that_might_get_me_fired.mp3"
-  },
-  {
-    "text": "...to come down for quite a while.",
-    "character": "",
-    "audioUrl": "audio/caddyshack/102_to_come_down_for_quite_a_while.mp3"
-  },
-  {
-    "text": "...why don't you drop by the Yacht Club?",
-    "character": "",
-    "audioUrl": "audio/caddyshack/103_why_don_t_you_drop_by_the_yacht_club.mp3"
-  },
-  {
-    "text": "...without the L as we do.",
-    "character": "",
-    "audioUrl": "audio/caddyshack/104_without_the_l_as_we_do.mp3"
   }
 ];

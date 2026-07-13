@@ -75,7 +75,7 @@
   CHARACTER: 
 
 023_i_passed.mp3
-  "I PASSED!"
+  "I passed!"
   CHARACTER: 
 
 024_i_wonder_if_she_goes_out_with_one_of_the_yankees.mp3

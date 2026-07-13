@@ -3,11 +3,11 @@
   CHARACTER: 
 
 002_big_dick_playa.mp3
-  "Big Dick Playa"
+  "Big dick playa"
   CHARACTER: 
 
 003_f_ck_your_own_face.mp3
-  "F*ck Your Own Face"
+  "F*ck your own face"
   CHARACTER: 
 
 004_he_ain_t_playing_god_he_s_being_judged_by_him.mp3
@@ -51,15 +51,15 @@
   CHARACTER: 
 
 014_jeff_portnoy_and_jelly_beans.mp3
-  "Jeff Portnoy And Jelly Beans"
+  "Jeff Portnoy and jelly beans"
   CHARACTER: 
 
 015_kirk_gets_a_second_opinion.mp3
-  "Kirk Gets A Second Opinion"
+  "Kirk gets a second opinion"
   CHARACTER: 
 
 016_kirk_lazarus_compliments_tugg_speedman.mp3
-  "Kirk Lazarus Compliments Tugg Speedman"
+  "Kirk Lazarus compliments Tugg Speedman"
   CHARACTER: 
 
 017_kirklazarus_imadude.mp3
@@ -67,7 +67,7 @@
   CHARACTER: 
 
 018_ma_make_me_happy.mp3
-  "Ma Make Me Happy"
+  "Ma make me happy"
   CHARACTER: 
 
 019_man_i_m_thirsty_better_have_some_booty_sweat.mp3
@@ -79,7 +79,7 @@
   CHARACTER: 
 
 021_never_go_full_retard.mp3
-  "Never Go Full Retard"
+  "Never go full retard"
   CHARACTER: 
 
 022_sh_t.mp3
@@ -119,7 +119,7 @@
   CHARACTER: 
 
 031_take_them_off_the_fucking_grid.mp3
-  "Take Them Off The Fucking Grid!"
+  "Take them off the fucking grid!"
   CHARACTER: 
 
 032_this_is_flaming_dragon.mp3
@@ -131,23 +131,23 @@
   CHARACTER: 
 
 034_tropic_thunder_insubordination.mp3
-  "Tropic Thunder Insubordination"
+  "Insubordination"
   CHARACTER: 
 
 035_we_don_t_negotiate_with_terrorists.mp3
-  "We Don't Negotiate with Terrorists"
+  "We don't negotiate with terrorists"
   CHARACTER: 
 
 036_welcome_to_the_goodie_room.mp3
-  "Welcome To The Goodie Room"
+  "Welcome to the goodie room"
   CHARACTER: 
 
 037_what_do_you_mean_you_people.mp3
-  "What Do You Mean, "You People?""
+  "What do you mean, "you people?""
   CHARACTER: 
 
 038_who_left_the_fridge_open.mp3
-  "Who Left the Fridge Open"
+  "Who left the fridge open"
   CHARACTER: 
 
 039_yeah_it_was_an_intense_experience.mp3

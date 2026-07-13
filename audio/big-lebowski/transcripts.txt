@@ -167,7 +167,7 @@
   CHARACTER: 
 
 043_malibu_police_chief_lions_club_award_on_his_wall_stay_out_of.mp3
-  "Stay out of Malibu, Deadbeat"
+  "Stay out of Malibu, deadbeat"
   CHARACTER: 
 
 044_man_i_said_i_thought_she_kidnapped_herself_you_re_the_one_wh.mp3

@@ -41,11 +41,6 @@ const quotes = [
     "audioUrl": "audio/peaky-blinders/008_i_know_what_i_know.mp3"
   },
   {
-    "text": "I will remember everything",
-    "character": "",
-    "audioUrl": "audio/peaky-blinders/009_i_will_remember_everything.mp3"
-  },
-  {
     "text": "I'll tell on you to mum",
     "character": "",
     "audioUrl": "audio/peaky-blinders/010_if_you_try_to_sneak_out_i_ll_tell_on_you_to_mum.mp3"
@@ -56,19 +51,9 @@ const quotes = [
     "audioUrl": "audio/peaky-blinders/011_if_you_try_to_sneak_out_i_ll_tell_on_you_to_mum_short.mp3"
   },
   {
-    "text": "Intelligence is a valuable thing, my friend",
-    "character": "",
-    "audioUrl": "audio/peaky-blinders/012_intelligence_is_a_valuable_thing_my_friend.mp3"
-  },
-  {
     "text": "It is fucking awful, that stuff",
     "character": "",
     "audioUrl": "audio/peaky-blinders/013_it_is_fucking_awful_that_stuff.mp3"
-  },
-  {
-    "text": "It was fucking biblical, mate",
-    "character": "",
-    "audioUrl": "audio/peaky-blinders/014_it_was_fucking_biblical_mate.mp3"
   },
   {
     "text": "Men and their cocks",
@@ -111,16 +96,6 @@ const quotes = [
     "audioUrl": "audio/peaky-blinders/022_peaky_blinders.mp3"
   },
   {
-    "text": "Stop fooking whingeing!",
-    "character": "",
-    "audioUrl": "audio/peaky-blinders/023_stop_fooking_whingeing.mp3"
-  },
-  {
-    "text": "There's God, and the Peaky Blinders",
-    "character": "",
-    "audioUrl": "audio/peaky-blinders/024_there_is_god_and_there_are_the_peaky_blinders.mp3"
-  },
-  {
     "text": "Under new management",
     "character": "",
     "audioUrl": "audio/peaky-blinders/025_this_place_is_under_new_management.mp3"
@@ -136,19 +111,9 @@ const quotes = [
     "audioUrl": "audio/peaky-blinders/027_we_are_now_all_quarantined.mp3"
   },
   {
-    "text": "Were you a man?",
-    "character": "",
-    "audioUrl": "audio/peaky-blinders/028_were_you_a_man.mp3"
-  },
-  {
     "text": "Whisky is good proofing water",
     "character": "",
     "audioUrl": "audio/peaky-blinders/029_whisky_is_good_proofing_water.mp3"
-  },
-  {
-    "text": "Who is the boss?",
-    "character": "",
-    "audioUrl": "audio/peaky-blinders/030_who_is_the_boss.mp3"
   },
   {
     "text": "Who wants to be in heaven?",
@@ -159,11 +124,6 @@ const quotes = [
     "text": "A deal without negotiation",
     "character": "",
     "audioUrl": "audio/peaky-blinders/032_you_just_made_a_deal_without_a_negotiation_didn_t_ya.mp3"
-  },
-  {
-    "text": "You need to be a man",
-    "character": "",
-    "audioUrl": "audio/peaky-blinders/033_you_need_to_be_a_man.mp3"
   },
   {
     "text": "And we're the Peaky Blinders",

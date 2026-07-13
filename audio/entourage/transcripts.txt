@@ -279,7 +279,7 @@
   CHARACTER: 
 
 084_people_cheering_whoa_people_whistling_lights_out_it_s_johnn.mp3
-  "Lights Out, it's Johnny Drama!"
+  "Lights out, it's Johnny Drama!"
   CHARACTER: 
 
 089_i_wanna_be_your_superhero.mp3

@@ -30,10 +30,6 @@
   "I know what I know"
   CHARACTER: 
 
-009_i_will_remember_everything.mp3
-  "I will remember everything"
-  CHARACTER: 
-
 010_if_you_try_to_sneak_out_i_ll_tell_on_you_to_mum.mp3
   "I'll tell on you to mum"
   CHARACTER: 
@@ -42,16 +38,8 @@
   "I'll tell mum (short)"
   CHARACTER: 
 
-012_intelligence_is_a_valuable_thing_my_friend.mp3
-  "Intelligence is a valuable thing, my friend"
-  CHARACTER: 
-
 013_it_is_fucking_awful_that_stuff.mp3
   "It is fucking awful, that stuff"
-  CHARACTER: 
-
-014_it_was_fucking_biblical_mate.mp3
-  "It was fucking biblical, mate"
   CHARACTER: 
 
 015_men_and_their_cocks_never_seize_to_amaze_me.mp3
@@ -86,14 +74,6 @@
   "Peaky Blinders"
   CHARACTER: 
 
-023_stop_fooking_whingeing.mp3
-  "Stop fooking whingeing!"
-  CHARACTER: 
-
-024_there_is_god_and_there_are_the_peaky_blinders.mp3
-  "There's God, and the Peaky Blinders"
-  CHARACTER: 
-
 025_this_place_is_under_new_management.mp3
   "Under new management"
   CHARACTER: 
@@ -106,16 +86,8 @@
   "We are all quarantined"
   CHARACTER: 
 
-028_were_you_a_man.mp3
-  "Were you a man?"
-  CHARACTER: 
-
 029_whisky_is_good_proofing_water.mp3
   "Whisky is good proofing water"
-  CHARACTER: 
-
-030_who_is_the_boss.mp3
-  "Who is the boss?"
   CHARACTER: 
 
 031_who_wants_to_be_in_heaven.mp3
@@ -124,10 +96,6 @@
 
 032_you_just_made_a_deal_without_a_negotiation_didn_t_ya.mp3
   "A deal without negotiation"
-  CHARACTER: 
-
-033_you_need_to_be_a_man.mp3
-  "You need to be a man"
   CHARACTER: 
 
 034_and_we_re_the_peaky_blinders.mp3

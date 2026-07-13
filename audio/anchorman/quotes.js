@@ -21,17 +21,17 @@ const quotes = [
     "audioUrl": "audio/anchorman/004_anchorman.mp3"
   },
   {
-    "text": "Anchorman Come See",
+    "text": "Come see",
     "character": "",
     "audioUrl": "audio/anchorman/005_anchorman_come_see.mp3"
   },
   {
-    "text": "Anchorman nopantsdan",
+    "text": "Nopantsdan",
     "character": "",
     "audioUrl": "audio/anchorman/006_anchorman_nopantsdan.mp3"
   },
   {
-    "text": "Anchorman Whammy",
+    "text": "Whammy",
     "character": "",
     "audioUrl": "audio/anchorman/007_anchorman_whammy.mp3"
   },
@@ -51,16 +51,6 @@ const quotes = [
     "audioUrl": "audio/anchorman/010_bears_can_smell_the_menstration.mp3"
   },
   {
-    "text": "Blue you're my boy thank you sir",
-    "character": "",
-    "audioUrl": "audio/anchorman/011_blue_you_re_my_boy_thank_you_sir.mp3"
-  },
-  {
-    "text": "Boo Will Ferrell Sounds",
-    "character": "",
-    "audioUrl": "audio/anchorman/012_boo_will_ferrell_sounds.mp3"
-  },
-  {
     "text": "Boy, that escalated quickly",
     "character": "",
     "audioUrl": "audio/anchorman/013_boy_that_escalated_quickly.mp3"
@@ -69,21 +59,6 @@ const quotes = [
     "text": "Breathtaking Hiney",
     "character": "",
     "audioUrl": "audio/anchorman/014_breathtaking_hiney.mp3"
-  },
-  {
-    "text": "Brick From Anchorman",
-    "character": "",
-    "audioUrl": "audio/anchorman/015_brick_from_anchorman.mp3"
-  },
-  {
-    "text": "Brick Tamland Yelling",
-    "character": "",
-    "audioUrl": "audio/anchorman/016_brick_tamland_yelling.mp3"
-  },
-  {
-    "text": "Brick Yells",
-    "character": "",
-    "audioUrl": "audio/anchorman/017_brick_yells.mp3"
   },
   {
     "text": "God's green goodness",
@@ -106,17 +81,12 @@ const quotes = [
     "audioUrl": "audio/anchorman/021_come_see_how_good_i_look.mp3"
   },
   {
-    "text": "Como Estan Bitches",
+    "text": "Como estan bitches",
     "character": "",
     "audioUrl": "audio/anchorman/022_como_estan_bitches.mp3"
   },
   {
-    "text": "Como estan bitches!",
-    "character": "",
-    "audioUrl": "audio/anchorman/023_como_estan_bitches.mp3"
-  },
-  {
-    "text": "Dear god Will Ferrell Sounds",
+    "text": "Dear God Will Ferrell sounds",
     "character": "",
     "audioUrl": "audio/anchorman/024_dear_god_will_ferrell_sounds.mp3"
   },
@@ -136,11 +106,6 @@ const quotes = [
     "audioUrl": "audio/anchorman/027_don_t_act_like_you_re_not_impressed.mp3"
   },
   {
-    "text": "For god 's tricky",
-    "character": "",
-    "audioUrl": "audio/anchorman/028_for_god_s_tricky.mp3"
-  },
-  {
     "text": "Get Out!",
     "character": "",
     "audioUrl": "audio/anchorman/029_get_out.mp3"
@@ -151,7 +116,7 @@ const quotes = [
     "audioUrl": "audio/anchorman/030_glass_case_of_emotion.mp3"
   },
   {
-    "text": "Go F' Yourself San Diego",
+    "text": "Go f' yourself San Diego",
     "character": "",
     "audioUrl": "audio/anchorman/031_go_f_yourself_san_diego.mp3"
   },
@@ -166,11 +131,6 @@ const quotes = [
     "audioUrl": "audio/anchorman/033_good_one.mp3"
   },
   {
-    "text": "Great story, compelling and rich",
-    "character": "",
-    "audioUrl": "audio/anchorman/034_great_story_compelling_and_rich.mp3"
-  },
-  {
     "text": "Haha..",
     "character": "",
     "audioUrl": "audio/anchorman/035_haha.mp3"
@@ -179,16 +139,6 @@ const quotes = [
     "text": "Hard time in a pickle",
     "character": "",
     "audioUrl": "audio/anchorman/036_hard_time_in_a_pickle.mp3"
-  },
-  {
-    "text": "Hello neighbor Will Ferrell Sounds",
-    "character": "",
-    "audioUrl": "audio/anchorman/037_hello_neighbor_will_ferrell_sounds.mp3"
-  },
-  {
-    "text": "Hello Neighbor",
-    "character": "",
-    "audioUrl": "audio/anchorman/038_hello_neighbor.mp3"
   },
   {
     "text": "Hey sweet cheeks",
@@ -246,16 +196,6 @@ const quotes = [
     "audioUrl": "audio/anchorman/049_i_have_more_talent_and_more_intelligence_in_my_finger.mp3"
   },
   {
-    "text": "I immediately regret this decision",
-    "character": "",
-    "audioUrl": "audio/anchorman/050_i_immediately_regret_this_decision.mp3"
-  },
-  {
-    "text": "I immediately regret this decision",
-    "character": "",
-    "audioUrl": "audio/anchorman/051_i_immediately_regret_this_decision.mp3"
-  },
-  {
     "text": "I like the way your put together",
     "character": "",
     "audioUrl": "audio/anchorman/052_i_like_the_way_your_put_together.mp3"
@@ -266,12 +206,7 @@ const quotes = [
     "audioUrl": "audio/anchorman/053_i_look_good_i_mean_really_good_everyone_coming_feel_goo.mp3"
   },
   {
-    "text": "I look like hell",
-    "character": "",
-    "audioUrl": "audio/anchorman/054_i_look_like_hell.mp3"
-  },
-  {
-    "text": "I Love Lamp",
+    "text": "I love lamp",
     "character": "",
     "audioUrl": "audio/anchorman/055_i_love_lamp.mp3"
   },
@@ -291,7 +226,7 @@ const quotes = [
     "audioUrl": "audio/anchorman/058_i_make_fart_noises_with_my_mouth.mp3"
   },
   {
-    "text": "I Miss You",
+    "text": "I miss you",
     "character": "",
     "audioUrl": "audio/anchorman/059_i_miss_you.mp3"
   },
@@ -321,7 +256,7 @@ const quotes = [
     "audioUrl": "audio/anchorman/064_i_thought_you_were_kidding.mp3"
   },
   {
-    "text": "I Wanna Be On You",
+    "text": "I wanna be on you",
     "character": "",
     "audioUrl": "audio/anchorman/065_i_wanna_be_on_you.mp3"
   },
@@ -331,27 +266,17 @@ const quotes = [
     "audioUrl": "audio/anchorman/066_i_want_to_be_on_you.mp3"
   },
   {
-    "text": "I will not eat cat poop",
-    "character": "",
-    "audioUrl": "audio/anchorman/067_i_will_not_eat_cat_poop.mp3"
-  },
-  {
-    "text": "I'm a man",
-    "character": "",
-    "audioUrl": "audio/anchorman/068_i_m_a_man.mp3"
-  },
-  {
     "text": "I'm going to punch you in the ovaries",
     "character": "",
     "audioUrl": "audio/anchorman/069_i_m_going_to_punch_you_in_the_ovaries.mp3"
   },
   {
-    "text": "I'm Going To Throw This Out There",
+    "text": "I'm going to throw this out there",
     "character": "",
     "audioUrl": "audio/anchorman/070_i_m_going_to_throw_this_out_there.mp3"
   },
   {
-    "text": "I'm Kind Of A Big Deal",
+    "text": "I'm kind of a big deal",
     "character": "",
     "audioUrl": "audio/anchorman/071_i_m_kind_of_a_big_deal.mp3"
   },
@@ -359,11 +284,6 @@ const quotes = [
     "text": "I'm kind of a big deal",
     "character": "",
     "audioUrl": "audio/anchorman/072_i_m_kind_of_a_big_deal.mp3"
-  },
-  {
-    "text": "I'm sorry",
-    "character": "",
-    "audioUrl": "audio/anchorman/073_i_m_sorry.mp3"
   },
   {
     "text": "I'm sorry, it's the pleats",
@@ -391,16 +311,6 @@ const quotes = [
     "audioUrl": "audio/anchorman/078_if_you_were_a_man_i_d_punch_you.mp3"
   },
   {
-    "text": "Im very aroused",
-    "character": "",
-    "audioUrl": "audio/anchorman/079_im_very_aroused.mp3"
-  },
-  {
-    "text": "It's Science",
-    "character": "",
-    "audioUrl": "audio/anchorman/080_it_s_science.mp3"
-  },
-  {
     "text": "Jack Johnson and Tom O'Leary",
     "character": "",
     "audioUrl": "audio/anchorman/081_jack_johnson_and_tom_o_leary.mp3"
@@ -426,29 +336,9 @@ const quotes = [
     "audioUrl": "audio/anchorman/085_ladies_can_do_stuff_now.mp3"
   },
   {
-    "text": "Let's dance dick weed",
-    "character": "",
-    "audioUrl": "audio/anchorman/086_let_s_dance_dick_weed.mp3"
-  },
-  {
     "text": "Let's Fight",
     "character": "",
     "audioUrl": "audio/anchorman/087_let_s_fight.mp3"
-  },
-  {
-    "text": "Loud Noises",
-    "character": "",
-    "audioUrl": "audio/anchorman/088_loud_noises.mp3"
-  },
-  {
-    "text": "LOUD NOISES!",
-    "character": "",
-    "audioUrl": "audio/anchorman/089_loud_noises.mp3"
-  },
-  {
-    "text": "Maybe don't wear a bra next time",
-    "character": "",
-    "audioUrl": "audio/anchorman/090_maybe_don_t_wear_a_bra_next_time.mp3"
   },
   {
     "text": "Milk was a bad choice",
@@ -459,11 +349,6 @@ const quotes = [
     "text": "Miss you",
     "character": "",
     "audioUrl": "audio/anchorman/092_miss_you.mp3"
-  },
-  {
-    "text": "Never ceases to amaze me",
-    "character": "",
-    "audioUrl": "audio/anchorman/093_never_ceases_to_amaze_me.mp3"
   },
   {
     "text": "News crew laughing",
@@ -481,7 +366,7 @@ const quotes = [
     "audioUrl": "audio/anchorman/096_no_brick.mp3"
   },
   {
-    "text": "No Pants Dance",
+    "text": "No pants dance",
     "character": "",
     "audioUrl": "audio/anchorman/097_no_pants_dance.mp3"
   },
@@ -501,24 +386,9 @@ const quotes = [
     "audioUrl": "audio/anchorman/100_no.mp3"
   },
   {
-    "text": "Of course",
-    "character": "",
-    "audioUrl": "audio/anchorman/101_of_course.mp3"
-  },
-  {
-    "text": "Oh. This is awkward",
-    "character": "",
-    "audioUrl": "audio/anchorman/102_oh_this_is_awkward.mp3"
-  },
-  {
-    "text": "OMG, what is that smell?",
+    "text": "Oh my god, what is that smell?",
     "character": "",
     "audioUrl": "audio/anchorman/103_omg_what_is_that_smell.mp3"
-  },
-  {
-    "text": "Ow! Knights of Columbus that hurt!",
-    "character": "",
-    "audioUrl": "audio/anchorman/104_ow_knights_of_columbus_that_hurt.mp3"
   },
   {
     "text": "Pants Party",
@@ -526,7 +396,7 @@ const quotes = [
     "audioUrl": "audio/anchorman/105_pants_party.mp3"
   },
   {
-    "text": "Periods Attract Bear",
+    "text": "Periods attract bear",
     "character": "",
     "audioUrl": "audio/anchorman/106_periods_attract_bear.mp3"
   },
@@ -539,11 +409,6 @@ const quotes = [
     "text": "Prime minister of malaysia bad awards come on",
     "character": "",
     "audioUrl": "audio/anchorman/108_prime_minister_of_malaysia_bad_awards_come_on.mp3"
-  },
-  {
-    "text": "Rage",
-    "character": "",
-    "audioUrl": "audio/anchorman/109_rage.mp3"
   },
   {
     "text": "Ron, are you paying attention?",
@@ -566,11 +431,6 @@ const quotes = [
     "audioUrl": "audio/anchorman/113_sick_tasteless_joke.mp3"
   },
   {
-    "text": "Skyrockets in Flight",
-    "character": "",
-    "audioUrl": "audio/anchorman/114_skyrockets_in_flight.mp3"
-  },
-  {
     "text": "Smell of Desire",
     "character": "",
     "audioUrl": "audio/anchorman/115_smell_of_desire.mp3"
@@ -584,11 +444,6 @@ const quotes = [
     "text": "Son of a bee sting",
     "character": "",
     "audioUrl": "audio/anchorman/117_son_of_a_bee_sting_she_s_turning_the_entire_office_agai.mp3"
-  },
-  {
-    "text": "Stay Classy San Diego",
-    "character": "",
-    "audioUrl": "audio/anchorman/118_stay_classy_san_diego.mp3"
   },
   {
     "text": "Stings the nostrils",
@@ -611,34 +466,14 @@ const quotes = [
     "audioUrl": "audio/anchorman/122_take_me_to_pleasure_town.mp3"
   },
   {
-    "text": "That doesn't make sense",
-    "character": "",
-    "audioUrl": "audio/anchorman/123_that_doesn_t_make_sense.mp3"
-  },
-  {
     "text": "That escalated quickly",
     "character": "",
     "audioUrl": "audio/anchorman/124_that_escalated_quickly.mp3"
   },
   {
-    "text": "That's How I Roll",
-    "character": "",
-    "audioUrl": "audio/anchorman/125_that_s_how_i_roll.mp3"
-  },
-  {
     "text": "That's what kind of man I am",
     "character": "",
     "audioUrl": "audio/anchorman/126_that_s_what_kind_of_man_i_am.mp3"
-  },
-  {
-    "text": "That’s wonderful, thank you!",
-    "character": "",
-    "audioUrl": "audio/anchorman/127_that_s_wonderful_thank_you.mp3"
-  },
-  {
-    "text": "The Human Torch was denied a bank loan",
-    "character": "",
-    "audioUrl": "audio/anchorman/128_the_human_torch_was_denied_a_bank_loan.mp3"
   },
   {
     "text": "This burrito is delicious but it is filling",
@@ -651,11 +486,6 @@ const quotes = [
     "audioUrl": "audio/anchorman/130_time_to_musk_up.mp3"
   },
   {
-    "text": "Tits McGee",
-    "character": "",
-    "audioUrl": "audio/anchorman/131_tits_mcgee.mp3"
-  },
-  {
     "text": "We need you",
     "character": "",
     "audioUrl": "audio/anchorman/132_we_need_you.mp3"
@@ -666,19 +496,9 @@ const quotes = [
     "audioUrl": "audio/anchorman/133_well_you_have_bad_hair.mp3"
   },
   {
-    "text": "Well..",
-    "character": "",
-    "audioUrl": "audio/anchorman/134_well.mp3"
-  },
-  {
     "text": "What Calone",
     "character": "",
     "audioUrl": "audio/anchorman/135_what_calone.mp3"
-  },
-  {
-    "text": "What did you say?",
-    "character": "",
-    "audioUrl": "audio/anchorman/136_what_did_you_say.mp3"
   },
   {
     "text": "What do say we go out on a date?",
@@ -686,14 +506,9 @@ const quotes = [
     "audioUrl": "audio/anchorman/137_what_do_say_we_go_out_on_a_date.mp3"
   },
   {
-    "text": "What is this, Amateur Hour?",
+    "text": "What is this, amateur hour?",
     "character": "",
     "audioUrl": "audio/anchorman/138_what_is_this_amateur_hour.mp3"
-  },
-  {
-    "text": "Whore Island",
-    "character": "",
-    "audioUrl": "audio/anchorman/139_whore_island.mp3"
   },
   {
     "text": "You and me should get an apartment together",
@@ -701,34 +516,14 @@ const quotes = [
     "audioUrl": "audio/anchorman/140_you_and_me_should_get_an_apartment_together.mp3"
   },
   {
-    "text": "You are a smelly pirate hooker",
-    "character": "",
-    "audioUrl": "audio/anchorman/141_you_are_a_smelly_pirate_hooker.mp3"
-  },
-  {
-    "text": "You are acting like a baby",
-    "character": "",
-    "audioUrl": "audio/anchorman/142_you_are_acting_like_a_baby.mp3"
-  },
-  {
-    "text": "A big fat joke",
-    "character": "",
-    "audioUrl": "audio/anchorman/143_you_are_not_a_man_you_are_a_big_fat_joke.mp3"
-  },
-  {
-    "text": "You Ate the Whole Wheel of Cheese?",
+    "text": "You ate the whole wheel of cheese?",
     "character": "",
     "audioUrl": "audio/anchorman/144_you_ate_the_whole_wheel_of_cheese.mp3"
   },
   {
-    "text": "You Have a Dirty Whorish Mouth",
+    "text": "You have a dirty whorish mouth",
     "character": "",
     "audioUrl": "audio/anchorman/145_you_have_a_dirty_whorish_mouth.mp3"
-  },
-  {
-    "text": "You have a massive erection",
-    "character": "",
-    "audioUrl": "audio/anchorman/146_you_have_a_massive_erection.mp3"
   },
   {
     "text": "You have always been a good friend ..",
@@ -736,24 +531,9 @@ const quotes = [
     "audioUrl": "audio/anchorman/147_you_have_always_been_a_good_friend.mp3"
   },
   {
-    "text": "You have man boobs",
-    "character": "",
-    "audioUrl": "audio/anchorman/148_you_have_man_boobs.mp3"
-  },
-  {
     "text": "You know I don't speak Spanish, in English please",
     "character": "",
     "audioUrl": "audio/anchorman/149_you_know_i_don_t_speak_spanish_in_english_please.mp3"
-  },
-  {
-    "text": "You look awfully nice tonight",
-    "character": "",
-    "audioUrl": "audio/anchorman/150_you_look_awfully_nice_tonight.mp3"
-  },
-  {
-    "text": "You look like a blueberry",
-    "character": "",
-    "audioUrl": "audio/anchorman/151_you_look_like_a_blueberry.mp3"
   },
   {
     "text": "You sound like a gay",
@@ -766,7 +546,7 @@ const quotes = [
     "audioUrl": "audio/anchorman/153_you_will_eat_this_cat_poop.mp3"
   },
   {
-    "text": "You're Fired Ed",
+    "text": "You're fired Ed",
     "character": "",
     "audioUrl": "audio/anchorman/154_you_re_fired_ed.mp3"
   },
@@ -781,7 +561,7 @@ const quotes = [
     "audioUrl": "audio/anchorman/156_your_hair_looks_stupid.mp3"
   },
   {
-    "text": "60% of the Time, It Works Every Time",
+    "text": "60% of the time, it works every time",
     "character": "",
     "audioUrl": "audio/anchorman/157_60_of_the_time_it_works_every_time.mp3"
   }

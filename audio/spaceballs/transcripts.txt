@@ -15,7 +15,7 @@
   CHARACTER: 
 
 005_he_shot_my_hair.mp3
-  "He Shot My Hair"
+  "He shot my hair"
   CHARACTER: 
 
 006_he_s_an_asshole_sir.mp3
@@ -31,7 +31,7 @@
   CHARACTER: 
 
 009_knock_next_time.mp3
-  "Knock Next Time"
+  "Knock next time"
   CHARACTER: 
 
 010_ludicrous_speed.mp3
@@ -47,7 +47,7 @@
   CHARACTER: 
 
 013_meet_first_time_last_time.mp3
-  "Meet First Time Last Time"
+  "Meet first time last time"
   CHARACTER: 
 
 014_merchandising.mp3
@@ -83,7 +83,7 @@
   CHARACTER: 
 
 022_spaceballs_shit.mp3
-  "Spaceballs shit"
+  "Shit"
   CHARACTER: 
 
 023_surrounded_by_assholes.mp3
@@ -91,7 +91,7 @@
   CHARACTER: 
 
 024_the_radar_is_jammed.mp3
-  "The Radar Is Jammed"
+  "The radar is jammed"
   CHARACTER: 
 
 025_the_shwartz.mp3
@@ -103,11 +103,11 @@
   CHARACTER: 
 
 027_we_ain_t_found_shit.mp3
-  "We Ain't Found Shit"
+  "We ain't found shit"
   CHARACTER: 
 
 028_we_re_in_the_now_now.mp3
-  "We're in the Now Now"
+  "We're in the now now"
   CHARACTER: 
 
 029_weaintfoundsh.mp3
@@ -119,9 +119,9 @@
   CHARACTER: 
 
 031_why_didn_t_anyone_tell_me.mp3
-  "Why Didn't Anyone Tell Me"
+  "Why didn't anyone tell me"
   CHARACTER: 
 
 032_your_schwartz_is_as_big_as_mine.mp3
-  "Your Schwartz Is as Big as Mine"
+  "Your Schwartz is as big as mine"
   CHARACTER: 

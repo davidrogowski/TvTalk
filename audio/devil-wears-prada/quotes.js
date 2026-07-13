@@ -36,12 +36,12 @@ const quotes = [
     "audioUrl": "audio/devil-wears-prada/009_everybody_wants_this.mp3"
   },
   {
-    "text": "Florals? For Spring? Groundbreaking",
+    "text": "Florals? For spring? Groundbreaking",
     "character": "",
     "audioUrl": "audio/devil-wears-prada/010_florals_for_spring_groundbreaking.mp3"
   },
   {
-    "text": "Gird Your Loins",
+    "text": "Gird your loins",
     "character": "",
     "audioUrl": "audio/devil-wears-prada/011_gird_your_loins.mp3"
   },

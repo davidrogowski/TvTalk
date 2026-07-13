@@ -41,7 +41,7 @@ const quotes = [
     "audioUrl": "audio/40-year-old-virgin/008_how_i_know_you_re_gay.mp3"
   },
   {
-    "text": "Know How I Know?",
+    "text": "Know how I know?",
     "character": "",
     "audioUrl": "audio/40-year-old-virgin/009_know_how_i_know.mp3"
   },
@@ -56,12 +56,12 @@ const quotes = [
     "audioUrl": "audio/40-year-old-virgin/011_oh_yeah_right.mp3"
   },
   {
-    "text": "On The House",
+    "text": "On the house",
     "character": "",
     "audioUrl": "audio/40-year-old-virgin/012_on_the_house.mp3"
   },
   {
-    "text": "Please Don't Do This",
+    "text": "Please don't do this",
     "character": "",
     "audioUrl": "audio/40-year-old-virgin/013_please_don_t_do_this.mp3"
   },
