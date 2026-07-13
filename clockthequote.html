@@ -769,17 +769,8 @@ function render(){
   wireAutocomplete();
 }
 
-// score-aware result copy: one tier per clue solved on (0=1/5 best … 4=5/5 squeaker), 5 options each.
-// the day's puzzle number picks which option, so a given day is consistent but the pool rotates.
-const WIN_MSGS = [
-  [ "Clocked it cold 🎯", "First listen, no notes 🔥", "Didn't even break a sweat 😎", "Named it instantly ⚡", "Absolute pro 🏆" ],            // 1/5
-  [ "Barely needed that 😎", "Locked in early 🔒", "Sharp ears 👂", "Two and done ✌️", "Made it look easy 🍿" ],                                  // 2/5
-  [ "Right in the pocket 🍿", "Solid work 👌", "Middle of the reel, nailed it 🎬", "Three's the charm ✨", "Dialed it in 🎯" ],                    // 3/5
-  [ "Cut it close 😅", "Clutch finish 💪", "Needed every clue 😮‍💨", "Down to the deadline ⏳", "Squeaked it out 🙌" ],                            // 4/5
-  [ "Down to the wire ⏰", "Last-second save 😰", "By the skin of your teeth 😬", "Photo finish 🏁", "Phew — got there 💦" ],                       // 5/5
-];
+// fail-screen copy: a rotating quip on a loss; the day's puzzle number picks which, so a given day is consistent.
 const FAIL_MSGS = [ "Out of guesses — get 'em tomorrow 😬", "Tough one — back tomorrow 🙈", "That one got away 🎣", "No dice today 🎲", "Better luck tomorrow 😤" ];
-function winMsg(){ const arr = WIN_MSGS[solvedStage] || WIN_MSGS[WIN_MSGS.length-1]; return arr[roundNo % arr.length]; }
 function failMsg(){ return FAIL_MSGS[roundNo % FAIL_MSGS.length]; }
 
 /* ---------- stats UI (tiles + histogram + midnight-ET countdown) ---------- */
@@ -851,8 +842,8 @@ function renderResult(){
   card.innerHTML = `
     ${ticketTop()}
     <div class="result">
-      <h2 class="${won?'win':''}">${won?winMsg():failMsg()}</h2>
-      <p>${won?("Solved on clue "+(solvedStage+1)+" of 5"):"The answer was"}</p>
+      ${won ? "" : `<h2>${failMsg()}</h2>
+      <p>The answer was</p>`}
       <p class="showname ${won?'ans':'miss'}">${clip.show}
         <span class="typetag">${TYPE[clip.show]==="movie"?"movie":"show"}</span></p>
       <p class="desc">“${clip.text}”</p>
