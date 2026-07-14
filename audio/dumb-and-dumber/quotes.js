@@ -421,11 +421,6 @@ const quotes = [
     "audioUrl": "audio/dumb-and-dumber/098_this_party_really_died.mp3"
   },
   {
-    "text": "Toenails",
-    "character": "",
-    "audioUrl": "audio/dumb-and-dumber/099_toenails.mp3"
-  },
-  {
     "text": "Toilet explosion",
     "character": "",
     "audioUrl": "audio/dumb-and-dumber/100_toilet_explosion.mp3"

@@ -334,10 +334,6 @@
   "This party really died"
   CHARACTER: 
 
-099_toenails.mp3
-  "Toenails"
-  CHARACTER: 
-
 100_toilet_explosion.mp3
   "Toilet explosion"
   CHARACTER: 

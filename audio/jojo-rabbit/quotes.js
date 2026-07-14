@@ -66,11 +66,6 @@ const quotes = [
     "audioUrl": "audio/jojo-rabbit/015_heil_hitler_heil_hitler_heil_hitler_heil_hitler.mp3"
   },
   {
-    "text": "Heil! Heil! Heil!",
-    "character": "",
-    "audioUrl": "audio/jojo-rabbit/016_heil_heil_heil.mp3"
-  },
-  {
     "text": "Ready to give my life",
     "character": "",
     "audioUrl": "audio/jojo-rabbit/017_i_am_willing_and_ready_to_give_up_my_life_for_him.mp3"

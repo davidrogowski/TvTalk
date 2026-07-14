@@ -50,10 +50,6 @@
   "Heil Hitler, Heil Hitler!"
   CHARACTER: 
 
-016_heil_heil_heil.mp3
-  "Heil! Heil! Heil!"
-  CHARACTER: 
-
 017_i_am_willing_and_ready_to_give_up_my_life_for_him.mp3
   "Ready to give my life"
   CHARACTER: 

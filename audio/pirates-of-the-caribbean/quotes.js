@@ -186,7 +186,7 @@ const quotes = [
     "audioUrl": "audio/pirates-of-the-caribbean/050_tosingapore.mp3"
   },
   {
-    "text": "Welcome to",
+    "text": "Welcome to the Caribbean",
     "character": "",
     "audioUrl": "audio/pirates-of-the-caribbean/053_welcometo.mp3"
   },

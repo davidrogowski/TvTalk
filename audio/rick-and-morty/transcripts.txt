@@ -514,10 +514,6 @@
   "Rick Fredie"
   CHARACTER: 
 
-192_rick_gross.mp3
-  "Rick Gross"
-  CHARACTER: 
-
 193_rick_schwifty.mp3
   "Rick Schwifty"
   CHARACTER: 

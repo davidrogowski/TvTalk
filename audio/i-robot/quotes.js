@@ -446,7 +446,7 @@ const quotes = [
     "audioUrl": "audio/i-robot/089_what_are_you_talking_about_i_m_trying_to_save_your_life_i_d.mp3"
   },
   {
-    "text": "The man on TV",
+    "text": "Gigi wins the lottery",
     "character": "",
     "audioUrl": "audio/i-robot/090_you_re_the_man_on_tv_yes_tommy_this_is_the_man_on_tv_the_gu.mp3"
   }

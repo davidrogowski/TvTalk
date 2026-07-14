@@ -11,11 +11,6 @@ const quotes = [
     "audioUrl": "audio/dodgeball/003_bold_strategy.mp3"
   },
   {
-    "text": "Bonding",
-    "character": "",
-    "audioUrl": "audio/dodgeball/004_bonding.mp3"
-  },
-  {
     "text": "Effin' A, Cotton, Effin' A!",
     "character": "",
     "audioUrl": "audio/dodgeball/006_effin_a_cotton_effin_a.mp3"

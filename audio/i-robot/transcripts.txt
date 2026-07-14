@@ -355,5 +355,5 @@
   CHARACTER: 
 
 090_you_re_the_man_on_tv_yes_tommy_this_is_the_man_on_tv_the_gu.mp3
-  "The man on TV"
+  "Gigi wins the lottery"
   CHARACTER: 

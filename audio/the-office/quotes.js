@@ -6,11 +6,6 @@ const quotes = [
     "audioUrl": "audio/the-office/001_a_lame_attempt_at_humor.mp3"
   },
   {
-    "text": "Accidental Office",
-    "character": "",
-    "audioUrl": "audio/the-office/002_accidental_office.mp3"
-  },
-  {
     "text": "Ahhhh! I’m going to kill myself and it’s your fault",
     "character": "",
     "audioUrl": "audio/the-office/003_ahhhh_i_m_going_to_kill_myself_and_it_s_your_fault.mp3"

@@ -646,11 +646,6 @@ const quotes = [
     "audioUrl": "audio/rick-and-morty/191_rick_fredie.mp3"
   },
   {
-    "text": "Rick Gross",
-    "character": "",
-    "audioUrl": "audio/rick-and-morty/192_rick_gross.mp3"
-  },
-  {
     "text": "Rick Schwifty",
     "character": "",
     "audioUrl": "audio/rick-and-morty/193_rick_schwifty.mp3"

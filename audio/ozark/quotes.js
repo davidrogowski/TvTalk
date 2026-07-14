@@ -191,11 +191,6 @@ const quotes = [
     "audioUrl": "audio/ozark/041_grunts_screaming_shouting_in_spanish_screams_gags_grunts.mp3"
   },
   {
-    "text": "Hammering and sawing",
-    "character": "",
-    "audioUrl": "audio/ozark/042_hammering_saw_whirring_reencoded_by_dr_xj_psa_www_psarips_c.mp3"
-  },
-  {
     "text": "Police radio chatter",
     "character": "",
     "audioUrl": "audio/ozark/043_indistinct_chatter_on_police_radio_camera_clicking.mp3"

@@ -147,7 +147,7 @@
   CHARACTER: 
 
 053_welcometo.mp3
-  "Welcome to"
+  "Welcome to the Caribbean"
   CHARACTER: 
 
 057_yourpurpose.mp3

@@ -5034,11 +5034,6 @@ const shows = [
         "audioUrl": "audio/ozark/041_grunts_screaming_shouting_in_spanish_screams_gags_grunts.mp3"
       },
       {
-        "text": "Hammering and sawing",
-        "character": "",
-        "audioUrl": "audio/ozark/042_hammering_saw_whirring_reencoded_by_dr_xj_psa_www_psarips_c.mp3"
-      },
-      {
         "text": "Police radio chatter",
         "character": "",
         "audioUrl": "audio/ozark/043_indistinct_chatter_on_police_radio_camera_clicking.mp3"
@@ -6491,11 +6486,6 @@ const shows = [
         "text": "Rick Fredie",
         "character": "",
         "audioUrl": "audio/rick-and-morty/191_rick_fredie.mp3"
-      },
-      {
-        "text": "Rick Gross",
-        "character": "",
-        "audioUrl": "audio/rick-and-morty/192_rick_gross.mp3"
       },
       {
         "text": "Rick Schwifty",
@@ -8729,11 +8719,6 @@ const shows = [
         "text": "A lame attempt at humor",
         "character": "",
         "audioUrl": "audio/the-office/001_a_lame_attempt_at_humor.mp3"
-      },
-      {
-        "text": "Accidental Office",
-        "character": "",
-        "audioUrl": "audio/the-office/002_accidental_office.mp3"
       },
       {
         "text": "Ahhhh! I’m going to kill myself and it’s your fault",
@@ -19815,11 +19800,6 @@ const shows = [
         "audioUrl": "audio/dodgeball/003_bold_strategy.mp3"
       },
       {
-        "text": "Bonding",
-        "character": "",
-        "audioUrl": "audio/dodgeball/004_bonding.mp3"
-      },
-      {
         "text": "Effin' A, Cotton, Effin' A!",
         "character": "",
         "audioUrl": "audio/dodgeball/006_effin_a_cotton_effin_a.mp3"
@@ -21027,7 +21007,7 @@ const shows = [
         "audioUrl": "audio/pirates-of-the-caribbean/050_tosingapore.mp3"
       },
       {
-        "text": "Welcome to",
+        "text": "Welcome to the Caribbean",
         "character": "",
         "audioUrl": "audio/pirates-of-the-caribbean/053_welcometo.mp3"
       },
@@ -27530,11 +27510,6 @@ const shows = [
         "audioUrl": "audio/jojo-rabbit/015_heil_hitler_heil_hitler_heil_hitler_heil_hitler.mp3"
       },
       {
-        "text": "Heil! Heil! Heil!",
-        "character": "",
-        "audioUrl": "audio/jojo-rabbit/016_heil_heil_heil.mp3"
-      },
-      {
         "text": "Ready to give my life",
         "character": "",
         "audioUrl": "audio/jojo-rabbit/017_i_am_willing_and_ready_to_give_up_my_life_for_him.mp3"
@@ -31081,11 +31056,6 @@ const shows = [
         "text": "This party really died",
         "character": "",
         "audioUrl": "audio/dumb-and-dumber/098_this_party_really_died.mp3"
-      },
-      {
-        "text": "Toenails",
-        "character": "",
-        "audioUrl": "audio/dumb-and-dumber/099_toenails.mp3"
       },
       {
         "text": "Toilet explosion",
@@ -36506,7 +36476,7 @@ const shows = [
         "audioUrl": "audio/i-robot/089_what_are_you_talking_about_i_m_trying_to_save_your_life_i_d.mp3"
       },
       {
-        "text": "The man on TV",
+        "text": "Gigi wins the lottery",
         "character": "",
         "audioUrl": "audio/i-robot/090_you_re_the_man_on_tv_yes_tommy_this_is_the_man_on_tv_the_gu.mp3"
       }

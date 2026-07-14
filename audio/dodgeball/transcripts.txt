@@ -6,10 +6,6 @@
   "Bold Strategy"
   CHARACTER: 
 
-004_bonding.mp3
-  "Bonding"
-  CHARACTER: 
-
 006_effin_a_cotton_effin_a.mp3
   "Effin' A, Cotton, Effin' A!"
   CHARACTER: 

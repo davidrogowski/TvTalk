@@ -2,10 +2,6 @@
   "A lame attempt at humor"
   CHARACTER: 
 
-002_accidental_office.mp3
-  "Accidental Office"
-  CHARACTER: 
-
 003_ahhhh_i_m_going_to_kill_myself_and_it_s_your_fault.mp3
   "Ahhhh! I’m going to kill myself and it’s your fault"
   CHARACTER: 
