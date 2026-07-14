@@ -30,6 +30,59 @@ COMMENT = "tvtalk.fun"
 POISON = "101soundboards"
 
 
+def is_stamped(path: Path) -> bool:
+    """Cheap check: is our art already on this clip?
+
+    Reads only the head of the file. The ID3v2 tag sits at the front and holds
+    both the comment frame and the attached picture, so our marker lands well
+    inside the first 32 KB. Fast enough to sweep the whole catalog on every
+    build (a plain read, no ffprobe subprocess per file).
+    """
+    try:
+        with path.open("rb") as f:
+            return COMMENT.encode() in f.read(32768)
+    except OSError:
+        return False
+
+
+def stamp_missing(show_ids: list[str] | None = None) -> int:
+    """Tag every clip that isn't already stamped. Returns the count of failures.
+
+    This is what build_shows.py calls, so a show can't reach the site still
+    wearing the 101soundboards banner just because someone skipped a step.
+    Idempotent: on an already-stamped catalog it does nothing but the scan.
+    """
+    if not COVER.exists():
+        print(f"!! missing {COVER} — run: node scripts/render_cover.mjs", file=sys.stderr)
+        return 1
+
+    captions, names = load_catalog()
+    dirs = [AUDIO / s for s in show_ids] if show_ids else sorted(
+        d for d in AUDIO.iterdir() if d.is_dir()
+    )
+    todo = [f for d in dirs if d.is_dir() for f in sorted(d.glob("*.mp3")) if not is_stamped(f)]
+    if not todo:
+        return 0
+
+    print(f"\nStamping TV Talk artwork on {len(todo)} clip(s)...")
+
+    def work(path: Path):
+        rel = str(path.relative_to(ROOT))
+        caption, show = captions.get(rel, (None, None))
+        return tag(path, caption or title_from_slug(path), show or names.get(path.parent.name, ALBUM))
+
+    with ThreadPoolExecutor(max_workers=min(8, os.cpu_count() or 4)) as pool:
+        problems = [p for p in pool.map(work, todo) if p]
+
+    print(f"Stamped {len(todo) - len(problems)} clip(s).")
+    if problems:
+        print(f"\n!! {len(problems)} clip(s) could not be tagged — a clip ffmpeg can't read is a")
+        print("!! dead button on the live site. Fix or drop it (see 03 - Workflow.md).")
+        for p in problems:
+            print(f"   {p.splitlines()[0]}")
+    return len(problems)
+
+
 def load_catalog():
     """audioUrl -> (caption, show name), plus show id -> name, from shows.js."""
     src = (ROOT / "shows.js").read_text()

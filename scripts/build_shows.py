@@ -72,6 +72,13 @@ def main() -> None:
     )
     print(f"\nWrote {OUT_PATH} ({len(out_shows)} shows)")
 
+    # Stamp the TV Talk button on any clip still carrying soundboard.com's
+    # cover art. Runs here (not in the scraper) because it needs the cleaned
+    # captions from shows.js above for each clip's title. No-op once stamped.
+    from tag_audio import stamp_missing  # noqa: E402
+
+    stamp_missing()
+
 
 if __name__ == "__main__":
     main()

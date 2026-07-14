@@ -13,12 +13,11 @@ When Dave says **"run the playbook"** for a show (usually with a 101soundboards 
 3. **Scrape**: `python3 scripts/scrape_soundboard.py --show <id>` (auto-strips hashtags; auto-trims the 1s ding on poisoned `-soundboard` boards). Add `--max-length 50` for long-dialogue prestige dramas.
 4. **De-poison — now fully automatic during scrape.** As of 2026-07-13 `scrape_soundboard.py` runs **all three** content-aware passes after download, on **every** board (no longer gated on the slug rule — that gating is what let Happy Gilmore stay poisoned for months). Sanity-check with `python3 scripts/verify_residual_ding.py --show <id>` **and** `python3 scripts/strip_lead_artifact.py --show <id>` (dry run; should plan 0 cuts) **and** `python3 scripts/strip_tts_watermark.py --show <id>` (should report 0). See [Poison: three different artifacts](#poison-three-different-artifacts).
 5. **Clean the captions (MANDATORY — do not skip).** Every clip's on-screen text must be a short **1–5 word label**, not the full transcript, **and** must follow the [caption style rules](#caption-style-the-cleanup-methodology) (sentence case, proper nouns preserved, no show-name prefix, no chat abbreviations, no texting shorthand). Edit the quoted label lines in `audio/<id>/transcripts.txt`, then regenerate. This step is the one most easily forgotten; it is not optional.
-6. **Rebuild**: `python3 scripts/build_shows.py`.
-7. **Stamp the artwork (MANDATORY — do not skip).** `python3 scripts/tag_audio.py <id>` — replaces the 101soundboards banner cover art with the TV Talk button and retags the files. Must run **after** `build_shows.py` (it takes each clip's title from the cleaned caption) and **after any re-scrape** (a fresh download arrives poisoned again). Verify with `python3 scripts/tag_audio.py --verify <id>`. See [Artwork and tags](#artwork-and-tags-the-shared-file-cover).
-8. **Deploy**: `npm_config_cache=/tmp/npm-cache npx --yes wrangler@4.40.0 deploy` (see [[05 - Deployment]]).
-9. **Commit + push**: `git add -A && git commit -m "..." && git push` (env-var author identity — see [[05 - Deployment]]).
+6. **Rebuild**: `python3 scripts/build_shows.py` — this also **stamps the TV Talk artwork** on any clip still carrying the 101soundboards banner (see [Artwork and tags](#artwork-and-tags-the-shared-file-cover)). Automatic since 2026-07-13; you don't run `tag_audio.py` by hand. Watch its output for the "could not be tagged" warning — that means a **corrupt clip** (a dead button on the site), which you must fix or drop.
+7. **Deploy**: `npm_config_cache=/tmp/npm-cache npx --yes wrangler@4.40.0 deploy` (see [[05 - Deployment]]).
+8. **Commit + push**: `git add -A && git commit -m "..." && git push` (env-var author identity — see [[05 - Deployment]]).
 
-> **The standing rules that keep getting missed:** (a) **trim the ding** on poisoned `-soundboard` boards (and *only* those — set `no_trim` elsewhere) — the scraper does this **and** the content-aware residual de-ding automatically now, so just verify with `verify_residual_ding.py`; (b) **clean the captions** into short labels; and (c) **stamp the artwork** with `tag_audio.py`. All three are part of *every* add, not optional polish.
+> **The standing rules that keep getting missed:** (a) **trim the ding** on poisoned `-soundboard` boards (and *only* those — set `no_trim` elsewhere) — the scraper does this **and** the content-aware residual de-ding automatically now, so just verify with `verify_residual_ding.py`; and (b) **clean the captions** into short labels. Both are part of *every* add, not optional polish. The **artwork stamp** used to belong on this list; it is now enforced in code by `build_shows.py`, which is where the other two should end up too.
 
 The numbered sections below are the detailed version of each step.
 
@@ -294,18 +293,24 @@ Writes `shows.js` at the project root with every show's data combined (including
 
 ## Artwork and tags (the shared-file cover)
 
+**This runs automatically inside `build_shows.py`** (since 2026-07-13) — you don't normally run it by hand.
+
+Clips arrive from soundboard.com carrying a **101soundboards.com banner as their embedded cover art**, and the string `101soundboards.com` in every ID3 field (artist, comment, copyright, lyrics, …). That art is the thumbnail a phone shows when someone shares a clip out of the site — it was the photo on every clip we shipped until 2026-07-13. `tag_audio.py` swaps in `scripts/cover_tvtalk.jpg` (the red TV Talk button, 400×400) and retags: **title** = the clip's cleaned caption, **artist** = the show, **album** = TV Talk, **comment** = tvtalk.fun.
+
+**This is a *different* poison from the ding/watermark.** Those live in the audio and are stripped by the scraper (see [Poison: three different artifacts](#poison-three-different-artifacts)). This one lives in the metadata. `tag_audio.py` stream-copies the audio (`-c:a copy`), so the sound is byte-identical and it can **never** fix or harm a ding — the two passes don't overlap.
+
+Why it hangs off `build_shows.py` rather than the scraper: each clip's title is its **cleaned caption**, which only exists once `shows.js` is rebuilt. Hooking it there also means a re-scrape can't quietly reintroduce the banner — the next build takes it back out. The check is a cheap byte-scan of each file's ID3 header (no ffprobe per clip), so a clean rebuild costs ~3s and stamps nothing.
+
+Manual use, for a single show or to check:
+
 ```sh
-python3 scripts/tag_audio.py <id>            # after build_shows.py
-python3 scripts/tag_audio.py --verify <id>   # check, write nothing
+python3 scripts/tag_audio.py <id>            # force a re-stamp
+python3 scripts/tag_audio.py --verify <id>   # check, write nothing (omit <id> for all)
 ```
 
-Clips arrive from soundboard.com carrying a **101soundboards.com banner as their embedded cover art**, and the string `101soundboards.com` in every ID3 field (artist, comment, copyright, lyrics, …). That art is the thumbnail a phone shows when someone shares a clip out of the site, so it has to go. `tag_audio.py` swaps in `scripts/cover_tvtalk.jpg` (the red TV Talk button, 400×400) and retags: **title** = the clip's cleaned caption, **artist** = the show, **album** = TV Talk, **comment** = tvtalk.fun.
-
-- Run it **after** `build_shows.py` — the titles come from the captions in `shows.js`.
-- Run it **after any re-scrape** of a show. A fresh download is poisoned art again; the script is idempotent, so re-running costs nothing.
-- Audio is stream-copied (`-c:a copy`), so the sound is byte-identical — this is a metadata-only rewrite. Adds ~14 KB per clip.
-- To regenerate the cover itself from `icon-tvtalk.svg`: `node scripts/render_cover.mjs` (needs network — the SVG pulls the Nunito webfont).
-- `--verify` fails on a clip with no art, wrong-size art, a missing audio stream, or any surviving `101soundboards` tag. It also surfaces **corrupt clips** — a file ffmpeg can't read is a dead clip on the live site, so fix or drop it.
+- `--verify` fails on a clip with no art, wrong-size art, a missing audio stream, or any surviving `101soundboards` tag.
+- Both `build_shows.py` and `--verify` surface **corrupt clips** — a file ffmpeg can't read is a dead button on the live site. Three such clips (1.5 KB stubs, no decodable frames) were found and dropped this way on 2026-07-13. Fix or drop them; to drop, delete the entry from the show's curated `transcripts.txt` (not `quotes.js`) so a re-scrape can't resurrect it, then re-run the scraper and rebuild.
+- Adds ~14 KB per clip. To regenerate the cover art itself from `icon-tvtalk.svg`: `node scripts/render_cover.mjs` (needs network — the SVG pulls the Nunito webfont).
 
 ## 8. Open the app
 
