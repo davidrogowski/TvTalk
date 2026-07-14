@@ -61,11 +61,6 @@ const quotes = [
     "audioUrl": "audio/blue-mountain-state/012_my_face_actually_looks_like_your_ass.mp3"
   },
   {
-    "text": "No, dirty",
-    "character": "",
-    "audioUrl": "audio/blue-mountain-state/013_no_dirty.mp3"
-  },
-  {
     "text": "Nothing to be scared of",
     "character": "",
     "audioUrl": "audio/blue-mountain-state/014_nothing_to_be_scared_of.mp3"

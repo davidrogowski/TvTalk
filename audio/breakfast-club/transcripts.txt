@@ -1,7 +1,3 @@
-003_blows_hair_out_of_face.mp3
-  "Blows hair out of face"
-  CHARACTER: 
-
 011_demented_and_sad_but_social.mp3
   "Demented and sad, but social"
   CHARACTER: 

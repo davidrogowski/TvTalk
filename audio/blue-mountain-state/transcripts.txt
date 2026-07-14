@@ -46,10 +46,6 @@
   "My face looks like your ass"
   CHARACTER: 
 
-013_no_dirty.mp3
-  "No, dirty"
-  CHARACTER: 
-
 014_nothing_to_be_scared_of.mp3
   "Nothing to be scared of"
   CHARACTER: 

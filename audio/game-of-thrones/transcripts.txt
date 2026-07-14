@@ -50,10 +50,6 @@
   "Arya sailing away"
   CHARACTER: 
 
-016_arya_vs.mp3
-  "Arya vs"
-  CHARACTER: 
-
 017_battle_of_the_bastards.mp3
   "Battle of the Bastards"
   CHARACTER: 

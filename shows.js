@@ -648,11 +648,6 @@ const shows = [
         "audioUrl": "audio/breaking-bad/121_get_the_bad_guy_yeah_cause_it_s_the_eye_of_the_tiger_it_s_th.mp3"
       },
       {
-        "text": "He poisoned Brock",
-        "character": "",
-        "audioUrl": "audio/breaking-bad/122_he_a_no_show_why_didn_t_you_c_you_and_him_you_took_it_right.mp3"
-      },
-      {
         "text": "Heisenberg says relax",
         "character": "",
         "audioUrl": "audio/breaking-bad/123_heisenberg_says_relax_i_m_relaxed_i_m_relaxed_i_m_rela.mp3"
@@ -3848,11 +3843,6 @@ const shows = [
         "audioUrl": "audio/peaky-blinders/057_i_will_shoot_him_myself_tommy_just_teach_me_how_to_shoot_sco.mp3"
       },
       {
-        "text": "It starts when you stop",
-        "character": "",
-        "audioUrl": "audio/peaky-blinders/060_i_ve_been_to_a_doctor_on_your_behalf_it_starts_when_you_stop.mp3"
-      },
-      {
         "text": "If I die, you die",
         "character": "",
         "audioUrl": "audio/peaky-blinders/061_i_ve_made_arrangements_with_men_i_trust_if_i_should_die_then.mp3"
@@ -6794,11 +6784,6 @@ const shows = [
         "text": "Alone",
         "character": "",
         "audioUrl": "audio/silicon-valley/003_alone.mp3"
-      },
-      {
-        "text": "Angry",
-        "character": "",
-        "audioUrl": "audio/silicon-valley/007_angry.mp3"
       },
       {
         "text": "Anton is really starting to sweat",
@@ -10364,11 +10349,6 @@ const shows = [
         "audioUrl": "audio/game-of-thrones/015_arya_sailing_away.mp3"
       },
       {
-        "text": "Arya vs",
-        "character": "",
-        "audioUrl": "audio/game-of-thrones/016_arya_vs.mp3"
-      },
-      {
         "text": "Battle of the Bastards",
         "character": "",
         "audioUrl": "audio/game-of-thrones/017_battle_of_the_bastards.mp3"
@@ -12728,11 +12708,6 @@ const shows = [
         "audioUrl": "audio/blue-mountain-state/012_my_face_actually_looks_like_your_ass.mp3"
       },
       {
-        "text": "No, dirty",
-        "character": "",
-        "audioUrl": "audio/blue-mountain-state/013_no_dirty.mp3"
-      },
-      {
         "text": "Nothing to be scared of",
         "character": "",
         "audioUrl": "audio/blue-mountain-state/014_nothing_to_be_scared_of.mp3"
@@ -13837,11 +13812,6 @@ const shows = [
         "text": "They're real and they're spectacular",
         "character": "",
         "audioUrl": "audio/seinfeld/293_they_re_real_and_they_re_spectacular.mp3"
-      },
-      {
-        "text": "Toilet paper Elaine",
-        "character": "",
-        "audioUrl": "audio/seinfeld/299_toilet_paper_elaine.mp3"
       },
       {
         "text": "Tried to be nice",
@@ -17586,11 +17556,6 @@ const shows = [
         "text": "No paper jam (windows)",
         "character": "",
         "audioUrl": "audio/office-space/144_why_does_it_so_different_in_windows_is_no_paper_jam_i_swear.mp3"
-      },
-      {
-        "text": "Yeah exactly what I need",
-        "character": "",
-        "audioUrl": "audio/office-space/147_yeah_exactly_what_i_need.mp3"
       },
       {
         "text": "Yeah well i'm just not sure about that right now",
@@ -23892,11 +23857,6 @@ const shows = [
     "text_style": "title",
     "quotes": [
       {
-        "text": "Blows hair out of face",
-        "character": "",
-        "audioUrl": "audio/breakfast-club/003_blows_hair_out_of_face.mp3"
-      },
-      {
         "text": "Demented and sad, but social",
         "character": "",
         "audioUrl": "audio/breakfast-club/011_demented_and_sad_but_social.mp3"
@@ -28274,11 +28234,6 @@ const shows = [
         "audioUrl": "audio/gladiator/303_for_25_years_i_have_conquered_spilt_blood_expanded_the_empir.mp3"
       },
       {
-        "text": "Good morning to you",
-        "character": "",
-        "audioUrl": "audio/gladiator/348_good_morning_to_you.mp3"
-      },
-      {
         "text": "You have missed the war",
         "character": "",
         "audioUrl": "audio/gladiator/371_have_i_missed_it_have_i_missed_the_battle_you_have_missed_th.mp3"
@@ -28823,11 +28778,6 @@ const shows = [
         "text": "Son of a Bitch!",
         "character": "",
         "audioUrl": "audio/key-and-peele/077_son_of_a_bitch.mp3"
-      },
-      {
-        "text": "Sweating under pressure",
-        "character": "",
-        "audioUrl": "audio/key-and-peele/081_sweating_under_pressure.mp3"
       },
       {
         "text": "Totally not angry",
@@ -32629,11 +32579,6 @@ const shows = [
         "audioUrl": "audio/community/362_well_what_do_you_know_henry_david_thorough_my_oh_my_my_thai.mp3"
       },
       {
-        "text": "What a community",
-        "character": "",
-        "audioUrl": "audio/community/363_what_a_community.mp3"
-      },
-      {
         "text": "What do they want from us?",
         "character": "",
         "audioUrl": "audio/community/364_what_are_beta_earth_do_they_want_from_us_inspector_questions.mp3"
@@ -35383,11 +35328,6 @@ const shows = [
         "audioUrl": "audio/futurama/014_awww_they_re_so_cute_when_they_re_scared.mp3"
       },
       {
-        "text": "Baby love child",
-        "character": "",
-        "audioUrl": "audio/futurama/015_baby_love_child.mp3"
-      },
-      {
         "text": "Bender",
         "character": "",
         "audioUrl": "audio/futurama/017_bender.mp3"
@@ -37942,6 +37882,404 @@ const shows = [
         "text": "You're a horrible person",
         "character": "",
         "audioUrl": "audio/bojack-horseman/127_you_re_a_horrible_person.mp3"
+      }
+    ]
+  },
+  {
+    "id": "waiting",
+    "name": "Waiting...",
+    "type": "movie",
+    "theme": {
+      "primary": "#d94f2b",
+      "accent": "#f2c14e",
+      "bg": "#0b0806"
+    },
+    "text_style": "title",
+    "quotes": [
+      {
+        "text": "Staring at cock",
+        "character": "",
+        "audioUrl": "audio/waiting/013_and_ending_up_staring_at_a_huge_steaming_plie_of_cock.mp3"
+      },
+      {
+        "text": "Working a double for Christy",
+        "character": "",
+        "audioUrl": "audio/waiting/015_and_you_re_using_it_to_work_a_double_shift_for_christy.mp3"
+      },
+      {
+        "text": "But I like 'em both",
+        "character": "",
+        "audioUrl": "audio/waiting/020_but_i_like_em_both.mp3"
+      },
+      {
+        "text": "Sweet girl when she's drunk",
+        "character": "",
+        "audioUrl": "audio/waiting/021_but_she_s_actually_a_pretty_sweet_girl_when_she_s_drunk_let.mp3"
+      },
+      {
+        "text": "Called a few times",
+        "character": "",
+        "audioUrl": "audio/waiting/023_called_before_a_few_times_maybe_you_didn_t.mp3"
+      },
+      {
+        "text": "Talk to me, Goose",
+        "character": "",
+        "audioUrl": "audio/waiting/025_come_on_talk_to_me_goose_what_s_wrong.mp3"
+      },
+      {
+        "text": "I'm a fucking loser",
+        "character": "",
+        "audioUrl": "audio/waiting/029_did_you_ever_just_wake_up_and_realize_holy_shit_i_m_a_fuckin.mp3"
+      },
+      {
+        "text": "Same honors classes",
+        "character": "",
+        "audioUrl": "audio/waiting/032_didn_t_you_two_have_all_the_same_honors_classes_together.mp3"
+      },
+      {
+        "text": "Want the assistant manager job?",
+        "character": "",
+        "audioUrl": "audio/waiting/033_do_you_want_the_assistant_manager_job.mp3"
+      },
+      {
+        "text": "All we do is have sex",
+        "character": "",
+        "audioUrl": "audio/waiting/034_don_t_try_to_candy_coat_it_all_we_ever_do_is_hang_out_and_ha.mp3"
+      },
+      {
+        "text": "Envision yourself at a urinal",
+        "character": "",
+        "audioUrl": "audio/waiting/036_envision_yourself_at_a_bathroom_urinai.mp3"
+      },
+      {
+        "text": "His eyes on my shank",
+        "character": "",
+        "audioUrl": "audio/waiting/038_every_time_i_go_to_take_a_piss_i_get_the_image_of_that_guy_s.mp3"
+      },
+      {
+        "text": "You forgot your change",
+        "character": "",
+        "audioUrl": "audio/waiting/039_excuse_me_sir_you_forgot_your_change.mp3"
+      },
+      {
+        "text": "A garnish of alfalfa sprouts",
+        "character": "",
+        "audioUrl": "audio/waiting/040_finally_a_garnish_of_aifaifa_sprouts.mp3"
+      },
+      {
+        "text": "Observe your surroundings",
+        "character": "",
+        "audioUrl": "audio/waiting/041_first_i_want_you_to_observe_very_closely_your_surroundings_t.mp3"
+      },
+      {
+        "text": "Fucking psychobabble bullshit asshole!",
+        "character": "",
+        "audioUrl": "audio/waiting/047_fucking_psychobabble_bullshit_asshole.mp3"
+      },
+      {
+        "text": "I wanna be a teacher",
+        "character": "",
+        "audioUrl": "audio/waiting/049_god_i_just_wanna_be_able_to_say_i_wanna_be_a_teacher_you_kno.mp3"
+      },
+      {
+        "text": "Home sweet home",
+        "character": "",
+        "audioUrl": "audio/waiting/053_ha_ha_ha_home_sweet_home.mp3"
+      },
+      {
+        "text": "Bowling ball grip",
+        "character": "",
+        "audioUrl": "audio/waiting/054_haley_is_so_fuckin_fine_you_know_i_be_all_up_in_that_shit_gi.mp3"
+      },
+      {
+        "text": "My name is Monty",
+        "character": "",
+        "audioUrl": "audio/waiting/056_hello_sir_my_name_is_monty_this_is_my_trainee_mitch.mp3"
+      },
+      {
+        "text": "I came to say goodbye",
+        "character": "",
+        "audioUrl": "audio/waiting/060_hey_sweetie_it_s_almost_9_00_i_just_came_to_say_good_bye.mp3"
+      },
+      {
+        "text": "Bringing your food out",
+        "character": "",
+        "audioUrl": "audio/waiting/061_hey_there_ladies_amy_s_busy_so_i_thought_i_d_bring_your_food.mp3"
+      },
+      {
+        "text": "Hurry up or your asses are fired",
+        "character": "",
+        "audioUrl": "audio/waiting/062_hurry_up_or_your_asses_are_fired.mp3"
+      },
+      {
+        "text": "Monty went over the idea",
+        "character": "",
+        "audioUrl": "audio/waiting/063_i_assume_monty_went_over_the_basic_idea_with_you_right.mp3"
+      },
+      {
+        "text": "The idea of you reproducing",
+        "character": "",
+        "audioUrl": "audio/waiting/067_i_don_t_think_i_could_handie_the_idea_of_you_reproducing.mp3"
+      },
+      {
+        "text": "I get in close",
+        "character": "",
+        "audioUrl": "audio/waiting/068_i_get_in_ciose_i_m_there_and_i_just_get.mp3"
+      },
+      {
+        "text": "You're in the driver's seat",
+        "character": "",
+        "audioUrl": "audio/waiting/071_i_mean_you_re_in_the_driver_s_seat_here_your_finger_s_on_the.mp3"
+      },
+      {
+        "text": "You ignored me all night",
+        "character": "",
+        "audioUrl": "audio/waiting/076_i_would_ve_had_a_better_time_if_somebody_hadn_t_been_ignorin.mp3"
+      },
+      {
+        "text": "After the dinner rush",
+        "character": "",
+        "audioUrl": "audio/waiting/078_i_m_gonna_come_back_and_get_you_after_the_dinner_rush_the_ta.mp3"
+      },
+      {
+        "text": "Five minutes without your genitals",
+        "character": "",
+        "audioUrl": "audio/waiting/082_if_you_guys_can_go_five_minutes_without_referencing_your_gen.mp3"
+      },
+      {
+        "text": "Don't upset the cooks",
+        "character": "",
+        "audioUrl": "audio/waiting/083_if_you_upset_the_cooks_they_re_not_gonna_care_if_your_food_s.mp3"
+      },
+      {
+        "text": "Get him to look",
+        "character": "",
+        "audioUrl": "audio/waiting/086_is_to_get_the_other_guy_to_unknowingly_look_at_your_cock_and.mp3"
+      },
+      {
+        "text": "Demented, depraved, senseless",
+        "character": "",
+        "audioUrl": "audio/waiting/089_it_s_demented_depraved_senseless.mp3"
+      },
+      {
+        "text": "Chlamydia sounds so pleasant",
+        "character": "",
+        "audioUrl": "audio/waiting/091_it_s_too_bad_chiamydia_has_to_be_a_venereal_disease_it_s_suc.mp3"
+      },
+      {
+        "text": "Just checking in",
+        "character": "",
+        "audioUrl": "audio/waiting/092_just_calling_again_just_checking_in_or_whatever.mp3"
+      },
+      {
+        "text": "Nick and T-Dog, we the illest",
+        "character": "",
+        "audioUrl": "audio/waiting/097_nick_and_t_dog_motherfucker_we_the_illest.mp3"
+      },
+      {
+        "text": "It's just Calvin callin'",
+        "character": "",
+        "audioUrl": "audio/waiting/106_oh_hey_christy_it_s_just_calvin_callin.mp3"
+      },
+      {
+        "text": "Oh, come on, baby",
+        "character": "",
+        "audioUrl": "audio/waiting/115_oh_come_on_baby.mp3"
+      },
+      {
+        "text": "Steel trap",
+        "character": "",
+        "audioUrl": "audio/waiting/116_oh_steei_trap.mp3"
+      },
+      {
+        "text": "A bit trickier",
+        "character": "",
+        "audioUrl": "audio/waiting/118_okay_it_s_a_bit_trickier_but_if_you_can_pull_it_off.mp3"
+      },
+      {
+        "text": "That covers the variations",
+        "character": "",
+        "audioUrl": "audio/waiting/119_okay_well_that_just_about_covers_all_the_different_variation.mp3"
+      },
+      {
+        "text": "Real thugs pop guns",
+        "character": "",
+        "audioUrl": "audio/waiting/126_real_thugs_pop_guns_you_steal_cable.mp3"
+      },
+      {
+        "text": "Good thing or a bad thing?",
+        "character": "",
+        "audioUrl": "audio/waiting/127_really_do_you_consider_that_a_good_thing_or_a_bad_thing.mp3"
+      },
+      {
+        "text": "Ordinary and extraordinary",
+        "character": "",
+        "audioUrl": "audio/waiting/128_remember_the_difference_between_ordinary_and_extraordinary.mp3"
+      },
+      {
+        "text": "She's a little badass",
+        "character": "",
+        "audioUrl": "audio/waiting/130_she_really_is_a_little_badass_though_and_fun_to_hang_out_wit.mp3"
+      },
+      {
+        "text": "So you've really...",
+        "character": "",
+        "audioUrl": "audio/waiting/141_so_you_ve_really.mp3"
+      },
+      {
+        "text": "Anything else this evening?",
+        "character": "",
+        "audioUrl": "audio/waiting/142_so_is_there_anything_else_i_can_get_you_folks_this_evening.mp3"
+      },
+      {
+        "text": "So what are you doing tonight?",
+        "character": "",
+        "audioUrl": "audio/waiting/143_so_what_are_you_doing_tonight.mp3"
+      },
+      {
+        "text": "Can I think about it?",
+        "character": "",
+        "audioUrl": "audio/waiting/144_sorry_dan_just_a_lot_of_things_can_i_take_a_little_while_to.mp3"
+      },
+      {
+        "text": "The constructs of my morality",
+        "character": "",
+        "audioUrl": "audio/waiting/152_that_way_if_within_the_constructs_of_my_own_morality.mp3"
+      },
+      {
+        "text": "Looking straight at my dick",
+        "character": "",
+        "audioUrl": "audio/waiting/154_the_guy_standing_next_to_me_was_looking_straight_at_my_dick.mp3"
+      },
+      {
+        "text": "Then Raddimus began working here",
+        "character": "",
+        "audioUrl": "audio/waiting/156_then_raddimus_began_working_here.mp3"
+      },
+      {
+        "text": "Masturbate while you cry",
+        "character": "",
+        "audioUrl": "audio/waiting/157_then_you_home_alone_to_masturbate_while_you_cry_using_your_o.mp3"
+      },
+      {
+        "text": "We discourage such relationships",
+        "character": "",
+        "audioUrl": "audio/waiting/166_we_strongly_discourage_such_relationships_from_forming.mp3"
+      },
+      {
+        "text": "It's your table, you decide",
+        "character": "",
+        "audioUrl": "audio/waiting/167_well_amy_it_s_your_table_you_decide.mp3"
+      },
+      {
+        "text": "I apologize for the food",
+        "character": "",
+        "audioUrl": "audio/waiting/168_well_i_apologize_for_the_food_the_last_few_times.mp3"
+      },
+      {
+        "text": "I've been working here",
+        "character": "",
+        "audioUrl": "audio/waiting/170_well_i_ve_been_working_here_obviousiy.mp3"
+      },
+      {
+        "text": "Ever worked in a restaurant?",
+        "character": "",
+        "audioUrl": "audio/waiting/173_well_mitch_first_thing_you_ever_worked_in_a_restaurant_befor.mp3"
+      },
+      {
+        "text": "What did Dan say?",
+        "character": "",
+        "audioUrl": "audio/waiting/179_what_did_dan_say_when_you_told_him_you_quit.mp3"
+      },
+      {
+        "text": "Women are attracted to confidence",
+        "character": "",
+        "audioUrl": "audio/waiting/181_what_women_are_attracted_to_is_self_confidence.mp3"
+      },
+      {
+        "text": "You ass cock!",
+        "character": "",
+        "audioUrl": "audio/waiting/182_what_what_do_you_want_get_back_to_the_training_room_you_ass.mp3"
+      },
+      {
+        "text": "Fellow employees are attractive",
+        "character": "",
+        "audioUrl": "audio/waiting/184_while_working_here_you_ll_probably_find_some_of_your_fellow.mp3"
+      },
+      {
+        "text": "There's the sass",
+        "character": "",
+        "audioUrl": "audio/waiting/188_wow_there_s_the_sass_that_i_was_missin.mp3"
+      },
+      {
+        "text": "I still don't understand, Bishop",
+        "character": "",
+        "audioUrl": "audio/waiting/190_yeah_i_still_don_t_understand_bishop.mp3"
+      },
+      {
+        "text": "You bring my goddamn gift certificates?",
+        "character": "",
+        "audioUrl": "audio/waiting/196_you_bring_my_goddamn_gift_certificates.mp3"
+      },
+      {
+        "text": "You can do it!",
+        "character": "",
+        "audioUrl": "audio/waiting/198_you_can_do_itl_do_itl.mp3"
+      },
+      {
+        "text": "You're so one-dimensional",
+        "character": "",
+        "audioUrl": "audio/waiting/203_you_guys_are_so_one_dimensionai.mp3"
+      },
+      {
+        "text": "You can count on me",
+        "character": "",
+        "audioUrl": "audio/waiting/205_you_know_what_you_can_count_on_me_sir.mp3"
+      },
+      {
+        "text": "Your sexual conquests, big stud",
+        "character": "",
+        "audioUrl": "audio/waiting/209_you_wanna_brag_about_your_sexuai_conquests_you_big_stud_you.mp3"
+      },
+      {
+        "text": "It doesn't really matter",
+        "character": "",
+        "audioUrl": "audio/waiting/217_actually_yeah_well_it_doesn_t_really_matter_anyway.mp3"
+      },
+      {
+        "text": "He has a shy bladder",
+        "character": "",
+        "audioUrl": "audio/waiting/223_fuck_you_he_has_a_shy_biadder.mp3"
+      },
+      {
+        "text": "Hi Dean, it's Mom",
+        "character": "",
+        "audioUrl": "audio/waiting/224_guess_who_hi_dean_it_s_mom_ah_shit.mp3"
+      },
+      {
+        "text": "I made about 70",
+        "character": "",
+        "audioUrl": "audio/waiting/227_i_made_about_70_86.mp3"
+      },
+      {
+        "text": "Oh, hi there",
+        "character": "",
+        "audioUrl": "audio/waiting/228_oh_hi_there.mp3"
+      },
+      {
+        "text": "Dinner is served!",
+        "character": "",
+        "audioUrl": "audio/waiting/229_put_it_away_put_it_away_dinner_is_served.mp3"
+      },
+      {
+        "text": "Yeah, sounds good. Cool.",
+        "character": "",
+        "audioUrl": "audio/waiting/236_yeah_sounds_good_cool.mp3"
+      },
+      {
+        "text": "You need therapy",
+        "character": "",
+        "audioUrl": "audio/waiting/239_you_need_therapy_hush_now.mp3"
       }
     ]
   }

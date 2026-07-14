@@ -1426,3 +1426,17 @@ shows:
       primary: "#5bc0be"         # LA teal
       accent:  "#e8a0bf"         # sunset pink
       bg:      "#07090a"         # dark
+
+  - id: waiting
+    name: "Waiting..."
+    board_url: "https://www.101soundboards.com/boards/98168-waiting-2005-soundboard"
+    status: pending
+    type: movie
+    text_style: "title"
+    preserve_transcripts: true   # curated: >=3s post-de-poison; labels cleaned
+    max_length: 9999             # keep all by word-count; duration cutoff done in curation
+    no_trim: true                # NOT poisoned despite -soundboard slug: PCM check shows speech at t=0, no chime
+    theme:
+      primary: "#d94f2b"         # Shenaniganz orange-red
+      accent:  "#f2c14e"         # diner amber
+      bg:      "#0b0806"         # dark

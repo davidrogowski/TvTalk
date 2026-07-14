@@ -314,10 +314,6 @@
   "No paper jam (windows)"
   CHARACTER: 
 
-147_yeah_exactly_what_i_need.mp3
-  "Yeah exactly what I need"
-  CHARACTER: 
-
 149_yeah_well_i_m_just_not_sure_about_that_right_now.mp3
   "Yeah well i'm just not sure about that right now"
   CHARACTER: 

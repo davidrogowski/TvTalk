@@ -671,11 +671,6 @@ const quotes = [
     "audioUrl": "audio/community/362_well_what_do_you_know_henry_david_thorough_my_oh_my_my_thai.mp3"
   },
   {
-    "text": "What a community",
-    "character": "",
-    "audioUrl": "audio/community/363_what_a_community.mp3"
-  },
-  {
     "text": "What do they want from us?",
     "character": "",
     "audioUrl": "audio/community/364_what_are_beta_earth_do_they_want_from_us_inspector_questions.mp3"

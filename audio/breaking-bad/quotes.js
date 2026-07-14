@@ -236,11 +236,6 @@ const quotes = [
     "audioUrl": "audio/breaking-bad/121_get_the_bad_guy_yeah_cause_it_s_the_eye_of_the_tiger_it_s_th.mp3"
   },
   {
-    "text": "He poisoned Brock",
-    "character": "",
-    "audioUrl": "audio/breaking-bad/122_he_a_no_show_why_didn_t_you_c_you_and_him_you_took_it_right.mp3"
-  },
-  {
     "text": "Heisenberg says relax",
     "character": "",
     "audioUrl": "audio/breaking-bad/123_heisenberg_says_relax_i_m_relaxed_i_m_relaxed_i_m_rela.mp3"

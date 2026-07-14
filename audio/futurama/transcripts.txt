@@ -34,10 +34,6 @@
   "So cute when they're scared"
   CHARACTER: 
 
-015_baby_love_child.mp3
-  "Baby love child"
-  CHARACTER: 
-
 017_bender.mp3
   "Bender"
   CHARACTER: 

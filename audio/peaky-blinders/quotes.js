@@ -201,11 +201,6 @@ const quotes = [
     "audioUrl": "audio/peaky-blinders/057_i_will_shoot_him_myself_tommy_just_teach_me_how_to_shoot_sco.mp3"
   },
   {
-    "text": "It starts when you stop",
-    "character": "",
-    "audioUrl": "audio/peaky-blinders/060_i_ve_been_to_a_doctor_on_your_behalf_it_starts_when_you_stop.mp3"
-  },
-  {
     "text": "If I die, you die",
     "character": "",
     "audioUrl": "audio/peaky-blinders/061_i_ve_made_arrangements_with_men_i_trust_if_i_should_die_then.mp3"

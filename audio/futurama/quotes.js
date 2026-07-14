@@ -46,11 +46,6 @@ const quotes = [
     "audioUrl": "audio/futurama/014_awww_they_re_so_cute_when_they_re_scared.mp3"
   },
   {
-    "text": "Baby love child",
-    "character": "",
-    "audioUrl": "audio/futurama/015_baby_love_child.mp3"
-  },
-  {
     "text": "Bender",
     "character": "",
     "audioUrl": "audio/futurama/017_bender.mp3"

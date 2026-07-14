@@ -146,11 +146,6 @@ const quotes = [
     "audioUrl": "audio/key-and-peele/077_son_of_a_bitch.mp3"
   },
   {
-    "text": "Sweating under pressure",
-    "character": "",
-    "audioUrl": "audio/key-and-peele/081_sweating_under_pressure.mp3"
-  },
-  {
     "text": "Totally not angry",
     "character": "",
     "audioUrl": "audio/key-and-peele/086_totally_not_angry.mp3"

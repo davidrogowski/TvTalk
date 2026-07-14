@@ -396,11 +396,6 @@ const quotes = [
     "audioUrl": "audio/office-space/144_why_does_it_so_different_in_windows_is_no_paper_jam_i_swear.mp3"
   },
   {
-    "text": "Yeah exactly what I need",
-    "character": "",
-    "audioUrl": "audio/office-space/147_yeah_exactly_what_i_need.mp3"
-  },
-  {
     "text": "Yeah well i'm just not sure about that right now",
     "character": "",
     "audioUrl": "audio/office-space/149_yeah_well_i_m_just_not_sure_about_that_right_now.mp3"

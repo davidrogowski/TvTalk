@@ -542,10 +542,6 @@
   "They're real and they're spectacular"
   CHARACTER: 
 
-299_toilet_paper_elaine.mp3
-  "Toilet paper Elaine"
-  CHARACTER: 
-
 300_tried_to_be_nice.mp3
   "Tried to be nice"
   CHARACTER: 

@@ -6,10 +6,6 @@
   "Alone"
   CHARACTER: 
 
-007_angry.mp3
-  "Angry"
-  CHARACTER: 
-
 008_anton_is_really_starting_to_sweat.mp3
   "Anton is really starting to sweat"
   CHARACTER: 

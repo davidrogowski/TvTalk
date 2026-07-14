@@ -11,11 +11,6 @@ const quotes = [
     "audioUrl": "audio/silicon-valley/003_alone.mp3"
   },
   {
-    "text": "Angry",
-    "character": "",
-    "audioUrl": "audio/silicon-valley/007_angry.mp3"
-  },
-  {
     "text": "Anton is really starting to sweat",
     "character": "",
     "audioUrl": "audio/silicon-valley/008_anton_is_really_starting_to_sweat.mp3"

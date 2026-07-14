@@ -534,10 +534,6 @@
   "Henry David Thoreau"
   CHARACTER: 
 
-363_what_a_community.mp3
-  "What a community"
-  CHARACTER: 
-
 364_what_are_beta_earth_do_they_want_from_us_inspector_questions.mp3
   "What do they want from us?"
   CHARACTER: 

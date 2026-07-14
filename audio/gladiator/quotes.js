@@ -106,11 +106,6 @@ const quotes = [
     "audioUrl": "audio/gladiator/303_for_25_years_i_have_conquered_spilt_blood_expanded_the_empir.mp3"
   },
   {
-    "text": "Good morning to you",
-    "character": "",
-    "audioUrl": "audio/gladiator/348_good_morning_to_you.mp3"
-  },
-  {
     "text": "You have missed the war",
     "character": "",
     "audioUrl": "audio/gladiator/371_have_i_missed_it_have_i_missed_the_battle_you_have_missed_th.mp3"

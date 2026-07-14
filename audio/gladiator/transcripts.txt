@@ -82,10 +82,6 @@
   "Four years of peace"
   CHARACTER: 
 
-348_good_morning_to_you.mp3
-  "Good morning to you"
-  CHARACTER: 
-
 371_have_i_missed_it_have_i_missed_the_battle_you_have_missed_th.mp3
   "You have missed the war"
   CHARACTER: 

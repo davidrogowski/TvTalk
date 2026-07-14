@@ -681,11 +681,6 @@ const quotes = [
     "audioUrl": "audio/seinfeld/293_they_re_real_and_they_re_spectacular.mp3"
   },
   {
-    "text": "Toilet paper Elaine",
-    "character": "",
-    "audioUrl": "audio/seinfeld/299_toilet_paper_elaine.mp3"
-  },
-  {
     "text": "Tried to be nice",
     "character": "",
     "audioUrl": "audio/seinfeld/300_tried_to_be_nice.mp3"

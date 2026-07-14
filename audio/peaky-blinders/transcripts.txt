@@ -158,10 +158,6 @@
   "Just point and pull the trigger"
   CHARACTER: 
 
-060_i_ve_been_to_a_doctor_on_your_behalf_it_starts_when_you_stop.mp3
-  "It starts when you stop"
-  CHARACTER: 
-
 061_i_ve_made_arrangements_with_men_i_trust_if_i_should_die_then.mp3
   "If I die, you die"
   CHARACTER: 

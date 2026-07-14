@@ -186,10 +186,6 @@
   "Eye of the tiger"
   CHARACTER: 
 
-122_he_a_no_show_why_didn_t_you_c_you_and_him_you_took_it_right.mp3
-  "He poisoned Brock"
-  CHARACTER: 
-
 123_heisenberg_says_relax_i_m_relaxed_i_m_relaxed_i_m_rela.mp3
   "Heisenberg says relax"
   CHARACTER: 

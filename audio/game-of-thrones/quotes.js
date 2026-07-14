@@ -66,11 +66,6 @@ const quotes = [
     "audioUrl": "audio/game-of-thrones/015_arya_sailing_away.mp3"
   },
   {
-    "text": "Arya vs",
-    "character": "",
-    "audioUrl": "audio/game-of-thrones/016_arya_vs.mp3"
-  },
-  {
     "text": "Battle of the Bastards",
     "character": "",
     "audioUrl": "audio/game-of-thrones/017_battle_of_the_bastards.mp3"
